@@ -1,7 +1,7 @@
 {
   "perl"          : "6.*",
   "name"          : "Intl::CLDR",
-  "version"       : "0.1",
+  "version"       : "0.2",
   "api"           : 1,
   "description"   : "A module for all the international stuff you could ever need in Perl 6, via the Unicode CLDR",
   "authors"       : ["Matthew ‘Matéu’ Stephen STUCKWISCH <mateu@softastur.com>"],
@@ -10,9 +10,11 @@
   "depends"       : [ "Intl::BCP47", "Intl::UserLanguage" ],
   "build-depends" : [ ],
   "test-depends"  : [ ],
-  "resources"     : [ "ListFormatting.data" ],
+  "resources"     : [ "ListFormatting.data", "PluralLogic.data" ],
   "provides"      : {
-    "Intl::CLDR::Lists" : "lib/Intl/CLDR/Lists.pm6"
+    "Intl::CLDR::Lists"            : "lib/Intl/CLDR/Lists.pm6",
+    "Intl::CLDR::Plurals"          : "lib/Intl/CLDR/Plurals.pm6",
+    "Intl::CLDR::Plurals::Classes" : "lib/Intl/CLDR/Plurals/Classes.pm6"
   },
   "tags"          : [
     "Formatting", "Language", "Lists", "Localization", "Locale", "International", "Internationalization"

@@ -49,6 +49,9 @@ language preferences, and ultimately falls back to English if no better match
 can be found.
 
 # Version History
+  * 0.2.0  
+    * Added support for cardinal plural count.
+      * Ordinal *should* be working but there's a bug somewhere
   * 0.1.0  
     * First working version.  Support for list formatting.  
 

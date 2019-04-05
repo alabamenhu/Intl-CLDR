@@ -4,6 +4,8 @@ An attempt to bring in the data from CLDR into Perl 6.  Support is extremely
 early, and currently only brings in support for one bit of CLDR data:
 list formatting.   To use:
 
+## Lists
+
 ```perl6
     use Intl::CLDR::Lists;
     say format-list(<apple orange banana>);           # apple, orange, and banana
@@ -47,6 +49,24 @@ You may optionally pass a list of languages to be processed using `:language`
 If no language is specified, uses `UserLanguage` to get the user's default
 language preferences, and ultimately falls back to English if no better match
 can be found.
+
+## Plurals
+
+```perl6
+    use Intl::CLDR::Plurals;
+    say plural-count(0, "en"); # other
+    say plural-count(1, "en"); # one
+    say plural-count(2, "en"); # other
+```
+
+There are six possible responses that can be retrieved from the `plural-count`
+method: **zero**, **one**, **two**, **few**, **many**, **other**.  Most languages
+support *one* and *other*, but some will only ever return *other* because they
+do not have numeric concord.  Other more complicated ones will use all of the
+ones listed.  The logic is unique to each language and will be done by
+the localizer, but will be fairly opaque to the programmer and should not generally 
+be used upon outside of localization frameworks.
+
 
 # Version History
   * 0.2.0  

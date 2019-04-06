@@ -64,11 +64,62 @@ method: **zero**, **one**, **two**, **few**, **many**, **other**.  Most language
 support *one* and *other*, but some will only ever return *other* because they
 do not have numeric concord.  Other more complicated ones will use all of the
 ones listed.  The logic is unique to each language and will be done by
-the localizer, but will be fairly opaque to the programmer and should not generally 
+the localizer, but will be fairly opaque to the programmer and should not generally
 be used upon outside of localization frameworks.
 
+## Numbers
+
+Currently in development but not available.  Formats numbers according to the
+given locale, with overriding options available for localizers/programmers.
+
+## NumberSystems
+
+Some of the algorithmic systems may be eventually spun off into different modules
+because they *technically* are not defined in CLDR, just referenced.  There is
+no generalized method of converting numbers yet, but I imagine the syntax will
+be something like
+```perl6
+use Intl::CLDR::Numbers;
+format-number(63, :system<ge'ez>); # ፷፫
+format-number(35, :system<roman>); # XXXV
+```
+Different systems may have different options as well.  For right now, you can
+play around with the implemented systems by using their specific modules:
+
+```perl6
+use Intl::CLDR::NumberSystems::Ge'ez;
+ge'ez-numeral(48253683); # ፵፰፻፳፭፼፴፮፻፹፫
+use Intl::CLDR::NumberSystems::Roman;
+roman-numeral(168);                  # CLXVIII
+roman-numeral(168) :j;               # CLXVIIJ (used often in medieval times)
+roman-numeral(44) :additive<all>;    # XXXXIIII (most traditional)
+roman-numeral(44) :additive<single>; # XLIIII (used longer)
+roman-numeral(44) :additive<none>;   # XLIV, default (shouldn't be, but it's what
+                                     # people today expect)
+```
+
+I haven't yet decided how best to handle numbers that can't be represented in
+a given system.  Many of the older numbering systems do not allow for fractional
+(less than one) values.  At the moment, these are `floor`ed and then converted.
+
+Some options:
+
+ * **`:fractional`** enables fraction approximation (to the 1/1728) for Roman
+ numerals.  These don't case well, so a casing option may be needed in the future.
+ * **`:j`** enables terminal *J* instead of *I* in Roman numerals.  These were used
+frequently in medieval times.
+ * **`:additive`** adjusts the properties for converting 4 and 9.  The allowed
+ values are `all` (traditional, 4 is IIII, 9 is VIII, 40 is XXXX, etc), `small`
+ (only 4 and 9 are added) or `none` (default, which it shouldn't be but it's
+ what people today expect)
+ * **`:large`** enables (preliminary) support for numbers larger than 3999 (or
+   4999 if `:additive<all>`).  Because there were many ways of doing this,
+   there are probably more options than necessary.  Defaults to False.
 
 # Version History
+  * 0.2.1
+  * Added support for Ge'ez numerals.  
+  * Added support for Roman numerals.  
   * 0.2.0  
     * Added support for cardinal plural count.
       * Ordinal *should* be working but there's a bug somewhere

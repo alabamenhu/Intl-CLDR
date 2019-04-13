@@ -69,8 +69,20 @@ be used upon outside of localization frameworks.
 
 ## Numbers
 
-Currently in development but not available.  Formats numbers according to the
-given locale, with overriding options available for localizers/programmers.
+Currently only decimal formatting is supported, although percentage / scientific /
+currency formatting will be soon supported.  If the language tag includes any
+`-u` subtags they will not honored presently, but such support is planned.
+**WARNING** the interface is not stable yet and may change.
+
+```perl6
+use Intl::CLDR::Numbers;
+format-decimal($number);
+```
+
+There are a few different options for the formatting:
+
+  * **:language**  
+  A BCP47 compliant language tag or `LanguageTag` object.  
 
 ## NumberSystems
 

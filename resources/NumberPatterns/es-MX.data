@@ -1,0 +1,13 @@
+decimal:latn:short:1000:other:38
+decimal:latn:short:1000:one:38
+decimal:latn:short:10000:one:41
+decimal:latn:short:10000:other:41
+decimal:latn:short:10000000000:one:65
+decimal:latn:short:10000000000:other:65
+decimal:latn:short:1000000000:one:72
+decimal:latn:short:1000000000:other:72
+decimal:latn:short:100000000000:other:71
+decimal:latn:short:100000000000:one:71
+decimal:latn:short:100000:one:30
+decimal:latn:short:100000:other:30
+decimal:latn:long:1000000000000:other:78

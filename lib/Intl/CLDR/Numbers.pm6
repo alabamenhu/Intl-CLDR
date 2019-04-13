@@ -129,10 +129,12 @@ sub get-number-pattern(
     # but for a very few, three may be used.
     # TODO I know there is better logic here to avoid reloading
     if %pattern-db{$alt-language}:!exists {
-      if %?RESOURCES{"NumberPatterns/{$alt-language}.data"}:e {
-        load-patterns($alt-language);
-      }else {
-        next LANGUAGE;
+      quietly { # The .extension test will generate a warning
+        if %?RESOURCES{"NumberPatterns/{$alt-language}.data"}.extension { # this is the quick way to test to see if the file exists
+          load-patterns($alt-language);
+        }else{
+          next LANGUAGE
+        }
       }
     }
 
@@ -215,7 +217,7 @@ sub get-number-pattern(
 
 
 sub load-patterns($language) {
-  for "../../../resources/NumberPatterns/{$language}.data".IO.lines {
+  for %?RESOURCES{"NumberPatterns/{$language}.data"}.lines {
     given .split(":",6) {
       #                     formatsystemlength type  count            pattern id
       %pattern-db{$language}{.[0]}{.[1]}{.[2]}{.[3]}{.[4]} := @patterns[.[5]];

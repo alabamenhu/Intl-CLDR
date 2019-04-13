@@ -69,20 +69,57 @@ be used upon outside of localization frameworks.
 
 ## Numbers
 
-Currently only decimal formatting is supported, although percentage / scientific /
-currency formatting will be soon supported.  If the language tag includes any
-`-u` subtags they will not honored presently, but such support is planned.
-**WARNING** the interface is not stable yet and may change.
+Easy to use number formatter.  
 
 ```perl6
 use Intl::CLDR::Numbers;
 format-decimal($number);
 ```
 
-There are a few different options for the formatting:
+There are several modes of formatting currently supported beyond the standard
+decimal, which can be activated adverbially
+
+  * **:percent**  
+  Multiplies by 100 and displays using a percentage sign.
+  * **:scientific**  
+  Uses exponential formatting, so 2019 would be 2.019E3.
+  * **:engineering**  
+  Uses exponential formatting, but limits the exponential values to powers of 3.
+  * **:short**
+  Uses extremely compact forms for numbers over 1000.  For example, 2019 is 2K,
+  and 123456789 is 123M.
+  * **:long**  
+  Same as :short, but spells out the rounded number.  2019 is *2 thousand*, and
+  123456789 is *123 million*.  Falls back to `:short` if there is no CLDR data
+  for the given language.
+
+There are also few different options for the formatting:
 
   * **:language**  
-  A BCP47 compliant language tag or `LanguageTag` object.  
+  A BCP47 compliant language tag or `LanguageTag` object.  If you pass a number
+  system via the `-u` tag it is not currently respected.
+  * **:pattern**  
+  A number formatting pattern.  Its format is too complex to describe here, but
+  there is a decent description in the [TR35 standard](https://unicode.org/reports/tr35/tr35-numbers.html#Number_Format_Patterns).
+  Using this will not override the symbols used by the chosen language.
+  * **:system**  
+  Change the default numbering system which affects the symbols used and the
+  digits employed.  Most languages only support a single system,
+  but some may support two or three if they use several traditionally.  If a
+  system isn't supported, falls back to the default system for symbols, but
+  will employee the correct digits.  So for English, `format-number(1234235, :system<nkoo>)` returns
+  *߁,߂߃߄,߂߃߅*.   
+  * **:symbols**  
+  Defines the symbols to use for formatting (the decimal indicator, etc).
+  Currently has a not-easy-to-use format which will be simplified in the future.
+  * **:count**  
+  Some of the formats for numbers may change based on the exact number they have.
+  If passed, this setting is respected, but plural rules are not *currently*
+  respected though that will change in the future.  Valid values are those
+  from `Intl::CLDR::Plurals` (*zero, one, two, few, many, other*).
+
+While formatting should be fine when using default options, if you try to get
+fancy, things may currently break until I can better handle certain edge cases.
 
 ## NumberSystems
 

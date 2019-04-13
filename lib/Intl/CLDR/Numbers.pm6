@@ -144,8 +144,8 @@ sub get-number-pattern(
     for @formats-to-try -> $alt-format {
 
       my @systems-to-try = $system eq get-default-number-system($language)
-                            ?? ($system,get-default-number-system($language))
-                            !! ($system,);
+                            ?? ($system,)
+                            !! ($system,get-default-number-system($language));
 
 
       SYSTEM:

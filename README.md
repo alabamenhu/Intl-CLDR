@@ -121,6 +121,38 @@ There are also few different options for the formatting:
 While formatting should be fine when using default options, if you try to get
 fancy, things may currently break until I can better handle certain edge cases.
 
+Lastly, there is some preliminary support for localized number mining.  While
+we all have used `\d+` to try to find numbers, now you can use a localized
+number token in your grammars.  Here's a quick example:
+
+```perl6
+use Intl::CLDR::Numbers;
+grammar CleanupNoise does NumberFinder {
+  token TOP (%*symbols) {             # ⬅︎ this exactly named dynamic variable required
+    <noise> <localized-number> <noise>
+    { make $<localized-number>.made } # ⬅︎ best if placed in an action class
+  }
+  token noise { <[a..zA..Z]>* }
+}
+my %symbols = number-finder-symbols('en','latn'); # ⬅︎ insert favorite language and system
+say CleanupNoise.parse("asdasd1.2345E3ewreyrhhb", :args(\(%symbols))).made
+# ↪︎ 1234.5  (it extracted 1.2345E3, or 1.2345 x 10³)
+```
+
+This is unfortunately not as straightforward as formatting numbers, but it's
+not too bad.  When you create your grammar, give it the NumberFinder role (**warning**:
+name may change).  This allows you to use the `<localized-number>` token.
+The role is ignorant of the locale data (obtained through `number-finder-symbols($language,$decimal-system)`),
+though, and it gets this through the
+dynamic variable **`%*symbols`**.  The easiest way is to pass it along with
+whatever other variables your `TOP` method needs, but in the signature declare it
+as dynamic.  The `.made` for the `<localized-number>` token contains a number value.
+In the future, I may attach additional information (for example, if it was exponential,
+number of digits if zero-padded, etc) through mixins.  
+
+I'm happy and open to suggestions on ways to more cleanly integrate the number
+searching into regexes/grammars.
+
 ## NumberSystems
 
 Some of the algorithmic systems may be eventually spun off into different modules
@@ -166,9 +198,12 @@ frequently in medieval times.
    there are probably more options than necessary.  Defaults to False.
 
 # Version History
+  * 0.3.0
+    * Added support for formatting numbers of all types in the CLDR except for currency.
+    * Added preliminary support for finding localized numbers in grammars.
   * 0.2.1
-  * Added support for Ge'ez numerals.  
-  * Added support for Roman numerals.  
+    * Added preliminary support for Ge'ez numerals.  
+    * Added preliminary support for Roman numerals.  
   * 0.2.0  
     * Added support for cardinal plural count.
       * Ordinal *should* be working but there's a bug somewhere

@@ -35,7 +35,7 @@ class SymbolSet is export {
     return %(
     '.' => $!decimal,   '-' => $!minus-sign,   'E' => $!exponential,
     '+' => $!plus-sign, '%' => $!percent-sign, '‰' => $!per-mille,
-    '¤' => '¤', # This technically shouldn't be here, TODO rework to remove
+    ',' => $!group,     '¤' => '¤', # This technically shouldn't be here, TODO rework to remove
     '∞' => $!infinity,  ':' => $!time-separator, nan => $!nan,
     "×" => $!superscripting-exponent
     )

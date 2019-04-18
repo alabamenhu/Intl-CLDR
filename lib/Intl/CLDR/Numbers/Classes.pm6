@@ -45,14 +45,16 @@ class SymbolSet is export {
 class LazyFormat is export {
   has Str $.pattern;
   has $!formatted = False;
-  has %!format;
+  has %!negative;
+  has %!positive;
   method new (Str $pattern) { self.bless(:$pattern) }
   method format() {
-    if $!formatted {
-      %!format
-    }else {
+    unless $!formatted {
       $!formatted = True;
-      %!format = parse-pattern($.pattern)
+      my %format = parse-pattern($.pattern);
+      %!positive = %format<positive>;
+      %!negative = %format<negative>;
     }
+    return %(positive => %!positive.deepmap(*.clone), negative => %!negative.deepmap(*.clone));
   }
 }

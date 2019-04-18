@@ -49,7 +49,7 @@ sub format-number(
     :$pattern is copy = False
     ) is export {
 
-  unless $pattern {
+  without $pattern {
     $pattern = get-number-pattern(
       $language, :$system, :$count,
       :length($scientific || $percent || (!$short && !$long)
@@ -110,7 +110,7 @@ sub get-number-pattern(
   :$length = 'standard',
   :$type   = 'standard',
   :$format = 'decimal'
-) {
+) is export {
   return %pattern-db{$language}{$format}{$system}{$length}{$type}{$count}
       if %pattern-db{$language}{$format}{$system}{$length}{$type}{$count}:exists;
   # If a requested combination reaches this point, there is a high probability
@@ -225,10 +225,10 @@ sub load-patterns($language) {
   }
 }
 
-multi sub get-numeric-symbols( 'root', :$system = "latn") {
+multi sub get-numeric-symbols( 'root', :$system = "latn") is export {
   %numeric-systems<root>{$system}
 }
-multi sub get-numeric-symbols(Str() $language, :$system = "") {
+multi sub get-numeric-symbols(Str() $language, :$system = "") is export  {
   # TODO if the language tag includes a -u subtag that indicates numeric system
   # then :$system should be ignored.
 
@@ -271,7 +271,7 @@ multi sub get-numeric-symbols(Str() $language, :$system = "") {
   %numeric-systems{$language}{$system} := %numeric-systems{$alt-language}{$alt-system};
 }
 
-sub get-default-number-system($language) {
+sub get-default-number-system($language)  is export  {
   return %default-systems{$language} if %default-systems{$language}:exists;
   my @subtags = $language.Str.split(':');
   while @subtags {

@@ -316,7 +316,6 @@ sub format-decimal ($number, $pattern, %symbols, $system) is export {
     %p := $pattern{$sign};
   }
 
-
 	my $string = $number.abs.Str;
 
   if %p<minimum-exponent-digits> > 0 {
@@ -358,7 +357,7 @@ sub format-decimal ($number, $pattern, %symbols, $system) is export {
       }
       $string = $integer ~ '.' ~ $fraction;
     } else { # no fraction
-      $string = $integer;
+      $string = $integer ~ ('.' ~ ('0' x %p<minimum-fraction-digits>) if %p<minimum-fraction-digits>)
     }
   }
 

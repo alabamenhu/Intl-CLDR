@@ -1,0 +1,1359 @@
+unitsnarrowunitlength-centimeterpatternother{0} cm
+unitsnarrowunitlength-centimeterdisplayNamecm
+unitsnarrowunitmass-gramdisplayNameg
+unitsnarrowunitmass-grampatternother{0} g
+unitsnarrowunitvolume-literpatternother{0}l
+unitsnarrowunitvolume-literdisplayNamel
+unitsnarrowunitduration-hourpatternother{0}h
+unitsnarrowunitduration-hourdisplayNameh
+unitsnarrowunitlength-millimeterpatternother{0} mm
+unitsnarrowunitlength-millimeterdisplayNamemm
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} km/h
+unitsnarrowunitduration-yearpatternother{0}a
+unitsnarrowunitduration-yeardisplayNamea
+unitsnarrowunitduration-monthdisplayNameM.
+unitsnarrowunitduration-monthpatternother{0}M.
+unitsnarrowunitduration-weekdisplayNameW.
+unitsnarrowunitduration-weekpatternother{0}W.
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunitlength-kilometerdisplayNamekm
+unitsnarrowunitlength-kilometerpatternother{0} km
+unitsnarrowunitmass-kilogramdisplayNamekg
+unitsnarrowunitmass-kilogrampatternother{0} kg
+unitsnarrowunitlength-meterdisplayNamem
+unitsnarrowunitlength-meterpatternother{0} m
+unitsnarrowunitduration-minutepatternother{0}min
+unitsnarrowunitduration-minutedisplayNamemin
+unitsnarrowunitduration-millisecondpatternother{0}ms
+unitsnarrowunitduration-milliseconddisplayNamems
+unitsnarrowunitduration-daypatternother{0}d
+unitsnarrowunitduration-daydisplayNamed
+unitsnarrowunitduration-secondpatternother{0}s
+unitsnarrowunitduration-seconddisplayNames
+unitslongunitlength-meterpatternother{0} Meter
+unitslongunitlength-meterdisplayNameMeters
+unitslongunitmass-kilogrampatternother{0} Kilogramm
+unitslongunitmass-kilogramdisplayNameKilogramm
+unitslongunitduration-milliseconddisplayNameMillisekunnen
+unitslongunitduration-millisecondpatternother{0} Millisekunnen
+unitslongunitduration-minutepatternother{0} Minuten
+unitslongunitduration-minutedisplayNameMinuten
+unitslongunitduration-daydisplayNameDaag
+unitslongunitduration-daypatternother{0} Daag
+unitslongunitduration-secondpatternother{0} Sekunnen
+unitslongunitduration-seconddisplayNameSekunnen
+unitslongunitlength-centimeterdisplayNameZentimeters
+unitslongunitlength-centimeterpatternother{0} Zentimeter
+unitslongunitmass-grampatternother{0} Gramm
+unitslongunitmass-gramdisplayNameGramm
+unitslongunitvolume-literpatternother{0} Liter
+unitslongunitvolume-literdisplayNameLiters
+unitslongunitduration-hourpatternother{0} Stünnen
+unitslongunitduration-hourdisplayNameStünnen
+unitslongunitspeed-kilometer-per-hourdisplayNameKilometers per Stünn
+unitslongunitspeed-kilometer-per-hourpatternother{0} Kilometer per Stünn
+unitslongunitlength-millimeterpatternother{0} Millimeter
+unitslongunitlength-millimeterdisplayNameMillimeters
+unitslongunitduration-yeardisplayNameJohr
+unitslongunitduration-yearpatternother{0} Johren
+unitslongunitduration-monthdisplayNameMaanden
+unitslongunitduration-monthpatternother{0} Maanden
+unitslongunitlength-kilometerdisplayNameKilometers
+unitslongunitlength-kilometerpatternother{0} Kilometer
+unitslongunittemperature-celsiuspatternother{0} Graad Celsius
+unitslongunittemperature-celsiusdisplayNameGraad Celsius
+unitslongunitduration-weekdisplayNameWeken
+unitslongunitduration-weekpatternother{0} Weken
+unitsshortunittemperature-celsiusdisplayName°Cels.
+unitsshortunittemperature-celsiuspatternother{0}°Cels.
+unitsshortunitlength-kilometerpatternother{0} km
+unitsshortunitlength-kilometerdisplayNamekm
+unitsshortunitduration-weekpatternother{0} Wk.
+unitsshortunitduration-weekdisplayNameWk.
+unitsshortunitspeed-kilometer-per-hourpatternother{0} km/h
+unitsshortunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsshortunitlength-millimeterpatternother{0} mm
+unitsshortunitlength-millimeterdisplayNamemm
+unitsshortunitduration-yearpatternother{0} J.
+unitsshortunitduration-yeardisplayNameJ.
+unitsshortunitduration-monthdisplayNameMnd.
+unitsshortunitduration-monthpatternother{0} Mnd.
+unitsshortunitduration-hourdisplayNameStn.
+unitsshortunitduration-hourpatternother{0} Stn.
+unitsshortunitvolume-literpatternother{0} L
+unitsshortunitvolume-literdisplayNameL
+unitsshortunitmass-grampatternother{0} Gramm
+unitsshortunitmass-gramdisplayNameGramm
+unitsshortunitlength-centimeterdisplayNamecm
+unitsshortunitlength-centimeterpatternother{0} cm
+unitsshortunitduration-seconddisplayNameSek.
+unitsshortunitduration-secondpatternother{0} Sek.
+unitsshortunitmass-kilogrampatternother{0} kg
+unitsshortunitmass-kilogramdisplayNamekg
+unitsshortunitduration-millisecondpatternother{0} ms
+unitsshortunitduration-milliseconddisplayNamems
+unitsshortunitlength-meterdisplayNamem
+unitsshortunitlength-meterpatternother{0} m
+unitsshortunitduration-minutedisplayNameMin.
+unitsshortunitduration-minutepatternother{0} Min.
+unitsshortunitduration-daydisplayNameDg.
+unitsshortunitduration-daypatternother{0} Dg.
+delimitersquotationEnd“
+delimitersalternateQuotationStart‚
+delimitersquotationStart„
+delimitersalternateQuotationEnd‘
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdefaultNumberingSystemstandardlatn
+numbersscientificFormatslatnstandardstandard#E0
+numberscurrencyFormatslatnstandardstandard#,##0.00 ¤
+numberspercentFormatslatnstandardstandard#,##0 %
+numberscurrenciesSEKstandardSEK
+numberscurrenciesTHBstandard฿
+numberscurrenciesTHBnarrow฿
+numberscurrenciesKRWstandard₩
+numberscurrenciesKRWnarrow₩
+numberscurrenciesSARstandardSAR
+numberscurrenciesCHFstandardCHF
+numberscurrenciesGBPnarrow£
+numberscurrenciesGBPstandard£
+numberscurrenciesCADstandardCA$
+numberscurrenciesCADnarrow$
+numberscurrenciesAUDnarrow$
+numberscurrenciesAUDstandardAU$
+numberscurrenciesZARstandardZAR
+numberscurrenciesHKDstandardHK$
+numberscurrenciesHKDnarrow$
+numberscurrenciesUSDstandard$
+numberscurrenciesUSDnarrow$
+numberscurrenciesTWDnarrowNT$
+numberscurrenciesTWDstandardNT$
+numberscurrenciesNOKstandardNOK
+numberscurrenciesTRYstandardTRY
+numberscurrenciesTRYnarrow₺
+numberscurrenciesEURstandard€
+numberscurrenciesEURnarrow€
+numberscurrenciesMXNstandardMX$
+numberscurrenciesMXNnarrow$
+numberscurrenciesDKKstandardDKK
+numberscurrenciesBRLstandardR$
+numberscurrenciesBRLnarrowR$
+numberscurrenciesPLNstandardPLN
+numberscurrenciesINRstandard₹
+numberscurrenciesINRnarrow₹
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesCNYnarrow¥
+numberscurrenciesIDRstandardIDR
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesRUBstandardRUB
+numbersotherNumberingSystemsnativelatn
+numberssymbolslatnplusSign+
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal,
+numberssymbolslatnlist;
+numberssymbolslatngroup.
+numberssymbolslatnexponentialE
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+listPatternsstandard2{0} un {1}
+listPatternsstandardend{0} un {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandardstart{0}, {1}
+calendarsgregorianeraseraAbbr0v.u.T.
+calendarsgregorianeraseraAbbr1b.u.T.
+calendarsgregorianeraseraNames0vör uns Tiet
+calendarsgregorianeraseraNames1binnen uns Tiet
+calendarsgregorianeraseraNarrow0vuT
+calendarsgregorianeraseraNarrow1buT
+calendarsgregorianappendItemsTimezone{0} ({1})
+calendarsgregorianavailableFormatsEhmE, 'Kl'. h.mm a
+calendarsgregorianavailableFormatsEHmsE, 'Kl'. HH.mm:ss
+calendarsgregorianavailableFormatsMMMEdE, d. MMM
+calendarsgregorianavailableFormatsEHmE, 'Kl'. HH.mm
+calendarsgregorianavailableFormatsyMMM/y
+calendarsgregorianavailableFormatshm'Kl'. h.mm a
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyMMMdd. MMM y G
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsmsm:ss
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsh'Klock' h a
+calendarsgregorianavailableFormatsMEdE, d. M.
+calendarsgregorianavailableFormatshms'Klock' h.mm:ss a
+calendarsgregorianavailableFormatsyMdd.M.y
+calendarsgregorianavailableFormatsMMMdd. MMM
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsyMEdE, d.M.y
+calendarsgregorianavailableFormatsMdd. M.
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsH'Klock' H
+calendarsgregorianavailableFormatsEhmsE, 'Kl'. h.mm:ss a
+calendarsgregorianavailableFormatsyMMMdd. MMM y
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsHms'Klock' H.mm:ss
+calendarsgregorianavailableFormatsyMMMEdE, d. MMM y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsEdE d.
+calendarsgregorianavailableFormatsHm'Kl'. H.mm
+calendarsgregorianavailableFormatsGyMMMEdE, d. MMM y G
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsdd.
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow6J
+calendarsgregorianmonthsstand-alonenarrow4A
+calendarsgregorianmonthsstand-alonenarrow1J
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow8A
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow12D
+calendarsgregorianmonthsstand-alonenarrow7J
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonenarrow10O
+calendarsgregorianmonthsstand-alonewide7Juli
+calendarsgregorianmonthsstand-alonewide12Dezember
+calendarsgregorianmonthsstand-alonewide11November
+calendarsgregorianmonthsstand-alonewide3März
+calendarsgregorianmonthsstand-alonewide10Oktover
+calendarsgregorianmonthsstand-alonewide9September
+calendarsgregorianmonthsstand-alonewide6Juni
+calendarsgregorianmonthsstand-alonewide4April
+calendarsgregorianmonthsstand-alonewide1Januaar
+calendarsgregorianmonthsstand-alonewide5Mai
+calendarsgregorianmonthsstand-alonewide2Februaar
+calendarsgregorianmonthsstand-alonewide8August
+calendarsgregorianmonthsstand-aloneabbreviated3März
+calendarsgregorianmonthsstand-aloneabbreviated11Nov.
+calendarsgregorianmonthsstand-aloneabbreviated12Dez.
+calendarsgregorianmonthsstand-aloneabbreviated7Juli
+calendarsgregorianmonthsstand-aloneabbreviated10Okt.
+calendarsgregorianmonthsstand-aloneabbreviated1Jan.
+calendarsgregorianmonthsstand-aloneabbreviated6Juni
+calendarsgregorianmonthsstand-aloneabbreviated4Apr.
+calendarsgregorianmonthsstand-aloneabbreviated9Sep.
+calendarsgregorianmonthsstand-aloneabbreviated8Aug.
+calendarsgregorianmonthsstand-aloneabbreviated2Feb.
+calendarsgregorianmonthsstand-aloneabbreviated5Mai
+calendarsgregorianmonthsformatwide2Februaar
+calendarsgregorianmonthsformatwide8August
+calendarsgregorianmonthsformatwide5Mai
+calendarsgregorianmonthsformatwide1Januaar
+calendarsgregorianmonthsformatwide6Juni
+calendarsgregorianmonthsformatwide4April
+calendarsgregorianmonthsformatwide9September
+calendarsgregorianmonthsformatwide10Oktover
+calendarsgregorianmonthsformatwide3März
+calendarsgregorianmonthsformatwide7Juli
+calendarsgregorianmonthsformatwide12Dezember
+calendarsgregorianmonthsformatwide11November
+calendarsgregorianmonthsformatabbreviated10Okt.
+calendarsgregorianmonthsformatabbreviated3März
+calendarsgregorianmonthsformatabbreviated12Dez.
+calendarsgregorianmonthsformatabbreviated7Juli
+calendarsgregorianmonthsformatabbreviated11Nov.
+calendarsgregorianmonthsformatabbreviated2Feb.
+calendarsgregorianmonthsformatabbreviated8Aug.
+calendarsgregorianmonthsformatabbreviated5Mai
+calendarsgregorianmonthsformatabbreviated6Juni
+calendarsgregorianmonthsformatabbreviated4Apr.
+calendarsgregorianmonthsformatabbreviated1Jan.
+calendarsgregorianmonthsformatabbreviated9Sep.
+calendarsgregorianmonthsformatnarrow10O
+calendarsgregorianmonthsformatnarrow3M
+calendarsgregorianmonthsformatnarrow7J
+calendarsgregorianmonthsformatnarrow12D
+calendarsgregorianmonthsformatnarrow11N
+calendarsgregorianmonthsformatnarrow8A
+calendarsgregorianmonthsformatnarrow2F
+calendarsgregorianmonthsformatnarrow5M
+calendarsgregorianmonthsformatnarrow6J
+calendarsgregorianmonthsformatnarrow1J
+calendarsgregorianmonthsformatnarrow4A
+calendarsgregorianmonthsformatnarrow9S
+calendarsgregoriantimeFormatsfullstandard'Klock' H.mm:ss (zzzz)
+calendarsgregoriantimeFormatsshortstandard'Kl'. H.mm
+calendarsgregoriantimeFormatslongstandard'Klock' H.mm:ss (z)
+calendarsgregoriantimeFormatsmediumstandard'Klock' H.mm:ss
+calendarsgregorianintervalFormatsMMMdMd. MMM – d. MMM
+calendarsgregorianintervalFormatsMMMddd.–d. MMM
+calendarsgregorianintervalFormatsyMddd.–d.M.y
+calendarsgregorianintervalFormatsyMdMd.M.–d.M.y
+calendarsgregorianintervalFormatsyMdyd.M.y – d.M.y
+calendarsgregorianintervalFormatsyMEddE, d. – E, d.M.y
+calendarsgregorianintervalFormatsyMEdME, d.M. – E, d.M.y
+calendarsgregorianintervalFormatsyMEdyE, d.M.y – E, d.M.y
+calendarsgregorianintervalFormatsMMMMLLL – LLL
+calendarsgregorianintervalFormatsMdMd.M.–d.M.
+calendarsgregorianintervalFormatsMddd.M.–d.M.
+calendarsgregorianintervalFormatsHmvH'Kl'. H.mm – H.mm (v)
+calendarsgregorianintervalFormatsHmvm'Kl'. H.mm – H.mm (v)
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatshmvh'Kl'. h.mm – h.mm a (v)
+calendarsgregorianintervalFormatshmva'Kl'. h.mm – h.mm a (v)
+calendarsgregorianintervalFormatshmvm'Kl'. h.mm – h.mm a (v)
+calendarsgregorianintervalFormatsHH'Kl'. H – H
+calendarsgregorianintervalFormatsyMMMddd.–d. MMM y
+calendarsgregorianintervalFormatsyMMMdMd. MMM – d. MMM y
+calendarsgregorianintervalFormatsyMMMdyd. MMM y – d. MMM y
+calendarsgregorianintervalFormatsMMMM–MM
+calendarsgregorianintervalFormatsyMMMEdyE, d. MMM y – E, d. MMM y
+calendarsgregorianintervalFormatsyMMMEdME, d. MMM – E, d. MMM y
+calendarsgregorianintervalFormatsyMMMEddE, d. – E, d. MMM y
+calendarsgregorianintervalFormatsddd.–d.
+calendarsgregorianintervalFormatsHmH'Kl'. H.mm – H.mm
+calendarsgregorianintervalFormatsHmm'Kl'. H.mm – H.mm
+calendarsgregorianintervalFormatsyMMMMMMMMM – MMMM y
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsMMMEddE, d. – E, d. MMM
+calendarsgregorianintervalFormatsMMMEdME, d. MMM – E, d. MMM
+calendarsgregorianintervalFormatsyMMMM–MM/y
+calendarsgregorianintervalFormatsyMyMM/y – MM/y
+calendarsgregorianintervalFormatshmh'Kl'. h.mm – h.mm a
+calendarsgregorianintervalFormatshma'Kl'. h.mm a – 'Kl'. h.mm a
+calendarsgregorianintervalFormatshmm'Kl'. h.mm – h.mm a
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatsHvH'Kl'. H – H (v)
+calendarsgregorianintervalFormatshva'Kl'. h a – h a (v)
+calendarsgregorianintervalFormatshvh'Kl'. h – h a (v)
+calendarsgregorianintervalFormatsMEdME, d.M. – E, d.M.
+calendarsgregorianintervalFormatsMEddE, d. – E, d.M.
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsyMMMMMMM – MMM y
+calendarsgregorianintervalFormatsha'Kl'. h a – h a
+calendarsgregorianintervalFormatshh'Kl'. h – h a
+calendarsgregoriandaysstand-alonenarrowtueD
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-alonenarrowthuD
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowwedM
+calendarsgregoriandaysstand-alonewidesunSünndag
+calendarsgregoriandaysstand-alonewidewedMiddeweken
+calendarsgregoriandaysstand-alonewidemonMaandag
+calendarsgregoriandaysstand-alonewidetueDingsdag
+calendarsgregoriandaysstand-alonewidefriFreedag
+calendarsgregoriandaysstand-alonewidethuDunnersdag
+calendarsgregoriandaysstand-alonewidesatSünnavend
+calendarsgregoriandaysstand-aloneabbreviatedfriFr.
+calendarsgregoriandaysstand-aloneabbreviatedsatSa.
+calendarsgregoriandaysstand-aloneabbreviatedthuDu.
+calendarsgregoriandaysstand-aloneabbreviatedmonMa.
+calendarsgregoriandaysstand-aloneabbreviatedtueDi.
+calendarsgregoriandaysstand-aloneabbreviatedwedMi.
+calendarsgregoriandaysstand-aloneabbreviatedsunSü.
+calendarsgregoriandaysformatabbreviatedsunSü.
+calendarsgregoriandaysformatabbreviatedwedMi.
+calendarsgregoriandaysformatabbreviatedtueDi.
+calendarsgregoriandaysformatabbreviatedmonMa.
+calendarsgregoriandaysformatabbreviatedsatSa.
+calendarsgregoriandaysformatabbreviatedthuDu.
+calendarsgregoriandaysformatabbreviatedfriFr.
+calendarsgregoriandaysformatwidewedMiddeweken
+calendarsgregoriandaysformatwidesunSünndag
+calendarsgregoriandaysformatwidesatSünnavend
+calendarsgregoriandaysformatwidethuDunnersdag
+calendarsgregoriandaysformatwidefriFreedag
+calendarsgregoriandaysformatwidetueDingsdag
+calendarsgregoriandaysformatwidemonMaandag
+calendarsgregoriandaysformatnarrowtueD
+calendarsgregoriandaysformatnarrowmonM
+calendarsgregoriandaysformatnarrowthuD
+calendarsgregoriandaysformatnarrowsatS
+calendarsgregoriandaysformatnarrowfriF
+calendarsgregoriandaysformatnarrowsunS
+calendarsgregoriandaysformatnarrowwedM
+calendarsgregoriandayPeriodsformatwidepmnm
+calendarsgregoriandayPeriodsformatwideamvm
+calendarsgregoriandayPeriodsformatabbreviatedamvm
+calendarsgregoriandayPeriodsformatabbreviatedpmnm
+calendarsgregoriandateTimeFormatsfull{1}, {0}
+calendarsgregoriandateTimeFormatsshort{1}, {0}
+calendarsgregoriandateTimeFormatsmedium{1}, {0}
+calendarsgregoriandateTimeFormatslong{1}, {0}
+calendarsgregoriandateFormatsmediumstandardd. MMM y
+calendarsgregoriandateFormatslongstandardd. MMMM y
+calendarsgregoriandateFormatsshortstandardd.MM.yy
+calendarsgregoriandateFormatsfullstandardEEEE, 'de' d. MMMM y
+calendarsgregorianquartersstand-aloneabbreviated2Q. II
+calendarsgregorianquartersstand-aloneabbreviated1Q. I
+calendarsgregorianquartersstand-aloneabbreviated4Q. IV
+calendarsgregorianquartersstand-aloneabbreviated3Q. III
+calendarsgregorianquartersstand-alonewide33. Quartaal
+calendarsgregorianquartersstand-alonewide11. Quartaal
+calendarsgregorianquartersstand-alonewide44. Quartaal
+calendarsgregorianquartersstand-alonewide22. Quartaal
+calendarsgregorianquartersstand-alonenarrow4Q4
+calendarsgregorianquartersstand-alonenarrow1Q1
+calendarsgregorianquartersstand-alonenarrow2Q2
+calendarsgregorianquartersstand-alonenarrow3Q3
+calendarsgregorianquartersformatnarrow3Q3
+calendarsgregorianquartersformatnarrow2Q2
+calendarsgregorianquartersformatnarrow4Q4
+calendarsgregorianquartersformatnarrow1Q1
+calendarsgregorianquartersformatabbreviated4Q.4
+calendarsgregorianquartersformatabbreviated1Q.1
+calendarsgregorianquartersformatabbreviated2Q.2
+calendarsgregorianquartersformatabbreviated3Q.3
+calendarsgregorianquartersformatwide33. Quartaal
+calendarsgregorianquartersformatwide44. Quartaal
+calendarsgregorianquartersformatwide11. Quartaal
+calendarsgregorianquartersformatwide22. Quartaal
+calendarsgenericavailableFormatsMMMdd. MMM
+calendarsgenericavailableFormatsyyyyMMM/y GGGGG
+calendarsgenericavailableFormatsyyyyMEdE, d.M.y GGGGG
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsMdd. M.
+calendarsgenericavailableFormatsyyyyMdd.M.y GGGGG
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMEdE, d. MMM y G
+calendarsgenericavailableFormatsdd.
+calendarsgenericavailableFormatsEdE d.
+calendarsgenericavailableFormatsyyyyMMMdd. MMM y G
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsMMMEdE, d. MMM
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatsGyMMMdd. MMM y G
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsMEdE, d. M.
+calendarsgenericavailableFormatsyyyyMMMEdE, d. MMM y G
+calendarsgenericintervalFormatsddd.–d.
+calendarsgenericintervalFormatsyMMMEddE, d. – E, d. MMM y G
+calendarsgenericintervalFormatsyMMMEdME, d. MMM – E, d. MMM y G
+calendarsgenericintervalFormatsyMMMEdyE, d. MMM y – E, d. MMM y G
+calendarsgenericintervalFormatsMMMM–MM
+calendarsgenericintervalFormatsyMMMdyd. MMM y – d. MMM y G
+calendarsgenericintervalFormatsyMMMddd.–d. MMM y G
+calendarsgenericintervalFormatsyMMMdMd. MMM – d. MMM y G
+calendarsgenericintervalFormatsyMEddE, d. – E, d.M.y GGGGG
+calendarsgenericintervalFormatsyMEdME, d.M. – E, d.M.y GGGGG
+calendarsgenericintervalFormatsyMEdyE, d.M.y – E, d.M.y GGGGG
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsMMMMMMM – MMM
+calendarsgenericintervalFormatsMddd.M.–d.M.
+calendarsgenericintervalFormatsMdMd.M.–d.M.
+calendarsgenericintervalFormatsyMdyd.M.y – d.M.y GGGGG
+calendarsgenericintervalFormatsyMdMd.M.–d.M.y GGGGG
+calendarsgenericintervalFormatsyMddd.–d.M.y GGGGG
+calendarsgenericintervalFormatsMMMddd.–d. MMM
+calendarsgenericintervalFormatsMMMdMd. MMM – d. MMM
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatsyMMMMMMM – MMM y G
+calendarsgenericintervalFormatsMEdME, d.M. – E, d.M.
+calendarsgenericintervalFormatsMEddE, d.M. – E, d.M.
+calendarsgenericintervalFormatsyyy–y G
+calendarsgenericintervalFormatsyMyMM/y – MM/y GGGGG
+calendarsgenericintervalFormatsyMMMM–MM/y GGGGG
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsyMMMMMMMMM – MMMM y G
+calendarsgenericintervalFormatsMMMEddE, d. – E, d. MMM
+calendarsgenericintervalFormatsMMMEdME, d. MMM – E, d. MMM
+calendarsgenericdateTimeFormatsmedium{1}, {0}
+calendarsgenericdateTimeFormatslong{1}, {0}
+calendarsgenericdateTimeFormatsfull{1}, {0}
+calendarsgenericdateTimeFormatsshort{1}, {0}
+calendarsgenericdateFormatsmediumstandardd. MMM y G
+calendarsgenericdateFormatslongstandardd. MMMM y G
+calendarsgenericdateFormatsshortstandardd.MM.yy GGGGG
+calendarsgenericdateFormatsfullstandardEEEE, 'de' d. MMMM y G
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNamescodePatternsscriptSchrift: {0}
+localeDisplayNamescodePatternslanguageSpraak: {0}
+localeDisplayNamescodePatternsterritoryRegioon: {0}
+localeDisplayNamesscriptsSyrnOost-Syyrsch
+localeDisplayNamesscriptsKanaKatakana
+localeDisplayNamesscriptsEgyhHieraatsch
+localeDisplayNamesscriptsPrtiInschriften-Parthsch
+localeDisplayNamesscriptsCprtZypriootsch
+localeDisplayNamesscriptsXpeoOoldpers’sch
+localeDisplayNamesscriptsLinaLinear A
+localeDisplayNamesscriptsPhnxPhönieksch
+localeDisplayNamesscriptsOgamOgham
+localeDisplayNamesscriptsIndsIndus
+localeDisplayNamesscriptsTfngTifinagh
+localeDisplayNamesscriptsEgypÄgyptsche Hieroglyphen
+localeDisplayNamesscriptsCherCherokee
+localeDisplayNamesscriptsPlrdPollard-Phönieksch
+localeDisplayNamesscriptsMlymMalaysch
+localeDisplayNamesscriptsKharKharoshthi
+localeDisplayNamesscriptsChamCham
+localeDisplayNamesscriptsSyrcSyyrsch
+localeDisplayNamesscriptsYiiiYi
+localeDisplayNamesscriptsMteiMeitei Mayek
+localeDisplayNamesscriptsTeluTelugu
+localeDisplayNamesscriptsTglgTagalog
+localeDisplayNamesscriptsTaleTai Le
+localeDisplayNamesscriptsLyciLyyksch
+localeDisplayNamesscriptsSaraSarati
+localeDisplayNamesscriptsEthiÄthioopsch
+localeDisplayNamesscriptsPermOoldpermsch
+localeDisplayNamesscriptsZxxxNich schreven
+localeDisplayNamesscriptsHansVereenfacht Chineesch
+localeDisplayNamesscriptsBengBengaalsch
+localeDisplayNamesscriptsOsmaOsmaansch
+localeDisplayNamesscriptsBraiBlinnenschrift
+localeDisplayNamesscriptsCoptKoptsch
+localeDisplayNamesscriptsCariKaarsch
+localeDisplayNamesscriptsOrkhOrchon-Runen
+localeDisplayNamesscriptsPhlvBook-Pahlavi
+localeDisplayNamesscriptsSyreEstrangelo-Syyrsch
+localeDisplayNamesscriptsJavaJavaneesch
+localeDisplayNamesscriptsGuruGurmukhi
+localeDisplayNamesscriptsCansVereenheidlicht Kanaadsch Sülvenschrift
+localeDisplayNamesscriptsKoreKoreaansch
+localeDisplayNamesscriptsMoonMoon
+localeDisplayNamesscriptsSaurSaurashtra
+localeDisplayNamesscriptsHangHangul
+localeDisplayNamesscriptsBuhdBuhid
+localeDisplayNamesscriptsCakmChakma
+localeDisplayNamesscriptsHungOoldungaarsch
+localeDisplayNamesscriptsThaiThai
+localeDisplayNamesscriptsLydiLyydsch
+localeDisplayNamesscriptsMandMandääsch
+localeDisplayNamesscriptsPhlpPsalter-Pahlavi
+localeDisplayNamesscriptsLatgLatiensch (Gäälsch)
+localeDisplayNamesscriptsRoroRongorongo
+localeDisplayNamesscriptsHanoHanunoo
+localeDisplayNamesscriptsCyrsOoldkarkenslaavsch
+localeDisplayNamesscriptsMayaMaya-Hieroglyphen
+localeDisplayNamesscriptsPhagPhags-pa
+localeDisplayNamesscriptsDevaDevanagari
+localeDisplayNamesscriptsVispVisible Speech
+localeDisplayNamesscriptsSgnwSignWriting
+localeDisplayNamesscriptsArmiRieksaramääsch
+localeDisplayNamesscriptsHiraHiragana
+localeDisplayNamesscriptsTavtTai Viet
+localeDisplayNamesscriptsXsuxSumeroakkadsch Kielschrift
+localeDisplayNamesscriptsZzzzNich begäng Schrift
+localeDisplayNamesscriptsZinhArvt Schriftweert
+localeDisplayNamesscriptsKthiKaithi
+localeDisplayNamesscriptsSamrSamarietsch
+localeDisplayNamesscriptsRunrRunenschrift
+localeDisplayNamesscriptsGujrGujarati
+localeDisplayNamesscriptsZsymSymbolen
+localeDisplayNamesscriptsTibtTibeetsch
+localeDisplayNamesscriptsHebrHebrääsch
+localeDisplayNamesscriptsGothGootsch
+localeDisplayNamesscriptsBatkBataksch
+localeDisplayNamesscriptsBopoBopomofo
+localeDisplayNamesscriptsBaliBalineesch
+localeDisplayNamesscriptsLaooLaootsch
+localeDisplayNamesscriptsNkooN’Ko
+localeDisplayNamesscriptsMeroMeroitsch
+localeDisplayNamesscriptsSyloSyloti Nagri
+localeDisplayNamesscriptsGrekGreeksch
+localeDisplayNamesscriptsMongMongoolsch
+localeDisplayNamesscriptsMymrBirmaansch
+localeDisplayNamesscriptsTaluTai Lue
+localeDisplayNamesscriptsZmthMathemaatsch Teken
+localeDisplayNamesscriptsTengTengwar
+localeDisplayNamesscriptsShawShaw-Alphabet
+localeDisplayNamesscriptsLepcLepcha
+localeDisplayNamesscriptsGeokKhutsuri
+localeDisplayNamesscriptsSinhSinghaleesch
+localeDisplayNamesscriptsKhmrKhmer
+localeDisplayNamesscriptsGeorGeorgsch
+localeDisplayNamesscriptsOlckOl Chiki
+localeDisplayNamesscriptsSundSundaneesch
+localeDisplayNamesscriptsArabAraabsch
+localeDisplayNamesscriptsGlagGlagolietsch
+localeDisplayNamesscriptsLanaLanna
+localeDisplayNamesscriptsAvstAvestsch
+localeDisplayNamesscriptsSyrjWest-Syyrsch
+localeDisplayNamesscriptsEgydDemootsch
+localeDisplayNamesscriptsBrahBrahmi
+localeDisplayNamesscriptsRjngRejang
+localeDisplayNamesscriptsHantTraditschonell Chineesch
+localeDisplayNamesscriptsKaliKayah Li
+localeDisplayNamesscriptsDsrtDeseret
+localeDisplayNamesscriptsManiManichääsch
+localeDisplayNamesscriptsLinbLinear B
+localeDisplayNamesscriptsItalOolditaalsch
+localeDisplayNamesscriptsTagbTagbanwa
+localeDisplayNamesscriptsHaniChineesch
+localeDisplayNamesscriptsKndaKannada
+localeDisplayNamesscriptsBugiBugineesch
+localeDisplayNamesscriptsUgarUgarietsch
+localeDisplayNamesscriptsCirtCirth
+localeDisplayNamesscriptsVaiiVai
+localeDisplayNamesscriptsOryaOriya
+localeDisplayNamesscriptsPhliInschriften-Pahlavi
+localeDisplayNamesscriptsLimbLimbu
+localeDisplayNamesscriptsHrktKatakana oder Hiragana
+localeDisplayNamesscriptsThaaThaana
+localeDisplayNamesscriptsJpanJapaansch
+localeDisplayNamesscriptsLatfLatiensch (Fraktur)
+localeDisplayNamesscriptsCyrlKyrillsch
+localeDisplayNamesscriptsLatnLatiensch
+localeDisplayNamesscriptsHmngPahawh Hmong
+localeDisplayNamesscriptsArmnArmeensch
+localeDisplayNamesscriptsZyyyUnbestimmt
+localeDisplayNamesscriptsBlisBliss-Symbolen
+localeDisplayNamesscriptsTamlTamilsch
+localeDisplayNameslanguagesnnNorweegsch Nynorsk
+localeDisplayNameslanguagessrSerbsch
+localeDisplayNameslanguagesgohOoldhoochdüütsch
+localeDisplayNameslanguagesrmRätoromaansch
+localeDisplayNameslanguagesnrSüüd-Ndebele
+localeDisplayNameslanguagesgayGayo
+localeDisplayNameslanguageszh_HantTraditschonell Chineesch
+localeDisplayNameslanguageszenZenaga
+localeDisplayNameslanguagesruRuss’sch
+localeDisplayNameslanguagesslSloweensch
+localeDisplayNameslanguageskabKabyylsch
+localeDisplayNameslanguagesasAssameesch
+localeDisplayNameslanguagespamPampanggan
+localeDisplayNameslanguageskawKawi
+localeDisplayNameslanguagescsTschech’sch
+localeDisplayNameslanguagesnoNorweegsch
+localeDisplayNameslanguagesmusMuskogee-Spraken
+localeDisplayNameslanguagessatSantali
+localeDisplayNameslanguagestnTswana
+localeDisplayNameslanguagesfaPers’sch
+localeDisplayNameslanguagescrhKrimtataarsch
+localeDisplayNameslanguagesanpAngika
+localeDisplayNameslanguagesneNepaleesch
+localeDisplayNameslanguagessyrSyyrsch
+localeDisplayNameslanguagestrTörksch
+localeDisplayNameslanguagesfatFanti
+localeDisplayNameslanguagessmsSkolt-Lappsch
+localeDisplayNameslanguagesmgaMiddeliersch
+localeDisplayNameslanguagesboTibeetsch
+localeDisplayNameslanguagesluiLuiseno
+localeDisplayNameslanguagessukSukuma
+localeDisplayNameslanguagesfroOoldfranzöösch
+localeDisplayNameslanguagesliLimborgsch
+localeDisplayNameslanguagesvoVolapük
+localeDisplayNameslanguagesumbMbundu
+localeDisplayNameslanguagesundNich begäng Spraak
+localeDisplayNameslanguagesyaoYao
+localeDisplayNameslanguagesugUiguursch
+localeDisplayNameslanguageskcgTyap
+localeDisplayNameslanguageskrcKaratschaisch-Balkaarsch
+localeDisplayNameslanguageshaHaussa
+localeDisplayNameslanguageshoHiri-Motu
+localeDisplayNameslanguagesazAserbaidschaansch
+localeDisplayNameslanguagesbinBini
+localeDisplayNameslanguagesarcAramääsch
+localeDisplayNameslanguagescchAtsam
+localeDisplayNameslanguagesmosMossi
+localeDisplayNameslanguageskrKanuursch
+localeDisplayNameslanguagesnvNavajo
+localeDisplayNameslanguagesluoLuo
+localeDisplayNameslanguagespsPaschtu
+localeDisplayNameslanguagesudmUdmurtsch
+localeDisplayNameslanguagesadyAdygeisch
+localeDisplayNameslanguagesmaiMaithili
+localeDisplayNameslanguagesmgMadagassisch
+localeDisplayNameslanguagesltLitausch
+localeDisplayNameslanguagesetEestlannsch
+localeDisplayNameslanguagestyvTuwinsch
+localeDisplayNameslanguagesbrxBodo
+localeDisplayNameslanguagestvlElliceaansch
+localeDisplayNameslanguagesefiEfik
+localeDisplayNameslanguagesrajRajasthani
+localeDisplayNameslanguagesmyvErzya
+localeDisplayNameslanguageszhChineesch
+localeDisplayNameslanguagesfr_CHSwiezer Franzöösch
+localeDisplayNameslanguageskaaKarakalpaksch
+localeDisplayNameslanguagescaKatalaansch
+localeDisplayNameslanguagesdvMaledievsch
+localeDisplayNameslanguagesmadMadureesch
+localeDisplayNameslanguagesklGröönlannsch
+localeDisplayNameslanguagesdelDelaware
+localeDisplayNameslanguagesdyuDyula
+localeDisplayNameslanguagesmnMongoolsch
+localeDisplayNameslanguagesniaNias
+localeDisplayNameslanguagesnl_BEFläämsch
+localeDisplayNameslanguageskoKoreaansch
+localeDisplayNameslanguageschgTschagataisch
+localeDisplayNameslanguagesmasMassai
+localeDisplayNameslanguagessaSanskrit
+localeDisplayNameslanguagesquQuechua
+localeDisplayNameslanguagesugaUgaritsch
+localeDisplayNameslanguagestlTagalog
+localeDisplayNameslanguageslaLatiensch
+localeDisplayNameslanguagesagqAghem
+localeDisplayNameslanguageseuBasksch
+localeDisplayNameslanguagesrarRarotongaansch
+localeDisplayNameslanguageskacKachin
+localeDisplayNameslanguagesfilPhilippiensch
+localeDisplayNameslanguagesmwrMarwari
+localeDisplayNameslanguagesen_GBEngelsch (GB)
+localeDisplayNameslanguagessmSamoaansch
+localeDisplayNameslanguagesangOoldengelsch
+localeDisplayNameslanguagesmulMehrsprakig
+localeDisplayNameslanguagesesSpaansch
+localeDisplayNameslanguageslezLesgisch
+localeDisplayNameslanguagesastAsturiaansch
+localeDisplayNameslanguagesiiSichuan Yi
+localeDisplayNameslanguagessvSweedsch
+localeDisplayNameslanguageskfoKoro
+localeDisplayNameslanguagestkTurkmeensch
+localeDisplayNameslanguageschoChoctaw
+localeDisplayNameslanguagesndNoord-Ndebele
+localeDisplayNameslanguagesyoYoruba
+localeDisplayNameslanguagesibaIban
+localeDisplayNameslanguagespapPapiamento
+localeDisplayNameslanguagesdoiDogri
+localeDisplayNameslanguagesrapOosterinsel-Spraak
+localeDisplayNameslanguagespiPali
+localeDisplayNameslanguagesjaJapaansch
+localeDisplayNameslanguageshilHiligaynon
+localeDisplayNameslanguagescuKarkenslaavsch
+localeDisplayNameslanguageseeEwe
+localeDisplayNameslanguagestogTonga (Nyasa)
+localeDisplayNameslanguageskgKongo
+localeDisplayNameslanguageskoiKomipermjaksch
+localeDisplayNameslanguageskbdKabardiensch
+localeDisplayNameslanguagesinhIngusch’sch
+localeDisplayNameslanguagesbnBengaalsch
+localeDisplayNameslanguagesbmBambara
+localeDisplayNameslanguagesnyNyanja
+localeDisplayNameslanguageskutKutenai
+localeDisplayNameslanguageskajJju
+localeDisplayNameslanguagesffFul
+localeDisplayNameslanguagesaleAleutsch
+localeDisplayNameslanguagesckbZentraalkurdsch
+localeDisplayNameslanguagesnonOoldnoorsch
+localeDisplayNameslanguagesitItalieensch
+localeDisplayNameslanguagesbikBikol
+localeDisplayNameslanguagesanAragoneesch
+localeDisplayNameslanguagesen_USEngelsch (US)
+localeDisplayNameslanguageszh_HansVereenfacht Chineesch
+localeDisplayNameslanguageskruOraon
+localeDisplayNameslanguagesarnAraukaansch
+localeDisplayNameslanguagesdaDäänsch
+localeDisplayNameslanguagesdinDinka
+localeDisplayNameslanguagesnsoNoord-Sotho
+localeDisplayNameslanguagesjvJavaansch
+localeDisplayNameslanguagesigIgbo
+localeDisplayNameslanguagesenEngelsch
+localeDisplayNameslanguageshyArmeensch
+localeDisplayNameslanguageszunZuni
+localeDisplayNameslanguagesenmMiddelengelsch
+localeDisplayNameslanguagessamSamaritaansch
+localeDisplayNameslanguageszzaZaza
+localeDisplayNameslanguagestetTetum
+localeDisplayNameslanguagesknKannada
+localeDisplayNameslanguagesceTschetscheensch
+localeDisplayNameslanguageschmMari
+localeDisplayNameslanguagesmyBirmaansch
+localeDisplayNameslanguageskwKoornsch
+localeDisplayNameslanguagessgaOold-Iersch
+localeDisplayNameslanguagespt_BRBrasiliaansch Portugeesch
+localeDisplayNameslanguagesrootWortel
+localeDisplayNameslanguagesrupAromuunsch
+localeDisplayNameslanguagesjboLojban
+localeDisplayNameslanguagesurUrdu
+localeDisplayNameslanguageskiKikuyu
+localeDisplayNameslanguagesluLuba
+localeDisplayNameslanguagesmtMalteesch
+localeDisplayNameslanguagesidIndoneesch
+localeDisplayNameslanguagesabAbchaasch
+localeDisplayNameslanguagesainAinu
+localeDisplayNameslanguagesafhAfrihili
+localeDisplayNameslanguagesdeHoochdüütsch
+localeDisplayNameslanguageses_MXMexikaansch Spaansch
+localeDisplayNameslanguagesscSardsch
+localeDisplayNameslanguagessmnInari-Lappsch
+localeDisplayNameslanguagesglGalizsch
+localeDisplayNameslanguagesdakDakota
+localeDisplayNameslanguagesnbNorweegsch Bokmål
+localeDisplayNameslanguageskrlKareelsch
+localeDisplayNameslanguagestwTwi
+localeDisplayNameslanguagesmenMende
+localeDisplayNameslanguagesnaNauruusch
+localeDisplayNameslanguageschChamorro
+localeDisplayNameslanguagesyiJiddisch
+localeDisplayNameslanguageszblBliss-Symbolen
+localeDisplayNameslanguagesromRomani
+localeDisplayNameslanguagescarKariebsche Spraken
+localeDisplayNameslanguageshupHupa
+localeDisplayNameslanguagescoKoorssch
+localeDisplayNameslanguagesekaEkajuk
+localeDisplayNameslanguagesbalBelutschisch
+localeDisplayNameslanguagesmagMagahi
+localeDisplayNameslanguagesmwlMirandeesch
+localeDisplayNameslanguagesvaiVai
+localeDisplayNameslanguageskmKambodschaansch
+localeDisplayNameslanguagesawaAwadhi
+localeDisplayNameslanguagescyWaliesch
+localeDisplayNameslanguageskpeKpelle
+localeDisplayNameslanguagesfrmMiddelfranzöösch
+localeDisplayNameslanguagesen_AUAustraalsch Engelsch
+localeDisplayNameslanguagescadCaddo
+localeDisplayNameslanguagesbejBedscha
+localeDisplayNameslanguagesnogNogai
+localeDisplayNameslanguagessadSandawe
+localeDisplayNameslanguagesmicMicmac
+localeDisplayNameslanguagesbaBaschkiersch
+localeDisplayNameslanguagesgdSchottsch Gäälsch
+localeDisplayNameslanguagesngNdonga
+localeDisplayNameslanguagessmaSüüd-Lappsch
+localeDisplayNameslanguagesarwArawak-Spraken
+localeDisplayNameslanguagesmiMaori
+localeDisplayNameslanguagesde_CHSwiezer Hoochdüütsch
+localeDisplayNameslanguagessiSinghaleesch
+localeDisplayNameslanguagesssSwazi
+localeDisplayNameslanguagesroRumäänsch
+localeDisplayNameslanguagesgezGeez
+localeDisplayNameslanguageslahLahnda
+localeDisplayNameslanguagesgswSwiezerdüütsch
+localeDisplayNameslanguagessmjLule-Lappsch
+localeDisplayNameslanguageschkTrukeesch
+localeDisplayNameslanguageswoWolof
+localeDisplayNameslanguagesmdfMokscha
+localeDisplayNameslanguageszuZulu
+localeDisplayNameslanguagesteTelugu
+localeDisplayNameslanguagesmncMandschuursch
+localeDisplayNameslanguagesnewNewari
+localeDisplayNameslanguagesmohMohawk
+localeDisplayNameslanguagesnyoNyoro
+localeDisplayNameslanguagestyTahitsch
+localeDisplayNameslanguagespalMiddelpers’sch
+localeDisplayNameslanguagesgvManx
+localeDisplayNameslanguagesgilGilberteesch
+localeDisplayNameslanguagesbasBasaa
+localeDisplayNameslanguageslozRotse
+localeDisplayNameslanguagessoSomaalsch
+localeDisplayNameslanguagesveVenda
+localeDisplayNameslanguagesamAmhaarsch
+localeDisplayNameslanguagesadaAdangme
+localeDisplayNameslanguagesdsbNeddersorbsch
+localeDisplayNameslanguageslolMongo
+localeDisplayNameslanguagesplPoolsch
+localeDisplayNameslanguagesbsBosnisch
+localeDisplayNameslanguageselxElaamsch
+localeDisplayNameslanguageslamLamba
+localeDisplayNameslanguagesvotWootsch
+localeDisplayNameslanguagesioIdo
+localeDisplayNameslanguagesponPonapeaansch
+localeDisplayNameslanguagessidSidamo
+localeDisplayNameslanguagestigTigre
+localeDisplayNameslanguagescrCree
+localeDisplayNameslanguagesniuNiue
+localeDisplayNameslanguagesscnSiziliaansch
+localeDisplayNameslanguageskamKamba
+localeDisplayNameslanguagestsiTsimshian
+localeDisplayNameslanguageslbLuxemborgsch
+localeDisplayNameslanguagesmsMalaisch
+localeDisplayNameslanguagespeoOoldpers’sch
+localeDisplayNameslanguageshuUngaarsch
+localeDisplayNameslanguagesheHebrääsch
+localeDisplayNameslanguagescvTschuwasch’sch
+localeDisplayNameslanguagesdenSlave
+localeDisplayNameslanguagesnlNedderlandsch
+localeDisplayNameslanguagesavAwaarsch
+localeDisplayNameslanguagessdSindhi
+localeDisplayNameslanguageszaZhuang
+localeDisplayNameslanguageszxxKeen Spraakinhold
+localeDisplayNameslanguagessuxSumersch
+localeDisplayNameslanguagesgrcOoldgreeksch
+localeDisplayNameslanguagesgrbGrebo
+localeDisplayNameslanguagessnSchona
+localeDisplayNameslanguagestklTokelausch
+localeDisplayNameslanguageszapZapoteeksch
+localeDisplayNameslanguageslgLuganda
+localeDisplayNameslanguagessycOold-Syyrsch
+localeDisplayNameslanguagesegyÄgyptsch
+localeDisplayNameslanguagestumTumbuka
+localeDisplayNameslanguagesduaDuala
+localeDisplayNameslanguagesukUkrainsch
+localeDisplayNameslanguageskuKurdsch
+localeDisplayNameslanguagesgwiKutchin
+localeDisplayNameslanguagesbuaBurjaatsch
+localeDisplayNameslanguagesfrsSaterfreesch
+localeDisplayNameslanguagesaeAvestsch
+localeDisplayNameslanguagessrnSurinaamsch
+localeDisplayNameslanguageskkKasach’sch
+localeDisplayNameslanguageswasWasho
+localeDisplayNameslanguagesbhoBhodschpuri
+localeDisplayNameslanguagessnkSoninke
+localeDisplayNameslanguagespauPalausch
+localeDisplayNameslanguagessogSogdisch
+localeDisplayNameslanguagesbugBugineesch
+localeDisplayNameslanguagestivTiv
+localeDisplayNameslanguagestemTemne
+localeDisplayNameslanguageskokKonkani
+localeDisplayNameslanguagesfiFinnsch
+localeDisplayNameslanguagesxalKalmücksch
+localeDisplayNameslanguagesbgBulgaarsch
+localeDisplayNameslanguagesde_ATÖösterrieksch Hoochdüütsch
+localeDisplayNameslanguagessrrSerer
+localeDisplayNameslanguageslvLettsch
+localeDisplayNameslanguageskyKirgiesch
+localeDisplayNameslanguagesar_001Standardaraabsch
+localeDisplayNameslanguagesdzBhutaansch
+localeDisplayNameslanguageskhaKhasi
+localeDisplayNameslanguagesnynNyankole
+localeDisplayNameslanguagesjprJöödsch-Pers’sch
+localeDisplayNameslanguagesarAraabsch
+localeDisplayNameslanguagesgbaGbaya
+localeDisplayNameslanguagesseNoord-Saamsch
+localeDisplayNameslanguagesgaaGa
+localeDisplayNameslanguagessgSango
+localeDisplayNameslanguagesmlMalayalam
+localeDisplayNameslanguageshrKroaatsch
+localeDisplayNameslanguagesbanBalineesch
+localeDisplayNameslanguagesmkMazedoonsch
+localeDisplayNameslanguagesojOjibwa
+localeDisplayNameslanguagesgotGootsch
+localeDisplayNameslanguagestiTigrinja
+localeDisplayNameslanguagesmniManipuri
+localeDisplayNameslanguagessahJakuutsch
+localeDisplayNameslanguagesbiBislama
+localeDisplayNameslanguagesdgrDogrib
+localeDisplayNameslanguagesen_CAKanaadsch Engelsch
+localeDisplayNameslanguagesfr_CAKanaadsch Franzöösch
+localeDisplayNameslanguagesfoFäröösch
+localeDisplayNameslanguagesfonFon
+localeDisplayNameslanguagesdarDargiensch
+localeDisplayNameslanguageswalWalamo
+localeDisplayNameslanguageswarWaray
+localeDisplayNameslanguagestoTongaasch
+localeDisplayNameslanguagessusSusu
+localeDisplayNameslanguagesfyWestfreesch
+localeDisplayNameslanguagesfrFranzöösch
+localeDisplayNameslanguagesbeWittruss’sch
+localeDisplayNameslanguagesakAkan
+localeDisplayNameslanguageskmbKimbundu
+localeDisplayNameslanguagestgTadschiksch
+localeDisplayNameslanguagesdumMiddelnedderlandsch
+localeDisplayNameslanguagespaPandschaabsch
+localeDisplayNameslanguagessuSundaneesch
+localeDisplayNameslanguagesmhMarschalleesch
+localeDisplayNameslanguageschnChinook
+localeDisplayNameslanguagessasSasak
+localeDisplayNameslanguageshaiHaida
+localeDisplayNameslanguagestliTlingit
+localeDisplayNameslanguagesblaSiksika
+localeDisplayNameslanguagesgonGondi
+localeDisplayNameslanguagesfrrNoordfreesch
+localeDisplayNameslanguagesnymNyamwezi
+localeDisplayNameslanguagesrwRuandsch
+localeDisplayNameslanguageshitHethitsch
+localeDisplayNameslanguagestpiTok Pisin
+localeDisplayNameslanguageskaGeorgsch
+localeDisplayNameslanguagesmdrMandareesch
+localeDisplayNameslanguageschrCherokeesch
+localeDisplayNameslanguageskumKumücksch
+localeDisplayNameslanguagesaltSüüd-Altaisch
+localeDisplayNameslanguagesiloIlokano
+localeDisplayNameslanguagesviVietnameesch
+localeDisplayNameslanguagesmanManding
+localeDisplayNameslanguagesshnSchan
+localeDisplayNameslanguagesgmhMiddelhoochdüütsch
+localeDisplayNameslanguagesafAfrikaans
+localeDisplayNameslanguagesguGudscharati
+localeDisplayNameslanguageskvKomi
+localeDisplayNameslanguagesakkAkkadsch
+localeDisplayNameslanguagesaaAfar
+localeDisplayNameslanguagespagPangasinan
+localeDisplayNameslanguagesgaIersch
+localeDisplayNameslanguagesswSuaheli
+localeDisplayNameslanguageschpChipewyan
+localeDisplayNameslanguageses_ESIbeersch Spaansch
+localeDisplayNameslanguagesikInupiak
+localeDisplayNameslanguagesarpArapaho
+localeDisplayNameslanguageschyCheyenne
+localeDisplayNameslanguagesselSelkupsch
+localeDisplayNameslanguageshsbBöversorbsch
+localeDisplayNameslanguagestmhTamaschek
+localeDisplayNameslanguagesterTereno
+localeDisplayNameslanguageshawHawaiiaansch
+localeDisplayNameslanguageslunLunda
+localeDisplayNameslanguagesmakMakassarsch
+localeDisplayNameslanguagesminMinangkabau
+localeDisplayNameslanguagesfurFriuulsch
+localeDisplayNameslanguagesyapYapeesch
+localeDisplayNameslanguageslnLingala
+localeDisplayNameslanguageshiHindi
+localeDisplayNameslanguagesewoEwondo
+localeDisplayNameslanguagesbemBemba
+localeDisplayNameslanguagespt_PTIbeersch Portugeesch
+localeDisplayNameslanguagestlhKlingoonsch
+localeDisplayNameslanguageschbChibcha-Spraken
+localeDisplayNameslanguagestaTamilsch
+localeDisplayNameslanguagesscoSchottsch
+localeDisplayNameslanguagesiuInuktitut
+localeDisplayNameslanguagesisIeslannsch
+localeDisplayNameslanguageseoEsperanto
+localeDisplayNameslanguagesskSlowaaksch
+localeDisplayNameslanguagessqAlbaansch
+localeDisplayNameslanguagesjrbJöödsch-Araabsch
+localeDisplayNameslanguagesotaOsmaansch
+localeDisplayNameslanguagesgorGorontalo
+localeDisplayNameslanguagesxhXhosa
+localeDisplayNameslanguagesndsNeddersass’sch
+localeDisplayNameslanguagesptPortugeesch
+localeDisplayNameslanguagesmrMarathi
+localeDisplayNameslanguagesstSüüd-Sotho
+localeDisplayNameslanguagesuzUsbeeksch
+localeDisplayNameslanguagesladLadiensch
+localeDisplayNameslanguageskhoSaaksch
+localeDisplayNameslanguagesomOromo
+localeDisplayNameslanguageskosKosraeaansch
+localeDisplayNameslanguagesttTataarsch
+localeDisplayNameslanguagesksKaschmiersch
+localeDisplayNameslanguagescsbKaschuubsch
+localeDisplayNameslanguageshmnMiao-Spraken
+localeDisplayNameslanguagesachAcholi
+localeDisplayNameslanguagesnwcOold-Newari
+localeDisplayNameslanguagesbrBretoonsch
+localeDisplayNameslanguageshtHaitiaansch
+localeDisplayNameslanguagescebCebuano
+localeDisplayNameslanguagesnapNeapolitaansch
+localeDisplayNameslanguagesphnPhönieksch
+localeDisplayNameslanguagesnqoN’Ko
+localeDisplayNameslanguagesrnRundi
+localeDisplayNameslanguagesfjFidschiaansch
+localeDisplayNameslanguagesthThailannsch
+localeDisplayNameslanguageselGreeksch
+localeDisplayNameslanguagesloLaootsch
+localeDisplayNameslanguageshzHerero
+localeDisplayNameslanguagesgnGuarani
+localeDisplayNameslanguagesfanPangwe
+localeDisplayNameslanguagesaceAceh
+localeDisplayNameslanguagesosOssetsch
+localeDisplayNameslanguagesocOkzitaansch
+localeDisplayNameslanguageskjKwanyama
+localeDisplayNameslanguagesieInterlingue
+localeDisplayNameslanguagesosaOsage
+localeDisplayNameslanguagesro_MDMoldaawsch
+localeDisplayNameslanguageswaWalloonsch
+localeDisplayNameslanguagesbynBlin
+localeDisplayNameslanguagesbraBraj-Bhakha
+localeDisplayNameslanguagesproOoldprovenzaalsch
+localeDisplayNameslanguageses_419Latienamerikaansch Spaansch
+localeDisplayNameslanguagesayAymara
+localeDisplayNameslanguagesorOrija
+localeDisplayNameslanguagesiaInterlingua
+localeDisplayNameslanguagestsTsonga
+localeDisplayNameslanguagescopKoptsch
+localeDisplayNameslanguageslusLushai
+localeDisplayNameslanguagesluaLuba-Lulua
+localeDisplayNameslanguagesnziNzima
+localeDisplayNamesvariantsAREVELAOostarmeensch
+localeDisplayNamesvariantsAREVMDAWestarmeensch
+localeDisplayNamesvariantsTARASKTaraskievica-Rechtschrievung
+localeDisplayNamesvariantsPOLYTONPolytoonsch
+localeDisplayNamesvariantsROZAJResiaansch
+localeDisplayNamesvariantsBOONTBoontling
+localeDisplayNamesvariantsSOLBAStolvizza-/Solbica-Dialekt
+localeDisplayNamesvariantsLIPAWLipovaz-Dialekt vun dat Resiaansche
+localeDisplayNamesvariants1901Ole düütsche Rechtschrievung
+localeDisplayNamesvariantsVALENCIAValenziaansch
+localeDisplayNamesvariantsREVISEDÖverarbeidt Rechtschrievung
+localeDisplayNamesvariantsSCOUSEScouse
+localeDisplayNamesvariants1996Ne’e düütsche Rechtschrievung
+localeDisplayNamesvariantsBISKESan Giorgio-/Bila-Dialekt
+localeDisplayNamesvariantsFONIPAPhoneetsch (IPA)
+localeDisplayNamesvariantsSCOTLANDSchottsch Standard-Engelsch
+localeDisplayNamesvariantsNJIVAGniva-/Njiva-Dialekt
+localeDisplayNamesvariants1606NICTLaat Middelfranzöösch bet 1606
+localeDisplayNamesvariantsOSOJSOseacco-/Osojane-Dialekt
+localeDisplayNamesvariantsMONOTONMonotoonsch
+localeDisplayNamesvariantsBAKU1926Vereenheitlicht Törksch Latienalphabet
+localeDisplayNamesvariantsNEDISNatisone-Dialekt
+localeDisplayNamesvariants1694ACADFröh Neefranzöösch
+localeDisplayNamesvariantsPOSIXComputer
+localeDisplayNamesvariantsSAAHOSaho
+localeDisplayNamesvariantsFONUPAPhoneetsch (UPA)
+localeDisplayNamesvariants1994Standardiseert Resiaansch Rechtschrievung
+localeDisplayNamesterritoriesOMOman
+localeDisplayNamesterritoriesFJFidschi
+localeDisplayNamesterritoriesSVEl Salvador
+localeDisplayNamesterritoriesQAKatar
+localeDisplayNamesterritories054Melanesien
+localeDisplayNamesterritoriesBDBangladesch
+localeDisplayNamesterritoriesTWTaiwan
+localeDisplayNamesterritoriesADAndorra
+localeDisplayNamesterritoriesBGBulgarien
+localeDisplayNamesterritoriesPSPalästinensische Rebeden
+localeDisplayNamesterritories015Noordafrika
+localeDisplayNamesterritoriesBRBrasilien
+localeDisplayNamesterritoriesBMBermuda
+localeDisplayNamesterritoriesMKMakedonien
+localeDisplayNamesterritoriesPHPhilippinen
+localeDisplayNamesterritoriesNENiger
+localeDisplayNamesterritoriesMOMacao
+localeDisplayNamesterritoriesGMGambia
+localeDisplayNamesterritoriesFIFinnland
+localeDisplayNamesterritoriesTLOosttimor
+localeDisplayNamesterritoriesREReunion
+localeDisplayNamesterritoriesTKTokelau
+localeDisplayNamesterritoriesWSSamoa
+localeDisplayNamesterritoriesGFFranzöösch-Guayana
+localeDisplayNamesterritoriesCFZentralafrikaansche Republik
+localeDisplayNamesterritoriesLYLibyen
+localeDisplayNamesterritories034Süüdasien
+localeDisplayNamesterritoriesGSSüüdgeorgien un de Südlichen Sandwich-Eilannen
+localeDisplayNamesterritoriesZZNich begäng Regioon
+localeDisplayNamesterritoriesETÄthiopien
+localeDisplayNamesterritoriesBWBotswana
+localeDisplayNamesterritoriesTHThailand
+localeDisplayNamesterritories011Westafrika
+localeDisplayNamesterritoriesPRPuerto Rico
+localeDisplayNamesterritoriesMPNöördliche Marianen
+localeDisplayNamesterritoriesMEMontenegro
+localeDisplayNamesterritoriesIMInsel Man
+localeDisplayNamesterritoriesAUAustralien
+localeDisplayNamesterritoriesKHKambodscha
+localeDisplayNamesterritoriesAXÅlandeilannen
+localeDisplayNamesterritoriesTCTurks- un Caicosinseln
+localeDisplayNamesterritoriesQOBüter Ozeanien
+localeDisplayNamesterritories017Zentralafrika
+localeDisplayNamesterritoriesNPNepal
+localeDisplayNamesterritoriesKIKiribati
+localeDisplayNamesterritoriesMCMonaco
+localeDisplayNamesterritoriesEEEestland
+localeDisplayNamesterritoriesSBSalomonen
+localeDisplayNamesterritoriesAEVereenigte Araabsche Emiraten
+localeDisplayNamesterritoriesUAUkraine
+localeDisplayNamesterritoriesMXMexiko
+localeDisplayNamesterritoriesGHGhana
+localeDisplayNamesterritoriesDZAlgerien
+localeDisplayNamesterritoriesCRCosta Rica
+localeDisplayNamesterritoriesMGMadagaskar
+localeDisplayNamesterritoriesBFBurkina Faso
+localeDisplayNamesterritoriesMZMosambik
+localeDisplayNamesterritoriesCZTschechien
+localeDisplayNamesterritories053Australien un Neeseeland
+localeDisplayNamesterritoriesAGAntigua un Barbuda
+localeDisplayNamesterritoriesNGNigeria
+localeDisplayNamesterritoriesIOBritisch Rebeed in’n Indischen Ozean
+localeDisplayNamesterritoriesTDTschad
+localeDisplayNamesterritoriesTFFranzöösche Süüd- un Antarktisrebeden
+localeDisplayNamesterritoriesDMDominica
+localeDisplayNamesterritoriesAWAruba
+localeDisplayNamesterritoriesVNVietnam
+localeDisplayNamesterritoriesPYParaguay
+localeDisplayNamesterritoriesNLNedderlannen
+localeDisplayNamesterritoriesPNPitcairn
+localeDisplayNamesterritoriesMRMauretanien
+localeDisplayNamesterritoriesHNHonduras
+localeDisplayNamesterritoriesGBGrootbritannien
+localeDisplayNamesterritoriesTMTurkmenistan
+localeDisplayNamesterritoriesVAVatikan
+localeDisplayNamesterritories002Afrika
+localeDisplayNamesterritoriesALAlbanien
+localeDisplayNamesterritoriesKWKuwait
+localeDisplayNamesterritoriesGRGrekenland
+localeDisplayNamesterritoriesSYSyrien
+localeDisplayNamesterritoriesSLSierra Leone
+localeDisplayNamesterritoriesBNBrunei Darussalam
+localeDisplayNamesterritoriesAZAserbaidschan
+localeDisplayNamesterritoriesLSLesotho
+localeDisplayNamesterritoriesSMSan Marino
+localeDisplayNamesterritoriesTTTrinidad un Tobago
+localeDisplayNamesterritoriesINIndien
+localeDisplayNamesterritoriesGEGeorgien
+localeDisplayNamesterritoriesBZBelize
+localeDisplayNamesterritoriesEREritrea
+localeDisplayNamesterritories030Oostasien
+localeDisplayNamesterritoriesKNSt. Kitts un Nevis
+localeDisplayNamesterritoriesKYKaiman-Eilannen
+localeDisplayNamesterritories419Latienamerika
+localeDisplayNamesterritoriesASAmerikaansch-Samoa
+localeDisplayNamesterritoriesPAPanama
+localeDisplayNamesterritoriesTGTogo
+localeDisplayNamesterritoriesPLPolen
+localeDisplayNamesterritoriesGLGröönland
+localeDisplayNamesterritoriesDODominikaansche Republik
+localeDisplayNamesterritoriesAIAnguilla
+localeDisplayNamesterritoriesUSUSA
+localeDisplayNamesterritoriesARArgentinien
+localeDisplayNamesterritoriesSDSudan
+localeDisplayNamesterritoriesNRNauru
+localeDisplayNamesterritoriesCIElfenbeenküst
+localeDisplayNamesterritories029Karibik
+localeDisplayNamesterritoriesAFAfghanistan
+localeDisplayNamesterritoriesAQAntarktis
+localeDisplayNamesterritoriesBBBarbados
+localeDisplayNamesterritoriesDKDäänmark
+localeDisplayNamesterritoriesCNChina
+localeDisplayNamesterritories018Süüdlich Afrika
+localeDisplayNamesterritoriesYTMayotte
+localeDisplayNamesterritoriesSCSeychellen
+localeDisplayNamesterritoriesCAKanada
+localeDisplayNamesterritoriesNZNeeseeland
+localeDisplayNamesterritoriesJEJersey
+localeDisplayNamesterritoriesIRIran
+localeDisplayNamesterritoriesMMBirma
+localeDisplayNamesterritoriesAOAngola
+localeDisplayNamesterritoriesBHBahrain
+localeDisplayNamesterritoriesBVBouvet-Eiland
+localeDisplayNamesterritoriesLILiechtensteen
+localeDisplayNamesterritoriesSTSão Tomé un Príncipe
+localeDisplayNamesterritoriesVGBrietsche Jumfern-Eilannen
+localeDisplayNamesterritoriesGDGrenada
+localeDisplayNamesterritoriesJMJamaika
+localeDisplayNamesterritoriesBEBelgien
+localeDisplayNamesterritoriesVEVenezuela
+localeDisplayNamesterritoriesIDIndonesien
+localeDisplayNamesterritoriesECEcuador
+localeDisplayNamesterritories003Noordamerika
+localeDisplayNamesterritoriesBYWittrussland
+localeDisplayNamesterritoriesCDDemokraatsche Republik Kongo
+localeDisplayNamesterritoriesPGPapua-Neeguinea
+localeDisplayNamesterritoriesPEPeru
+localeDisplayNamesterritoriesMYMalaysia
+localeDisplayNamesterritoriesMNMongolei
+localeDisplayNamesterritoriesKPNoordkorea
+localeDisplayNamesterritoriesCOKolumbien
+localeDisplayNamesterritoriesPKPakistan
+localeDisplayNamesterritoriesLALaos
+localeDisplayNamesterritoriesMDMoldawien
+localeDisplayNamesterritoriesMHMarshall-Eilannen
+localeDisplayNamesterritoriesSNSenegal
+localeDisplayNamesterritoriesZWSimbabwe
+localeDisplayNamesterritoriesEGÄgypten
+localeDisplayNamesterritoriesGIGibraltar
+localeDisplayNamesterritoriesVCSt. Vincent un de Grenadinen
+localeDisplayNamesterritoriesGAGabun
+localeDisplayNamesterritoriesFOFäröer
+localeDisplayNamesterritoriesCYZypern
+localeDisplayNamesterritoriesZMSambia
+localeDisplayNamesterritoriesNONorwegen
+localeDisplayNamesterritories155Westeuropa
+localeDisplayNamesterritories013Middelamerika
+localeDisplayNamesterritoriesSGSingapur
+localeDisplayNamesterritoriesHUUngarn
+localeDisplayNamesterritoriesCHSwiez
+localeDisplayNamesterritoriesAMArmenien
+localeDisplayNamesterritoriesJOJordanien
+localeDisplayNamesterritoriesGYGuyana
+localeDisplayNamesterritoriesSESweden
+localeDisplayNamesterritoriesTJTadschikistan
+localeDisplayNamesterritoriesTRTörkei
+localeDisplayNamesterritoriesVIAmerikaansche Jumfern-Eilannen
+localeDisplayNamesterritoriesFKFalkland-Eilannen
+localeDisplayNamesterritoriesPFFranzöösch-Polynesien
+localeDisplayNamesterritoriesBLSaint Barthélemy
+localeDisplayNamesterritoriesGNGuinea
+localeDisplayNamesterritoriesCCKokos-Eilannen
+localeDisplayNamesterritoriesMAMarokko
+localeDisplayNamesterritoriesTVTuvalu
+localeDisplayNamesterritoriesRURussland
+localeDisplayNamesterritoriesFMMikronesien
+localeDisplayNamesterritoriesCGRepublik Kongo
+localeDisplayNamesterritoriesGGGuernsey
+localeDisplayNamesterritories150Europa
+localeDisplayNamesterritoriesCVKap Verde
+localeDisplayNamesterritoriesKGKirgisistan
+localeDisplayNamesterritoriesCKCook-Eilannen
+localeDisplayNamesterritoriesSKSlowakei
+localeDisplayNamesterritoriesYEJemen
+localeDisplayNamesterritoriesSISlowenien
+localeDisplayNamesterritoriesNFNorfolk
+localeDisplayNamesterritoriesPWPalau
+localeDisplayNamesterritories061Polynesien
+localeDisplayNamesterritoriesEHWestsahara
+localeDisplayNamesterritoriesATÖösterriek
+localeDisplayNamesterritories145Westasien
+localeDisplayNamesterritoriesHRKroatien
+localeDisplayNamesterritoriesMVMalediven
+localeDisplayNamesterritoriesMQMartinique
+localeDisplayNamesterritoriesGQÄquatorialguinea
+localeDisplayNamesterritoriesLKSri Lanka
+localeDisplayNamesterritoriesLULuxemborg
+localeDisplayNamesterritories035Süüdoostasien
+localeDisplayNamesterritoriesWFWallis un Futuna
+localeDisplayNamesterritoriesTZTansania
+localeDisplayNamesterritoriesBOBolivien
+localeDisplayNamesterritoriesISIesland
+localeDisplayNamesterritoriesMSMontserrat
+localeDisplayNamesterritoriesPMSt. Pierre un Miquelon
+localeDisplayNamesterritoriesNUNiue
+localeDisplayNamesterritoriesNCNeekaledonien
+localeDisplayNamesterritoriesHTHaiti
+localeDisplayNamesterritoriesHKHongkong
+localeDisplayNamesterritories014Oostafrika
+localeDisplayNamesterritoriesCUKuba
+localeDisplayNamesterritoriesCLChile
+localeDisplayNamesterritoriesBABosnien un Herzegowina
+localeDisplayNamesterritoriesLVLettland
+localeDisplayNamesterritoriesSHSt. Helena
+localeDisplayNamesterritoriesMWMalawi
+localeDisplayNamesterritoriesHMHeard- un McDonald-Eilannen
+localeDisplayNamesterritoriesGPGuadeloupe
+localeDisplayNamesterritoriesCXWiehnachtseiland
+localeDisplayNamesterritoriesSZSwasiland
+localeDisplayNamesterritories019Amerika
+localeDisplayNamesterritories143Zentralasien
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNamesterritoriesMTMalta
+localeDisplayNamesterritories009Ozeanien
+localeDisplayNamesterritories154Noordeuropa
+localeDisplayNamesterritoriesJPJapan
+localeDisplayNamesterritoriesRORumänien
+localeDisplayNamesterritoriesSRSurinam
+localeDisplayNamesterritoriesGWGuinea-Bissau
+localeDisplayNamesterritoriesIQIrak
+localeDisplayNamesterritoriesVUVanuatu
+localeDisplayNamesterritoriesGUGuam
+localeDisplayNamesterritoriesNANamibia
+localeDisplayNamesterritoriesLBLibanon
+localeDisplayNamesterritoriesLCSt. Lucia
+localeDisplayNamesterritoriesMLMali
+localeDisplayNamesterritoriesZASöödafrika
+localeDisplayNamesterritoriesRWRuanda
+localeDisplayNamesterritoriesTNTunesien
+localeDisplayNamesterritoriesIEIrland
+localeDisplayNamesterritoriesRSSerbien
+localeDisplayNamesterritoriesITItalien
+localeDisplayNamesterritories005Süüdamerika
+localeDisplayNamesterritoriesLTLitauen
+localeDisplayNamesterritoriesLRLiberia
+localeDisplayNamesterritoriesMFSaint Martin
+localeDisplayNamesterritoriesUZUsbekistan
+localeDisplayNamesterritoriesFRFrankriek
+localeDisplayNamesterritoriesCMKamerun
+localeDisplayNamesterritoriesDEDüütschland
+localeDisplayNamesterritories151Oosteuropa
+localeDisplayNamesterritoriesBJBenin
+localeDisplayNamesterritoriesUGUganda
+localeDisplayNamesterritoriesBIBurundi
+localeDisplayNamesterritoriesKZKasachstan
+localeDisplayNamesterritoriesMUMauritius
+localeDisplayNamesterritoriesUYUruguay
+localeDisplayNamesterritories039Süüdeuropa
+localeDisplayNamesterritories142Asien
+localeDisplayNamesterritoriesEUEuropääsche Union
+localeDisplayNamesterritoriesPTPortugal
+localeDisplayNamesterritoriesSOSomalia
+localeDisplayNamesterritoriesGTGuatemala
+localeDisplayNamesterritoriesSJSvalbard un Jan Mayen
+localeDisplayNamesterritoriesNINikaragua
+localeDisplayNamesterritories001Welt
+localeDisplayNamesterritoriesDJDschibuti
+localeDisplayNamesterritoriesKEKenia
+localeDisplayNamesterritoriesBSBahamas
+localeDisplayNamesterritoriesKRSöödkorea
+localeDisplayNamesterritoriesUMAmerikaansch-Ozeanien
+localeDisplayNamesterritoriesESSpanien
+localeDisplayNamesterritoriesSASaudi-Arabien
+localeDisplayNamesterritoriesKMKomoren
+localeDisplayNamesterritoriesILIsrael
+localeDisplayNamesterritoriesBTBhutan
+localeDisplayNamesmeasurementSystemNamesUSUS-amerikaansch
+localeDisplayNamesmeasurementSystemNamesUKEngelsch
+localeDisplayNamesmeasurementSystemNamesmetricMetersch
+charactersexemplarCharactersauxiliary[á à ă â ā æ ç é è ĕ ê ë ę ē í ì ĭ î ï ī ñ ó ò ŏ ô ø ō œ ú ù ŭ û ū ÿ]
+charactersexemplarCharactersindex[A B C D E F G H I J K L M N O P Q R S ẞ T U V W X Y Z]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersstandard[a å ä b c d e f g h i j k l m n o ö p q r s t u ü v w x y z]
+posixmessagesnostrnee:n
+posixmessagesyesstrjo:j

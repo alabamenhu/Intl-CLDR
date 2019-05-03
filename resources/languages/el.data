@@ -1,0 +1,3358 @@
+numbersotherNumberingSystemstraditionalgrek
+numbersotherNumberingSystemsnativelatn
+numbersminimumGroupingDigits1
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnplusSign+
+numberssymbolslatntimeSeparator:
+numberssymbolslatnminusSign-
+numberssymbolslatnlist;
+numberssymbolslatndecimal,
+numberssymbolslatngroup.
+numberssymbolslatnexponentiale
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+numberscurrencyFormatslatnstandardstandard#,##0.00 ¤
+numberscurrencyFormatslatnshort100000000 χιλ'.' ¤
+numberscurrencyFormatslatnshort10000000 εκ'.' ¤
+numberscurrencyFormatslatnshort1000000000 εκ'.' ¤
+numberscurrencyFormatslatnshort10000 χιλ'.' ¤
+numberscurrencyFormatslatnshort1000000 χιλ'.' ¤
+numberscurrencyFormatslatnshort100000000000000000 τρισ'.' ¤
+numberscurrencyFormatslatnshort10000000000 δισ'.' ¤
+numberscurrencyFormatslatnshort100000000000 εκ'.' ¤
+numberscurrencyFormatslatnshort1000000000000000 τρισ'.' ¤
+numberscurrencyFormatslatnshort100000000000000 δισ'.' ¤
+numberscurrencyFormatslatnshort1000000000000 δισ'.' ¤
+numberscurrencyFormatslatnshort10000000000000 τρισ'.' ¤
+numberspercentFormatslatnstandardstandard#,##0%
+numbersscientificFormatslatnstandardstandard#E0
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnrange{0}–{1}
+numbersmiscPatternslatnatMost≤{0}
+numbersmiscPatternslatnapproximately~{0}
+numberscurrenciesMVRstandardMVR
+numberscurrenciesLVLstandardLVL
+numberscurrenciesSTDstandardSTD
+numberscurrenciesCLPnarrow$
+numberscurrenciesCLPstandardCLP
+numberscurrenciesSSPstandardSSP
+numberscurrenciesSSPnarrow£
+numberscurrenciesHTGstandardHTG
+numberscurrenciesHKDnarrow$
+numberscurrenciesHKDstandardHK$
+numberscurrenciesIRRstandardIRR
+numberscurrenciesNGNnarrow₦
+numberscurrenciesNGNstandardNGN
+numberscurrenciesGNFstandardGNF
+numberscurrenciesGNFnarrowFG
+numberscurrenciesPGKstandardPGK
+numberscurrenciesMRUstandardMRU
+numberscurrenciesDZDstandardDZD
+numberscurrenciesZARnarrowR
+numberscurrenciesZARstandardZAR
+numberscurrenciesUSDstandard$
+numberscurrenciesUSDnarrow$
+numberscurrenciesBIFstandardBIF
+numberscurrenciesCZKnarrowKč
+numberscurrenciesCZKstandardCZK
+numberscurrenciesUGXstandardUGX
+numberscurrenciesCHFstandardCHF
+numberscurrenciesMNTstandardMNT
+numberscurrenciesMNTnarrow₮
+numberscurrenciesKRWstandard₩
+numberscurrenciesKRWnarrow₩
+numberscurrenciesGBPstandard£
+numberscurrenciesGBPnarrow£
+numberscurrenciesXOFstandardCFA
+numberscurrenciesTHBstandard฿
+numberscurrenciesTHBnarrow฿
+numberscurrenciesSEKstandardSEK
+numberscurrenciesSEKnarrowkr
+numberscurrenciesCUPnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesKMFstandardKMF
+numberscurrenciesKMFnarrowCF
+numberscurrenciesJMDstandardJMD
+numberscurrenciesJMDnarrow$
+numberscurrenciesSZLstandardSZL
+numberscurrenciesSARstandardSAR
+numberscurrenciesAFNstandardAFN
+numberscurrenciesKWDstandardKWD
+numberscurrenciesMOPstandardMOP
+numberscurrenciesANGstandardANG
+numberscurrenciesOMRstandardOMR
+numberscurrenciesBHDstandardBHD
+numberscurrenciesCADstandardCA$
+numberscurrenciesCADnarrow$
+numberscurrenciesBDTstandardBDT
+numberscurrenciesBDTnarrow৳
+numberscurrenciesAUDstandardA$
+numberscurrenciesAUDnarrow$
+numberscurrenciesKPWstandardKPW
+numberscurrenciesKPWnarrow₩
+numberscurrenciesSTNnarrowDb
+numberscurrenciesSTNstandardSTN
+numberscurrenciesHRKstandardHRK
+numberscurrenciesHRKnarrowkn
+numberscurrenciesIQDstandardIQD
+numberscurrenciesLKRstandardLKR
+numberscurrenciesLKRnarrowRs
+numberscurrenciesMXNstandardMX$
+numberscurrenciesMXNnarrow$
+numberscurrenciesRSDstandardRSD
+numberscurrenciesILSnarrow₪
+numberscurrenciesILSstandard₪
+numberscurrenciesBRLnarrowR$
+numberscurrenciesBRLstandardR$
+numberscurrenciesLBPstandardLBP
+numberscurrenciesLBPnarrowL£
+numberscurrenciesDKKstandardDKK
+numberscurrenciesDKKnarrowkr
+numberscurrenciesTRYvariantTL
+numberscurrenciesTRYstandardTRY
+numberscurrenciesTRYnarrow₺
+numberscurrenciesQARstandardQAR
+numberscurrenciesMMKnarrowK
+numberscurrenciesMMKstandardMMK
+numberscurrenciesNADnarrow$
+numberscurrenciesNADstandardNAD
+numberscurrenciesUZSstandardUZS
+numberscurrenciesFKPnarrow£
+numberscurrenciesFKPstandardFKP
+numberscurrenciesTMTstandardTMT
+numberscurrenciesEGPstandardEGP
+numberscurrenciesEGPnarrowE£
+numberscurrenciesEURnarrow€
+numberscurrenciesEURstandard€
+numberscurrenciesBSDnarrow$
+numberscurrenciesBSDstandardBSD
+numberscurrenciesCDFstandardCDF
+numberscurrenciesARSstandardARS
+numberscurrenciesARSnarrow$
+numberscurrenciesAOAnarrowKz
+numberscurrenciesAOAstandardAOA
+numberscurrenciesMROstandardMRO
+numberscurrenciesGRDstandardΔρχ
+numberscurrenciesNOKnarrowkr
+numberscurrenciesNOKstandardNOK
+numberscurrenciesBMDnarrow$
+numberscurrenciesBMDstandardBMD
+numberscurrenciesTWDstandardNT$
+numberscurrenciesTWDnarrow$
+numberscurrenciesVEFstandardVEF
+numberscurrenciesVEFnarrowBs
+numberscurrenciesBZDstandardBZD
+numberscurrenciesBZDnarrow$
+numberscurrenciesTZSstandardTZS
+numberscurrenciesTPEstandardTPE
+numberscurrenciesBAMstandardBAM
+numberscurrenciesBAMnarrowKM
+numberscurrenciesBYNnarrowр.
+numberscurrenciesBYNstandardBYN
+numberscurrenciesGHSstandardGHS
+numberscurrenciesLRDnarrow$
+numberscurrenciesLRDstandardLRD
+numberscurrenciesGIPnarrow£
+numberscurrenciesGIPstandardGIP
+numberscurrenciesVNDstandard₫
+numberscurrenciesVNDnarrow₫
+numberscurrenciesSOSstandardSOS
+numberscurrenciesAMDstandardAMD
+numberscurrenciesPKRnarrowRs
+numberscurrenciesPKRstandardPKR
+numberscurrenciesGYDstandardGYD
+numberscurrenciesGYDnarrow$
+numberscurrenciesMDLstandardMDL
+numberscurrenciesMYRnarrowRM
+numberscurrenciesMYRstandardMYR
+numberscurrenciesSLLstandardSLL
+numberscurrenciesZMWnarrowZK
+numberscurrenciesZMWstandardZMW
+numberscurrenciesSYPnarrow£
+numberscurrenciesSYPstandardSYP
+numberscurrenciesHUFnarrowFt
+numberscurrenciesHUFstandardHUF
+numberscurrenciesLYDstandardLYD
+numberscurrenciesNZDnarrow$
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesETBstandardETB
+numberscurrenciesTNDstandardTND
+numberscurrenciesSBDstandardSBD
+numberscurrenciesSBDnarrow$
+numberscurrenciesCNHstandardCNH
+numberscurrenciesKGSstandardKGS
+numberscurrenciesKYDnarrow$
+numberscurrenciesKYDstandardKYD
+numberscurrenciesKESstandardKES
+numberscurrenciesNPRstandardNPR
+numberscurrenciesNPRnarrowRs
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesXCDnarrow$
+numberscurrenciesXCDstandardEC$
+numberscurrenciesSHPnarrow£
+numberscurrenciesSHPstandardSHP
+numberscurrenciesNIOnarrowC$
+numberscurrenciesNIOstandardNIO
+numberscurrenciesMGAstandardMGA
+numberscurrenciesMGAnarrowAr
+numberscurrenciesPABstandardPAB
+numberscurrenciesRWFnarrowRF
+numberscurrenciesRWFstandardRWF
+numberscurrenciesFJDstandardFJD
+numberscurrenciesFJDnarrow$
+numberscurrenciesBWPnarrowP
+numberscurrenciesBWPstandardBWP
+numberscurrenciesIDRstandardIDR
+numberscurrenciesIDRnarrowRp
+numberscurrenciesMZNstandardMZN
+numberscurrenciesERNstandardERN
+numberscurrenciesBYRstandardBYR
+numberscurrenciesGTQnarrowQ
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesAEDstandardAED
+numberscurrenciesINRstandard₹
+numberscurrenciesINRnarrow₹
+numberscurrenciesSGDstandardSGD
+numberscurrenciesSGDnarrow$
+numberscurrenciesCOPstandardCOP
+numberscurrenciesCOPnarrow$
+numberscurrenciesCUCnarrow$
+numberscurrenciesCUCstandardCUC
+numberscurrenciesSCRstandardSCR
+numberscurrenciesPLNnarrowzł
+numberscurrenciesPLNstandardPLN
+numberscurrenciesAZNstandardAZN
+numberscurrenciesLTLstandardLTL
+numberscurrenciesKHRnarrow៛
+numberscurrenciesKHRstandardKHR
+numberscurrenciesMURstandardMUR
+numberscurrenciesMURnarrowRs
+numberscurrenciesSRDnarrow$
+numberscurrenciesSRDstandardSRD
+numberscurrenciesDOPstandardDOP
+numberscurrenciesDOPnarrow$
+numberscurrenciesHNLnarrowL
+numberscurrenciesHNLstandardHNL
+numberscurrenciesDJFstandardDJF
+numberscurrenciesPYGstandardPYG
+numberscurrenciesPYGnarrow₲
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesLAKnarrow₭
+numberscurrenciesLAKstandardLAK
+numberscurrenciesCVEstandardCVE
+numberscurrenciesALLstandardALL
+numberscurrenciesCRCnarrow₡
+numberscurrenciesCRCstandardCRC
+numberscurrenciesPHPstandardPHP
+numberscurrenciesPHPnarrow₱
+numberscurrenciesKZTstandardKZT
+numberscurrenciesKZTnarrow₸
+numberscurrenciesVUVstandardVUV
+numberscurrenciesTOPstandardTOP
+numberscurrenciesTOPnarrowT$
+numberscurrenciesMKDstandardMKD
+numberscurrenciesUAHstandardUAH
+numberscurrenciesUAHnarrow₴
+numberscurrenciesBGNstandardBGN
+numberscurrenciesUYUnarrow$
+numberscurrenciesUYUstandardUYU
+numberscurrenciesTJSstandardTJS
+numberscurrenciesBOBstandardBOB
+numberscurrenciesBOBnarrowBs
+numberscurrenciesAWGstandardAWG
+numberscurrenciesRONnarrowlei
+numberscurrenciesRONstandardRON
+numberscurrenciesVESstandardVES
+numberscurrenciesTTDstandardTTD
+numberscurrenciesTTDnarrow$
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBNDnarrow$
+numberscurrenciesBNDstandardBND
+numberscurrenciesMWKstandardMWK
+numberscurrenciesBBDnarrow$
+numberscurrenciesBBDstandardBBD
+numberscurrenciesYERstandardYER
+numberscurrenciesGELstandardGEL
+numberscurrenciesGELvariant₾
+numberscurrenciesGELnarrow₾
+numberscurrenciesWSTstandardWST
+numberscurrenciesSDGstandardSDG
+numberscurrenciesPENstandardPEN
+numberscurrenciesMADstandardMAD
+numberscurrenciesGMDstandardGMD
+numberscurrenciesRUBstandardRUB
+numberscurrenciesRUBnarrow₽
+numberscurrenciesISKnarrowkr
+numberscurrenciesISKstandardISK
+numberscurrenciesJPYnarrow¥
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJODstandardJOD
+numbersdefaultNumberingSystemstandardlatn
+numbersdecimalFormatslatnshort10000000000000 τρισ'.'
+numbersdecimalFormatslatnshort1000000000000 δισ'.'
+numbersdecimalFormatslatnshort100000000000000 δισ'.'
+numbersdecimalFormatslatnshort1000000000000000 τρισ'.'
+numbersdecimalFormatslatnshort10000000000 δισ'.'
+numbersdecimalFormatslatnshort100000000000 εκ'.'
+numbersdecimalFormatslatnshort1000000 χιλ'.'
+numbersdecimalFormatslatnshort100000000000000000 τρισ'.'
+numbersdecimalFormatslatnshort10000000 εκ'.'
+numbersdecimalFormatslatnshort1000000000 εκ'.'
+numbersdecimalFormatslatnshort10000 χιλ'.'
+numbersdecimalFormatslatnshort100000000 χιλ'.'
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdecimalFormatslatnlong100000000000 εκατομμύρια
+numbersdecimalFormatslatnlong10000000000 δισεκατομμύρια
+numbersdecimalFormatslatnlong100000000000000000 τρισεκατομμύρια
+numbersdecimalFormatslatnlong1000000 χιλιάδες
+numbersdecimalFormatslatnlong10000000 εκατομμύρια
+numbersdecimalFormatslatnlong1000000000 εκατομμύρια
+numbersdecimalFormatslatnlong10000 χιλιάδες
+numbersdecimalFormatslatnlong100000000 χιλιάδες
+numbersdecimalFormatslatnlong1000000000000 δισεκατομμύρια
+numbersdecimalFormatslatnlong10000000000000 τρισεκατομμύρια
+numbersdecimalFormatslatnlong100000000000000 δισεκατομμύρια
+numbersdecimalFormatslatnlong1000000000000000 τρισεκατομμύρια
+typographicNamesaxisNamewdthπλάτος
+typographicNamesaxisNamewghtβάρος
+typographicNamesaxisNameitalπλάγια
+typographicNamesaxisNameslntκλίση
+typographicNamesaxisNameopszοπτικό μέγεθος
+typographicNamesstyleNamewdth125extendedεκτεταμένα
+typographicNamesstyleNamewdth125standardανεπτυγμένα
+typographicNamesstyleNamewdth125wideευρέα
+typographicNamesstyleNamewdth75standardσυμπυκνωμένα
+typographicNamesstyleNamewdth75shortσυμπυκν
+typographicNamesstyleNamewdth75compressedσυμπιεσμένα
+typographicNamesstyleNamewdth75narrowστενά
+typographicNamesstyleNamewdth62.5narrowπολύ στενά
+typographicNamesstyleNamewdth62.5standardπολύ συμπυκνωμένα
+typographicNamesstyleNamewdth62.5compressedπολύ συμπιεσμένα
+typographicNamesstyleNamewdth100standardκανονικά
+typographicNamesstyleNamewdth50compressedεξαιρετικά συμπιεσμένα
+typographicNamesstyleNamewdth50standardεξαιρετικά συμπυκνωμένα
+typographicNamesstyleNamewdth50narrowεξαιρετικά στενά
+typographicNamesstyleNamewdth150wideπολύ ευρέα
+typographicNamesstyleNamewdth150standardπολύ ανεπτυγμένα
+typographicNamesstyleNamewdth150extendedπολύ εκτεταμένα
+typographicNamesstyleNamewdth200wideεξαιρετικά ευρέα
+typographicNamesstyleNamewdth200extendedεξαιρετικά εκτεταμένα
+typographicNamesstyleNamewdth200standardεξαιρετικά ανεπτυγμένα
+typographicNamesstyleNamewdth87.5standardημισυμπυκνωμένα
+typographicNamesstyleNamewdth87.5compressedημι-συμπιεσμένα
+typographicNamesstyleNamewdth87.5narrowημιστενά
+typographicNamesstyleNamewdth112.5wideημι-ευρέα
+typographicNamesstyleNamewdth112.5standardημιανεπτυγμένα
+typographicNamesstyleNamewdth112.5extendedημιεκτεταμένα
+typographicNamesstyleNameopsz144standardαφίσα
+typographicNamesstyleNameopsz8standardλεζάντα
+typographicNamesstyleNameopsz18standardτίτλοι
+typographicNamesstyleNameopsz72standardπροβεβλημένα
+typographicNamesstyleNameopsz12standardκείμενο
+typographicNamesstyleNameslnt12standardεπικλινή
+typographicNamesstyleNameslnt24standardπολύ επικλινή
+typographicNamesstyleNameslnt-12standardεπικλινή πίσω
+typographicNamesstyleNameslnt0standardκατακόρυφα
+typographicNamesstyleNamewght200standardπολύ ελαφριά
+typographicNamesstyleNamewght200ultraεξαιρετικά ελαφριά
+typographicNamesstyleNamewght300standardελαφριά
+typographicNamesstyleNamewght600demiημι-έντονα
+typographicNamesstyleNamewght600standardημιέντονα
+typographicNamesstyleNamewght800ultraεξαιρετικά έντονα
+typographicNamesstyleNamewght800standardπολύ έντονα
+typographicNamesstyleNamewght380standardβιβλίο
+typographicNamesstyleNamewght350standardημιελαφριά
+typographicNamesstyleNamewght100standardλεπτά
+typographicNamesstyleNamewght950ultrablackεξαιρετικά μαύρα
+typographicNamesstyleNamewght950ultraheavyεξαιρετικά χοντρά
+typographicNamesstyleNamewght950standardπολύ μαύρα
+typographicNamesstyleNamewght900heavyχοντρά
+typographicNamesstyleNamewght900standardμαύρα
+typographicNamesstyleNamewght500standardμεσαία
+typographicNamesstyleNamewght400standardκανονικά
+typographicNamesstyleNamewght700standardέντονα
+typographicNamesstyleNameital1standardλοξά
+typographicNamesfeatureNametnumαριθμοί σε πίνακα
+typographicNamesfeatureNamepnumαναλογικοί αριθμοί
+typographicNamesfeatureNameafrcκάθετα κλάσματα
+typographicNamesfeatureNameonumαριθμοί παλαιού στιλ
+typographicNamesfeatureNamezeroμηδέν με γραμμή
+typographicNamesfeatureNameordnτακτικοί
+typographicNamesfeatureNamefracδιαγώνια κλάσματα
+typographicNamesfeatureNamesmcpμικρά κεφαλαία
+typographicNamesfeatureNamecpspδιάστιχο κεφαλαίων
+typographicNamesfeatureNamelnumευθυγραμμισμένοι αριθμοί
+typographicNamesfeatureNamedligπροαιρετικά συμπλέγματα
+delimitersquotationEnd»
+delimitersalternateQuotationStart“
+delimitersquotationStart«
+delimitersalternateQuotationEnd”
+characterLabelslabelstravelταξίδι
+characterLabelslabelsdivination_symbolsσύμβολο μαντείας
+characterLabelslabelsplantφυτό
+characterLabelslabelskeycapπλήκτρο
+characterLabelslabelsleftwards_arrowsβέλος αριστερά
+characterLabelslabelslimited_useπεριορισμένης χρήσης
+characterLabelslabelsplaceμέρος
+characterLabelslabelssmall_form_variantπαραλλαγή μικρού μεγέθους
+characterLabelslabelsamerican_scriptsαμερικανική γραφή
+characterLabelslabelsflagσημαία
+characterLabelslabelsfood_drinkφαγητό και ποτό
+characterLabelslabelsformat_whitespaceμορφή και κενό διάστημα
+characterLabelslabelsweatherκαιρός
+characterLabelslabelsvariant_formsπαραλλαγή
+characterLabelslabelsvocalic_jamoφωνηεντικά Τζάμο
+characterLabelslabelsdash_connectorπαύλα ή σύνδεσμος
+characterLabelslabelsrightwards_arrowsβέλος δεξιά
+characterLabelslabelshanzi_traditionalΧάνζι (Παραδοσιακά)
+characterLabelslabelsmaleάντρας
+characterLabelslabelswestern_asian_scriptsγραφή Δυτικής Ασίας
+characterLabelslabelsanimals_natureζώο ή φύση
+characterLabelslabelssportάθληση
+characterLabelslabelspersonάτομο
+characterLabelslabelsfull_width_form_variantπαραλλαγή πλήρους πλάτους
+characterLabelslabelsemojiemoji
+characterLabelslabelsmodern_scriptsσύγχρονη γραφή
+characterLabelslabelspunctuationστίξη
+characterLabelslabelsdigitsψηφίο
+characterLabelslabelsdownwards_upwards_arrowsβέλος κάτω-πάνω
+characterLabelslabelsletterlike_symbolsσύμβολο με μορφή γράμματος
+characterLabelslabelswhitespaceκενό διάστημα
+characterLabelslabelsbox_drawingσχεδίαση πλαισίων
+characterLabelslabelssmileys_peopleγελαστούλης ή άτομο
+characterLabelslabelsafrican_scriptsαφρικανική γραφή
+characterLabelslabelsformatμορφή
+characterLabelslabelshan_charactersχαρακτήρας Χαν
+characterLabelslabelsdingbatsχαρακτήρας Dingbat
+characterLabelslabelshanzi_simplifiedΧάνζι (Απλοποιημένα)
+characterLabelslabelsotherάλλο
+characterLabelslabelsbrailleΜπράιγ
+characterLabelslabelsobjectsαντικείμενο
+characterLabelslabelscurrency_symbolsσύμβολο νομίσματος
+characterLabelslabelsflagsσημαίες
+characterLabelslabelsideographic_desc_charactersιδεογραφικός περιγραφικός χαρακτήρας
+characterLabelslabelsjapanese_kanaΙαπωνικά Κάνα
+characterLabelslabelskanbunΚανμπούν
+characterLabelslabelsleftwards_rightwards_arrowsβέλος αριστερά-δεξιά
+characterLabelslabelsnonspacingδεν καταλαμβάνει διάστημα
+characterLabelslabelseuropean_scriptsευρωπαϊκή γραφή
+characterLabelslabelstechnical_symbolsτεχνικό σύμβολο
+characterLabelslabelsspacingδιαστήματα
+characterLabelslabelsnatureφύση
+characterLabelslabelsdownwards_arrowsβέλος κάτω
+characterLabelslabelshan_radicalsριζικό Χαν
+characterLabelslabelsmiddle_eastern_scriptsγραφή Μέσης Ανατολής
+characterLabelslabelshanjaΧαντζά
+characterLabelslabelstone_marksσημάδι τόνου
+characterLabelslabelsarrowsβέλος
+characterLabelslabelssoutheast_asian_scriptsγραφή Νοτιοανατολικής Ασίας
+characterLabelslabelsbuildingκτίριο
+characterLabelslabelsactivitiesδραστηριότητα
+characterLabelslabelsphonetic_alphabetφωνητικό αλφάβητο
+characterLabelslabelskanjiΚάντζι
+characterLabelslabelsbullets_starsκουκκίδα ή αστέρι
+characterLabelslabelssouth_asian_scriptsγραφή Νότιας Ασίας
+characterLabelslabelshistoric_scriptsιστορική γραφή
+characterLabelslabelsmath_symbolsμαθηματικό σύμβολο
+characterLabelslabelssign_standard_symbolsσήμα ή σύμβολο
+characterLabelslabelssmileyγελαστούλης
+characterLabelslabelshalf_width_form_variantπαραλλαγή μισού πλάτους
+characterLabelslabelseast_asian_scriptsγραφή Ανατολικής Ασίας
+characterLabelslabelsmusical_symbolsμουσικό σύμβολο
+characterLabelslabelsheartκαρδιά
+characterLabelslabelsnumbersαριθμοί
+characterLabelslabelsfemaleγυναίκα
+characterLabelslabelsgeometric_shapesγεωμετρικό σχήμα
+characterLabelslabelsupwards_arrowsβέλος πάνω
+characterLabelslabelssymbolsσύμβολο
+characterLabelslabelstravel_placesταξίδι ή μέρος
+characterLabelslabelsconsonantal_jamoσυμφωνογραφικά Τζάμο
+characterLabelslabelspictographsεικονόγραμμα
+characterLabelslabelsbodyσώμα
+characterLabelslabelsmodifierτροποποιητής
+characterLabelslabelsanimalζώο
+characterLabelslabelspairedμε ζεύξη
+characterLabelslabelsmiscellaneousδιάφορα
+characterLabelspatternsstrokes{0} γραμμές
+characterLabelspatternsenclosed{0} — περικλειόμενα
+characterLabelspatternsmiscellaneous{0} — διάφορα
+characterLabelspatternsscriptsγραφές — {0}
+characterLabelspatternshistoric{0} — ιστορικά
+characterLabelspatternscompatibility{0} — συμβατότητα
+characterLabelspatternscategory-list{0}: {1}
+characterLabelspatternsother{0} — άλλα
+characterLabelspatternsextended{0} — εκτεταμένα
+characterLabelspatternsall{0} — όλα
+unitsnarrowcoordinateUnitnorth{0} Β
+unitsnarrowcoordinateUnitsouth{0} Ν
+unitsnarrowcoordinateUnitdisplayNameσημεία
+unitsnarrowcoordinateUnitwest{0} Δ
+unitsnarrowcoordinateUniteast{0} Α
+unitsnarrowunitduration-seconddisplayNameδευτ.
+unitsnarrowunitduration-secondpatternone{0} δ
+unitsnarrowunitduration-secondpatternother{0} δ
+unitsnarrowunitpressure-hectopascalpatternother{0} hPa
+unitsnarrowunitpressure-hectopascalpatternone{0} hPa
+unitsnarrowunitconsumption-liter-per-100kilometerspatternone{0} λ/100 χλμ
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0} λ/100 χλμ
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNameλ/100 χλμ
+unitsnarrowunitacceleration-g-forcepatternother{0} G
+unitsnarrowunitacceleration-g-forcepatternone{0} G
+unitsnarrowunitarea-square-footpatternone{0} ft²
+unitsnarrowunitarea-square-footpatternother{0} ft²
+unitsnarrowunitarea-square-kilometerpatternother{0} km²
+unitsnarrowunitarea-square-kilometerpatternone{0} km²
+unitsnarrowunitvolume-cubic-milepatternother{0} mi³
+unitsnarrowunitvolume-cubic-milepatternone{0} mi³
+unitsnarrowunitvolume-cubic-miledisplayNamemi³
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunitlength-picometerpatternother{0} pm
+unitsnarrowunitlength-picometerpatternone{0} pm
+unitsnarrowunitspeed-mile-per-hourpatternother{0} mi/h
+unitsnarrowunitspeed-mile-per-hourpatternone{0} mi/h
+unitsnarrowunitconcentr-percentpatternone{0}%
+unitsnarrowunitconcentr-percentpatternother{0}%
+unitsnarrowunitconcentr-percentdisplayName%
+unitsnarrowunitarea-acrepatternone{0} ac
+unitsnarrowunitarea-acrepatternother{0} ac
+unitsnarrowunitarea-hectarepatternother{0} ha
+unitsnarrowunitarea-hectarepatternone{0} ha
+unitsnarrowunitangle-degreepatternone{0}°
+unitsnarrowunitangle-degreepatternother{0}°
+unitsnarrowunitlength-yardpatternone{0} yd
+unitsnarrowunitlength-yardpatternother{0} yd
+unitsnarrowunitpressure-millibarpatternone{0} mbar
+unitsnarrowunitpressure-millibarpatternother{0} mbar
+unitsnarrowunitpressure-inch-hgpatternother{0} inHg
+unitsnarrowunitpressure-inch-hgpatternone{0} inHg
+unitsnarrowunitmass-kilogramdisplayNamekg
+unitsnarrowunitmass-kilogrampatternone{0} kg
+unitsnarrowunitmass-kilogrampatternother{0} kg
+unitsnarrowunitduration-daypatternother{0} η
+unitsnarrowunitduration-daypatternone{0} η
+unitsnarrowunitduration-daydisplayNameημέρα
+unitsnarrowunitlength-meterdisplayNameμέτρο
+unitsnarrowunitlength-meterpatternother{0} μ.
+unitsnarrowunitlength-meterpatternone{0} μ.
+unitsnarrowunitduration-milliseconddisplayNameχιλ. δευτ.
+unitsnarrowunitduration-millisecondpatternone{0} ms
+unitsnarrowunitduration-millisecondpatternother{0} ms
+unitsnarrowunitduration-minutedisplayNameλεπ.
+unitsnarrowunitduration-minutepatternother{0} λ
+unitsnarrowunitduration-minutepatternone{0} λ
+unitsnarrowunitvolume-cubic-kilometerdisplayNamekm³
+unitsnarrowunitvolume-cubic-kilometerpatternone{0} km³
+unitsnarrowunitvolume-cubic-kilometerpatternother{0} km³
+unitsnarrowunitlength-inchpatternother{0} in
+unitsnarrowunitlength-inchpatternone{0} in
+unitsnarrowunitspeed-meter-per-secondpatternother{0} m/s
+unitsnarrowunitspeed-meter-per-secondpatternone{0} m/s
+unitsnarrowunittemperature-celsiuspatternone{0}°C
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunitlength-kilometerpatternother{0} χλμ.
+unitsnarrowunitlength-kilometerpatternone{0} χλμ.
+unitsnarrowunitlength-kilometerdisplayNameχλμ.
+unitsnarrowunitpower-horsepowerpatternother{0} hp
+unitsnarrowunitpower-horsepowerpatternone{0} hp
+unitsnarrowunitmass-ouncepatternone{0} oz
+unitsnarrowunitmass-ouncepatternother{0} oz
+unitsnarrowunitlength-light-yearpatternother{0} ly
+unitsnarrowunitlength-light-yearpatternone{0} ly
+unitsnarrowunitarea-square-milepatternone{0} mi²
+unitsnarrowunitarea-square-milepatternother{0} mi²
+unitsnarrowunitduration-weekpatternone{0} ε
+unitsnarrowunitduration-weekpatternother{0} ε
+unitsnarrowunitduration-weekdisplayNameεβδ.
+unitsnarrowunitpower-wattpatternone{0} W
+unitsnarrowunitpower-wattpatternother{0} W
+unitsnarrowunitspeed-kilometer-per-hourdisplayNameχλμ/ώ.
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0} χλμ/ώ.
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} χλμ/ώ.
+unitsnarrowunitlength-footpatternother{0} ft
+unitsnarrowunitlength-footpatternone{0} ft
+unitsnarrowunitlength-milepatternone{0} mi
+unitsnarrowunitlength-milepatternother{0} mi
+unitsnarrowunitlength-millimeterpatternone{0} χλστ.
+unitsnarrowunitlength-millimeterpatternother{0} χλστ.
+unitsnarrowunitlength-millimeterdisplayNameχλστ.
+unitsnarrowunitarea-square-meterpatternother{0} m²
+unitsnarrowunitarea-square-meterpatternone{0} m²
+unitsnarrowunitduration-monthdisplayNameμήνας
+unitsnarrowunitduration-monthpatternother{0} μ
+unitsnarrowunitduration-monthpatternone{0} μ
+unitsnarrowunitduration-yearpatternone{0} έ
+unitsnarrowunitduration-yearpatternother{0} έ
+unitsnarrowunitduration-yeardisplayNameέτ.
+unitsnarrowunitduration-hourpatternother{0} ώ
+unitsnarrowunitduration-hourpatternone{0} ώ
+unitsnarrowunitduration-hourdisplayNameώρα
+unitsnarrowunitvolume-literpatternother{0} λ.
+unitsnarrowunitvolume-literpatternone{0} λ.
+unitsnarrowunitvolume-literdisplayNameλίτρο
+unitsnarrowunitpower-kilowattpatternone{0} kW
+unitsnarrowunitpower-kilowattpatternother{0} kW
+unitsnarrowunitangle-arc-secondpatternone{0}″
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunitangle-arc-minutepatternother{0}′
+unitsnarrowunitangle-arc-minutepatternone{0}′
+unitsnarrowunitmass-poundpatternother{0} lb
+unitsnarrowunitmass-poundpatternone{0} lb
+unitsnarrowunitmass-gramdisplayNameγρ.
+unitsnarrowunitmass-grampatternother{0} γρ.
+unitsnarrowunitmass-grampatternone{0} γρ.
+unitsnarrowunitlength-centimeterdisplayNameεκ.
+unitsnarrowunitlength-centimeterpatternone{0} εκ.
+unitsnarrowunitlength-centimeterpatternother{0} εκ.
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitslongcoordinateUnitdisplayNameσημεία ορίζοντα
+unitslongcoordinateUnitsouth{0} νότια
+unitslongcoordinateUnitnorth{0} βόρεια
+unitslongcoordinateUniteast{0} ανατολικά
+unitslongcoordinateUnitwest{0} δυτικά
+unitslongunittemperature-kelvindisplayNameβαθμοί Κέλβιν
+unitslongunittemperature-kelvinpatternone{0} βαθμός Κέλβιν
+unitslongunittemperature-kelvinpatternother{0} βαθμοί Κέλβιν
+unitslongunitelectric-voltdisplayNameβολτ
+unitslongunitelectric-voltpatternone{0} βολτ
+unitslongunitelectric-voltpatternother{0} βολτ
+unitslongunitdigital-petabytepatternother{0} petabyte
+unitslongunitdigital-petabytepatternone{0} petabyte
+unitslongunitdigital-petabytedisplayNamepetabyte
+unitslongunitlength-picometerdisplayNameπικόμετρα
+unitslongunitlength-picometerpatternone{0} πικόμετρο
+unitslongunitlength-picometerpatternother{0} πικόμετρα
+unitslongunitlight-luxdisplayNameλουξ
+unitslongunitlight-luxpatternone{0} λουξ
+unitslongunitlight-luxpatternother{0} λουξ
+unitslongunitconcentr-permillepatternone{0} τοις χιλίοις
+unitslongunitconcentr-permillepatternother{0} τοις χιλίοις
+unitslongunitconcentr-permilledisplayNameτοις χιλίοις
+unitslongunitduration-centurydisplayNameαιώνες
+unitslongunitduration-centurypatternother{0} αιώνες
+unitslongunitduration-centurypatternone{0} αιώνας
+unitslongunitconsumption-liter-per-kilometerpatternone{0} λίτρο ανά χιλιόμετρο
+unitslongunitconsumption-liter-per-kilometerpatternother{0} λίτρα ανά χιλιόμετρο
+unitslongunitconsumption-liter-per-kilometerdisplayNameλίτρα ανά χιλιόμετρο
+unitslongunitvolume-cup-metricdisplayNameμετρικά κύπελλα
+unitslongunitvolume-cup-metricpatternone{0} μετρικό κύπελλο
+unitslongunitvolume-cup-metricpatternother{0} μετρικά κύπελλα
+unitslongunitvolume-cubic-milepatternone{0} κυβικό μίλι
+unitslongunitvolume-cubic-milepatternother{0} κυβικά μίλια
+unitslongunitvolume-cubic-miledisplayNameκυβικά μίλια
+unitslongunitarea-hectaredisplayNameεκτάρια
+unitslongunitarea-hectarepatternother{0} εκτάρια
+unitslongunitarea-hectarepatternone{0} εκτάριο
+unitslongunitmass-caratpatternone{0} καράτι
+unitslongunitmass-caratpatternother{0} καράτια
+unitslongunitmass-caratdisplayNameκαράτια
+unitslongunittemperature-fahrenheitdisplayNameβαθμοί Φαρενάιτ
+unitslongunittemperature-fahrenheitpatternone{0} βαθμός Φαρενάιτ
+unitslongunittemperature-fahrenheitpatternother{0} βαθμοί Φαρενάιτ
+unitslongunitconcentr-percentpatternother{0} τοις εκατό
+unitslongunitconcentr-percentpatternone{0} τοις εκατό
+unitslongunitconcentr-percentdisplayNameτοις εκατό
+unitslongunitspeed-mile-per-hourdisplayNameμίλια ανά ώρα
+unitslongunitspeed-mile-per-hourpatternother{0} μίλια ανά ώρα
+unitslongunitspeed-mile-per-hourpatternone{0} μίλι ανά ώρα
+unitslongunitarea-acrepatternother{0} ακρ
+unitslongunitarea-acrepatternone{0} ακρ
+unitslongunitarea-acredisplayNameακρ
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} μέτρα ανά τετραγωνικό δευτερόλεπτο
+unitslongunitacceleration-meter-per-second-squaredpatternone{0} μέτρο ανά τετραγωνικό δευτερόλεπτο
+unitslongunitacceleration-meter-per-second-squareddisplayNameμέτρα ανά τετραγωνικό δευτερόλεπτο
+unitslongunitangle-degreepatternone{0} μοίρα
+unitslongunitangle-degreepatternother{0} μοίρες
+unitslongunitangle-degreedisplayNameμοίρες
+unitslongunitpower-milliwattpatternother{0} μιλιβάτ
+unitslongunitpower-milliwattpatternone{0} μιλιβάτ
+unitslongunitpower-milliwattdisplayNameμιλιβάτ
+unitslongunitenergy-joulepatternother{0} τζάουλ
+unitslongunitenergy-joulepatternone{0} τζάουλ
+unitslongunitenergy-jouledisplayNameτζάουλ
+unitslongunitvolume-deciliterpatternone{0} δεκατόλιτρο
+unitslongunitvolume-deciliterpatternother{0} δεκατόλιτρα
+unitslongunitvolume-deciliterdisplayNameδεκατόλιτρα
+unitslongunitarea-square-footdisplayNameτετραγωνικά πόδια
+unitslongunitarea-square-footpatternother{0} τετραγωνικά πόδια
+unitslongunitarea-square-footpatternone{0} τετραγωνικό πόδι
+unitslongunitduration-secondperUnitPattern{0} ανά δευτερόλεπτο
+unitslongunitduration-seconddisplayNameδευτερόλεπτα
+unitslongunitduration-secondpatternother{0} δευτερόλεπτα
+unitslongunitduration-secondpatternone{0} δευτερόλεπτο
+unitslongunitdigital-kilobytedisplayNamekilobyte
+unitslongunitdigital-kilobytepatternother{0} kilobyte
+unitslongunitdigital-kilobytepatternone{0} kilobyte
+unitslongunitarea-square-centimeterperUnitPattern{0}/τετραγωνικό εκατοστό
+unitslongunitarea-square-centimeterdisplayNameτετραγωνικά εκατοστά
+unitslongunitarea-square-centimeterpatternone{0} τετραγωνικό εκατοστό
+unitslongunitarea-square-centimeterpatternother{0} τετραγωνικά εκατοστά
+unitslongunitlength-astronomical-unitdisplayNameαστρονομικές μονάδες
+unitslongunitlength-astronomical-unitpatternother{0} αστρονομικές μονάδες
+unitslongunitlength-astronomical-unitpatternone{0} αστρονομική μονάδα
+unitslongunitenergy-foodcaloriepatternother{0} θερμίδες
+unitslongunitenergy-foodcaloriepatternone{0} θερμίδα
+unitslongunitenergy-foodcaloriedisplayNameΘερμίδες
+unitslongunitvolume-milliliterpatternone{0} χιλιοστόλιτρο
+unitslongunitvolume-milliliterpatternother{0} χιλιοστόλιτρα
+unitslongunitvolume-milliliterdisplayNameχιλιοστόλιτρα
+unitslongunitpressure-hectopascalpatternother{0} εκτοπασκάλ
+unitslongunitpressure-hectopascalpatternone{0} εκτοπασκάλ
+unitslongunitpressure-hectopascaldisplayNameεκτοπασκάλ
+unitslongunitvolume-megaliterdisplayNameμεγαλίτρα
+unitslongunitvolume-megaliterpatternone{0} μεγαλίτρο
+unitslongunitvolume-megaliterpatternother{0} μεγαλίτρα
+unitslongunitelectric-ohmdisplayNameωμ
+unitslongunitelectric-ohmpatternother{0} ωμ
+unitslongunitelectric-ohmpatternone{0} ωμ
+unitslongunitconsumption-liter-per-100kilometerspatternother{0} λίτρα ανά 100 χιλιόμετρα
+unitslongunitconsumption-liter-per-100kilometerspatternone{0} λίτρο ανά 100 χιλιόμετρα
+unitslongunitconsumption-liter-per-100kilometersdisplayNameλίτρα ανά 100 χιλιόμετρα
+unitslongunitacceleration-g-forcedisplayNameδύναμη επιτάχυνσης
+unitslongunitacceleration-g-forcepatternone{0} δύναμη επιτάχυνσης
+unitslongunitacceleration-g-forcepatternother{0} δύναμη επιτάχυνσης
+unitslongunitarea-square-kilometerdisplayNameτετραγωνικά χιλιόμετρα
+unitslongunitarea-square-kilometerperUnitPattern{0}/τετραγωνικό χιλιόμετρο
+unitslongunitarea-square-kilometerpatternone{0} τετραγωνικό χιλιόμετρο
+unitslongunitarea-square-kilometerpatternother{0} τετραγωνικά χιλιόμετρα
+unitslongunitvolume-quartdisplayNameτέταρτα του γαλονιού
+unitslongunitvolume-quartpatternone{0} τέταρτο του γαλονιού
+unitslongunitvolume-quartpatternother{0} τέταρτα του γαλονιού
+unitslongunitvolume-cubic-footdisplayNameκυβικά πόδια
+unitslongunitvolume-cubic-footpatternother{0} κυβικά πόδια
+unitslongunitvolume-cubic-footpatternone{0} κυβικό πόδι
+unitslongunitconsumption-mile-per-gallondisplayNameμίλια ανά γαλόνι
+unitslongunitconsumption-mile-per-gallonpatternother{0} μίλια ανά γαλόνι
+unitslongunitconsumption-mile-per-gallonpatternone{0} μίλι ανά γαλόνι
+unitslongunitvolume-cubic-centimeterpatternone{0} κυβικό εκατοστό
+unitslongunitvolume-cubic-centimeterpatternother{0} κυβικά εκατοστά
+unitslongunitvolume-cubic-centimeterdisplayNameκυβικά εκατοστά
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} ανά κυβικό εκατοστό
+unitslongunitenergy-kilocaloriepatternother{0} χιλιοθερμίδες
+unitslongunitenergy-kilocaloriepatternone{0} χιλιοθερμίδα
+unitslongunitenergy-kilocaloriedisplayNameχιλιοθερμίδες
+unitslongunitlength-nanometerpatternother{0} νανόμετρα
+unitslongunitlength-nanometerpatternone{0} νανόμετρο
+unitslongunitlength-nanometerdisplayNameνανόμετρα
+unitslongunitmass-tonpatternone{0} τόνος
+unitslongunitmass-tonpatternother{0} τόνοι
+unitslongunitmass-tondisplayNameτόνοι
+unitslongunitvolume-pint-metricdisplayNameμετρικές πίντες
+unitslongunitvolume-pint-metricpatternone{0} μετρική πίντα
+unitslongunitvolume-pint-metricpatternother{0} μετρικές πίντες
+unitslongunitvolume-pintpatternother{0} πίντες
+unitslongunitvolume-pintpatternone{0} πίντα
+unitslongunitvolume-pintdisplayNameπίντες
+unitslongunitduration-microsecondpatternother{0} μικροδευτερόλεπτα
+unitslongunitduration-microsecondpatternone{0} μικροδευτερόλεπτο
+unitslongunitduration-microseconddisplayNameμικροδευτερόλεπτα
+unitslongunitarea-square-inchpatternother{0} τετραγωνικές ίντσες
+unitslongunitarea-square-inchpatternone{0} τετραγωνική ίντσα
+unitslongunitarea-square-inchperUnitPattern{0} ανά τετραγωνική ίντσα
+unitslongunitarea-square-inchdisplayNameτετραγωνικές ίντσες
+unitslongunitfrequency-hertzpatternone{0} χερτζ
+unitslongunitfrequency-hertzpatternother{0} χερτζ
+unitslongunitfrequency-hertzdisplayNameχερτζ
+unitslongunitenergy-kilowatt-hourpatternother{0} κιλοβατώρες
+unitslongunitenergy-kilowatt-hourpatternone{0} κιλοβατώρα
+unitslongunitenergy-kilowatt-hourdisplayNameκιλοβατώρες
+unitslongunitlength-inchpatternother{0} ίντσες
+unitslongunitlength-inchpatternone{0} ίντσα
+unitslongunitlength-inchperUnitPattern{0} ανά ίντσα
+unitslongunitlength-inchdisplayNameίντσες
+unitslongunitpressure-atmospherepatternone{0} ατμόσφαιρα
+unitslongunitpressure-atmospherepatternother{0} ατμόσφαιρες
+unitslongunitpressure-atmospheredisplayNameατμόσφαιρες
+unitslongunitelectric-amperedisplayNameαμπέρ
+unitslongunitelectric-amperepatternother{0} αμπέρ
+unitslongunitelectric-amperepatternone{0} αμπέρ
+unitslongunitvolume-cubic-kilometerpatternother{0} κυβικά χιλιόμετρα
+unitslongunitvolume-cubic-kilometerpatternone{0} κυβικό χιλιόμετρο
+unitslongunitvolume-cubic-kilometerdisplayNameκυβικά χιλιόμετρα
+unitslongunitdigital-bytedisplayNamebyte
+unitslongunitdigital-bytepatternother{0} byte
+unitslongunitdigital-bytepatternone{0} byte
+unitslongunitlength-micrometerpatternother{0} μικρόμετρα
+unitslongunitlength-micrometerpatternone{0} μικρόμετρο
+unitslongunitlength-micrometerdisplayNameµm
+unitslongunitfrequency-kilohertzdisplayNameκιλοχέρτζ
+unitslongunitfrequency-kilohertzpatternother{0} κιλοχέρτζ
+unitslongunitfrequency-kilohertzpatternone{0} κιλοχέρτζ
+unitslongunitmass-microgrampatternother{0} μικρογραμμάρια
+unitslongunitmass-microgrampatternone{0} μικρογραμμάριο
+unitslongunitmass-microgramdisplayNameμικρογραμμάρια
+unitslongunitmass-ounce-troydisplayNameευγενείς ουγγιές
+unitslongunitmass-ounce-troypatternother{0} ευγενείς ουγγιές
+unitslongunitmass-ounce-troypatternone{0} ευγενής ουγγιά
+unitslongunitpressure-millimeter-of-mercurydisplayNameχιλιοστόμετρα στήλης υδραργύρου
+unitslongunitpressure-millimeter-of-mercurypatternother{0} χιλιοστόμετρα στήλης υδραργύρου
+unitslongunitpressure-millimeter-of-mercurypatternone{0} χιλιοστόμετρα στήλης υδραργύρου
+unitslongunitdigital-kilobitdisplayNamekilobit
+unitslongunitdigital-kilobitpatternother{0} kilobit
+unitslongunitdigital-kilobitpatternone{0} kilobit
+unitslongunitspeed-meter-per-secondpatternone{0} μέτρο ανά δευτερόλεπτο
+unitslongunitspeed-meter-per-secondpatternother{0} μέτρα ανά δευτερόλεπτο
+unitslongunitspeed-meter-per-seconddisplayNameμέτρα ανά δευτερόλεπτο
+unitslongunitduration-minuteperUnitPattern{0} ανά λεπτό
+unitslongunitduration-minutedisplayNameλεπτά
+unitslongunitduration-minutepatternother{0} λεπτά
+unitslongunitduration-minutepatternone{0} λεπτό
+unitslongunitlength-meterpatternother{0} μέτρα
+unitslongunitlength-meterpatternone{0} μέτρο
+unitslongunitlength-meterperUnitPattern{0} ανά μέτρο
+unitslongunitlength-meterdisplayNameμέτρα
+unitslongunitpressure-millibardisplayNameμιλιμπάρ
+unitslongunitpressure-millibarpatternone{0} μιλιμπάρ
+unitslongunitpressure-millibarpatternother{0} μιλιμπάρ
+unitslongunitvolume-teaspoonpatternone{0} κουταλιά του γλυκού
+unitslongunitvolume-teaspoonpatternother{0} κουταλιές του γλυκού
+unitslongunitvolume-teaspoondisplayNameκουταλιές του γλυκού
+unitslongunitduration-daypatternother{0} ημέρες
+unitslongunitduration-daypatternone{0} ημέρα
+unitslongunitduration-dayperUnitPattern{0} ανά ημέρα
+unitslongunitduration-daydisplayNameημέρες
+unitslongunitlength-yardpatternother{0} γιάρδες
+unitslongunitlength-yardpatternone{0} γιάρδα
+unitslongunitlength-yarddisplayNameγιάρδες
+unitslongunitpressure-inch-hgdisplayNameίντσες στήλης υδραργύρου
+unitslongunitpressure-inch-hgpatternone{0} ίντσα στήλης υδραργύρου
+unitslongunitpressure-inch-hgpatternother{0} ίντσες στήλης υδραργύρου
+unitslongunitmass-kilogramperUnitPattern{0} ανά κιλό
+unitslongunitmass-kilogramdisplayNameχιλιόγραμμα
+unitslongunitmass-kilogrampatternone{0} χιλιόγραμμο
+unitslongunitmass-kilogrampatternother{0} χιλιόγραμμα
+unitslongunitduration-milliseconddisplayNameχιλιοστά του δευτερολέπτου
+unitslongunitduration-millisecondpatternother{0} χιλιοστά του δευτερολέπτου
+unitslongunitduration-millisecondpatternone{0} χιλιοστό του δευτερολέπτου
+unitslongunitvolume-cubic-yardpatternother{0} κυβικές γιάρδες
+unitslongunitvolume-cubic-yardpatternone{0} κυβική γιάρδα
+unitslongunitvolume-cubic-yarddisplayNameκυβικές γιάρδες
+unitslongunitvolume-centiliterpatternother{0} εκατοστόλιτρα
+unitslongunitvolume-centiliterpatternone{0} εκατοστόλιτρο
+unitslongunitvolume-centiliterdisplayNameεκατοστόλιτρα
+unitslongunitdigital-terabitpatternother{0} terabit
+unitslongunitdigital-terabitpatternone{0} terabit
+unitslongunitdigital-terabitdisplayNameterabit
+unitslongunitelectric-milliamperedisplayNameμιλιαμπέρ
+unitslongunitelectric-milliamperepatternone{0} μιλιαμπέρ
+unitslongunitelectric-milliamperepatternother{0} μιλιαμπέρ
+unitslongunitvolume-cupdisplayNameκύπελλα
+unitslongunitvolume-cuppatternone{0} κύπελλο
+unitslongunitvolume-cuppatternother{0} κύπελλα
+unitslongunitspeed-kilometer-per-hourpatternother{0} χιλιόμετρα ανά ώρα
+unitslongunitspeed-kilometer-per-hourpatternone{0} χιλιόμετρο ανά ώρα
+unitslongunitspeed-kilometer-per-hourdisplayNameχιλιόμετρα ανά ώρα
+unitslongunitduration-monthpatternone{0} μήνας
+unitslongunitduration-monthpatternother{0} μήνες
+unitslongunitduration-monthdisplayNameμήνες
+unitslongunitduration-monthperUnitPattern{0} ανά μήνα
+unitslongunitlength-millimeterpatternone{0} χιλιοστόμετρο
+unitslongunitlength-millimeterpatternother{0} χιλιοστόμετρα
+unitslongunitlength-millimeterdisplayNameχιλιοστόμετρα
+unitslongunitdigital-bitpatternother{0} bit
+unitslongunitdigital-bitpatternone{0} bit
+unitslongunitdigital-bitdisplayNamebit
+unitslongunitlength-milepatternone{0} μίλι
+unitslongunitlength-milepatternother{0} μίλια
+unitslongunitlength-miledisplayNameμίλια
+unitslongunitlength-pointdisplayNameστιγμή
+unitslongunitlength-pointpatternother{0} στιγμές
+unitslongunitlength-pointpatternone{0} στιγμή
+unitslongunitpower-wattdisplayNameβατ
+unitslongunitpower-wattpatternother{0} βατ
+unitslongunitpower-wattpatternone{0} βατ
+unitslongunitlength-mile-scandinavianpatternother{0} σκανδιναβικά μίλια
+unitslongunitlength-mile-scandinavianpatternone{0} σκανδιναβικό μίλι
+unitslongunitlength-mile-scandinaviandisplayNameσκανδιναβικά μίλια
+unitslongunitspeed-knotpatternone{0} κόμβος
+unitslongunitspeed-knotpatternother{0} κόμβοι
+unitslongunitspeed-knotdisplayNameκόμβος
+unitslongunitlength-nautical-miledisplayNameναυτικά μίλια
+unitslongunitlength-nautical-milepatternother{0} ναυτικά μίλια
+unitslongunitlength-nautical-milepatternone{0} ναυτικό μίλι
+unitslongunitduration-yearpatternone{0} έτος
+unitslongunitduration-yearpatternother{0} έτη
+unitslongunitduration-yeardisplayNameέτη
+unitslongunitduration-yearperUnitPattern{0} ανά έτος
+unitslongunitdigital-megabitdisplayNamemegabit
+unitslongunitdigital-megabitpatternone{0} megabit
+unitslongunitdigital-megabitpatternother{0} megabit
+unitslongunitconcentr-milligram-per-deciliterdisplayNameχιλιοστόγραμμα ανά δεκατόλιτρο
+unitslongunitconcentr-milligram-per-deciliterpatternone{0} χιλιοστόγραμμο ανά δεκατόλιτρο
+unitslongunitconcentr-milligram-per-deciliterpatternother{0} χιλιοστόγραμμα ανά δεκατόλιτρο
+unitslongunitarea-square-meterdisplayNameτετραγωνικά μέτρα
+unitslongunitarea-square-meterperUnitPattern{0}/τετραγωνικό μέτρο
+unitslongunitarea-square-meterpatternone{0} τετραγωνικό μέτρο
+unitslongunitarea-square-meterpatternother{0} τετραγωνικά μέτρα
+unitslongunitlength-footdisplayNameπόδια
+unitslongunitlength-footperUnitPattern{0} ανά πόδι
+unitslongunitlength-footpatternone{0} πόδι
+unitslongunitlength-footpatternother{0} πόδια
+unitslongunitpower-gigawattdisplayNameγιγαβάτ
+unitslongunitpower-gigawattpatternone{0} γιγαβάτ
+unitslongunitpower-gigawattpatternother{0} γιγαβάτ
+unitslongunitmass-milligrampatternother{0} χιλιοστόγραμμα
+unitslongunitmass-milligrampatternone{0} χιλιοστόγραμμο
+unitslongunitmass-milligramdisplayNameχιλιοστόγραμμα
+unitslongunitarea-square-miledisplayNameτετραγωνικά μίλια
+unitslongunitarea-square-mileperUnitPattern{0}/τετραγωνικό μίλι
+unitslongunitarea-square-milepatternone{0} τετραγωνικό μίλι
+unitslongunitarea-square-milepatternother{0} τετραγωνικά μίλια
+unitslongunitconcentr-millimole-per-literpatternone{0} χιλιοστογραμμομόριο ανά λίτρο
+unitslongunitconcentr-millimole-per-literpatternother{0} χιλιοστογραμμομόρια ανά λίτρο
+unitslongunitconcentr-millimole-per-literdisplayNameχιλιοστογραμμομόριο ανά λίτρο
+unitslongunitenergy-caloriedisplayNameθερμίδες
+unitslongunitenergy-caloriepatternother{0} θερμίδες
+unitslongunitenergy-caloriepatternone{0} θερμίδα
+unitslongunitangle-radiandisplayNameακτίνια
+unitslongunitangle-radianpatternother{0} ακτίνιο
+unitslongunitangle-radianpatternone{0} ακτίνιο
+unitslongunitpower-horsepowerpatternother{0} ίπποι
+unitslongunitpower-horsepowerpatternone{0} ίππος
+unitslongunitpower-horsepowerdisplayNameίπποι
+unitslongunitlength-kilometerpatternone{0} χιλιόμετρο
+unitslongunitlength-kilometerpatternother{0} χιλιόμετρα
+unitslongunitlength-kilometerdisplayNameχιλιόμετρα
+unitslongunitlength-kilometerperUnitPattern{0} ανά χιλιόμετρο
+unitslongunitvolume-hectoliterdisplayNameεκτόλιτρα
+unitslongunitvolume-hectoliterpatternone{0} εκτόλιτρο
+unitslongunitvolume-hectoliterpatternother{0} εκτόλιτρα
+unitslongunitlength-decimeterdisplayNameδεκατόμετρα
+unitslongunitlength-decimeterpatternother{0} δεκατόμετρα
+unitslongunitlength-decimeterpatternone{0} δεκατόμετρο
+unitslongunitlength-light-yearpatternone{0} έτος φωτός
+unitslongunitlength-light-yearpatternother{0} έτη φωτός
+unitslongunitlength-light-yeardisplayNameέτη φωτός
+unitslongunitdigital-gigabytepatternone{0} gigabyte
+unitslongunitdigital-gigabytepatternother{0} gigabyte
+unitslongunitdigital-gigabytedisplayNamegigabyte
+unitslongunittemperature-celsiusdisplayNameβαθμοί Κελσίου
+unitslongunittemperature-celsiuspatternother{0} βαθμοί Κελσίου
+unitslongunittemperature-celsiuspatternone{0} βαθμός Κελσίου
+unitslongunitdigital-terabytepatternone{0} terabyte
+unitslongunitdigital-terabytepatternother{0} terabyte
+unitslongunitdigital-terabytedisplayNameterabyte
+unitslongunitmass-metric-tonpatternother{0} μετρικοί τόνοι
+unitslongunitmass-metric-tonpatternone{0} μετρικός τόνος
+unitslongunitmass-metric-tondisplayNameμετρικοί τόνοι
+unitslongunitangle-revolutiondisplayNameστροφή
+unitslongunitangle-revolutionpatternother{0} στροφές
+unitslongunitangle-revolutionpatternone{0} στροφή
+unitslongunitduration-weekdisplayNameεβδομάδες
+unitslongunitduration-weekperUnitPattern{0} ανά εβδομάδα
+unitslongunitduration-weekpatternone{0} εβδομάδα
+unitslongunitduration-weekpatternother{0} εβδομάδες
+unitslongunitdigital-megabytedisplayNamemegabyte
+unitslongunitdigital-megabytepatternother{0} megabyte
+unitslongunitdigital-megabytepatternone{0} megabyte
+unitslongunitconsumption-mile-per-gallon-imperialpatternother{0} μίλια ανά αγγλοσαξονικό γαλόνι
+unitslongunitconsumption-mile-per-gallon-imperialpatternone{0} μίλι ανά αγγλοσαξονικό γαλόνι
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNameμίλια ανά αγγλοσαξονικό γαλόνι
+unitslongunitenergy-kilojouledisplayNameκιλοτζάουλ
+unitslongunitenergy-kilojoulepatternone{0} κιλοτζάουλ
+unitslongunitenergy-kilojoulepatternother{0} κιλοτζάουλ
+unitslongunitmass-ouncepatternother{0} ουγγιές
+unitslongunitmass-ouncepatternone{0} ουγγιά
+unitslongunitmass-ounceperUnitPattern{0} ανά ουγγιά
+unitslongunitmass-ouncedisplayNameουγγιές
+unitslongunitvolume-fluid-ouncedisplayNameουγγιές όγκου
+unitslongunitvolume-fluid-ouncepatternother{0} ουγγιές όγκου
+unitslongunitvolume-fluid-ouncepatternone{0} ουγγιά όγκου
+unitslongunitlength-centimeterperUnitPattern{0} ανά εκατοστό
+unitslongunitlength-centimeterdisplayNameεκατοστά
+unitslongunitlength-centimeterpatternother{0} εκατοστά
+unitslongunitlength-centimeterpatternone{0} εκατοστό
+unitslongunitmass-grampatternother{0} γραμμάρια
+unitslongunitmass-grampatternone{0} γραμμάριο
+unitslongunitmass-gramperUnitPattern{0} ανά γραμμάριο
+unitslongunitmass-gramdisplayNameγραμμάρια
+unitslongunitlength-parsecpatternother{0} παρσέκ
+unitslongunitlength-parsecpatternone{0} παρσέκ
+unitslongunitlength-parsecdisplayNameπαρσέκ
+unitslongunittemperature-genericdisplayName°
+unitslongunittemperature-genericpatternone{0}°
+unitslongunittemperature-genericpatternother{0}°
+unitslongunitvolume-cubic-inchdisplayNameκυβικές ίντσες
+unitslongunitvolume-cubic-inchpatternother{0} κυβικές ίντσες
+unitslongunitvolume-cubic-inchpatternone{0} κυβική ίντσα
+unitslongunitdigital-gigabitpatternone{0} gigabit
+unitslongunitdigital-gigabitpatternother{0} gigabit
+unitslongunitdigital-gigabitdisplayNamegigabit
+unitslongunitconcentr-karatdisplayNameκαράτια
+unitslongunitconcentr-karatpatternother{0} καράτια
+unitslongunitconcentr-karatpatternone{0} καράτι
+unitslongunitfrequency-gigahertzpatternother{0} γιγαχέρτζ
+unitslongunitfrequency-gigahertzpatternone{0} γιγαχέρτζ
+unitslongunitfrequency-gigahertzdisplayNameγιγαχέρτζ
+unitslongunitvolume-tablespoondisplayNameκουταλιές της σούπας
+unitslongunitvolume-tablespoonpatternother{0} κουταλιές της σούπας
+unitslongunitvolume-tablespoonpatternone{0} κουταλιά της σούπας
+unitslongunitarea-square-yarddisplayNameτετραγωνικές γιάρδες
+unitslongunitarea-square-yardpatternone{0} τετραγωνική γιάρδα
+unitslongunitarea-square-yardpatternother{0} τετραγωνικές γιάρδες
+unitslongunitpressure-pound-per-square-inchdisplayNameλίβρα ανά τετραγωνική ίντσα
+unitslongunitpressure-pound-per-square-inchpatternother{0} λίβρες ανά τετραγωνική ίντσα
+unitslongunitpressure-pound-per-square-inchpatternone{0} λίβρα ανά τετραγωνική ίντσα
+unitslongunitconcentr-part-per-milliondisplayNameμέρη ανά εκατομμύριο
+unitslongunitconcentr-part-per-millionpatternone{0} μέρος ανά εκατομμύριο
+unitslongunitconcentr-part-per-millionpatternother{0} μέρη ανά εκατομμύριο
+unitslongunitvolume-gallonpatternone{0} γαλόνι
+unitslongunitvolume-gallonpatternother{0} γαλόνια
+unitslongunitvolume-gallonperUnitPattern{0} ανά γαλόνι
+unitslongunitvolume-gallondisplayNameγαλόνια
+unitslongunitmass-pounddisplayNameλίβρες
+unitslongunitmass-poundperUnitPattern{0} ανά λίβρα
+unitslongunitmass-poundpatternother{0} λίβρες
+unitslongunitmass-poundpatternone{0} λίβρα
+unitslongunitangle-arc-secondpatternother{0} δευτερόλεπτα του τόξου
+unitslongunitangle-arc-secondpatternone{0} δευτερόλεπτο του τόξου
+unitslongunitangle-arc-seconddisplayNameδευτερόλεπτα του τόξου
+unitslongunitvolume-gallon-imperialdisplayNameαγγλοσαξονικά γαλόνια
+unitslongunitvolume-gallon-imperialperUnitPattern{0} ανά αγγλοσαξονικό γαλόνι
+unitslongunitvolume-gallon-imperialpatternone{0} αγγλοσαξονικό γαλόνι
+unitslongunitvolume-gallon-imperialpatternother{0} αγγλοσαξονικά γαλόνια
+unitslongunitvolume-acre-footdisplayNameακρ-πόδια
+unitslongunitvolume-acre-footpatternone{0} ακρ-πόδι
+unitslongunitvolume-acre-footpatternother{0} ακρ-πόδια
+unitslongunitpower-kilowattdisplayNameκιλοβάτ
+unitslongunitpower-kilowattpatternone{0} κιλοβάτ
+unitslongunitpower-kilowattpatternother{0} κιλοβάτ
+unitslongunitvolume-literpatternother{0} λίτρα
+unitslongunitvolume-literpatternone{0} λίτρο
+unitslongunitvolume-literperUnitPattern{0} ανά λίτρο
+unitslongunitvolume-literdisplayNameλίτρα
+unitslongunitvolume-cubic-meterdisplayNameκυβικά μέτρα
+unitslongunitvolume-cubic-meterperUnitPattern{0} ανά κυβικό μέτρο
+unitslongunitvolume-cubic-meterpatternother{0} κυβικό μέτρο
+unitslongunitvolume-cubic-meterpatternone{0} κυβικό μέτρο
+unitslongunitpower-megawattdisplayNameμεγαβάτ
+unitslongunitpower-megawattpatternone{0} μεγαβάτ
+unitslongunitpower-megawattpatternother{0} μεγαβάτ
+unitslongunitduration-nanoseconddisplayNameνανοδευτερόλεπτα
+unitslongunitduration-nanosecondpatternone{0} νανοδευτερόλεπτο
+unitslongunitduration-nanosecondpatternother{0} νανοδευτερόλεπτα
+unitslongunitfrequency-megahertzdisplayNameμεγαχέρτζ
+unitslongunitfrequency-megahertzpatternother{0} μεγαχέρτζ
+unitslongunitfrequency-megahertzpatternone{0} μεγαχέρτζ
+unitslongunitangle-arc-minutedisplayNameλεπτά του τόξου
+unitslongunitangle-arc-minutepatternone{0} λεπτό του τόξου
+unitslongunitangle-arc-minutepatternother{0} λεπτά του τόξου
+unitslongunitduration-hourdisplayNameώρες
+unitslongunitduration-hourperUnitPattern{0} ανά ώρα
+unitslongunitduration-hourpatternone{0} ώρα
+unitslongunitduration-hourpatternother{0} ώρες
+unitslongcompoundUnitperpattern{0} ανά {1}
+unitsshortunitvolume-megaliterdisplayNameML
+unitsshortunitvolume-megaliterpatternone{0} ML
+unitsshortunitvolume-megaliterpatternother{0} ML
+unitsshortunitelectric-ohmdisplayNameωμ
+unitsshortunitelectric-ohmpatternone{0} Ω
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitconsumption-liter-per-100kilometerspatternother{0} λ./100 χλμ.
+unitsshortunitconsumption-liter-per-100kilometerspatternone{0} λ./100 χλμ.
+unitsshortunitconsumption-liter-per-100kilometersdisplayNameλ./100 χλμ.
+unitsshortunitarea-square-kilometerpatternone{0} τ.χλμ.
+unitsshortunitarea-square-kilometerpatternother{0} τ.χλμ.
+unitsshortunitarea-square-kilometerdisplayNameτ.χλμ.
+unitsshortunitarea-square-kilometerperUnitPattern{0}/τ.χλμ.
+unitsshortunitacceleration-g-forcedisplayNameδύν. επιτάχ.
+unitsshortunitacceleration-g-forcepatternother{0} G
+unitsshortunitacceleration-g-forcepatternone{0} G
+unitsshortunitduration-secondpatternother{0} δευτ.
+unitsshortunitduration-secondpatternone{0} δευτ.
+unitsshortunitduration-secondperUnitPattern{0}/δευτ.
+unitsshortunitduration-seconddisplayNameδευτ.
+unitsshortunitvolume-deciliterpatternone{0} dL
+unitsshortunitvolume-deciliterpatternother{0} dL
+unitsshortunitvolume-deciliterdisplayNamedL
+unitsshortunitdigital-kilobytepatternone{0} kB
+unitsshortunitdigital-kilobytepatternother{0} kB
+unitsshortunitdigital-kilobytedisplayNamekB
+unitsshortunitarea-square-footdisplayNameτετρ. πόδια
+unitsshortunitarea-square-footpatternother{0} τ.πδ
+unitsshortunitarea-square-footpatternone{0} τ.πδ
+unitsshortunitarea-square-centimeterperUnitPattern{0}/τ.εκ.
+unitsshortunitarea-square-centimeterdisplayNameτ.εκ.
+unitsshortunitarea-square-centimeterpatternone{0} τ.εκ.
+unitsshortunitarea-square-centimeterpatternother{0} τ.εκ.
+unitsshortunitlength-astronomical-unitdisplayNameα.μ.
+unitsshortunitlength-astronomical-unitpatternone{0} α.μ.
+unitsshortunitlength-astronomical-unitpatternother{0} α.μ.
+unitsshortunitvolume-milliliterdisplayNamemL
+unitsshortunitvolume-milliliterpatternone{0} mL
+unitsshortunitvolume-milliliterpatternother{0} mL
+unitsshortunitpressure-hectopascalpatternone{0} hPa
+unitsshortunitpressure-hectopascalpatternother{0} hPa
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitenergy-foodcaloriedisplayNameθερμ.
+unitsshortunitenergy-foodcaloriepatternother{0} θερμ.
+unitsshortunitenergy-foodcaloriepatternone{0} θερμ.
+unitsshortunitconsumption-liter-per-kilometerdisplayNameλίτρα/χλμ.
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} λίτρα/χλμ
+unitsshortunitconsumption-liter-per-kilometerpatternone{0} λίτρο/χλμ
+unitsshortunitvolume-cup-metricdisplayNameμετρ. κύπελλο
+unitsshortunitvolume-cup-metricpatternother{0} μετρ. κύπελλα
+unitsshortunitvolume-cup-metricpatternone{0} μετρ. κύπελλο
+unitsshortunitvolume-cubic-miledisplayNamemi³
+unitsshortunitvolume-cubic-milepatternone{0} mi³
+unitsshortunitvolume-cubic-milepatternother{0} mi³
+unitsshortunitarea-hectarepatternone{0} εκτ.
+unitsshortunitarea-hectarepatternother{0} εκτ.
+unitsshortunitarea-hectaredisplayNameεκτ.
+unitsshortunitmass-caratdisplayNameκαράτια
+unitsshortunitmass-caratpatternone{0} κρτ
+unitsshortunitmass-caratpatternother{0} κρτ
+unitsshortunitspeed-mile-per-hourdisplayNameμίλια/ώρα
+unitsshortunitspeed-mile-per-hourpatternone{0} μίλι/ώρα
+unitsshortunitspeed-mile-per-hourpatternother{0} μίλια/ώρα
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitdisplayNameβθμ F
+unitsshortunitconcentr-percentdisplayNameτοις εκατό
+unitsshortunitconcentr-percentpatternone{0}%
+unitsshortunitconcentr-percentpatternother{0}%
+unitsshortunitarea-acredisplayNameακρ
+unitsshortunitarea-acrepatternone{0} ακρ
+unitsshortunitarea-acrepatternother{0} ακρ
+unitsshortunitacceleration-meter-per-second-squareddisplayNameμέτρα/τετρ. δευτ.
+unitsshortunitacceleration-meter-per-second-squaredpatternone{0} m/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} m/s²
+unitsshortunitenergy-joulepatternother{0} J
+unitsshortunitenergy-joulepatternone{0} J
+unitsshortunitenergy-jouledisplayNameτζάουλ
+unitsshortunitangle-degreepatternother{0}°
+unitsshortunitangle-degreepatternone{0}°
+unitsshortunitangle-degreedisplayNameμοίρες
+unitsshortunitpower-milliwattdisplayNameμιλιβάτ
+unitsshortunitpower-milliwattpatternother{0} mW
+unitsshortunitpower-milliwattpatternone{0} mW
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunittemperature-kelvinpatternone{0} K
+unitsshortunitelectric-voltdisplayNameβολτ
+unitsshortunitelectric-voltpatternother{0} V
+unitsshortunitelectric-voltpatternone{0} V
+unitsshortunitdigital-petabytedisplayNamePByte
+unitsshortunitdigital-petabytepatternother{0} PB
+unitsshortunitdigital-petabytepatternone{0} PB
+unitsshortunitconcentr-permilledisplayNameτοις χιλίοις
+unitsshortunitconcentr-permillepatternone{0}‰
+unitsshortunitconcentr-permillepatternother{0}‰
+unitsshortunitlight-luxdisplayNameλουξ
+unitsshortunitlight-luxpatternone{0} λουξ
+unitsshortunitlight-luxpatternother{0} λουξ
+unitsshortunitlength-picometerpatternone{0} pm
+unitsshortunitlength-picometerpatternother{0} pm
+unitsshortunitlength-picometerdisplayNamepm
+unitsshortunitduration-centurydisplayNameαιών.
+unitsshortunitduration-centurypatternone{0} αιών.
+unitsshortunitduration-centurypatternother{0} αιών.
+unitsshortunitduration-millisecondpatternone{0} ms
+unitsshortunitduration-millisecondpatternother{0} ms
+unitsshortunitduration-milliseconddisplayNameχιλιοστά δευτ.
+unitsshortunitvolume-cubic-yardpatternone{0} yd³
+unitsshortunitvolume-cubic-yardpatternother{0} yd³
+unitsshortunitvolume-cubic-yarddisplayNameκυβ. γιάρδες
+unitsshortunitvolume-centiliterpatternother{0} cL
+unitsshortunitvolume-centiliterpatternone{0} cL
+unitsshortunitvolume-centiliterdisplayNamecL
+unitsshortunitdigital-terabitpatternone{0} Tb
+unitsshortunitdigital-terabitpatternother{0} Tb
+unitsshortunitdigital-terabitdisplayNameTb
+unitsshortunitduration-minuteperUnitPattern{0}/λ.
+unitsshortunitduration-minutedisplayNameλεπ.
+unitsshortunitduration-minutepatternother{0} λεπ.
+unitsshortunitduration-minutepatternone{0} λεπ.
+unitsshortunitlength-meterpatternother{0} μ.
+unitsshortunitlength-meterpatternone{0} μ.
+unitsshortunitlength-meterdisplayNameμέτρα
+unitsshortunitlength-meterperUnitPattern{0}/μ.
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitpressure-millibarpatternone{0} mbar
+unitsshortunitpressure-millibardisplayNamembar
+unitsshortunitduration-daypatternother{0} ημέρες
+unitsshortunitduration-daypatternone{0} ημέρα
+unitsshortunitduration-daydisplayNameημέρες
+unitsshortunitduration-dayperUnitPattern{0}/ημ.
+unitsshortunitvolume-teaspoondisplayNameκ.γ.
+unitsshortunitvolume-teaspoonpatternone{0} κ.γ.
+unitsshortunitvolume-teaspoonpatternother{0} κ.γ.
+unitsshortunitlength-yardpatternother{0} γρδ
+unitsshortunitlength-yardpatternone{0} γρδ
+unitsshortunitlength-yarddisplayNameγιάρδες
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitpressure-inch-hgdisplayNameinHg
+unitsshortunitmass-kilogramdisplayNamekg
+unitsshortunitmass-kilogramperUnitPattern{0}/κιλό
+unitsshortunitmass-kilogrampatternone{0} κιλό
+unitsshortunitmass-kilogrampatternother{0} κιλά
+unitsshortunitvolume-cubic-kilometerdisplayNamekm³
+unitsshortunitvolume-cubic-kilometerpatternother{0} km³
+unitsshortunitvolume-cubic-kilometerpatternone{0} km³
+unitsshortunitelectric-amperepatternother{0} A
+unitsshortunitelectric-amperepatternone{0} A
+unitsshortunitelectric-amperedisplayNameαμπέρ
+unitsshortunitdigital-bytedisplayNamebyte
+unitsshortunitdigital-bytepatternother{0} byte
+unitsshortunitdigital-bytepatternone{0} byte
+unitsshortunitfrequency-kilohertzdisplayNameκιλοχέρτζ
+unitsshortunitfrequency-kilohertzpatternother{0} kHz
+unitsshortunitfrequency-kilohertzpatternone{0} kHz
+unitsshortunitlength-micrometerdisplayNameμικρόμετρα
+unitsshortunitlength-micrometerpatternother{0} µm
+unitsshortunitlength-micrometerpatternone{0} µm
+unitsshortunitmass-microgrampatternone{0} µg
+unitsshortunitmass-microgrampatternother{0} µg
+unitsshortunitmass-microgramdisplayNameµg
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mmHg
+unitsshortunitpressure-millimeter-of-mercurypatternone{0} mmHg
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemmHg
+unitsshortunitmass-ounce-troydisplayNameευγενής ουγγιά
+unitsshortunitmass-ounce-troypatternone{0} oz t
+unitsshortunitmass-ounce-troypatternother{0} oz t
+unitsshortunitdigital-kilobitdisplayNamekb
+unitsshortunitdigital-kilobitpatternother{0} kb
+unitsshortunitdigital-kilobitpatternone{0} kb
+unitsshortunitspeed-meter-per-secondpatternother{0} μέτρα/δευτ.
+unitsshortunitspeed-meter-per-secondpatternone{0} μέτρο/δευτ.
+unitsshortunitspeed-meter-per-seconddisplayNameμέτρα/δευτ.
+unitsshortunitvolume-cubic-footpatternone{0} ft³
+unitsshortunitvolume-cubic-footpatternother{0} ft³
+unitsshortunitvolume-cubic-footdisplayNameft³
+unitsshortunitvolume-quartpatternone{0} τέτ. γαλ.
+unitsshortunitvolume-quartpatternother{0} τέτ. γαλ.
+unitsshortunitvolume-quartdisplayNameτέταρτα γαλονιού
+unitsshortunitconsumption-mile-per-gallondisplayNameμίλια/γαλόνι
+unitsshortunitconsumption-mile-per-gallonpatternother{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatternone{0} mpg
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/cm³
+unitsshortunitvolume-cubic-centimeterdisplayNamecm³
+unitsshortunitvolume-cubic-centimeterpatternone{0} cm³
+unitsshortunitvolume-cubic-centimeterpatternother{0} cm³
+unitsshortunitenergy-kilocaloriepatternone{0} kcal
+unitsshortunitenergy-kilocaloriepatternother{0} kcal
+unitsshortunitenergy-kilocaloriedisplayNamekcal
+unitsshortunitlength-nanometerdisplayNamenm
+unitsshortunitlength-nanometerpatternother{0} nm
+unitsshortunitlength-nanometerpatternone{0} nm
+unitsshortunitmass-tondisplayNameτόνοι
+unitsshortunitmass-tonpatternone{0} τ.
+unitsshortunitmass-tonpatternother{0} τ.
+unitsshortunitduration-microseconddisplayNameμικροδεύτερα
+unitsshortunitduration-microsecondpatternother{0} μs
+unitsshortunitduration-microsecondpatternone{0} μs
+unitsshortunitvolume-pintdisplayNameπίντες
+unitsshortunitvolume-pintpatternone{0} πντ
+unitsshortunitvolume-pintpatternother{0} πντ
+unitsshortunitvolume-pint-metricpatternone{0} μετρ. πίντα
+unitsshortunitvolume-pint-metricpatternother{0} μετρ. πίντες
+unitsshortunitvolume-pint-metricdisplayNameμετρικές πίντες
+unitsshortunitarea-square-inchpatternother{0} τ. ίντσες
+unitsshortunitarea-square-inchpatternone{0} τ. ίντσα
+unitsshortunitarea-square-inchdisplayNameτετρ. ίντσες
+unitsshortunitarea-square-inchperUnitPattern{0}/τ. ίντσα
+unitsshortunitenergy-kilowatt-hourdisplayNameκιλοβάτ/ώρα
+unitsshortunitenergy-kilowatt-hourpatternone{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternother{0} kWh
+unitsshortunitfrequency-hertzdisplayNameχερτζ
+unitsshortunitfrequency-hertzpatternone{0} Hz
+unitsshortunitfrequency-hertzpatternother{0} Hz
+unitsshortunitpressure-atmospherepatternother{0} atm
+unitsshortunitpressure-atmospherepatternone{0} atm
+unitsshortunitpressure-atmospheredisplayNameatm
+unitsshortunitlength-inchperUnitPattern{0}/ίν.
+unitsshortunitlength-inchdisplayNameίντσες
+unitsshortunitlength-inchpatternone{0} ίν.
+unitsshortunitlength-inchpatternother{0} ίν.
+unitsshortunittemperature-celsiuspatternone{0}°C
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunittemperature-celsiusdisplayNameβθμ C
+unitsshortunitdigital-terabytepatternone{0} TB
+unitsshortunitdigital-terabytepatternother{0} TB
+unitsshortunitdigital-terabytedisplayNameTB
+unitsshortunitdigital-gigabytedisplayNameGB
+unitsshortunitdigital-gigabytepatternone{0} GB
+unitsshortunitdigital-gigabytepatternother{0} GB
+unitsshortunitangle-revolutiondisplayNameστρφ
+unitsshortunitangle-revolutionpatternother{0} στρφ
+unitsshortunitangle-revolutionpatternone{0} στρφ
+unitsshortunitmass-metric-tonpatternother{0} μ.τ.
+unitsshortunitmass-metric-tonpatternone{0} μ.τ.
+unitsshortunitmass-metric-tondisplayNameμ.τ.
+unitsshortunitdigital-megabytedisplayNameMB
+unitsshortunitdigital-megabytepatternother{0} MB
+unitsshortunitdigital-megabytepatternone{0} MB
+unitsshortunitduration-weekperUnitPattern{0}/εβδ.
+unitsshortunitduration-weekdisplayNameεβδομάδες
+unitsshortunitduration-weekpatternother{0} εβδ.
+unitsshortunitduration-weekpatternone{0} εβδ.
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNameμίλια/αγγλ. γαλόνι
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} μίλια/αγγλ. γαλόνι
+unitsshortunitconsumption-mile-per-gallon-imperialpatternone{0} μίλι/αγγλ. γαλόνι
+unitsshortunitenergy-kilojouledisplayNameκιλοτζάουλ
+unitsshortunitenergy-kilojoulepatternother{0} kJ
+unitsshortunitenergy-kilojoulepatternone{0} kJ
+unitsshortunitmass-ounceperUnitPattern{0}/oz
+unitsshortunitmass-ouncedisplayNameoz
+unitsshortunitmass-ouncepatternone{0} oz
+unitsshortunitmass-ouncepatternother{0} oz
+unitsshortunitconcentr-millimole-per-literdisplayNamemmol/L
+unitsshortunitconcentr-millimole-per-literpatternother{0} mmol/L
+unitsshortunitconcentr-millimole-per-literpatternone{0} mmol/L
+unitsshortunitarea-square-mileperUnitPattern{0}/τ.μίλι
+unitsshortunitarea-square-miledisplayNameτετρ. μίλια
+unitsshortunitarea-square-milepatternother{0} τ.μίλια
+unitsshortunitarea-square-milepatternone{0} τ.μίλι
+unitsshortunitenergy-caloriedisplayNameθερμ.
+unitsshortunitenergy-caloriepatternother{0} θερμ.
+unitsshortunitenergy-caloriepatternone{0} θερμ.
+unitsshortunitangle-radiandisplayNameακτν
+unitsshortunitangle-radianpatternother{0} ακτν
+unitsshortunitangle-radianpatternone{0} ακτν
+unitsshortunitpower-horsepowerpatternother{0} ίπ.
+unitsshortunitpower-horsepowerpatternone{0} ίπ.
+unitsshortunitpower-horsepowerdisplayNameίπποι
+unitsshortunitvolume-hectoliterpatternother{0} hL
+unitsshortunitvolume-hectoliterpatternone{0} hL
+unitsshortunitvolume-hectoliterdisplayNamehL
+unitsshortunitlength-kilometerpatternone{0} χλμ.
+unitsshortunitlength-kilometerpatternother{0} χλμ.
+unitsshortunitlength-kilometerperUnitPattern{0}/χλμ.
+unitsshortunitlength-kilometerdisplayNameχλμ.
+unitsshortunitlength-decimeterpatternone{0} δεκ.
+unitsshortunitlength-decimeterpatternother{0} δεκ.
+unitsshortunitlength-decimeterdisplayNameδεκ.
+unitsshortunitlength-light-yeardisplayNameέτη φωτός
+unitsshortunitlength-light-yearpatternone{0} έ.φ.
+unitsshortunitlength-light-yearpatternother{0} έ.φ.
+unitsshortunitlength-nautical-miledisplayNameν.μ.
+unitsshortunitlength-nautical-milepatternother{0} ν.μ.
+unitsshortunitlength-nautical-milepatternone{0} ν.μ.
+unitsshortunitspeed-knotdisplayNameκμβ
+unitsshortunitspeed-knotpatternone{0} κμβ
+unitsshortunitspeed-knotpatternother{0} κμβ
+unitsshortunitdigital-megabitdisplayNameMb
+unitsshortunitdigital-megabitpatternother{0} Mb
+unitsshortunitdigital-megabitpatternone{0} Mb
+unitsshortunitduration-yearperUnitPattern{0}/έτ.
+unitsshortunitduration-yeardisplayNameέτη
+unitsshortunitduration-yearpatternother{0} έτ.
+unitsshortunitduration-yearpatternone{0} έτ.
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternone{0} mg/dL
+unitsshortunitarea-square-meterdisplayNameτ. μέτρα
+unitsshortunitarea-square-meterperUnitPattern{0}/τ.μ.
+unitsshortunitarea-square-meterpatternone{0} τ.μ.
+unitsshortunitarea-square-meterpatternother{0} τ.μ.
+unitsshortunitlength-footperUnitPattern{0}/πδ
+unitsshortunitlength-footdisplayNameπόδια
+unitsshortunitlength-footpatternone{0} πδ
+unitsshortunitlength-footpatternother{0} πδ
+unitsshortunitpower-gigawattdisplayNameγιγαβάτ
+unitsshortunitpower-gigawattpatternone{0} GW
+unitsshortunitpower-gigawattpatternother{0} GW
+unitsshortunitmass-milligrampatternother{0} mg
+unitsshortunitmass-milligrampatternone{0} mg
+unitsshortunitmass-milligramdisplayNamemg
+unitsshortunitspeed-kilometer-per-hourpatternother{0} χλμ./ώρα
+unitsshortunitspeed-kilometer-per-hourpatternone{0} χλμ./ώρα
+unitsshortunitspeed-kilometer-per-hourdisplayNameχλμ./ώρα
+unitsshortunitvolume-cupdisplayNameκύπ.
+unitsshortunitvolume-cuppatternother{0} κύπ.
+unitsshortunitvolume-cuppatternone{0} κύπ.
+unitsshortunitduration-monthpatternone{0} μήν.
+unitsshortunitduration-monthpatternother{0} μήν.
+unitsshortunitduration-monthperUnitPattern{0}/μ.
+unitsshortunitduration-monthdisplayNameμήνες
+unitsshortunitelectric-milliamperedisplayNameμιλιαμπέρ
+unitsshortunitelectric-milliamperepatternone{0} mA
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitlength-millimeterdisplayNameχιλιοστόμ.
+unitsshortunitlength-millimeterpatternone{0} χλστ.
+unitsshortunitlength-millimeterpatternother{0} χλστ.
+unitsshortunitlength-milepatternone{0} μίλ.
+unitsshortunitlength-milepatternother{0} μίλ.
+unitsshortunitlength-miledisplayNameμίλια
+unitsshortunitlength-mile-scandinaviandisplayNameσκανδ. μίλια
+unitsshortunitlength-mile-scandinavianpatternother{0} σκανδ. μίλια
+unitsshortunitlength-mile-scandinavianpatternone{0} σκανδ. μίλι
+unitsshortunitlength-pointpatternone{0} στ.
+unitsshortunitlength-pointpatternother{0} στ.
+unitsshortunitlength-pointdisplayNameστιγμές
+unitsshortunitdigital-bitdisplayNamebit
+unitsshortunitdigital-bitpatternone{0} bit
+unitsshortunitdigital-bitpatternother{0} bit
+unitsshortunitpower-wattdisplayNameβατ
+unitsshortunitpower-wattpatternone{0} W
+unitsshortunitpower-wattpatternother{0} W
+unitsshortunitduration-nanoseconddisplayNameνανοδεύτερα
+unitsshortunitduration-nanosecondpatternone{0} ns
+unitsshortunitduration-nanosecondpatternother{0} ns
+unitsshortunitangle-arc-minutedisplayNameλεπτά του τόξου
+unitsshortunitangle-arc-minutepatternone{0} λεπ. τόξου
+unitsshortunitangle-arc-minutepatternother{0} λεπ. τόξου
+unitsshortunitfrequency-megahertzdisplayNameμεγαχέρτζ
+unitsshortunitfrequency-megahertzpatternone{0} MHz
+unitsshortunitfrequency-megahertzpatternother{0} MHz
+unitsshortunitduration-hourpatternother{0} ώρ.
+unitsshortunitduration-hourpatternone{0} ώρα
+unitsshortunitduration-hourperUnitPattern{0}/ώ.
+unitsshortunitduration-hourdisplayNameώρες
+unitsshortunitvolume-gallon-imperialpatternone{0} αγγλοσαξ. γαλόνι
+unitsshortunitvolume-gallon-imperialpatternother{0} αγγλοσαξ. γαλόνια
+unitsshortunitvolume-gallon-imperialperUnitPattern{0}/αγγλοσαξ. γαλόνι
+unitsshortunitvolume-gallon-imperialdisplayNameαγγλοσαξ. γαλόνια
+unitsshortunitpower-kilowattdisplayNameκιλοβάτ
+unitsshortunitpower-kilowattpatternone{0} kW
+unitsshortunitpower-kilowattpatternother{0} kW
+unitsshortunitvolume-acre-footdisplayNameακρ πόδια
+unitsshortunitvolume-acre-footpatternother{0} ακρ πδ
+unitsshortunitvolume-acre-footpatternone{0} ακρ πδ
+unitsshortunitangle-arc-seconddisplayNamearcsec
+unitsshortunitangle-arc-secondpatternother{0} arcsec
+unitsshortunitangle-arc-secondpatternone{0} arcsec
+unitsshortunitpower-megawattdisplayNameμεγαβάτ
+unitsshortunitpower-megawattpatternone{0} MW
+unitsshortunitpower-megawattpatternother{0} MW
+unitsshortunitvolume-literpatternother{0} λίτ.
+unitsshortunitvolume-literpatternone{0} λίτ.
+unitsshortunitvolume-literperUnitPattern{0}/λ.
+unitsshortunitvolume-literdisplayNameλίτρα
+unitsshortunitvolume-cubic-meterdisplayNamem³
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/m³
+unitsshortunitvolume-cubic-meterpatternone{0} m³
+unitsshortunitvolume-cubic-meterpatternother{0} m³
+unitsshortunitvolume-tablespoonpatternone{0} κ.σ.
+unitsshortunitvolume-tablespoonpatternother{0} κ.σ.
+unitsshortunitvolume-tablespoondisplayNameκ.σ.
+unitsshortunitfrequency-gigahertzpatternone{0} GHz
+unitsshortunitfrequency-gigahertzpatternother{0} GHz
+unitsshortunitfrequency-gigahertzdisplayNameγιγαχέρτζ
+unitsshortunitarea-square-yardpatternother{0} τ.γρδ
+unitsshortunitarea-square-yardpatternone{0} τ.γρδ
+unitsshortunitarea-square-yarddisplayNameτετρ. γιάρδες
+unitsshortunitpressure-pound-per-square-inchdisplayNamepsi
+unitsshortunitpressure-pound-per-square-inchpatternother{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternone{0} psi
+unitsshortunitconcentr-part-per-milliondisplayNameppm
+unitsshortunitconcentr-part-per-millionpatternone{0} ppm
+unitsshortunitconcentr-part-per-millionpatternother{0} ppm
+unitsshortunitvolume-gallonpatternone{0} γαλ.
+unitsshortunitvolume-gallonpatternother{0} γαλ.
+unitsshortunitvolume-gallondisplayNameγαλ.
+unitsshortunitvolume-gallonperUnitPattern{0}/γαλ.
+unitsshortunitmass-poundpatternother{0} λβ
+unitsshortunitmass-poundpatternone{0} λβ
+unitsshortunitmass-pounddisplayNameλίβρες
+unitsshortunitmass-poundperUnitPattern{0}/λβ
+unitsshortunitvolume-fluid-ouncedisplayNamefl oz
+unitsshortunitvolume-fluid-ouncepatternone{0} fl oz
+unitsshortunitvolume-fluid-ouncepatternother{0} fl oz
+unitsshortunitlength-centimeterdisplayNameεκ.
+unitsshortunitlength-centimeterperUnitPattern{0}/εκ.
+unitsshortunitlength-centimeterpatternone{0} εκ.
+unitsshortunitlength-centimeterpatternother{0} εκ.
+unitsshortunitlength-parsecdisplayNameπαρσέκ
+unitsshortunitlength-parsecpatternother{0} pc
+unitsshortunitlength-parsecpatternone{0} pc
+unitsshortunitmass-grampatternone{0} γρ.
+unitsshortunitmass-grampatternother{0} γρ.
+unitsshortunitmass-gramdisplayNameγραμμ.
+unitsshortunitmass-gramperUnitPattern{0}/γρ.
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunittemperature-genericpatternone{0}°
+unitsshortunittemperature-genericdisplayName°
+unitsshortunitvolume-cubic-inchdisplayNamein³
+unitsshortunitvolume-cubic-inchpatternother{0} in³
+unitsshortunitvolume-cubic-inchpatternone{0} in³
+unitsshortunitdigital-gigabitpatternone{0} Gb
+unitsshortunitdigital-gigabitpatternother{0} Gb
+unitsshortunitdigital-gigabitdisplayNameGb
+unitsshortunitconcentr-karatpatternone{0} κρτ
+unitsshortunitconcentr-karatpatternother{0} κρτ
+unitsshortunitconcentr-karatdisplayNameκρτ
+unitsshortcoordinateUnitwest{0} Δ
+unitsshortcoordinateUniteast{0} Α
+unitsshortcoordinateUnitnorth{0} Β
+unitsshortcoordinateUnitsouth{0} Ν
+unitsshortcoordinateUnitdisplayNameσημείο
+unitsshortcompoundUnitperpattern{0}/{1}
+posixmessagesyesstrναι:ν
+posixmessagesnostrόχι:ό
+charactersellipsisword-final{0} …
+charactersellipsismedial{0}…{1}
+charactersellipsisword-initial… {0}
+charactersellipsisword-medial{0} … {1}
+charactersellipsisfinal{0}…
+charactersellipsisinitial…{0}
+charactersexemplarCharactersauxiliary[ἀ ἄ ἂ ἆ ἁ ἅ ἃ ἇ ὰ ᾶ ἐ ἔ ἒ ἑ ἕ ἓ ὲ ἠ ἤ ἢ ἦ ἡ ἥ ἣ ἧ ὴ ῆ ἰ ἴ ἲ ἶ ἱ ἵ ἳ ἷ ὶ ῖ ῒ ῗ ὄ ὂ ὃ ὸ ὐ ὔ ὒ ὖ ὑ ὕ ὓ ὗ ὺ ῦ ῢ ῧ ὤ ὢ ὦ ὥ ὣ ὧ ὼ ῶ]
+charactersexemplarCharactersindex[Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! . … &quot; « » ( ) \[ \] § @ * / \\ \&amp;]
+charactersexemplarCharactersstandard[α ά β γ δ ε έ ζ η ή θ ι ί ϊ ΐ κ λ μ ν ξ ο ό π ρ σ ς τ υ ύ ϋ ΰ φ χ ψ ω ώ]
+localeDisplayNameslanguagesbalΜπαλούτσι
+localeDisplayNameslanguagesxogΣόγκα
+localeDisplayNameslanguageslktΛακότα
+localeDisplayNameslanguagesmfeΜορισιέν
+localeDisplayNameslanguagesmagΜαγκάχι
+localeDisplayNameslanguagesmwlΜιραντεζικά
+localeDisplayNameslanguagesekaΕκατζούκ
+localeDisplayNameslanguagescoΚορσικανικά
+localeDisplayNameslanguagescarΚαρίμπ
+localeDisplayNameslanguageshupΧούπα
+localeDisplayNameslanguagesyiΓίντις
+localeDisplayNameslanguageszblΣύμβολα Bliss
+localeDisplayNameslanguagesromΡομανί
+localeDisplayNameslanguagesbezΜπένα
+localeDisplayNameslanguageskdeΜακόντε
+localeDisplayNameslanguagesmerΜέρου
+localeDisplayNameslanguageschΤσαμόρο
+localeDisplayNameslanguagesmafΜάφα
+localeDisplayNameslanguagesmenΜέντε
+localeDisplayNameslanguagesnaΝαούρου
+localeDisplayNameslanguagessadΣαντάγουε
+localeDisplayNameslanguagesbejΜπέζα
+localeDisplayNameslanguagesmicΜικμάκ
+localeDisplayNameslanguagesnogΝογκάι
+localeDisplayNameslanguagescadΚάντο
+localeDisplayNameslanguagesen_AUΑγγλικά Αυστραλίας
+localeDisplayNameslanguagesfrmΜέσα Γαλλικά
+localeDisplayNameslanguageskpeΚπέλε
+localeDisplayNameslanguagescyΟυαλικά
+localeDisplayNameslanguagesvaiΒάι
+localeDisplayNameslanguagesawaΑγουαντί
+localeDisplayNameslanguageskmΧμερ
+localeDisplayNameslanguageschkΤσουκίζι
+localeDisplayNameslanguageswoΓουόλοφ
+localeDisplayNameslanguagesmdfΜόκσα
+localeDisplayNameslanguagesgezΓκιζ
+localeDisplayNameslanguagessmjΛούλε Σάμι
+localeDisplayNameslanguagesgswΓερμανικά Ελβετίας
+localeDisplayNameslanguageslahΛάχδα
+localeDisplayNameslanguagesssΣουάτι
+localeDisplayNameslanguagesde_CHΥψηλά Γερμανικά Ελβετίας
+localeDisplayNameslanguagessiΣινχαλεζικά
+localeDisplayNameslanguagesroΡουμανικά
+localeDisplayNameslanguagesbaxΜπαμούν
+localeDisplayNameslanguagesarwΑραγουάκ
+localeDisplayNameslanguagesmiΜαορί
+localeDisplayNameslanguagesbaΜπασκίρ
+localeDisplayNameslanguagessmaΝότια Σάμι
+localeDisplayNameslanguagesgdΣκωτικά Κελτικά
+localeDisplayNameslanguagesngΝτόνγκα
+localeDisplayNameslanguagesdsbΚάτω Σορβικά
+localeDisplayNameslanguagesveΒέντα
+localeDisplayNameslanguagesplΠολωνικά
+localeDisplayNameslanguagesamΑμχαρικά
+localeDisplayNameslanguagesadaΑντάνγκμε
+localeDisplayNameslanguageslolΜόνγκο
+localeDisplayNameslanguageslrcΒόρεια Λούρι
+localeDisplayNameslanguagessoΣομαλικά
+localeDisplayNameslanguagesbasΜπάσα
+localeDisplayNameslanguagesgilΓκιλμπερτίζ
+localeDisplayNameslanguagesgvΜανξ
+localeDisplayNameslanguageslozΛόζι
+localeDisplayNameslanguagestyΤαϊτιανά
+localeDisplayNameslanguagespalΠαχλάβι
+localeDisplayNameslanguagesnyoΝιόρο
+localeDisplayNameslanguagesmncΜαντσού
+localeDisplayNameslanguageszuΖουλού
+localeDisplayNameslanguagesteΤελούγκου
+localeDisplayNameslanguagesmohΜοχόκ
+localeDisplayNameslanguagesnewΝεγουάρι
+localeDisplayNameslanguagesen_USΑγγλικά ΗΠΑ
+localeDisplayNameslanguagesanΑραγονικά
+localeDisplayNameslanguagesbikΜπικόλ
+localeDisplayNameslanguagesitΙταλικά
+localeDisplayNameslanguagesyueΚαντονέζικα
+localeDisplayNameslanguagesffΦουλά
+localeDisplayNameslanguagesteoΤέσο
+localeDisplayNameslanguagesaleΑλεούτ
+localeDisplayNameslanguagesckbΚουρδικά Σοράνι
+localeDisplayNameslanguageskajΤζου
+localeDisplayNameslanguageskblΚανέμπου
+localeDisplayNameslanguagesluyΛούχια
+localeDisplayNameslanguageskutΚουτενάι
+localeDisplayNameslanguagesnonΠαλαιά Νορβηγικά
+localeDisplayNameslanguageswaeΒάλσερ
+localeDisplayNameslanguagessw_CDΚονγκό Σουαχίλι
+localeDisplayNameslanguagesnyΝιάντζα
+localeDisplayNameslanguageslouΚρεολικά (Λουιζιάνα)
+localeDisplayNameslanguagestogΝιάσα Τόνγκα
+localeDisplayNameslanguagesbgnΔυτικά Μπαλοχικά
+localeDisplayNameslanguagesbmΜπαμπάρα
+localeDisplayNameslanguagesbnΒεγγαλικά
+localeDisplayNameslanguagesinhΙνγκούς
+localeDisplayNameslanguageskgΚονγκό
+localeDisplayNameslanguageskbdΚαμπαρντιανά
+localeDisplayNameslanguageskoiΚόμι-Περμιάκ
+localeDisplayNameslanguageszzaΖάζα
+localeDisplayNameslanguagestetΤέτουμ
+localeDisplayNameslanguagesceΤσετσενικά
+localeDisplayNameslanguageschmΜάρι
+localeDisplayNameslanguagesmyΒιρμανικά
+localeDisplayNameslanguagesknΚανάντα
+localeDisplayNameslanguagesenmΜέσα Αγγλικά
+localeDisplayNameslanguageszunΖούνι
+localeDisplayNameslanguagessamΣαμαρίτικα Αραμαϊκά
+localeDisplayNameslanguageshyΑρμενικά
+localeDisplayNameslanguagesenΑγγλικά
+localeDisplayNameslanguagesshuΑραβικά του Τσαντ
+localeDisplayNameslanguagesigΊγκμπο
+localeDisplayNameslanguagesjvΙαβανικά
+localeDisplayNameslanguageszh_HansΑπλοποιημένα Κινεζικά
+localeDisplayNameslanguagesarnΑραουκανικά
+localeDisplayNameslanguagesdinΝτίνκα
+localeDisplayNameslanguagesdaΔανικά
+localeDisplayNameslanguagesfrcΓαλλικά (Λουιζιάνα)
+localeDisplayNameslanguageskruΚουρούχ
+localeDisplayNameslanguagesnsoΒόρεια Σόθο
+localeDisplayNameslanguagesurΟυρντού
+localeDisplayNameslanguageskiΚικούγιου
+localeDisplayNameslanguagesluΛούμπα-Κατάνγκα
+localeDisplayNameslanguagesjboΛόζμπαν
+localeDisplayNameslanguagesrootΡίζα
+localeDisplayNameslanguagesrupΑρομανικά
+localeDisplayNameslanguagespt_BRΠορτογαλικά Βραζιλίας
+localeDisplayNameslanguagestzmΤαμαζίτ Κεντρικού Μαρόκο
+localeDisplayNameslanguageskwΚορνουαλικά
+localeDisplayNameslanguagessgaΠαλαιά Ιρλανδικά
+localeDisplayNameslanguagesbyvΜεντούμπα
+localeDisplayNameslanguagestwΤούι
+localeDisplayNameslanguageskrlΚαρελικά
+localeDisplayNameslanguagesdakΝτακότα
+localeDisplayNameslanguagesglΓαλικιανά
+localeDisplayNameslanguagesnbΝορβηγικά Μποκμάλ
+localeDisplayNameslanguageses_MXΙσπανικά Μεξικού
+localeDisplayNameslanguagessmnΙνάρι Σάμι
+localeDisplayNameslanguagesscΣαρδηνιακά
+localeDisplayNameslanguagesdeΓερμανικά
+localeDisplayNameslanguagesafhΑφριχίλι
+localeDisplayNameslanguagesainΑϊνού
+localeDisplayNameslanguagesidΙνδονησιακά
+localeDisplayNameslanguagesabΑμπχαζικά
+localeDisplayNameslanguagesmtΜαλτεζικά
+localeDisplayNameslanguagespcmΠίτζιν Νιγηρίας
+localeDisplayNameslanguagesprgΠρωσικά
+localeDisplayNameslanguageskeaΓλώσσα του Πράσινου Ακρωτηρίου
+localeDisplayNameslanguagesmyvΈρζια
+localeDisplayNameslanguagesbfdΜπαφούτ
+localeDisplayNameslanguagesrajΡαζασθάνι
+localeDisplayNameslanguageskhqΚόιρα Τσίνι
+localeDisplayNameslanguagestvlΤουβαλού
+localeDisplayNameslanguagestyvΤουβινικά
+localeDisplayNameslanguagesefiΕφίκ
+localeDisplayNameslanguagesssyΣάχο
+localeDisplayNameslanguagesbrxΜπόντο
+localeDisplayNameslanguagesetΕσθονικά
+localeDisplayNameslanguagesltΛιθουανικά
+localeDisplayNameslanguagesrarΡαροτονγκάν
+localeDisplayNameslanguagesugaΟυγκαριτικά
+localeDisplayNameslanguagestlΤάγκαλογκ
+localeDisplayNameslanguageseuΒασκικά
+localeDisplayNameslanguagesagqΑγκέμ
+localeDisplayNameslanguagesbkmΚομ
+localeDisplayNameslanguageslaΛατινικά
+localeDisplayNameslanguagesmdeΜάμπα
+localeDisplayNameslanguagessaΣανσκριτικά
+localeDisplayNameslanguagesquΚέτσουα
+localeDisplayNameslanguagesdyoΤζόλα-Φόνι
+localeDisplayNameslanguageschgΤσαγκατάι
+localeDisplayNameslanguageskoΚορεατικά
+localeDisplayNameslanguagesmasΜασάι
+localeDisplayNameslanguagesshiΤασελχίτ
+localeDisplayNameslanguagesdyuΝτογιούλα
+localeDisplayNameslanguagesdelΝτέλαγουερ
+localeDisplayNameslanguagesklΚαλαάλισουτ
+localeDisplayNameslanguagesmnΜογγολικά
+localeDisplayNameslanguagesniaΝίας
+localeDisplayNameslanguagesnl_BEΦλαμανδικά
+localeDisplayNameslanguageszhΚινεζικά
+localeDisplayNameslanguagesdvΝτιβέχι
+localeDisplayNameslanguagesrwkΡουά
+localeDisplayNameslanguagesfr_CHΓαλλικά Ελβετίας
+localeDisplayNameslanguagescaΚαταλανικά
+localeDisplayNameslanguageskaaΚάρα-Καλπάκ
+localeDisplayNameslanguagesmadΜαντουρίζ
+localeDisplayNameslanguagesastΑστουριανά
+localeDisplayNameslanguageslezΛεζγκικά
+localeDisplayNameslanguagesiiΣίτσουαν Γι
+localeDisplayNameslanguagesesΙσπανικά
+localeDisplayNameslanguagesangΠαλαιά Αγγλικά
+localeDisplayNameslanguagesmulΠολλαπλές γλώσσες
+localeDisplayNameslanguagesybbΓιέμπα
+localeDisplayNameslanguagessmΣαμοανά
+localeDisplayNameslanguagesgagΓκαγκάουζ
+localeDisplayNameslanguagesen_GBΑγγλικά ΗΒ
+localeDisplayNameslanguagesfilΦιλιππινικά
+localeDisplayNameslanguagesdavΤάιτα
+localeDisplayNameslanguageskacΚατσίν
+localeDisplayNameslanguagesarsΑραβικά Νάτζντι
+localeDisplayNameslanguagesmwrΜαργουάρι
+localeDisplayNameslanguageseeΈουε
+localeDisplayNameslanguagescuΕκκλησιαστικά Σλαβικά
+localeDisplayNameslanguageshilΧιλιγκαϊνόν
+localeDisplayNameslanguagesjaΙαπωνικά
+localeDisplayNameslanguagesyoΓιορούμπα
+localeDisplayNameslanguageswbpΓουαρλπίρι
+localeDisplayNameslanguagesrapΡαπανούι
+localeDisplayNameslanguagespiΠάλι
+localeDisplayNameslanguagespapΠαπιαμέντο
+localeDisplayNameslanguagesdoiΝτόγκρι
+localeDisplayNameslanguagesibaΙμπάν
+localeDisplayNameslanguageskfoΚόρο
+localeDisplayNameslanguagestkΤουρκμενικά
+localeDisplayNameslanguagesndΒόρεια Ντεμπέλε
+localeDisplayNameslanguageschoΤσόκτο
+localeDisplayNameslanguagessvΣουηδικά
+localeDisplayNameslanguageszh_HantΠαραδοσιακά Κινεζικά
+localeDisplayNameslanguageszenΖενάγκα
+localeDisplayNameslanguagesslΣλοβενικά
+localeDisplayNameslanguagesruΡωσικά
+localeDisplayNameslanguagesjgoΝγκόμπα
+localeDisplayNameslanguagesgayΓκάγιο
+localeDisplayNameslanguagesnrΝότια Ντεμπέλε
+localeDisplayNameslanguagesgohΠαλαιά Άνω Γερμανικά
+localeDisplayNameslanguagestrvΤαρόκο
+localeDisplayNameslanguagesrmΡομανικά
+localeDisplayNameslanguagesksbΣαμπάλα
+localeDisplayNameslanguagessrΣερβικά
+localeDisplayNameslanguagesmgoΜέτα
+localeDisplayNameslanguagesnnΝορβηγικά Νινόρσκ
+localeDisplayNameslanguagessyrΣυριακά
+localeDisplayNameslanguagesnusΝούερ
+localeDisplayNameslanguagestnΤσουάνα
+localeDisplayNameslanguagesfaΠερσικά
+localeDisplayNameslanguagescrhΤουρκικά Κριμαίας
+localeDisplayNameslanguagesanpΑνγκικά
+localeDisplayNameslanguagesneΝεπαλικά
+localeDisplayNameslanguagessatΣαντάλι
+localeDisplayNameslanguagescsΤσεχικά
+localeDisplayNameslanguageskawΚάουι
+localeDisplayNameslanguagesnoΝορβηγικά
+localeDisplayNameslanguagesmusΚρικ
+localeDisplayNameslanguageskabΚαμπίλε
+localeDisplayNameslanguagespamΠαμπάνγκα
+localeDisplayNameslanguagesasΑσαμικά
+localeDisplayNameslanguagesumbΟυμπούντου
+localeDisplayNameslanguagesvoΒολαπιούκ
+localeDisplayNameslanguagesliΛιμβουργιανά
+localeDisplayNameslanguagesnnhΝγκιεμπούν
+localeDisplayNameslanguagesyavΓιανγκμπέν
+localeDisplayNameslanguagessukΣουκούμα
+localeDisplayNameslanguagesfroΠαλαιά Γαλλικά
+localeDisplayNameslanguagesboΘιβετιανά
+localeDisplayNameslanguagescggΤσίγκα
+localeDisplayNameslanguageslagΛάνγκι
+localeDisplayNameslanguagesluiΛουισένο
+localeDisplayNameslanguagesnaqΝάμα
+localeDisplayNameslanguagestrΤουρκικά
+localeDisplayNameslanguagesfatΦάντι
+localeDisplayNameslanguagessmsΣκολτ Σάμι
+localeDisplayNameslanguagesmgaΜέσα Ιρλανδικά
+localeDisplayNameslanguagesudmΟυντμούρτ
+localeDisplayNameslanguagesadyΑντιγκέα
+localeDisplayNameslanguagesmgΜαλγασικά
+localeDisplayNameslanguagesmaiΜαϊτχίλι
+localeDisplayNameslanguagesqucΚιτσέ
+localeDisplayNameslanguagespsΠάστο
+localeDisplayNameslanguageskrΚανούρι
+localeDisplayNameslanguagesluoΛούο
+localeDisplayNameslanguagesnvΝάβαχο
+localeDisplayNameslanguagesarcΑραμαϊκά
+localeDisplayNameslanguagesazΑζερικά
+localeDisplayNameslanguagesbinΜπίνι
+localeDisplayNameslanguageshaΧάουσα
+localeDisplayNameslanguagescchΑτσάμ
+localeDisplayNameslanguageshoΧίρι Μότου
+localeDisplayNameslanguageskrcΚαρατσάι-Μπαλκάρ
+localeDisplayNameslanguagesmosΜόσι
+localeDisplayNameslanguagesyaoΓιάο
+localeDisplayNameslanguagesundΆγνωστη γλώσσα
+localeDisplayNameslanguagesugΟυιγκούρ
+localeDisplayNameslanguagessehΣένα
+localeDisplayNameslanguageskcgΤιάπ
+localeDisplayNameslanguagesuzΟυζμπεκικά
+localeDisplayNameslanguageskhoΚοτανικά
+localeDisplayNameslanguagesladΛαδίνο
+localeDisplayNameslanguagesomΟρόμο
+localeDisplayNameslanguagessbpΣάνγκου
+localeDisplayNameslanguagesstΝότια Σόθο
+localeDisplayNameslanguagesmrΜαραθικά
+localeDisplayNameslanguagesxhΚόσα
+localeDisplayNameslanguagesptΠορτογαλικά
+localeDisplayNameslanguagescrsΚρεολικά Γαλλικά Σεϋχελλών
+localeDisplayNameslanguagesgorΓκοροντάλο
+localeDisplayNameslanguagesndsΚάτω Γερμανικά
+localeDisplayNameslanguagesjrbΙουδαϊκά-Αραβικά
+localeDisplayNameslanguagesotaΟθωμανικά Τουρκικά
+localeDisplayNameslanguagesnmgΚβάσιο
+localeDisplayNameslanguagesbrΒρετονικά
+localeDisplayNameslanguageshtΑϊτιανά
+localeDisplayNameslanguagesachΑκολί
+localeDisplayNameslanguageshmnΧμονγκ
+localeDisplayNameslanguagesnwcΚλασικά Νεουάρι
+localeDisplayNameslanguagesttΤαταρικά
+localeDisplayNameslanguagescsbΚασούμπιαν
+localeDisplayNameslanguagesksΚασμιρικά
+localeDisplayNameslanguageskosΚοσραενικά
+localeDisplayNameslanguagesro_MDΜολδαβικά
+localeDisplayNameslanguagesieΙντερλίνγκουε
+localeDisplayNameslanguageskjΚουανιάμα
+localeDisplayNameslanguagesosaΟσάζ
+localeDisplayNameslanguagessbaΝγκαμπέι
+localeDisplayNameslanguagesfanΦανγκ
+localeDisplayNameslanguagesaceΑτσινιζικά
+localeDisplayNameslanguagesgnΓκουαρανί
+localeDisplayNameslanguagesloΛαοτινά
+localeDisplayNameslanguagesocΟξιτανικά
+localeDisplayNameslanguageshzΧερέρο
+localeDisplayNameslanguagesosΟσετικά
+localeDisplayNameslanguagesthΤαϊλανδικά
+localeDisplayNameslanguagesfjΦίτζι
+localeDisplayNameslanguageselΕλληνικά
+localeDisplayNameslanguagesrnΡούντι
+localeDisplayNameslanguagesphnΦοινικικά
+localeDisplayNameslanguagescebΣεμπουάνο
+localeDisplayNameslanguagesnapΝαπολιτανικά
+localeDisplayNameslanguagesnqoΝ’Κο
+localeDisplayNameslanguagesluaΛούμπα-Λουλούα
+localeDisplayNameslanguagesnziΝζίμα
+localeDisplayNameslanguagestsΤσόνγκα
+localeDisplayNameslanguagescopΚοπτικά
+localeDisplayNameslanguagesiaΙντερλίνγκουα
+localeDisplayNameslanguageslusΜίζο
+localeDisplayNameslanguagesmyeΜιένε
+localeDisplayNameslanguagesayΑϊμάρα
+localeDisplayNameslanguagesorΌντια
+localeDisplayNameslanguageswaΒαλλωνικά
+localeDisplayNameslanguagesproΠαλαιά Προβανσάλ
+localeDisplayNameslanguageses_419Ισπανικά Λατινικής Αμερικής
+localeDisplayNameslanguagesbynΜπλιν
+localeDisplayNameslanguagesbraΜπρατζ
+localeDisplayNameslanguagesshnΣαν
+localeDisplayNameslanguagesviΒιετναμικά
+localeDisplayNameslanguagesshΣερβοκροατικά
+localeDisplayNameslanguagesiloΙλόκο
+localeDisplayNameslanguagesmanΜαντίνγκο
+localeDisplayNameslanguageskumΚουμγιούκ
+localeDisplayNameslanguagesaltΝότια Αλτάι
+localeDisplayNameslanguageszghΤυπικά Ταμαζίτ Μαρόκου
+localeDisplayNameslanguagesseeΣένεκα
+localeDisplayNameslanguagestpiΤοκ Πισίν
+localeDisplayNameslanguageschrΤσερόκι
+localeDisplayNameslanguageskaΓεωργιανά
+localeDisplayNameslanguagesmdrΜανδάρ
+localeDisplayNameslanguagesebuΈμπου
+localeDisplayNameslanguagesbumΜπουλού
+localeDisplayNameslanguageshitΧιτίτε
+localeDisplayNameslanguagesibbΙμπίμπιο
+localeDisplayNameslanguagesgaΙρλανδικά
+localeDisplayNameslanguagesaaΑφάρ
+localeDisplayNameslanguagespagΠανγκασινάν
+localeDisplayNameslanguagesakkΑκάντιαν
+localeDisplayNameslanguagesbssΑκόσι
+localeDisplayNameslanguageskshΚολωνικά
+localeDisplayNameslanguageskvΚόμι
+localeDisplayNameslanguagesguΓκουγιαράτι
+localeDisplayNameslanguagesmghΜακούβα-Μέτο
+localeDisplayNameslanguagesmznΜαζαντεράνι
+localeDisplayNameslanguagesgmhΜέσα Άνω Γερμανικά
+localeDisplayNameslanguagesafΑφρικάανς
+localeDisplayNameslanguagesterΤερένο
+localeDisplayNameslanguagestmhΤαμασέκ
+localeDisplayNameslanguageshawΧαβαϊκά
+localeDisplayNameslanguageshsbΆνω Σορβικά
+localeDisplayNameslanguageslunΛούντα
+localeDisplayNameslanguagesmakΜακασάρ
+localeDisplayNameslanguagesminΜινανγκαμπάου
+localeDisplayNameslanguagesrofΡόμπο
+localeDisplayNameslanguagesselΣελκούπ
+localeDisplayNameslanguagesarpΑραπάχο
+localeDisplayNameslanguageschyΤσεγιέν
+localeDisplayNameslanguagesikΙνουπιάκ
+localeDisplayNameslanguagesswΣουαχίλι
+localeDisplayNameslanguageses_ESΙσπανικά Ευρώπης
+localeDisplayNameslanguageschpΤσίπιουαν
+localeDisplayNameslanguagesskΣλοβακικά
+localeDisplayNameslanguagessqΑλβανικά
+localeDisplayNameslanguageseoΕσπεράντο
+localeDisplayNameslanguagesisΙσλανδικά
+localeDisplayNameslanguagesiuΙνούκτιτουτ
+localeDisplayNameslanguagestaΤαμιλικά
+localeDisplayNameslanguagestlhΚλίνγκον
+localeDisplayNameslanguageschbΤσίμπτσα
+localeDisplayNameslanguagesscoΣκωτικά
+localeDisplayNameslanguagespt_PTΠορτογαλικά Ευρώπης
+localeDisplayNameslanguagesdzgΝταζάγκα
+localeDisplayNameslanguagesewoΕγουόντο
+localeDisplayNameslanguagesbemΜπέμπα
+localeDisplayNameslanguageshiΧίντι
+localeDisplayNameslanguageslnΛινγκάλα
+localeDisplayNameslanguagesyapΓιαπίζ
+localeDisplayNameslanguagesfurΦριουλανικά
+localeDisplayNameslanguagesvunΒούντζο
+localeDisplayNameslanguagesseΒόρεια Σάμι
+localeDisplayNameslanguagesgbaΓκμπάγια
+localeDisplayNameslanguagesarΑραβικά
+localeDisplayNameslanguageskhaΚάσι
+localeDisplayNameslanguagesjprΙουδαϊκά-Περσικά
+localeDisplayNameslanguagesnynΝιανκόλε
+localeDisplayNameslanguagesbbjΓκομάλα
+localeDisplayNameslanguagestiΤιγκρινικά
+localeDisplayNameslanguagesdjeΖάρμα
+localeDisplayNameslanguagesgotΓοτθικά
+localeDisplayNameslanguagesmniΜανιπούρι
+localeDisplayNameslanguagesbanΜπαλινίζ
+localeDisplayNameslanguageshrΚροατικά
+localeDisplayNameslanguagesmkΣλαβομακεδονικά
+localeDisplayNameslanguagesojΟζιβίγουα
+localeDisplayNameslanguagesguzΓκούσι
+localeDisplayNameslanguagesmlΜαλαγιαλαμικά
+localeDisplayNameslanguagessgΣάνγκο
+localeDisplayNameslanguagesgaaΓκα
+localeDisplayNameslanguagesksfΜπάφια
+localeDisplayNameslanguagestoΤονγκανικά
+localeDisplayNameslanguageswarΓουάραϊ
+localeDisplayNameslanguageswalΓουολάιτα
+localeDisplayNameslanguagessusΣούσου
+localeDisplayNameslanguagesfrΓαλλικά
+localeDisplayNameslanguagesbeΛευκορωσικά
+localeDisplayNameslanguagesfyΔυτικά Φριζικά
+localeDisplayNameslanguagesakΑκάν
+localeDisplayNameslanguagesfr_CAΓαλλικά Καναδά
+localeDisplayNameslanguagesfonΦον
+localeDisplayNameslanguagesfoΦεροϊκά
+localeDisplayNameslanguagesdarΝτάργκουα
+localeDisplayNameslanguagesen_CAΑγγλικά Καναδά
+localeDisplayNameslanguagesdgrΝτόγκριμπ
+localeDisplayNameslanguagesbiΜπισλάμα
+localeDisplayNameslanguagessahΣαχά
+localeDisplayNameslanguagestliΤλίνγκιτ
+localeDisplayNameslanguageswuuΚινεζικά Γου
+localeDisplayNameslanguagesblaΣικσίκα
+localeDisplayNameslanguagesrwΚινιαρουάντα
+localeDisplayNameslanguagesgonΓκόντι
+localeDisplayNameslanguagesfrrΒόρεια Φριζιανά
+localeDisplayNameslanguageshaiΧάιντα
+localeDisplayNameslanguagesnymΝιαμγουέζι
+localeDisplayNameslanguagescayΚαγιούγκα
+localeDisplayNameslanguagessasΣασάκ
+localeDisplayNameslanguageschnΙδιωματικά Σινούκ
+localeDisplayNameslanguagesmhΜαρσαλέζικα
+localeDisplayNameslanguagessuΣουνδανικά
+localeDisplayNameslanguagesjmcΜατσάμε
+localeDisplayNameslanguagestgΤατζικικά
+localeDisplayNameslanguageskmbΚιμπούντου
+localeDisplayNameslanguagespaΠαντζαπικά
+localeDisplayNameslanguagesdumΜέσα Ολλανδικά
+localeDisplayNameslanguagesmuaΜουντάνγκ
+localeDisplayNameslanguagestsiΤσίμσιαν
+localeDisplayNameslanguagespeoΑρχαία Περσικά
+localeDisplayNameslanguageskamΚάμπα
+localeDisplayNameslanguageslbΛουξεμβουργιανά
+localeDisplayNameslanguageskkjΚάκο
+localeDisplayNameslanguagesmsΜαλαισιανά
+localeDisplayNameslanguagesscnΣικελικά
+localeDisplayNameslanguagestigΤίγκρε
+localeDisplayNameslanguagescrΚρι
+localeDisplayNameslanguagesnds_NLΚάτω Γερμανικά Ολλανδίας
+localeDisplayNameslanguagesniuΝιούε
+localeDisplayNameslanguagesvotΒότικ
+localeDisplayNameslanguagessidΣιντάμο
+localeDisplayNameslanguagesioΊντο
+localeDisplayNameslanguagesponΠομπηικά
+localeDisplayNameslanguageslamΛάμπα
+localeDisplayNameslanguagessdhΝότια Κουρδικά
+localeDisplayNameslanguagestwqΤασαβάκ
+localeDisplayNameslanguageselxΕλαμάιτ
+localeDisplayNameslanguagesbsΒοσνιακά
+localeDisplayNameslanguageszapΖάποτεκ
+localeDisplayNameslanguagestklΤοκελάου
+localeDisplayNameslanguagessycΚλασικά Συριακά
+localeDisplayNameslanguagesswbΚομοριανά
+localeDisplayNameslanguagesegyΑρχαία Αιγυπτιακά
+localeDisplayNameslanguageslgΓκάντα
+localeDisplayNameslanguagessnΣόνα
+localeDisplayNameslanguageszxxΧωρίς γλωσσολογικό περιεχόμενο
+localeDisplayNameslanguageszaΖουάνγκ
+localeDisplayNameslanguagessuxΣουμερικά
+localeDisplayNameslanguagesgrbΓκρίμπο
+localeDisplayNameslanguagesgrcΑρχαία Ελληνικά
+localeDisplayNameslanguagessdΣίντι
+localeDisplayNameslanguagessesΚοϊραμπόρο Σένι
+localeDisplayNameslanguagesavΑβαρικά
+localeDisplayNameslanguagesdenΣλαβικά
+localeDisplayNameslanguagescvΤσουβασικά
+localeDisplayNameslanguagesheΕβραϊκά
+localeDisplayNameslanguageshuΟυγγρικά
+localeDisplayNameslanguagesnlΟλλανδικά
+localeDisplayNameslanguageswasΓουασό
+localeDisplayNameslanguagessogΣογκντιέν
+localeDisplayNameslanguagessaqΣαμπούρου
+localeDisplayNameslanguagessnkΣονίνκε
+localeDisplayNameslanguagespauΠαλάουαν
+localeDisplayNameslanguagesasaΆσου
+localeDisplayNameslanguageskkΚαζακικά
+localeDisplayNameslanguagesbhoΜπότζπουρι
+localeDisplayNameslanguagessrnΣρανάν Τόνγκο
+localeDisplayNameslanguagesaeΑβεστάν
+localeDisplayNameslanguagesukΟυκρανικά
+localeDisplayNameslanguagesfrsΑνατολικά Φριζιανά
+localeDisplayNameslanguagesbuaΜπουριάτ
+localeDisplayNameslanguagesgwiΓκουίτσιν
+localeDisplayNameslanguageskuΚουρδικά
+localeDisplayNameslanguagestumΤουμπούκα
+localeDisplayNameslanguagesduaΝτουάλα
+localeDisplayNameslanguagesdzΝτζόνγκχα
+localeDisplayNameslanguagesar_001Σύγχρονα Τυπικά Αραβικά
+localeDisplayNameslanguagesklnΚαλεντζίν
+localeDisplayNameslanguageskyΚιργιζικά
+localeDisplayNameslanguagesxalΚαλμίκ
+localeDisplayNameslanguagessrrΣερέρ
+localeDisplayNameslanguagesbgΒουλγαρικά
+localeDisplayNameslanguagesde_ATΓερμανικά Αυστρίας
+localeDisplayNameslanguageslvΛετονικά
+localeDisplayNameslanguagesfiΦινλανδικά
+localeDisplayNameslanguageskokΚονκανικά
+localeDisplayNameslanguagestemΤίμνε
+localeDisplayNameslanguagestivΤιβ
+localeDisplayNameslanguagesbugΜπουγκίζ
+localeDisplayNamesscriptsJavaΙαβανεζικό
+localeDisplayNamesscriptsSyreΕστραντζέλο Συριακό
+localeDisplayNamesscriptsCansΕνοποιημένοι Καναδεζικοί Συλλαβισμοί Ιθαγενών
+localeDisplayNamesscriptsGuruΓκουρμουκχί
+localeDisplayNamesscriptsKoreΚορεατικό
+localeDisplayNamesscriptsMoonΜουν
+localeDisplayNamesscriptsSaurΣαουράστρα
+localeDisplayNamesscriptsHangΧανγκούλ
+localeDisplayNamesscriptsCakmΤσάκμα
+localeDisplayNamesscriptsBuhdΜπουχίντ
+localeDisplayNamesscriptsThaiΤαϊλανδικό
+localeDisplayNamesscriptsHungΠαλαιό Ουγγρικό
+localeDisplayNamesscriptsLydiΛυδιανικό
+localeDisplayNamesscriptsMandΜανδαϊκό
+localeDisplayNamesscriptsLatgΓαελικό Λατινικό
+localeDisplayNamesscriptsRoroΡονγκορόνγκο
+localeDisplayNamesscriptsPhlpΨάλτερ Παχλάβι
+localeDisplayNamesscriptsHanoΧανούνου
+localeDisplayNamesscriptsCyrsΠαλαιό Εκκλησιαστικό Σλαβικό Κυριλλικό
+localeDisplayNamesscriptsMayaΙερογλυφικά Μάγια
+localeDisplayNamesscriptsPhagΠαγκς-πα
+localeDisplayNamesscriptsArmiΑυτοκρατορικό Αραμαϊκό
+localeDisplayNamesscriptsVispΟρατή ομιλία
+localeDisplayNamesscriptsSgnwΝοηματική γραφή
+localeDisplayNamesscriptsDevaΝτεβαναγκάρι
+localeDisplayNamesscriptsHiraΧιραγκάνα
+localeDisplayNamesscriptsXsuxΣούμερο-Ακάντιαν Κουνεϊφόρμ
+localeDisplayNamesscriptsJamoΤζάμο
+localeDisplayNamesscriptsTavtΤάι Βιέτ
+localeDisplayNamesscriptsHanbΧανμπ
+localeDisplayNamesscriptsZzzzΆγνωστη γραφή
+localeDisplayNamesscriptsSamrΣαμαριτικό
+localeDisplayNamesscriptsZinhΚληρονομημένο
+localeDisplayNamesscriptsGujrΓκουγιαράτι
+localeDisplayNamesscriptsRunrΡουνίκ
+localeDisplayNamesscriptsKthiΚαϊθί
+localeDisplayNamesscriptsKanaΚατακάνα
+localeDisplayNamesscriptsSyrnΑνατολικό Συριακό
+localeDisplayNamesscriptsEgyhΙερατικό Αιγυπτιακό
+localeDisplayNamesscriptsPrtiΕπιγραφικό Παρθιάν
+localeDisplayNamesscriptsCprtΚυπριακό
+localeDisplayNamesscriptsXpeoΠαλαιό Περσικό
+localeDisplayNamesscriptsOgamΌγκχαμ
+localeDisplayNamesscriptsLinaΓραμμικό Α
+localeDisplayNamesscriptsPhnxΦοινικικό
+localeDisplayNamesscriptsIndsΊνδους
+localeDisplayNamesscriptsTfngΤιφινάγκ
+localeDisplayNamesscriptsEgypΑιγυπτιακά Ιερογλυφικά
+localeDisplayNamesscriptsCherΤσερόκι
+localeDisplayNamesscriptsMlymΜαλαγιάλαμ
+localeDisplayNamesscriptsPlrdΦωνητικό Πόλαρντ
+localeDisplayNamesscriptsKharΚαρόσθι
+localeDisplayNamesscriptsChamΤσαμ
+localeDisplayNamesscriptsMteiΜεϊτέι Μάγεκ
+localeDisplayNamesscriptsYiiiΓι
+localeDisplayNamesscriptsSyrcΣυριακό
+localeDisplayNamesscriptsTeluΤελούγκου
+localeDisplayNamesscriptsTglgΤαγκαλόγκ
+localeDisplayNamesscriptsEthiΑιθιοπικό
+localeDisplayNamesscriptsTaleΤάι Λε
+localeDisplayNamesscriptsSaraΣαράθι
+localeDisplayNamesscriptsLyciΛυκιανικό
+localeDisplayNamesscriptsPermΠαλαιό Περμικό
+localeDisplayNamesscriptsZsyeEmoji
+localeDisplayNamesscriptsZxxxΆγραφο
+localeDisplayNamesscriptsHansΑπλοποιημένο Χαν
+localeDisplayNamesscriptsBengΜπενγκάλι
+localeDisplayNamesscriptsOsmaΟσμάνγια
+localeDisplayNamesscriptsCoptΚοπτικό
+localeDisplayNamesscriptsCariΚαριάν
+localeDisplayNamesscriptsBraiΜπράιγ
+localeDisplayNamesscriptsOrkhΌρκχον
+localeDisplayNamesscriptsPhlvΜπουκ Παχλαβί
+localeDisplayNamesscriptsItalΠαλαιό Ιταλικό
+localeDisplayNamesscriptsTagbΤαγκμάνγουα
+localeDisplayNamesscriptsHaniΧαν
+localeDisplayNamesscriptsKndaΚανάντα
+localeDisplayNamesscriptsBugiΜπούγκις
+localeDisplayNamesscriptsUgarΟυγκαριτικό
+localeDisplayNamesscriptsVaiiΒάι
+localeDisplayNamesscriptsCirtΣερθ
+localeDisplayNamesscriptsLimbΛιμπού
+localeDisplayNamesscriptsPhliΕπιγραφικό Παχλάβι
+localeDisplayNamesscriptsOryaΌντια
+localeDisplayNamesscriptsThaaΘαανά
+localeDisplayNamesscriptsJpanΙαπωνικό
+localeDisplayNamesscriptsHrktΚατακάνα ή Χιραγκάνα
+localeDisplayNamesscriptsCyrlΚυριλλικό
+localeDisplayNamesscriptsLatfΦράκτουρ Λατινικό
+localeDisplayNamesscriptsLatnΛατινικό
+localeDisplayNamesscriptsHmngΠαχάχ Χμονγκ
+localeDisplayNamesscriptsZyyyΚοινό
+localeDisplayNamesscriptsArmnΑρμενικό
+localeDisplayNamesscriptsTamlΤαμίλ
+localeDisplayNamesscriptsBlisΣύμβολα Bliss
+localeDisplayNamesscriptsTibtΘιβετιανό
+localeDisplayNamesscriptsZsymΣύμβολα
+localeDisplayNamesscriptsGothΓοτθικό
+localeDisplayNamesscriptsHebrΕβραϊκό
+localeDisplayNamesscriptsBatkΜπατάκ
+localeDisplayNamesscriptsBopoΜποπομόφο
+localeDisplayNamesscriptsLaooΛαοτινό
+localeDisplayNamesscriptsMeroΜεροϊτικό
+localeDisplayNamesscriptsBaliΜπαλινίζ
+localeDisplayNamesscriptsNkooΝ’Κο
+localeDisplayNamesscriptsGrekΕλληνικό
+localeDisplayNamesscriptsSyloΣυλότι Νάγκρι
+localeDisplayNamesscriptsMongΜογγολικό
+localeDisplayNamesscriptsMymrΜιανμάρ
+localeDisplayNamesscriptsZmthΜαθηματική σημειογραφία
+localeDisplayNamesscriptsTengΤεγνγουάρ
+localeDisplayNamesscriptsTaluΝέο Τάι Λούε
+localeDisplayNamesscriptsLepcΛέπτσα
+localeDisplayNamesscriptsShawΣαβιανό
+localeDisplayNamesscriptsGeokΓεωργιανό Κχουτσούρι
+localeDisplayNamesscriptsSinhΣινχάλα
+localeDisplayNamesscriptsKhmrΧμερ
+localeDisplayNamesscriptsGeorΓεωργιανό
+localeDisplayNamesscriptsOlckΟλ Τσίκι
+localeDisplayNamesscriptsGlagΓκλαγκολιτικό
+localeDisplayNamesscriptsSundΣουνδανικό
+localeDisplayNamesscriptsAvstΑβεστάν
+localeDisplayNamesscriptsArabΠερσικό-Αραβικό
+localeDisplayNamesscriptsLanaΛάννα
+localeDisplayNamesscriptsEgydΛαϊκό Αιγυπτιακό
+localeDisplayNamesscriptsSyrjΔυτικό Συριακό
+localeDisplayNamesscriptsBrahΜπραχμί
+localeDisplayNamesscriptsRjngΡετζάνγκ
+localeDisplayNamesscriptsDsrtΝτεσερέ
+localeDisplayNamesscriptsKaliΚαγιάχ Λι
+localeDisplayNamesscriptsHantΠαραδοσιακό Χαν
+localeDisplayNamesscriptsManiΜανιχαϊκό
+localeDisplayNamesscriptsLinbΓραμμικό Β
+localeDisplayNamescodePatternsscriptΓραφή: {0}
+localeDisplayNamescodePatternslanguageΓλώσσα: {0}
+localeDisplayNamescodePatternsterritoryΠεριοχή: {0}
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNamescharactersparseLenientsgenerallenient.[.․。︒﹒．｡]
+localeDisplayNamescharactersparseLenientsgenerallenient£[£₤]
+localeDisplayNamescharactersparseLenientsgenerallenient$[\$﹩＄$]
+localeDisplayNamescharactersparseLenientsgenerallenient₹[₨₹{Rp}{Rs}]
+localeDisplayNamescharactersparseLenientsdatelenient-[\--/]
+localeDisplayNamescharactersparseLenientsdatelenient:[\:∶]
+localeDisplayNamescharactersparseLenientsnumberlenient-[\-‒⁻₋−➖﹣－]
+localeDisplayNamescharactersparseLenientsnumberlenient+[+⁺₊➕﬩﹢＋]
+localeDisplayNamescharactersparseLenientsnumberlenient,[,،٫、︐︑﹐﹑，､]
+localeDisplayNamescharactersparseLenientsnumberstricter.[.․﹒．｡]
+localeDisplayNamescharactersparseLenientsnumberstricter,[,٫︐﹐，]
+localeDisplayNamesterritories057Περιοχή Μικρονησίας
+localeDisplayNamesterritoriesKGΚιργιστάν
+localeDisplayNamesterritoriesCKΝήσοι Κουκ
+localeDisplayNamesterritoriesSIΣλοβενία
+localeDisplayNamesterritoriesYEΥεμένη
+localeDisplayNamesterritoriesSKΣλοβακία
+localeDisplayNamesterritoriesPWΠαλάου
+localeDisplayNamesterritoriesNFΝήσος Νόρφολκ
+localeDisplayNamesterritoriesEHΔυτική Σαχάρα
+localeDisplayNamesterritories145Δυτική Ασία
+localeDisplayNamesterritories061Πολυνησία
+localeDisplayNamesterritoriesATΑυστρία
+localeDisplayNamesterritoriesSSΝότιο Σουδάν
+localeDisplayNamesterritoriesMQΜαρτινίκα
+localeDisplayNamesterritoriesMVΜαλδίβες
+localeDisplayNamesterritoriesHRΚροατία
+localeDisplayNamesterritoriesGQΙσημερινή Γουινέα
+localeDisplayNamesterritoriesLKΣρι Λάνκα
+localeDisplayNamesterritoriesLUΛουξεμβούργο
+localeDisplayNamesterritoriesTRΤουρκία
+localeDisplayNamesterritoriesVIΑμερικανικές Παρθένες Νήσοι
+localeDisplayNamesterritoriesFKΝήσοι Φόκλαντ (Νήσοι Μαλβίνας)
+localeDisplayNamesterritoriesPFΓαλλική Πολυνησία
+localeDisplayNamesterritoriesBLΆγιος Βαρθολομαίος
+localeDisplayNamesterritoriesGNΓουινέα
+localeDisplayNamesterritoriesCCΝήσοι Κόκος (Κίλινγκ)
+localeDisplayNamesterritoriesMAΜαρόκο
+localeDisplayNamesterritoriesTVΤουβαλού
+localeDisplayNamesterritoriesRUΡωσία
+localeDisplayNamesterritoriesFMΜικρονησία
+localeDisplayNamesterritoriesCGΚονγκό (Δημοκρατία)
+localeDisplayNamesterritoriesGGΓκέρνζι
+localeDisplayNamesterritoriesCVΠράσινο Ακρωτήριο
+localeDisplayNamesterritories150Ευρώπη
+localeDisplayNamesterritoriesZMΖάμπια
+localeDisplayNamesterritoriesCYΚύπρος
+localeDisplayNamesterritoriesTAΤριστάν ντα Κούνια
+localeDisplayNamesterritoriesNOΝορβηγία
+localeDisplayNamesterritories013Κεντρική Αμερική
+localeDisplayNamesterritories155Δυτική Ευρώπη
+localeDisplayNamesterritoriesSGΣιγκαπούρη
+localeDisplayNamesterritoriesHUΟυγγαρία
+localeDisplayNamesterritoriesCPΝήσος Κλίπερτον
+localeDisplayNamesterritoriesCHΕλβετία
+localeDisplayNamesterritoriesAMΑρμενία
+localeDisplayNamesterritoriesJOΙορδανία
+localeDisplayNamesterritoriesSEΣουηδία
+localeDisplayNamesterritoriesGYΓουιάνα
+localeDisplayNamesterritoriesTJΤατζικιστάν
+localeDisplayNamesterritoriesMNΜογγολία
+localeDisplayNamesterritoriesCOΚολομβία
+localeDisplayNamesterritoriesKPΒόρεια Κορέα
+localeDisplayNamesterritoriesPKΠακιστάν
+localeDisplayNamesterritoriesMHΝήσοι Μάρσαλ
+localeDisplayNamesterritoriesLAΛάος
+localeDisplayNamesterritoriesMDΜολδαβία
+localeDisplayNamesterritoriesEGΑίγυπτος
+localeDisplayNamesterritoriesZWΖιμπάμπουε
+localeDisplayNamesterritoriesSNΣενεγάλη
+localeDisplayNamesterritoriesVCΆγιος Βικέντιος και Γρεναδίνες
+localeDisplayNamesterritoriesXKΚοσσυφοπέδιο
+localeDisplayNamesterritoriesGIΓιβραλτάρ
+localeDisplayNamesterritoriesGAΓκαμπόν
+localeDisplayNamesterritoriesFOΝήσοι Φερόες
+localeDisplayNamesterritoriesPTΠορτογαλία
+localeDisplayNamesterritoriesEUΕυρωπαϊκή Ένωση
+localeDisplayNamesterritoriesSOΣομαλία
+localeDisplayNamesterritoriesGTΓουατεμάλα
+localeDisplayNamesterritoriesSJΣβάλμπαρντ και Γιαν Μαγιέν
+localeDisplayNamesterritoriesNIΝικαράγουα
+localeDisplayNamesterritoriesDJΤζιμπουτί
+localeDisplayNamesterritories001Κόσμος
+localeDisplayNamesterritoriesKEΚένυα
+localeDisplayNamesterritoriesKRΝότια Κορέα
+localeDisplayNamesterritoriesBSΜπαχάμες
+localeDisplayNamesterritoriesSAΣαουδική Αραβία
+localeDisplayNamesterritoriesUMΑπομακρυσμένες Νησίδες ΗΠΑ
+localeDisplayNamesterritoriesESΙσπανία
+localeDisplayNamesterritoriesKMΚομόρες
+localeDisplayNamesterritoriesILΙσραήλ
+localeDisplayNamesterritoriesBTΜπουτάν
+localeDisplayNamesterritoriesUZΟυζμπεκιστάν
+localeDisplayNamesterritoriesFRΓαλλία
+localeDisplayNamesterritoriesDEΓερμανία
+localeDisplayNamesterritoriesCMΚαμερούν
+localeDisplayNamesterritoriesBJΜπενίν
+localeDisplayNamesterritories151Ανατολική Ευρώπη
+localeDisplayNamesterritoriesUGΟυγκάντα
+localeDisplayNamesterritoriesBIΜπουρούντι
+localeDisplayNamesterritoriesKZΚαζακστάν
+localeDisplayNamesterritories039Νότια Ευρώπη
+localeDisplayNamesterritoriesUYΟυρουγουάη
+localeDisplayNamesterritoriesMUΜαυρίκιος
+localeDisplayNamesterritories142Ασία
+localeDisplayNamesterritoriesTOΤόνγκα
+localeDisplayNamesterritories009Ωκεανία
+localeDisplayNamesterritoriesMTΜάλτα
+localeDisplayNamesterritories154Βόρεια Ευρώπη
+localeDisplayNamesterritoriesJPΙαπωνία
+localeDisplayNamesterritoriesSXΆγιος Μαρτίνος (Ολλανδικό τμήμα)
+localeDisplayNamesterritoriesSRΣουρινάμ
+localeDisplayNamesterritoriesROΡουμανία
+localeDisplayNamesterritoriesGWΓουινέα Μπισάου
+localeDisplayNamesterritoriesBQΟλλανδία Καραϊβικής
+localeDisplayNamesterritoriesIQΙράκ
+localeDisplayNamesterritoriesVUΒανουάτου
+localeDisplayNamesterritoriesNAΝαμίμπια
+localeDisplayNamesterritoriesMLΜάλι
+localeDisplayNamesterritoriesGUΓκουάμ
+localeDisplayNamesterritoriesDGΝτιέγκο Γκαρσία
+localeDisplayNamesterritoriesLBΛίβανος
+localeDisplayNamesterritoriesLCΑγία Λουκία
+localeDisplayNamesterritoriesTNΤυνησία
+localeDisplayNamesterritoriesZAΝότια Αφρική
+localeDisplayNamesterritoriesRWΡουάντα
+localeDisplayNamesterritoriesRSΣερβία
+localeDisplayNamesterritoriesIEΙρλανδία
+localeDisplayNamesterritories005Νότια Αμερική
+localeDisplayNamesterritoriesITΙταλία
+localeDisplayNamesterritoriesLRΛιβερία
+localeDisplayNamesterritoriesLTΛιθουανία
+localeDisplayNamesterritoriesMFΆγιος Μαρτίνος (Γαλλικό τμήμα)
+localeDisplayNamesterritoriesWFΓουάλις και Φουτούνα
+localeDisplayNamesterritoriesTZΤανζανία
+localeDisplayNamesterritoriesBOΒολιβία
+localeDisplayNamesterritories035Νοτιοανατολική Ασία
+localeDisplayNamesterritoriesISΙσλανδία
+localeDisplayNamesterritoriesNUΝιούε
+localeDisplayNamesterritoriesPMΣεν Πιερ και Μικελόν
+localeDisplayNamesterritoriesNCΝέα Καληδονία
+localeDisplayNamesterritoriesHTΑϊτή
+localeDisplayNamesterritoriesMSΜονσεράτ
+localeDisplayNamesterritoriesHKΧονγκ Κονγκ
+localeDisplayNamesterritoriesCLΧιλή
+localeDisplayNamesterritoriesCUΚούβα
+localeDisplayNamesterritoriesBAΒοσνία - Ερζεγοβίνη
+localeDisplayNamesterritories014Ανατολική Αφρική
+localeDisplayNamesterritoriesLVΛετονία
+localeDisplayNamesterritoriesSHΑγία Ελένη
+localeDisplayNamesterritoriesMWΜαλάουι
+localeDisplayNamesterritoriesHMΝήσοι Χερντ και Μακντόναλντ
+localeDisplayNamesterritoriesGPΓουαδελούπη
+localeDisplayNamesterritoriesCXΝήσος των Χριστουγέννων
+localeDisplayNamesterritories019Αμερική
+localeDisplayNamesterritoriesSZΣουαζιλάνδη
+localeDisplayNamesterritories143Κεντρική Ασία
+localeDisplayNamesterritoriesMGΜαδαγασκάρη
+localeDisplayNamesterritoriesUAΟυκρανία
+localeDisplayNamesterritoriesMXΜεξικό
+localeDisplayNamesterritoriesGHΓκάνα
+localeDisplayNamesterritoriesDZΑλγερία
+localeDisplayNamesterritoriesCRΚόστα Ρίκα
+localeDisplayNamesterritoriesBFΜπουρκίνα Φάσο
+localeDisplayNamesterritoriesMZΜοζαμβίκη
+localeDisplayNamesterritoriesCZΤσεχική Δημοκρατία
+localeDisplayNamesterritories053Αυστραλασία
+localeDisplayNamesterritoriesAGΑντίγκουα και Μπαρμπούντα
+localeDisplayNamesterritoriesNGΝιγηρία
+localeDisplayNamesterritoriesIOΒρετανικά Εδάφη Ινδικού Ωκεανού
+localeDisplayNamesterritoriesDMΝτομίνικα
+localeDisplayNamesterritoriesTFΓαλλικά Νότια Εδάφη
+localeDisplayNamesterritoriesTDΤσαντ
+localeDisplayNamesterritoriesAWΑρούμπα
+localeDisplayNamesterritories011Δυτική Αφρική
+localeDisplayNamesterritoriesTHΤαϊλάνδη
+localeDisplayNamesterritoriesPRΠουέρτο Ρίκο
+localeDisplayNamesterritoriesMPΝήσοι Βόρειες Μαριάνες
+localeDisplayNamesterritoriesMEΜαυροβούνιο
+localeDisplayNamesterritoriesIMΝήσος του Μαν
+localeDisplayNamesterritoriesEZΕυρωζώνη
+localeDisplayNamesterritoriesAUΑυστραλία
+localeDisplayNamesterritoriesKHΚαμπότζη
+localeDisplayNamesterritoriesAXΝήσοι Όλαντ
+localeDisplayNamesterritoriesTCΝήσοι Τερκς και Κάικος
+localeDisplayNamesterritories017Μέση Αφρική
+localeDisplayNamesterritoriesQOΠεριφερειακή Ωκεανία
+localeDisplayNamesterritoriesNPΝεπάλ
+localeDisplayNamesterritoriesKIΚιριμπάτι
+localeDisplayNamesterritoriesMCΜονακό
+localeDisplayNamesterritoriesEEΕσθονία
+localeDisplayNamesterritoriesSBΝήσοι Σολομώντος
+localeDisplayNamesterritoriesAEΗνωμένα Αραβικά Εμιράτα
+localeDisplayNamesterritoriesPHΦιλιππίνες
+localeDisplayNamesterritoriesNEΝίγηρας
+localeDisplayNamesterritoriesGMΓκάμπια
+localeDisplayNamesterritoriesMOΜακάο
+localeDisplayNamesterritoriesFIΦινλανδία
+localeDisplayNamesterritoriesTLΑνατολικό Τιμόρ
+localeDisplayNamesterritoriesREΡεϊνιόν
+localeDisplayNamesterritoriesGFΓαλλική Γουιάνα
+localeDisplayNamesterritoriesWSΣαμόα
+localeDisplayNamesterritoriesUNΟΗΕ
+localeDisplayNamesterritoriesTKΤοκελάου
+localeDisplayNamesterritoriesCFΚεντροαφρικανική Δημοκρατία
+localeDisplayNamesterritoriesLYΛιβύη
+localeDisplayNamesterritories034Νότια Ασία
+localeDisplayNamesterritoriesZZΆγνωστη περιοχή
+localeDisplayNamesterritoriesGSΝήσοι Νότια Γεωργία και Νότιες Σάντουιτς
+localeDisplayNamesterritoriesETΑιθιοπία
+localeDisplayNamesterritoriesBWΜποτσουάνα
+localeDisplayNamesterritoriesOMΟμάν
+localeDisplayNamesterritoriesFJΦίτζι
+localeDisplayNamesterritoriesSVΕλ Σαλβαδόρ
+localeDisplayNamesterritories054Μελανησία
+localeDisplayNamesterritoriesQAΚατάρ
+localeDisplayNamesterritoriesTWΤαϊβάν
+localeDisplayNamesterritoriesCWΚουρασάο
+localeDisplayNamesterritoriesBGΒουλγαρία
+localeDisplayNamesterritoriesBDΜπανγκλαντές
+localeDisplayNamesterritoriesADΑνδόρα
+localeDisplayNamesterritoriesMKΠρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας (ΠΓΔΜ)
+localeDisplayNamesterritoriesPSΠαλαιστίνη
+localeDisplayNamesterritoriesBMΒερμούδες
+localeDisplayNamesterritoriesBRΒραζιλία
+localeDisplayNamesterritories015Βόρεια Αφρική
+localeDisplayNamesterritoriesSTΣάο Τομέ και Πρίνσιπε
+localeDisplayNamesterritoriesVGΒρετανικές Παρθένες Νήσοι
+localeDisplayNamesterritoriesGDΓρενάδα
+localeDisplayNamesterritoriesBEΒέλγιο
+localeDisplayNamesterritoriesJMΤζαμάικα
+localeDisplayNamesterritoriesVEΒενεζουέλα
+localeDisplayNamesterritoriesIDΙνδονησία
+localeDisplayNamesterritoriesECΙσημερινός
+localeDisplayNamesterritoriesBYΛευκορωσία
+localeDisplayNamesterritories003Βόρεια Αμερική
+localeDisplayNamesterritoriesPGΠαπούα Νέα Γουινέα
+localeDisplayNamesterritoriesMYΜαλαισία
+localeDisplayNamesterritoriesPEΠερού
+localeDisplayNamesterritoriesCDΚονγκό (ΛΔΚ)
+localeDisplayNamesterritoriesICΚανάριοι Νήσοι
+localeDisplayNamesterritoriesSDΣουδάν
+localeDisplayNamesterritoriesNRΝαουρού
+localeDisplayNamesterritoriesCIΑκτή Ελεφαντοστού
+localeDisplayNamesterritoriesBBΜπαρμπέιντος
+localeDisplayNamesterritories029Καραϊβική
+localeDisplayNamesterritoriesAQΑνταρκτική
+localeDisplayNamesterritoriesAFΑφγανιστάν
+localeDisplayNamesterritoriesDKΔανία
+localeDisplayNamesterritoriesCNΚίνα
+localeDisplayNamesterritories018Νότιος Αφρική
+localeDisplayNamesterritoriesNZΝέα Ζηλανδία
+localeDisplayNamesterritoriesYTΜαγιότ
+localeDisplayNamesterritoriesSCΣεϋχέλλες
+localeDisplayNamesterritoriesCAΚαναδάς
+localeDisplayNamesterritoriesJEΤζέρζι
+localeDisplayNamesterritoriesIRΙράν
+localeDisplayNamesterritoriesMMΜιανμάρ (Βιρμανία)
+localeDisplayNamesterritoriesBHΜπαχρέιν
+localeDisplayNamesterritoriesBVΝήσος Μπουβέ
+localeDisplayNamesterritories021Βόρειος Αμερική
+localeDisplayNamesterritoriesAOΑγκόλα
+localeDisplayNamesterritoriesLIΛιχτενστάιν
+localeDisplayNamesterritories419Λατινική Αμερική
+localeDisplayNamesterritoriesASΑμερικανική Σαμόα
+localeDisplayNamesterritoriesPAΠαναμάς
+localeDisplayNamesterritoriesTGΤόγκο
+localeDisplayNamesterritoriesPLΠολωνία
+localeDisplayNamesterritoriesGLΓροιλανδία
+localeDisplayNamesterritoriesDOΔομινικανή Δημοκρατία
+localeDisplayNamesterritoriesACΝήσος Ασενσιόν
+localeDisplayNamesterritoriesAIΑνγκουίλα
+localeDisplayNamesterritoriesUSΗΠΑ
+localeDisplayNamesterritories202Υποσαχάρια Αφρική
+localeDisplayNamesterritoriesARΑργεντινή
+localeDisplayNamesterritoriesVNΒιετνάμ
+localeDisplayNamesterritoriesNLΟλλανδία
+localeDisplayNamesterritoriesPYΠαραγουάη
+localeDisplayNamesterritoriesPNΝήσοι Πίτκερν
+localeDisplayNamesterritoriesHNΟνδούρα
+localeDisplayNamesterritoriesMRΜαυριτανία
+localeDisplayNamesterritoriesGBΗΒ
+localeDisplayNamesterritoriesVAΒατικανό
+localeDisplayNamesterritories002Αφρική
+localeDisplayNamesterritoriesTMΤουρκμενιστάν
+localeDisplayNamesterritoriesKWΚουβέιτ
+localeDisplayNamesterritoriesALΑλβανία
+localeDisplayNamesterritoriesSYΣυρία
+localeDisplayNamesterritoriesSLΣιέρα Λεόνε
+localeDisplayNamesterritoriesGRΕλλάδα
+localeDisplayNamesterritoriesBNΜπρουνέι
+localeDisplayNamesterritoriesAZΑζερμπαϊτζάν
+localeDisplayNamesterritoriesLSΛεσότο
+localeDisplayNamesterritoriesTTΤρινιντάντ και Τομπάγκο
+localeDisplayNamesterritoriesSMΆγιος Μαρίνος
+localeDisplayNamesterritoriesINΙνδία
+localeDisplayNamesterritoriesGEΓεωργία
+localeDisplayNamesterritoriesERΕρυθραία
+localeDisplayNamesterritoriesBZΜπελίζ
+localeDisplayNamesterritoriesEAΘέουτα και Μελίγια
+localeDisplayNamesterritories030Ανατολική Ασία
+localeDisplayNamesterritoriesKYΝήσοι Κέιμαν
+localeDisplayNamesterritoriesKNΣεν Κιτς και Νέβις
+localeDisplayNamesmeasurementSystemNamesUKΑγγλοσαξονικό
+localeDisplayNamesmeasurementSystemNamesmetricΜετρικό
+localeDisplayNamesmeasurementSystemNamesUSΑμερικανικό
+localeDisplayNamesvariantsWADEGILEΕκλατινισμένα Γουάντ-Γκιλς
+localeDisplayNamesvariantsFONUPAΟυραλική φωνητική αλφάβητος
+localeDisplayNamesvariantsSAAHOΣάχο
+localeDisplayNamesvariantsPOSIXΥπολογιστής
+localeDisplayNamesvariants1994Τυποποιημένη ορθογραφία Ρεσιάν
+localeDisplayNamesvariantsNEDISΔιάλεκτος Νατισόνε
+localeDisplayNamesvariantsPINYINΕκλατινισμένα Πινγίν
+localeDisplayNamesvariants1694ACADΠρώιμα Σύγχρονα Γαλλικά
+localeDisplayNamesvariantsUCCORΕνωποιημένη ορθογραφία
+localeDisplayNamesvariantsOSOJSΔιάλεκτος Οσεακό/Οσοτζάν
+localeDisplayNamesvariants1606NICTΝεότερα Μέσα Γαλλικά του 1606
+localeDisplayNamesvariantsMONOTONΜονοτονικό
+localeDisplayNamesvariantsKKCORΚοινή ορθογραφία
+localeDisplayNamesvariantsBAKU1926Ενοποιημένη τουρκική λατινική αλφάβητος
+localeDisplayNamesvariants1959ACADΑκαδημαϊκά
+localeDisplayNamesvariantsNJIVAΔιάλεκτος Γκνιβά/Ντζιβά
+localeDisplayNamesvariantsSCOTLANDΣκοτσεζικά τυποποιημένα Αγγλικά
+localeDisplayNamesvariantsFONIPAΔιεθνής φωνητική αλφάβητος
+localeDisplayNamesvariantsSCOUSEΣκουζ
+localeDisplayNamesvariantsVALENCIAΒαλενθιανά
+localeDisplayNamesvariantsREVISEDΑναθεωρημένη ορθογραφία
+localeDisplayNamesvariantsBISKEΔιάλεκτος Σαν Τζιόρτζιο/Βίλα
+localeDisplayNamesvariants1996Γερμανική ορθογραφία του 1996
+localeDisplayNamesvariantsSOLBAΔιάλεκτος Στολβιτζά/Σολμπικά
+localeDisplayNamesvariantsLIPAWΔιάλεκτος Λιποβάζ της Ρεσιάν
+localeDisplayNamesvariants1901Παραδοσιακή γερμανική ορθογραφία
+localeDisplayNamesvariantsUCRCORΕνωποιημένη αναθεωρημένη ορθογραφία
+localeDisplayNamesvariantsBOONTΜπούντλινγκ
+localeDisplayNamesvariantsTARASKΤαρασκιεβική ορθογραφία
+localeDisplayNamesvariantsROZAJΡεσιάν
+localeDisplayNamesvariantsPOLYTONΠολυτονικό
+localeDisplayNamesvariantsAREVMDAΔυτικά Αρμενικά
+localeDisplayNamesvariantsAREVELAΑνατολικά Αρμενικά
+calendarsjapaneseavailableFormatsyMMMEdE, d MMM, y G
+calendarsjapaneseavailableFormatsEdE d
+calendarsjapaneseavailableFormatsyMMMdd MMM, y G
+calendarsjapaneseavailableFormatsyMEdE, dd/MM/y GGGGG
+calendarsjapaneseavailableFormatsMdd/M
+calendarsjapaneseavailableFormatsMMMLLL
+calendarsjapaneseavailableFormatsMMMdd MMM
+calendarsjapaneseavailableFormatsyMddd/MM/y GGGGG
+calendarsjapaneseavailableFormatsyQQQy GGGGG QQQ
+calendarsjapaneseavailableFormatsMEdE, d/M
+calendarsjapaneseavailableFormatsyMMMLLL y GGGGG
+calendarsjapaneseavailableFormatsGyy G
+calendarsjapaneseavailableFormatsyMMM/y GGGGG
+calendarsjapaneseavailableFormatsyy G
+calendarsjapaneseavailableFormatsMMMEdE, d MMM
+calendarsjapanesedateFormatsfullstandardEEEE, d MMMM, y G
+calendarsjapanesedateFormatsshortstandardd/M/yy
+calendarsjapanesedateFormatsmediumstandardd MMM, y G
+calendarsjapanesedateFormatslongstandardd MMMM, y G
+calendarsbuddhistdateFormatslongstandardd MMMM y G
+calendarsbuddhistdateFormatsmediumstandardd MMM y G
+calendarsbuddhistdateFormatsshortstandardd/M/y GGGGG
+calendarsbuddhistdateFormatsfullstandardEEEE, d MMMM y G
+calendarsbuddhistdateTimeFormatsmedium{1}, {0}
+calendarsbuddhistdateTimeFormatslong{1} - {0}
+calendarsbuddhistdateTimeFormatsshort{1}, {0}
+calendarsbuddhistdateTimeFormatsfull{1} - {0}
+calendarsbuddhistintervalFormatsMMMEdME, dd MMM – E, dd MMM
+calendarsbuddhistintervalFormatsMMMEddE, dd – E, dd MMM
+calendarsbuddhistintervalFormatsyMMMMMMMMM–MMMM y G
+calendarsbuddhistintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsbuddhistintervalFormatshvah a – h a v
+calendarsbuddhistintervalFormatshvhh–h a v
+calendarsbuddhistintervalFormatsyMyMM/y – MM/y GGGGG
+calendarsbuddhistintervalFormatsyMMMM/y – MM/y GGGGG
+calendarsbuddhistintervalFormatsyyy–y G
+calendarsbuddhistintervalFormatsHvHHH–HH v
+calendarsbuddhistintervalFormatshmah:mm a – h:mm a
+calendarsbuddhistintervalFormatshmmh:mm–h:mm a
+calendarsbuddhistintervalFormatshmhh:mm–h:mm a
+calendarsbuddhistintervalFormatsyMMMMMMM–MMM y G
+calendarsbuddhistintervalFormatsyMMMyMMM y – MMM y G
+calendarsbuddhistintervalFormatsMEdME, dd/MM – E, dd/MM
+calendarsbuddhistintervalFormatsMEddE, dd/MM – E, dd/MM
+calendarsbuddhistintervalFormatshhh–h a
+calendarsbuddhistintervalFormatshah a – h a
+calendarsbuddhistintervalFormatsyMdydd/MM/y – dd/MM/y GGGGG
+calendarsbuddhistintervalFormatsyMdddd/MM/y – dd/MM/y GGGGG
+calendarsbuddhistintervalFormatsyMdMdd/MM/y – dd/MM/y GGGGG
+calendarsbuddhistintervalFormatsMMMdddd–dd MMM
+calendarsbuddhistintervalFormatsMMMdMdd MMM – dd MMM
+calendarsbuddhistintervalFormatsMMMMMMM–MMM
+calendarsbuddhistintervalFormatsyMEdyE, dd/MM/y – E, dd/MM/y GGGGG
+calendarsbuddhistintervalFormatsyMEdME, dd/MM/y – E, dd/MM/y GGGGG
+calendarsbuddhistintervalFormatsyMEddE, dd/MM/y – E, dd/MM/y GGGGG
+calendarsbuddhistintervalFormatsMdMdd/MM – dd/MM
+calendarsbuddhistintervalFormatsMdddd/MM – dd/MM
+calendarsbuddhistintervalFormatsHHHH–HH
+calendarsbuddhistintervalFormatsHmvmHH:mm–HH:mm v
+calendarsbuddhistintervalFormatsHmvHHH:mm–HH:mm v
+calendarsbuddhistintervalFormatshmvhh:mm–h:mm a v
+calendarsbuddhistintervalFormatshmvmh:mm–h:mm a v
+calendarsbuddhistintervalFormatshmvah:mm a – h:mm a v
+calendarsbuddhistintervalFormatsstandardstandard{0} - {1}
+calendarsbuddhistintervalFormatsyMMMdydd MMM y – dd MMM y G
+calendarsbuddhistintervalFormatsyMMMdMdd MMM – dd MMM y G
+calendarsbuddhistintervalFormatsyMMMdddd–dd MMM y G
+calendarsbuddhistintervalFormatsddd–d
+calendarsbuddhistintervalFormatsyMMMEdyE, dd MMM y – E, dd MMM y G
+calendarsbuddhistintervalFormatsyMMMEdME, dd MMM – E, dd MMM y G
+calendarsbuddhistintervalFormatsyMMMEddE, dd – E, dd MMM y G
+calendarsbuddhistintervalFormatsMMM–M
+calendarsbuddhistintervalFormatsHmHHH:mm–HH:mm
+calendarsbuddhistintervalFormatsHmmHH:mm–HH:mm
+calendarsbuddhistavailableFormatsyyyyMdd/M/y GGGGG
+calendarsbuddhistavailableFormatsyyyyMMMMMM y G
+calendarsbuddhistavailableFormatsEccc
+calendarsbuddhistavailableFormatsMMMMdd MMMM
+calendarsbuddhistavailableFormatsGyMMMEdE, d MMM y G
+calendarsbuddhistavailableFormatsML
+calendarsbuddhistavailableFormatsGyMMMMMM y G
+calendarsbuddhistavailableFormatsdd
+calendarsbuddhistavailableFormatsEdE d
+calendarsbuddhistavailableFormatsMMMdd MMM
+calendarsbuddhistavailableFormatsyyyyMM/y GGGGG
+calendarsbuddhistavailableFormatsyyyyMEdE, d/M/y GGGGG
+calendarsbuddhistavailableFormatsyyyyMMMMMMMM y G
+calendarsbuddhistavailableFormatsMdd/M
+calendarsbuddhistavailableFormatsMMMLLL
+calendarsbuddhistavailableFormatsyyyyQQQG y QQQ
+calendarsbuddhistavailableFormatsyy G
+calendarsbuddhistavailableFormatsMMMMEdE, d MMMM
+calendarsbuddhistavailableFormatsGyMMMdd MMM y G
+calendarsbuddhistavailableFormatsGyy G
+calendarsbuddhistavailableFormatsyyyyMMMEdE, d MMM y G
+calendarsbuddhistavailableFormatsMEdE, d/M
+calendarsbuddhistavailableFormatsyyyyMMMdd MMM y G
+calendarsbuddhistavailableFormatsyyyyQQQQG y QQQQ
+calendarsbuddhistavailableFormatsyyyyy G
+calendarsbuddhistavailableFormatsMMMEdE, d MMM
+calendarsbuddhisteraseraAbbr0BE
+calendarsbuddhisteraseraNarrow0BE
+calendarsbuddhisteraseraNames0Β.Ε.
+calendarscopticeraseraNarrow1ERA1
+calendarscopticeraseraNarrow0ERA0
+calendarscopticeraseraNames1ERA1
+calendarscopticeraseraNames0ERA0
+calendarscopticeraseraAbbr0ERA0
+calendarscopticeraseraAbbr1ERA1
+calendarscopticmonthsstand-aloneabbreviated10Μπαούνα
+calendarscopticmonthsstand-aloneabbreviated12Μέσρα
+calendarscopticmonthsstand-aloneabbreviated7Μπαραμχάτ
+calendarscopticmonthsstand-aloneabbreviated11Αμπίπ
+calendarscopticmonthsstand-aloneabbreviated3Χατούρ
+calendarscopticmonthsstand-aloneabbreviated5Τούμπα
+calendarscopticmonthsstand-aloneabbreviated13Νεσγ
+calendarscopticmonthsstand-aloneabbreviated8Μπαρμούντα
+calendarscopticmonthsstand-aloneabbreviated2Μπάπα
+calendarscopticmonthsstand-aloneabbreviated9Μπασάνς
+calendarscopticmonthsstand-aloneabbreviated6Αμσίρ
+calendarscopticmonthsstand-aloneabbreviated4Κεγιάχκ
+calendarscopticmonthsstand-aloneabbreviated1Τουτ
+calendarscopticmonthsstand-alonewide8Μπαρμούντα
+calendarscopticmonthsstand-alonewide13Νεσγ
+calendarscopticmonthsstand-alonewide2Μπάπα
+calendarscopticmonthsstand-alonewide5Τούμπα
+calendarscopticmonthsstand-alonewide6Αμσίρ
+calendarscopticmonthsstand-alonewide1Τουτ
+calendarscopticmonthsstand-alonewide4Κεγιάχκ
+calendarscopticmonthsstand-alonewide9Μπασάνς
+calendarscopticmonthsstand-alonewide10Μπαούνα
+calendarscopticmonthsstand-alonewide3Χατούρ
+calendarscopticmonthsstand-alonewide12Μέσρα
+calendarscopticmonthsstand-alonewide11Αμπίπ
+calendarscopticmonthsstand-alonewide7Μπαραμχάτ
+calendarscopticmonthsformatwide6Αμσίρ
+calendarscopticmonthsformatwide1Τουτ
+calendarscopticmonthsformatwide4Κεγιάχκ
+calendarscopticmonthsformatwide9Μπασάνς
+calendarscopticmonthsformatwide13Νεσγ
+calendarscopticmonthsformatwide2Μπάπα
+calendarscopticmonthsformatwide8Μπαρμούντα
+calendarscopticmonthsformatwide5Τούμπα
+calendarscopticmonthsformatwide3Χατούρ
+calendarscopticmonthsformatwide7Μπαραμχάτ
+calendarscopticmonthsformatwide12Μέσρα
+calendarscopticmonthsformatwide11Αμπίπ
+calendarscopticmonthsformatwide10Μπαούνα
+calendarscopticmonthsformatabbreviated6Αμσίρ
+calendarscopticmonthsformatabbreviated4Κεγιάχκ
+calendarscopticmonthsformatabbreviated1Τουτ
+calendarscopticmonthsformatabbreviated9Μπασάνς
+calendarscopticmonthsformatabbreviated8Μπαρμούντα
+calendarscopticmonthsformatabbreviated13Νεσγ
+calendarscopticmonthsformatabbreviated2Μπάπα
+calendarscopticmonthsformatabbreviated5Τούμπα
+calendarscopticmonthsformatabbreviated3Χατούρ
+calendarscopticmonthsformatabbreviated12Μέσρα
+calendarscopticmonthsformatabbreviated11Αμπίπ
+calendarscopticmonthsformatabbreviated7Μπαραμχάτ
+calendarscopticmonthsformatabbreviated10Μπαούνα
+calendarsgenericdateTimeFormatsmedium{1}, {0}
+calendarsgenericdateTimeFormatslong{1} - {0}
+calendarsgenericdateTimeFormatsshort{1}, {0}
+calendarsgenericdateTimeFormatsfull{1} - {0}
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericdateFormatsshortstandardd/M/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM y G
+calendarsgenericavailableFormatsMMMMEdE, d MMMM
+calendarsgenericavailableFormatsyyyyQQQG y QQQ
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsGyMMMdd MMM y G
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsyyyyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsMEdE, d/M
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsyyyyQQQQG y QQQQ
+calendarsgenericavailableFormatsyyyyMMMdd MMM y G
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericavailableFormatsEBhmsE h:mm:ss B
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsMMMEdE, d MMM
+calendarsgenericavailableFormatsBhmh:mm B
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsyyyyMdd/M/y GGGGG
+calendarsgenericavailableFormatsBhmsh:mm:ss B
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEBhmE h:mm B
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsGyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsBhh B
+calendarsgenericavailableFormatsEdE d
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMM/y GGGGG
+calendarsgenericavailableFormatsyyyyMMMMMMMM y G
+calendarsgenericavailableFormatsMdd/M
+calendarsgenericavailableFormatsyyyyMEdE, d/M/y GGGGG
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsHHH
+calendarsgenericintervalFormatsyMMMdydd MMM y – dd MMM y G
+calendarsgenericintervalFormatsyMMMdMdd MMM – dd MMM y G
+calendarsgenericintervalFormatsyMMMdddd–dd MMM y G
+calendarsgenericintervalFormatsyMMMEdyE, dd MMM y – E, dd MMM y G
+calendarsgenericintervalFormatsyMMMEddE, dd – E, dd MMM y G
+calendarsgenericintervalFormatsyMMMEdME, dd MMM – E, dd MMM y G
+calendarsgenericintervalFormatsMMM–M
+calendarsgenericintervalFormatsHmHHH:mm–HH:mm
+calendarsgenericintervalFormatsHmmHH:mm–HH:mm
+calendarsgenericintervalFormatsddd–d
+calendarsgenericintervalFormatsyMdydd/MM/y – dd/MM/y GGGGG
+calendarsgenericintervalFormatsyMdMdd/MM/y – dd/MM/y GGGGG
+calendarsgenericintervalFormatsyMdddd/MM/y – dd/MM/y GGGGG
+calendarsgenericintervalFormatsMMMdddd–dd MMM
+calendarsgenericintervalFormatsMMMdMdd MMM – dd MMM
+calendarsgenericintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgenericintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgenericintervalFormatsyMEdyE, dd/MM/y – E, dd/MM/y GGGGG
+calendarsgenericintervalFormatsyMEddE, dd/MM/y – E, dd/MM/y GGGGG
+calendarsgenericintervalFormatsyMEdME, dd/MM/y – E, dd/MM/y GGGGG
+calendarsgenericintervalFormatsMMMMMMM–MMM
+calendarsgenericintervalFormatsMdddd/MM – dd/MM
+calendarsgenericintervalFormatsMdMdd/MM – dd/MM
+calendarsgenericintervalFormatsHHHH–HH
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatsstandardstandard{0} - {1}
+calendarsgenericintervalFormatsyMMMM/y – MM/y GGGGG
+calendarsgenericintervalFormatsyMyMM/y – MM/y GGGGG
+calendarsgenericintervalFormatsyyy–y G
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatsHvHHH–HH v
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatsyMMMMMMM–MMM y G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatsMEdME, dd/MM – E, dd/MM
+calendarsgenericintervalFormatsMEddE, dd/MM – E, dd/MM
+calendarsgenericintervalFormatsyMMMMMMMMM–MMMM y G
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsMMMEdME, dd MMM – E, dd MMM
+calendarsgenericintervalFormatsMMMEddE, dd – E, dd MMM
+calendarsethiopiceraseraAbbr1ERA1
+calendarsethiopiceraseraAbbr0ERA0
+calendarsethiopiceraseraNames1ERA1
+calendarsethiopiceraseraNames0ERA0
+calendarsethiopiceraseraNarrow0ERA0
+calendarsethiopiceraseraNarrow1ERA1
+calendarsethiopicmonthsformatwide2Tekemt
+calendarsethiopicmonthsformatwide13Pagumen
+calendarsethiopicmonthsformatwide8Miazia
+calendarsethiopicmonthsformatwide5Ter
+calendarsethiopicmonthsformatwide6Yekatit
+calendarsethiopicmonthsformatwide4Tahsas
+calendarsethiopicmonthsformatwide1Meskerem
+calendarsethiopicmonthsformatwide9Genbot
+calendarsethiopicmonthsformatwide10Sene
+calendarsethiopicmonthsformatwide3Hedar
+calendarsethiopicmonthsformatwide11Hamle
+calendarsethiopicmonthsformatwide12Nehasse
+calendarsethiopicmonthsformatwide7Megabit
+calendarsethiopicmonthsformatabbreviated9Genbot
+calendarsethiopicmonthsformatabbreviated6Yekatit
+calendarsethiopicmonthsformatabbreviated1Meskerem
+calendarsethiopicmonthsformatabbreviated4Tahsas
+calendarsethiopicmonthsformatabbreviated5Ter
+calendarsethiopicmonthsformatabbreviated13Pagumen
+calendarsethiopicmonthsformatabbreviated8Miazia
+calendarsethiopicmonthsformatabbreviated2Tekemt
+calendarsethiopicmonthsformatabbreviated7Megabit
+calendarsethiopicmonthsformatabbreviated12Nehasse
+calendarsethiopicmonthsformatabbreviated11Hamle
+calendarsethiopicmonthsformatabbreviated3Hedar
+calendarsethiopicmonthsformatabbreviated10Sene
+calendarsethiopicmonthsstand-aloneabbreviated9Genbot
+calendarsethiopicmonthsstand-aloneabbreviated6Yekatit
+calendarsethiopicmonthsstand-aloneabbreviated4Tahsas
+calendarsethiopicmonthsstand-aloneabbreviated1Meskerem
+calendarsethiopicmonthsstand-aloneabbreviated5Ter
+calendarsethiopicmonthsstand-aloneabbreviated2Tekemt
+calendarsethiopicmonthsstand-aloneabbreviated13Pagumen
+calendarsethiopicmonthsstand-aloneabbreviated8Miazia
+calendarsethiopicmonthsstand-aloneabbreviated12Nehasse
+calendarsethiopicmonthsstand-aloneabbreviated11Hamle
+calendarsethiopicmonthsstand-aloneabbreviated7Megabit
+calendarsethiopicmonthsstand-aloneabbreviated3Hedar
+calendarsethiopicmonthsstand-aloneabbreviated10Sene
+calendarsethiopicmonthsstand-alonewide5Ter
+calendarsethiopicmonthsstand-alonewide13Pagumen
+calendarsethiopicmonthsstand-alonewide2Tekemt
+calendarsethiopicmonthsstand-alonewide8Miazia
+calendarsethiopicmonthsstand-alonewide9Genbot
+calendarsethiopicmonthsstand-alonewide1Meskerem
+calendarsethiopicmonthsstand-alonewide6Yekatit
+calendarsethiopicmonthsstand-alonewide4Tahsas
+calendarsethiopicmonthsstand-alonewide10Sene
+calendarsethiopicmonthsstand-alonewide12Nehasse
+calendarsethiopicmonthsstand-alonewide11Hamle
+calendarsethiopicmonthsstand-alonewide7Megabit
+calendarsethiopicmonthsstand-alonewide3Hedar
+calendarsgregorianquartersformatwide44ο τρίμηνο
+calendarsgregorianquartersformatwide11ο τρίμηνο
+calendarsgregorianquartersformatwide22ο τρίμηνο
+calendarsgregorianquartersformatwide33ο τρίμηνο
+calendarsgregorianquartersformatabbreviated1Τ1
+calendarsgregorianquartersformatabbreviated4Τ4
+calendarsgregorianquartersformatabbreviated2Τ2
+calendarsgregorianquartersformatabbreviated3Τ3
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersstand-aloneabbreviated3Τ3
+calendarsgregorianquartersstand-aloneabbreviated1Τ1
+calendarsgregorianquartersstand-aloneabbreviated4Τ4
+calendarsgregorianquartersstand-aloneabbreviated2Τ2
+calendarsgregorianquartersstand-alonewide33ο τρίμηνο
+calendarsgregorianquartersstand-alonewide22ο τρίμηνο
+calendarsgregorianquartersstand-alonewide44ο τρίμηνο
+calendarsgregorianquartersstand-alonewide11ο τρίμηνο
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM y
+calendarsgregoriandateFormatsshortstandardd/M/yy
+calendarsgregoriandateTimeFormatsmedium{1}, {0}
+calendarsgregoriandateTimeFormatslong{1} - {0}
+calendarsgregoriandateTimeFormatsshort{1}, {0}
+calendarsgregoriandateTimeFormatsfull{1} - {0}
+calendarsgregoriandaysformatnarrowsunΚ
+calendarsgregoriandaysformatnarrowwedΤ
+calendarsgregoriandaysformatnarrowmonΔ
+calendarsgregoriandaysformatnarrowtueΤ
+calendarsgregoriandaysformatnarrowfriΠ
+calendarsgregoriandaysformatnarrowsatΣ
+calendarsgregoriandaysformatnarrowthuΠ
+calendarsgregoriandaysformatabbreviatedwedΤετ
+calendarsgregoriandaysformatabbreviatedsunΚυρ
+calendarsgregoriandaysformatabbreviatedsatΣάβ
+calendarsgregoriandaysformatabbreviatedthuΠέμ
+calendarsgregoriandaysformatabbreviatedfriΠαρ
+calendarsgregoriandaysformatabbreviatedtueΤρί
+calendarsgregoriandaysformatabbreviatedmonΔευ
+calendarsgregoriandaysformatwidetueΤρίτη
+calendarsgregoriandaysformatwidemonΔευτέρα
+calendarsgregoriandaysformatwidesatΣάββατο
+calendarsgregoriandaysformatwidethuΠέμπτη
+calendarsgregoriandaysformatwidefriΠαρασκευή
+calendarsgregoriandaysformatwidesunΚυριακή
+calendarsgregoriandaysformatwidewedΤετάρτη
+calendarsgregoriandaysformatshortfriΠα
+calendarsgregoriandaysformatshortthuΠέ
+calendarsgregoriandaysformatshortsatΣά
+calendarsgregoriandaysformatshortmonΔε
+calendarsgregoriandaysformatshorttueΤρ
+calendarsgregoriandaysformatshortwedΤε
+calendarsgregoriandaysformatshortsunΚυ
+calendarsgregoriandaysstand-alonenarrowsunΚ
+calendarsgregoriandaysstand-alonenarrowwedΤ
+calendarsgregoriandaysstand-alonenarrowmonΔ
+calendarsgregoriandaysstand-alonenarrowtueΤ
+calendarsgregoriandaysstand-alonenarrowfriΠ
+calendarsgregoriandaysstand-alonenarrowthuΠ
+calendarsgregoriandaysstand-alonenarrowsatΣ
+calendarsgregoriandaysstand-alonewidetueΤρίτη
+calendarsgregoriandaysstand-alonewidemonΔευτέρα
+calendarsgregoriandaysstand-alonewidesatΣάββατο
+calendarsgregoriandaysstand-alonewidethuΠέμπτη
+calendarsgregoriandaysstand-alonewidefriΠαρασκευή
+calendarsgregoriandaysstand-alonewidesunΚυριακή
+calendarsgregoriandaysstand-alonewidewedΤετάρτη
+calendarsgregoriandaysstand-aloneabbreviatedsatΣάβ
+calendarsgregoriandaysstand-aloneabbreviatedthuΠέμ
+calendarsgregoriandaysstand-aloneabbreviatedfriΠαρ
+calendarsgregoriandaysstand-aloneabbreviatedtueΤρί
+calendarsgregoriandaysstand-aloneabbreviatedmonΔευ
+calendarsgregoriandaysstand-aloneabbreviatedwedΤετ
+calendarsgregoriandaysstand-aloneabbreviatedsunΚυρ
+calendarsgregoriandaysstand-aloneshortsunΚυ
+calendarsgregoriandaysstand-aloneshortwedΤε
+calendarsgregoriandaysstand-aloneshortmonΔε
+calendarsgregoriandaysstand-aloneshorttueΤρ
+calendarsgregoriandaysstand-aloneshortfriΠα
+calendarsgregoriandaysstand-aloneshortthuΠέ
+calendarsgregoriandaysstand-aloneshortsatΣά
+calendarsgregoriandayPeriodsstand-aloneabbreviatednight1βράδυ
+calendarsgregoriandayPeriodsstand-aloneabbreviatedevening1απόγ.
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmμ.μ.
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning1πρωί
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamπ.μ.
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon1μεσημ.
+calendarsgregoriandayPeriodsstand-alonewidepmμ.μ.
+calendarsgregoriandayPeriodsstand-alonewidemorning1πρωί
+calendarsgregoriandayPeriodsstand-alonewideafternoon1μεσημέρι
+calendarsgregoriandayPeriodsstand-alonewideamπ.μ.
+calendarsgregoriandayPeriodsstand-alonewidenight1βράδυ
+calendarsgregoriandayPeriodsstand-alonewideevening1απόγευμα
+calendarsgregoriandayPeriodsstand-alonenarrowevening1απόγ.
+calendarsgregoriandayPeriodsstand-alonenarrownight1βράδυ
+calendarsgregoriandayPeriodsstand-alonenarrowmorning1πρωί
+calendarsgregoriandayPeriodsstand-alonenarrowpmμμ
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon1μεσημ.
+calendarsgregoriandayPeriodsstand-alonenarrowamπμ
+calendarsgregoriandayPeriodsformatabbreviatedevening1απόγ.
+calendarsgregoriandayPeriodsformatabbreviatednight1βράδυ
+calendarsgregoriandayPeriodsformatabbreviatedafternoon1μεσημ.
+calendarsgregoriandayPeriodsformatabbreviatedamπ.μ.
+calendarsgregoriandayPeriodsformatabbreviatedmorning1πρωί
+calendarsgregoriandayPeriodsformatabbreviatedpmμ.μ.
+calendarsgregoriandayPeriodsformatwidemorning1πρωί
+calendarsgregoriandayPeriodsformatwidepmμ.μ.
+calendarsgregoriandayPeriodsformatwideafternoon1μεσημέρι
+calendarsgregoriandayPeriodsformatwideamπ.μ.
+calendarsgregoriandayPeriodsformatwidenight1βράδυ
+calendarsgregoriandayPeriodsformatwideevening1απόγευμα
+calendarsgregoriandayPeriodsformatnarrowafternoon1μεσημ.
+calendarsgregoriandayPeriodsformatnarrowamπμ
+calendarsgregoriandayPeriodsformatnarrowmorning1πρωί
+calendarsgregoriandayPeriodsformatnarrowpmμμ
+calendarsgregoriandayPeriodsformatnarrownight1βράδυ
+calendarsgregoriandayPeriodsformatnarrowevening1απόγ.
+calendarsgregorianintervalFormatsyMMMMMLLLL–LLLL y
+calendarsgregorianintervalFormatsyMMMMyLLLL y – LLLL y
+calendarsgregorianintervalFormatsMMMEdME, dd MMM – E, dd MMM
+calendarsgregorianintervalFormatsMMMEddE, dd – E, dd MMM
+calendarsgregorianintervalFormatsyMyMM/y – MM/y
+calendarsgregorianintervalFormatsyMMMM/y – MM/y
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsyMMMMMMM–MMM y
+calendarsgregorianintervalFormatsMEdME, dd/MM – E, dd/MM
+calendarsgregorianintervalFormatsMEddE, dd/MM – E, dd/MM
+calendarsgregorianintervalFormatsyMdMdd/MM/y – dd/MM/y
+calendarsgregorianintervalFormatsyMdddd/MM/y – dd/MM/y
+calendarsgregorianintervalFormatsyMdydd/MM/y – dd/MM/y
+calendarsgregorianintervalFormatsMMMdMdd MMM – dd MMM
+calendarsgregorianintervalFormatsMMMdddd–dd MMM
+calendarsgregorianintervalFormatsyMEdyE, dd/MM/y – E, dd/MM/y
+calendarsgregorianintervalFormatsyMEddE, dd/MM/y – E, dd/MM/y
+calendarsgregorianintervalFormatsyMEdME, dd/MM/y – E, dd/MM/y
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsMMMMMMM–MMM
+calendarsgregorianintervalFormatsMdMdd/MM – dd/MM
+calendarsgregorianintervalFormatsMdddd/MM – dd/MM
+calendarsgregorianintervalFormatsstandardstandard{0} - {1}
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatsHHHH–HH
+calendarsgregorianintervalFormatsyMMMdddd–dd MMM y
+calendarsgregorianintervalFormatsyMMMdMdd MMM – dd MMM y
+calendarsgregorianintervalFormatsyMMMdydd MMM y – dd MMM y
+calendarsgregorianintervalFormatsMMM–M
+calendarsgregorianintervalFormatsyMMMEdyE, dd MMM y – E, dd MMM y
+calendarsgregorianintervalFormatsyMMMEddE, dd MMM – E, dd MMM y
+calendarsgregorianintervalFormatsyMMMEdME, dd MMM – E, dd MMM y
+calendarsgregorianintervalFormatsHmHHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsddd–d
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianmonthsformatabbreviated5Μαΐ
+calendarsgregorianmonthsformatabbreviated8Αυγ
+calendarsgregorianmonthsformatabbreviated2Φεβ
+calendarsgregorianmonthsformatabbreviated9Σεπ
+calendarsgregorianmonthsformatabbreviated1Ιαν
+calendarsgregorianmonthsformatabbreviated6Ιουν
+calendarsgregorianmonthsformatabbreviated4Απρ
+calendarsgregorianmonthsformatabbreviated10Οκτ
+calendarsgregorianmonthsformatabbreviated11Νοε
+calendarsgregorianmonthsformatabbreviated12Δεκ
+calendarsgregorianmonthsformatabbreviated7Ιουλ
+calendarsgregorianmonthsformatabbreviated3Μαρ
+calendarsgregorianmonthsformatwide5Μαΐου
+calendarsgregorianmonthsformatwide2Φεβρουαρίου
+calendarsgregorianmonthsformatwide8Αυγούστου
+calendarsgregorianmonthsformatwide9Σεπτεμβρίου
+calendarsgregorianmonthsformatwide6Ιουνίου
+calendarsgregorianmonthsformatwide1Ιανουαρίου
+calendarsgregorianmonthsformatwide4Απριλίου
+calendarsgregorianmonthsformatwide10Οκτωβρίου
+calendarsgregorianmonthsformatwide12Δεκεμβρίου
+calendarsgregorianmonthsformatwide7Ιουλίου
+calendarsgregorianmonthsformatwide11Νοεμβρίου
+calendarsgregorianmonthsformatwide3Μαρτίου
+calendarsgregorianmonthsformatnarrow12Δ
+calendarsgregorianmonthsformatnarrow7Ι
+calendarsgregorianmonthsformatnarrow11Ν
+calendarsgregorianmonthsformatnarrow3Μ
+calendarsgregorianmonthsformatnarrow10Ο
+calendarsgregorianmonthsformatnarrow9Σ
+calendarsgregorianmonthsformatnarrow6Ι
+calendarsgregorianmonthsformatnarrow4Α
+calendarsgregorianmonthsformatnarrow1Ι
+calendarsgregorianmonthsformatnarrow5Μ
+calendarsgregorianmonthsformatnarrow8Α
+calendarsgregorianmonthsformatnarrow2Φ
+calendarsgregorianmonthsstand-alonenarrow10Ο
+calendarsgregorianmonthsstand-alonenarrow11Ν
+calendarsgregorianmonthsstand-alonenarrow12Δ
+calendarsgregorianmonthsstand-alonenarrow7Ι
+calendarsgregorianmonthsstand-alonenarrow3Μ
+calendarsgregorianmonthsstand-alonenarrow5Μ
+calendarsgregorianmonthsstand-alonenarrow2Φ
+calendarsgregorianmonthsstand-alonenarrow8Α
+calendarsgregorianmonthsstand-alonenarrow9Σ
+calendarsgregorianmonthsstand-alonenarrow4Α
+calendarsgregorianmonthsstand-alonenarrow6Ι
+calendarsgregorianmonthsstand-alonenarrow1Ι
+calendarsgregorianmonthsstand-aloneabbreviated12Δεκ
+calendarsgregorianmonthsstand-aloneabbreviated11Νοέ
+calendarsgregorianmonthsstand-aloneabbreviated7Ιούλ
+calendarsgregorianmonthsstand-aloneabbreviated3Μάρ
+calendarsgregorianmonthsstand-aloneabbreviated10Οκτ
+calendarsgregorianmonthsstand-aloneabbreviated9Σεπ
+calendarsgregorianmonthsstand-aloneabbreviated4Απρ
+calendarsgregorianmonthsstand-aloneabbreviated6Ιούν
+calendarsgregorianmonthsstand-aloneabbreviated1Ιαν
+calendarsgregorianmonthsstand-aloneabbreviated5Μάι
+calendarsgregorianmonthsstand-aloneabbreviated2Φεβ
+calendarsgregorianmonthsstand-aloneabbreviated8Αύγ
+calendarsgregorianmonthsstand-alonewide4Απρίλιος
+calendarsgregorianmonthsstand-alonewide6Ιούνιος
+calendarsgregorianmonthsstand-alonewide1Ιανουάριος
+calendarsgregorianmonthsstand-alonewide9Σεπτέμβριος
+calendarsgregorianmonthsstand-alonewide2Φεβρουάριος
+calendarsgregorianmonthsstand-alonewide8Αύγουστος
+calendarsgregorianmonthsstand-alonewide5Μάιος
+calendarsgregorianmonthsstand-alonewide3Μάρτιος
+calendarsgregorianmonthsstand-alonewide7Ιούλιος
+calendarsgregorianmonthsstand-alonewide12Δεκέμβριος
+calendarsgregorianmonthsstand-alonewide11Νοέμβριος
+calendarsgregorianmonthsstand-alonewide10Οκτώβριος
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsyMMMEdE, d MMM y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsEdE d
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsGyMMMEdE, d MMM y G
+calendarsgregorianavailableFormatsGyMMMLLL y G
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsBhh B
+calendarsgregorianavailableFormatsyMMMdd MMM y
+calendarsgregorianavailableFormatsMMMMWεβδομάδα W του MMM
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsBhmsh:mm:ss B
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEBhmE h:mm B
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsMMMMMM
+calendarsgregorianavailableFormatsyMEdE, d/M/y
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsMEdE, d/M
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsywεβδομάδα w του Y
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsMMMMEdE, d MMMM
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyMMMdd MMM y G
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsyMMMMLLLL y
+calendarsgregorianavailableFormatsMMMEdE, d MMM
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsBhmh:mm B
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsEBhmsE h:mm:ss B
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianeraseraAbbr1ΚΧ
+calendarsgregorianeraseraAbbr0π.Κ.Χ.
+calendarsgregorianeraseraNames1Κοινή Χρονολογία
+calendarsgregorianeraseraNames0πριν από την Κοινή Χρονολογία
+calendarsroceraseraAbbr1R.O.C.
+calendarsroceraseraAbbr0προ R.O.C.
+calendarsroceraseraNarrow1R.O.C.
+calendarsroceraseraNarrow0προ R.O.C.
+calendarsroceraseraNames0προ R.O.C.
+calendarsroceraseraNames1R.O.C.
+calendarsislamicmonthsformatabbreviated1Muh.
+calendarsislamicmonthsformatabbreviated6Jum. II
+calendarsislamicmonthsformatabbreviated4Rab. II
+calendarsislamicmonthsformatabbreviated9Ram.
+calendarsislamicmonthsformatabbreviated2Saf.
+calendarsislamicmonthsformatabbreviated8Sha.
+calendarsislamicmonthsformatabbreviated5Jum. I
+calendarsislamicmonthsformatabbreviated3Rab. I
+calendarsislamicmonthsformatabbreviated7Raj.
+calendarsislamicmonthsformatabbreviated12Dhuʻl-H.
+calendarsislamicmonthsformatabbreviated11Dhuʻl-Q.
+calendarsislamicmonthsformatabbreviated10Shaw.
+calendarsislamicmonthsformatwide10Shawwal
+calendarsislamicmonthsformatwide3Rabiʻ I
+calendarsislamicmonthsformatwide12Dhuʻl-Hijjah
+calendarsislamicmonthsformatwide7Rajab
+calendarsislamicmonthsformatwide11Dhuʻl-Qiʻdah
+calendarsislamicmonthsformatwide8Shaʻban
+calendarsislamicmonthsformatwide2Safar
+calendarsislamicmonthsformatwide5Jumada I
+calendarsislamicmonthsformatwide1Muharram
+calendarsislamicmonthsformatwide6Jumada II
+calendarsislamicmonthsformatwide4Rabiʻ II
+calendarsislamicmonthsformatwide9Ramadan
+calendarsislamicmonthsstand-aloneabbreviated10Shaw.
+calendarsislamicmonthsstand-aloneabbreviated3Rab. I
+calendarsislamicmonthsstand-aloneabbreviated12Dhuʻl-H.
+calendarsislamicmonthsstand-aloneabbreviated7Raj.
+calendarsislamicmonthsstand-aloneabbreviated11Dhuʻl-Q.
+calendarsislamicmonthsstand-aloneabbreviated2Saf.
+calendarsislamicmonthsstand-aloneabbreviated8Sha.
+calendarsislamicmonthsstand-aloneabbreviated5Jum. I
+calendarsislamicmonthsstand-aloneabbreviated6Jum. II
+calendarsislamicmonthsstand-aloneabbreviated4Rab. II
+calendarsislamicmonthsstand-aloneabbreviated1Muh.
+calendarsislamicmonthsstand-aloneabbreviated9Ram.
+calendarsislamicmonthsstand-alonewide10Shawwal
+calendarsislamicmonthsstand-alonewide3Rabiʻ I
+calendarsislamicmonthsstand-alonewide12Dhuʻl-Hijjah
+calendarsislamicmonthsstand-alonewide7Rajab
+calendarsislamicmonthsstand-alonewide11Dhuʻl-Qiʻdah
+calendarsislamicmonthsstand-alonewide8Shaʻban
+calendarsislamicmonthsstand-alonewide2Safar
+calendarsislamicmonthsstand-alonewide5Jumada I
+calendarsislamicmonthsstand-alonewide6Jumada II
+calendarsislamicmonthsstand-alonewide4Rabiʻ II
+calendarsislamicmonthsstand-alonewide1Muharram
+calendarsislamicmonthsstand-alonewide9Ramadan
+calendarsislamiceraseraNames0Ε.Ε.
+calendarsislamiceraseraNarrow0Ε.Ε.
+calendarsislamiceraseraAbbr0Ε.Ε.
+calendarshebreweraseraAbbr0AM
+calendarshebreweraseraNarrow0AM
+calendarshebreweraseraNames0AM
+calendarshebrewmonthsformatabbreviated9Ιγιάρ
+calendarshebrewmonthsformatabbreviated6Αντάρ I
+calendarshebrewmonthsformatabbreviated1Τισρί
+calendarshebrewmonthsformatabbreviated4Τέβετ
+calendarshebrewmonthsformatabbreviated5Σεβάτ
+calendarshebrewmonthsformatabbreviated2Χεσβάν
+calendarshebrewmonthsformatabbreviated13Έλουλ
+calendarshebrewmonthsformatabbreviated8Νισάν
+calendarshebrewmonthsformatabbreviated12Αβ
+calendarshebrewmonthsformatabbreviated11Ταμούζ
+calendarshebrewmonthsformatabbreviated7Αντάρ II
+calendarshebrewmonthsformatabbreviated3Κισλέφ
+calendarshebrewmonthsformatabbreviated10Σιβάν
+calendarshebrewmonthsformatwide3Κισλέφ
+calendarshebrewmonthsformatwide11Ταμούζ
+calendarshebrewmonthsformatwide12Αβ
+calendarshebrewmonthsformatwide7Αντάρ II
+calendarshebrewmonthsformatwide10Σιβάν
+calendarshebrewmonthsformatwide1Τισρί
+calendarshebrewmonthsformatwide6Αντάρ I
+calendarshebrewmonthsformatwide4Τέβετ
+calendarshebrewmonthsformatwide9Ιγιάρ
+calendarshebrewmonthsformatwide8Νισάν
+calendarshebrewmonthsformatwide13Έλουλ
+calendarshebrewmonthsformatwide2Χεσβάν
+calendarshebrewmonthsformatwide5Σεβάτ
+calendarshebrewmonthsstand-alonewide12Αβ
+calendarshebrewmonthsstand-alonewide11Ταμούζ
+calendarshebrewmonthsstand-alonewide7Αντάρ II
+calendarshebrewmonthsstand-alonewide3Κισλέφ
+calendarshebrewmonthsstand-alonewide10Σιβάν
+calendarshebrewmonthsstand-alonewide9Ιγιάρ
+calendarshebrewmonthsstand-alonewide1Τισρί
+calendarshebrewmonthsstand-alonewide6Αντάρ I
+calendarshebrewmonthsstand-alonewide4Τέβετ
+calendarshebrewmonthsstand-alonewide5Σεβάτ
+calendarshebrewmonthsstand-alonewide2Χεσβάν
+calendarshebrewmonthsstand-alonewide13Έλουλ
+calendarshebrewmonthsstand-alonewide8Νισάν
+calendarshebrewmonthsstand-aloneabbreviated10Σιβάν
+calendarshebrewmonthsstand-aloneabbreviated3Κισλέφ
+calendarshebrewmonthsstand-aloneabbreviated12Αβ
+calendarshebrewmonthsstand-aloneabbreviated11Ταμούζ
+calendarshebrewmonthsstand-aloneabbreviated7Αντάρ II
+calendarshebrewmonthsstand-aloneabbreviated8Νισάν
+calendarshebrewmonthsstand-aloneabbreviated13Έλουλ
+calendarshebrewmonthsstand-aloneabbreviated2Χεσβάν
+calendarshebrewmonthsstand-aloneabbreviated5Σεβάτ
+calendarshebrewmonthsstand-aloneabbreviated6Αντάρ I
+calendarshebrewmonthsstand-aloneabbreviated4Τέβετ
+calendarshebrewmonthsstand-aloneabbreviated1Τισρί
+calendarshebrewmonthsstand-aloneabbreviated9Ιγιάρ
+calendarsindianmonthsstand-aloneabbreviated12Phalguna
+calendarsindianmonthsstand-aloneabbreviated11Magha
+calendarsindianmonthsstand-aloneabbreviated7Asvina
+calendarsindianmonthsstand-aloneabbreviated3Jyaistha
+calendarsindianmonthsstand-aloneabbreviated10Pausa
+calendarsindianmonthsstand-aloneabbreviated9Agrahayana
+calendarsindianmonthsstand-aloneabbreviated4Asadha
+calendarsindianmonthsstand-aloneabbreviated6Bhadra
+calendarsindianmonthsstand-aloneabbreviated1Chaitra
+calendarsindianmonthsstand-aloneabbreviated5Sravana
+calendarsindianmonthsstand-aloneabbreviated2Vaisakha
+calendarsindianmonthsstand-aloneabbreviated8Kartika
+calendarsindianmonthsstand-alonewide3Jyaistha
+calendarsindianmonthsstand-alonewide12Phalguna
+calendarsindianmonthsstand-alonewide7Asvina
+calendarsindianmonthsstand-alonewide11Magha
+calendarsindianmonthsstand-alonewide10Pausa
+calendarsindianmonthsstand-alonewide1Chaitra
+calendarsindianmonthsstand-alonewide6Bhadra
+calendarsindianmonthsstand-alonewide4Asadha
+calendarsindianmonthsstand-alonewide9Agrahayana
+calendarsindianmonthsstand-alonewide2Vaisakha
+calendarsindianmonthsstand-alonewide8Kartika
+calendarsindianmonthsstand-alonewide5Sravana
+calendarsindianmonthsformatwide10Pausa
+calendarsindianmonthsformatwide7Asvina
+calendarsindianmonthsformatwide12Phalguna
+calendarsindianmonthsformatwide11Magha
+calendarsindianmonthsformatwide3Jyaistha
+calendarsindianmonthsformatwide5Sravana
+calendarsindianmonthsformatwide2Vaisakha
+calendarsindianmonthsformatwide8Kartika
+calendarsindianmonthsformatwide9Agrahayana
+calendarsindianmonthsformatwide4Asadha
+calendarsindianmonthsformatwide6Bhadra
+calendarsindianmonthsformatwide1Chaitra
+calendarsindianmonthsformatabbreviated2Vaisakha
+calendarsindianmonthsformatabbreviated8Kartika
+calendarsindianmonthsformatabbreviated5Sravana
+calendarsindianmonthsformatabbreviated6Bhadra
+calendarsindianmonthsformatabbreviated4Asadha
+calendarsindianmonthsformatabbreviated1Chaitra
+calendarsindianmonthsformatabbreviated9Agrahayana
+calendarsindianmonthsformatabbreviated10Pausa
+calendarsindianmonthsformatabbreviated3Jyaistha
+calendarsindianmonthsformatabbreviated11Magha
+calendarsindianmonthsformatabbreviated12Phalguna
+calendarsindianmonthsformatabbreviated7Asvina
+calendarsindianeraseraAbbr0Σάκα
+calendarsindianeraseraNarrow0Σάκα
+calendarsindianeraseraNames0Σάκα
+calendarspersianmonthsformatabbreviated10Dey
+calendarspersianmonthsformatabbreviated7Mehr
+calendarspersianmonthsformatabbreviated12Esfand
+calendarspersianmonthsformatabbreviated11Bahman
+calendarspersianmonthsformatabbreviated3Khordad
+calendarspersianmonthsformatabbreviated5Mordad
+calendarspersianmonthsformatabbreviated8Aban
+calendarspersianmonthsformatabbreviated2Ordibehesht
+calendarspersianmonthsformatabbreviated9Azar
+calendarspersianmonthsformatabbreviated4Tir
+calendarspersianmonthsformatabbreviated6Shahrivar
+calendarspersianmonthsformatabbreviated1Farvardin
+calendarspersianmonthsformatwide10Dey
+calendarspersianmonthsformatwide7Mehr
+calendarspersianmonthsformatwide12Esfand
+calendarspersianmonthsformatwide11Bahman
+calendarspersianmonthsformatwide3Khordad
+calendarspersianmonthsformatwide5Mordad
+calendarspersianmonthsformatwide8Aban
+calendarspersianmonthsformatwide2Ordibehesht
+calendarspersianmonthsformatwide9Azar
+calendarspersianmonthsformatwide1Farvardin
+calendarspersianmonthsformatwide6Shahrivar
+calendarspersianmonthsformatwide4Tir
+calendarspersianmonthsstand-aloneabbreviated10Dey
+calendarspersianmonthsstand-aloneabbreviated3Khordad
+calendarspersianmonthsstand-aloneabbreviated12Esfand
+calendarspersianmonthsstand-aloneabbreviated11Bahman
+calendarspersianmonthsstand-aloneabbreviated7Mehr
+calendarspersianmonthsstand-aloneabbreviated8Aban
+calendarspersianmonthsstand-aloneabbreviated2Ordibehesht
+calendarspersianmonthsstand-aloneabbreviated5Mordad
+calendarspersianmonthsstand-aloneabbreviated6Shahrivar
+calendarspersianmonthsstand-aloneabbreviated1Farvardin
+calendarspersianmonthsstand-aloneabbreviated4Tir
+calendarspersianmonthsstand-aloneabbreviated9Azar
+calendarspersianmonthsstand-alonewide10Dey
+calendarspersianmonthsstand-alonewide12Esfand
+calendarspersianmonthsstand-alonewide7Mehr
+calendarspersianmonthsstand-alonewide11Bahman
+calendarspersianmonthsstand-alonewide3Khordad
+calendarspersianmonthsstand-alonewide5Mordad
+calendarspersianmonthsstand-alonewide2Ordibehesht
+calendarspersianmonthsstand-alonewide8Aban
+calendarspersianmonthsstand-alonewide9Azar
+calendarspersianmonthsstand-alonewide6Shahrivar
+calendarspersianmonthsstand-alonewide1Farvardin
+calendarspersianmonthsstand-alonewide4Tir
+calendarspersianeraseraAbbr0AP
+calendarspersianeraseraNarrow0AP
+calendarspersianeraseraNames0AP
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandard2{0} και {1}
+listPatternsstandardend{0} και {1}
+listPatternsstandardstart{0}, {1}
+listPatternsunit-shortstart{0}, {1}
+listPatternsunit-short2{0}, {1}
+listPatternsunit-shortend{0}, {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsstandard-shortend{0} και {1}
+listPatternsstandard-short2{0} και {1}
+listPatternsstandard-shortmiddle{0}, {1}
+listPatternsstandard-shortstart{0}, {1}
+listPatternsunit-narrowmiddle{0} {1}
+listPatternsunit-narrow2{0} {1}
+listPatternsunit-narrowend{0} {1}
+listPatternsunit-narrowstart{0} {1}
+listPatternsorstart{0}, {1}
+listPatternsor2{0} ή {1}
+listPatternsorend{0} ή {1}
+listPatternsormiddle{0}, {1}
+listPatternsunitstart{0}, {1}
+listPatternsunitend{0}, {1}
+listPatternsunit2{0}, {1}
+listPatternsunitmiddle{0}, {1}

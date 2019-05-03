@@ -1,0 +1,514 @@
+listPatternsstandardend{0}, {1}
+listPatternsstandard2{0}, {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandardstart{0}, {1}
+layoutlineOrdertop-to-bottom
+layoutcharacterOrderright-to-left
+charactersexemplarCharactersstandard[\u0659 \u065B آ أ ؤ ئ ا ب پ ت ث ج چ ح خ د ذ ر ز ژ س ش ص ض ط ظ ع غ ف ڤ ق ک گ ل م ن ھ ە و ۉ ۊ ی ؽ]
+charactersexemplarCharacterspunctuation[\- ‐ ، ٫ ٬ ؛ \: ! ؟ . … ‹ › « » ( ) \[ \] * / \\]
+charactersexemplarCharactersindex[آ ا ب پ ت ث ج چ ح خ د ذ ر ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن ھ و ی]
+charactersexemplarCharactersauxiliary[\u200B\u200C\u200D\u200E\u200F \u064B \u064C \u064D \u064E \u064F \u0650 \u0651 \u0652 \u0654 إ ة ك ه ى ي]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+posixmessagesnostrنه:ن
+posixmessagesyesstrهأری:ه
+localeDisplayNamesterritoriesBRبئرئزیل
+localeDisplayNamesterritoriesZZراساگە نادیار
+localeDisplayNamesterritoriesUSڤولاتیا یأکاگئرتە
+localeDisplayNamesterritories419ئمریکا لاتین
+localeDisplayNamesterritoriesINھئن
+localeDisplayNamesterritoriesGBبیریتانیا گأپ
+localeDisplayNamesterritories002ئفریقا
+localeDisplayNamesterritoriesCNچین
+localeDisplayNamesterritories029کارائیب
+localeDisplayNamesterritories021ئمریکا ڤارو
+localeDisplayNamesterritories003ئمریکا شومالی
+localeDisplayNamesterritories013مینجا ئمریکا
+localeDisplayNamesterritoriesRUروٙسیە
+localeDisplayNamesterritories150ئوروٙپا
+localeDisplayNamesterritories005ئمریکا ھارگە
+localeDisplayNamesterritoriesJPجاپوٙن
+localeDisplayNamesterritoriesITئیتالیا
+localeDisplayNamesterritories019ئمریکا
+localeDisplayNamesterritories009ھوم پئڤأند جأھوٙن آڤ
+localeDisplayNamesterritoriesFRفأرانسە
+localeDisplayNamesterritoriesDEآلمان
+localeDisplayNamesterritories142آسیا
+localeDisplayNamesterritories001دونیا
+localeDisplayNamesmeasurementSystemNamesUSڤولاتیا یأکاگئرته
+localeDisplayNamesmeasurementSystemNamesUKبئریتانیا گأپ
+localeDisplayNamesmeasurementSystemNamesmetricمئتری
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNamesscriptsHiraھیراگانا
+localeDisplayNamesscriptsZzzzنیسئسە نادیار
+localeDisplayNamesscriptsDevaدیڤانگأری
+localeDisplayNamesscriptsGujrگوجأراتی
+localeDisplayNamesscriptsThaiتایلأندی
+localeDisplayNamesscriptsGuruگوٙروٙمخی
+localeDisplayNamesscriptsKoreکورئ یی
+localeDisplayNamesscriptsHangھانگوٙل
+localeDisplayNamesscriptsTeluتئلئگو
+localeDisplayNamesscriptsZxxxنیسئسە نأبیە
+localeDisplayNamesscriptsHansبیتار سادە بیە
+localeDisplayNamesscriptsBraiبئرئیل
+localeDisplayNamesscriptsEthiئتوٙیوٙپیایی
+localeDisplayNamesscriptsBengبأنگالی
+localeDisplayNamesscriptsMlymمالایام
+localeDisplayNamesscriptsKanaکاتانگا
+localeDisplayNamesscriptsTamlتامیل
+localeDisplayNamesscriptsZyyyجائوفتاأ
+localeDisplayNamesscriptsArmnأرمأنی
+localeDisplayNamesscriptsKndaکانادا
+localeDisplayNamesscriptsThaaتانا
+localeDisplayNamesscriptsOryaئوریا
+localeDisplayNamesscriptsLatnلاتین
+localeDisplayNamesscriptsCyrlسیریلیک
+localeDisplayNamesscriptsJpanجاپوٙنی
+localeDisplayNamesscriptsHaniھانی
+localeDisplayNamesscriptsSinhسیناھالا
+localeDisplayNamesscriptsArabعأرأڤی
+localeDisplayNamesscriptsKhmrخئمئر
+localeDisplayNamesscriptsHantسونأتی بیتار
+localeDisplayNamesscriptsGeorگورجی
+localeDisplayNamesscriptsZsymنئشوٙنە یا
+localeDisplayNamesscriptsMymrمیانمار
+localeDisplayNamesscriptsTibtتأبأتی
+localeDisplayNamesscriptsMongموغولی
+localeDisplayNamesscriptsLaooلائو
+localeDisplayNamesscriptsHebrعئبری
+localeDisplayNamesscriptsGrekیوٙنانی
+localeDisplayNamesscriptsBopoبوٙپوٙ
+localeDisplayNamescodePatternsterritory{0}
+localeDisplayNamescodePatternslanguage{0}
+localeDisplayNamescodePatternsscript{0}
+localeDisplayNameslanguagesfaفارسی
+localeDisplayNameslanguagesneنئپالی
+localeDisplayNameslanguagesnusنیوٙئر
+localeDisplayNameslanguageskabکابیلئ
+localeDisplayNameslanguagesasآسامی
+localeDisplayNameslanguagesjgoنئگوٙمبا
+localeDisplayNameslanguagesruروٙسی
+localeDisplayNameslanguageszh_Hantچینی سونأتی
+localeDisplayNameslanguagesslئسلوڤئنیایی
+localeDisplayNameslanguagesmgoمئتاٛ
+localeDisplayNameslanguagesksbشامبالا
+localeDisplayNameslanguagesaz_Arabآذأری ھارگە
+localeDisplayNameslanguagesrmرومانش
+localeDisplayNameslanguagesnnنورڤئجی نینورسک
+localeDisplayNameslanguagessrسئربی
+localeDisplayNameslanguagesmgمالاگاشی
+localeDisplayNameslanguagesluoلوٙ
+localeDisplayNameslanguagespsپأشتوٙ
+localeDisplayNameslanguagesqucکیچی
+localeDisplayNameslanguageshaھائوسا
+localeDisplayNameslanguagesazآذأری
+localeDisplayNameslanguagessehسئنا
+localeDisplayNameslanguagesugئویغوٙر
+localeDisplayNameslanguagesundزوٙن نادیار
+localeDisplayNameslanguagesnaqناما
+localeDisplayNameslanguageslagلانگی
+localeDisplayNameslanguagesboتأبأتی
+localeDisplayNameslanguagescggچیگا
+localeDisplayNameslanguagestrتورکی
+localeDisplayNameslanguagessmsئسکولت سامی
+localeDisplayNameslanguagesmasماسایی
+localeDisplayNameslanguageslaلاتین
+localeDisplayNameslanguageskoکورئ یی
+localeDisplayNameslanguageseuباسکی
+localeDisplayNameslanguagesagqآقئم
+localeDisplayNameslanguagesdyoجولا فوٙنیی
+localeDisplayNameslanguagesquکوچوٙا
+localeDisplayNameslanguagessaسانسکئریت
+localeDisplayNameslanguagesmnموغولی
+localeDisplayNameslanguagesklکالالیسوٙت
+localeDisplayNameslanguagesfr_CHفآرانسئ ئی سوٙییس
+localeDisplayNameslanguagescaکاتالان
+localeDisplayNameslanguagesnl_BEفئلاماندی
+localeDisplayNameslanguagesrwkرئڤا
+localeDisplayNameslanguageszhچینی
+localeDisplayNameslanguagesshiتاچئلھیت
+localeDisplayNameslanguageskhqکی یورا چینی
+localeDisplayNameslanguageskeaکاباردینو
+localeDisplayNameslanguagesltلیتوڤانیایی
+localeDisplayNameslanguagesetئستونیایی
+localeDisplayNameslanguagesbrxبودو
+localeDisplayNameslanguagesjaجاپوٙنی
+localeDisplayNameslanguageseeئڤئ
+localeDisplayNameslanguageswbpڤارلپیری
+localeDisplayNameslanguagesyoیوروبا
+localeDisplayNameslanguagesndنئدئبئلئ شومالی
+localeDisplayNameslanguagessvسوٙئدی
+localeDisplayNameslanguagestkتورکأمأنی
+localeDisplayNameslanguagesiiسی چوان یی
+localeDisplayNameslanguagesesئسپانیایی
+localeDisplayNameslanguagesfilفیلیپینی
+localeDisplayNameslanguagesgagگاگائوز
+localeDisplayNameslanguagesdavتایتا
+localeDisplayNameslanguagesen_GBئینگیلیسی بئریتانیا گأپ
+localeDisplayNameslanguagesmyبئرمئ یی
+localeDisplayNameslanguagesknکاناد
+localeDisplayNameslanguageshyأرمأنی
+localeDisplayNameslanguagesceچئچئنی
+localeDisplayNameslanguagesjvجاڤئ یی
+localeDisplayNameslanguagesigئیگبو
+localeDisplayNameslanguagesarnماپوٙچئ
+localeDisplayNameslanguagesdaدانمارکی
+localeDisplayNameslanguagesenئینگیلیسی
+localeDisplayNameslanguageszh_Hansچینی سادە بیە
+localeDisplayNameslanguagesluyلوٙئیا
+localeDisplayNameslanguagesen_USئینگیلیسی ئمریکایی
+localeDisplayNameslanguagesitئیتالیایی
+localeDisplayNameslanguagesckbکوردی سوٙرانی
+localeDisplayNameslanguagesteoتئسو
+localeDisplayNameslanguageskoiکومی پئرمیاک
+localeDisplayNameslanguagesbgnبألوٙچی أقتوٙنئشین
+localeDisplayNameslanguagesbmبامبارا
+localeDisplayNameslanguagesbnبأنگالی
+localeDisplayNameslanguagessw_CDسأڤاحیلی کونگو
+localeDisplayNameslanguagesnbنورڤئجی بوٙکمال
+localeDisplayNameslanguagesglگالیسی
+localeDisplayNameslanguagesmtمالتی
+localeDisplayNameslanguagesidأندونئزیایی
+localeDisplayNameslanguageses_MXئسپانیایی مئکزیک
+localeDisplayNameslanguagesabآذأربایئجانی
+localeDisplayNameslanguagessmnئیناری سامی
+localeDisplayNameslanguagesdeآلمانی
+localeDisplayNameslanguagesluلوٙبا کاتانگا
+localeDisplayNameslanguageskiکیکیوٙ
+localeDisplayNameslanguagesurئوردوٙ
+localeDisplayNameslanguageskwکورنیش
+localeDisplayNameslanguagestzmتامازیغ مینجایی
+localeDisplayNameslanguagespt_BRپورتئغالی بئرئزیل
+localeDisplayNameslanguageskmخئمئر
+localeDisplayNameslanguagesen_AUئینگیلیسی ئوستارالیایی
+localeDisplayNameslanguagescyڤئلزی
+localeDisplayNameslanguagesvaiڤای
+localeDisplayNameslanguageslktلاکوٙتا
+localeDisplayNameslanguagesmfeموٙریسی
+localeDisplayNameslanguagescoکوریسکان
+localeDisplayNameslanguagesxogسوٙگا
+localeDisplayNameslanguagesmerمئرو
+localeDisplayNameslanguageskdeماکوٙندئ
+localeDisplayNameslanguagesbezبئنا
+localeDisplayNameslanguageslrcلۊری شومالی
+localeDisplayNameslanguagesgvمانکس
+localeDisplayNameslanguagesamأمھأری
+localeDisplayNameslanguagesdsbسوربی ھاری
+localeDisplayNameslanguagessoسوٙمالی
+localeDisplayNameslanguagesplلأھئستانی
+localeDisplayNameslanguageszuزولو
+localeDisplayNameslanguagesmohموٙھاڤک
+localeDisplayNameslanguagesteتئلئگو
+localeDisplayNameslanguagesgswآلمانی سوٙئیسی
+localeDisplayNameslanguageswoڤولوف
+localeDisplayNameslanguagessmjلۉلئ سامی
+localeDisplayNameslanguagesmiمائوری
+localeDisplayNameslanguagesbaباشکیری
+localeDisplayNameslanguagesroرومانیایی
+localeDisplayNameslanguagesde_CHآلمانی سوٙییسی
+localeDisplayNameslanguagessiسینھالا
+localeDisplayNameslanguagessmaسامی ھارگە
+localeDisplayNameslanguageszxxبی نئشوٙ
+localeDisplayNameslanguageslgگاندا
+localeDisplayNameslanguagessnشونا
+localeDisplayNameslanguageshuمأجاری
+localeDisplayNameslanguagesheعئبری
+localeDisplayNameslanguagescvچواشی
+localeDisplayNameslanguagessdسئندی
+localeDisplayNameslanguagesnlھولأندی
+localeDisplayNameslanguagessesکیارابورو سئنی
+localeDisplayNameslanguageslbلوٙکزامبوٙرگی
+localeDisplayNameslanguagesmsمالایی
+localeDisplayNameslanguageskamکامبا
+localeDisplayNameslanguagesnds_NLآلمانی ھارگە جا
+localeDisplayNameslanguagesbsبوسنیایی
+localeDisplayNameslanguagestwqتاساڤاق
+localeDisplayNameslanguagessdhکوردی ھارگە
+localeDisplayNameslanguageskyقئرقیزی
+localeDisplayNameslanguageslvلاتوڤیایی
+localeDisplayNameslanguagesklnکالئجین
+localeDisplayNameslanguagesar_001عروی مدرن
+localeDisplayNameslanguagesbgبولغاری
+localeDisplayNameslanguagesdzزوٙنگخا
+localeDisplayNameslanguagesde_ATآلمانی ئوتریشی
+localeDisplayNameslanguageskokکوٙنکانی
+localeDisplayNameslanguagesfiفأنلاندی
+localeDisplayNameslanguageskkقأزاق
+localeDisplayNameslanguagesasaآسوٙ
+localeDisplayNameslanguagessaqسامبوٙروٙ
+localeDisplayNameslanguageskuکوردی کورمانجی
+localeDisplayNameslanguagesduaدوٙالا
+localeDisplayNameslanguagesukئوکراینی
+localeDisplayNameslanguagesmkمأقدوٙنی
+localeDisplayNameslanguageshrکوروڤاتی
+localeDisplayNameslanguagesdjeزارما
+localeDisplayNameslanguagestiتیگرینیا
+localeDisplayNameslanguagesmlمالایام
+localeDisplayNameslanguagesksfبافیا
+localeDisplayNameslanguagesguzگوٙسی
+localeDisplayNameslanguagessgسانگو
+localeDisplayNameslanguagesarأرأڤی
+localeDisplayNameslanguagesseسامی شومالی
+localeDisplayNameslanguagesnynنیان کوٙلئ
+localeDisplayNameslanguagesrwکینیاروآندا
+localeDisplayNameslanguagesmuaموٙندانگ
+localeDisplayNameslanguagesjmcماچامئ
+localeDisplayNameslanguagespaپأنجابی
+localeDisplayNameslanguagestgتاجیکی
+localeDisplayNameslanguagessuسوٙدانی
+localeDisplayNameslanguagesfr_CAفآرانسئ ئی کانادا
+localeDisplayNameslanguagesfyفئریسی أفتونئشین
+localeDisplayNameslanguagesfoفاروٙسی
+localeDisplayNameslanguagesfrفآرانسئ ئی
+localeDisplayNameslanguagesakآکان
+localeDisplayNameslanguagestoتوٙنگان
+localeDisplayNameslanguagesbeبئلاروٙسی
+localeDisplayNameslanguagesen_CAئینگیلیسی کانادایی
+localeDisplayNameslanguagesgaئیرلأندی
+localeDisplayNameslanguagesmznمازأندأرانی
+localeDisplayNameslanguagesmghماخوڤا میتو
+localeDisplayNameslanguagesguگوجأراتی
+localeDisplayNameslanguagesafآفریکانس
+localeDisplayNameslanguagesviڤییئتنامی
+localeDisplayNameslanguageskaگورجی
+localeDisplayNameslanguagesebuئمبو
+localeDisplayNameslanguageschrچوروٙکی
+localeDisplayNameslanguageszghتامازیغ مأراکئشی
+localeDisplayNameslanguagesisئیسلأندی
+localeDisplayNameslanguagesiuئینوکتیتوٙت
+localeDisplayNameslanguageseoئسپئرانتو
+localeDisplayNameslanguagesskئسلوڤاکی
+localeDisplayNameslanguagestaتامیل
+localeDisplayNameslanguagessqآلبانی
+localeDisplayNameslanguageslnلینگالا
+localeDisplayNameslanguageshiھئنی
+localeDisplayNameslanguagesbemبیما
+localeDisplayNameslanguagespt_PTپورتئغالی ئوروٙپایی
+localeDisplayNameslanguagesvunڤوٙنجوٙ
+localeDisplayNameslanguageshsbسوربی ڤارو
+localeDisplayNameslanguageshawھاڤایی
+localeDisplayNameslanguagesrofرومبو
+localeDisplayNameslanguageses_ESئسپانیایی ئوروٙپا
+localeDisplayNameslanguagesswسأڤاحیلی
+localeDisplayNameslanguagesbrبئرئتون
+localeDisplayNameslanguageshtھاییتی
+localeDisplayNameslanguagesksکأشمیری
+localeDisplayNameslanguagesttتاتار
+localeDisplayNameslanguagesomئوروموٙ
+localeDisplayNameslanguagesmrمأراتی
+localeDisplayNameslanguagesuzئوزبأکی
+localeDisplayNameslanguagessbpسانگوٙ
+localeDisplayNameslanguagesndsآلمانی ھاری
+localeDisplayNameslanguagesnmgکئڤاسیوٙ
+localeDisplayNameslanguagesptپورتئغالی
+localeDisplayNameslanguagesxhخوٙسا
+localeDisplayNameslanguagesorئوریا
+localeDisplayNameslanguageses_419ئسپانیایی ئمریکا لاتین
+localeDisplayNameslanguagesloلاو
+localeDisplayNameslanguagesgnگوٙآرانی
+localeDisplayNameslanguagesro_MDرومانیایی مولداڤی
+localeDisplayNameslanguagesfjفیجی
+localeDisplayNameslanguageselیوٙنانی
+localeDisplayNameslanguagesnqoنئکوٙ
+localeDisplayNameslanguagesthتایلأندی
+localeDisplayNameslanguagesrnراندی
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregorianeraseraAbbr1CE
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregorianmonthsstand-alonewide10ئوکتوڤر
+calendarsgregorianmonthsstand-alonewide3مارس
+calendarsgregorianmonthsstand-alonewide12دئسامر
+calendarsgregorianmonthsstand-alonewide11نوڤامر
+calendarsgregorianmonthsstand-alonewide7جوٙلا
+calendarsgregorianmonthsstand-alonewide2فئڤریە
+calendarsgregorianmonthsstand-alonewide8آگوست
+calendarsgregorianmonthsstand-alonewide5مئی
+calendarsgregorianmonthsstand-alonewide4آڤریل
+calendarsgregorianmonthsstand-alonewide6جوٙأن
+calendarsgregorianmonthsstand-alonewide1جانڤیە
+calendarsgregorianmonthsstand-alonewide9سئپتامر
+calendarsgregorianmonthsstand-aloneabbreviated10ئوکتوڤر
+calendarsgregorianmonthsstand-aloneabbreviated3مارس
+calendarsgregorianmonthsstand-aloneabbreviated12دئسامر
+calendarsgregorianmonthsstand-aloneabbreviated11نوڤامر
+calendarsgregorianmonthsstand-aloneabbreviated7جوٙلا
+calendarsgregorianmonthsstand-aloneabbreviated8آگوست
+calendarsgregorianmonthsstand-aloneabbreviated2فئڤریە
+calendarsgregorianmonthsstand-aloneabbreviated5مئی
+calendarsgregorianmonthsstand-aloneabbreviated6جوٙأن
+calendarsgregorianmonthsstand-aloneabbreviated4آڤریل
+calendarsgregorianmonthsstand-aloneabbreviated1جانڤیە
+calendarsgregorianmonthsstand-aloneabbreviated9سئپتامر
+calendarsgregorianmonthsstand-alonenarrow11
+calendarsgregorianmonthsstand-alonenarrow66
+calendarsgregorianmonthsstand-alonenarrow44
+calendarsgregorianmonthsstand-alonenarrow99
+calendarsgregorianmonthsstand-alonenarrow22
+calendarsgregorianmonthsstand-alonenarrow88
+calendarsgregorianmonthsstand-alonenarrow55
+calendarsgregorianmonthsstand-alonenarrow33
+calendarsgregorianmonthsstand-alonenarrow1212
+calendarsgregorianmonthsstand-alonenarrow77
+calendarsgregorianmonthsstand-alonenarrow1111
+calendarsgregorianmonthsstand-alonenarrow1010
+calendarsgregorianmonthsformatwide2فئڤریە
+calendarsgregorianmonthsformatwide8آگوست
+calendarsgregorianmonthsformatwide5مئی
+calendarsgregorianmonthsformatwide6جوٙأن
+calendarsgregorianmonthsformatwide4آڤریل
+calendarsgregorianmonthsformatwide1جانڤیە
+calendarsgregorianmonthsformatwide9سئپتامر
+calendarsgregorianmonthsformatwide10ئوکتوڤر
+calendarsgregorianmonthsformatwide3مارس
+calendarsgregorianmonthsformatwide12دئسامر
+calendarsgregorianmonthsformatwide7جوٙلا
+calendarsgregorianmonthsformatwide11نوڤامر
+calendarsgregorianmonthsformatabbreviated10ئوکتوڤر
+calendarsgregorianmonthsformatabbreviated12دئسامر
+calendarsgregorianmonthsformatabbreviated11نوڤامر
+calendarsgregorianmonthsformatabbreviated7جوٙلا
+calendarsgregorianmonthsformatabbreviated3مارس
+calendarsgregorianmonthsformatabbreviated5مئی
+calendarsgregorianmonthsformatabbreviated2فئڤریە
+calendarsgregorianmonthsformatabbreviated8آگوست
+calendarsgregorianmonthsformatabbreviated9سئپتامر
+calendarsgregorianmonthsformatabbreviated6جوٙأن
+calendarsgregorianmonthsformatabbreviated1جانڤیە
+calendarsgregorianmonthsformatabbreviated4آڤریل
+calendarsgregorianmonthsformatnarrow1010
+calendarsgregorianmonthsformatnarrow77
+calendarsgregorianmonthsformatnarrow1212
+calendarsgregorianmonthsformatnarrow1111
+calendarsgregorianmonthsformatnarrow33
+calendarsgregorianmonthsformatnarrow55
+calendarsgregorianmonthsformatnarrow22
+calendarsgregorianmonthsformatnarrow88
+calendarsgregorianmonthsformatnarrow99
+calendarsgregorianmonthsformatnarrow44
+calendarsgregorianmonthsformatnarrow66
+calendarsgregorianmonthsformatnarrow11
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandaysstand-alonenarrowtueT
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-alonenarrowthuT
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowwedW
+calendarsgregoriandaysstand-aloneabbreviatedmonMon
+calendarsgregoriandaysstand-aloneabbreviatedtueTue
+calendarsgregoriandaysstand-aloneabbreviatedfriFri
+calendarsgregoriandaysstand-aloneabbreviatedsatSat
+calendarsgregoriandaysstand-aloneabbreviatedthuThu
+calendarsgregoriandaysstand-aloneabbreviatedsunSun
+calendarsgregoriandaysstand-aloneabbreviatedwedWed
+calendarsgregoriandaysstand-alonewidemonMon
+calendarsgregoriandaysstand-alonewidetueTue
+calendarsgregoriandaysstand-alonewidefriFri
+calendarsgregoriandaysstand-alonewidesatSat
+calendarsgregoriandaysstand-alonewidethuThu
+calendarsgregoriandaysstand-alonewidesunSun
+calendarsgregoriandaysstand-alonewidewedWed
+calendarsgregoriandaysformatnarrowwedW
+calendarsgregoriandaysformatnarrowsunS
+calendarsgregoriandaysformatnarrowfriF
+calendarsgregoriandaysformatnarrowthuT
+calendarsgregoriandaysformatnarrowsatS
+calendarsgregoriandaysformatnarrowmonM
+calendarsgregoriandaysformatnarrowtueT
+calendarsgregoriandaysformatwidesunSun
+calendarsgregoriandaysformatwidewedWed
+calendarsgregoriandaysformatwidetueTue
+calendarsgregoriandaysformatwidemonMon
+calendarsgregoriandaysformatwidesatSat
+calendarsgregoriandaysformatwidethuThu
+calendarsgregoriandaysformatwidefriFri
+calendarsgregoriandaysformatabbreviatedthuThu
+calendarsgregoriandaysformatabbreviatedsatSat
+calendarsgregoriandaysformatabbreviatedfriFri
+calendarsgregoriandaysformatabbreviatedtueTue
+calendarsgregoriandaysformatabbreviatedmonMon
+calendarsgregoriandaysformatabbreviatedwedWed
+calendarsgregoriandaysformatabbreviatedsunSun
+calendarsgregorianquartersstand-alonewide3چارأک سئیوم
+calendarsgregorianquartersstand-alonewide4چارأک چاروم
+calendarsgregorianquartersstand-alonewide1چارأک أڤأل
+calendarsgregorianquartersstand-alonewide2چارأک دویوم
+calendarsgregorianquartersstand-aloneabbreviated3Q3
+calendarsgregorianquartersstand-aloneabbreviated2Q2
+calendarsgregorianquartersstand-aloneabbreviated1چارأک أڤأل
+calendarsgregorianquartersstand-aloneabbreviated4Q4
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersformatabbreviated3Q3
+calendarsgregorianquartersformatabbreviated2Q2
+calendarsgregorianquartersformatabbreviated1Q1
+calendarsgregorianquartersformatabbreviated4Q4
+calendarsgregorianquartersformatwide3Q3
+calendarsgregorianquartersformatwide2Q2
+calendarsgregorianquartersformatwide1Q1
+calendarsgregorianquartersformatwide4Q4
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow33
+calendarsgregoriandateFormatslongstandardy MMMM d
+calendarsgregoriandateFormatsmediumstandardy MMM d
+calendarsgregoriandateFormatsfullstandardy MMMM d, EEEE
+calendarsgregoriandateFormatsshortstandardy-MM-dd
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateFormatsmediumstandardG y MMM d
+calendarsgenericdateFormatslongstandardG y MMMM d
+calendarsgenericdateFormatsshortstandardGGGGG y-MM-dd
+calendarsgenericdateFormatsfullstandardG y MMMM d, EEEE
+unitslongunitarea-square-kilometerpatternother{0} km²
+numberscurrenciesGBPnarrow£
+numberscurrenciesGBPstandard£
+numberscurrenciesUSDnarrow$
+numberscurrenciesUSDstandardUS$
+numberscurrenciesBRLstandardR$
+numberscurrenciesBRLnarrowR$
+numberscurrenciesIQDstandardد.ع.‏
+numberscurrenciesEURnarrow€
+numberscurrenciesEURstandard€
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesINRnarrow₹
+numberscurrenciesINRstandard₹
+numberscurrenciesRUBnarrow₽
+numberscurrenciesRUBstandardRUB
+numberscurrenciesJPYnarrow¥
+numberscurrenciesJPYstandardJP¥
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numberspercentFormatslatnstandardstandard#,##0%
+numbersscientificFormatslatnstandardstandard#E0
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal.
+numberssymbolslatnplusSign+
+numberssymbolslatnpercentSign%
+numberssymbolslatngroup,
+numbersotherNumberingSystemsnativearabext
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdefaultNumberingSystemstandardarabext
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+delimitersalternateQuotationEnd’
+delimitersquotationStart“

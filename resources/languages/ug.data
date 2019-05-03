@@ -1,0 +1,1823 @@
+unitsshortunitvolume-literpatternone{0} l
+unitsshortunitvolume-literpatternother{0} l
+unitsshortunitvolume-literdisplayNameلىتېر
+unitsshortunitpower-kilowattpatternone{0} kW
+unitsshortunitpower-kilowattpatternother{0} kW
+unitsshortunitpower-kilowattdisplayNameكىلوۋات
+unitsshortunitduration-hourpatternone{0} سائەت
+unitsshortunitduration-hourpatternother{0} سائەت
+unitsshortunitduration-hourdisplayNameسائەت
+unitsshortunitmass-poundpatternother{0} قاداق
+unitsshortunitmass-poundpatternone{0} قاداق
+unitsshortunitmass-pounddisplayNameقاداق
+unitsshortunitmass-gramdisplayNameگرام
+unitsshortunitmass-grampatternone{0} g
+unitsshortunitmass-grampatternother{0} g
+unitsshortunitlength-centimeterpatternone{0} سانتىمېتىر
+unitsshortunitlength-centimeterpatternother{0} سانتىمېتىر
+unitsshortunitlength-centimeterdisplayNameسانتىمېتىر
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunittemperature-celsiuspatternone{0}°C
+unitsshortunittemperature-celsiusdisplayNameسېلسىيە گرادۇس
+unitsshortunitmass-ouncedisplayNameئۇنسىيە
+unitsshortunitmass-ouncepatternone{0} ئۇنسىيە
+unitsshortunitmass-ouncepatternother{0} ئۇنسىيە
+unitsshortunitpower-horsepowerpatternone{0} ئات كۈچى
+unitsshortunitpower-horsepowerpatternother{0} ئات كۈچى
+unitsshortunitpower-horsepowerdisplayNameئات كۈچى
+unitsshortunitlength-kilometerpatternother{0} كىلومېتىر
+unitsshortunitlength-kilometerpatternone{0} كىلومېتىر
+unitsshortunitlength-kilometerdisplayNameكىلومېتىر
+unitsshortunitlength-light-yeardisplayNameيورۇقلۇق يىلى
+unitsshortunitlength-light-yearpatternone{0} يورۇقلۇق يىلى
+unitsshortunitlength-light-yearpatternother{0} يورۇقلۇق يىلى
+unitsshortunitarea-square-milepatternone{0} كۋادرات مىل
+unitsshortunitarea-square-milepatternother{0} كۋادرات مىل
+unitsshortunitarea-square-miledisplayNameكۋادرات مىل
+unitsshortunitduration-weekdisplayNameھەپتە
+unitsshortunitduration-weekpatternone{0} ھەپتە
+unitsshortunitduration-weekpatternother{0} ھەپتە
+unitsshortunitspeed-kilometer-per-hourpatternother{0} سائەت/كىلومېتىر
+unitsshortunitspeed-kilometer-per-hourpatternone{0} سائەت/كىلومېتىر
+unitsshortunitspeed-kilometer-per-hourdisplayNameكىلومېتىر ھەر سائەت
+unitsshortunitpower-wattpatternother{0} W
+unitsshortunitpower-wattpatternone{0} W
+unitsshortunitpower-wattdisplayNameۋات
+unitsshortunitlength-footpatternother{0} پۇت
+unitsshortunitlength-footpatternone{0} پۇت
+unitsshortunitlength-footdisplayNameفۇت
+unitsshortunitduration-monthdisplayNameئاي
+unitsshortunitduration-monthpatternother{0} ئاي
+unitsshortunitduration-monthpatternone{0} ئاي
+unitsshortunitlength-miledisplayNameمىل
+unitsshortunitlength-milepatternone{0} مىل
+unitsshortunitlength-milepatternother{0} مىل
+unitsshortunitlength-millimeterdisplayNameمىللىمېتىر
+unitsshortunitlength-millimeterpatternother{0} مىللىمېتىر
+unitsshortunitlength-millimeterpatternone{0} مىللىمېتىر
+unitsshortunitarea-square-meterpatternone{0} m²
+unitsshortunitarea-square-meterpatternother{0} m²
+unitsshortunitarea-square-meterdisplayNameكۋادرات مېتىر
+unitsshortunitduration-yeardisplayNameيىل
+unitsshortunitduration-yearpatternone{0} يىل
+unitsshortunitduration-yearpatternother{0} يىل
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitpressure-millibarpatternone{0} mbar
+unitsshortunitpressure-millibardisplayNameمىللىبار
+unitsshortunitpressure-inch-hgdisplayNameديۇيم سىماب تۈۋرۇكى
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitmass-kilogrampatternone{0} kg
+unitsshortunitmass-kilogrampatternother{0} kg
+unitsshortunitmass-kilogramdisplayNameكىلوگرام
+unitsshortunitlength-yardpatternother{0} يارد
+unitsshortunitlength-yardpatternone{0} يارد
+unitsshortunitlength-yarddisplayNameيارد
+unitsshortunitduration-daydisplayNameكۈن
+unitsshortunitduration-daypatternother{0} كۈن
+unitsshortunitduration-daypatternone{0} كۈن
+unitsshortunitlength-meterdisplayNameمېتىر
+unitsshortunitlength-meterpatternone{0} مېتىر
+unitsshortunitlength-meterpatternother{0} مېتىر
+unitsshortunitduration-milliseconddisplayNameمىللى سېكۇنت
+unitsshortunitduration-millisecondpatternone{0} مىللىسېكۇنت
+unitsshortunitduration-millisecondpatternother{0} مىللىسېكۇنت
+unitsshortunitduration-minutedisplayNameمىنۇت
+unitsshortunitduration-minutepatternone{0} مىنۇت
+unitsshortunitduration-minutepatternother{0} مىنۇت
+unitsshortunitvolume-cubic-kilometerpatternother{0} km³
+unitsshortunitvolume-cubic-kilometerpatternone{0} km³
+unitsshortunitvolume-cubic-kilometerdisplayNameكۇب كىلومېتىر
+unitsshortunitlength-inchdisplayNameديۇيم
+unitsshortunitlength-inchpatternone{0} ئىنگلىز چىسى
+unitsshortunitlength-inchpatternother{0} ئىنگلىز چىسى
+unitsshortunitspeed-meter-per-secondpatternother{0} سېكۇنت/مېتىر
+unitsshortunitspeed-meter-per-secondpatternone{0} سېكۇنت/مېتىر
+unitsshortunitspeed-meter-per-seconddisplayNameمېتىر ھەر سېكۇنت
+unitsshortunitpressure-hectopascalpatternother{0} ھېكتوپاسكال
+unitsshortunitpressure-hectopascalpatternone{0} ھېكتوپاسكال
+unitsshortunitpressure-hectopascaldisplayNameيۈز پاسكال
+unitsshortunitacceleration-g-forcedisplayNameئېغىرلىق كۈچى
+unitsshortunitacceleration-g-forcepatternone{0} G
+unitsshortunitacceleration-g-forcepatternother{0} G
+unitsshortunitduration-secondpatternone{0} سېكۇنت
+unitsshortunitduration-secondpatternother{0} سېكۇنت
+unitsshortunitduration-seconddisplayNameسېكۇنت
+unitsshortunitarea-square-footpatternother{0} كۋادرات فۇت
+unitsshortunitarea-square-footpatternone{0} كۋادرات فۇت
+unitsshortunitarea-square-footdisplayNameكۋادرات فۇت
+unitsshortunitarea-square-kilometerpatternone{0} km²
+unitsshortunitarea-square-kilometerpatternother{0} km²
+unitsshortunitarea-square-kilometerdisplayNameكۋادرات كىلومېتىر
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunittemperature-fahrenheitdisplayNameفارېنگېيت گرادۇس
+unitsshortunitvolume-cubic-miledisplayNameكۇب مىل
+unitsshortunitvolume-cubic-milepatternother{0} mi³
+unitsshortunitvolume-cubic-milepatternone{0} mi³
+unitsshortunitarea-hectarepatternother{0} گېكتار
+unitsshortunitarea-hectarepatternone{0} گېكتار
+unitsshortunitarea-hectaredisplayNamehectares
+unitsshortunitspeed-mile-per-hourdisplayNameمىل ھەر سائەت
+unitsshortunitspeed-mile-per-hourpatternother{0} سائەت/مىل
+unitsshortunitspeed-mile-per-hourpatternone{0} سائەت/مىل
+unitsshortunitlength-picometerdisplayNameپىكومېتىر
+unitsshortunitlength-picometerpatternother{0} پىكومېتىر
+unitsshortunitlength-picometerpatternone{0} پىكومېتىر
+unitsshortunitarea-acrepatternother{0} ئىنگلىز موسى
+unitsshortunitarea-acrepatternone{0} ئىنگلىز موسى
+unitsshortunitarea-acredisplayNameئىنگلىز موسى
+unitsshortunitangle-degreepatternother{0} گىرادۇس
+unitsshortunitangle-degreepatternone{0} گىرادۇس
+unitsshortunitangle-degreedisplayNameگىرادۇس
+unitsshortcompoundUnitperpattern{0}/{1}
+unitsnarrowunitspeed-meter-per-secondpatternone{0}m/s
+unitsnarrowunitspeed-meter-per-secondpatternother{0}m/s
+unitsnarrowunitvolume-cubic-kilometerpatternother{0}km³
+unitsnarrowunitvolume-cubic-kilometerpatternone{0}km³
+unitsnarrowunitlength-inchpatternother{0}″
+unitsnarrowunitlength-inchpatternone{0}″
+unitsnarrowunitpressure-inch-hgpatternother{0}&quot; Hg
+unitsnarrowunitpressure-inch-hgpatternone{0}&quot; Hg
+unitsnarrowunitpressure-millibarpatternother{0}mb
+unitsnarrowunitpressure-millibarpatternone{0}mb
+unitsnarrowunitmass-kilogrampatternother{0}kg
+unitsnarrowunitmass-kilogrampatternone{0}kg
+unitsnarrowunitlength-meterpatternone{0}m
+unitsnarrowunitlength-meterpatternother{0}m
+unitsnarrowunitlength-yardpatternother{0}yd
+unitsnarrowunitlength-yardpatternone{0}yd
+unitsnarrowunitduration-minutepatternone{0}m
+unitsnarrowunitduration-minutepatternother{0}m
+unitsnarrowunitduration-millisecondpatternother{0}ms
+unitsnarrowunitduration-millisecondpatternone{0}ms
+unitsnarrowunitduration-daypatternother{0} كۈن
+unitsnarrowunitduration-daypatternone{0} كۈن
+unitsnarrowunitarea-acrepatternother{0}ac
+unitsnarrowunitarea-acrepatternone{0}ac
+unitsnarrowunitvolume-cubic-milepatternone{0}mi³
+unitsnarrowunitvolume-cubic-milepatternother{0}mi³
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunitspeed-mile-per-hourpatternone{0}mph
+unitsnarrowunitspeed-mile-per-hourpatternother{0}mph
+unitsnarrowunitlength-picometerpatternother{0}pm
+unitsnarrowunitlength-picometerpatternone{0}pm
+unitsnarrowunitarea-hectarepatternone{0}گېكتار
+unitsnarrowunitarea-hectarepatternother{0}گېكتار
+unitsnarrowunitangle-degreepatternone{0}°
+unitsnarrowunitangle-degreepatternother{0}°
+unitsnarrowunitacceleration-g-forcepatternone{0}G
+unitsnarrowunitacceleration-g-forcepatternother{0}Gs
+unitsnarrowunitpressure-hectopascalpatternone{0}hPa
+unitsnarrowunitpressure-hectopascalpatternother{0}hPa
+unitsnarrowunitduration-secondpatternother{0}s
+unitsnarrowunitduration-secondpatternone{0}s
+unitsnarrowunitarea-square-footpatternone{0}ft²
+unitsnarrowunitarea-square-footpatternother{0}ft²
+unitsnarrowunitmass-grampatternone{0}g
+unitsnarrowunitmass-grampatternother{0}g
+unitsnarrowunitmass-poundpatternother{0}#
+unitsnarrowunitmass-poundpatternone{0}#
+unitsnarrowunitlength-centimeterpatternother{0}cm
+unitsnarrowunitlength-centimeterpatternone{0}cm
+unitsnarrowunitvolume-literpatternother{0}l
+unitsnarrowunitvolume-literpatternone{0}l
+unitsnarrowunitpower-kilowattpatternone{0}kW
+unitsnarrowunitpower-kilowattpatternother{0}kW
+unitsnarrowunitduration-hourpatternother{0}h
+unitsnarrowunitduration-hourpatternone{0}h
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0}kph
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0}kph
+unitsnarrowunitpower-wattpatternother{0}W
+unitsnarrowunitpower-wattpatternone{0}W
+unitsnarrowunitlength-milepatternone{0}mi
+unitsnarrowunitlength-milepatternother{0}mi
+unitsnarrowunitlength-footpatternone{0}′
+unitsnarrowunitlength-footpatternother{0}′
+unitsnarrowunitduration-monthpatternother{0} ئاي
+unitsnarrowunitduration-monthpatternone{0} ئاي
+unitsnarrowunitlength-millimeterpatternother{0}mm
+unitsnarrowunitlength-millimeterpatternone{0}mm
+unitsnarrowunitduration-yearpatternother{0} يىل
+unitsnarrowunitduration-yearpatternone{0} يىل
+unitsnarrowunittemperature-celsiuspatternone{0}°
+unitsnarrowunittemperature-celsiuspatternother{0}°
+unitsnarrowunitpower-horsepowerpatternother{0}hp
+unitsnarrowunitpower-horsepowerpatternone{0}hp
+unitsnarrowunitduration-weekpatternone{0} ھەپتە
+unitsnarrowunitduration-weekpatternother{0} ھەپتە
+unitsnarrowunitmass-ouncepatternother{0}oz
+unitsnarrowunitmass-ouncepatternone{0}oz
+unitsnarrowunitlength-light-yearpatternone{0}ly
+unitsnarrowunitlength-light-yearpatternother{0}ly
+unitsnarrowunitlength-kilometerpatternone{0}km
+unitsnarrowunitlength-kilometerpatternother{0}km
+unitsnarrowunitarea-square-milepatternother{0}mi²
+unitsnarrowunitarea-square-milepatternone{0}mi²
+unitslongunitlength-centimeterdisplayNameسانتىمېتىر
+unitslongunitlength-centimeterpatternone{0} سانتىمېتىر
+unitslongunitlength-centimeterpatternother{0} سانتىمېتىر
+unitslongunitmass-poundpatternother{0} قاداق
+unitslongunitmass-poundpatternone{0} قاداق
+unitslongunitmass-pounddisplayNameقاداق
+unitslongunitmass-gramdisplayNameگرام
+unitslongunitmass-grampatternother{0} گرام
+unitslongunitmass-grampatternone{0} گرام
+unitslongunitvolume-literdisplayNameلىتېر
+unitslongunitvolume-literpatternone{0} لىتېر
+unitslongunitvolume-literpatternother{0} لىتېر
+unitslongunitduration-hourpatternother{0} سائەت
+unitslongunitduration-hourpatternone{0} سائەت
+unitslongunitduration-hourdisplayNameسائەت
+unitslongunitpower-kilowattdisplayNameكىلوۋات
+unitslongunitpower-kilowattpatternother{0} كىلوۋات
+unitslongunitpower-kilowattpatternone{0} كىلوۋات
+unitslongunitpower-wattdisplayNameۋات
+unitslongunitpower-wattpatternone{0} ۋات
+unitslongunitpower-wattpatternother{0} ۋات
+unitslongunitspeed-kilometer-per-hourpatternone{0} كىلومېتىر ھەر سائەت
+unitslongunitspeed-kilometer-per-hourpatternother{0} كىلومېتىر ھەر سائەت
+unitslongunitspeed-kilometer-per-hourdisplayNameكىلومېتىر ھەر سائەت
+unitslongunitlength-footdisplayNameفۇت
+unitslongunitlength-footpatternother{0} فۇت
+unitslongunitlength-footpatternone{0} فۇت
+unitslongunitlength-miledisplayNameمىل
+unitslongunitlength-milepatternone{0} مىل
+unitslongunitlength-milepatternother{0} مىل
+unitslongunitduration-monthdisplayNameئاي
+unitslongunitduration-monthpatternone{0} ئاي
+unitslongunitduration-monthpatternother{0} ئاي
+unitslongunitlength-millimeterpatternother{0} مىللىمېتىر
+unitslongunitlength-millimeterpatternone{0} مىللىمېتىر
+unitslongunitlength-millimeterdisplayNameمىللىمېتىر
+unitslongunitduration-yeardisplayNameيىل
+unitslongunitduration-yearpatternone{0} يىل
+unitslongunitduration-yearpatternother{0} يىل
+unitslongunitarea-square-meterpatternother{0} كۋادرات مېتىر
+unitslongunitarea-square-meterpatternone{0} كۋادرات مېتىر
+unitslongunitarea-square-meterdisplayNameكۋادرات مېتىر
+unitslongunitpower-horsepowerdisplayNameئات كۈچى
+unitslongunitpower-horsepowerpatternother{0} ئات كۈچى
+unitslongunitpower-horsepowerpatternone{0} ئات كۈچى
+unitslongunittemperature-celsiuspatternother{0} سېلسىيە گرادۇس
+unitslongunittemperature-celsiuspatternone{0} سېلسىيە گرادۇس
+unitslongunittemperature-celsiusdisplayNameسېلسىيە گرادۇس
+unitslongunitlength-kilometerpatternone{0} كىلومېتىر
+unitslongunitlength-kilometerpatternother{0} كىلومېتىر
+unitslongunitlength-kilometerdisplayNameكىلومېتىر
+unitslongunitmass-ouncedisplayNameئۇنسىيە
+unitslongunitmass-ouncepatternone{0} ئۇنسىيە
+unitslongunitmass-ouncepatternother{0} ئۇنسىيە
+unitslongunitlength-light-yeardisplayNameيورۇقلۇق يىلى
+unitslongunitlength-light-yearpatternone{0} يورۇقلۇق يىلى
+unitslongunitlength-light-yearpatternother{0} يورۇقلۇق يىلى
+unitslongunitduration-weekdisplayNameھەپتە
+unitslongunitduration-weekpatternone{0} ھەپتە
+unitslongunitduration-weekpatternother{0} ھەپتە
+unitslongunitarea-square-milepatternone{0} كۋادرات مىل
+unitslongunitarea-square-milepatternother{0} كۋادرات مىل
+unitslongunitarea-square-miledisplayNameكۋادرات مىل
+unitslongunitvolume-cubic-kilometerdisplayNameكۇب كىلومېتىر
+unitslongunitvolume-cubic-kilometerpatternother{0} كۇب كىلومېتىر
+unitslongunitvolume-cubic-kilometerpatternone{0} كۇب كىلومېتىر
+unitslongunitspeed-meter-per-seconddisplayNameمېتىر ھەر سېكۇنت
+unitslongunitspeed-meter-per-secondpatternother{0} مېتىر ھەر سېكۇنت
+unitslongunitspeed-meter-per-secondpatternone{0} مېتىر ھەر سېكۇنت
+unitslongunitlength-inchdisplayNameديۇيم
+unitslongunitlength-inchpatternother{0} ديۇيم
+unitslongunitlength-inchpatternone{0} ديۇيم
+unitslongunitpressure-millibarpatternother{0} مىللىبار
+unitslongunitpressure-millibarpatternone{0} مىللىبار
+unitslongunitpressure-millibardisplayNameمىللىبار
+unitslongunitmass-kilogramdisplayNameكىلوگرام
+unitslongunitmass-kilogrampatternone{0} كىلوگرام
+unitslongunitmass-kilogrampatternother{0} كىلوگرام
+unitslongunitpressure-inch-hgdisplayNameديۇيم سىماب تۈۋرۇكى
+unitslongunitpressure-inch-hgpatternother{0} ديۇيم سىماب تۈۋرۇكى
+unitslongunitpressure-inch-hgpatternone{0} ديۇيم سىماب تۈۋرۇكى
+unitslongunitlength-yardpatternone{0} يارد
+unitslongunitlength-yardpatternother{0} يارد
+unitslongunitlength-yarddisplayNameيارد
+unitslongunitlength-meterpatternone{0} مېتىر
+unitslongunitlength-meterpatternother{0} مېتىر
+unitslongunitlength-meterdisplayNameمېتىر
+unitslongunitduration-minutedisplayNameمىنۇت
+unitslongunitduration-minutepatternone{0} مىنۇت
+unitslongunitduration-minutepatternother{0} مىنۇت
+unitslongunitduration-milliseconddisplayNameمىللى سېكۇنت
+unitslongunitduration-millisecondpatternone{0} مىللى سېكۇنت
+unitslongunitduration-millisecondpatternother{0} مىللى سېكۇنت
+unitslongunitduration-daypatternone{0} كۈن
+unitslongunitduration-daypatternother{0} كۈن
+unitslongunitduration-daydisplayNameكۈن
+unitslongunittemperature-fahrenheitdisplayNameفارېنگېيت گرادۇس
+unitslongunittemperature-fahrenheitpatternone{0} فارېنگېيت گرادۇس
+unitslongunittemperature-fahrenheitpatternother{0} فارېنگېيت گرادۇس
+unitslongunitvolume-cubic-milepatternother{0} كۇب مىل
+unitslongunitvolume-cubic-milepatternone{0} كۇب مىل
+unitslongunitvolume-cubic-miledisplayNameكۇب مىل
+unitslongunitspeed-mile-per-hourpatternone{0} مىل ھەر سائەت
+unitslongunitspeed-mile-per-hourpatternother{0} مىل ھەر سائەت
+unitslongunitspeed-mile-per-hourdisplayNameمىل ھەر سائەت
+unitslongunitangle-degreedisplayNameگىرادۇس
+unitslongunitangle-degreepatternone{0} گىرادۇس
+unitslongunitangle-degreepatternother{0} گىرادۇس
+unitslongunitlength-picometerdisplayNameپىكومېتىر
+unitslongunitlength-picometerpatternone{0} پىكومېتىر
+unitslongunitlength-picometerpatternother{0} پىكومېتىر
+unitslongunitarea-acredisplayNameئىنگلىز موسى
+unitslongunitarea-acrepatternone{0} ئىنگلىز موسى
+unitslongunitarea-acrepatternother{0} ئىنگلىز موسى
+unitslongunitarea-hectaredisplayNamehectares
+unitslongunitarea-hectarepatternother{0} hectares
+unitslongunitarea-hectarepatternone{0} گېكتار
+unitslongunitacceleration-g-forcedisplayNameئېغىرلىق كۈچى
+unitslongunitacceleration-g-forcepatternother{0} ئېغىرلىق كۈچى
+unitslongunitacceleration-g-forcepatternone{0} ئېغىرلىق كۈچى
+unitslongunitpressure-hectopascaldisplayNameيۈز پاسكال
+unitslongunitpressure-hectopascalpatternother{0} يۈز پاسكال
+unitslongunitpressure-hectopascalpatternone{0} يۈز پاسكال
+unitslongunitduration-seconddisplayNameسېكۇنت
+unitslongunitduration-secondpatternone{0} سېكۇنت
+unitslongunitduration-secondpatternother{0} سېكۇنت
+unitslongunitarea-square-footdisplayNameكۋادرات فۇت
+unitslongunitarea-square-footpatternother{0} كۋادرات فۇت
+unitslongunitarea-square-footpatternone{0} كۋادرات فۇت
+unitslongunitarea-square-kilometerdisplayNameكۋادرات كىلومېتىر
+unitslongunitarea-square-kilometerpatternone{0} كۋادرات كىلومېتىر
+unitslongunitarea-square-kilometerpatternother{0} كۋادرات كىلومېتىر
+unitslongcompoundUnitperpattern{0}/{1}
+numbersdecimalFormatslatnlong1000000000000000 تىرىليون
+numbersdecimalFormatslatnlong1000000000000 مىليارد
+numbersdecimalFormatslatnlong10000000000000 تىرىليون
+numbersdecimalFormatslatnlong100000000000000 مىليارد
+numbersdecimalFormatslatnlong1000000000 مىليون
+numbersdecimalFormatslatnlong10000000 مىليون
+numbersdecimalFormatslatnlong10000 مىڭ
+numbersdecimalFormatslatnlong100000000 مىڭ
+numbersdecimalFormatslatnlong100000000000 مىليون
+numbersdecimalFormatslatnlong10000000000 مىليارد
+numbersdecimalFormatslatnlong1000000 مىڭ
+numbersdecimalFormatslatnlong100000000000000000 تىرىليون
+numbersdecimalFormatslatnshort1000000000000000T
+numbersdecimalFormatslatnshort10000000000000T
+numbersdecimalFormatslatnshort1000000000000مىليارد
+numbersdecimalFormatslatnshort100000000000000مىليارد
+numbersdecimalFormatslatnshort10000000مىليون
+numbersdecimalFormatslatnshort1000000000مىليون
+numbersdecimalFormatslatnshort10000مىڭ
+numbersdecimalFormatslatnshort100000000مىڭ
+numbersdecimalFormatslatnshort10000000000مىليارد
+numbersdecimalFormatslatnshort100000000000مىليون
+numbersdecimalFormatslatnshort1000000مىڭ
+numbersdecimalFormatslatnshort100000000000000000T
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnrange{0}–{1}
+numberscurrenciesCNYstandard￥
+numberscurrenciesUSDstandard$
+numberspercentFormatslatnstandardstandard#,##0%
+numberscurrencyFormatslatnshort100000¤000مىڭ
+numberscurrencyFormatslatnshort1000000¤0مىليون
+numberscurrencyFormatslatnshort10000000¤00مىليون
+numberscurrencyFormatslatnshort1000¤0مىڭ
+numberscurrencyFormatslatnshort10000¤00مىڭ
+numberscurrencyFormatslatnshort100000000000000¤000T
+numberscurrencyFormatslatnshort1000000000¤0مىليارد
+numberscurrencyFormatslatnshort100000000¤000مىليون
+numberscurrencyFormatslatnshort10000000000000¤00T
+numberscurrencyFormatslatnshort100000000000¤000مىليارد
+numberscurrencyFormatslatnshort10000000000¤00مىليارد
+numberscurrencyFormatslatnshort1000000000000¤0T
+numberscurrencyFormatslatnstandardstandard¤#,##0.00;(¤#,##0.00)
+numbersscientificFormatslatnstandardstandard#E0
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolslatngroup,
+numberssymbolslatnexponentialE
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal.
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnplusSign+
+numbersotherNumberingSystemsnativearabext
+delimitersalternateQuotationEnd‹
+delimitersquotationStart»
+delimitersalternateQuotationStart›
+delimitersquotationEnd«
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandard2{0} and {1}
+listPatternsstandardend{0}, and {1}
+listPatternsstandardstart{0}, {1}
+layoutcharacterOrderright-to-left
+charactersexemplarCharactersstandard[ئ ا ە ب پ ت ج چ خ د ر ز ژ س ش غ ف ق ك گ ڭ ل م ن ھ و ۇ ۆ ۈ ۋ ې ى ي]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersindex[ئ ا ە ب پ ت ج چ خ د ر ز ژ س ش غ ف ق ك گ ڭ ل م ن ھ و ۇ ۆ ۈ ۋ ې ى ي]
+posixmessagesyesstrھەئە:ھەئە
+posixmessagesnostrياق:ياق
+calendarsjapanesedateFormatslongstandardMMMM d، y G
+calendarsjapanesedateFormatsmediumstandardMMM d، y G
+calendarsjapanesedateFormatsfullstandardEEEE, MMMM d، y G
+calendarsjapanesedateFormatsshortstandardM/d/y GGGGG
+calendarsbuddhisteraseraAbbr0BE
+calendarsbuddhisteraseraNarrow0BE
+calendarsbuddhisteraseraNames0بۇددا يىلنامەسى
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1}، {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1}، {0}
+calendarsgenericdateFormatsshortstandardM/d/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE، MMMM d، y G
+calendarsgenericdateFormatslongstandardMMMM d، y G
+calendarsgenericdateFormatsmediumstandardMMM d، y G
+calendarsgenericavailableFormatsMMMEdE، MMM d
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsyyyyMMMdMMM d، y G
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsyyyyMMMEdE، MMM d، y G
+calendarsgenericavailableFormatsMEdE، M/d
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatsGyMMMdMMM d، y G
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsyyyyMEdE، M/d/y GGGGG
+calendarsgenericavailableFormatsMdM/d
+calendarsgenericavailableFormatsyyyyMM/y GGGGG
+calendarsgenericavailableFormatsMMMdMMM d
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsGyMMMEdE، MMM d، y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdd E
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsyyyyMdM/d/y GGGGG
+calendarsgenericintervalFormatsyMddM/d/y – M/d/y GGGGG
+calendarsgenericintervalFormatsyMdMM/d/y – M/d/y GGGGG
+calendarsgenericintervalFormatsyMdyM/d/y – M/d/y GGGGG
+calendarsgenericintervalFormatsMMMddMMM d – d
+calendarsgenericintervalFormatsMMMdMMMM d – MMM d
+calendarsgenericintervalFormatsyMEdyE، M/d/y – E، M/d/y GGGGG
+calendarsgenericintervalFormatsyMEddE، M/d/y – E، M/d/y GGGGG
+calendarsgenericintervalFormatsyMEdME، M/d/y – E، M/d/y GGGGG
+calendarsgenericintervalFormatsMMMMMMM – MMM
+calendarsgenericintervalFormatsMdMM/d – M/d
+calendarsgenericintervalFormatsMddM/d – M/d
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsyMMMdMMMM d – MMM d، y G
+calendarsgenericintervalFormatsyMMMddMMM d – d، y G
+calendarsgenericintervalFormatsyMMMdyMMM d، y – MMM d، y G
+calendarsgenericintervalFormatsddd – d
+calendarsgenericintervalFormatsyMMMEdyE، MMM d، y – E، MMM d، y G
+calendarsgenericintervalFormatsyMMMEdME، MMM d – E، MMM d، y G
+calendarsgenericintervalFormatsyMMMEddE، MMM d – E، MMM d، y G
+calendarsgenericintervalFormatsMMM – M
+calendarsgenericintervalFormatsMMMEddE، MMM d – E، MMM d
+calendarsgenericintervalFormatsMMMEdME، MMM d – E، MMM d
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsyMMMMMMMMM – MMMM y G
+calendarsgenericintervalFormatsyyy – y G
+calendarsgenericintervalFormatsyMyM/y – M/y GGGGG
+calendarsgenericintervalFormatsyMMM/y – M/y GGGGG
+calendarsgenericintervalFormatsyMMMMMMM – MMM y G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatsMEdME، M/d – E، M/d
+calendarsgenericintervalFormatsMEddE، M/d – E، M/d
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1}، {0}
+calendarsgregoriandateTimeFormatsshort{1}، {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandayPeriodsstand-alonenarrowpmچ.ك
+calendarsgregoriandayPeriodsstand-alonenarrowamچ.ب
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamچ.ب
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmچ.ك
+calendarsgregoriandayPeriodsstand-alonewidepmچ.ك
+calendarsgregoriandayPeriodsstand-alonewideamچ.ب
+calendarsgregoriandayPeriodsformatnarrowpmك
+calendarsgregoriandayPeriodsformatnarrowamب
+calendarsgregoriandayPeriodsformatabbreviatedpmچ.ك
+calendarsgregoriandayPeriodsformatabbreviatedamچ.ب
+calendarsgregoriandayPeriodsformatwideamچۈشتىن بۇرۇن
+calendarsgregoriandayPeriodsformatwidepmچۈشتىن كېيىن
+calendarsgregoriandaysformatwidewedچارشەنبە
+calendarsgregoriandaysformatwidesunيەكشەنبە
+calendarsgregoriandaysformatwidefriجۈمە
+calendarsgregoriandaysformatwidesatشەنبە
+calendarsgregoriandaysformatwidethuپەيشەنبە
+calendarsgregoriandaysformatwidemonدۈشەنبە
+calendarsgregoriandaysformatwidetueسەيشەنبە
+calendarsgregoriandaysformatabbreviatedtueسە
+calendarsgregoriandaysformatabbreviatedmonدۈ
+calendarsgregoriandaysformatabbreviatedsatشە
+calendarsgregoriandaysformatabbreviatedthuپە
+calendarsgregoriandaysformatabbreviatedfriجۈ
+calendarsgregoriandaysformatabbreviatedsunيە
+calendarsgregoriandaysformatabbreviatedwedچا
+calendarsgregoriandaysformatnarrowtueس
+calendarsgregoriandaysformatnarrowmonد
+calendarsgregoriandaysformatnarrowthuپ
+calendarsgregoriandaysformatnarrowsatش
+calendarsgregoriandaysformatnarrowfriج
+calendarsgregoriandaysformatnarrowsunي
+calendarsgregoriandaysformatnarrowwedچ
+calendarsgregoriandaysformatshorttueس
+calendarsgregoriandaysformatshortmonد
+calendarsgregoriandaysformatshortsatش
+calendarsgregoriandaysformatshortthuپ
+calendarsgregoriandaysformatshortfriج
+calendarsgregoriandaysformatshortsunي
+calendarsgregoriandaysformatshortwedچ
+calendarsgregoriandaysstand-aloneshortsatش
+calendarsgregoriandaysstand-aloneshortthuپ
+calendarsgregoriandaysstand-aloneshortfriج
+calendarsgregoriandaysstand-aloneshorttueس
+calendarsgregoriandaysstand-aloneshortmonد
+calendarsgregoriandaysstand-aloneshortwedچ
+calendarsgregoriandaysstand-aloneshortsunي
+calendarsgregoriandaysstand-alonenarrowtueس
+calendarsgregoriandaysstand-alonenarrowmonد
+calendarsgregoriandaysstand-alonenarrowsatش
+calendarsgregoriandaysstand-alonenarrowthuپ
+calendarsgregoriandaysstand-alonenarrowfriج
+calendarsgregoriandaysstand-alonenarrowsunي
+calendarsgregoriandaysstand-alonenarrowwedچ
+calendarsgregoriandaysstand-aloneabbreviatedwedچا
+calendarsgregoriandaysstand-aloneabbreviatedsunيە
+calendarsgregoriandaysstand-aloneabbreviatedfriجۈ
+calendarsgregoriandaysstand-aloneabbreviatedsatشە
+calendarsgregoriandaysstand-aloneabbreviatedthuپە
+calendarsgregoriandaysstand-aloneabbreviatedmonدۈ
+calendarsgregoriandaysstand-aloneabbreviatedtueسە
+calendarsgregoriandaysstand-alonewidesunيەكشەنبە
+calendarsgregoriandaysstand-alonewidewedچارشەنبە
+calendarsgregoriandaysstand-alonewidemonدۈشەنبە
+calendarsgregoriandaysstand-alonewidetueسەيشەنبە
+calendarsgregoriandaysstand-alonewidefriجۈمە
+calendarsgregoriandaysstand-alonewidesatشەنبە
+calendarsgregoriandaysstand-alonewidethuپەيشەنبە
+calendarsgregorianquartersformatabbreviated22-پەسىل
+calendarsgregorianquartersformatabbreviated44-پەسىل
+calendarsgregorianquartersformatabbreviated11-پەسىل
+calendarsgregorianquartersformatabbreviated33-پەسىل
+calendarsgregorianquartersformatwide3ئۈچىنچى پەسىل
+calendarsgregorianquartersformatwide1بىرىنچى پەسىل
+calendarsgregorianquartersformatwide4تۆتىنچى پەسىل
+calendarsgregorianquartersformatwide2ئىككىنچى پەسىل
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersstand-aloneabbreviated33-پەسىل
+calendarsgregorianquartersstand-aloneabbreviated11-پەسىل
+calendarsgregorianquartersstand-aloneabbreviated44-پەسىل
+calendarsgregorianquartersstand-aloneabbreviated22-پەسىل
+calendarsgregorianquartersstand-alonewide4تۆتىنچى پەسىل
+calendarsgregorianquartersstand-alonewide1بىرىنچى پەسىل
+calendarsgregorianquartersstand-alonewide2ئىككىنچى پەسىل
+calendarsgregorianquartersstand-alonewide3ئۈچىنچى پەسىل
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregoriandateFormatsshortstandardy-MM-dd
+calendarsgregoriandateFormatsfullstandardy d-MMMM، EEEE
+calendarsgregoriandateFormatslongstandardd-MMMM، y
+calendarsgregoriandateFormatsmediumstandardd-MMM، y
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianeraseraAbbr1مىلادىيە
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregorianeraseraNarrow0BCE
+calendarsgregorianeraseraNarrow1مىلادىيە
+calendarsgregorianeraseraNames0مىلادىيەدىن بۇرۇن
+calendarsgregorianeraseraNames1مىلادىيە
+calendarsgregorianavailableFormatsyMMMdy d-MMM
+calendarsgregorianavailableFormatsMMMMdd-MMMM
+calendarsgregorianavailableFormatsMMMMWMMM، W-ھەپتە
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsyMMMEdy d-MMM، E
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsGyMMMEdy d-MMM، E G
+calendarsgregorianavailableFormatsGyMMMy MMM G
+calendarsgregorianavailableFormatsEdd E
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsyMdy-d-M
+calendarsgregorianavailableFormatsMMMdd-MMM
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsyMEdy-d-M، E
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMdd-M
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsywY، w-ھەپتە
+calendarsgregorianavailableFormatsyMM-y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyMMMdy d-MMM G
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMy MMM
+calendarsgregorianavailableFormatsMEdd-M، E
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsMMMEdd-MMM، E
+calendarsgregorianavailableFormatsyMMMMy MMMM
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianmonthsformatwide10ئۆكتەبىر
+calendarsgregorianmonthsformatwide3مارت
+calendarsgregorianmonthsformatwide12دېكابىر
+calendarsgregorianmonthsformatwide11نويابىر
+calendarsgregorianmonthsformatwide7ئىيۇل
+calendarsgregorianmonthsformatwide8ئاۋغۇست
+calendarsgregorianmonthsformatwide2فېۋرال
+calendarsgregorianmonthsformatwide5ماي
+calendarsgregorianmonthsformatwide6ئىيۇن
+calendarsgregorianmonthsformatwide1يانۋار
+calendarsgregorianmonthsformatwide4ئاپرېل
+calendarsgregorianmonthsformatwide9سېنتەبىر
+calendarsgregorianmonthsformatabbreviated3مارت
+calendarsgregorianmonthsformatabbreviated11نويابىر
+calendarsgregorianmonthsformatabbreviated12دېكابىر
+calendarsgregorianmonthsformatabbreviated7ئىيۇل
+calendarsgregorianmonthsformatabbreviated10ئۆكتەبىر
+calendarsgregorianmonthsformatabbreviated4ئاپرېل
+calendarsgregorianmonthsformatabbreviated6ئىيۇن
+calendarsgregorianmonthsformatabbreviated1يانۋار
+calendarsgregorianmonthsformatabbreviated9سېنتەبىر
+calendarsgregorianmonthsformatabbreviated8ئاۋغۇست
+calendarsgregorianmonthsformatabbreviated2فېۋرال
+calendarsgregorianmonthsformatabbreviated5ماي
+calendarsgregorianmonthsstand-alonenarrow55
+calendarsgregorianmonthsstand-alonenarrow22
+calendarsgregorianmonthsstand-alonenarrow88
+calendarsgregorianmonthsstand-alonenarrow99
+calendarsgregorianmonthsstand-alonenarrow44
+calendarsgregorianmonthsstand-alonenarrow66
+calendarsgregorianmonthsstand-alonenarrow11
+calendarsgregorianmonthsstand-alonenarrow1010
+calendarsgregorianmonthsstand-alonenarrow1212
+calendarsgregorianmonthsstand-alonenarrow1111
+calendarsgregorianmonthsstand-alonenarrow77
+calendarsgregorianmonthsstand-alonenarrow33
+calendarsgregorianmonthsstand-alonewide4ئاپرېل
+calendarsgregorianmonthsstand-alonewide6ئىيۇن
+calendarsgregorianmonthsstand-alonewide1يانۋار
+calendarsgregorianmonthsstand-alonewide9سېنتەبىر
+calendarsgregorianmonthsstand-alonewide8ئاۋغۇست
+calendarsgregorianmonthsstand-alonewide2فېۋرال
+calendarsgregorianmonthsstand-alonewide5ماي
+calendarsgregorianmonthsstand-alonewide3مارت
+calendarsgregorianmonthsstand-alonewide7ئىيۇل
+calendarsgregorianmonthsstand-alonewide12دېكابىر
+calendarsgregorianmonthsstand-alonewide11نويابىر
+calendarsgregorianmonthsstand-alonewide10ئۆكتەبىر
+calendarsgregorianmonthsstand-aloneabbreviated5ماي
+calendarsgregorianmonthsstand-aloneabbreviated2فېۋرال
+calendarsgregorianmonthsstand-aloneabbreviated8ئاۋغۇست
+calendarsgregorianmonthsstand-aloneabbreviated9سېنتەبىر
+calendarsgregorianmonthsstand-aloneabbreviated1يانۋار
+calendarsgregorianmonthsstand-aloneabbreviated6ئىيۇن
+calendarsgregorianmonthsstand-aloneabbreviated4ئاپرېل
+calendarsgregorianmonthsstand-aloneabbreviated10ئۆكتەبىر
+calendarsgregorianmonthsstand-aloneabbreviated12دېكابىر
+calendarsgregorianmonthsstand-aloneabbreviated7ئىيۇل
+calendarsgregorianmonthsstand-aloneabbreviated11نويابىر
+calendarsgregorianmonthsstand-aloneabbreviated3مارت
+calendarsgregorianintervalFormatsMMMEddE، MMM d – E، MMM d
+calendarsgregorianintervalFormatsMMMEdME، MMM d – E، MMM d
+calendarsgregorianintervalFormatsyMMMMMMMMM – MMMM y
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsyyy – y
+calendarsgregorianintervalFormatsyMyM/y – M/y
+calendarsgregorianintervalFormatsyMMM/y – M/y
+calendarsgregorianintervalFormatsHvHHH – HH v
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh – h a v
+calendarsgregorianintervalFormatshmhh:mm – h:mm a
+calendarsgregorianintervalFormatshmmh:mm – h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatsMEddE، M/d – E، M/d
+calendarsgregorianintervalFormatsMEdME، M/d – E، M/d
+calendarsgregorianintervalFormatsyMMMMMMM – MMM y
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatshhh – h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsyMdMM/d/y – M/d/y
+calendarsgregorianintervalFormatsyMddM/d/y – M/d/y
+calendarsgregorianintervalFormatsyMdyM/d/y – M/d/y
+calendarsgregorianintervalFormatsMMMdMMMM d – MMM d
+calendarsgregorianintervalFormatsMMMddMMM d – d
+calendarsgregorianintervalFormatsyMEdyE، M/d/y – E، M/d/y
+calendarsgregorianintervalFormatsyMEddE، M/d/y – E، M/d/y
+calendarsgregorianintervalFormatsyMEdME، M/d/y – E، M/d/y
+calendarsgregorianintervalFormatsMdMM/d – M/d
+calendarsgregorianintervalFormatsMddM/d – M/d
+calendarsgregorianintervalFormatsMMMMMMM – MMM
+calendarsgregorianintervalFormatsHmvmHH:mm – HH:mm v
+calendarsgregorianintervalFormatsHmvHHH:mm – HH:mm v
+calendarsgregorianintervalFormatshmvhh:mm – h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm – h:mm a v
+calendarsgregorianintervalFormatsHHHH – HH
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsyMMMdyMMM d، y – MMM d، y
+calendarsgregorianintervalFormatsyMMMddMMM d – d، y
+calendarsgregorianintervalFormatsyMMMdMMMM d – MMM d، y
+calendarsgregorianintervalFormatsyMMMEdyE، MMM d، y – E، MMM d، y
+calendarsgregorianintervalFormatsyMMMEddE، MMM d – E، MMM d، y
+calendarsgregorianintervalFormatsyMMMEdME، MMM d – E، MMM d، y
+calendarsgregorianintervalFormatsHmmHH:mm – HH:mm
+calendarsgregorianintervalFormatsHmHHH:mm – HH:mm
+calendarsgregorianintervalFormatsMMM – M
+calendarsgregorianintervalFormatsddd – d
+calendarsroceraseraNames0جۇڭخۇا مىنگودىن بۇرۇن
+calendarsroceraseraNames1مىنگو
+calendarsroceraseraAbbr1مىنگو
+calendarsroceraseraAbbr0Before R.O.C.
+calendarshebreweraseraAbbr0AM
+calendarsislamicdateFormatsfullstandardEEEE، d MMMM، y G
+calendarsislamicdateFormatsshortstandardd‏/M‏/y GGGGG
+calendarsislamicdateFormatslongstandardd MMMM، y G
+calendarsislamicdateFormatsmediumstandardd MMM، y G
+calendarsislamicavailableFormatsyyyyMEdE، d/‏M/‏y G
+calendarsislamicavailableFormatsMdd/‏M
+calendarsislamicavailableFormatsyyyyMM‏/y G
+calendarsislamicavailableFormatsdd
+calendarsislamicavailableFormatsML
+calendarsislamicavailableFormatsyyyyMMMMMM y G
+calendarsislamicavailableFormatsyyyyMdd‏/M‏/y G
+calendarsislamiceraseraAbbr0ھىجرىيە
+calendarsislamicmonthsformatabbreviated11زۇلقەئدە
+calendarsislamicmonthsformatabbreviated12زۇلھەججە
+calendarsislamicmonthsformatabbreviated7رەجەب
+calendarsislamicmonthsformatabbreviated3رەبىئۇلئەۋۋەل
+calendarsislamicmonthsformatabbreviated10شەۋۋال
+calendarsislamicmonthsformatabbreviated9رامىزان
+calendarsislamicmonthsformatabbreviated1مۇھەررەم
+calendarsislamicmonthsformatabbreviated6جەمادىيەلئاخىر
+calendarsislamicmonthsformatabbreviated4رەبىئۇلئاخىر
+calendarsislamicmonthsformatabbreviated5جەمادىيەلئەۋۋەل
+calendarsislamicmonthsformatabbreviated8شەئبان
+calendarsislamicmonthsformatabbreviated2سەپەر
+calendarsislamicmonthsformatwide5جەمادىيەلئەۋۋەل
+calendarsislamicmonthsformatwide8شەئبان
+calendarsislamicmonthsformatwide2سەپەر
+calendarsislamicmonthsformatwide9رامىزان
+calendarsislamicmonthsformatwide6جەمادىيەلئاخىر
+calendarsislamicmonthsformatwide1مۇھەررەم
+calendarsislamicmonthsformatwide4رەبىئۇلئاخىر
+calendarsislamicmonthsformatwide10شەۋۋال
+calendarsislamicmonthsformatwide12زۇلھەججە
+calendarsislamicmonthsformatwide11زۇلقەئدە
+calendarsislamicmonthsformatwide7رەجەب
+calendarsislamicmonthsformatwide3رەبىئۇلئەۋۋەل
+calendarschinesemonthsformatabbreviated7Mo7
+calendarschinesemonthsformatabbreviated12Mo12
+calendarschinesemonthsformatabbreviated11Mo11
+calendarschinesemonthsformatabbreviated3Mo3
+calendarschinesemonthsformatabbreviated10Mo10
+calendarschinesemonthsformatabbreviated9Mo9
+calendarschinesemonthsformatabbreviated1Mo1
+calendarschinesemonthsformatabbreviated6Mo6
+calendarschinesemonthsformatabbreviated4Mo4
+calendarschinesemonthsformatabbreviated5Mo5
+calendarschinesemonthsformatabbreviated2Mo2
+calendarschinesemonthsformatabbreviated8Mo8
+calendarschinesemonthsformatwide3Month3
+calendarschinesemonthsformatwide12Month12
+calendarschinesemonthsformatwide11Month11
+calendarschinesemonthsformatwide7Month7
+calendarschinesemonthsformatwide10Month10
+calendarschinesemonthsformatwide4Month4
+calendarschinesemonthsformatwide6Month6
+calendarschinesemonthsformatwide1Month1
+calendarschinesemonthsformatwide9Month9
+calendarschinesemonthsformatwide2Month2
+calendarschinesemonthsformatwide8Month8
+calendarschinesemonthsformatwide5Month5
+calendarschinesedateFormatsmediumstandardMMM d، U
+calendarschinesedateFormatslongstandardMMMM d، U
+calendarschinesedateFormatsfullstandardEEEE، MMMM d، U
+calendarschinesedateFormatsshortstandardM/d/yy
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}، {1}
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslanguagessahساخاچە
+localeDisplayNameslanguagesen_CAكانادا ئىنگلىزچە
+localeDisplayNameslanguagesdgrدوگرىبچە
+localeDisplayNameslanguagesbiبىسلاماچە
+localeDisplayNameslanguagesfr_CAكانادا فىرانسۇزچە
+localeDisplayNameslanguagesfonفونچە
+localeDisplayNameslanguagesfoفائېروچە
+localeDisplayNameslanguagesdarدارگىۋاچە
+localeDisplayNameslanguageswarۋارايچە
+localeDisplayNameslanguageswalۋولايتاچە
+localeDisplayNameslanguagesfrفىرانسۇزچە
+localeDisplayNameslanguagestoتونگانچە
+localeDisplayNameslanguagessusسۇسۇچە
+localeDisplayNameslanguagesbeبېلارۇسچە
+localeDisplayNameslanguagesakئاكانچە
+localeDisplayNameslanguagesfyغەربىي فىرسچە
+localeDisplayNameslanguagestgتاجىكچە
+localeDisplayNameslanguagesdumئوتتۇرا گوللاندىيەچە
+localeDisplayNameslanguagespaپەنجابچە
+localeDisplayNameslanguageskmbكىمبۇندۇچە
+localeDisplayNameslanguagesmuaمۇنداڭچە
+localeDisplayNameslanguagesjmcماچامچە
+localeDisplayNameslanguagessuسۇنداچە
+localeDisplayNameslanguagescayكايۇگاچە
+localeDisplayNameslanguagessasساساكچە
+localeDisplayNameslanguageschnچىنۇك-ژارگونچە
+localeDisplayNameslanguagesmhمارشالچە
+localeDisplayNameslanguagestliتىلىنگىتچە
+localeDisplayNameslanguagesblaسىكسىكاچە
+localeDisplayNameslanguagesrwكېنىيەرىۋانداچە
+localeDisplayNameslanguagesfrrشىمالى فىرىزيەچە
+localeDisplayNameslanguagesgonگوندىچە
+localeDisplayNameslanguageshaiھەيدەچە
+localeDisplayNameslanguagesnymنيامۋېزىچە
+localeDisplayNameslanguagesbbjگومالاچە
+localeDisplayNameslanguagesjprئىبرانى پارسچە
+localeDisplayNameslanguagesnynنىيانكولېچە
+localeDisplayNameslanguageskhaكاسىچە
+localeDisplayNameslanguagesarئەرەبچە
+localeDisplayNameslanguagesseشىمالىي سامىچە
+localeDisplayNameslanguagesgbaگىباياچە
+localeDisplayNameslanguagesksfبافىياچە
+localeDisplayNameslanguagessgسانگوچە
+localeDisplayNameslanguagesgaaگاچە
+localeDisplayNameslanguagesguzگۇسىچە
+localeDisplayNameslanguagesmlمالايالامچە
+localeDisplayNameslanguagesbanبالىچە
+localeDisplayNameslanguageshrكىرودىچە
+localeDisplayNameslanguagesmkماكېدونچە
+localeDisplayNameslanguagesojئوجىبۋاچە
+localeDisplayNameslanguagestiتىگرىنياچە
+localeDisplayNameslanguagesdjeزارماچە
+localeDisplayNameslanguagesmniمانىپۇرچە
+localeDisplayNameslanguagesgotگوتچە
+localeDisplayNameslanguagesduaدۇئالاچە
+localeDisplayNameslanguagestumتۇمبۇكاچە
+localeDisplayNameslanguagesukئۇكرائىنچە
+localeDisplayNameslanguagesaeئاۋېستاچە
+localeDisplayNameslanguagesfrsشەرقى فىرىزيەچە
+localeDisplayNameslanguagesbuaبۇرىياتچە
+localeDisplayNameslanguageskuكۇردچە
+localeDisplayNameslanguagesgwiگىۋىچىنچە
+localeDisplayNameslanguagessrnسىرانان-توڭوچە
+localeDisplayNameslanguagesasaئاسۇچە
+localeDisplayNameslanguageswasۋاشوچە
+localeDisplayNameslanguagessogسوغدىچە
+localeDisplayNameslanguagessnkسونىنكەچە
+localeDisplayNameslanguagessaqسامبۇرۇچە
+localeDisplayNameslanguagespauپالاۋچە
+localeDisplayNameslanguagesbhoبوجپۇرىچە
+localeDisplayNameslanguageskkقازاقچە
+localeDisplayNameslanguagestemتېمنېچە
+localeDisplayNameslanguagestivتىۋچە
+localeDisplayNameslanguagesbugبۇگىچە
+localeDisplayNameslanguagesfiفىنچە
+localeDisplayNameslanguageskokكونكانچە
+localeDisplayNameslanguagesde_ATئاۋستىرىيە گېرمانچە
+localeDisplayNameslanguagesxalقالماقچە
+localeDisplayNameslanguagessrrسېرېرچە
+localeDisplayNameslanguagesbgبۇلغارچە
+localeDisplayNameslanguageslvلاتچە
+localeDisplayNameslanguagesar_001ھازىرقى زامان ئۆلچەملىك ئەرەبچە
+localeDisplayNameslanguagesdzزوڭخاچە
+localeDisplayNameslanguagesklnكالېنجىنچە
+localeDisplayNameslanguageskyقىرغىزچە
+localeDisplayNameslanguagestwqشىمالىي سوڭخايچە
+localeDisplayNameslanguageselxئېلامىتچە
+localeDisplayNameslanguagesbsبوسىنچە
+localeDisplayNameslanguagesioئىدوچە
+localeDisplayNameslanguagesvotۋوتېچە
+localeDisplayNameslanguagessidسىداموچە
+localeDisplayNameslanguagesponپوناپېئانچە
+localeDisplayNameslanguageslamلامباچە
+localeDisplayNameslanguagestigتىگرېچە
+localeDisplayNameslanguagesscnسىتسىلىيەچە
+localeDisplayNameslanguagescrكرىچە
+localeDisplayNameslanguagesniuنيۇئېچە
+localeDisplayNameslanguagestsiسىمشيانچە
+localeDisplayNameslanguagespeoقەدىمكى پارىسچە
+localeDisplayNameslanguageskkjكاكوچە
+localeDisplayNameslanguageskamكامباچە
+localeDisplayNameslanguageslbلىيۇكسېمبۇرگچە
+localeDisplayNameslanguagesmsمالايچە
+localeDisplayNameslanguagesdenسلاۋچە
+localeDisplayNameslanguagescvچۇۋاشچە
+localeDisplayNameslanguagesheئىبرانىيچە
+localeDisplayNameslanguagesnlگوللاندچە
+localeDisplayNameslanguageshuۋېنگىرچە
+localeDisplayNameslanguagesavئاۋارچە
+localeDisplayNameslanguagessesشەرقىي سوڭخايچە
+localeDisplayNameslanguagessdسىندىچە
+localeDisplayNameslanguageszxxتىل مەزمۇنى يوق
+localeDisplayNameslanguagessuxسۈمەرچە
+localeDisplayNameslanguageszaجۇاڭچە
+localeDisplayNameslanguagessnشوناچە
+localeDisplayNameslanguagesgrbگرېبوچە
+localeDisplayNameslanguagesgrcقەدىمكى گىرېكچە
+localeDisplayNameslanguagestklتوكېلاۋچە
+localeDisplayNameslanguageszapزاپوتېكچە
+localeDisplayNameslanguagessycقەدىمىي سۇرىيەچە
+localeDisplayNameslanguagesswbكومورىچە
+localeDisplayNameslanguageslgگانداچە
+localeDisplayNameslanguagesegyقەدىمكى مىسىرچە
+localeDisplayNameslanguagesrnرۇندىچە
+localeDisplayNameslanguagesnapناپولىچە
+localeDisplayNameslanguagesphnفىنىكىيەچە
+localeDisplayNameslanguagesnqoنىكوچە
+localeDisplayNameslanguagescebسېبۇچە
+localeDisplayNameslanguagesthتايلاندچە
+localeDisplayNameslanguagesfjفىجىچە
+localeDisplayNameslanguageselگىرېكچە
+localeDisplayNameslanguagessbaنگامبايچە
+localeDisplayNameslanguagesaceئاتجېچە
+localeDisplayNameslanguagesgnگۇئارانىچە
+localeDisplayNameslanguageshzخېرېروچە
+localeDisplayNameslanguagesfanفاڭچە
+localeDisplayNameslanguagesloلائوسچە
+localeDisplayNameslanguagesosئوسسېتچەچە
+localeDisplayNameslanguagesocئوكسىتچە
+localeDisplayNameslanguageskjكىۋانياماچە
+localeDisplayNameslanguagesieئىنتىرلىڭچە
+localeDisplayNameslanguagesosaئوساگېلارچە
+localeDisplayNameslanguageswaۋاللۇنچە
+localeDisplayNameslanguagesproقەدىمكى پروۋېنچالچە
+localeDisplayNameslanguageses_419لاتىن ئامېرىكا ئىسپانچە
+localeDisplayNameslanguagesbraبىراجچە
+localeDisplayNameslanguagesbynبىلىنچە
+localeDisplayNameslanguagesayئايماراچە
+localeDisplayNameslanguagesorئودىياچە
+localeDisplayNameslanguagestsسونگاچە
+localeDisplayNameslanguagescopكوپتىكچە
+localeDisplayNameslanguagesiaئارىلىق تىل
+localeDisplayNameslanguagesmyeميېنېچە
+localeDisplayNameslanguageslusمىزوچە
+localeDisplayNameslanguagesluaلۇبا-لۇئاچە
+localeDisplayNameslanguagesnziنىزەماچە
+localeDisplayNameslanguagesjrbئىبرانى ئەرەبچە
+localeDisplayNameslanguagesotaئوسمان تۈركچە
+localeDisplayNameslanguagesnmgكۋاسىيوچە
+localeDisplayNameslanguagesptپورتۇگالچە
+localeDisplayNameslanguagesxhخوساچە
+localeDisplayNameslanguagesndsتۆۋەن گېرمانچە
+localeDisplayNameslanguagesgorگورونتالوچە
+localeDisplayNameslanguagessbpسانگۇچە
+localeDisplayNameslanguagesstسوتوچە
+localeDisplayNameslanguagesmrماراتىچە
+localeDisplayNameslanguagesuzئۆزبېكچە
+localeDisplayNameslanguagesladلادىنوچە
+localeDisplayNameslanguageskhoخوتەنچە
+localeDisplayNameslanguagesomئوروموچە
+localeDisplayNameslanguageskosكوسرايېچە
+localeDisplayNameslanguagescsbكاسزۇبىچە
+localeDisplayNameslanguagesttتاتارچە
+localeDisplayNameslanguagesksكەشمىرچە
+localeDisplayNameslanguageshmnمۆڭچە
+localeDisplayNameslanguagesachئاچولىچە
+localeDisplayNameslanguagesnwcنېۋارچە
+localeDisplayNameslanguagesbrبىرېتونچە
+localeDisplayNameslanguageshtھايتىچە
+localeDisplayNameslanguageses_ESياۋروپا ئىسپانچە
+localeDisplayNameslanguagesswسىۋاھىلچە
+localeDisplayNameslanguageschpچىپېۋيانچە
+localeDisplayNameslanguagesselسېلكاپچە
+localeDisplayNameslanguagesrofرومبوچە
+localeDisplayNameslanguagesarpئاراپاخوچە
+localeDisplayNameslanguageschyچېيېنچە
+localeDisplayNameslanguagesikئىنۇپىكچە
+localeDisplayNameslanguagesterتېرېناچە
+localeDisplayNameslanguagestmhتاماشېكچە
+localeDisplayNameslanguageshsbئۈستۈن سوربچە
+localeDisplayNameslanguageshawھاۋايچە
+localeDisplayNameslanguageslunلۇنداچە
+localeDisplayNameslanguagesmakماكاسارچە
+localeDisplayNameslanguagesminمىناڭكابائۇچە
+localeDisplayNameslanguagesvunۋۇنجوچە
+localeDisplayNameslanguagesyapياپچە
+localeDisplayNameslanguagesfurفىرىئۇلىچە
+localeDisplayNameslanguagesewoئېۋوندوچە
+localeDisplayNameslanguagespt_PTياۋروپا پورتۇگالچە
+localeDisplayNameslanguagesbemبېمباچە
+localeDisplayNameslanguagesdzgدازاگاچە
+localeDisplayNameslanguageshiھىندىچە
+localeDisplayNameslanguageslnلىنگالاچە
+localeDisplayNameslanguagestlhكىلىنگونچە
+localeDisplayNameslanguagesscoشوتلاندىيەچە
+localeDisplayNameslanguagestaتامىلچە
+localeDisplayNameslanguageschbچىبچاچە
+localeDisplayNameslanguagesskسىلوۋاكچە
+localeDisplayNameslanguagessqئالبانچە
+localeDisplayNameslanguageseoئېسپرانتوچە
+localeDisplayNameslanguagesisئىسلاندچە
+localeDisplayNameslanguagesiuئىنۇكتىتۇتچە
+localeDisplayNameslanguagesebuئېمبۇچە
+localeDisplayNameslanguagesbumبۇلۇچە
+localeDisplayNameslanguagesibbئىبىبىئوچە
+localeDisplayNameslanguageshitخىتتىتچە
+localeDisplayNameslanguageszghئۆلچەملىك ماراكەش تامازىتچە
+localeDisplayNameslanguagestpiتوك-پىسىنچە
+localeDisplayNameslanguagesseeسېكنېكاچە
+localeDisplayNameslanguageschrچېروكىچە
+localeDisplayNameslanguageskaگىرۇزچە
+localeDisplayNameslanguagesmdrماندارچە
+localeDisplayNameslanguageskumقۇمۇقچە
+localeDisplayNameslanguagesaltجەنۇبى ئالتاي تىللىرى
+localeDisplayNameslanguagesviۋىيېتنامچە
+localeDisplayNameslanguagesshسېرب-كرودىيەچە
+localeDisplayNameslanguagesshnشانچە
+localeDisplayNameslanguagesiloئىلوكانوچە
+localeDisplayNameslanguagesmanماندىنگوچە
+localeDisplayNameslanguagesafئافرىكانچە
+localeDisplayNameslanguagesgmhئوتتۇرا ئەسىر ئېگىزلىك گېرمانچە
+localeDisplayNameslanguagesguگۇجاراتچە
+localeDisplayNameslanguagesmghماكۇۋاچە
+localeDisplayNameslanguagesakkئاككادچە
+localeDisplayNameslanguagespagپانگاسىنانچە
+localeDisplayNameslanguagesbssئاكۇسچە
+localeDisplayNameslanguageskshكولىشچە
+localeDisplayNameslanguagesaaئافارچە
+localeDisplayNameslanguageskvكومىچە
+localeDisplayNameslanguagesgaئىرېلاندچە
+localeDisplayNameslanguagesfilفىلىپپىنچە
+localeDisplayNameslanguagesen_GBئەنگلىيە ئىنگلىزچە
+localeDisplayNameslanguagesdavتايتاچە
+localeDisplayNameslanguageskacكاچىنچە
+localeDisplayNameslanguagesmwrمارۋارىچە
+localeDisplayNameslanguagessmساموئاچە
+localeDisplayNameslanguagesybbيېمباچە
+localeDisplayNameslanguagesesئىسپانچە
+localeDisplayNameslanguagesangقەدىمكى ئىنگلىزچە
+localeDisplayNameslanguagesmulكۆپ تىللار
+localeDisplayNameslanguagesastئاستۇرىيەچە
+localeDisplayNameslanguagesiiيىچە (سىچۈەن)
+localeDisplayNameslanguageslezلېزگىنچە
+localeDisplayNameslanguagessvشىۋېدچە
+localeDisplayNameslanguagestkتۈركمەنچە
+localeDisplayNameslanguageschoچوكتاۋچە
+localeDisplayNameslanguagesndشىمالى ندەبەلەچە
+localeDisplayNameslanguageskfoكوروچە
+localeDisplayNameslanguagesyoيورۇباچە
+localeDisplayNameslanguagesrapراپانىيچە
+localeDisplayNameslanguagespiپالىچە
+localeDisplayNameslanguagesdoiدوگرىچە
+localeDisplayNameslanguagespapپاپىيامېنتوچە
+localeDisplayNameslanguagesibaئىبانچە
+localeDisplayNameslanguageseeئېۋېچە
+localeDisplayNameslanguagescuقەدىمكى سلاۋيانچە
+localeDisplayNameslanguageshilخىلىگاينونچە
+localeDisplayNameslanguagesjaياپونچە
+localeDisplayNameslanguagesetئېستونچە
+localeDisplayNameslanguagesltلىتۋانىچە
+localeDisplayNameslanguagestvlتۇۋالۇچە
+localeDisplayNameslanguagestyvتوۋاچە
+localeDisplayNameslanguagesefiئېفىكچە
+localeDisplayNameslanguagesssyساخوچە
+localeDisplayNameslanguagesbrxبودوچە
+localeDisplayNameslanguagesrajراجاستانچە
+localeDisplayNameslanguageskhqكويرا چىنىچە
+localeDisplayNameslanguageskeaكابۇۋېردىيانچە
+localeDisplayNameslanguagesmyvئېرزاچە
+localeDisplayNameslanguagesbfdبافۇتچە
+localeDisplayNameslanguageszhخەنزۇچە
+localeDisplayNameslanguagesdvدىۋېخچە
+localeDisplayNameslanguagesrwkرىۋاچە
+localeDisplayNameslanguagescaكاتالانچە
+localeDisplayNameslanguagesfr_CHشىۋىتسارىيە فىرانسۇزچە
+localeDisplayNameslanguageskaaقارا-قالپاقچە
+localeDisplayNameslanguagesmadمادۇرېسچە
+localeDisplayNameslanguagesdyuدىيۇلاچە
+localeDisplayNameslanguagesshiشىلخاچە
+localeDisplayNameslanguagesdelدېلاۋارېچە
+localeDisplayNameslanguagesmnموڭغۇلچە
+localeDisplayNameslanguagesklگىرېنلاندچە
+localeDisplayNameslanguagesniaنىئاسچە
+localeDisplayNameslanguagesdyoجولاچە
+localeDisplayNameslanguagessaسانسكرىتچە
+localeDisplayNameslanguagesquكېچىۋاچە
+localeDisplayNameslanguageskoكورېيەچە
+localeDisplayNameslanguagesmasماسايچە
+localeDisplayNameslanguageschgچاغاتايچە
+localeDisplayNameslanguagestlتاگالوگچە
+localeDisplayNameslanguagesugaئۇگارىتىكچە
+localeDisplayNameslanguageseuباسكىچە
+localeDisplayNameslanguagesagqئاگەمچە
+localeDisplayNameslanguagesbkmكومچە
+localeDisplayNameslanguageslaلاتىنچە
+localeDisplayNameslanguagesmdeماباچە
+localeDisplayNameslanguagestrتۈركچە
+localeDisplayNameslanguagessmsسكولت سامىچە
+localeDisplayNameslanguagesfatفانتىچە
+localeDisplayNameslanguagesmgaئوتتۇرا ئەسىر ئىرېلاندچە
+localeDisplayNameslanguagesboتىبەتچە
+localeDisplayNameslanguagescggچىگاچە
+localeDisplayNameslanguagesluiلۇيسېنگوچە
+localeDisplayNameslanguagesnaqناماچە
+localeDisplayNameslanguageslagلانگىچە
+localeDisplayNameslanguagessukسۇكۇماچە
+localeDisplayNameslanguagesyavياڭبەنچە
+localeDisplayNameslanguagesfroقەدىمكى فىرانسۇزچە
+localeDisplayNameslanguagesvoۋولاپۇكچە
+localeDisplayNameslanguagesumbئۇمبۇندۇچە
+localeDisplayNameslanguagesliلىمبۇرگچە
+localeDisplayNameslanguagesnnhنگېمبۇنچە
+localeDisplayNameslanguagesyaoياۋچە
+localeDisplayNameslanguageskcgتياپچە
+localeDisplayNameslanguagesundيوچۇن تىل
+localeDisplayNameslanguagesugئۇيغۇرچە
+localeDisplayNameslanguagessehسېناچە
+localeDisplayNameslanguagesazئەزەربەيجانچە
+localeDisplayNameslanguagesarcئارامۇچە
+localeDisplayNameslanguagesbinبىنىچە
+localeDisplayNameslanguagescchئاتسامچە
+localeDisplayNameslanguageshoھىرى موتۇچە
+localeDisplayNameslanguageshaخائۇساچە
+localeDisplayNameslanguageskrcقاراچاي-بالقارچە
+localeDisplayNameslanguagesmosموسسىچە
+localeDisplayNameslanguagespsپۇشتۇچە
+localeDisplayNameslanguageskrكانۇرچە
+localeDisplayNameslanguagesluoلۇئوچە
+localeDisplayNameslanguagesnvناۋاخوچە
+localeDisplayNameslanguagesudmئۇدمۇرتچە
+localeDisplayNameslanguagesadyئادىگېيچە
+localeDisplayNameslanguagesmgمالاگاسچە
+localeDisplayNameslanguagesmaiمايتىلىچە
+localeDisplayNameslanguagesmgoمېتاچە’
+localeDisplayNameslanguagessrسېربچە
+localeDisplayNameslanguagesnnيېڭى نورۋېگچە
+localeDisplayNameslanguagesrmرومانسچە
+localeDisplayNameslanguagestrvتوروكوچە
+localeDisplayNameslanguagesgohقەدىمكى ئېگىزلىك گېرمانچە
+localeDisplayNameslanguagesksbشامبالاچە
+localeDisplayNameslanguagesgayگايوچە
+localeDisplayNameslanguagesnrجەنۇبى ندەبەلەچە
+localeDisplayNameslanguageszh_Hantمۇرەككەپ خەنچە
+localeDisplayNameslanguageszenزېناگاچە
+localeDisplayNameslanguagesruرۇسچە
+localeDisplayNameslanguagesslسىلوۋېنچە
+localeDisplayNameslanguagesjgoنگومباچە
+localeDisplayNameslanguagesasئاسامچە
+localeDisplayNameslanguagespamپامپانگاچە
+localeDisplayNameslanguageskabكابىلېچە
+localeDisplayNameslanguagescsچېخچە
+localeDisplayNameslanguagessatسانتالچە
+localeDisplayNameslanguageskawكاۋىچە
+localeDisplayNameslanguagesmusكىرىكچە
+localeDisplayNameslanguagesnoنورۋېگچە
+localeDisplayNameslanguagesfaپارسچە
+localeDisplayNameslanguagestnسىۋاناچە
+localeDisplayNameslanguagesanpئانگىكاچە
+localeDisplayNameslanguagescrhقىرىم تۈركچە
+localeDisplayNameslanguagesneنېپالچە
+localeDisplayNameslanguagesnusمۇئېرچە
+localeDisplayNameslanguagessyrسۇرىيەچە
+localeDisplayNameslanguagessmaجەنۇبىي سامىچە
+localeDisplayNameslanguagesbaباشقىرتچە
+localeDisplayNameslanguagesgdشوتلاندىيە گايلچىسى
+localeDisplayNameslanguagesngندونگاچە
+localeDisplayNameslanguagesssسىۋاتىچە
+localeDisplayNameslanguagessiسىنگالچە
+localeDisplayNameslanguagesroرومىنچە
+localeDisplayNameslanguagesbaxبامۇنچە
+localeDisplayNameslanguagesde_CHشىۋىتسارىيە ئېگىزلىك گېرمانچە
+localeDisplayNameslanguagesarwئاراۋاكچە
+localeDisplayNameslanguagesmiماۋرىچە
+localeDisplayNameslanguagessmjلۇلې سامىچە
+localeDisplayNameslanguagesgswگېرمانچە شىۋىتسارىيە
+localeDisplayNameslanguagesgezگىزچە
+localeDisplayNameslanguageslahلانداچە
+localeDisplayNameslanguageswoۋولوفچە
+localeDisplayNameslanguageschkچۇكچە
+localeDisplayNameslanguagesmdfموكشاچە
+localeDisplayNameslanguageszuزۇلۇچە
+localeDisplayNameslanguagesmohموخاۋكچە
+localeDisplayNameslanguagesteتېلۇگۇچە
+localeDisplayNameslanguagesmncمانجۇچە
+localeDisplayNameslanguagesnewنېۋارىچە
+localeDisplayNameslanguagespalپەھلەۋىچە
+localeDisplayNameslanguagestyتاختىچە
+localeDisplayNameslanguagesnyoنىئوروچە
+localeDisplayNameslanguagesbasباساچە
+localeDisplayNameslanguagessoسومالىچە
+localeDisplayNameslanguagesgilگىلبېرتچە
+localeDisplayNameslanguagesgvمانچە
+localeDisplayNameslanguageslozلوزىچە
+localeDisplayNameslanguagesveۋېنداچە
+localeDisplayNameslanguagesdsbتۆۋەن سوربچە
+localeDisplayNameslanguagesplپولەكچە
+localeDisplayNameslanguagesamئامھارچە
+localeDisplayNameslanguagesadaئاداڭمېچە
+localeDisplayNameslanguageslolمونگوچە
+localeDisplayNameslanguageschچامورروچە
+localeDisplayNameslanguagesmenمېندېچە
+localeDisplayNameslanguagesnaناۋرۇچە
+localeDisplayNameslanguagesmafمافاچە
+localeDisplayNameslanguagesromسىگانچە
+localeDisplayNameslanguageszblبىلىس بەلگىلىرى
+localeDisplayNameslanguagesyiيىددىشچە
+localeDisplayNameslanguagesbezبېناچە
+localeDisplayNameslanguageskdeماكوندېچە
+localeDisplayNameslanguagesmerمېرۇچە
+localeDisplayNameslanguagesekaئېكاجۇكچە
+localeDisplayNameslanguagescarكارىبچە
+localeDisplayNameslanguageshupخۇپاچە
+localeDisplayNameslanguagescoكورسۇچە
+localeDisplayNameslanguagesbalبېلۇجىچە
+localeDisplayNameslanguagesxogسوگاچە
+localeDisplayNameslanguagesmagماگاخىچە
+localeDisplayNameslanguagesmfeمورىسيېنچە
+localeDisplayNameslanguagesmwlمىراندېسچە
+localeDisplayNameslanguagesvaiۋايچە
+localeDisplayNameslanguagesawaئاۋادىچە
+localeDisplayNameslanguagescyۋېلشچە
+localeDisplayNameslanguageskmكىمېرچە
+localeDisplayNameslanguagesen_AUئاۋسترالىيە ئىنگلىزچە
+localeDisplayNameslanguagesfrmئوتتۇرا ئەسىر فىرانسۇزچە
+localeDisplayNameslanguageskpeكىپەللېچە
+localeDisplayNameslanguagescadكاددوچە
+localeDisplayNameslanguagesbejبېجاچە
+localeDisplayNameslanguagessadسانداۋېچە
+localeDisplayNameslanguagesmicمىكماكچە
+localeDisplayNameslanguagesnogنوغايچە
+localeDisplayNameslanguageskwكورنىشچە
+localeDisplayNameslanguagestzmمەركىزىي ئاتلاس تامازايتچە
+localeDisplayNameslanguagessgaقەدىمكى ئىرېلاندچە
+localeDisplayNameslanguagesrootغول تىل
+localeDisplayNameslanguagesrupئارومانچە
+localeDisplayNameslanguagespt_BRبىرازىلىيە پورتۇگالچە
+localeDisplayNameslanguagesjboلوجبانچە
+localeDisplayNameslanguagesluلۇبا-كاتانگاچە
+localeDisplayNameslanguagesurئوردۇچە
+localeDisplayNameslanguageskiكىكۇيۇچە
+localeDisplayNameslanguagesmtمالتاچە
+localeDisplayNameslanguagessmnئىنارى سامىچە
+localeDisplayNameslanguagesdeگېرمانچە
+localeDisplayNameslanguagesscساردىنىيەچە
+localeDisplayNameslanguageses_MXمېكسىكا ئىسپانچە
+localeDisplayNameslanguagesainئاينۇچە
+localeDisplayNameslanguagesabئابخازچە
+localeDisplayNameslanguagesafhئافرىخىلىچە
+localeDisplayNameslanguagesidھىندونېزچە
+localeDisplayNameslanguagesdakداكوتاچە
+localeDisplayNameslanguagesglگالىچە
+localeDisplayNameslanguagesnbنورۋىگىيە بوكمالچە
+localeDisplayNameslanguagesbyvمېدۇمباچە
+localeDisplayNameslanguagestwتىۋىچە
+localeDisplayNameslanguageskrlكارەلچە
+localeDisplayNameslanguagesbmبامباراچە
+localeDisplayNameslanguagestogنياسا توڭانچە
+localeDisplayNameslanguagesbnبېنگالچە
+localeDisplayNameslanguageskbdكاباردەيچە
+localeDisplayNameslanguageskgكونگوچە
+localeDisplayNameslanguagesinhئىنگۇشچە
+localeDisplayNameslanguageswaeۋالسېرچە
+localeDisplayNameslanguagesnyنىيانجاچە
+localeDisplayNameslanguagessw_CDكونگو سىۋالىچە
+localeDisplayNameslanguagesyueگۇاڭدوڭچە
+localeDisplayNameslanguagesteoتېسوچە
+localeDisplayNameslanguagesffفۇلاھچە
+localeDisplayNameslanguagesaleئالېيۇتچە
+localeDisplayNameslanguagesckbمەركىزىي كۇردچە
+localeDisplayNameslanguageskblكانېمبۇچە
+localeDisplayNameslanguageskutكۇتەنايچە
+localeDisplayNameslanguagesluyلۇياچە
+localeDisplayNameslanguagesnonقەدىمكى نورۋېگچە
+localeDisplayNameslanguageskajجۇچە
+localeDisplayNameslanguagesen_USئامېرىكا ئىنگلىزچە
+localeDisplayNameslanguagesanئاراگونچە
+localeDisplayNameslanguagesbikبىكولچە
+localeDisplayNameslanguagesitئىتالىيانچە
+localeDisplayNameslanguageszh_Hansئاددىي خەنچە
+localeDisplayNameslanguagesdinدىنكاچە
+localeDisplayNameslanguagesarnماپۇدۇنگۇنچە
+localeDisplayNameslanguagesdaدانىشچە
+localeDisplayNameslanguagesnsoشىمالىي سوتوچە
+localeDisplayNameslanguageskruكۇرۇخچە
+localeDisplayNameslanguagesshuچاد ئەرەبچە
+localeDisplayNameslanguagesenئىنگلىزچە
+localeDisplayNameslanguagesigئىگبوچە
+localeDisplayNameslanguagesjvياۋاچە
+localeDisplayNameslanguageszunزۇنىچە
+localeDisplayNameslanguagesenmئوتتۇرا ئەسىر ئىنگلىزچە
+localeDisplayNameslanguagessamسامارىتانچە
+localeDisplayNameslanguageshyئەرمېنچە
+localeDisplayNameslanguagestetتېتۇمچە
+localeDisplayNameslanguageszzaزازاچە
+localeDisplayNameslanguageschmمارىچە
+localeDisplayNameslanguagesknكانناداچە
+localeDisplayNameslanguagesmyبىرماچە
+localeDisplayNameslanguagesceچېچىنچە
+localeDisplayNamesscriptsHantمۇرەككەپ خەنچە
+localeDisplayNamesscriptsDsrtدېزېرېت
+localeDisplayNamesscriptsKaliكاياھچە
+localeDisplayNamesscriptsLinbسىزىقلىق B
+localeDisplayNamesscriptsManiمانەكېزەمچە
+localeDisplayNamesscriptsLisuفراسېرچە
+localeDisplayNamesscriptsSyrjغەربىي سۈرىيەچە
+localeDisplayNamesscriptsEgydدېموتىكچە مىسىر
+localeDisplayNamesscriptsRjngرېجاڭچە
+localeDisplayNamesscriptsBrahبراخمى
+localeDisplayNamesscriptsGlagگىلاگوتچە
+localeDisplayNamesscriptsSundسۇنداچە
+localeDisplayNamesscriptsArabئەرەب
+localeDisplayNamesscriptsAvstئاۋېستا
+localeDisplayNamesscriptsLanaلانناچە
+localeDisplayNamesscriptsNbatئانباتچە
+localeDisplayNamesscriptsSinhسىنخالاچە
+localeDisplayNamesscriptsGeorگىرۇزىنچە
+localeDisplayNamesscriptsKhmrكېخمېرچە
+localeDisplayNamesscriptsMrooمروچە
+localeDisplayNamesscriptsOlckئول-چىكىچە
+localeDisplayNamesscriptsTaluيېڭى تاي-لەچە
+localeDisplayNamesscriptsZmthماتېماتىكىلىق بەلگە
+localeDisplayNamesscriptsTengتېڭۋارچە
+localeDisplayNamesscriptsShawشاۋىيانچە
+localeDisplayNamesscriptsGranگىرانتاچە
+localeDisplayNamesscriptsGeokخۇتسۇرى گىرۇزىنچە
+localeDisplayNamesscriptsLepcلەپچاچە
+localeDisplayNamesscriptsSyloسىيولوتى-ناگرىچە
+localeDisplayNamesscriptsGrekگىرېكچە
+localeDisplayNamesscriptsMongموڭغۇلچە
+localeDisplayNamesscriptsMymrبىرماچە
+localeDisplayNamesscriptsHebrئىبرانىچە
+localeDisplayNamesscriptsBatkباتاك
+localeDisplayNamesscriptsGothگوتچە
+localeDisplayNamesscriptsBopoخەنچە پىنيىن
+localeDisplayNamesscriptsBaliبالى
+localeDisplayNamesscriptsLaooلائوسچە
+localeDisplayNamesscriptsMeroمېتروئىت
+localeDisplayNamesscriptsNkooنىكوچە
+localeDisplayNamesscriptsZsymبەلگە
+localeDisplayNamesscriptsTibtتىبەتچە
+localeDisplayNamesscriptsDuplدۇپلويان تېز خاتىرىلەش
+localeDisplayNamesscriptsBamuبامۇم
+localeDisplayNamesscriptsMendمېندېچە
+localeDisplayNamesscriptsWoleۋولىئاي
+localeDisplayNamesscriptsBlisبىلىس بەلگىلىرى
+localeDisplayNamesscriptsTamlتامىلچە
+localeDisplayNamesscriptsZyyyئورتاق
+localeDisplayNamesscriptsArmnئەرمەن
+localeDisplayNamesscriptsNshuنۈشۇچە
+localeDisplayNamesscriptsHmngمۆڭچە
+localeDisplayNamesscriptsTirhتىرخۇتاچە
+localeDisplayNamesscriptsShrdشاراداچە
+localeDisplayNamesscriptsThaaتاناچە
+localeDisplayNamesscriptsCyrlكىرىل
+localeDisplayNamesscriptsHrktياپونچە خىراگانا ياكى كاتاكانا
+localeDisplayNamesscriptsJpanياپونچە
+localeDisplayNamesscriptsLatfفىراكتۇر لاتىنچە
+localeDisplayNamesscriptsLatnلاتىنچە
+localeDisplayNamesscriptsTakrتاكرىچە
+localeDisplayNamesscriptsVaiiۋايچە
+localeDisplayNamesscriptsCirtكىرسچە
+localeDisplayNamesscriptsLimbلىمبۇچە
+localeDisplayNamesscriptsPhliپەھلىۋىچە ئويما خەت
+localeDisplayNamesscriptsOryaئورىياچە
+localeDisplayNamesscriptsBugiبۇگى
+localeDisplayNamesscriptsUgarئۇگارىتىكچە
+localeDisplayNamesscriptsSarbقەدىمكى جەنۇبى ئەرەبچە
+localeDisplayNamesscriptsTagbتاگبانۋاچە
+localeDisplayNamesscriptsItalقەدىمكى ئىتاليانچە
+localeDisplayNamesscriptsHaniخەنچە
+localeDisplayNamesscriptsLomaلوماچە
+localeDisplayNamesscriptsNkgbناشىچە
+localeDisplayNamesscriptsKndaكانناداچە
+localeDisplayNamesscriptsAfakئافاكا
+localeDisplayNamesscriptsPhlvپەھلىۋىچە كىتابى تىل
+localeDisplayNamesscriptsCoptكوپتىك
+localeDisplayNamesscriptsCariكارىيا
+localeDisplayNamesscriptsBraiبرائىل ئەمالار يېزىقى
+localeDisplayNamesscriptsOrkhئورخۇنچە
+localeDisplayNamesscriptsZxxxيېزىلمىغان
+localeDisplayNamesscriptsHansئاددىي خەنچە
+localeDisplayNamesscriptsOsmaئوسمانيە
+localeDisplayNamesscriptsBengبېنگال
+localeDisplayNamesscriptsTglgتاگالوگچە
+localeDisplayNamesscriptsTaleتاي-لەچە
+localeDisplayNamesscriptsTeluتېلۇگۇچە
+localeDisplayNamesscriptsJurcجۇرچېنچە
+localeDisplayNamesscriptsSaraساراتىچە
+localeDisplayNamesscriptsLyciلىسىيانچە
+localeDisplayNamesscriptsEthiئېفىيوپىيەچە
+localeDisplayNamesscriptsPermقەدىمكى پېرمىكچە
+localeDisplayNamesscriptsYiiiيىچە
+localeDisplayNamesscriptsWaraۋاراڭ كىشىتى
+localeDisplayNamesscriptsMteiمانىپۇرىچە
+localeDisplayNamesscriptsSyrcسۈرىيەچە
+localeDisplayNamesscriptsChamچام
+localeDisplayNamesscriptsKharكاروشتىچە
+localeDisplayNamesscriptsTfngتىفىناغچە
+localeDisplayNamesscriptsEgypتەسۋىرىي يېزىق مىسىر
+localeDisplayNamesscriptsSindكۇداۋادچە
+localeDisplayNamesscriptsPlrdپوللارد تاۋۇشلىرى
+localeDisplayNamesscriptsIndsئىندۇسچە
+localeDisplayNamesscriptsMlymمالايامچە
+localeDisplayNamesscriptsCherچېروكى
+localeDisplayNamesscriptsNarbقەدىمكى شىمالىي ئەرەبچە
+localeDisplayNamesscriptsXpeoقەدىمكى پارىسچە
+localeDisplayNamesscriptsLinaسىزىقلىق A
+localeDisplayNamesscriptsPhnxفىنىكچە
+localeDisplayNamesscriptsCprtسىپرۇس
+localeDisplayNamesscriptsOgamئوگەمچە
+localeDisplayNamesscriptsEgyhخىيەراتىكچە مىسىر
+localeDisplayNamesscriptsSyrnشەرقىي سۈرىيەچە
+localeDisplayNamesscriptsPrtiپارتىئانچە ئويما خەت
+localeDisplayNamesscriptsKanaكاتاكانا
+localeDisplayNamesscriptsZzzzيوچۇن يېزىق
+localeDisplayNamesscriptsSamrسامارىچە
+localeDisplayNamesscriptsZinhئىرسىيەت ئاتالغۇ
+localeDisplayNamesscriptsKpelكپېللېچە
+localeDisplayNamesscriptsRunrرۇنىكچە
+localeDisplayNamesscriptsGujrگۇجاراتچە
+localeDisplayNamesscriptsKthiكاياتىچە
+localeDisplayNamesscriptsTavtتايلاندچە-ۋىيېتنامچە
+localeDisplayNamesscriptsXsuxسۇمېر-ئاككادىيان مىخ خەت
+localeDisplayNamesscriptsPalmپالمىراچە
+localeDisplayNamesscriptsHiraخىراگانا
+localeDisplayNamesscriptsVispكۆرۈنۈشچان تاۋۇش
+localeDisplayNamesscriptsSgnwئىشارەت تىلى
+localeDisplayNamesscriptsDevaدېۋاناگارى
+localeDisplayNamesscriptsArmiخان جەمەتى ئارامۇ
+localeDisplayNamesscriptsMercمېتروئىت يازمىچە
+localeDisplayNamesscriptsCyrsقەدىمكى چىركاۋ سىلاۋيانچە كىرىل
+localeDisplayNamesscriptsSoraسورا سامپىڭ
+localeDisplayNamesscriptsHanoخانۇنۇچە
+localeDisplayNamesscriptsMayaماياچە تەسۋىرىي يېزىق
+localeDisplayNamesscriptsPhagپاسپاچە
+localeDisplayNamesscriptsHungقەدىمكى ماجارچە
+localeDisplayNamesscriptsThaiتايلاندچە
+localeDisplayNamesscriptsRoroروڭگوروڭگو
+localeDisplayNamesscriptsKhojخوجكىچە
+localeDisplayNamesscriptsLatgسىكوت لاتىنچە
+localeDisplayNamesscriptsLydiلىدىيەچە
+localeDisplayNamesscriptsMandماندائىكچە
+localeDisplayNamesscriptsPhlpپەھلىۋىچە شېئىرىي تىل
+localeDisplayNamesscriptsTangتاڭغۇتچە
+localeDisplayNamesscriptsHluwئاناتولىيە تەسۋىرىي يېزىق
+localeDisplayNamesscriptsSaurسائۇراشتىراچە
+localeDisplayNamesscriptsBassباسسا
+localeDisplayNamesscriptsCakmچاكما
+localeDisplayNamesscriptsBuhdبۇخىت
+localeDisplayNamesscriptsSyreسۈرىيەچە ئەبجەت
+localeDisplayNamesscriptsJavaياۋاچە
+localeDisplayNamesscriptsGuruگۇرمۇكىچە
+localeDisplayNamesscriptsCansبىرلىككە كەلگەن كانادا يەرلىك بوغۇم جەدۋىلى
+localeDisplayNamesscriptsMoonكورىيە
+localeDisplayNamesscriptsKoreكورېيەچە
+localeDisplayNamescodePatternsterritoryرايون: {0}
+localeDisplayNamescodePatternslanguageتىل: {0}
+localeDisplayNamescodePatternsscriptيېزىق: {0}
+localeDisplayNamesvariantsAREVMDAغەربىي ئەرمەنچە
+localeDisplayNamesvariantsAREVELAشەرقىي ئەرمەنچە
+localeDisplayNamesvariantsROZAJرېسىيان
+localeDisplayNamesvariantsUCRCORبىرلىككە كەلگەن تۈزىتىلگەن ئىملا قائىدىسى
+localeDisplayNamesvariantsTARASKتاراسكىۋىتسا ئىملا قائىدىسى
+localeDisplayNamesvariantsBOONTبۇنتلىڭچە
+localeDisplayNamesvariantsPOLYTONپولىتونىك
+localeDisplayNamesvariants1901ئەنئەنىۋى گېرمانچە ئىملا قائىدىسى
+localeDisplayNamesvariantsNDYUKAنىديۇكا شىۋەسى
+localeDisplayNamesvariantsSOLBAسىتولۋىززا/سولبىكا شىۋەسى
+localeDisplayNamesvariantsLIPAWرېسىياننىڭ لىپوۋاز شىۋەسى
+localeDisplayNamesvariantsPAMAKAپاماكا شىۋەسى
+localeDisplayNamesvariants1996گېرمانچە ئىملا قائىدىسى 1996
+localeDisplayNamesvariantsRIGIKئەنئەنىۋى ۋولاپۇكچە
+localeDisplayNamesvariantsREVISEDتۈزىتىلگەن ئىملا قائىدىسى
+localeDisplayNamesvariantsVALENCIAۋالېنسىيە
+localeDisplayNamesvariantsALUKUئالۇكۇ شىۋەسى
+localeDisplayNamesvariantsSCOUSEسىكاۋۇز
+localeDisplayNamesvariantsBISKEسان گىيورگىيو/بىلا شىۋەسى
+localeDisplayNamesvariantsFONIPAIPA تاۋۇشلىرى
+localeDisplayNamesvariantsSCOTLANDشوتلاندىيە ئۆلچەملىك ئىنگلىزچە
+localeDisplayNamesvariantsHEPBURNخېپبۇرن لاتىنلاشتۇرۇش
+localeDisplayNamesvariantsNJIVAگىنىۋا/نىجىۋا شىۋەسى
+localeDisplayNamesvariants1606NICTئوتتۇرا ئاخىرقى دەۋردىكى فىرانسۇزچە 1606
+localeDisplayNamesvariantsUCCORبىرلىككە كەلگەن ئىملا قائىدىسى
+localeDisplayNamesvariantsEMODENGدەسلەپكى مەزگىلدىكى زامانىۋى ئىنگلىزچە
+localeDisplayNamesvariants1959ACADئاكادېمىك
+localeDisplayNamesvariantsMONOTONئاددىي
+localeDisplayNamesvariantsOSOJSئوسېئاككو/ئوسوجەن شىۋەسى
+localeDisplayNamesvariantsBAKU1926بىرلىككە كەلگەن تۈرك لاتىن ئېلىپبەسى
+localeDisplayNamesvariantsKKCORئورتاق ئىملا قائىدىسى
+localeDisplayNamesvariantsKSCORئۆلچەملىك ئىملا قائىدىسى
+localeDisplayNamesvariantsMETELKOمېتېلكو ئېلىپبەسى
+localeDisplayNamesvariantsNULIKزامانىۋى ۋولاپۇكچە
+localeDisplayNamesvariantsPINYINپىنيىن لاتىنلاشتۇرۇش
+localeDisplayNamesvariants1694ACADدەسلەپكى مەزگىلدىكى زامانىۋى فىرانسۇزچە
+localeDisplayNamesvariantsALALC97ALA-LC لاتىنلاشتۇرۇش، 1997 نەشرى
+localeDisplayNamesvariantsBOHORICبوخورىچ ئېلىپبەسى
+localeDisplayNamesvariantsNEDISناتىسون شىۋەسى
+localeDisplayNamesvariantsSAAHOساخوچە
+localeDisplayNamesvariantsWADEGILEۋېي ئائىلىسى پىنيىن لاتىنلاشتۇرۇش
+localeDisplayNamesvariantsPOSIXكومپيۇتېر
+localeDisplayNamesvariantsDAJNKOداژىنكو ئېلىپبەسى
+localeDisplayNamesvariantsFONUPAUPA تاۋۇشلىرى
+localeDisplayNamesvariants1994ئۆلچەملەشتۈرۈلگەن رېسىيان ئىملا قائىدىسى
+localeDisplayNamesmeasurementSystemNamesmetricمېتىر
+localeDisplayNamesmeasurementSystemNamesUKئەنگلىيە ئۆلچىمى
+localeDisplayNamesmeasurementSystemNamesUSئامېرىكا ئۆلچىمى
+localeDisplayNamesterritoriesCXمىلاد ئارىلى
+localeDisplayNamesterritoriesSHساينىت ھېلېنا
+localeDisplayNamesterritoriesMWمالاۋى
+localeDisplayNamesterritoriesGPگىۋادېلۇپ
+localeDisplayNamesterritoriesHMھېرد ئارىلى ۋە ماكدونالد ئاراللىرى
+localeDisplayNamesterritoriesSZسىۋېزىلاند
+localeDisplayNamesterritories019ئامېرىكا
+localeDisplayNamesterritories143ئوتتۇرا ئاسىيا
+localeDisplayNamesterritoriesWFۋاللىس ۋە فۇتۇنا
+localeDisplayNamesterritoriesBOبولىۋىيە
+localeDisplayNamesterritoriesTZتانزانىيە
+localeDisplayNamesterritories035شەرقىي جەنۇبىي ئاسىيا
+localeDisplayNamesterritoriesISئىسلاندىيە
+localeDisplayNamesterritoriesPMساينت پىيېر ۋە مىكېلون ئاراللىرى
+localeDisplayNamesterritoriesNUنيۇئې
+localeDisplayNamesterritoriesCUكۇبا
+localeDisplayNamesterritoriesNCيېڭى كالېدونىيە
+localeDisplayNamesterritoriesMSمونتسېررات
+localeDisplayNamesterritoriesCLچىلى
+localeDisplayNamesterritories014شەرقىي ئافرىقا
+localeDisplayNamesterritoriesBAبوسىنىيە ۋە گېرتسېگوۋىنا
+localeDisplayNamesterritoriesHKشياڭگاڭ
+localeDisplayNamesterritoriesLVلاتۋىيە
+localeDisplayNamesterritoriesHTھايتى
+localeDisplayNamesterritoriesVUۋانۇئاتۇ
+localeDisplayNamesterritoriesNAنامىبىيە
+localeDisplayNamesterritoriesDGدېگو-گارشىيا
+localeDisplayNamesterritoriesMLمالى
+localeDisplayNamesterritoriesGUگۇئام
+localeDisplayNamesterritoriesLCساينت لۇسىيە
+localeDisplayNamesterritoriesLBلىۋان
+localeDisplayNamesterritoriesZAجەنۇبىي ئافرىقا
+localeDisplayNamesterritoriesTNتۇنىس
+localeDisplayNamesterritoriesIEئىرېلاندىيە
+localeDisplayNamesterritoriesRWرىۋاندا
+localeDisplayNamesterritoriesRSسېربىيە
+localeDisplayNamesterritoriesITئىتالىيە
+localeDisplayNamesterritories005جەنۇبىي ئامېرىكا
+localeDisplayNamesterritoriesLRلىبېرىيە
+localeDisplayNamesterritoriesLTلىتۋانىيە
+localeDisplayNamesterritoriesMFساينت مارتىن
+localeDisplayNamesterritoriesTOتونگا
+localeDisplayNamesterritories009ئوكيانىيە
+localeDisplayNamesterritoriesMTمالتا
+localeDisplayNamesterritories154شىمالىي ياۋروپا
+localeDisplayNamesterritoriesJPياپونىيە
+localeDisplayNamesterritoriesSXسىنت مارتېن
+localeDisplayNamesterritoriesSRسۇرىنام
+localeDisplayNamesterritoriesBQكارىب دېڭىزى گوللاندىيە
+localeDisplayNamesterritoriesROرومىنىيە
+localeDisplayNamesterritoriesGWگىۋىنىيە بىسسائۇ
+localeDisplayNamesterritoriesIQئىراق
+localeDisplayNamesterritoriesUYئۇرۇگۋاي
+localeDisplayNamesterritories039جەنۇبىي ياۋروپا
+localeDisplayNamesterritoriesMUماۋرىتىيۇس
+localeDisplayNamesterritories142ئاسىيا
+localeDisplayNamesterritoriesUZئۆزبېكىستان
+localeDisplayNamesterritoriesFRفىرانسىيە
+localeDisplayNamesterritoriesDEگېرمانىيە
+localeDisplayNamesterritoriesCMكامېرون
+localeDisplayNamesterritoriesBJبېنىن
+localeDisplayNamesterritories151شەرقىي ياۋروپا
+localeDisplayNamesterritoriesBIبۇرۇندى
+localeDisplayNamesterritoriesUGئۇگاندا
+localeDisplayNamesterritoriesKZقازاقىستان
+localeDisplayNamesterritoriesSAسەئۇدىي ئەرەبىستان
+localeDisplayNamesterritoriesUMئا ق ش تاشقى ئاراللىرى
+localeDisplayNamesterritoriesESئىسپانىيە
+localeDisplayNamesterritoriesKMكومورو
+localeDisplayNamesterritoriesBTبۇتان
+localeDisplayNamesterritoriesILئىسرائىلىيە
+localeDisplayNamesterritoriesEUياۋروپا ئىتتىپاقى
+localeDisplayNamesterritoriesPTپورتۇگالىيە
+localeDisplayNamesterritoriesSOسومالى
+localeDisplayNamesterritoriesNIنىكاراگۇئا
+localeDisplayNamesterritoriesSJسىۋالبارد ۋە يان مايېن
+localeDisplayNamesterritoriesDJجىبۇتى
+localeDisplayNamesterritoriesBSباھاما
+localeDisplayNamesterritoriesGTگىۋاتېمالا
+localeDisplayNamesterritoriesKEكېنىيە
+localeDisplayNamesterritories001دۇنيا
+localeDisplayNamesterritoriesKRكورېيە
+localeDisplayNamesterritoriesEGمىسىر
+localeDisplayNamesterritoriesZWزىمبابۋې
+localeDisplayNamesterritoriesSNسېنېگال
+localeDisplayNamesterritoriesVCساينت ۋىنسېنت ۋە گىرېنادىنېس
+localeDisplayNamesterritoriesXKكوسوۋو
+localeDisplayNamesterritoriesFOفارو ئاراللىرى
+localeDisplayNamesterritoriesGAگابون
+localeDisplayNamesterritoriesGIجەبىلتارىق
+localeDisplayNamesterritoriesKPچاۋشيەن
+localeDisplayNamesterritoriesMNموڭغۇلىيە
+localeDisplayNamesterritoriesCOكولومبىيە
+localeDisplayNamesterritoriesLAلائوس
+localeDisplayNamesterritoriesPKپاكىستان
+localeDisplayNamesterritoriesMHمارشال ئاراللىرى
+localeDisplayNamesterritoriesMDمولدوۋا
+localeDisplayNamesterritoriesSEشىۋېتسىيە
+localeDisplayNamesterritoriesGYگىۋىيانا
+localeDisplayNamesterritoriesTJتاجىكىستان
+localeDisplayNamesterritoriesZMزامبىيە
+localeDisplayNamesterritoriesTAترىستان داكۇنھا
+localeDisplayNamesterritoriesCYسىپرۇس
+localeDisplayNamesterritoriesNOنورۋېگىيە
+localeDisplayNamesterritories155غەربىي ياۋروپا
+localeDisplayNamesterritories013ئوتتۇرا ئامېرىكا
+localeDisplayNamesterritoriesSGسىنگاپور
+localeDisplayNamesterritoriesCHشىۋېتسارىيە
+localeDisplayNamesterritoriesCPكىلىپپېرتون ئاراللىرى
+localeDisplayNamesterritoriesAMئەرمېنىيە
+localeDisplayNamesterritoriesHUۋېنگىرىيە
+localeDisplayNamesterritoriesJOئىيوردانىيە
+localeDisplayNamesterritoriesTVتۇۋالۇ
+localeDisplayNamesterritoriesRUرۇسىيە
+localeDisplayNamesterritoriesFMمىكرونېزىيە
+localeDisplayNamesterritoriesCGكونگو (جۇمھۇرىيىتى)
+localeDisplayNamesterritoriesCVيېشىل تۇمشۇق
+localeDisplayNamesterritories150ياۋروپا
+localeDisplayNamesterritoriesGGگۇرنسېي
+localeDisplayNamesterritoriesTRتۈركىيە
+localeDisplayNamesterritoriesVIئا ق ش ۋىرگىن ئاراللىرى
+localeDisplayNamesterritoriesFKفالكلاند ئاراللىرى (ئىسلاس مالۋىناس)
+localeDisplayNamesterritoriesPFفىرانسىيەگە قاراشلىق پولىنېزىيە
+localeDisplayNamesterritoriesBLساينت بارتېلېمى
+localeDisplayNamesterritoriesCCكوكوس (كىلىڭ) ئاراللىرى
+localeDisplayNamesterritoriesGNگىۋىنىيە
+localeDisplayNamesterritoriesMAماراكەش
+localeDisplayNamesterritoriesEHغەربىي ساخارا
+localeDisplayNamesterritoriesPWپالائۇ
+localeDisplayNamesterritoriesNFنورفولك ئارىلى
+localeDisplayNamesterritories061پولىنىزىيە
+localeDisplayNamesterritoriesATئاۋىستىرىيە
+localeDisplayNamesterritories145غەربىي ئاسىيا
+localeDisplayNamesterritoriesGQئېكۋاتور گىۋىنىيەسى
+localeDisplayNamesterritoriesSSجەنۇبىي سۇدان
+localeDisplayNamesterritoriesMVمالدىۋې
+localeDisplayNamesterritoriesMQمارتىنىكا
+localeDisplayNamesterritoriesHRكىرودىيە
+localeDisplayNamesterritoriesLKسىرىلانكا
+localeDisplayNamesterritoriesLUلىيۇكسېمبۇرگ
+localeDisplayNamesterritoriesCKكۇك ئاراللىرى
+localeDisplayNamesterritories057مىكرونېزىيە رايونى
+localeDisplayNamesterritoriesKGقىرغىزىستان
+localeDisplayNamesterritoriesYEيەمەن
+localeDisplayNamesterritoriesSIسىلوۋېنىيە
+localeDisplayNamesterritoriesSKسىلوۋاكىيە
+localeDisplayNamesterritoriesSLسېررالېئون
+localeDisplayNamesterritoriesSYسۇرىيە
+localeDisplayNamesterritoriesBNبىرۇنېي
+localeDisplayNamesterritoriesGRگىرېتسىيە
+localeDisplayNamesterritoriesAZئەزەربەيجان
+localeDisplayNamesterritoriesLSلېسوتو
+localeDisplayNamesterritoriesSMسان مارىنو
+localeDisplayNamesterritoriesTTتىرىنىداد ۋە توباگو
+localeDisplayNamesterritoriesGEگىرۇزىيە
+localeDisplayNamesterritoriesERئېرىترىيە
+localeDisplayNamesterritoriesBZبېلىز
+localeDisplayNamesterritoriesEAسېيتا ۋە مېلىلا
+localeDisplayNamesterritories030شەرقىي ئاسىيا
+localeDisplayNamesterritoriesKNساينت كىتىس ۋە نېۋىس
+localeDisplayNamesterritoriesINھىندىستان
+localeDisplayNamesterritoriesKYكايمان ئاراللىرى
+localeDisplayNamesterritoriesPYپاراگۋاي
+localeDisplayNamesterritoriesVNۋىيېتنام
+localeDisplayNamesterritoriesPNپىتكايرن ئاراللىرى
+localeDisplayNamesterritoriesGBئەنگلىيە
+localeDisplayNamesterritoriesNLگوللاندىيە
+localeDisplayNamesterritoriesMRماۋرىتانىيە
+localeDisplayNamesterritoriesHNھوندۇراس
+localeDisplayNamesterritoriesVAۋاتىكان
+localeDisplayNamesterritories002ئافرىقا
+localeDisplayNamesterritoriesTMتۈركمەنىستان
+localeDisplayNamesterritoriesALئالبانىيە
+localeDisplayNamesterritoriesKWكۇۋەيت
+localeDisplayNamesterritoriesUSئا ق ش
+localeDisplayNamesterritoriesARئارگېنتىنا
+localeDisplayNamesterritories419لاتىن ئامېرىكا
+localeDisplayNamesterritoriesASئامېرىكا ساموئا
+localeDisplayNamesterritoriesACئاسسېنسىيون ئارىلى
+localeDisplayNamesterritoriesTGتوگو
+localeDisplayNamesterritoriesPLپولشا
+localeDisplayNamesterritoriesPAپاناما
+localeDisplayNamesterritoriesDOدومىنىكا جۇمھۇرىيىتى
+localeDisplayNamesterritoriesAIئانگۋىللا
+localeDisplayNamesterritoriesGLگىرېنلاندىيە
+localeDisplayNamesterritoriesYTمايوتى
+localeDisplayNamesterritoriesNZيېڭى زېلاندىيە
+localeDisplayNamesterritoriesSCسېيشېل
+localeDisplayNamesterritoriesCAكانادا
+localeDisplayNamesterritoriesIRئىران
+localeDisplayNamesterritoriesJEجېرسېي
+localeDisplayNamesterritoriesMMبىرما
+localeDisplayNamesterritoriesBVبوۋېت ئارىلى
+localeDisplayNamesterritories021شىمالىي ئامېرىكا رايونى
+localeDisplayNamesterritoriesAOئانگولا
+localeDisplayNamesterritoriesBHبەھرەين
+localeDisplayNamesterritoriesLIلىكتېنستېين
+localeDisplayNamesterritoriesNRناۋرۇ
+localeDisplayNamesterritoriesSDسۇدان
+localeDisplayNamesterritoriesCIپىل چىشى قىرغىقى
+localeDisplayNamesterritoriesAFئافغانىستان
+localeDisplayNamesterritories029كارىب دېڭىزى
+localeDisplayNamesterritoriesBBباربادوس
+localeDisplayNamesterritoriesICكانارى ئاراللىرى
+localeDisplayNamesterritoriesAQئانتاركتىكا
+localeDisplayNamesterritoriesCNجۇڭگو
+localeDisplayNamesterritoriesDKدانىيە
+localeDisplayNamesterritories018جەنۇبىي ئافرىقا رايونى
+localeDisplayNamesterritoriesPGپاپۇئا يېڭى گىۋىنىيەسى
+localeDisplayNamesterritoriesMYمالايسىيا
+localeDisplayNamesterritoriesPEپېرۇ
+localeDisplayNamesterritoriesCDكونگو (ك د ج)
+localeDisplayNamesterritoriesSTسان تومې ۋە پرىنسىپې
+localeDisplayNamesterritoriesVGئەنگلىيە ۋىرگىن ئاراللىرى
+localeDisplayNamesterritoriesGDگىرېنادا
+localeDisplayNamesterritoriesBEبېلگىيە
+localeDisplayNamesterritoriesJMيامايكا
+localeDisplayNamesterritoriesECئېكۋاتور
+localeDisplayNamesterritoriesVEۋېنېسۇئېلا
+localeDisplayNamesterritories003شىمالىي ئامېرىكا
+localeDisplayNamesterritoriesBYبېلارۇسىيە
+localeDisplayNamesterritoriesIDھىندونېزىيە
+localeDisplayNamesterritoriesCWكۇراچاۋ
+localeDisplayNamesterritoriesTWتەيۋەن
+localeDisplayNamesterritoriesADئاندوررا
+localeDisplayNamesterritoriesBGبۇلغارىيە
+localeDisplayNamesterritoriesBDبېنگال
+localeDisplayNamesterritoriesPSپەلەستىن
+localeDisplayNamesterritoriesMKماكېدونىيە (سابىق يۇگوسلاۋىيە ماكېدونىيە جۇمھۇرىيىتى)
+localeDisplayNamesterritories015شىمالىي ئافرىقا
+localeDisplayNamesterritoriesBRبىرازىلىيە
+localeDisplayNamesterritoriesBMبېرمۇدا
+localeDisplayNamesterritoriesFJفىجى
+localeDisplayNamesterritoriesOMئومان
+localeDisplayNamesterritories054مېلانېسىيە
+localeDisplayNamesterritoriesSVسالۋادور
+localeDisplayNamesterritoriesQAقاتار
+localeDisplayNamesterritoriesCFئوتتۇرا ئافرىقا جۇمھۇرىيىتى
+localeDisplayNamesterritoriesWSساموئا
+localeDisplayNamesterritoriesTKتوكېلاۋ
+localeDisplayNamesterritories034جەنۇبىي ئاسىيا
+localeDisplayNamesterritoriesLYلىۋىيە
+localeDisplayNamesterritoriesGFفىرانسىيەگە قاراشلىق گىۋىيانا
+localeDisplayNamesterritoriesBWبوتسۋانا
+localeDisplayNamesterritoriesZZيوچۇن جاي
+localeDisplayNamesterritoriesETئېفىيوپىيە
+localeDisplayNamesterritoriesGSجەنۇبىي جورجىيە ۋە جەنۇبىي ساندۋىچ ئاراللىرى
+localeDisplayNamesterritoriesPHفىلىپپىن
+localeDisplayNamesterritoriesNEنىگېر
+localeDisplayNamesterritoriesMOئاۋمېن
+localeDisplayNamesterritoriesFIفىنلاندىيە
+localeDisplayNamesterritoriesGMگامبىيە
+localeDisplayNamesterritoriesREرېيۇنىيون
+localeDisplayNamesterritoriesTLشەرقىي تىمور
+localeDisplayNamesterritoriesQOئوكيانىيە ئەتراپىدىكى ئاراللار
+localeDisplayNamesterritoriesTCتۇركس ۋە كايكوس ئاراللىرى
+localeDisplayNamesterritoriesNPنېپال
+localeDisplayNamesterritories017ئوتتۇرا ئافرىقا
+localeDisplayNamesterritoriesKIكىرىباتى
+localeDisplayNamesterritoriesMCموناكو
+localeDisplayNamesterritoriesSBسولومون ئاراللىرى
+localeDisplayNamesterritoriesEEئېستونىيە
+localeDisplayNamesterritoriesAEئەرەب بىرلەشمە خەلىپىلىكى
+localeDisplayNamesterritoriesPRپۇئېرتو رىكو
+localeDisplayNamesterritoriesTHتايلاند
+localeDisplayNamesterritoriesMPشىمالىي مارىيانا ئاراللىرى
+localeDisplayNamesterritories011غەربىي ئافرىقا
+localeDisplayNamesterritoriesMEقارا تاغ
+localeDisplayNamesterritoriesAUئاۋسترالىيە
+localeDisplayNamesterritoriesAXئالاند ئاراللىرى
+localeDisplayNamesterritoriesIMمان ئارىلى
+localeDisplayNamesterritoriesKHكامبودژا
+localeDisplayNamesterritoriesIOئەنگلىيەگە قاراشلىق ھىندى ئوكيان تېررىتورىيەسى
+localeDisplayNamesterritoriesNGنىگېرىيە
+localeDisplayNamesterritoriesDMدومىنىكا
+localeDisplayNamesterritoriesTFفىرانسىيەنىڭ جەنۇبىي زېمىنى
+localeDisplayNamesterritoriesTDچاد
+localeDisplayNamesterritoriesAWئارۇبا
+localeDisplayNamesterritoriesUAئۇكرائىنا
+localeDisplayNamesterritoriesMGماداغاسقار
+localeDisplayNamesterritoriesMXمېكسىكا
+localeDisplayNamesterritoriesDZئالجىرىيە
+localeDisplayNamesterritoriesCRكوستارىكا
+localeDisplayNamesterritoriesBFبۇركىنا فاسو
+localeDisplayNamesterritoriesGHگانا
+localeDisplayNamesterritoriesMZموزامبىك
+localeDisplayNamesterritoriesCZچېخ جۇمھۇرىيىتى
+localeDisplayNamesterritories053ئاۋسترالئاسىيا
+localeDisplayNamesterritoriesAGئانتىگۇئا ۋە باربۇدا

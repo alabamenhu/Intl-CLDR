@@ -1,0 +1,161 @@
+delimitersquotationStart«
+delimitersalternateQuotationEnd›
+delimitersquotationEnd»
+delimitersalternateQuotationStart‹
+numbersdefaultNumberingSystemstandardlatn
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort10000000000¤ 00G
+numberscurrencyFormatslatnshort100000000000¤ 000G
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort1000000000¤ 0G
+numberscurrencyFormatslatnshort10000¤ 00K
+numberscurrencyFormatslatnshort100000000000000¤ 000T
+numberscurrencyFormatslatnshort1000¤ 0K
+numberscurrencyFormatslatnshort10000000¤ 00M
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnshort100000¤ 000K
+numberscurrenciesXAFstandardFCFA
+numbersotherNumberingSystemsnativelatn
+numberssymbolslatndecimal,
+numberssymbolslatngroup.
+localeDisplayNamesterritoriesCMKamɛrun
+localeDisplayNameslanguagesenyaman
+localeDisplayNameslanguageskkjkakɔ
+localeDisplayNameslanguagesfrnumbu buy
+calendarsgenericavailableFormatsyyyyMddd/MM y GGGGG
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsGyMMMEdE d MMM y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdE d
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMMM y GGGGG
+calendarsgenericavailableFormatsyyyyMEdE dd/MM y GGGGG
+calendarsgenericavailableFormatsMddd/MM
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsGyMMMdd MMM y G
+calendarsgenericavailableFormatsMEdE dd/MM
+calendarsgenericavailableFormatsyyyyMMMEdE d MMM y G
+calendarsgenericavailableFormatsyyyyMMMdd MMM y G
+calendarsgenericavailableFormatsMMMEdE d MMM
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericdateFormatsfullstandardEEEE dd MMMM y G
+calendarsgenericdateFormatsshortstandarddd/MM y GGGGG
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgregoriandateFormatsshortstandarddd/MM y
+calendarsgregoriandateFormatsfullstandardEEEE dd MMMM y
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgregoriandaysstand-alonewidewedmɛrkɛrɛdi
+calendarsgregoriandaysstand-alonewidesunsɔndi
+calendarsgregoriandaysstand-alonewidefrivaŋdɛrɛdi
+calendarsgregoriandaysstand-alonewidesatmɔnɔ sɔndi
+calendarsgregoriandaysstand-alonewidethuyedi
+calendarsgregoriandaysstand-alonewidemonlundi
+calendarsgregoriandaysstand-alonewidetuemardi
+calendarsgregoriandaysstand-aloneabbreviatedfrivaŋdɛrɛdi
+calendarsgregoriandaysstand-aloneabbreviatedthuyedi
+calendarsgregoriandaysstand-aloneabbreviatedsatmɔnɔ sɔndi
+calendarsgregoriandaysstand-aloneabbreviatedmonlundi
+calendarsgregoriandaysstand-aloneabbreviatedtuemardi
+calendarsgregoriandaysstand-aloneabbreviatedwedmɛrkɛrɛdi
+calendarsgregoriandaysstand-aloneabbreviatedsunsɔndi
+calendarsgregoriandaysstand-alonenarrowwedmɛ
+calendarsgregoriandaysstand-alonenarrowsunso
+calendarsgregoriandaysstand-alonenarrowfriva
+calendarsgregoriandaysstand-alonenarrowthuye
+calendarsgregoriandaysstand-alonenarrowsatms
+calendarsgregoriandaysstand-alonenarrowmonlu
+calendarsgregoriandaysstand-alonenarrowtuema
+calendarsgregoriandaysstand-aloneshortsunso
+calendarsgregoriandaysstand-aloneshortwedmɛ
+calendarsgregoriandaysstand-aloneshortmonlu
+calendarsgregoriandaysstand-aloneshorttuema
+calendarsgregoriandaysstand-aloneshortfriva
+calendarsgregoriandaysstand-aloneshortthuye
+calendarsgregoriandaysstand-aloneshortsatms
+calendarsgregoriandaysformatshorttuemardi
+calendarsgregoriandaysformatshortmonlundi
+calendarsgregoriandaysformatshortthuyedi
+calendarsgregoriandaysformatshortsatmɔnɔ sɔndi
+calendarsgregoriandaysformatshortfrivaŋdɛrɛdi
+calendarsgregoriandaysformatshortsunsɔndi
+calendarsgregoriandaysformatshortwedmɛrkɛrɛdi
+calendarsgregoriandaysformatwidesunsɔndi
+calendarsgregoriandaysformatwidewedmɛrkɛrɛdi
+calendarsgregoriandaysformatwidetuemardi
+calendarsgregoriandaysformatwidemonlundi
+calendarsgregoriandaysformatwidesatmɔnɔ sɔndi
+calendarsgregoriandaysformatwidethuyedi
+calendarsgregoriandaysformatwidefrivaŋdɛrɛdi
+calendarsgregoriandaysformatabbreviatedsatmɔnɔ sɔndi
+calendarsgregoriandaysformatabbreviatedthuyedi
+calendarsgregoriandaysformatabbreviatedfrivaŋdɛrɛdi
+calendarsgregoriandaysformatabbreviatedtuemardi
+calendarsgregoriandaysformatabbreviatedmonlundi
+calendarsgregoriandaysformatabbreviatedwedmɛrkɛrɛdi
+calendarsgregoriandaysformatabbreviatedsunsɔndi
+calendarsgregoriandaysformatnarrowwedmɛ
+calendarsgregoriandaysformatnarrowsunso
+calendarsgregoriandaysformatnarrowsatms
+calendarsgregoriandaysformatnarrowthuye
+calendarsgregoriandaysformatnarrowfriva
+calendarsgregoriandaysformatnarrowtuema
+calendarsgregoriandaysformatnarrowmonlu
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregorianmonthsformatwide3mbiyɔ mɛndoŋgɔ
+calendarsgregorianmonthsformatwide1111
+calendarsgregorianmonthsformatwide12ɓulɓusɛ
+calendarsgregorianmonthsformatwide7kuŋgwɛ
+calendarsgregorianmonthsformatwide10nyukul
+calendarsgregorianmonthsformatwide1pamba
+calendarsgregorianmonthsformatwide6Nyaŋgwɛ ŋgbanja
+calendarsgregorianmonthsformatwide4Nyɔlɔmbɔŋgɔ
+calendarsgregorianmonthsformatwide9njapi
+calendarsgregorianmonthsformatwide8fɛ
+calendarsgregorianmonthsformatwide2wanja
+calendarsgregorianmonthsformatwide5Mɔnɔ ŋgbanja
+calendarsgregorianmonthsstand-alonewide5Mɔnɔ ŋgbanja
+calendarsgregorianmonthsstand-alonewide2wanja
+calendarsgregorianmonthsstand-alonewide8fɛ
+calendarsgregorianmonthsstand-alonewide9njapi
+calendarsgregorianmonthsstand-alonewide6Nyaŋgwɛ ŋgbanja
+calendarsgregorianmonthsstand-alonewide1pamba
+calendarsgregorianmonthsstand-alonewide4Nyɔlɔmbɔŋgɔ
+calendarsgregorianmonthsstand-alonewide10nyukul
+calendarsgregorianmonthsstand-alonewide12ɓulɓusɛ
+calendarsgregorianmonthsstand-alonewide7kuŋgwɛ
+calendarsgregorianmonthsstand-alonewide1111
+calendarsgregorianmonthsstand-alonewide3mbiyɔ mɛndoŋgɔ
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsMEdE dd/MM
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyMMM y
+calendarsgregorianavailableFormatsGyMMMdd MMM y G
+calendarsgregorianavailableFormatsMMMEdE d MMM
+calendarsgregorianavailableFormatsGyMMMEdE d MMM y G
+calendarsgregorianavailableFormatsyMMMEdE d MMM y
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsEdE d
+calendarsgregorianavailableFormatsyMMMdd MMM y
+calendarsgregorianavailableFormatsyMEdE dd/MM y
+calendarsgregorianavailableFormatsMddd/MM
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyMddd/MM y
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatsshortstandardHH:mm
+charactersexemplarCharactersindex[A B Ɓ C D Ɗ {Ɗy} E Ɛ F G {Gb} {Gw} H I {I\u0327} J K {Kp} {Kw} L M {Mb} N {Nd} ǋ {Ny} Ŋ {Ŋg} {Ŋgb} {Ŋgw} O Ɔ {Ɔ\u0327} P R S T U {U\u0327} V W Y]
+charactersexemplarCharactersauxiliary[q x z]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersstandard[a á à â {a\u0327} b ɓ c d ɗ {ɗy} e é è ê ɛ {ɛ\u0301} {ɛ\u0300} {ɛ\u0302} {ɛ\u0327} f g {gb} {gw} h i í ì î {i\u0327} j k {kp} {kw} l m {mb} n {nd} ǌ {ny} ŋ {ŋg} {ŋgb} {ŋgw} o ó ò ô ɔ {ɔ\u0301} {ɔ\u0300} {ɔ\u0302} {ɔ\u0327} p r s t u ú ù û {u\u0327} v w y]
+charactersexemplarCharacterspunctuation[, \: ! ? . … ‘ ‹ › “ ” « » ( ) *]
+listPatternsstandardstart{0}, {1}
+listPatternsstandardend{0}, {1}
+listPatternsstandardmiddle{0}, {1}

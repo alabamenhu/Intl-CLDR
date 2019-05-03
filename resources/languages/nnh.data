@@ -1,0 +1,167 @@
+calendarsgregoriandateFormatsmediumstandardd MMM, y
+calendarsgregoriandateFormatslongstandard'lyɛ'̌ʼ d 'na' MMMM, y
+calendarsgregoriandateFormatsshortstandarddd/MM/yy
+calendarsgregoriandateFormatsfullstandardEEEE , 'lyɛ'̌ʼ d 'na' MMMM, y
+calendarsgregoriandayPeriodsformatabbreviatedpmncwònzém
+calendarsgregoriandayPeriodsformatabbreviatedammbaʼámbaʼ
+calendarsgregoriandayPeriodsformatwidepmncwònzém
+calendarsgregoriandayPeriodsformatwideammbaʼámbaʼ
+calendarsgregoriandaysformatshorttuembɔ́ɔntè mvfò lyɛ̌ʼ
+calendarsgregoriandaysformatshortmonmvfò lyɛ̌ʼ
+calendarsgregoriandaysformatshortthumbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysformatshortsatmàga lyɛ̌ʼ
+calendarsgregoriandaysformatshortfrimvfò màga lyɛ̌ʼ
+calendarsgregoriandaysformatshortsunlyɛʼɛ́ sẅíŋtè
+calendarsgregoriandaysformatshortwedtsètsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysformatwidemonmvfò lyɛ̌ʼ
+calendarsgregoriandaysformatwidetuembɔ́ɔntè mvfò lyɛ̌ʼ
+calendarsgregoriandaysformatwidefrimvfò màga lyɛ̌ʼ
+calendarsgregoriandaysformatwidesatmàga lyɛ̌ʼ
+calendarsgregoriandaysformatwidethumbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysformatwidesunlyɛʼɛ́ sẅíŋtè
+calendarsgregoriandaysformatwidewedtsètsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysformatabbreviatedwedtsètsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysformatabbreviatedsunlyɛʼɛ́ sẅíŋtè
+calendarsgregoriandaysformatabbreviatedthumbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysformatabbreviatedsatmàga lyɛ̌ʼ
+calendarsgregoriandaysformatabbreviatedfrimvfò màga lyɛ̌ʼ
+calendarsgregoriandaysformatabbreviatedtuembɔ́ɔntè mvfò lyɛ̌ʼ
+calendarsgregoriandaysformatabbreviatedmonmvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneshortmonmvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneshorttuembɔ́ɔntè mvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneshortfrimvfò màga lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneshortthumbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneshortsatmàga lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneshortsunlyɛʼɛ́ sẅíŋtè
+calendarsgregoriandaysstand-aloneshortwedtsètsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysstand-alonewidewedtsètsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysstand-alonewidesunlyɛʼɛ́ sẅíŋtè
+calendarsgregoriandaysstand-alonewidefrimvfò màga lyɛ̌ʼ
+calendarsgregoriandaysstand-alonewidesatmàga lyɛ̌ʼ
+calendarsgregoriandaysstand-alonewidethumbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysstand-alonewidemonmvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-alonewidetuembɔ́ɔntè mvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneabbreviatedtuembɔ́ɔntè mvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneabbreviatedmonmvfò lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneabbreviatedthumbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneabbreviatedsatmàga lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneabbreviatedfrimvfò màga lyɛ̌ʼ
+calendarsgregoriandaysstand-aloneabbreviatedsunlyɛʼɛ́ sẅíŋtè
+calendarsgregoriandaysstand-aloneabbreviatedwedtsètsɛ̀ɛ lyɛ̌ʼ
+calendarsgregoriandateTimeFormatsfull{1},{0}
+calendarsgregoriandateTimeFormatslong{1}, {0}
+calendarsgregorianeraseraNames1mé gÿo ńzyé Yěsô
+calendarsgregorianeraseraNames0mé zyé Yěsô
+calendarsgregorianeraseraAbbr1m.g.n.Y.
+calendarsgregorianeraseraAbbr0m.z.Y.
+calendarsgregorianavailableFormatsyMEdE , 'lyɛ'̌ʼ d 'na' M, y
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsyMMMEdE , 'lyɛ'̌ʼ d 'na' MMM, y
+calendarsgregorianavailableFormatsyMMMd'lyɛ'̌ʼ d 'na' MMMM, y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianmonthsstand-alonewide10saŋ tàŋa tsetsáʼ
+calendarsgregorianmonthsstand-alonewide3saŋ lepyè shúm
+calendarsgregorianmonthsstand-alonewide7saŋ tyɛ̀b tyɛ̀b mbʉ̀ŋ
+calendarsgregorianmonthsstand-alonewide12saŋ lùm
+calendarsgregorianmonthsstand-alonewide11saŋ mejwoŋó
+calendarsgregorianmonthsstand-alonewide8saŋ mbʉ̀ŋ
+calendarsgregorianmonthsstand-alonewide2saŋ kàg ngwóŋ
+calendarsgregorianmonthsstand-alonewide5saŋ tsɛ̀ɛ cÿó
+calendarsgregorianmonthsstand-alonewide4saŋ cÿó
+calendarsgregorianmonthsstand-alonewide6saŋ njÿoláʼ
+calendarsgregorianmonthsstand-alonewide1saŋ tsetsɛ̀ɛ lùm
+calendarsgregorianmonthsstand-alonewide9saŋ ngwɔ̀ʼ mbÿɛ
+calendarsgregorianmonthsstand-aloneabbreviated9saŋ ngwɔ̀ʼ mbÿɛ
+calendarsgregorianmonthsstand-aloneabbreviated6saŋ njÿoláʼ
+calendarsgregorianmonthsstand-aloneabbreviated4saŋ cÿó
+calendarsgregorianmonthsstand-aloneabbreviated1saŋ tsetsɛ̀ɛ lùm
+calendarsgregorianmonthsstand-aloneabbreviated5saŋ tsɛ̀ɛ cÿó
+calendarsgregorianmonthsstand-aloneabbreviated8saŋ mbʉ̀ŋ
+calendarsgregorianmonthsstand-aloneabbreviated2saŋ kàg ngwóŋ
+calendarsgregorianmonthsstand-aloneabbreviated12saŋ lùm
+calendarsgregorianmonthsstand-aloneabbreviated7saŋ tyɛ̀b tyɛ̀b mbʉ̀ŋ
+calendarsgregorianmonthsstand-aloneabbreviated11saŋ mejwoŋó
+calendarsgregorianmonthsstand-aloneabbreviated3saŋ lepyè shúm
+calendarsgregorianmonthsstand-aloneabbreviated10saŋ tàŋa tsetsáʼ
+calendarsgregorianmonthsformatwide3saŋ lepyè shúm
+calendarsgregorianmonthsformatwide12saŋ lùm
+calendarsgregorianmonthsformatwide7saŋ tyɛ̀b tyɛ̀b mbʉ̀ŋ
+calendarsgregorianmonthsformatwide11saŋ mejwoŋó
+calendarsgregorianmonthsformatwide10saŋ tàŋa tsetsáʼ
+calendarsgregorianmonthsformatwide4saŋ cÿó
+calendarsgregorianmonthsformatwide6saŋ njÿoláʼ
+calendarsgregorianmonthsformatwide1saŋ tsetsɛ̀ɛ lùm
+calendarsgregorianmonthsformatwide9saŋ ngwɔ̀ʼ mbÿɛ
+calendarsgregorianmonthsformatwide8saŋ mbʉ̀ŋ
+calendarsgregorianmonthsformatwide2saŋ kàg ngwóŋ
+calendarsgregorianmonthsformatwide5saŋ tsɛ̀ɛ cÿó
+calendarsgregorianmonthsformatabbreviated1saŋ tsetsɛ̀ɛ lùm
+calendarsgregorianmonthsformatabbreviated6saŋ njÿoláʼ
+calendarsgregorianmonthsformatabbreviated4saŋ cÿó
+calendarsgregorianmonthsformatabbreviated9saŋ ngwɔ̀ʼ mbÿɛ
+calendarsgregorianmonthsformatabbreviated8saŋ mbʉ̀ŋ
+calendarsgregorianmonthsformatabbreviated2saŋ kàg ngwóŋ
+calendarsgregorianmonthsformatabbreviated5saŋ tsɛ̀ɛ cÿó
+calendarsgregorianmonthsformatabbreviated3saŋ lepyè shúm
+calendarsgregorianmonthsformatabbreviated12saŋ lùm
+calendarsgregorianmonthsformatabbreviated11saŋ mejwoŋó
+calendarsgregorianmonthsformatabbreviated7saŋ tyɛ̀b tyɛ̀b mbʉ̀ŋ
+calendarsgregorianmonthsformatabbreviated10saŋ tàŋa tsetsáʼ
+calendarsgenericavailableFormatsyMMMMMM y
+calendarsgenericavailableFormatsyMdd/M/y
+calendarsgenericavailableFormatsyMEdE , 'lyɛ'̌ʼ d 'na' M, y
+calendarsgenericavailableFormatsyMMMd'lyɛ'̌ʼ d 'na' MMMM, y
+calendarsgenericavailableFormatsyMMMEdE , 'lyɛ'̌ʼ d 'na' MMM, y
+calendarsgenericdateFormatsshortstandarddd/MM/yy GGGGG
+calendarsgenericdateFormatsfullstandardEEEE , 'lyɛ'̌ʼ d 'na' MMMM, y G
+calendarsgenericdateFormatsmediumstandardd MMM, y G
+calendarsgenericdateFormatslongstandard'lyɛ'̌ʼ d 'na' MMMM, y G
+calendarsgenericdateTimeFormatslong{1}, {0}
+calendarsgenericdateTimeFormatsfull{1},{0}
+localeDisplayNamesmeasurementSystemNamesmetricfʉ̀ʼʉ mmó
+localeDisplayNamesterritoriesCMKàmalûm
+localeDisplayNameslanguageskkjShwóŋò pʉa shÿó Bɛgtùa
+localeDisplayNameslanguagesbbjShwóŋò pʉa nzsekàʼa
+localeDisplayNameslanguagesfrfelaŋsée
+localeDisplayNameslanguagesbumShwóŋò mbulu
+localeDisplayNameslanguagesewoShwóŋò pʉa Yɔɔnmendi
+localeDisplayNameslanguagesbssShwóŋò pakɔsi
+localeDisplayNameslanguagesyavShwóŋò pʉa shÿó Mbafìa
+localeDisplayNameslanguagesnnhShwóŋò ngiembɔɔn
+localeDisplayNameslanguagesbkmShwóŋò pʉ̀a njinikom
+localeDisplayNameslanguagesybbShwóŋò Tsaŋ
+localeDisplayNameslanguagesbfdShwóŋò pafud
+localeDisplayNameslanguagesffShwóŋò menkesaŋ
+localeDisplayNameslanguagesbyvShwóŋò ngáŋtÿɔʼ
+localeDisplayNameslanguagesenngilísè
+localeDisplayNameslanguagesdenzǎmɔ̂ɔn
+localeDisplayNameslanguagesbasShwóŋò pʉa mbasǎ
+localeDisplayNameslanguagesbaxShwóŋò pamom
+charactersexemplarCharactersauxiliary[q r x]
+charactersexemplarCharactersindex[A B C D E Ɛ F G H I J K L M N Ŋ O Ɔ P {Pf} R S {Sh} T {Ts} U Ʉ V W Ẅ Y Ÿ Z ʼ]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharacterspunctuation[, ; \: ! ? . ' ‘ ’ « »]
+charactersexemplarCharactersstandard[a á à â ǎ b c d e é è ê ě ɛ {ɛ\u0301} {ɛ\u0300} {ɛ\u0302} {ɛ\u030C} f g h i í ì j k l m ḿ n ń ŋ o ó ò ô ǒ ɔ {ɔ\u0301} {ɔ\u0300} {ɔ\u0302} {ɔ\u030C} p {pf} s {sh} t {ts} u ú ù û ǔ ʉ {ʉ\u0301} {ʉ\u0300} {ʉ\u0302} {ʉ\u030C} v w ẅ y ÿ z ʼ]
+delimitersalternateQuotationStart“
+delimitersquotationEnd»
+delimitersalternateQuotationEnd”
+delimitersquotationStart«
+numberscurrenciesXAFstandardFCFA
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numberscurrencyFormatslatnshort1000¤ 0K
+numberscurrencyFormatslatnshort10000000¤ 00M
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnshort100000¤ 000K
+numberscurrencyFormatslatnshort1000000000¤ 0G
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort100000000000000¤ 000T
+numberscurrencyFormatslatnshort10000¤ 00K
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnshort10000000000¤ 00G
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort100000000000¤ 000G
+numberssymbolslatnpercentSign%
+numberssymbolslatngroup.
+numberssymbolslatnlist;
+numberssymbolslatndecimal,
+numbersdecimalFormatslatnstandardstandard#,##0.###

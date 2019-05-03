@@ -1,0 +1,186 @@
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+delimitersalternateQuotationEnd’
+delimitersquotationStart“
+unitslongunitduration-weekdisplayNamevigs
+unitslongunitduration-yearpatternotheryels {0}
+unitslongunitduration-yearpatternoneyel {0}
+unitslongunitduration-yeardisplayNameyels
+unitslongunitduration-monthpatternonemul {0}
+unitslongunitduration-monthpatternothermuls {0}
+unitslongunitduration-monthdisplayNamemuls
+unitslongunitduration-daydisplayNamedels
+charactersexemplarCharactersauxiliary[q w]
+charactersexemplarCharactersindex[A Ä B C D E F G H I J K L M N O Ö P R S T U Ü V X Y Z]
+charactersexemplarCharactersstandard[a ä b c d e f g h i j k l m n o ö p r s t u ü v x y z]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” « » ( ) \[ \] \{ \} § @ * / \&amp; #]
+charactersellipsismedial{0} … {1}
+charactersellipsisfinal{0}…
+charactersellipsisinitial… {0}
+posixmessagesyesstrsi:s
+posixmessagesnostrno:n
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregorianeraseraNames1p. t. kr.
+calendarsgregorianeraseraNames0b. t. kr.
+calendarsgregorianeraseraAbbr0b. t. kr.
+calendarsgregorianeraseraAbbr1p. t. kr.
+calendarsgregorianmonthsformatnarrow2F
+calendarsgregorianmonthsformatnarrow8G
+calendarsgregorianmonthsformatnarrow5M
+calendarsgregorianmonthsformatnarrow4P
+calendarsgregorianmonthsformatnarrow6Y
+calendarsgregorianmonthsformatnarrow1Y
+calendarsgregorianmonthsformatnarrow9S
+calendarsgregorianmonthsformatnarrow10T
+calendarsgregorianmonthsformatnarrow3M
+calendarsgregorianmonthsformatnarrow12D
+calendarsgregorianmonthsformatnarrow11N
+calendarsgregorianmonthsformatnarrow7Y
+calendarsgregorianmonthsformatabbreviated9set
+calendarsgregorianmonthsformatabbreviated6yun
+calendarsgregorianmonthsformatabbreviated4prl
+calendarsgregorianmonthsformatabbreviated1yan
+calendarsgregorianmonthsformatabbreviated5may
+calendarsgregorianmonthsformatabbreviated8gst
+calendarsgregorianmonthsformatabbreviated2feb
+calendarsgregorianmonthsformatabbreviated7yul
+calendarsgregorianmonthsformatabbreviated12dek
+calendarsgregorianmonthsformatabbreviated11nov
+calendarsgregorianmonthsformatabbreviated3mäz
+calendarsgregorianmonthsformatabbreviated10ton
+calendarsgregorianmonthsformatwide5mayul
+calendarsgregorianmonthsformatwide2febul
+calendarsgregorianmonthsformatwide8gustul
+calendarsgregorianmonthsformatwide9setul
+calendarsgregorianmonthsformatwide6yunul
+calendarsgregorianmonthsformatwide1yanul
+calendarsgregorianmonthsformatwide4prilul
+calendarsgregorianmonthsformatwide10tobul
+calendarsgregorianmonthsformatwide7yulul
+calendarsgregorianmonthsformatwide12dekul
+calendarsgregorianmonthsformatwide11novul
+calendarsgregorianmonthsformatwide3mäzul
+calendarsgregorianmonthsstand-alonenarrow4P
+calendarsgregorianmonthsstand-alonenarrow6Y
+calendarsgregorianmonthsstand-alonenarrow1Y
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow8G
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonenarrow12D
+calendarsgregorianmonthsstand-alonenarrow7Y
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow10T
+calendarsgregorianmonthsstand-alonewide9setul
+calendarsgregorianmonthsstand-alonewide4prilul
+calendarsgregorianmonthsstand-alonewide6yunul
+calendarsgregorianmonthsstand-alonewide1yanul
+calendarsgregorianmonthsstand-alonewide5mayul
+calendarsgregorianmonthsstand-alonewide2febul
+calendarsgregorianmonthsstand-alonewide8gustul
+calendarsgregorianmonthsstand-alonewide12dekul
+calendarsgregorianmonthsstand-alonewide7yulul
+calendarsgregorianmonthsstand-alonewide11novul
+calendarsgregorianmonthsstand-alonewide3mäzul
+calendarsgregorianmonthsstand-alonewide10tobul
+calendarsgregorianmonthsstand-aloneabbreviated4prl
+calendarsgregorianmonthsstand-aloneabbreviated6yun
+calendarsgregorianmonthsstand-aloneabbreviated1yan
+calendarsgregorianmonthsstand-aloneabbreviated9set
+calendarsgregorianmonthsstand-aloneabbreviated8gst
+calendarsgregorianmonthsstand-aloneabbreviated2feb
+calendarsgregorianmonthsstand-aloneabbreviated5may
+calendarsgregorianmonthsstand-aloneabbreviated3mäz
+calendarsgregorianmonthsstand-aloneabbreviated7yul
+calendarsgregorianmonthsstand-aloneabbreviated12dek
+calendarsgregorianmonthsstand-aloneabbreviated11nov
+calendarsgregorianmonthsstand-aloneabbreviated10tob
+calendarsgregoriandaysformatwidesunsudel
+calendarsgregoriandaysformatwidewedvedel
+calendarsgregoriandaysformatwidetuetudel
+calendarsgregoriandaysformatwidemonmudel
+calendarsgregoriandaysformatwidethudödel
+calendarsgregoriandaysformatwidesatzädel
+calendarsgregoriandaysformatwidefrifridel
+calendarsgregoriandaysformatabbreviatedsunsu.
+calendarsgregoriandaysformatabbreviatedwedve.
+calendarsgregoriandaysformatabbreviatedtuetu.
+calendarsgregoriandaysformatabbreviatedmonmu.
+calendarsgregoriandaysformatabbreviatedthudö.
+calendarsgregoriandaysformatabbreviatedsatzä.
+calendarsgregoriandaysformatabbreviatedfrifr.
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowwedV
+calendarsgregoriandaysstand-alonenarrowtueT
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowsatZ
+calendarsgregoriandaysstand-alonenarrowthuD
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonewidewedvedel
+calendarsgregoriandaysstand-alonewidesunsudel
+calendarsgregoriandaysstand-alonewidefrifridel
+calendarsgregoriandaysstand-alonewidethudödel
+calendarsgregoriandaysstand-alonewidesatzädel
+calendarsgregoriandaysstand-alonewidemonmudel
+calendarsgregoriandaysstand-alonewidetuetudel
+calendarsgregoriandaysstand-aloneabbreviatedsatZä
+calendarsgregoriandaysstand-aloneabbreviatedthuDö
+calendarsgregoriandaysstand-aloneabbreviatedfriFr
+calendarsgregoriandaysstand-aloneabbreviatedtueTu
+calendarsgregoriandaysstand-aloneabbreviatedmonMu
+calendarsgregoriandaysstand-aloneabbreviatedwedVe
+calendarsgregoriandaysstand-aloneabbreviatedsunSu
+calendarsgregorianquartersformatwide33id yelafoldil
+calendarsgregorianquartersformatwide44id yelafoldil
+calendarsgregorianquartersformatwide11id yelafoldil
+calendarsgregorianquartersformatwide22id yelafoldil
+calendarsgregorianquartersformatabbreviated3Yf3
+calendarsgregorianquartersformatabbreviated1Yf1
+calendarsgregorianquartersformatabbreviated4Yf4
+calendarsgregorianquartersformatabbreviated2Yf2
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregoriandateFormatslongstandardy MMMM d
+calendarsgregoriandateFormatsmediumstandardy MMM. d
+calendarsgregoriandateFormatsfullstandardy MMMM'a' 'd'. d'id'
+calendarsgregoriandateFormatsshortstandardy-MM-dd
+calendarsgenericdateFormatslongstandardG y MMMM d
+calendarsgenericdateFormatsmediumstandardG y MMM. d
+calendarsgenericdateFormatsfullstandardG y MMMM'a' 'd'. d'id'
+calendarsgenericdateFormatsshortstandardGGGGG y-MM-dd
+localeDisplayNamesterritoriesMXMäxikän
+localeDisplayNamesterritoriesBRBrasilän
+localeDisplayNamesterritoriesNRNaureän
+localeDisplayNamesterritoriesCNTsyinän
+localeDisplayNamesterritoriesUSLamerikän
+localeDisplayNamesterritoriesINLindän
+localeDisplayNamesterritoriesGEGrusiyän
+localeDisplayNamesterritoriesGRGrikän
+localeDisplayNamesterritoriesGBRegän Pebalöl
+localeDisplayNamesterritoriesPWPalauäns
+localeDisplayNamesterritoriesRURusän
+localeDisplayNamesterritoriesPTPortugän
+localeDisplayNamesterritoriesFRFransän
+localeDisplayNamesterritoriesDEDeutän
+localeDisplayNamesterritoriesESSpanyän
+localeDisplayNamesterritoriesITLitaliyän
+localeDisplayNamesterritoriesJPYapän
+localeDisplayNamescodePatternslanguagePük: {0}
+localeDisplayNamescodePatternsterritoryTopäd: {0}
+localeDisplayNameslanguagesesSpanyänapük
+localeDisplayNameslanguageszhTsyinänapük
+localeDisplayNameslanguagesjaYapänapük
+localeDisplayNameslanguagesruRusänapük
+localeDisplayNameslanguagesvoVolapük
+localeDisplayNameslanguagesitLitaliyänapük
+localeDisplayNameslanguagesdeDeutänapük
+localeDisplayNameslanguagesenLinglänapük
+localeDisplayNameslanguagesfrFransänapük
+localeDisplayNameslanguagesptPortugänapük
+localeDisplayNameslanguageseoSperantapük

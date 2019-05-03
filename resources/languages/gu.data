@@ -1,0 +1,3440 @@
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} કિપ્રક
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0} કિપ્રક
+unitsnarrowunitspeed-kilometer-per-hourdisplayNameકિમી/કલાક
+unitsnarrowunitpower-wattpatternone{0} W
+unitsnarrowunitpower-wattpatternother{0} W
+unitsnarrowunitlength-mile-scandinavianpatternother{0}smi
+unitsnarrowunitlength-mile-scandinavianpatternone{0}smi
+unitsnarrowunitlength-mile-scandinaviandisplayNamesmi
+unitsnarrowunitlength-miledisplayNameમાઇલ
+unitsnarrowunitlength-milepatternother{0} માઇલ
+unitsnarrowunitlength-milepatternone{0} માઇલ
+unitsnarrowunitlength-footdisplayNameફૂટ
+unitsnarrowunitlength-footperUnitPattern{0}/ફૂટ
+unitsnarrowunitlength-footpatternother{0} '
+unitsnarrowunitlength-footpatternone{0} '
+unitsnarrowunitlength-millimeterdisplayNameમિમી
+unitsnarrowunitlength-millimeterpatternone{0} મિમી
+unitsnarrowunitlength-millimeterpatternother{0} મિમી
+unitsnarrowunitduration-monthdisplayNameમહિના
+unitsnarrowunitduration-monthpatternone{0} મ
+unitsnarrowunitduration-monthpatternother{0} મ
+unitsnarrowunitduration-yeardisplayNameવર્ષ
+unitsnarrowunitduration-yearpatternother{0} વ
+unitsnarrowunitduration-yearpatternone{0} વ
+unitsnarrowunitarea-square-meterpatternother{0} m²
+unitsnarrowunitarea-square-meterpatternone{0} m²
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunittemperature-celsiuspatternone{0}°C
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunitpower-horsepowerpatternone{0} hp
+unitsnarrowunitpower-horsepowerpatternother{0} hp
+unitsnarrowunitlength-light-yearpatternone{0}પ્રકાશવર્ષ
+unitsnarrowunitlength-light-yearpatternother{0}પ્રકાશવર્ષ
+unitsnarrowunitmass-ouncedisplayNameઔંસ
+unitsnarrowunitmass-ounceperUnitPattern{0}/ઔંસ
+unitsnarrowunitmass-ouncepatternone{0} ઔંશ
+unitsnarrowunitmass-ouncepatternother{0} ઔંશ
+unitsnarrowunitlength-decimeterpatternone{0} ડેમી
+unitsnarrowunitlength-decimeterpatternother{0} ડેમી
+unitsnarrowunitlength-decimeterdisplayNameડેમી
+unitsnarrowunitarea-square-milepatternone{0} mi²
+unitsnarrowunitarea-square-milepatternother{0} mi²
+unitsnarrowunitlength-kilometerpatternother{0} કિમી
+unitsnarrowunitlength-kilometerpatternone{0} કિમી
+unitsnarrowunitlength-kilometerdisplayNameકિમી
+unitsnarrowunitlength-kilometerperUnitPattern{0}/કિમી
+unitsnarrowunitduration-weekpatternone{0} અઠ.
+unitsnarrowunitduration-weekpatternother{0} અઠ.
+unitsnarrowunitduration-weekdisplayNameઅઠવાડિયા
+unitsnarrowunitlength-centimeterperUnitPattern{0}/સેમી
+unitsnarrowunitlength-centimeterdisplayNameસેમી
+unitsnarrowunitlength-centimeterpatternother{0} સેમી
+unitsnarrowunitlength-centimeterpatternone{0} સેમી
+unitsnarrowunitmass-poundperUnitPattern{0}/પાઉન્ડ
+unitsnarrowunitmass-pounddisplayNameપાઉન્ડ
+unitsnarrowunitmass-poundpatternone{0} પાઉન્ડ
+unitsnarrowunitmass-poundpatternother{0} પાઉન્ડ
+unitsnarrowunitmass-grampatternother{0} ગ્રા
+unitsnarrowunitmass-grampatternone{0} ગ્રા
+unitsnarrowunitmass-gramperUnitPattern{0}/ગ્રામ
+unitsnarrowunitmass-gramdisplayNameગ્રામ
+unitsnarrowunitduration-hourpatternother{0} ક
+unitsnarrowunitduration-hourpatternone{0} ક
+unitsnarrowunitduration-hourperUnitPattern{0}/ક
+unitsnarrowunitduration-hourdisplayNameકલાક
+unitsnarrowunitvolume-literdisplayNameલિટર
+unitsnarrowunitvolume-literpatternone{0} લિ
+unitsnarrowunitvolume-literpatternother{0} લિ
+unitsnarrowunitpower-kilowattpatternone{0} kW
+unitsnarrowunitpower-kilowattpatternother{0} kW
+unitsnarrowunitangle-arc-minutepatternone{0}′
+unitsnarrowunitangle-arc-minutepatternother{0}′
+unitsnarrowunitangle-arc-secondpatternone{0}″
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunitvolume-cubic-milepatternone{0} mi³
+unitsnarrowunitvolume-cubic-milepatternother{0} mi³
+unitsnarrowunitspeed-mile-per-hourpatternone{0} mi/h
+unitsnarrowunitspeed-mile-per-hourpatternother{0} mi/h
+unitsnarrowunitspeed-mile-per-hourdisplayNameમાઇલ/કલાક
+unitsnarrowunitarea-acrepatternone{0} ac
+unitsnarrowunitarea-acrepatternother{0} ac
+unitsnarrowunitlength-picometerpatternone{0}પિસૉ.મી
+unitsnarrowunitlength-picometerpatternother{0}પિસૉ.મી
+unitsnarrowunitconcentr-percentdisplayName%
+unitsnarrowunitconcentr-percentpatternone{0}%
+unitsnarrowunitconcentr-percentpatternother{0}%
+unitsnarrowunitarea-hectarepatternother{0} ha
+unitsnarrowunitarea-hectarepatternone{0} ha
+unitsnarrowunitangle-degreepatternother{0}°
+unitsnarrowunitangle-degreepatternone{0}°
+unitsnarrowunitangle-degreedisplayNameઅંશ
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNameલિ/100 કિમી
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0}લિ/100કિમી
+unitsnarrowunitconsumption-liter-per-100kilometerspatternone{0}લિ/100કિમી
+unitsnarrowunitpressure-hectopascalpatternone{0} hPa
+unitsnarrowunitpressure-hectopascalpatternother{0} hPa
+unitsnarrowunitduration-seconddisplayNameસેકંડ
+unitsnarrowunitduration-secondperUnitPattern{0}/સે
+unitsnarrowunitduration-secondpatternother{0} સે
+unitsnarrowunitduration-secondpatternone{0} સે
+unitsnarrowunitarea-square-footpatternother{0} ft²
+unitsnarrowunitarea-square-footpatternone{0} ft²
+unitsnarrowunitarea-square-kilometerpatternother{0} km²
+unitsnarrowunitarea-square-kilometerpatternone{0} km²
+unitsnarrowunitacceleration-g-forcepatternone{0} G
+unitsnarrowunitacceleration-g-forcepatternother{0} G
+unitsnarrowunitspeed-meter-per-secondpatternother{0} m/s
+unitsnarrowunitspeed-meter-per-secondpatternone{0} m/s
+unitsnarrowunitspeed-meter-per-seconddisplayNameમીટર/સેકન્ડ
+unitsnarrowunitvolume-cubic-kilometerpatternone{0} km³
+unitsnarrowunitvolume-cubic-kilometerpatternother{0} km³
+unitsnarrowunitlength-inchpatternother{0} &quot;
+unitsnarrowunitlength-inchpatternone{0} &quot;
+unitsnarrowunitlength-inchdisplayNameઇંચ
+unitsnarrowunitlength-inchperUnitPattern{0}/ઈંચ
+unitsnarrowunitmass-stonedisplayNameસ્ટોન્સ
+unitsnarrowunitmass-stonepatternother{0}સ્ટોન
+unitsnarrowunitmass-stonepatternone{0}સ્ટોન
+unitsnarrowunitpressure-millibarpatternother{0}મિલીબાર
+unitsnarrowunitpressure-millibarpatternone{0}મિલીબાર
+unitsnarrowunitpressure-inch-hgpatternother{0} inHg
+unitsnarrowunitpressure-inch-hgpatternone{0} inHg
+unitsnarrowunitmass-kilogrampatternother{0} કિગ્રા
+unitsnarrowunitmass-kilogrampatternone{0} કિગ્રા
+unitsnarrowunitmass-kilogramdisplayNameકિગ્રા
+unitsnarrowunitmass-kilogramperUnitPattern{0}/કિગ્રા
+unitsnarrowunitlength-yarddisplayNameવાર
+unitsnarrowunitlength-yardpatternone{0} વાર
+unitsnarrowunitlength-yardpatternother{0} વાર
+unitsnarrowunitlength-meterpatternother{0} મી
+unitsnarrowunitlength-meterpatternone{0} મી
+unitsnarrowunitlength-meterdisplayNameમી
+unitsnarrowunitlength-meterperUnitPattern{0}/મી
+unitsnarrowunitduration-minutepatternother{0} મિ
+unitsnarrowunitduration-minutepatternone{0} મિ
+unitsnarrowunitduration-minutedisplayNameમિનિટ
+unitsnarrowunitduration-minuteperUnitPattern{0}/મિ
+unitsnarrowunitduration-millisecondpatternother{0} મિસે
+unitsnarrowunitduration-millisecondpatternone{0} મિસે
+unitsnarrowunitduration-milliseconddisplayNameમિલિસેકન્ડ
+unitsnarrowunitduration-dayperUnitPattern{0}/ દિ
+unitsnarrowunitduration-daydisplayNameદિવસ
+unitsnarrowunitduration-daypatternone{0} દિ
+unitsnarrowunitduration-daypatternother{0} દિ
+unitsnarrowcoordinateUnitnorth{0}ઉ
+unitsnarrowcoordinateUnitdisplayNameદિશા
+unitsnarrowcoordinateUnitsouth{0}દ
+unitsnarrowcoordinateUniteast{0}પૂ
+unitsnarrowcoordinateUnitwest{0}પ
+unitslongcoordinateUnitdisplayNameમુખ્ય દિશા
+unitslongcoordinateUnitsouth{0}દક્ષિણ
+unitslongcoordinateUnitnorth{0}ઉત્તર
+unitslongcoordinateUnitwest{0}પશ્ચિમ
+unitslongcoordinateUniteast{0}પૂર્વ
+unitslongunitduration-minuteperUnitPattern{0} પ્રતિ મિનિટ
+unitslongunitduration-minutedisplayNameમિનિટ
+unitslongunitduration-minutepatternother{0} મિનિટ
+unitslongunitduration-minutepatternone{0} મિનિટ
+unitslongunitlength-meterdisplayNameમીટર
+unitslongunitlength-meterperUnitPattern{0} પ્રતિ મીટર
+unitslongunitlength-meterpatternone{0} મીટર
+unitslongunitlength-meterpatternother{0} મીટર
+unitslongunitpressure-millibarpatternother{0} મિલિબાર
+unitslongunitpressure-millibarpatternone{0} મિલિબાર
+unitslongunitpressure-millibardisplayNameમિલિબાર
+unitslongunitvolume-teaspoonpatternother{0} ટીસ્પૂન
+unitslongunitvolume-teaspoonpatternone{0} ટીસ્પૂન
+unitslongunitvolume-teaspoondisplayNameટીસ્પૂન
+unitslongunitduration-daypatternone{0} દિવસ
+unitslongunitduration-daypatternother{0} દિવસ
+unitslongunitduration-dayperUnitPattern{0} પ્રતિ દિવસ
+unitslongunitduration-daydisplayNameદિવસ
+unitslongunitlength-yarddisplayNameવાર
+unitslongunitlength-yardpatternone{0} વાર
+unitslongunitlength-yardpatternother{0} વાર
+unitslongunitmass-kilogrampatternone{0} કિલોગ્રામ
+unitslongunitmass-kilogrampatternother{0} કિલોગ્રામ
+unitslongunitmass-kilogramdisplayNameકિલોગ્રામ
+unitslongunitmass-kilogramperUnitPattern{0} પ્રતિ કિલોગ્રામ
+unitslongunitpressure-inch-hgdisplayNameપારાના ઇંચ
+unitslongunitpressure-inch-hgpatternother{0} પારાના ઇંચ
+unitslongunitpressure-inch-hgpatternone{0} પારાના ઇંચ
+unitslongunitduration-millisecondpatternone{0} મિલિસેકન્ડ
+unitslongunitduration-millisecondpatternother{0} મિલિસેકન્ડ
+unitslongunitduration-milliseconddisplayNameમિલિસેકન્ડ
+unitslongunitvolume-centiliterpatternother{0} સેન્ટિલીટર
+unitslongunitvolume-centiliterpatternone{0} સેન્ટિલીટર
+unitslongunitvolume-centiliterdisplayNameસેન્ટિલીટર
+unitslongunitdigital-terabitpatternone{0} ટેરાબિટ
+unitslongunitdigital-terabitpatternother{0} ટેરાબિટ
+unitslongunitdigital-terabitdisplayNameટેરાબિટ
+unitslongunitvolume-cubic-yarddisplayNameઘન વાર
+unitslongunitvolume-cubic-yardpatternone{0} ઘન વાર
+unitslongunitvolume-cubic-yardpatternother{0} ઘન વાર
+unitslongunitmass-stonedisplayNameસ્ટોન્સ
+unitslongunitmass-stonepatternone{0} સ્ટોન
+unitslongunitmass-stonepatternother{0} સ્ટોન્સ
+unitslongunitvolume-quartpatternother{0} ક્વાર્ટ
+unitslongunitvolume-quartpatternone{0} ક્વાર્ટ
+unitslongunitvolume-quartdisplayNameક્વાર્ટ
+unitslongunitvolume-cubic-footpatternone{0} ઘન ફૂટ
+unitslongunitvolume-cubic-footpatternother{0} ઘન ફૂટ
+unitslongunitvolume-cubic-footdisplayNameઘન ફૂટ
+unitslongunitvolume-cubic-centimeterpatternother{0} ઘન સેન્ટિમીટર
+unitslongunitvolume-cubic-centimeterpatternone{0} ઘન સેન્ટિમીટર
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} પ્રતિ ઘન સેન્ટિમીટર
+unitslongunitvolume-cubic-centimeterdisplayNameઘન સેન્ટિમીટર
+unitslongunitconsumption-mile-per-gallonpatternother{0} માઇલ પ્રતિ ગૅલન
+unitslongunitconsumption-mile-per-gallonpatternone{0} માઇલ પ્રતિ ગૅલન
+unitslongunitconsumption-mile-per-gallondisplayNameમાઇલ પ્રતિ ગૅલન
+unitslongunitenergy-kilocaloriepatternother{0} કિલોકેલરી
+unitslongunitenergy-kilocaloriepatternone{0} કિલોકેલરી
+unitslongunitenergy-kilocaloriedisplayNameકિલોકેલરી
+unitslongunitlength-nanometerdisplayNameનેનોમીટર
+unitslongunitlength-nanometerpatternother{0} નેનોમીટર
+unitslongunitlength-nanometerpatternone{0} નેનોમીટર
+unitslongunitmass-tonpatternother{0} ટન
+unitslongunitmass-tonpatternone{0} ટન
+unitslongunitmass-tondisplayNameટન
+unitslongunitduration-microsecondpatternother{0} માઇક્રોસેકંડ
+unitslongunitduration-microsecondpatternone{0} માઇક્રોસેકંડ
+unitslongunitduration-microseconddisplayNameમાઇક્રોસેકંડ
+unitslongunitvolume-pintpatternother{0} પિન્ટ
+unitslongunitvolume-pintpatternone{0} પિન્ટ
+unitslongunitvolume-pintdisplayNameપિન્ટ
+unitslongunitvolume-pint-metricdisplayNameમેટ્રિક પિન્ટ
+unitslongunitvolume-pint-metricpatternother{0} મેટ્રિક પિન્ટ
+unitslongunitvolume-pint-metricpatternone{0} મેટ્રિક પિન્ટ
+unitslongunitenergy-kilowatt-hourpatternone{0} કિલોવૉટ કલાક
+unitslongunitenergy-kilowatt-hourpatternother{0} કિલોવૉટ-કલાક
+unitslongunitenergy-kilowatt-hourdisplayNameકિલોવૉટ-કલાક
+unitslongunitfrequency-hertzdisplayNameહર્ટ્ઝ
+unitslongunitfrequency-hertzpatternother{0} હર્ટ્ઝ
+unitslongunitfrequency-hertzpatternone{0} હર્ટ્ઝ
+unitslongunitarea-square-inchpatternother{0} ચોરસ ઇંચ
+unitslongunitarea-square-inchpatternone{0} ચોરસ ઇંચ
+unitslongunitarea-square-inchperUnitPattern{0} પ્રતિ ચોરસ ઈંચ
+unitslongunitarea-square-inchdisplayNameચોરસ ઇંચ
+unitslongunitlength-inchpatternother{0} ઇંચ
+unitslongunitlength-inchpatternone{0} ઇંચ
+unitslongunitlength-inchdisplayNameઇંચ
+unitslongunitlength-inchperUnitPattern{0} પ્રતિ ઈંચ
+unitslongunitpressure-atmospheredisplayNameવાતાવરણ
+unitslongunitpressure-atmospherepatternone{0} વાતાવરણ
+unitslongunitpressure-atmospherepatternother{0} વાતાવરણ
+unitslongunitvolume-cubic-kilometerpatternone{0} ઘન કિલોમીટર
+unitslongunitvolume-cubic-kilometerpatternother{0} ઘન કિલોમીટર
+unitslongunitvolume-cubic-kilometerdisplayNameઘન કિલોમીટર
+unitslongunitelectric-amperedisplayNameએમ્પીયર
+unitslongunitelectric-amperepatternone{0} એમ્પીયર
+unitslongunitelectric-amperepatternother{0} એમ્પીયર
+unitslongunitdigital-bytepatternone{0} બાઇટ
+unitslongunitdigital-bytepatternother{0} બાઇટ
+unitslongunitdigital-bytedisplayNameબાઇટ
+unitslongunitlength-micrometerdisplayNameમાઇક્રોમીટર
+unitslongunitlength-micrometerpatternone{0} માઇક્રોમીટર
+unitslongunitlength-micrometerpatternother{0} માઇક્રોમીટર
+unitslongunitmass-microgrampatternone{0} માઇક્રોગ્રામ
+unitslongunitmass-microgrampatternother{0} માઇક્રોગ્રામ
+unitslongunitmass-microgramdisplayNameમાઇક્રોગ્રામ
+unitslongunitmass-ounce-troypatternone{0} ટ્રોય ઔંસ
+unitslongunitmass-ounce-troypatternother{0} ટ્રોય ઔંસ
+unitslongunitmass-ounce-troydisplayNameટ્રોય ઔંસ
+unitslongunitfrequency-kilohertzdisplayNameકિલોહર્ટ્ઝ
+unitslongunitfrequency-kilohertzpatternone{0} કિલોહર્ટ્ઝ
+unitslongunitfrequency-kilohertzpatternother{0} કિલોહર્ટ્ઝ
+unitslongunitpressure-millimeter-of-mercurypatternone{0} પારાનું મિલિમીટર
+unitslongunitpressure-millimeter-of-mercurypatternother{0} પારાનું મિલિમીટર
+unitslongunitpressure-millimeter-of-mercurydisplayNameપારાનું મિલિમીટર
+unitslongunitdigital-kilobitpatternone{0} કિલોબિટ
+unitslongunitdigital-kilobitpatternother{0} કિલોબિટ
+unitslongunitdigital-kilobitdisplayNameકિલોબિટ
+unitslongunitspeed-meter-per-seconddisplayNameમીટર પ્રતિ સેકન્ડ
+unitslongunitspeed-meter-per-secondpatternone{0} મીટર પ્રતિ સેકન્ડ
+unitslongunitspeed-meter-per-secondpatternother{0} મીટર પ્રતિ સેકન્ડ
+unitslongunitarea-square-centimeterpatternone{0} ચોરસ સેન્ટીમીટર
+unitslongunitarea-square-centimeterpatternother{0} ચોરસ સેન્ટીમીટર
+unitslongunitarea-square-centimeterperUnitPattern{0} પ્રતિ ચોરસ સેન્ટિમીટર
+unitslongunitarea-square-centimeterdisplayNameચોરસ સેન્ટીમીટર
+unitslongunitvolume-deciliterpatternone{0} ડેસિલીટર
+unitslongunitvolume-deciliterpatternother{0} ડેસિલીટર
+unitslongunitvolume-deciliterdisplayNameડેસિલીટર
+unitslongunitduration-secondpatternother{0} સેકંડ
+unitslongunitduration-secondpatternone{0} સેકંડ
+unitslongunitduration-seconddisplayNameસેકંડ
+unitslongunitduration-secondperUnitPattern{0} પ્રતિ સેકંડ
+unitslongunitdigital-kilobytedisplayNameકિલોબાઇટ
+unitslongunitdigital-kilobytepatternone{0} કિલોબાઇટ
+unitslongunitdigital-kilobytepatternother{0} કિલોબાઇટ
+unitslongunitarea-square-footpatternother{0} ચોરસ ફૂટ
+unitslongunitarea-square-footpatternone{0} ચોરસ ફૂટ
+unitslongunitarea-square-footdisplayNameચોરસ ફૂટ
+unitslongunitlength-astronomical-unitpatternother{0} ખગોળીય યુનિટ
+unitslongunitlength-astronomical-unitpatternone{0} ખગોળીય યુનિટ
+unitslongunitlength-astronomical-unitdisplayNameખગોળીય યુનિટ
+unitslongunitvolume-milliliterdisplayNameમિલિલીટર
+unitslongunitvolume-milliliterpatternone{0} મિલિલીટર
+unitslongunitvolume-milliliterpatternother{0} મિલિલીટર
+unitslongunitenergy-foodcaloriepatternone{0} કેલરી
+unitslongunitenergy-foodcaloriepatternother{0} કેલરી
+unitslongunitenergy-foodcaloriedisplayNameકેલરી
+unitslongunitpressure-hectopascaldisplayNameહેક્ટૉપાસ્કલ
+unitslongunitpressure-hectopascalpatternother{0} હેક્ટૉપાસ્કલ
+unitslongunitpressure-hectopascalpatternone{0} હેક્ટૉપાસ્કલ
+unitslongunitelectric-ohmpatternone{0} ઓહ્મ
+unitslongunitelectric-ohmpatternother{0} ઓહ્મ
+unitslongunitelectric-ohmdisplayNameઓહ્મ
+unitslongunitvolume-megaliterdisplayNameમેગાલીટર
+unitslongunitvolume-megaliterpatternother{0} મેગાલીટર
+unitslongunitvolume-megaliterpatternone{0} મેગાલીટર
+unitslongunitconsumption-liter-per-100kilometersdisplayNameલિટર પ્રતિ 100 કિલોમીટર
+unitslongunitconsumption-liter-per-100kilometerspatternother{0} લિટર પ્રતિ 100 કિલોમીટર
+unitslongunitconsumption-liter-per-100kilometerspatternone{0} લિટર પ્રતિ 100 કિલોમીટર
+unitslongunitacceleration-g-forcepatternother{0} ગુ-બળ
+unitslongunitacceleration-g-forcepatternone{0} ગુ-બળ
+unitslongunitacceleration-g-forcedisplayNameગુ-બળ
+unitslongunitarea-square-kilometerperUnitPattern{0} પ્રતિ ચોરસ કિમી
+unitslongunitarea-square-kilometerdisplayNameચોરસ કિલોમીટર
+unitslongunitarea-square-kilometerpatternother{0} ચોરસ કિલોમીટર
+unitslongunitarea-square-kilometerpatternone{0} ચોરસ કિલોમીટર
+unitslongunittemperature-kelvindisplayNameકેલ્વિન
+unitslongunittemperature-kelvinpatternone{0} કેલ્વિન
+unitslongunittemperature-kelvinpatternother{0} કેલ્વિન
+unitslongunitelectric-voltpatternone{0} વૉલ્ટ્
+unitslongunitelectric-voltpatternother{0} વૉલ્ટ્
+unitslongunitelectric-voltdisplayNameવૉલ્ટ્સ
+unitslongunitdigital-petabytepatternother{0} પેટાબાઈટ્સ
+unitslongunitdigital-petabytepatternone{0} પેટાબાઈટ
+unitslongunitdigital-petabytedisplayNameપેટાબાઈટ્સ
+unitslongunitlength-picometerpatternone{0} પિસૉમીટર
+unitslongunitlength-picometerpatternother{0} પિસૉમીટર
+unitslongunitlength-picometerdisplayNameપિસૉમીટર
+unitslongunitconcentr-permillepatternother{0} પ્રતિમાઈલ
+unitslongunitconcentr-permillepatternone{0} પ્રતિમાઈલ
+unitslongunitconcentr-permilledisplayNameપ્રતિમાઈલ
+unitslongunitlight-luxpatternone{0} લક્સ
+unitslongunitlight-luxpatternother{0} લક્સ
+unitslongunitlight-luxdisplayNameલક્સ
+unitslongunitduration-centurypatternone{0} સદી
+unitslongunitduration-centurypatternother{0} સદીઓ
+unitslongunitduration-centurydisplayNameસદીઓ
+unitslongunitvolume-cubic-miledisplayNameઘન માઇલ
+unitslongunitvolume-cubic-milepatternother{0} ઘન માઇલ
+unitslongunitvolume-cubic-milepatternone{0} ઘન માઇલ
+unitslongunitvolume-cup-metricpatternother{0} મેટ્રિક કપ
+unitslongunitvolume-cup-metricpatternone{0} મેટ્રિક કપ
+unitslongunitvolume-cup-metricdisplayNameમેટ્રિક કપ
+unitslongunitconsumption-liter-per-kilometerpatternone{0} લીટર પ્રતિ કિલોમીટર
+unitslongunitconsumption-liter-per-kilometerpatternother{0} લીટર પ્રતિ કિલોમીટર
+unitslongunitconsumption-liter-per-kilometerdisplayNameલીટર પ્રતિ કિલોમીટર
+unitslongunitarea-hectarepatternother{0} હેક્ટર
+unitslongunitarea-hectarepatternone{0} હેક્ટર
+unitslongunitarea-hectaredisplayNameહેક્ટર
+unitslongunitmass-caratpatternone{0} કેરેટ
+unitslongunitmass-caratpatternother{0} કેરેટ
+unitslongunitmass-caratdisplayNameકેરેટ
+unitslongunitspeed-mile-per-hourpatternone{0} માઇલ પ્રતિ કલાક
+unitslongunitspeed-mile-per-hourpatternother{0} માઇલ પ્રતિ કલાક
+unitslongunitspeed-mile-per-hourdisplayNameમાઇલ પ્રતિ કલાક
+unitslongunittemperature-fahrenheitpatternother{0} ડિગ્રી ફેરનહીટ
+unitslongunittemperature-fahrenheitpatternone{0} ડિગ્રી ફેરનહીટ
+unitslongunittemperature-fahrenheitdisplayNameડિગ્રી ફેરનહીટ
+unitslongunitarea-acrepatternone{0} એકર
+unitslongunitarea-acrepatternother{0} એકર
+unitslongunitarea-acredisplayNameએકર
+unitslongunitconcentr-percentdisplayNameટકા
+unitslongunitconcentr-percentpatternone{0} ટકા
+unitslongunitconcentr-percentpatternother{0} ટકા
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} મીટર પ્રતિ સેકન્ડ²
+unitslongunitacceleration-meter-per-second-squaredpatternone{0} મીટર પ્રતિ સેકન્ડ²
+unitslongunitacceleration-meter-per-second-squareddisplayNameમીટર પ્રતિ સેકન્ડ²
+unitslongunitenergy-joulepatternother{0} જૂલ
+unitslongunitenergy-joulepatternone{0} જૂલ
+unitslongunitenergy-jouledisplayNameજૂલ
+unitslongunitangle-degreedisplayNameઅંશ
+unitslongunitangle-degreepatternone{0} અંશ
+unitslongunitangle-degreepatternother{0} અંશ
+unitslongunitpower-milliwattpatternother{0} મિલિવૉટ
+unitslongunitpower-milliwattpatternone{0} મિલિવૉટ
+unitslongunitpower-milliwattdisplayNameમિલિવૉટ
+unitslongunitpower-kilowattpatternone{0} કિલોવૉટ
+unitslongunitpower-kilowattpatternother{0} કિલોવૉટ
+unitslongunitpower-kilowattdisplayNameકિલોવૉટ
+unitslongunitvolume-gallon-imperialpatternone{0} ઈમ્પિ. ગૅલન
+unitslongunitvolume-gallon-imperialpatternother{0} ઈમ્પિ. ગૅલન
+unitslongunitvolume-gallon-imperialdisplayNameઈમ્પિ. ગૅલન
+unitslongunitvolume-gallon-imperialperUnitPattern{0} પ્રતિ ઈમ્પિ. ગૅલન
+unitslongunitvolume-acre-footpatternother{0} એકર-ફૂટ
+unitslongunitvolume-acre-footpatternone{0} એકર-ફૂટ
+unitslongunitvolume-acre-footdisplayNameએકર-ફૂટ
+unitslongunitangle-arc-seconddisplayNameચાપસેકન્ડ
+unitslongunitangle-arc-secondpatternother{0} ચાપસેકન્ડ
+unitslongunitangle-arc-secondpatternone{0} ચાપસેકન્ડ
+unitslongunitvolume-cubic-meterperUnitPattern{0} પ્રતિ ઘન મીટર
+unitslongunitvolume-cubic-meterdisplayNameઘન મીટર
+unitslongunitvolume-cubic-meterpatternone{0} ઘન મીટર
+unitslongunitvolume-cubic-meterpatternother{0} ઘન મીટર
+unitslongunitvolume-literperUnitPattern{0} પ્રતિ લિટર
+unitslongunitvolume-literdisplayNameલિટર
+unitslongunitvolume-literpatternother{0} લિટર
+unitslongunitvolume-literpatternone{0} લિટર
+unitslongunitpower-megawattdisplayNameમેગાવૉટ
+unitslongunitpower-megawattpatternone{0} મેગાવૉટ
+unitslongunitpower-megawattpatternother{0} મેગાવૉટ
+unitslongunitduration-nanosecondpatternother{0} નેનોસેકંડ
+unitslongunitduration-nanosecondpatternone{0} નેનોસેકંડ
+unitslongunitduration-nanoseconddisplayNameનેનોસેકંડ
+unitslongunitangle-arc-minutepatternother{0} ચાપમિનિટ
+unitslongunitangle-arc-minutepatternone{0} ચાપમિનિટ
+unitslongunitangle-arc-minutedisplayNameચાપમિનિટ
+unitslongunitfrequency-megahertzpatternone{0} મેગાહર્ટ્ઝ
+unitslongunitfrequency-megahertzpatternother{0} મેગાહર્ટ્ઝ
+unitslongunitfrequency-megahertzdisplayNameમેગાહર્ટ્ઝ
+unitslongunitduration-hourpatternone{0} કલાક
+unitslongunitduration-hourpatternother{0} કલાક
+unitslongunitduration-hourdisplayNameકલાક
+unitslongunitduration-hourperUnitPattern{0} પ્રતિ કલાક
+unitslongunitlength-centimeterperUnitPattern{0} પ્રતિ સેન્ટિમીટર
+unitslongunitlength-centimeterdisplayNameસેન્ટિમીટર
+unitslongunitlength-centimeterpatternone{0} સેન્ટિમીટર
+unitslongunitlength-centimeterpatternother{0} સેન્ટિમીટર
+unitslongunitvolume-fluid-ouncepatternother{0} પ્રવાહી ઔંસ
+unitslongunitvolume-fluid-ouncepatternone{0} પ્રવાહી ઔંસ
+unitslongunitvolume-fluid-ouncedisplayNameપ્રવાહી ઔંસ
+unitslongunitlength-parsecpatternother{0} પરસેક
+unitslongunitlength-parsecpatternone{0} પરસેક
+unitslongunitlength-parsecdisplayNameપરસેક
+unitslongunitmass-gramperUnitPattern{0} પ્રતિ ગ્રામ
+unitslongunitmass-gramdisplayNameગ્રામ
+unitslongunitmass-grampatternother{0} ગ્રામ
+unitslongunitmass-grampatternone{0} ગ્રામ
+unitslongunitvolume-cubic-inchpatternone{0} ઘન ઇંચ
+unitslongunitvolume-cubic-inchpatternother{0} ઘન ઇંચ
+unitslongunitvolume-cubic-inchdisplayNameઘન ઇંચ
+unitslongunitconcentr-karatpatternother{0} કૅરેટ
+unitslongunitconcentr-karatpatternone{0} કૅરેટ
+unitslongunitconcentr-karatdisplayNameકૅરેટ
+unitslongunittemperature-genericpatternother{0}°
+unitslongunittemperature-genericpatternone{0}°
+unitslongunittemperature-genericdisplayName°
+unitslongunitdigital-gigabitpatternone{0} ગીગાબિટ
+unitslongunitdigital-gigabitpatternother{0} ગીગાબિટ
+unitslongunitdigital-gigabitdisplayNameગીગાબિટ
+unitslongunitfrequency-gigahertzpatternother{0} ગીગાહર્ટ્ઝ
+unitslongunitfrequency-gigahertzpatternone{0} ગીગાહર્ટ્ઝ
+unitslongunitfrequency-gigahertzdisplayNameગીગાહર્ટ્ઝ
+unitslongunitvolume-tablespoondisplayNameટેબલસ્પૂન
+unitslongunitvolume-tablespoonpatternone{0} ટેબલસ્પૂન
+unitslongunitvolume-tablespoonpatternother{0} ટેબલસ્પૂન
+unitslongunitarea-square-yardpatternone{0} ચોરસ વાર
+unitslongunitarea-square-yardpatternother{0} ચોરસ વાર
+unitslongunitarea-square-yarddisplayNameચોરસ વાર
+unitslongunitpressure-pound-per-square-inchpatternother{0} પાઉન્ડ પ્રતિ વર્ગ ઇંચ
+unitslongunitpressure-pound-per-square-inchpatternone{0} પાઉન્ડ પ્રતિ વર્ગ ઇંચ
+unitslongunitpressure-pound-per-square-inchdisplayNameપાઉન્ડ પ્રતિ વર્ગ ઇંચ
+unitslongunitconcentr-part-per-milliondisplayNameકણ પ્રતિ મિલિયન
+unitslongunitconcentr-part-per-millionpatternone{0} કણ પ્રતિ મિલિયન
+unitslongunitconcentr-part-per-millionpatternother{0} કણ પ્રતિ મિલિયન
+unitslongunitvolume-gallonpatternother{0} ગૅલન
+unitslongunitvolume-gallonpatternone{0} ગૅલન
+unitslongunitvolume-gallondisplayNameગૅલન
+unitslongunitvolume-gallonperUnitPattern{0} પ્રતિ ગૅલન
+unitslongunitmass-poundpatternone{0} પાઉન્ડ
+unitslongunitmass-poundpatternother{0} પાઉન્ડ
+unitslongunitmass-pounddisplayNameપાઉન્ડ
+unitslongunitmass-poundperUnitPattern{0} પ્રતિ પાઉન્ડ
+unitslongunitconcentr-millimole-per-literpatternone{0} મિલિમોલ પ્રતિ લિટર
+unitslongunitconcentr-millimole-per-literpatternother{0} મિલિમોલ પ્રતિ લિટર
+unitslongunitconcentr-millimole-per-literdisplayNameમિલિમોલ પ્રતિ લિટર
+unitslongunitarea-square-miledisplayNameચોરસ માઇલ
+unitslongunitarea-square-mileperUnitPattern{0} પ્રતિ ચોરસ માઈલ
+unitslongunitarea-square-milepatternother{0} ચોરસ માઇલ
+unitslongunitarea-square-milepatternone{0} ચોરસ માઇલ
+unitslongunitangle-radiandisplayNameસમત્રિજ્યાકોણ
+unitslongunitangle-radianpatternone{0} સમત્રિજ્યાકોણ
+unitslongunitangle-radianpatternother{0} સમત્રિજ્યાકોણ
+unitslongunitenergy-caloriepatternother{0} કેલરી
+unitslongunitenergy-caloriepatternone{0} કેલરી
+unitslongunitenergy-caloriedisplayNameકેલરી
+unitslongunitpower-horsepowerdisplayNameહોર્સપાવર
+unitslongunitpower-horsepowerpatternone{0} હોર્સપાવર
+unitslongunitpower-horsepowerpatternother{0} હોર્સપાવર
+unitslongunitlength-kilometerpatternone{0} કિલોમીટર
+unitslongunitlength-kilometerpatternother{0} કિલોમીટર
+unitslongunitlength-kilometerdisplayNameકિલોમીટર
+unitslongunitlength-kilometerperUnitPattern{0} પ્રતિ કિલોમીટર
+unitslongunitvolume-hectoliterdisplayNameહેક્ટોલીટર
+unitslongunitvolume-hectoliterpatternone{0} હેક્ટોલીટર
+unitslongunitvolume-hectoliterpatternother{0} હેક્ટોલીટર
+unitslongunitlength-decimeterdisplayNameડેસિમીટર
+unitslongunitlength-decimeterpatternone{0} ડેસિમીટર
+unitslongunitlength-decimeterpatternother{0} ડેસિમીટર
+unitslongunitlength-light-yeardisplayNameપ્રકાશ વર્ષ
+unitslongunitlength-light-yearpatternother{0} પ્રકાશ વર્ષ
+unitslongunitlength-light-yearpatternone{0} પ્રકાશ વર્ષ
+unitslongunittemperature-celsiuspatternone{0} ડિગ્રી સેલ્સિયસ
+unitslongunittemperature-celsiuspatternother{0} ડિગ્રી સેલ્સિયસ
+unitslongunittemperature-celsiusdisplayNameડિગ્રી સેલ્સિયસ
+unitslongunitdigital-gigabytepatternone{0} ગીગાબાઇટ
+unitslongunitdigital-gigabytepatternother{0} ગીગાબાઇટ
+unitslongunitdigital-gigabytedisplayNameગીગાબાઇટ
+unitslongunitdigital-terabytedisplayNameટેરાબાઇટ
+unitslongunitdigital-terabytepatternone{0} ટેરાબાઇટ
+unitslongunitdigital-terabytepatternother{0} ટેરાબાઇટ
+unitslongunitangle-revolutionpatternone{0} ક્રાંતિ
+unitslongunitangle-revolutionpatternother{0} ક્રાંતિ
+unitslongunitangle-revolutiondisplayNameક્રાંતિ
+unitslongunitmass-metric-tondisplayNameમેટ્રિક ટન
+unitslongunitmass-metric-tonpatternone{0} મેટ્રિક ટન
+unitslongunitmass-metric-tonpatternother{0} મેટ્રિક ટન
+unitslongunitduration-weekpatternone{0} અઠવાડિયું
+unitslongunitduration-weekpatternother{0} અઠવાડિયા
+unitslongunitduration-weekdisplayNameઅઠવાડિયા
+unitslongunitduration-weekperUnitPattern{0} પ્રતિ અઠવાડિયું
+unitslongunitdigital-megabytedisplayNameમેગાબાઇટ
+unitslongunitdigital-megabytepatternone{0} મેગાબાઇટ
+unitslongunitdigital-megabytepatternother{0} મેગાબાઇટ
+unitslongunitconsumption-mile-per-gallon-imperialpatternother{0} માઈલ પ્રતિ ઈમ્પે. ગેલન
+unitslongunitconsumption-mile-per-gallon-imperialpatternone{0} માઈલ પ્રતિ ઈમ્પે. ગેલન
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNameમાઈલ પ્રતિ ઈમ્પે. ગેલન
+unitslongunitenergy-kilojouledisplayNameકિલોજૂલ
+unitslongunitenergy-kilojoulepatternother{0} કિલોજૂલ
+unitslongunitenergy-kilojoulepatternone{0} કિલોજૂલ
+unitslongunitmass-ouncepatternone{0} ઔંસ
+unitslongunitmass-ouncepatternother{0} ઔંસ
+unitslongunitmass-ouncedisplayNameઔંસ
+unitslongunitmass-ounceperUnitPattern{0} પ્રતિ ઔંસ
+unitslongunitvolume-cuppatternone{0} કપ
+unitslongunitvolume-cuppatternother{0} કપ
+unitslongunitvolume-cupdisplayNameકપ
+unitslongunitspeed-kilometer-per-hourpatternother{0} કિલોમીટર પ્રતિ કલાક
+unitslongunitspeed-kilometer-per-hourpatternone{0} કિલોમીટર પ્રતિ કલાક
+unitslongunitspeed-kilometer-per-hourdisplayNameકિલોમીટર પ્રતિ કલાક
+unitslongunitelectric-milliamperepatternone{0} મિલિએમ્પીયર
+unitslongunitelectric-milliamperepatternother{0} મિલિએમ્પીયર
+unitslongunitelectric-milliamperedisplayNameમિલિએમ્પીયર
+unitslongunitduration-monthdisplayNameમહિના
+unitslongunitduration-monthperUnitPattern{0} પ્રતિ મહિનો
+unitslongunitduration-monthpatternother{0} મહિના
+unitslongunitduration-monthpatternone{0} મહિનો
+unitslongunitdigital-bitdisplayNameબિટ
+unitslongunitdigital-bitpatternother{0} બિટ
+unitslongunitdigital-bitpatternone{0} બિટ
+unitslongunitlength-milepatternone{0} માઇલ
+unitslongunitlength-milepatternother{0} માઇલ
+unitslongunitlength-miledisplayNameમાઇલ
+unitslongunitlength-mile-scandinavianpatternone{0} માઈલ-સ્કૅન્ડિનેવિઅન
+unitslongunitlength-mile-scandinavianpatternother{0} માઈલ-સ્કૅન્ડિનેવિઅન
+unitslongunitlength-mile-scandinaviandisplayNameમાઈલ સ્કૅન્ડિનેવિઅન
+unitslongunitlength-millimeterpatternother{0} મિલિમીટર
+unitslongunitlength-millimeterpatternone{0} મિલિમીટર
+unitslongunitlength-millimeterdisplayNameમિલિમીટર
+unitslongunitpower-wattdisplayNameવૉટ
+unitslongunitpower-wattpatternone{0} વૉટ
+unitslongunitpower-wattpatternother{0} વૉટ
+unitslongunitlength-pointdisplayNameપોઈન્ટ્સ
+unitslongunitlength-pointpatternother{0} પોઈન્ટ્સ
+unitslongunitlength-pointpatternone{0} પોઈન્ટ
+unitslongunitspeed-knotdisplayNameનોટ
+unitslongunitspeed-knotpatternone{0} નોટ
+unitslongunitspeed-knotpatternother{0} નોટ
+unitslongunitlength-nautical-miledisplayNameનૉટિકલ માઇલ
+unitslongunitlength-nautical-milepatternone{0} નૉટિકલ માઇલ
+unitslongunitlength-nautical-milepatternother{0} નૉટિકલ માઇલ
+unitslongunitduration-yearperUnitPattern{0} પ્રતિ વર્ષ
+unitslongunitduration-yeardisplayNameવર્ષ
+unitslongunitduration-yearpatternone{0} વર્ષ
+unitslongunitduration-yearpatternother{0} વર્ષ
+unitslongunitdigital-megabitpatternother{0} મેગાબિટ
+unitslongunitdigital-megabitpatternone{0} મેગાબિટ
+unitslongunitdigital-megabitdisplayNameમેગાબિટ
+unitslongunitconcentr-milligram-per-deciliterpatternone{0} મિલિગ્રામ પ્રતિ ડેસિલિટર
+unitslongunitconcentr-milligram-per-deciliterpatternother{0} મિલિગ્રામ પ્રતિ ડેસિલિટર
+unitslongunitconcentr-milligram-per-deciliterdisplayNameમિલિગ્રામ પ્રતિ ડેસિલિટર
+unitslongunitarea-square-meterdisplayNameચોરસ મીટર
+unitslongunitarea-square-meterperUnitPattern{0} પ્રતિ ચોરસ મીટર
+unitslongunitarea-square-meterpatternother{0} ચોરસ મીટર
+unitslongunitarea-square-meterpatternone{0} ચોરસ મીટર
+unitslongunitlength-footpatternother{0} ફૂટ
+unitslongunitlength-footpatternone{0} ફૂટ
+unitslongunitlength-footperUnitPattern{0} પ્રતિ ફૂટ
+unitslongunitlength-footdisplayNameફૂટ
+unitslongunitmass-milligrampatternother{0} મિલિગ્રામ
+unitslongunitmass-milligrampatternone{0} મિલિગ્રામ
+unitslongunitmass-milligramdisplayNameમિલિગ્રામ
+unitslongunitpower-gigawattpatternone{0} ગીગાવૉટ
+unitslongunitpower-gigawattpatternother{0} ગીગાવૉટ
+unitslongunitpower-gigawattdisplayNameગીગાવૉટ
+unitslongcompoundUnitperpattern{0} પ્રતિ {1}
+unitsshortunitvolume-cubic-inchdisplayNameઘન ઇંચ
+unitsshortunitvolume-cubic-inchpatternone{0} ઘન ઇંચ
+unitsshortunitvolume-cubic-inchpatternother{0} ઘન ઇંચ
+unitsshortunittemperature-genericpatternone{0}°
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunittemperature-genericdisplayName°
+unitsshortunitdigital-gigabitpatternone{0} Gb
+unitsshortunitdigital-gigabitpatternother{0} Gb
+unitsshortunitdigital-gigabitdisplayNameગીગાબિટ
+unitsshortunitconcentr-karatdisplayNameકૅરેટ
+unitsshortunitconcentr-karatpatternother{0} કૅરેટ
+unitsshortunitconcentr-karatpatternone{0} કૅરેટ
+unitsshortunitlength-centimeterpatternother{0} સેમી
+unitsshortunitlength-centimeterpatternone{0} સેમી
+unitsshortunitlength-centimeterdisplayNameસેમી
+unitsshortunitlength-centimeterperUnitPattern{0}/સેમી
+unitsshortunitvolume-fluid-ouncedisplayNameપ્રવાહી ઔંસ
+unitsshortunitvolume-fluid-ouncepatternone{0} પ્રવાહી ઔંસ
+unitsshortunitvolume-fluid-ouncepatternother{0} પ્રવાહી ઔંસ
+unitsshortunitlength-parsecpatternone{0} પરસેક
+unitsshortunitlength-parsecpatternother{0} પરસેક
+unitsshortunitlength-parsecdisplayNameપરસેક
+unitsshortunitmass-gramdisplayNameગ્રામ
+unitsshortunitmass-gramperUnitPattern{0}/ગ્રામ
+unitsshortunitmass-grampatternother{0} ગ્રા
+unitsshortunitmass-grampatternone{0} ગ્રા
+unitsshortunitvolume-gallonperUnitPattern{0}/ગૅલન
+unitsshortunitvolume-gallondisplayNameગૅલન
+unitsshortunitvolume-gallonpatternother{0} ગૅલન
+unitsshortunitvolume-gallonpatternone{0} ગૅલન
+unitsshortunitconcentr-part-per-milliondisplayNameકણ/મિલિયન
+unitsshortunitconcentr-part-per-millionpatternother{0} પીપીએમ
+unitsshortunitconcentr-part-per-millionpatternone{0} પીપીએમ
+unitsshortunitmass-poundpatternother{0} પાઉન્ડ
+unitsshortunitmass-poundpatternone{0} પાઉન્ડ
+unitsshortunitmass-poundperUnitPattern{0}/પાઉન્ડ
+unitsshortunitmass-pounddisplayNameપાઉન્ડ
+unitsshortunitvolume-tablespoondisplayNameટેબલસ્પૂન
+unitsshortunitvolume-tablespoonpatternone{0} ટેબલસ્પૂન
+unitsshortunitvolume-tablespoonpatternother{0} ટેબલસ્પૂન
+unitsshortunitarea-square-yardpatternother{0} ચોરસ વાર
+unitsshortunitarea-square-yardpatternone{0} ચોરસ વાર
+unitsshortunitarea-square-yarddisplayNameચોરસ વાર
+unitsshortunitfrequency-gigahertzdisplayNameGHz
+unitsshortunitfrequency-gigahertzpatternone{0} GHz
+unitsshortunitfrequency-gigahertzpatternother{0} GHz
+unitsshortunitpressure-pound-per-square-inchdisplayNamepsi
+unitsshortunitpressure-pound-per-square-inchpatternother{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternone{0} psi
+unitsshortunitvolume-literpatternother{0} લિ
+unitsshortunitvolume-literpatternone{0} લિ
+unitsshortunitvolume-literperUnitPattern{0}/લિ
+unitsshortunitvolume-literdisplayNameલિટર
+unitsshortunitvolume-cubic-meterpatternother{0} ઘન મીટર
+unitsshortunitvolume-cubic-meterpatternone{0} ઘન મીટર
+unitsshortunitvolume-cubic-meterdisplayNameઘન મીટર
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/ઘન મી.
+unitsshortunitpower-megawattdisplayNameMW
+unitsshortunitpower-megawattpatternother{0} MW
+unitsshortunitpower-megawattpatternone{0} MW
+unitsshortunitangle-arc-seconddisplayNameચાપસેકન્ડ
+unitsshortunitangle-arc-secondpatternother{0} ચાપસેકન્ડ
+unitsshortunitangle-arc-secondpatternone{0} ચાપસેકન્ડ
+unitsshortunitvolume-gallon-imperialperUnitPattern{0} /ગૅલન ઈમ્પિ.
+unitsshortunitvolume-gallon-imperialdisplayNameઈમ્પિ. ગૅલન
+unitsshortunitvolume-gallon-imperialpatternone{0} ગૅલન ઈમ્પિ.
+unitsshortunitvolume-gallon-imperialpatternother{0} ગૅલન ઈમ્પિ.
+unitsshortunitvolume-acre-footdisplayNameએકર-ફૂટ
+unitsshortunitvolume-acre-footpatternone{0} એકર-ફૂટ
+unitsshortunitvolume-acre-footpatternother{0} એકર-ફૂટ
+unitsshortunitpower-kilowattpatternother{0} kW
+unitsshortunitpower-kilowattpatternone{0} kW
+unitsshortunitpower-kilowattdisplayNamekW
+unitsshortunitduration-hourpatternone{0} કલાક
+unitsshortunitduration-hourpatternother{0} કલાક
+unitsshortunitduration-hourperUnitPattern{0} પ્રતિ કલાક
+unitsshortunitduration-hourdisplayNameકલાક
+unitsshortunitangle-arc-minutepatternother{0} ચાપ મિનિટ
+unitsshortunitangle-arc-minutepatternone{0} ચાપમિનિટ
+unitsshortunitangle-arc-minutedisplayNameચાપમિનિટ
+unitsshortunitduration-nanoseconddisplayNameનેનોસેકંડ
+unitsshortunitduration-nanosecondpatternone{0} ns
+unitsshortunitduration-nanosecondpatternother{0} ns
+unitsshortunitfrequency-megahertzpatternone{0} MHz
+unitsshortunitfrequency-megahertzpatternother{0} MHz
+unitsshortunitfrequency-megahertzdisplayNameMHz
+unitsshortunitvolume-cupdisplayNameકપ
+unitsshortunitvolume-cuppatternone{0} કપ
+unitsshortunitvolume-cuppatternother{0} કપ
+unitsshortunitspeed-kilometer-per-hourdisplayNameકિમી/કલાક
+unitsshortunitspeed-kilometer-per-hourpatternother{0} કિમી/કલાક
+unitsshortunitspeed-kilometer-per-hourpatternone{0} કિમી/કલાક
+unitsshortunitelectric-milliamperepatternone{0} mA
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitelectric-milliamperedisplayNamemA
+unitsshortunitduration-monthpatternone{0} મહિનો
+unitsshortunitduration-monthpatternother{0} મહિના
+unitsshortunitduration-monthperUnitPattern{0}/માસ
+unitsshortunitduration-monthdisplayNameમહિના
+unitsshortunitdigital-bitpatternone{0} બિટ
+unitsshortunitdigital-bitpatternother{0} બિટ
+unitsshortunitdigital-bitdisplayNameબિટ
+unitsshortunitlength-millimeterpatternother{0} મિમી
+unitsshortunitlength-millimeterpatternone{0} મિમી
+unitsshortunitlength-millimeterdisplayNameમિમી
+unitsshortunitlength-miledisplayNameમાઇલ
+unitsshortunitlength-milepatternother{0} માઇલ
+unitsshortunitlength-milepatternone{0} માઇલ
+unitsshortunitlength-pointdisplayNameપોઈન્ટ્સ
+unitsshortunitlength-pointpatternone{0} પોઈન્ટ
+unitsshortunitlength-pointpatternother{0} પોઈન્ટ
+unitsshortunitpower-wattdisplayNamewatt
+unitsshortunitpower-wattpatternone{0} W
+unitsshortunitpower-wattpatternother{0} W
+unitsshortunitlength-mile-scandinaviandisplayNamesmi
+unitsshortunitlength-mile-scandinavianpatternother{0} smi
+unitsshortunitlength-mile-scandinavianpatternone{0} smi
+unitsshortunitduration-yearpatternother{0} વર્ષ
+unitsshortunitduration-yearpatternone{0} વર્ષ
+unitsshortunitduration-yeardisplayNameવર્ષ
+unitsshortunitduration-yearperUnitPattern{0}/વર્ષ
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternone{0} mg/dL
+unitsshortunitdigital-megabitpatternother{0} Mb
+unitsshortunitdigital-megabitpatternone{0} Mb
+unitsshortunitdigital-megabitdisplayNameMb
+unitsshortunitlength-footpatternother{0} ફૂટ
+unitsshortunitlength-footpatternone{0} ફૂટ
+unitsshortunitlength-footperUnitPattern{0}/ફૂટ
+unitsshortunitlength-footdisplayNameફૂટ
+unitsshortunitmass-milligramdisplayNameમિગ્રા
+unitsshortunitmass-milligrampatternone{0} મિગ્રા
+unitsshortunitmass-milligrampatternother{0} મિગ્રા
+unitsshortunitpower-gigawattpatternone{0} GW
+unitsshortunitpower-gigawattpatternother{0} GW
+unitsshortunitpower-gigawattdisplayNameGW
+unitsshortunitarea-square-meterpatternone{0} ચોરસ મીટર
+unitsshortunitarea-square-meterpatternother{0} ચોરસ મીટર
+unitsshortunitarea-square-meterdisplayNameચોરસ મીટર
+unitsshortunitarea-square-meterperUnitPattern{0} પ્રતિ ચો. મીટર
+unitsshortunitlength-nautical-miledisplayNameનૉટિકલ માઇલ
+unitsshortunitlength-nautical-milepatternother{0} nmi
+unitsshortunitlength-nautical-milepatternone{0} nmi
+unitsshortunitspeed-knotdisplayNameનોટ
+unitsshortunitspeed-knotpatternone{0} નોટ
+unitsshortunitspeed-knotpatternother{0} નોટ
+unitsshortunitlength-kilometerdisplayNameકિમી
+unitsshortunitlength-kilometerperUnitPattern{0}/કિમી
+unitsshortunitlength-kilometerpatternother{0} કિમી
+unitsshortunitlength-kilometerpatternone{0} કિમી
+unitsshortunitvolume-hectoliterdisplayNameહેક્ટોલીટર
+unitsshortunitvolume-hectoliterpatternother{0} હેક્ટોલીટર
+unitsshortunitvolume-hectoliterpatternone{0} હેક્ટોલીટર
+unitsshortunitlength-decimeterpatternone{0} ડેમી
+unitsshortunitlength-decimeterpatternother{0} ડેમી
+unitsshortunitlength-decimeterdisplayNameડેમી
+unitsshortunitlength-light-yearpatternone{0} પ્રકાશ વર્ષ
+unitsshortunitlength-light-yearpatternother{0} પ્રકાશ વર્ષ
+unitsshortunitlength-light-yeardisplayNameપ્રકાશ વર્ષ
+unitsshortunitarea-square-miledisplayNameચોરસ માઇલ
+unitsshortunitarea-square-mileperUnitPattern{0} / ચોરસ માઈલ
+unitsshortunitarea-square-milepatternother{0} ચોરસ માઇલ
+unitsshortunitarea-square-milepatternone{0} ચોરસ માઇલ
+unitsshortunitconcentr-millimole-per-literpatternone{0} mmol/L
+unitsshortunitconcentr-millimole-per-literpatternother{0} mmol/L
+unitsshortunitconcentr-millimole-per-literdisplayNameમિલિમોલ/લિટર
+unitsshortunitangle-radianpatternother{0} સમત્રિજ્યાકોણ
+unitsshortunitangle-radianpatternone{0} સમત્રિજ્યાકોણ
+unitsshortunitangle-radiandisplayNameસમત્રિજ્યાકોણ
+unitsshortunitenergy-caloriedisplayNamecal
+unitsshortunitenergy-caloriepatternother{0} cal
+unitsshortunitenergy-caloriepatternone{0} Cal
+unitsshortunitpower-horsepowerdisplayNamehp
+unitsshortunitpower-horsepowerpatternother{0} hp
+unitsshortunitpower-horsepowerpatternone{0} hp
+unitsshortunitduration-weekperUnitPattern{0} / અઠ.
+unitsshortunitduration-weekdisplayNameઅઠવાડિયા
+unitsshortunitduration-weekpatternother{0} અઠ.
+unitsshortunitduration-weekpatternone{0} અઠ.
+unitsshortunitdigital-megabytepatternone{0} MB
+unitsshortunitdigital-megabytepatternother{0} MB
+unitsshortunitdigital-megabytedisplayNameMB
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNameમાઈલ/ઈમ્પે. ગેલન
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} mpg Imp.
+unitsshortunitconsumption-mile-per-gallon-imperialpatternone{0} mpg Imp.
+unitsshortunitenergy-kilojouledisplayNamekJ
+unitsshortunitenergy-kilojoulepatternone{0} kJ
+unitsshortunitenergy-kilojoulepatternother{0} kJ
+unitsshortunitmass-ounceperUnitPattern{0}/ઔંસ
+unitsshortunitmass-ouncedisplayNameઔંસ
+unitsshortunitmass-ouncepatternone{0} ઔંસ
+unitsshortunitmass-ouncepatternother{0} ઔંસ
+unitsshortunitdigital-terabytedisplayNameTB
+unitsshortunitdigital-terabytepatternone{0} TB
+unitsshortunitdigital-terabytepatternother{0} TB
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunittemperature-celsiuspatternone{0}°C
+unitsshortunittemperature-celsiusdisplayNameડિગ્રી સેલ્સિયસ
+unitsshortunitdigital-gigabytepatternone{0} GB
+unitsshortunitdigital-gigabytepatternother{0} GB
+unitsshortunitdigital-gigabytedisplayNameGB
+unitsshortunitangle-revolutiondisplayNameક્રાંતિ
+unitsshortunitangle-revolutionpatternone{0} ક્રાંતિ
+unitsshortunitangle-revolutionpatternother{0} ક્રાંતિ
+unitsshortunitmass-metric-tondisplayNamet
+unitsshortunitmass-metric-tonpatternother{0} t
+unitsshortunitmass-metric-tonpatternone{0} t
+unitsshortunitvolume-pintdisplayNameપિન્ટ
+unitsshortunitvolume-pintpatternother{0} પિન્ટ
+unitsshortunitvolume-pintpatternone{0} પિન્ટ
+unitsshortunitduration-microsecondpatternother{0} μs
+unitsshortunitduration-microsecondpatternone{0} μs
+unitsshortunitduration-microseconddisplayNameμs
+unitsshortunitvolume-pint-metricdisplayNameમે.પિન્ટ
+unitsshortunitvolume-pint-metricpatternone{0} મે.પિન્ટ
+unitsshortunitvolume-pint-metricpatternother{0} મે.પિન્ટ
+unitsshortunitarea-square-inchperUnitPattern{0} પ્રતિ ચો. ઈંચ
+unitsshortunitarea-square-inchdisplayNameચોરસ ઇંચ
+unitsshortunitarea-square-inchpatternone{0} ચોરસ ઇંચ
+unitsshortunitarea-square-inchpatternother{0} ચોરસ ઇંચ
+unitsshortunitfrequency-hertzpatternother{0} Hz
+unitsshortunitfrequency-hertzpatternone{0} Hz
+unitsshortunitfrequency-hertzdisplayNameહર્ટ્ઝ
+unitsshortunitenergy-kilowatt-hourdisplayNamekWh
+unitsshortunitenergy-kilowatt-hourpatternother{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternone{0} kWh
+unitsshortunitlength-inchpatternone{0} ઇંચ
+unitsshortunitlength-inchpatternother{0} ઇંચ
+unitsshortunitlength-inchdisplayNameઇંચ
+unitsshortunitlength-inchperUnitPattern{0}/ઈંચ
+unitsshortunitpressure-atmospherepatternone{0} atm
+unitsshortunitpressure-atmospherepatternother{0} atm
+unitsshortunitpressure-atmospheredisplayNameatm
+unitsshortunitvolume-quartpatternone{0} ક્વાર્ટ
+unitsshortunitvolume-quartpatternother{0} ક્વાર્ટ
+unitsshortunitvolume-quartdisplayNameક્વાર્ટ
+unitsshortunitvolume-cubic-footpatternother{0} ઘન ફૂટ
+unitsshortunitvolume-cubic-footpatternone{0} ઘન ફૂટ
+unitsshortunitvolume-cubic-footdisplayNameઘન ફૂટ
+unitsshortunitconsumption-mile-per-gallondisplayNameમાઇલ/ગૅલન
+unitsshortunitconsumption-mile-per-gallonpatternother{0} માઇલ/ગૅલન
+unitsshortunitconsumption-mile-per-gallonpatternone{0} માઇલ/ગૅલન
+unitsshortunitvolume-cubic-centimeterdisplayNameઘન સેમી
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/ ઘન સેમી
+unitsshortunitvolume-cubic-centimeterpatternone{0} ઘન સેમી
+unitsshortunitvolume-cubic-centimeterpatternother{0} ઘન સેમી
+unitsshortunitenergy-kilocaloriepatternother{0} kcal
+unitsshortunitenergy-kilocaloriepatternone{0} kcal
+unitsshortunitenergy-kilocaloriedisplayNamekcal
+unitsshortunitmass-tonpatternother{0} ટન
+unitsshortunitmass-tonpatternone{0} ટન
+unitsshortunitmass-tondisplayNameટન
+unitsshortunitlength-nanometerdisplayNameનેનોમીટર
+unitsshortunitlength-nanometerpatternother{0} નેનોમીટર
+unitsshortunitlength-nanometerpatternone{0} નેનોમીટર
+unitsshortunitspeed-meter-per-seconddisplayNameમીટર/સેકન્ડ
+unitsshortunitspeed-meter-per-secondpatternother{0} મીટર/સેકન્ડ
+unitsshortunitspeed-meter-per-secondpatternone{0} મીટર/સેકન્ડ
+unitsshortunitdigital-kilobitpatternone{0} kb
+unitsshortunitdigital-kilobitpatternother{0} kb
+unitsshortunitdigital-kilobitdisplayNamekb
+unitsshortunitdigital-bytepatternone{0} બાઇટ
+unitsshortunitdigital-bytepatternother{0} બાઇટ
+unitsshortunitdigital-bytedisplayNameબાઇટ
+unitsshortunitvolume-cubic-kilometerdisplayNameઘન કિમી
+unitsshortunitvolume-cubic-kilometerpatternone{0} ઘન કિમી
+unitsshortunitvolume-cubic-kilometerpatternother{0} ઘન કિમી
+unitsshortunitelectric-amperepatternother{0} A
+unitsshortunitelectric-amperepatternone{0} A
+unitsshortunitelectric-amperedisplayNameamp
+unitsshortunitfrequency-kilohertzdisplayNamekHz
+unitsshortunitfrequency-kilohertzpatternother{0} kHz
+unitsshortunitfrequency-kilohertzpatternone{0} kHz
+unitsshortunitmass-microgramdisplayNameµગ્રામ
+unitsshortunitmass-microgrampatternone{0} µગ્રામ
+unitsshortunitmass-microgrampatternother{0} µગ્રામ
+unitsshortunitlength-micrometerdisplayNameમાઇક્રોમીટર
+unitsshortunitlength-micrometerpatternone{0} µમી
+unitsshortunitlength-micrometerpatternother{0} µમી
+unitsshortunitmass-ounce-troydisplayNameટ્રોય ઔંસ
+unitsshortunitmass-ounce-troypatternother{0} ટ્રોય ઔંસ
+unitsshortunitmass-ounce-troypatternone{0} ટ્રોય ઔંસ
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternone{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitsshortunitduration-daydisplayNameદિવસ
+unitsshortunitduration-dayperUnitPattern{0}/ દિવસ
+unitsshortunitduration-daypatternone{0} દિવસ
+unitsshortunitduration-daypatternother{0} દિવસ
+unitsshortunitvolume-teaspoondisplayNameટીસ્પૂન
+unitsshortunitvolume-teaspoonpatternone{0} ટીસ્પૂન
+unitsshortunitvolume-teaspoonpatternother{0} ટીસ્પૂન
+unitsshortunitlength-yardpatternother{0} વાર
+unitsshortunitlength-yardpatternone{0} વાર
+unitsshortunitlength-yarddisplayNameવાર
+unitsshortunitmass-kilogramdisplayNameકિગ્રા
+unitsshortunitmass-kilogramperUnitPattern{0}/કિગ્રા
+unitsshortunitmass-kilogrampatternone{0} કિગ્રા
+unitsshortunitmass-kilogrampatternother{0} કિગ્રા
+unitsshortunitpressure-inch-hgdisplayNameinHg
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitlength-meterpatternother{0} મી
+unitsshortunitlength-meterpatternone{0} મી
+unitsshortunitlength-meterperUnitPattern{0}/મી
+unitsshortunitlength-meterdisplayNameમીટર
+unitsshortunitduration-minutepatternone{0} મિનિટ
+unitsshortunitduration-minutepatternother{0} મિનિટ
+unitsshortunitduration-minutedisplayNameમિનિટ
+unitsshortunitduration-minuteperUnitPattern{0}/મિ.
+unitsshortunitpressure-millibardisplayNamembar
+unitsshortunitpressure-millibarpatternone{0} mbar
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitvolume-centiliterpatternone{0} સેન્ટિલીટર
+unitsshortunitvolume-centiliterpatternother{0} સેન્ટિલીટર
+unitsshortunitvolume-centiliterdisplayNameસેન્ટિલીટર
+unitsshortunitvolume-cubic-yarddisplayNameઘન વાર
+unitsshortunitvolume-cubic-yardpatternone{0} ઘન વાર
+unitsshortunitvolume-cubic-yardpatternother{0} ઘન વાર
+unitsshortunitmass-stonepatternother{0} સ્ટોન
+unitsshortunitmass-stonepatternone{0} સ્ટોન
+unitsshortunitmass-stonedisplayNameસ્ટોન્સ
+unitsshortunitdigital-terabitdisplayNameTb
+unitsshortunitdigital-terabitpatternother{0} Tb
+unitsshortunitdigital-terabitpatternone{0} Tb
+unitsshortunitduration-milliseconddisplayNameમિલિસેકન્ડ
+unitsshortunitduration-millisecondpatternone{0} મિસે
+unitsshortunitduration-millisecondpatternother{0} મિસે
+unitsshortunitduration-centurydisplayNameસદી
+unitsshortunitduration-centurypatternother{0} સદી
+unitsshortunitduration-centurypatternone{0} સદી
+unitsshortunitelectric-voltpatternother{0} V
+unitsshortunitelectric-voltpatternone{0} V
+unitsshortunitelectric-voltdisplayNamevolt
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunittemperature-kelvinpatternone{0} K
+unitsshortunittemperature-kelvindisplayNameકેલ્વિન
+unitsshortunitdigital-petabytepatternother{0} પીબી
+unitsshortunitdigital-petabytepatternone{0} પીબી
+unitsshortunitdigital-petabytedisplayNameપીબાઈટ
+unitsshortunitlength-picometerpatternone{0} પિસૉમીટર
+unitsshortunitlength-picometerpatternother{0} પિસૉમીટર
+unitsshortunitlength-picometerdisplayNameપિસૉમીટર
+unitsshortunitlight-luxpatternone{0} લક્સ
+unitsshortunitlight-luxpatternother{0} લક્સ
+unitsshortunitlight-luxdisplayNameલક્સ
+unitsshortunitconcentr-permilledisplayNameપ્રતિમાઈલ
+unitsshortunitconcentr-permillepatternone{0}‰
+unitsshortunitconcentr-permillepatternother{0}‰
+unitsshortunitarea-acrepatternone{0} એકર
+unitsshortunitarea-acrepatternother{0} એકર
+unitsshortunitarea-acredisplayNameએકર
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunittemperature-fahrenheitdisplayNameડિગ્રી ફેરનહીટ
+unitsshortunitspeed-mile-per-hourdisplayNameમાઇલ/કલાક
+unitsshortunitspeed-mile-per-hourpatternone{0} માઇલ/કલાક
+unitsshortunitspeed-mile-per-hourpatternother{0} માઇલ/કલાક
+unitsshortunitconcentr-percentdisplayNameટકા
+unitsshortunitconcentr-percentpatternother{0}%
+unitsshortunitconcentr-percentpatternone{0}%
+unitsshortunitangle-degreedisplayNameઅંશ
+unitsshortunitangle-degreepatternone{0} અંશ
+unitsshortunitangle-degreepatternother{0} અંશ
+unitsshortunitenergy-joulepatternone{0} J
+unitsshortunitenergy-joulepatternother{0} J
+unitsshortunitenergy-jouledisplayNameજૂલ
+unitsshortunitacceleration-meter-per-second-squaredpatternone{0} મી/સે²
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} મી/સે²
+unitsshortunitacceleration-meter-per-second-squareddisplayNameમીટર/સેકન્ડ²
+unitsshortunitpower-milliwattpatternone{0} mW
+unitsshortunitpower-milliwattpatternother{0} mW
+unitsshortunitpower-milliwattdisplayNamemW
+unitsshortunitvolume-cubic-miledisplayNameઘન માઇલ
+unitsshortunitvolume-cubic-milepatternother{0} ઘન માઇલ
+unitsshortunitvolume-cubic-milepatternone{0} ઘન માઇલ
+unitsshortunitvolume-cup-metricdisplayNameમે. કપ
+unitsshortunitvolume-cup-metricpatternother{0} મે. કપ
+unitsshortunitvolume-cup-metricpatternone{0} મે. કપ
+unitsshortunitconsumption-liter-per-kilometerdisplayNameલીટર/કિમી
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} લીટર/કિમી
+unitsshortunitconsumption-liter-per-kilometerpatternone{0} લીટર/કિમી
+unitsshortunitarea-hectaredisplayNameહેક્ટર
+unitsshortunitarea-hectarepatternone{0} હેક્ટર
+unitsshortunitarea-hectarepatternother{0} હેક્ટર
+unitsshortunitmass-caratdisplayNameકેરેટ
+unitsshortunitmass-caratpatternone{0} કેરેટ
+unitsshortunitmass-caratpatternother{0} કેરેટ
+unitsshortunitenergy-foodcaloriedisplayNameCal
+unitsshortunitenergy-foodcaloriepatternother{0} Cal
+unitsshortunitenergy-foodcaloriepatternone{0} Cal
+unitsshortunitvolume-milliliterpatternother{0} મિલિલીટર
+unitsshortunitvolume-milliliterpatternone{0} મિલિલીટર
+unitsshortunitvolume-milliliterdisplayNameમિલિલીટર
+unitsshortunitpressure-hectopascalpatternone{0} hPa
+unitsshortunitpressure-hectopascalpatternother{0} hPa
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitvolume-deciliterpatternother{0} ડેસિલીટર
+unitsshortunitvolume-deciliterpatternone{0} ડેસિલીટર
+unitsshortunitvolume-deciliterdisplayNameડેસિલીટર
+unitsshortunitduration-secondperUnitPattern{0} પ્રતિ સેકંડ
+unitsshortunitduration-seconddisplayNameસેકંડ
+unitsshortunitduration-secondpatternone{0} સેકંડ
+unitsshortunitduration-secondpatternother{0} સેકંડ
+unitsshortunitarea-square-footdisplayNameચોરસ ફૂટ
+unitsshortunitarea-square-footpatternone{0} ચોરસ ફૂટ
+unitsshortunitarea-square-footpatternother{0} ચોરસ ફૂટ
+unitsshortunitdigital-kilobytepatternother{0} kB
+unitsshortunitdigital-kilobytepatternone{0} kB
+unitsshortunitdigital-kilobytedisplayNamekB
+unitsshortunitarea-square-centimeterpatternone{0} ચોરસ સેમી
+unitsshortunitarea-square-centimeterpatternother{0} ચોરસ સેમી
+unitsshortunitarea-square-centimeterperUnitPattern{0} પ્રતિ ચો. સેમી
+unitsshortunitarea-square-centimeterdisplayNameચોરસ સેમી
+unitsshortunitlength-astronomical-unitpatternother{0} au
+unitsshortunitlength-astronomical-unitpatternone{0} au
+unitsshortunitlength-astronomical-unitdisplayNameખગોળીય યુનિટ
+unitsshortunitvolume-megaliterdisplayNameમેગાલીટર
+unitsshortunitvolume-megaliterpatternone{0} મેગાલીટર
+unitsshortunitvolume-megaliterpatternother{0} મેગાલીટર
+unitsshortunitelectric-ohmdisplayNameઓહ્મ
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitelectric-ohmpatternone{0} Ω
+unitsshortunitconsumption-liter-per-100kilometersdisplayNameલિ/100 કિમી
+unitsshortunitconsumption-liter-per-100kilometerspatternone{0} લિ/100 કિમી
+unitsshortunitconsumption-liter-per-100kilometerspatternother{0} લિ/100 કિમી
+unitsshortunitarea-square-kilometerpatternother{0} ચોરસ કિમી
+unitsshortunitarea-square-kilometerpatternone{0} ચોરસ કિમી
+unitsshortunitarea-square-kilometerperUnitPattern{0} /ચોરસ કિમી
+unitsshortunitarea-square-kilometerdisplayNameચોરસ કિમી
+unitsshortunitacceleration-g-forcepatternother{0} ગુ
+unitsshortunitacceleration-g-forcepatternone{0} ગુ
+unitsshortunitacceleration-g-forcedisplayNameગુ-બળ
+unitsshortcoordinateUnitnorth{0}ઉ
+unitsshortcoordinateUnitdisplayNameદિશા
+unitsshortcoordinateUnitsouth{0}દ
+unitsshortcoordinateUnitwest{0}પ
+unitsshortcoordinateUniteast{0}પૂ
+unitsshortcompoundUnitperpattern{0}/{1}
+characterLabelspatternsenclosed{0} — બંધ
+characterLabelspatternsstrokes{0} સ્ટ્રોક્સ
+characterLabelspatternsmiscellaneous{0} — મિશ્ર
+characterLabelspatternsscriptsસ્ક્રિપ્ટ — {0}
+characterLabelspatternscategory-list{0}: {1}
+characterLabelspatternscompatibility{0} — સુસંગતતા
+characterLabelspatternshistoric{0} — ઐતિહાસિક
+characterLabelspatternsother{0} — અન્ય
+characterLabelspatternsall{0} — તમામ
+characterLabelspatternsextended{0} — વિસ્તૃત
+characterLabelslabelsvocalic_jamoવોકેલિક જેમો
+characterLabelslabelsweatherહવામાન
+characterLabelslabelsrightwards_arrowsજમણી તરફનો એરો
+characterLabelslabelsvariant_formsવેરિએન્ટ સ્વરૂપે
+characterLabelslabelsdash_connectorડેશ અથવા જોડાણ
+characterLabelslabelshanzi_traditionalહાન્ઝી (ટ્રેડિશનલ)
+characterLabelslabelsmaleપુરુષ
+characterLabelslabelsanimals_natureપ્રાણી અથવા કુદરત
+characterLabelslabelswestern_asian_scriptsપશ્ચિમી એશિયન સ્ક્રિપ્ટ
+characterLabelslabelssportસ્પૉર્ટ
+characterLabelslabelspersonમાણસ
+characterLabelslabelsemojiઈમોજી
+characterLabelslabelsfull_width_form_variantપૂર્ણ પહોળાઈ નમૂનારૂપ વેરિએન્ટ
+characterLabelslabelsmodern_scriptsમોર્ડન સ્ક્રિપ્ટ
+characterLabelslabelstravelમુસાફરી
+characterLabelslabelsplantવનસ્પતિ
+characterLabelslabelsdivination_symbolsઅનુમાન ચિહ્ન
+characterLabelslabelsleftwards_arrowsડાબી તરફનો એરો
+characterLabelslabelslimited_useમર્યાદિત ઉપયોગ
+characterLabelslabelskeycapકીકેપ
+characterLabelslabelsplaceસ્થાન
+characterLabelslabelssmall_form_variantનાના ચલ
+characterLabelslabelsamerican_scriptsઅમેરિકન સ્ક્રિપ્ટ
+characterLabelslabelsflagઝંડો
+characterLabelslabelsfood_drinkઆહાર અને પીણાં
+characterLabelslabelsformat_whitespaceફોર્મેટ અને ખાલી સ્થાન
+characterLabelslabelsotherઅન્ય
+characterLabelslabelsobjectsવસ્તુ
+characterLabelslabelscurrency_symbolsચલણી ચિહ્ન
+characterLabelslabelsbrailleબ્રેઈલ
+characterLabelslabelsflagsધ્વજ
+characterLabelslabelsjapanese_kanaજાપાનીઝ કાના
+characterLabelslabelsideographic_desc_charactersઈન્ડિયોગ્રાફિક દશાંશ અક્ષરો
+characterLabelslabelskanbunકાનબુન
+characterLabelslabelsleftwards_rightwards_arrowsડાબી તરફ જમણી તરફનો એરો
+characterLabelslabelsnonspacingનોનસ્પેસીંગ
+characterLabelslabelstechnical_symbolsટેક્નિકલ ચિહ્નો
+characterLabelslabelseuropean_scriptsયુરોપીયન સ્ક્રિપ્ટ
+characterLabelslabelsspacingસ્પેસીંગ
+characterLabelslabelsnatureપ્રકૃતિ
+characterLabelslabelspunctuationવિરામચિહ્ન
+characterLabelslabelsdigitsઅંક
+characterLabelslabelsdownwards_upwards_arrowsઉપરની બાજુનો એરો
+characterLabelslabelsletterlike_symbolsઅક્ષર આકારના ચિહ્ન
+characterLabelslabelswhitespaceરિક્ત સ્થાન
+characterLabelslabelssmileys_peopleસ્માઈલીઝ અને લોકો
+characterLabelslabelsbox_drawingબોક્સ ડ્રોઈંગ
+characterLabelslabelsafrican_scriptsઆફ્રિકન સ્ક્રિપ્ટ
+characterLabelslabelsdingbatsડિન્ગબેટ્સ
+characterLabelslabelsformatફોર્મેટ
+characterLabelslabelshan_charactersહાન કેરેક્ટર
+characterLabelslabelshanzi_simplifiedહાન્ઝી (સિમ્લીફાય્ડ)
+characterLabelslabelskanjiકાન્જી
+characterLabelslabelsphonetic_alphabetફોનેટીક આલ્ફાબેટ
+characterLabelslabelshistoric_scriptsઐતિહાસિક સ્ક્રિપ્ટ
+characterLabelslabelssouth_asian_scriptsદક્ષિણ એશિયન સ્ક્રિપ્ટ
+characterLabelslabelsmath_symbolsગાણિતીક ચિહ્નો
+characterLabelslabelsbullets_starsબુલેટ અથવા સ્ટાર
+characterLabelslabelshan_radicalsહાન રેડિકલ્સ
+characterLabelslabelsdownwards_arrowsનીચેની બાજુનો એરો
+characterLabelslabelsmiddle_eastern_scriptsમધ્ય પૂર્વીય સ્ક્રિપ્ટ
+characterLabelslabelshanjaહાન્જા
+characterLabelslabelsarrowsએરો
+characterLabelslabelstone_marksટોન માર્ક્સ
+characterLabelslabelssoutheast_asian_scriptsદક્ષિણપૂર્વીય એશિયન સ્ક્રિપ્ટ
+characterLabelslabelsbuildingબિલ્ડિંગ
+characterLabelslabelsactivitiesપ્રવૃત્તિ
+characterLabelslabelsupwards_arrowsઉપરની તરફનો એરો
+characterLabelslabelssymbolsચિહ્નો
+characterLabelslabelstravel_placesપ્રવાસ અને સ્થળો
+characterLabelslabelsbodyશરીર
+characterLabelslabelspictographsચિત્રમયઅક્ષરો
+characterLabelslabelsconsonantal_jamoકોન્સોનન્ટલ જેમો
+characterLabelslabelsmodifierરૂપાંતરકારી
+characterLabelslabelsanimalપ્રાણી
+characterLabelslabelspairedજોડી
+characterLabelslabelsmiscellaneousમિશ્ર
+characterLabelslabelssmileyસ્માઇલી
+characterLabelslabelseast_asian_scriptsપૂર્વ એશિયન સ્ક્રિપ્ટ
+characterLabelslabelssign_standard_symbolsસહી અથવા પ્રમાણભૂત ચિહ્ન
+characterLabelslabelsheartહૃદય
+characterLabelslabelsmusical_symbolsસંગીત સંજ્ઞા
+characterLabelslabelshalf_width_form_variantપહોળા નમૂનારૂપ વેરિએન્ટ
+characterLabelslabelsfemaleસ્ત્રી
+characterLabelslabelsnumbersસંખ્યાઓ
+characterLabelslabelsgeometric_shapesભૌમિતિક આકાર
+typographicNamesfeatureNameafrcઊભો અંશ
+typographicNamesfeatureNameonumજૂની-શૈલીના અંકો
+typographicNamesfeatureNametnumટૅબ્યુલર નંબર
+typographicNamesfeatureNamepnumસાપેક્ષ સંખ્યાઓ
+typographicNamesfeatureNamelnumલાઇનિંગ નંબર
+typographicNamesfeatureNamesmcpનાના કૅપિટલ
+typographicNamesfeatureNamecpspકૅપિટલ સ્પેસિંગ
+typographicNamesfeatureNamedligવૈકલ્પિક યુક્તાક્ષર
+typographicNamesfeatureNameordnક્રમવાચક
+typographicNamesfeatureNamezeroસ્લૅશ કરેલ શૂન્ય
+typographicNamesfeatureNamefracવિકર્ણ અપૂર્ણાંક
+typographicNamesstyleNameital1standardકર્સિવ
+typographicNamesstyleNamewght600demiઅર્ધઘાટા
+typographicNamesstyleNamewght600standardથોડાં ઘાટા
+typographicNamesstyleNamewght300standardહળવા
+typographicNamesstyleNamewght200ultraઅતિ હળવા
+typographicNamesstyleNamewght200standardવધુ હળવા
+typographicNamesstyleNamewght350standardથોડાં હળવા
+typographicNamesstyleNamewght800standardવધુ-ઘાટા
+typographicNamesstyleNamewght380standardપુસ્તક
+typographicNamesstyleNamewght900standardકાળા
+typographicNamesstyleNamewght900heavyભારે
+typographicNamesstyleNamewght950ultrablackઅતિ કાળા
+typographicNamesstyleNamewght950standardવધુ-કાળા
+typographicNamesstyleNamewght950ultraheavyઅતિ ભારે
+typographicNamesstyleNamewght100standardપાતળા
+typographicNamesstyleNamewght700standardઘાટા
+typographicNamesstyleNamewght500standardમધ્યમ
+typographicNamesstyleNamewght400standardનિયમિત
+typographicNamesstyleNameslnt0standardઉપર જમણે
+typographicNamesstyleNameslnt24standardવધુ-ત્રાંસા
+typographicNamesstyleNameslnt-12standardબેકસ્લેન્ટ કરેલ
+typographicNamesstyleNameslnt12standardત્રાંસા
+typographicNamesstyleNameopsz18standardશીર્ષક આપવું
+typographicNamesstyleNameopsz144standardપોસ્ટર
+typographicNamesstyleNameopsz8standardકૅપ્શન
+typographicNamesstyleNameopsz12standardટેક્સ્ટ
+typographicNamesstyleNameopsz72standardપ્રદર્શન
+typographicNamesstyleNamewdth50narrowઅતિ સાંકડા
+typographicNamesstyleNamewdth50compressedઅતિ સંકુચિત
+typographicNamesstyleNamewdth50standardઅતિ ઘાટા
+typographicNamesstyleNamewdth100standardસામાન્ય
+typographicNamesstyleNamewdth62.5narrowઅતિ-સાંકડા
+typographicNamesstyleNamewdth62.5standardઅતિ-ઘાટા
+typographicNamesstyleNamewdth62.5compressedઅતિ-સંકુચિત
+typographicNamesstyleNamewdth75narrowસંકુચિત
+typographicNamesstyleNamewdth75standardઘાટા
+typographicNamesstyleNamewdth75compressedસંકુચિત
+typographicNamesstyleNamewdth125standardવિસ્તૃત
+typographicNamesstyleNamewdth125extendedલાંબા
+typographicNamesstyleNamewdth125wideપહોળા
+typographicNamesstyleNamewdth112.5standardથોડાં વિસ્તૃત
+typographicNamesstyleNamewdth112.5extendedથોડાં લાંબા
+typographicNamesstyleNamewdth112.5wideથોડાં પહોળા
+typographicNamesstyleNamewdth200wideઅતિપહોળા
+typographicNamesstyleNamewdth200standardઅતિવિસ્તૃત
+typographicNamesstyleNamewdth200extendedઅતિલાંબા
+typographicNamesstyleNamewdth87.5narrowથોડાં સાંકડા
+typographicNamesstyleNamewdth87.5standardથોડાં ઘાટા
+typographicNamesstyleNamewdth87.5compressedથોડાં સંકુચિત
+typographicNamesstyleNamewdth150wideવધુ-પહોળા
+typographicNamesstyleNamewdth150extendedવધુ-લાંબા
+typographicNamesstyleNamewdth150standardવધુ-વિસ્તૃત
+typographicNamesaxisNameopszદેખાય એવું કદ
+typographicNamesaxisNameslntત્રાંસા
+typographicNamesaxisNamewghtજાડાઈ
+typographicNamesaxisNameitalઈટાલિક
+typographicNamesaxisNamewdthપહોળાઈ
+delimitersquotationStart“
+delimitersalternateQuotationEnd’
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+numbersotherNumberingSystemsnativegujr
+numbersminimumGroupingDigits1
+numberssymbolslatnplusSign+
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatndecimal.
+numberssymbolslatnlist;
+numberssymbolslatnminusSign-
+numberssymbolslatntimeSeparator:
+numberssymbolslatnnanNaN
+numberssymbolslatnexponentialE
+numberssymbolslatninfinity∞
+numberssymbolslatngroup,
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolsgujrinfinity∞
+numberssymbolsgujrnanNaN
+numberssymbolsgujrexponentialE
+numberssymbolsgujrgroup,
+numberssymbolsgujrpercentSign%
+numberssymbolsgujrperMille‰
+numberssymbolsgujrsuperscriptingExponent×
+numberssymbolsgujrplusSign+
+numberssymbolsgujrdecimal.
+numberssymbolsgujrminusSign-
+numberssymbolsgujrtimeSeparator:
+numberssymbolsarabdecimal٫
+numberscurrencyFormatsgujrstandardstandard¤#,##0.00
+numberscurrencyFormatslatnshort1000000000000¤0 મહાપદ્મ
+numberscurrencyFormatslatnshort10000000000¤00 અબજ
+numberscurrencyFormatslatnshort100000000000¤0 નિખર્વ
+numberscurrencyFormatslatnshort10000000000000¤0 શંકુ
+numberscurrencyFormatslatnshort1000000000¤0 અબજ
+numberscurrencyFormatslatnshort100000000¤00 કરોડ
+numberscurrencyFormatslatnshort100000000000000¤0 જલધિ
+numberscurrencyFormatslatnshort10000¤00 હજાર
+numberscurrencyFormatslatnshort1000000¤00 લાખ
+numberscurrencyFormatslatnshort10000000¤0 કરોડ
+numberscurrencyFormatslatnshort1000¤0 હજાર
+numberscurrencyFormatslatnshort100000¤0 લાખ
+numberscurrencyFormatslatnstandardstandard¤#,##,##0.00;(¤#,##,##0.00)
+numbersscientificFormatslatnstandardstandard[#E0]
+numbersscientificFormatsgujrstandardstandard#E0
+numberspercentFormatslatnstandardstandard#,##,##0%
+numberspercentFormatsgujrstandardstandard#,##0%
+numbersmiscPatternslatnrange{0}-{1}
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnapproximately~{0}
+numbersmiscPatternslatnatMost≤{0}
+numberscurrenciesVEFstandardVEF
+numberscurrenciesVEFnarrowBs
+numberscurrenciesBZDstandardBZD
+numberscurrenciesBZDnarrow$
+numberscurrenciesTZSstandardTZS
+numberscurrenciesBYNstandardBYN
+numberscurrenciesBYNnarrowр.
+numberscurrenciesBAMstandardBAM
+numberscurrenciesBAMnarrowKM
+numberscurrenciesGHSstandardGHS
+numberscurrenciesGIPnarrow£
+numberscurrenciesGIPstandardGIP
+numberscurrenciesLRDstandardLRD
+numberscurrenciesLRDnarrow$
+numberscurrenciesBMDnarrow$
+numberscurrenciesBMDstandardBMD
+numberscurrenciesTWDstandardNT$
+numberscurrenciesTWDnarrowNT$
+numberscurrenciesSLLstandardSLL
+numberscurrenciesZMWnarrowZK
+numberscurrenciesZMWstandardZMW
+numberscurrenciesSYPstandardSYP
+numberscurrenciesSYPnarrow£
+numberscurrenciesHUFnarrowFt
+numberscurrenciesHUFstandardHUF
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesNZDnarrow$
+numberscurrenciesLYDstandardLYD
+numberscurrenciesSOSstandardSOS
+numberscurrenciesVNDstandard₫
+numberscurrenciesVNDnarrow₫
+numberscurrenciesPKRnarrowRs
+numberscurrenciesPKRstandardPKR
+numberscurrenciesAMDstandardAMD
+numberscurrenciesGYDnarrow$
+numberscurrenciesGYDstandardGYD
+numberscurrenciesMDLstandardMDL
+numberscurrenciesMYRnarrowRM
+numberscurrenciesMYRstandardMYR
+numberscurrenciesBRLnarrowR$
+numberscurrenciesBRLstandardR$
+numberscurrenciesRSDstandardRSD
+numberscurrenciesILSstandard₪
+numberscurrenciesILSnarrow₪
+numberscurrenciesLBPstandardLBP
+numberscurrenciesLBPnarrowL£
+numberscurrenciesHRKstandardHRK
+numberscurrenciesHRKnarrowkn
+numberscurrenciesSTNstandardSTN
+numberscurrenciesSTNnarrowDb
+numberscurrenciesIQDstandardIQD
+numberscurrenciesLKRstandardLKR
+numberscurrenciesLKRnarrowRs
+numberscurrenciesMXNstandardMX$
+numberscurrenciesMXNnarrow$
+numberscurrenciesEURnarrow€
+numberscurrenciesEURstandard€
+numberscurrenciesUZSstandardUZS
+numberscurrenciesTMTstandardTMT
+numberscurrenciesFKPstandardFKP
+numberscurrenciesFKPnarrow£
+numberscurrenciesEGPstandardEGP
+numberscurrenciesEGPnarrowE£
+numberscurrenciesCDFstandardCDF
+numberscurrenciesBSDstandardBSD
+numberscurrenciesBSDnarrow$
+numberscurrenciesAOAnarrowKz
+numberscurrenciesAOAstandardAOA
+numberscurrenciesMROstandardMRO
+numberscurrenciesARSstandardARS
+numberscurrenciesARSnarrow$
+numberscurrenciesNOKstandardNOK
+numberscurrenciesNOKnarrowkr
+numberscurrenciesQARstandardQAR
+numberscurrenciesTRYnarrow₺
+numberscurrenciesTRYvariantTL
+numberscurrenciesTRYstandardTRY
+numberscurrenciesDKKstandardDKK
+numberscurrenciesDKKnarrowkr
+numberscurrenciesMMKstandardMMK
+numberscurrenciesMMKnarrowK
+numberscurrenciesNADnarrow$
+numberscurrenciesNADstandardNAD
+numberscurrenciesXOFstandardCFA
+numberscurrenciesTHBnarrow฿
+numberscurrenciesTHBstandard฿
+numberscurrenciesGBPstandard£
+numberscurrenciesGBPnarrow£
+numberscurrenciesSEKnarrowkr
+numberscurrenciesSEKstandardSEK
+numberscurrenciesCUPnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesKMFnarrowCF
+numberscurrenciesKMFstandardKMF
+numberscurrenciesJMDnarrow$
+numberscurrenciesJMDstandardJMD
+numberscurrenciesCZKstandardCZK
+numberscurrenciesCZKnarrowKč
+numberscurrenciesUGXstandardUGX
+numberscurrenciesCHFstandardCHF
+numberscurrenciesKRWnarrow₩
+numberscurrenciesKRWstandard₩
+numberscurrenciesMNTnarrow₮
+numberscurrenciesMNTstandardMNT
+numberscurrenciesCADnarrow$
+numberscurrenciesCADstandardCA$
+numberscurrenciesBHDstandardBHD
+numberscurrenciesBDTstandardBDT
+numberscurrenciesBDTnarrow৳
+numberscurrenciesAUDnarrow$
+numberscurrenciesAUDstandardA$
+numberscurrenciesKPWstandardKPW
+numberscurrenciesKPWnarrow₩
+numberscurrenciesAFNstandardAFN
+numberscurrenciesSZLstandardSZL
+numberscurrenciesSARstandardSAR
+numberscurrenciesANGstandardANG
+numberscurrenciesKWDstandardKWD
+numberscurrenciesMOPstandardMOP
+numberscurrenciesOMRstandardOMR
+numberscurrenciesSTDstandardSTD
+numberscurrenciesHKDstandardHK$
+numberscurrenciesHKDnarrow$
+numberscurrenciesSSPstandardSSP
+numberscurrenciesSSPnarrow£
+numberscurrenciesHTGstandardHTG
+numberscurrenciesIRRstandardIRR
+numberscurrenciesNGNnarrow₦
+numberscurrenciesNGNstandardNGN
+numberscurrenciesCLPnarrow$
+numberscurrenciesCLPstandardCLP
+numberscurrenciesLVLstandardLVL
+numberscurrenciesMVRstandardMVR
+numberscurrenciesZARstandardZAR
+numberscurrenciesZARnarrowR
+numberscurrenciesUSDstandardUS$
+numberscurrenciesUSDnarrow$
+numberscurrenciesDZDstandardDZD
+numberscurrenciesBIFstandardBIF
+numberscurrenciesGNFstandardGNF
+numberscurrenciesGNFnarrowFG
+numberscurrenciesPGKstandardPGK
+numberscurrenciesMRUstandardMRU
+numberscurrenciesRONstandardRON
+numberscurrenciesRONnarrowlei
+numberscurrenciesVESstandardVES
+numberscurrenciesTTDstandardTTD
+numberscurrenciesTTDnarrow$
+numberscurrenciesBNDnarrow$
+numberscurrenciesBNDstandardBND
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBBDstandardBBD
+numberscurrenciesBBDnarrow$
+numberscurrenciesMWKstandardMWK
+numberscurrenciesTJSstandardTJS
+numberscurrenciesUYUstandardUYU
+numberscurrenciesUYUnarrow$
+numberscurrenciesBOBnarrowBs
+numberscurrenciesBOBstandardBOB
+numberscurrenciesAWGstandardAWG
+numberscurrenciesISKstandardISK
+numberscurrenciesISKnarrowkr
+numberscurrenciesRUBstandardRUB
+numberscurrenciesRUBnarrow₽
+numberscurrenciesJODstandardJOD
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesGMDstandardGMD
+numberscurrenciesYERstandardYER
+numberscurrenciesWSTstandardWST
+numberscurrenciesGELvariant₾
+numberscurrenciesGELstandardGEL
+numberscurrenciesGELnarrow₾
+numberscurrenciesSDGstandardSDG
+numberscurrenciesPENstandardPEN
+numberscurrenciesMADstandardMAD
+numberscurrenciesPHPnarrow₱
+numberscurrenciesPHPstandardPHP
+numberscurrenciesKZTnarrow₸
+numberscurrenciesKZTstandardKZT
+numberscurrenciesCVEstandardCVE
+numberscurrenciesCRCstandardCRC
+numberscurrenciesCRCnarrow₡
+numberscurrenciesALLstandardALL
+numberscurrenciesUAHnarrow₴
+numberscurrenciesUAHstandardUAH
+numberscurrenciesBGNstandardBGN
+numberscurrenciesMKDstandardMKD
+numberscurrenciesVUVstandardVUV
+numberscurrenciesTOPstandardTOP
+numberscurrenciesTOPnarrowT$
+numberscurrenciesSCRstandardSCR
+numberscurrenciesPLNnarrowzł
+numberscurrenciesPLNstandardPLN
+numberscurrenciesCUCnarrow$
+numberscurrenciesCUCstandardCUC
+numberscurrenciesAZNstandardAZN
+numberscurrenciesLTLstandardLTL
+numberscurrenciesKHRnarrow៛
+numberscurrenciesKHRstandardKHR
+numberscurrenciesMURstandardMUR
+numberscurrenciesMURnarrowરૂ.
+numberscurrenciesSGDnarrow$
+numberscurrenciesSGDstandardSGD
+numberscurrenciesCOPstandardCOP
+numberscurrenciesCOPnarrow$
+numberscurrenciesPYGnarrow₲
+numberscurrenciesPYGstandardPYG
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesLAKnarrow₭
+numberscurrenciesLAKstandardLAK
+numberscurrenciesDOPstandardDOP
+numberscurrenciesDOPnarrow$
+numberscurrenciesSRDnarrow$
+numberscurrenciesSRDstandardSRD
+numberscurrenciesDJFstandardDJF
+numberscurrenciesHNLnarrowL
+numberscurrenciesHNLstandardHNL
+numberscurrenciesSHPstandardSHP
+numberscurrenciesSHPnarrow£
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesXCDstandardEC$
+numberscurrenciesXCDnarrow$
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesMGAstandardMGA
+numberscurrenciesMGAnarrowAr
+numberscurrenciesNIOstandardNIO
+numberscurrenciesNIOnarrowC$
+numberscurrenciesPABstandardPAB
+numberscurrenciesTNDstandardTND
+numberscurrenciesSBDstandardSBD
+numberscurrenciesSBDnarrow$
+numberscurrenciesCNHstandardCNH
+numberscurrenciesETBstandardETB
+numberscurrenciesKESstandardKES
+numberscurrenciesKYDstandardKYD
+numberscurrenciesKYDnarrow$
+numberscurrenciesKGSstandardKGS
+numberscurrenciesNPRstandardNPR
+numberscurrenciesNPRnarrowRs
+numberscurrenciesERNstandardERN
+numberscurrenciesBYRstandardBYR
+numberscurrenciesAEDstandardAED
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesGTQnarrowQ
+numberscurrenciesINRnarrow₹
+numberscurrenciesINRstandard₹
+numberscurrenciesRWFstandardRWF
+numberscurrenciesRWFnarrowRF
+numberscurrenciesFJDnarrow$
+numberscurrenciesFJDstandardFJD
+numberscurrenciesBWPstandardBWP
+numberscurrenciesBWPnarrowP
+numberscurrenciesIDRnarrowRp
+numberscurrenciesIDRstandardIDR
+numberscurrenciesMZNstandardMZN
+numbersdefaultNumberingSystemstandardlatn
+numbersdecimalFormatsgujrstandardstandard#,##,##0.###
+numbersdecimalFormatslatnlong10000000000 અબજ
+numbersdecimalFormatslatnlong10000000000 કરોડ
+numbersdecimalFormatslatnlong1000000000000000 જલધિ
+numbersdecimalFormatslatnlong1000000 હજાર
+numbersdecimalFormatslatnlong100000000 કરોડ
+numbersdecimalFormatslatnlong10000 હજાર
+numbersdecimalFormatslatnlong100000000 લાખ
+numbersdecimalFormatslatnlong1000000 લાખ
+numbersdecimalFormatslatnlong1000000000000 અબજ
+numbersdecimalFormatslatnlong10000000000000 મહાપદ્મ
+numbersdecimalFormatslatnlong1000000000000 નિખર્વ
+numbersdecimalFormatslatnlong100000000000000 શંકુ
+numbersdecimalFormatslatnshort100000000000000 શંકુ
+numbersdecimalFormatslatnshort1000000000000 અબજ
+numbersdecimalFormatslatnshort10000000000000 મહાપદ્મ
+numbersdecimalFormatslatnshort1000000000000 નિખર્વ
+numbersdecimalFormatslatnshort100000000 લાખ
+numbersdecimalFormatslatnshort100000000 કરોડ
+numbersdecimalFormatslatnshort10000 હજાર
+numbersdecimalFormatslatnshort1000000 લાખ
+numbersdecimalFormatslatnshort10000000000 અબજ
+numbersdecimalFormatslatnshort10000000000 કરોડ
+numbersdecimalFormatslatnshort1000000000000000 જલધિ
+numbersdecimalFormatslatnshort1000000 હજાર
+numbersdecimalFormatslatnstandardstandard#,##,##0.###
+listPatternsorstart{0}, {1}
+listPatternsormiddle{0}, {1}
+listPatternsor2{0} અથવા {1}
+listPatternsorend{0}, અથવા {1}
+listPatternsunitstart{0}, {1}
+listPatternsunit2{0} અને {1}
+listPatternsunitend{0}, {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsstandardstart{0}, {1}
+listPatternsstandard2{0} અને {1}
+listPatternsstandardend{0} અને {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsunit-shortend{0}, {1}
+listPatternsunit-short2{0}, {1}
+listPatternsunit-shortstart{0}, {1}
+listPatternsstandard-shortend{0} અને {1}
+listPatternsstandard-short2{0} અને {1}
+listPatternsstandard-shortmiddle{0}, {1}
+listPatternsstandard-shortstart{0}, {1}
+listPatternsunit-narrowmiddle{0}, {1}
+listPatternsunit-narrow2{0}, {1}
+listPatternsunit-narrowend{0}, {1}
+listPatternsunit-narrowstart{0}, {1}
+calendarsbuddhisteraseraNames0BE
+calendarsbuddhisteraseraNarrow0BE
+calendarsbuddhisteraseraAbbr0BE
+calendarsethiopicmonthsformatnarrow1010
+calendarsethiopicmonthsformatnarrow1212
+calendarsethiopicmonthsformatnarrow1111
+calendarsethiopicmonthsformatnarrow77
+calendarsethiopicmonthsformatnarrow33
+calendarsethiopicmonthsformatnarrow55
+calendarsethiopicmonthsformatnarrow88
+calendarsethiopicmonthsformatnarrow1313
+calendarsethiopicmonthsformatnarrow22
+calendarsethiopicmonthsformatnarrow99
+calendarsethiopicmonthsformatnarrow66
+calendarsethiopicmonthsformatnarrow11
+calendarsethiopicmonthsformatnarrow44
+calendarsethiopicmonthsformatwide12નેહાસ્સે
+calendarsethiopicmonthsformatwide11હેમલે
+calendarsethiopicmonthsformatwide7મેગાબીટ
+calendarsethiopicmonthsformatwide3હેડાર
+calendarsethiopicmonthsformatwide10સેને
+calendarsethiopicmonthsformatwide9ગેનબોટ
+calendarsethiopicmonthsformatwide6યેકાતીત
+calendarsethiopicmonthsformatwide4તાહસાસ
+calendarsethiopicmonthsformatwide1મેસ્કેરેમ
+calendarsethiopicmonthsformatwide5તેર
+calendarsethiopicmonthsformatwide8મિયાઝિયા
+calendarsethiopicmonthsformatwide13પેગુમેન
+calendarsethiopicmonthsformatwide2ટેકેમ્ટ
+calendarsethiopicmonthsformatabbreviated3હેડાર
+calendarsethiopicmonthsformatabbreviated7મેગાબીટ
+calendarsethiopicmonthsformatabbreviated12નેહાસ્સે
+calendarsethiopicmonthsformatabbreviated11હેમલે
+calendarsethiopicmonthsformatabbreviated10સેને
+calendarsethiopicmonthsformatabbreviated4તાહસાસ
+calendarsethiopicmonthsformatabbreviated6યેકાતીત
+calendarsethiopicmonthsformatabbreviated1મેસ્કેરેમ
+calendarsethiopicmonthsformatabbreviated9ગેનબોટ
+calendarsethiopicmonthsformatabbreviated13પેગુમેન
+calendarsethiopicmonthsformatabbreviated8મિયાઝિયા
+calendarsethiopicmonthsformatabbreviated2ટેકેમ્ટ
+calendarsethiopicmonthsformatabbreviated5તેર
+calendarsethiopicmonthsstand-alonewide9ગેનબોટ
+calendarsethiopicmonthsstand-alonewide6યેકાતીત
+calendarsethiopicmonthsstand-alonewide1મેસ્કેરેમ
+calendarsethiopicmonthsstand-alonewide4તાહસાસ
+calendarsethiopicmonthsstand-alonewide5તેર
+calendarsethiopicmonthsstand-alonewide8મિયાઝિયા
+calendarsethiopicmonthsstand-alonewide13પેગુમેન
+calendarsethiopicmonthsstand-alonewide2ટેકેમ્ટ
+calendarsethiopicmonthsstand-alonewide11હેમલે
+calendarsethiopicmonthsstand-alonewide12નેહાસ્સે
+calendarsethiopicmonthsstand-alonewide7મેગાબીટ
+calendarsethiopicmonthsstand-alonewide3હેડાર
+calendarsethiopicmonthsstand-alonewide10સેને
+calendarsethiopicmonthsstand-aloneabbreviated5તેર
+calendarsethiopicmonthsstand-aloneabbreviated13પેગુમેન
+calendarsethiopicmonthsstand-aloneabbreviated2ટેકેમ્ટ
+calendarsethiopicmonthsstand-aloneabbreviated8મિયાઝિયા
+calendarsethiopicmonthsstand-aloneabbreviated9ગેનબોટ
+calendarsethiopicmonthsstand-aloneabbreviated6યેકાતીત
+calendarsethiopicmonthsstand-aloneabbreviated1મેસ્કેરેમ
+calendarsethiopicmonthsstand-aloneabbreviated4તાહસાસ
+calendarsethiopicmonthsstand-aloneabbreviated10સેને
+calendarsethiopicmonthsstand-aloneabbreviated7મેગાબીટ
+calendarsethiopicmonthsstand-aloneabbreviated12નેહાસ્સે
+calendarsethiopicmonthsstand-aloneabbreviated11હેમલે
+calendarsethiopicmonthsstand-aloneabbreviated3હેડાર
+calendarsethiopicmonthsstand-alonenarrow77
+calendarsethiopicmonthsstand-alonenarrow1212
+calendarsethiopicmonthsstand-alonenarrow1111
+calendarsethiopicmonthsstand-alonenarrow33
+calendarsethiopicmonthsstand-alonenarrow1010
+calendarsethiopicmonthsstand-alonenarrow99
+calendarsethiopicmonthsstand-alonenarrow66
+calendarsethiopicmonthsstand-alonenarrow44
+calendarsethiopicmonthsstand-alonenarrow11
+calendarsethiopicmonthsstand-alonenarrow55
+calendarsethiopicmonthsstand-alonenarrow1313
+calendarsethiopicmonthsstand-alonenarrow22
+calendarsethiopicmonthsstand-alonenarrow88
+calendarsethiopiceraseraNames0એરા0
+calendarsethiopiceraseraNames1એરા1
+calendarsethiopiceraseraNarrow1એરા1
+calendarsethiopiceraseraNarrow0એરા0
+calendarsethiopiceraseraAbbr1એરા1
+calendarsethiopiceraseraAbbr0એરા0
+calendarsgenericintervalFormatsddd–d
+calendarsgenericintervalFormatsyMMMEddE, d MMM–E, d MMM G y
+calendarsgenericintervalFormatsyMMMEdME,d MMM–E,d MMM G y
+calendarsgenericintervalFormatsyMMMEdyE, d MMM y–E, d MMM G y
+calendarsgenericintervalFormatsMMM–M
+calendarsgenericintervalFormatsHmmHH:mm–HH:mm
+calendarsgenericintervalFormatsHmHHH:mm–HH:mm
+calendarsgenericintervalFormatsyMMMdMG d MMM–d MMM y
+calendarsgenericintervalFormatsyMMMddG d–d MMM,y
+calendarsgenericintervalFormatsyMMMdyG d MMM,y–d MMM,y
+calendarsgenericintervalFormatsMMMMMMM–MMM
+calendarsgenericintervalFormatsyMEdyGGGG E,d/M/y–E,d/M/y
+calendarsgenericintervalFormatsyMEddGGGG E,d/M/y– E,d/M/y
+calendarsgenericintervalFormatsyMEdMGGGG E,d/M/y– E,d/M/y
+calendarsgenericintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgenericintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgenericintervalFormatsMddd/M – d/M
+calendarsgenericintervalFormatsMdMd/M – d/M
+calendarsgenericintervalFormatsHHHH–HH
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsMMMdMd MMM – d MMM
+calendarsgenericintervalFormatsMMMddd–d MMM
+calendarsgenericintervalFormatsyMddGGGG d/M/y–d/M/y
+calendarsgenericintervalFormatsyMdMGGGG d/M/y–d/M/y
+calendarsgenericintervalFormatsyMdyGGGG d/M/y–d/M/y
+calendarsgenericintervalFormatsyMMMyG y MMM – y MMM
+calendarsgenericintervalFormatsyMMMMG MMM–MMM y
+calendarsgenericintervalFormatsMEdME, d/M – E, d/M
+calendarsgenericintervalFormatsMEddE, d/M–E, d/M
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatsyMMGGGG M/y – M/y
+calendarsgenericintervalFormatsyMyGGGG M/y – M/y
+calendarsgenericintervalFormatsyyG y–y
+calendarsgenericintervalFormatsHvHHH–HH v
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatsyMMMMMMMMM–MMMM G y
+calendarsgenericintervalFormatsyMMMMyG MMMM y – MMMM y
+calendarsgenericintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgenericintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsGyMMMEdE, d MMM, G y
+calendarsgenericavailableFormatsBhh B
+calendarsgenericavailableFormatsGyMMMMMM G y
+calendarsgenericavailableFormatsEdE d
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsyyyyMMMMMM G y
+calendarsgenericavailableFormatsyyyyMdd/M/G y
+calendarsgenericavailableFormatsEBhmE h:mm B
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsBhmsh:mm:ss B
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsyyyyMMMMMMMM G y
+calendarsgenericavailableFormatsyyyyMEdE, d/M/G y
+calendarsgenericavailableFormatsMMdddd-MM
+calendarsgenericavailableFormatsMdd/M
+calendarsgenericavailableFormatsHHH
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMM/G y
+calendarsgenericavailableFormatsyyyyMMMEdE, d MMM, G y
+calendarsgenericavailableFormatshmshh:mm:ss a
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsMEdE, d/M
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsyyyyQQQQQQ G y
+calendarsgenericavailableFormatsyyyyMMMM-y G
+calendarsgenericavailableFormatsGyG y
+calendarsgenericavailableFormatsyG y
+calendarsgenericavailableFormatshmhh:mm a
+calendarsgenericavailableFormatsGyMMMdd, MMM G y
+calendarsgenericavailableFormatsyyyyG y
+calendarsgenericavailableFormatsBhmh:mm B
+calendarsgenericavailableFormatsMMMEdE, d MMM
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatsyyyyQQQQQQQQ G y
+calendarsgenericavailableFormatsyyyyMMMdd MMM, G y
+calendarsgenericavailableFormatsEBhmsE h:mm:ss B
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM, G y
+calendarsgenericdateFormatsshortstandardd-MM- GGGGG y
+calendarsgenericdateFormatslongstandardd MMMM, G y
+calendarsgenericdateFormatsmediumstandardd MMM, G y
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarscopticmonthsstand-alonenarrow1010
+calendarscopticmonthsstand-alonenarrow33
+calendarscopticmonthsstand-alonenarrow77
+calendarscopticmonthsstand-alonenarrow1212
+calendarscopticmonthsstand-alonenarrow1111
+calendarscopticmonthsstand-alonenarrow22
+calendarscopticmonthsstand-alonenarrow1313
+calendarscopticmonthsstand-alonenarrow88
+calendarscopticmonthsstand-alonenarrow55
+calendarscopticmonthsstand-alonenarrow66
+calendarscopticmonthsstand-alonenarrow44
+calendarscopticmonthsstand-alonenarrow11
+calendarscopticmonthsstand-alonenarrow99
+calendarscopticmonthsstand-aloneabbreviated9બાશાન્સ
+calendarscopticmonthsstand-aloneabbreviated6અમશિર
+calendarscopticmonthsstand-aloneabbreviated4કિયાક
+calendarscopticmonthsstand-aloneabbreviated1ટૉટ
+calendarscopticmonthsstand-aloneabbreviated5ટોબા
+calendarscopticmonthsstand-aloneabbreviated8બારમુઉડા
+calendarscopticmonthsstand-aloneabbreviated13નાસીઈ
+calendarscopticmonthsstand-aloneabbreviated2બાબા
+calendarscopticmonthsstand-aloneabbreviated12મેસ્રા
+calendarscopticmonthsstand-aloneabbreviated7બારમ્હાટ
+calendarscopticmonthsstand-aloneabbreviated11ઈપેપ
+calendarscopticmonthsstand-aloneabbreviated3હેટોર
+calendarscopticmonthsstand-aloneabbreviated10પાઓના
+calendarscopticmonthsstand-alonewide9બાશાન્સ
+calendarscopticmonthsstand-alonewide4કિયાક
+calendarscopticmonthsstand-alonewide6અમશિર
+calendarscopticmonthsstand-alonewide1ટૉટ
+calendarscopticmonthsstand-alonewide5ટોબા
+calendarscopticmonthsstand-alonewide2બાબા
+calendarscopticmonthsstand-alonewide13નાસીઈ
+calendarscopticmonthsstand-alonewide8બારમુઉડા
+calendarscopticmonthsstand-alonewide12મેસ્રા
+calendarscopticmonthsstand-alonewide7બારમ્હાટ
+calendarscopticmonthsstand-alonewide11ઈપેપ
+calendarscopticmonthsstand-alonewide3હેટોર
+calendarscopticmonthsstand-alonewide10પાઓના
+calendarscopticmonthsformatnarrow55
+calendarscopticmonthsformatnarrow22
+calendarscopticmonthsformatnarrow1313
+calendarscopticmonthsformatnarrow88
+calendarscopticmonthsformatnarrow99
+calendarscopticmonthsformatnarrow66
+calendarscopticmonthsformatnarrow44
+calendarscopticmonthsformatnarrow11
+calendarscopticmonthsformatnarrow1010
+calendarscopticmonthsformatnarrow1212
+calendarscopticmonthsformatnarrow77
+calendarscopticmonthsformatnarrow1111
+calendarscopticmonthsformatnarrow33
+calendarscopticmonthsformatabbreviated4કિયાક
+calendarscopticmonthsformatabbreviated6અમશિર
+calendarscopticmonthsformatabbreviated1ટૉટ
+calendarscopticmonthsformatabbreviated9બાશાન્સ
+calendarscopticmonthsformatabbreviated13નાસીઈ
+calendarscopticmonthsformatabbreviated8બારમુઉડા
+calendarscopticmonthsformatabbreviated2બાબા
+calendarscopticmonthsformatabbreviated5ટોબા
+calendarscopticmonthsformatabbreviated3હેટોર
+calendarscopticmonthsformatabbreviated7બારમ્હાટ
+calendarscopticmonthsformatabbreviated12મેસ્રા
+calendarscopticmonthsformatabbreviated11ઈપેપ
+calendarscopticmonthsformatabbreviated10પાઓના
+calendarscopticmonthsformatwide3હેટોર
+calendarscopticmonthsformatwide12મેસ્રા
+calendarscopticmonthsformatwide11ઈપેપ
+calendarscopticmonthsformatwide7બારમ્હાટ
+calendarscopticmonthsformatwide10પાઓના
+calendarscopticmonthsformatwide4કિયાક
+calendarscopticmonthsformatwide6અમશિર
+calendarscopticmonthsformatwide1ટૉટ
+calendarscopticmonthsformatwide9બાશાન્સ
+calendarscopticmonthsformatwide13નાસીઈ
+calendarscopticmonthsformatwide8બારમુઉડા
+calendarscopticmonthsformatwide2બાબા
+calendarscopticmonthsformatwide5ટોબા
+calendarscopticeraseraAbbr0એરા0
+calendarscopticeraseraAbbr1એરા1
+calendarscopticeraseraNarrow0એરા0
+calendarscopticeraseraNarrow1એરા1
+calendarscopticeraseraNames0એરા0
+calendarscopticeraseraNames1એરા1
+calendarsislamiceraseraAbbr0AH
+calendarsislamiceraseraNarrow0AH
+calendarsislamiceraseraNames0AH
+calendarsislamicmonthsstand-alonewide10શાવ્વલ
+calendarsislamicmonthsstand-alonewide12ધુʻલ-હિજ્જાહ
+calendarsislamicmonthsstand-alonewide11ધુʻલ-ક્વીʻડાહ
+calendarsislamicmonthsstand-alonewide7રજબ
+calendarsislamicmonthsstand-alonewide3રાબીʻ I
+calendarsislamicmonthsstand-alonewide5જુમાદા I
+calendarsislamicmonthsstand-alonewide2સફર
+calendarsislamicmonthsstand-alonewide8શાʻબાન
+calendarsislamicmonthsstand-alonewide9રમદાન
+calendarsislamicmonthsstand-alonewide1મુહર્રમ
+calendarsislamicmonthsstand-alonewide6જુમાદા II
+calendarsislamicmonthsstand-alonewide4રાબીʻ II
+calendarsislamicmonthsstand-aloneabbreviated8શા.
+calendarsislamicmonthsstand-aloneabbreviated2સફ.
+calendarsislamicmonthsstand-aloneabbreviated5જુમ. I
+calendarsislamicmonthsstand-aloneabbreviated1મુહ.
+calendarsislamicmonthsstand-aloneabbreviated6જુમ. II
+calendarsislamicmonthsstand-aloneabbreviated4રબ. II
+calendarsislamicmonthsstand-aloneabbreviated9રામ.
+calendarsislamicmonthsstand-aloneabbreviated10શાવ.
+calendarsislamicmonthsstand-aloneabbreviated3રબ.I
+calendarsislamicmonthsstand-aloneabbreviated7રાજ.
+calendarsislamicmonthsstand-aloneabbreviated12ધુʻલ-એચ.
+calendarsislamicmonthsstand-aloneabbreviated11ધુʻલ-ક્યુ.
+calendarsislamicmonthsstand-alonenarrow1010
+calendarsislamicmonthsstand-alonenarrow1212
+calendarsislamicmonthsstand-alonenarrow1111
+calendarsislamicmonthsstand-alonenarrow77
+calendarsislamicmonthsstand-alonenarrow33
+calendarsislamicmonthsstand-alonenarrow55
+calendarsislamicmonthsstand-alonenarrow22
+calendarsislamicmonthsstand-alonenarrow88
+calendarsislamicmonthsstand-alonenarrow99
+calendarsislamicmonthsstand-alonenarrow44
+calendarsislamicmonthsstand-alonenarrow66
+calendarsislamicmonthsstand-alonenarrow11
+calendarsislamicmonthsformatnarrow33
+calendarsislamicmonthsformatnarrow77
+calendarsislamicmonthsformatnarrow1212
+calendarsislamicmonthsformatnarrow1111
+calendarsislamicmonthsformatnarrow1010
+calendarsislamicmonthsformatnarrow11
+calendarsislamicmonthsformatnarrow66
+calendarsislamicmonthsformatnarrow44
+calendarsislamicmonthsformatnarrow99
+calendarsislamicmonthsformatnarrow88
+calendarsislamicmonthsformatnarrow22
+calendarsislamicmonthsformatnarrow55
+calendarsislamicmonthsformatwide7રજબ
+calendarsislamicmonthsformatwide12ધુʻલ-હિજ્જાહ
+calendarsislamicmonthsformatwide11ધુʻલ-ક્વીʻડાહ
+calendarsislamicmonthsformatwide3રાબીʻ I
+calendarsislamicmonthsformatwide10શાવ્વલ
+calendarsislamicmonthsformatwide9રમદાન
+calendarsislamicmonthsformatwide1મુહર્રમ
+calendarsislamicmonthsformatwide6જુમાદા II
+calendarsislamicmonthsformatwide4રાબીʻ II
+calendarsislamicmonthsformatwide5જુમાદા I
+calendarsislamicmonthsformatwide8શાʻબાન
+calendarsislamicmonthsformatwide2સફર
+calendarsislamicmonthsformatabbreviated12ધુʻલ-એચ.
+calendarsislamicmonthsformatabbreviated7રાજ.
+calendarsislamicmonthsformatabbreviated11ધુʻલ-ક્યુ.
+calendarsislamicmonthsformatabbreviated3રબ.I
+calendarsislamicmonthsformatabbreviated10શાવ.
+calendarsislamicmonthsformatabbreviated9રામ.
+calendarsislamicmonthsformatabbreviated6જુમ. II
+calendarsislamicmonthsformatabbreviated4રબ. II
+calendarsislamicmonthsformatabbreviated1મુહ.
+calendarsislamicmonthsformatabbreviated5જુમ. I
+calendarsislamicmonthsformatabbreviated8શા.
+calendarsislamicmonthsformatabbreviated2સફ.
+calendarsroceraseraAbbr0આર.ઓ.સી. પહેલાં
+calendarsroceraseraAbbr1આર.ઓ.સી.
+calendarsroceraseraNarrow0આર.ઓ.સી. પહેલાં
+calendarsroceraseraNarrow1આર.ઓ.સી.
+calendarsroceraseraNames1આર.ઓ.સી.
+calendarsroceraseraNames0આર.ઓ.સી. પહેલાં
+calendarshebrewmonthsstand-alonenarrow1212
+calendarshebrewmonthsstand-alonenarrow77
+calendarshebrewmonthsstand-alonenarrow1111
+calendarshebrewmonthsstand-alonenarrow33
+calendarshebrewmonthsstand-alonenarrow1010
+calendarshebrewmonthsstand-alonenarrow99
+calendarshebrewmonthsstand-alonenarrow66
+calendarshebrewmonthsstand-alonenarrow11
+calendarshebrewmonthsstand-alonenarrow44
+calendarshebrewmonthsstand-alonenarrow55
+calendarshebrewmonthsstand-alonenarrow88
+calendarshebrewmonthsstand-alonenarrow1313
+calendarshebrewmonthsstand-alonenarrow22
+calendarshebrewmonthsstand-alonewide9ઈયાર
+calendarshebrewmonthsstand-alonewide4તેવેટ
+calendarshebrewmonthsstand-alonewide6અદાર I
+calendarshebrewmonthsstand-alonewide1તીશ્રી
+calendarshebrewmonthsstand-alonewide5શેવાત
+calendarshebrewmonthsstand-alonewide8નિસાન
+calendarshebrewmonthsstand-alonewide13ઈલુલ
+calendarshebrewmonthsstand-alonewide2હેશવાન
+calendarshebrewmonthsstand-alonewide12આવ
+calendarshebrewmonthsstand-alonewide7અદાર II
+calendarshebrewmonthsstand-alonewide11તામુઝ
+calendarshebrewmonthsstand-alonewide3કિસ્લેવ
+calendarshebrewmonthsstand-alonewide10સિવાન
+calendarshebrewmonthsstand-aloneabbreviated9ઈયાર
+calendarshebrewmonthsstand-aloneabbreviated6અદાર I
+calendarshebrewmonthsstand-aloneabbreviated4તેવેટ
+calendarshebrewmonthsstand-aloneabbreviated1તીશ્રી
+calendarshebrewmonthsstand-aloneabbreviated5શેવાત
+calendarshebrewmonthsstand-aloneabbreviated13ઈલુલ
+calendarshebrewmonthsstand-aloneabbreviated8નિસાન
+calendarshebrewmonthsstand-aloneabbreviated2હેશવાન
+calendarshebrewmonthsstand-aloneabbreviated11તામુઝ
+calendarshebrewmonthsstand-aloneabbreviated12આવ
+calendarshebrewmonthsstand-aloneabbreviated7અદાર II
+calendarshebrewmonthsstand-aloneabbreviated3કિસ્લેવ
+calendarshebrewmonthsstand-aloneabbreviated10સિવાન
+calendarshebrewmonthsformatwide3કિસ્લેવ
+calendarshebrewmonthsformatwide12આવ
+calendarshebrewmonthsformatwide11તામુઝ
+calendarshebrewmonthsformatwide7અદાર II
+calendarshebrewmonthsformatwide10સિવાન
+calendarshebrewmonthsformatwide1તીશ્રી
+calendarshebrewmonthsformatwide6અદાર I
+calendarshebrewmonthsformatwide4તેવેટ
+calendarshebrewmonthsformatwide9ઈયાર
+calendarshebrewmonthsformatwide13ઈલુલ
+calendarshebrewmonthsformatwide8નિસાન
+calendarshebrewmonthsformatwide2હેશવાન
+calendarshebrewmonthsformatwide5શેવાત
+calendarshebrewmonthsformatabbreviated9ઈયાર
+calendarshebrewmonthsformatabbreviated1તીશ્રી
+calendarshebrewmonthsformatabbreviated6અદાર I
+calendarshebrewmonthsformatabbreviated4તેવેટ
+calendarshebrewmonthsformatabbreviated5શેવાત
+calendarshebrewmonthsformatabbreviated13ઈલુલ
+calendarshebrewmonthsformatabbreviated8નિસાન
+calendarshebrewmonthsformatabbreviated2હેશવાન
+calendarshebrewmonthsformatabbreviated12આવ
+calendarshebrewmonthsformatabbreviated7અદાર II
+calendarshebrewmonthsformatabbreviated11તામુઝ
+calendarshebrewmonthsformatabbreviated3કિસ્લેવ
+calendarshebrewmonthsformatabbreviated10સિવાન
+calendarshebrewmonthsformatnarrow99
+calendarshebrewmonthsformatnarrow11
+calendarshebrewmonthsformatnarrow66
+calendarshebrewmonthsformatnarrow44
+calendarshebrewmonthsformatnarrow55
+calendarshebrewmonthsformatnarrow1313
+calendarshebrewmonthsformatnarrow22
+calendarshebrewmonthsformatnarrow88
+calendarshebrewmonthsformatnarrow1111
+calendarshebrewmonthsformatnarrow1212
+calendarshebrewmonthsformatnarrow77
+calendarshebrewmonthsformatnarrow33
+calendarshebrewmonthsformatnarrow1010
+calendarshebreweraseraNarrow0AM
+calendarshebreweraseraNames0AM
+calendarshebreweraseraAbbr0AM
+calendarsindianmonthsformatwide3જ્યેષ્ઠ
+calendarsindianmonthsformatwide11મહા
+calendarsindianmonthsformatwide12ફાલ્ગુન
+calendarsindianmonthsformatwide7અસ્વિના
+calendarsindianmonthsformatwide10પોષ
+calendarsindianmonthsformatwide4અષાઢ
+calendarsindianmonthsformatwide6ભાદો
+calendarsindianmonthsformatwide1ચૈત્ર
+calendarsindianmonthsformatwide9અગ્રેહાના
+calendarsindianmonthsformatwide8કાર્તિક
+calendarsindianmonthsformatwide2વૈશાખ
+calendarsindianmonthsformatwide5શ્રાવણ
+calendarsindianmonthsformatabbreviated10પોષ
+calendarsindianmonthsformatabbreviated3જ્યેષ્ઠ
+calendarsindianmonthsformatabbreviated7અસ્વિના
+calendarsindianmonthsformatabbreviated12ફાલ્ગુન
+calendarsindianmonthsformatabbreviated11મહા
+calendarsindianmonthsformatabbreviated8કાર્તિક
+calendarsindianmonthsformatabbreviated2વૈશાખ
+calendarsindianmonthsformatabbreviated5શ્રાવણ
+calendarsindianmonthsformatabbreviated4અષાઢ
+calendarsindianmonthsformatabbreviated6ભાદો
+calendarsindianmonthsformatabbreviated1ચૈત્ર
+calendarsindianmonthsformatabbreviated9અગ્રેહાના
+calendarsindianmonthsformatnarrow1010
+calendarsindianmonthsformatnarrow1212
+calendarsindianmonthsformatnarrow77
+calendarsindianmonthsformatnarrow1111
+calendarsindianmonthsformatnarrow33
+calendarsindianmonthsformatnarrow55
+calendarsindianmonthsformatnarrow88
+calendarsindianmonthsformatnarrow22
+calendarsindianmonthsformatnarrow99
+calendarsindianmonthsformatnarrow66
+calendarsindianmonthsformatnarrow44
+calendarsindianmonthsformatnarrow11
+calendarsindianmonthsstand-alonewide10પોષ
+calendarsindianmonthsstand-alonewide3જ્યેષ્ઠ
+calendarsindianmonthsstand-alonewide12ફાલ્ગુન
+calendarsindianmonthsstand-alonewide11મહા
+calendarsindianmonthsstand-alonewide7અસ્વિના
+calendarsindianmonthsstand-alonewide8કાર્તિક
+calendarsindianmonthsstand-alonewide2વૈશાખ
+calendarsindianmonthsstand-alonewide5શ્રાવણ
+calendarsindianmonthsstand-alonewide6ભાદો
+calendarsindianmonthsstand-alonewide4અષાઢ
+calendarsindianmonthsstand-alonewide1ચૈત્ર
+calendarsindianmonthsstand-alonewide9અગ્રેહાના
+calendarsindianmonthsstand-aloneabbreviated6ભાદો
+calendarsindianmonthsstand-aloneabbreviated4અષાઢ
+calendarsindianmonthsstand-aloneabbreviated1ચૈત્ર
+calendarsindianmonthsstand-aloneabbreviated9અગ્રેહાના
+calendarsindianmonthsstand-aloneabbreviated8કાર્તિક
+calendarsindianmonthsstand-aloneabbreviated2વૈશાખ
+calendarsindianmonthsstand-aloneabbreviated5શ્રાવણ
+calendarsindianmonthsstand-aloneabbreviated3જ્યેષ્ઠ
+calendarsindianmonthsstand-aloneabbreviated12ફાલ્ગુન
+calendarsindianmonthsstand-aloneabbreviated11મહા
+calendarsindianmonthsstand-aloneabbreviated7અસ્વિના
+calendarsindianmonthsstand-aloneabbreviated10પોષ
+calendarsindianmonthsstand-alonenarrow1010
+calendarsindianmonthsstand-alonenarrow1111
+calendarsindianmonthsstand-alonenarrow1212
+calendarsindianmonthsstand-alonenarrow77
+calendarsindianmonthsstand-alonenarrow33
+calendarsindianmonthsstand-alonenarrow55
+calendarsindianmonthsstand-alonenarrow88
+calendarsindianmonthsstand-alonenarrow22
+calendarsindianmonthsstand-alonenarrow99
+calendarsindianmonthsstand-alonenarrow66
+calendarsindianmonthsstand-alonenarrow11
+calendarsindianmonthsstand-alonenarrow44
+calendarsindianavailableFormatsMMdddd-MM
+calendarsindianavailableFormatsMdd/M
+calendarsindianavailableFormatsMMMdd MMM
+calendarsindianavailableFormatsMMMMdd MMMM
+calendarsindianavailableFormatsMMMEdE, d MMM
+calendarsindianavailableFormatsMEdE, d/M
+calendarsindianeraseraNames0સાકા
+calendarsindianeraseraNarrow0સાકા
+calendarsindianeraseraAbbr0સાકા
+calendarsgregoriandateTimeFormatslong{1} એ {0} વાગ્યે
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} એ {0} વાગ્યે
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandaysformatnarrowwedબુ
+calendarsgregoriandaysformatnarrowsunર
+calendarsgregoriandaysformatnarrowsatશ
+calendarsgregoriandaysformatnarrowthuગુ
+calendarsgregoriandaysformatnarrowfriશુ
+calendarsgregoriandaysformatnarrowtueમં
+calendarsgregoriandaysformatnarrowmonસો
+calendarsgregoriandaysformatwidewedબુધવાર
+calendarsgregoriandaysformatwidesunરવિવાર
+calendarsgregoriandaysformatwidefriશુક્રવાર
+calendarsgregoriandaysformatwidesatશનિવાર
+calendarsgregoriandaysformatwidethuગુરુવાર
+calendarsgregoriandaysformatwidemonસોમવાર
+calendarsgregoriandaysformatwidetueમંગળવાર
+calendarsgregoriandaysformatabbreviatedtueમંગળ
+calendarsgregoriandaysformatabbreviatedmonસોમ
+calendarsgregoriandaysformatabbreviatedthuગુરુ
+calendarsgregoriandaysformatabbreviatedsatશનિ
+calendarsgregoriandaysformatabbreviatedfriશુક્ર
+calendarsgregoriandaysformatabbreviatedsunરવિ
+calendarsgregoriandaysformatabbreviatedwedબુધ
+calendarsgregoriandaysformatshortsunર
+calendarsgregoriandaysformatshortwedબુ
+calendarsgregoriandaysformatshorttueમં
+calendarsgregoriandaysformatshortmonસો
+calendarsgregoriandaysformatshortsatશ
+calendarsgregoriandaysformatshortthuગુ
+calendarsgregoriandaysformatshortfriશુ
+calendarsgregoriandaysstand-aloneshortsunર
+calendarsgregoriandaysstand-aloneshortwedબુ
+calendarsgregoriandaysstand-aloneshorttueમં
+calendarsgregoriandaysstand-aloneshortmonસો
+calendarsgregoriandaysstand-aloneshortsatશ
+calendarsgregoriandaysstand-aloneshortthuગુ
+calendarsgregoriandaysstand-aloneshortfriશુ
+calendarsgregoriandaysstand-alonewidemonસોમવાર
+calendarsgregoriandaysstand-alonewidetueમંગળવાર
+calendarsgregoriandaysstand-alonewidefriશુક્રવાર
+calendarsgregoriandaysstand-alonewidesatશનિવાર
+calendarsgregoriandaysstand-alonewidethuગુરુવાર
+calendarsgregoriandaysstand-alonewidesunરવિવાર
+calendarsgregoriandaysstand-alonewidewedબુધવાર
+calendarsgregoriandaysstand-aloneabbreviatedthuગુરુ
+calendarsgregoriandaysstand-aloneabbreviatedsatશનિ
+calendarsgregoriandaysstand-aloneabbreviatedfriશુક્ર
+calendarsgregoriandaysstand-aloneabbreviatedtueમંગળ
+calendarsgregoriandaysstand-aloneabbreviatedmonસોમ
+calendarsgregoriandaysstand-aloneabbreviatedwedબુધ
+calendarsgregoriandaysstand-aloneabbreviatedsunરવિ
+calendarsgregoriandaysstand-alonenarrowfriશુ
+calendarsgregoriandaysstand-alonenarrowsatશ
+calendarsgregoriandaysstand-alonenarrowthuગુ
+calendarsgregoriandaysstand-alonenarrowmonસો
+calendarsgregoriandaysstand-alonenarrowtueમં
+calendarsgregoriandaysstand-alonenarrowwedબુ
+calendarsgregoriandaysstand-alonenarrowsunર
+calendarsgregoriandayPeriodsstand-alonewideevening1સાંજ
+calendarsgregoriandayPeriodsstand-alonewidenight1રાત્રિ
+calendarsgregoriandayPeriodsstand-alonewideafternoon1બપોર
+calendarsgregoriandayPeriodsstand-alonewideamAM
+calendarsgregoriandayPeriodsstand-alonewidemidnightમધ્યરાત્રિ
+calendarsgregoriandayPeriodsstand-alonewidepmPM
+calendarsgregoriandayPeriodsstand-alonewidemorning1સવાર
+calendarsgregoriandayPeriodsstand-aloneabbreviatednight1રાત્રે
+calendarsgregoriandayPeriodsstand-aloneabbreviatedevening1સાંજે
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon1બપોરે
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmidnightમધ્યરાત્રિ
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning1સવારે
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-alonenarrownight1રાત્રે
+calendarsgregoriandayPeriodsstand-alonenarrowevening1સાંજે
+calendarsgregoriandayPeriodsstand-alonenarrowmorning1સવારે
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon1બપોરે
+calendarsgregoriandayPeriodsstand-alonenarrowmidnightમધ્યરાત્રિ
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsformatabbreviatedevening1સાંજે
+calendarsgregoriandayPeriodsformatabbreviatednight1રાત્રે
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandayPeriodsformatabbreviatedafternoon1બપોરે
+calendarsgregoriandayPeriodsformatabbreviatedmidnightમધ્યરાત્રિ
+calendarsgregoriandayPeriodsformatabbreviatedmorning1સવારે
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatwideevening1સાંજે
+calendarsgregoriandayPeriodsformatwidenight1રાત્રે
+calendarsgregoriandayPeriodsformatwideafternoon1બપોરે
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwidemidnightમધ્યરાત્રિ
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandayPeriodsformatwidemorning1સવારે
+calendarsgregoriandayPeriodsformatnarrowmorning1સવારે
+calendarsgregoriandayPeriodsformatnarrowpmPM
+calendarsgregoriandayPeriodsformatnarrowafternoon1બપોરે
+calendarsgregoriandayPeriodsformatnarrowmidnightમ.રાત્રિ
+calendarsgregoriandayPeriodsformatnarrowamAM
+calendarsgregoriandayPeriodsformatnarrownight1રાત્રે
+calendarsgregoriandayPeriodsformatnarrowevening1સાંજે
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatabbreviated1Q1
+calendarsgregorianquartersformatabbreviated4Q4
+calendarsgregorianquartersformatabbreviated2Q2
+calendarsgregorianquartersformatabbreviated3Q3
+calendarsgregorianquartersformatwide33જો ત્રિમાસ
+calendarsgregorianquartersformatwide44થો ત્રિમાસ
+calendarsgregorianquartersformatwide11લો ત્રિમાસ
+calendarsgregorianquartersformatwide22જો ત્રિમાસ
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonewide33જો ત્રિમાસ
+calendarsgregorianquartersstand-alonewide22જો ત્રિમાસ
+calendarsgregorianquartersstand-alonewide11લો ત્રિમાસ
+calendarsgregorianquartersstand-alonewide44થો ત્રિમાસ
+calendarsgregorianquartersstand-aloneabbreviated2Q2
+calendarsgregorianquartersstand-aloneabbreviated4Q4
+calendarsgregorianquartersstand-aloneabbreviated1Q1
+calendarsgregorianquartersstand-aloneabbreviated3Q3
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM, y
+calendarsgregoriandateFormatsshortstandardd/M/yy
+calendarsgregoriandateFormatsmediumstandardd MMM, y
+calendarsgregoriandateFormatslongstandardd MMMM, y
+calendarsgregoriantimeFormatslongstandardhh:mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardhh:mm:ss a
+calendarsgregoriantimeFormatsshortstandardhh:mm a
+calendarsgregoriantimeFormatsfullstandardhh:mm:ss a zzzz
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianmonthsstand-aloneabbreviated5મે
+calendarsgregorianmonthsstand-aloneabbreviated8ઑગસ્ટ
+calendarsgregorianmonthsstand-aloneabbreviated2ફેબ્રુ
+calendarsgregorianmonthsstand-aloneabbreviated9સપ્ટે
+calendarsgregorianmonthsstand-aloneabbreviated6જૂન
+calendarsgregorianmonthsstand-aloneabbreviated4એપ્રિલ
+calendarsgregorianmonthsstand-aloneabbreviated1જાન્યુ
+calendarsgregorianmonthsstand-aloneabbreviated10ઑક્ટો
+calendarsgregorianmonthsstand-aloneabbreviated12ડિસે
+calendarsgregorianmonthsstand-aloneabbreviated11નવે
+calendarsgregorianmonthsstand-aloneabbreviated7જુલાઈ
+calendarsgregorianmonthsstand-aloneabbreviated3માર્ચ
+calendarsgregorianmonthsstand-alonewide10ઑક્ટોબર
+calendarsgregorianmonthsstand-alonewide11નવેમ્બર
+calendarsgregorianmonthsstand-alonewide12ડિસેમ્બર
+calendarsgregorianmonthsstand-alonewide7જુલાઈ
+calendarsgregorianmonthsstand-alonewide3માર્ચ
+calendarsgregorianmonthsstand-alonewide5મે
+calendarsgregorianmonthsstand-alonewide2ફેબ્રુઆરી
+calendarsgregorianmonthsstand-alonewide8ઑગસ્ટ
+calendarsgregorianmonthsstand-alonewide9સપ્ટેમ્બર
+calendarsgregorianmonthsstand-alonewide4એપ્રિલ
+calendarsgregorianmonthsstand-alonewide6જૂન
+calendarsgregorianmonthsstand-alonewide1જાન્યુઆરી
+calendarsgregorianmonthsstand-alonenarrow5મે
+calendarsgregorianmonthsstand-alonenarrow2ફે
+calendarsgregorianmonthsstand-alonenarrow8ઑ
+calendarsgregorianmonthsstand-alonenarrow9સ
+calendarsgregorianmonthsstand-alonenarrow6જૂ
+calendarsgregorianmonthsstand-alonenarrow4એ
+calendarsgregorianmonthsstand-alonenarrow1જા
+calendarsgregorianmonthsstand-alonenarrow10ઑ
+calendarsgregorianmonthsstand-alonenarrow11ન
+calendarsgregorianmonthsstand-alonenarrow12ડિ
+calendarsgregorianmonthsstand-alonenarrow7જુ
+calendarsgregorianmonthsstand-alonenarrow3મા
+calendarsgregorianmonthsformatabbreviated3માર્ચ
+calendarsgregorianmonthsformatabbreviated12ડિસે
+calendarsgregorianmonthsformatabbreviated11નવે
+calendarsgregorianmonthsformatabbreviated7જુલાઈ
+calendarsgregorianmonthsformatabbreviated10ઑક્ટો
+calendarsgregorianmonthsformatabbreviated6જૂન
+calendarsgregorianmonthsformatabbreviated4એપ્રિલ
+calendarsgregorianmonthsformatabbreviated1જાન્યુ
+calendarsgregorianmonthsformatabbreviated9સપ્ટે
+calendarsgregorianmonthsformatabbreviated2ફેબ્રુ
+calendarsgregorianmonthsformatabbreviated8ઑગસ્ટ
+calendarsgregorianmonthsformatabbreviated5મે
+calendarsgregorianmonthsformatwide9સપ્ટેમ્બર
+calendarsgregorianmonthsformatwide6જૂન
+calendarsgregorianmonthsformatwide1જાન્યુઆરી
+calendarsgregorianmonthsformatwide4એપ્રિલ
+calendarsgregorianmonthsformatwide5મે
+calendarsgregorianmonthsformatwide2ફેબ્રુઆરી
+calendarsgregorianmonthsformatwide8ઑગસ્ટ
+calendarsgregorianmonthsformatwide12ડિસેમ્બર
+calendarsgregorianmonthsformatwide11નવેમ્બર
+calendarsgregorianmonthsformatwide7જુલાઈ
+calendarsgregorianmonthsformatwide3માર્ચ
+calendarsgregorianmonthsformatwide10ઑક્ટોબર
+calendarsgregorianmonthsformatnarrow3મા
+calendarsgregorianmonthsformatnarrow11ન
+calendarsgregorianmonthsformatnarrow12ડિ
+calendarsgregorianmonthsformatnarrow7જુ
+calendarsgregorianmonthsformatnarrow10ઑ
+calendarsgregorianmonthsformatnarrow4એ
+calendarsgregorianmonthsformatnarrow6જૂ
+calendarsgregorianmonthsformatnarrow1જા
+calendarsgregorianmonthsformatnarrow9સ
+calendarsgregorianmonthsformatnarrow8ઑ
+calendarsgregorianmonthsformatnarrow2ફે
+calendarsgregorianmonthsformatnarrow5મે
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsyMMMM-y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsMEdE, d/M
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsywY ના w અઠવાડિયા
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyMMMdd MMM, G y
+calendarsgregorianavailableFormatsGyG y
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsMMMEdE, d MMM
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsBhmh:mm B
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEBhmsE h:mm:ss B
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsyMMMEdE, d MMM, y
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsEdE d
+calendarsgregorianavailableFormatsGyMMMEdE, d MMM, G y
+calendarsgregorianavailableFormatsGyMMMMMM, G y
+calendarsgregorianavailableFormatsBhh B
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsMMMMWMMM ના W અઠવાડિયા
+calendarsgregorianavailableFormatsyMMMdd MMM, y
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEBhmE h:mm B
+calendarsgregorianavailableFormatsBhmsh:mm:ss B
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsyMEdE, d/M/y
+calendarsgregorianavailableFormatsMMdddd-MM
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianeraseraNames1સામાન્ય યુગ
+calendarsgregorianeraseraNames0સામાન્ય યુગ પહેલા
+calendarsgregorianeraseraNarrow1ઇસ
+calendarsgregorianeraseraNarrow0ઇ સ પુ
+calendarsgregorianeraseraAbbr1સા.યુ.
+calendarsgregorianeraseraAbbr0સા.યુ.પ.
+calendarsgregorianintervalFormatsyMdyd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMddd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMdMd/M/y – d/M/y
+calendarsgregorianintervalFormatsMMMdMd MMM – d MMM
+calendarsgregorianintervalFormatsMMMddd–d MMM
+calendarsgregorianintervalFormatsMdMd/M – d/M
+calendarsgregorianintervalFormatsMddd/M – d/M
+calendarsgregorianintervalFormatsyMEdyE, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMEdME, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMEddE, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsMMMMMMM – MMM
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatsHHHH – HH
+calendarsgregorianintervalFormatsyMMMdyd MMM, y – d MMM, y
+calendarsgregorianintervalFormatsyMMMddd–d MMM, y
+calendarsgregorianintervalFormatsyMMMdMd MMM – d MMM, y
+calendarsgregorianintervalFormatsyMMMEddE, d MMM – E, d MMM, y
+calendarsgregorianintervalFormatsyMMMEdME, d MMM – E, d MMM, y
+calendarsgregorianintervalFormatsyMMMEdyE, d MMM, y – E, d MMM, y
+calendarsgregorianintervalFormatsMMM – M
+calendarsgregorianintervalFormatsddd – d
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmHHH:mm – HH:mm
+calendarsgregorianintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgregorianintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgregorianintervalFormatsyMMMMMMMMM – MMMM y
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsyMMM/y – M/y
+calendarsgregorianintervalFormatsyMyM/y – M/y
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatsyyy – y
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatshmhh:mm – h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsyMMMMMMM – MMM y
+calendarsgregorianintervalFormatsMEdME,d/M – E,d/M
+calendarsgregorianintervalFormatsMEddE, d/M – E, d/M
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatshhh–h a
+calendarspersianmonthsstand-alonenarrow66
+calendarspersianmonthsstand-alonenarrow11
+calendarspersianmonthsstand-alonenarrow44
+calendarspersianmonthsstand-alonenarrow99
+calendarspersianmonthsstand-alonenarrow88
+calendarspersianmonthsstand-alonenarrow22
+calendarspersianmonthsstand-alonenarrow55
+calendarspersianmonthsstand-alonenarrow33
+calendarspersianmonthsstand-alonenarrow1212
+calendarspersianmonthsstand-alonenarrow77
+calendarspersianmonthsstand-alonenarrow1111
+calendarspersianmonthsstand-alonenarrow1010
+calendarspersianmonthsstand-alonewide5મોર્દાદ
+calendarspersianmonthsstand-alonewide8અબાન
+calendarspersianmonthsstand-alonewide2ઓરડીબેહેશ્ટ
+calendarspersianmonthsstand-alonewide9અઝાર
+calendarspersianmonthsstand-alonewide1Farvardin
+calendarspersianmonthsstand-alonewide6શાહરિવર
+calendarspersianmonthsstand-alonewide4તિર
+calendarspersianmonthsstand-alonewide10ડેય
+calendarspersianmonthsstand-alonewide7મેહર
+calendarspersianmonthsstand-alonewide12એસ્ફાન્ડ
+calendarspersianmonthsstand-alonewide11બાહમેન
+calendarspersianmonthsstand-alonewide3ખોરદાદ
+calendarspersianmonthsstand-aloneabbreviated6શાહરિવર
+calendarspersianmonthsstand-aloneabbreviated4તિર
+calendarspersianmonthsstand-aloneabbreviated1ફાર્વાર્દિન
+calendarspersianmonthsstand-aloneabbreviated9અઝાર
+calendarspersianmonthsstand-aloneabbreviated8અબાન
+calendarspersianmonthsstand-aloneabbreviated2ઓરડીબેહેશ્ટ
+calendarspersianmonthsstand-aloneabbreviated5મોર્દાદ
+calendarspersianmonthsstand-aloneabbreviated3ખોરદાદ
+calendarspersianmonthsstand-aloneabbreviated12એસ્ફાન્ડ
+calendarspersianmonthsstand-aloneabbreviated7મેહર
+calendarspersianmonthsstand-aloneabbreviated11બાહમેન
+calendarspersianmonthsstand-aloneabbreviated10ડેય
+calendarspersianmonthsformatnarrow33
+calendarspersianmonthsformatnarrow1212
+calendarspersianmonthsformatnarrow77
+calendarspersianmonthsformatnarrow1111
+calendarspersianmonthsformatnarrow1010
+calendarspersianmonthsformatnarrow66
+calendarspersianmonthsformatnarrow44
+calendarspersianmonthsformatnarrow11
+calendarspersianmonthsformatnarrow99
+calendarspersianmonthsformatnarrow22
+calendarspersianmonthsformatnarrow88
+calendarspersianmonthsformatnarrow55
+calendarspersianmonthsformatabbreviated5મોર્દાદ
+calendarspersianmonthsformatabbreviated2ઓરડીબેહેશ્ટ
+calendarspersianmonthsformatabbreviated8અબાન
+calendarspersianmonthsformatabbreviated9અઝાર
+calendarspersianmonthsformatabbreviated6શાહરિવર
+calendarspersianmonthsformatabbreviated1ફાર્વાર્દિન
+calendarspersianmonthsformatabbreviated4તિર
+calendarspersianmonthsformatabbreviated10ડેય
+calendarspersianmonthsformatabbreviated12એસ્ફાન્ડ
+calendarspersianmonthsformatabbreviated7મેહર
+calendarspersianmonthsformatabbreviated11બાહમેન
+calendarspersianmonthsformatabbreviated3ખોરદાદ
+calendarspersianmonthsformatwide4તિર
+calendarspersianmonthsformatwide6શાહરિવર
+calendarspersianmonthsformatwide1ફાર્વાર્દિન
+calendarspersianmonthsformatwide9અઝાર
+calendarspersianmonthsformatwide2ઓરડીબેહેશ્ટ
+calendarspersianmonthsformatwide8અબાન
+calendarspersianmonthsformatwide5મોર્દાદ
+calendarspersianmonthsformatwide3ખોરદાદ
+calendarspersianmonthsformatwide12એસ્ફાન્ડ
+calendarspersianmonthsformatwide7મેહર
+calendarspersianmonthsformatwide11બાહમેન
+calendarspersianmonthsformatwide10ડેય
+calendarspersianeraseraNames0AP
+calendarspersianeraseraNarrow0AP
+calendarspersianeraseraAbbr0AP
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNamesscriptsGlagગ્લેગોલિટિક
+localeDisplayNamesscriptsSundસુદાનીઝ
+localeDisplayNamesscriptsAvstઅવેસ્તન
+localeDisplayNamesscriptsArabપર્સો-અરબી
+localeDisplayNamesscriptsLanaલાના
+localeDisplayNamesscriptsSinhસિંહલી
+localeDisplayNamesscriptsKhmrખ્મેર
+localeDisplayNamesscriptsGeorજ્યોર્જિઅન
+localeDisplayNamesscriptsOlckઓલ ચિકી
+localeDisplayNamesscriptsKaliકાયાહ લી
+localeDisplayNamesscriptsHantપરંપરાગત હાન
+localeDisplayNamesscriptsLinbલીનિયર બી
+localeDisplayNamesscriptsManiમાનીચાયીન
+localeDisplayNamesscriptsDsrtડેસરેટ
+localeDisplayNamesscriptsSyrjપશ્ચિમ સિરિયાક
+localeDisplayNamesscriptsEgydઇજિપ્શિયન ડેમોટિક
+localeDisplayNamesscriptsBrahબ્રહ્મી
+localeDisplayNamesscriptsRjngરીજાંગ
+localeDisplayNamesscriptsHebrહીબ્રુ
+localeDisplayNamesscriptsGothગોથિક
+localeDisplayNamesscriptsBatkબટાક
+localeDisplayNamesscriptsBopoબોપોમોફો
+localeDisplayNamesscriptsLaooલાઓ
+localeDisplayNamesscriptsMeroમેરોઇટિક
+localeDisplayNamesscriptsNkooએન’ કો
+localeDisplayNamesscriptsBaliબાલીનીઝ
+localeDisplayNamesscriptsZsymપ્રતીકો
+localeDisplayNamesscriptsTibtટિબેટી
+localeDisplayNamesscriptsTaluનવીન તાઇ લૂ
+localeDisplayNamesscriptsZmthગણિતીય સંકેતલિપિ
+localeDisplayNamesscriptsTengતેન્ગવાર
+localeDisplayNamesscriptsGeokજ્યોર્જિઅન ખુતસુરી
+localeDisplayNamesscriptsShawશાવિયાન
+localeDisplayNamesscriptsLepcલેપચા
+localeDisplayNamesscriptsSyloસિલોતી નાગરી
+localeDisplayNamesscriptsGrekગ્રીક
+localeDisplayNamesscriptsMongમોંગોલિયન
+localeDisplayNamesscriptsMymrમ્યાંમાર
+localeDisplayNamesscriptsZyyyસામાન્ય
+localeDisplayNamesscriptsArmnઅર્મેનિયન
+localeDisplayNamesscriptsHmngપહાઉ મોન્ગ
+localeDisplayNamesscriptsBlisબ્લિસિમ્બોલ્સ
+localeDisplayNamesscriptsTamlતમિલ
+localeDisplayNamesscriptsUgarયુગાતિટિક
+localeDisplayNamesscriptsBugiબગિનીસ
+localeDisplayNamesscriptsItalજૂનુ ઇટાલિક
+localeDisplayNamesscriptsTagbતગબન્વા
+localeDisplayNamesscriptsHaniહાન
+localeDisplayNamesscriptsKndaકન્નડા
+localeDisplayNamesscriptsThaaથાના
+localeDisplayNamesscriptsJpanજાપાની
+localeDisplayNamesscriptsCyrlસિરિલિક
+localeDisplayNamesscriptsHrktજાપાનીઝ વર્ણમાળા
+localeDisplayNamesscriptsLatfફ્રેકતુર લેટિન
+localeDisplayNamesscriptsLatnલેટિન
+localeDisplayNamesscriptsLimbલિમ્બૂ
+localeDisplayNamesscriptsVaiiવાઇ
+localeDisplayNamesscriptsCirtસિર્થ
+localeDisplayNamesscriptsOryaઉડિયા
+localeDisplayNamesscriptsPhliઇન્સ્ક્રિપ્શનલ પહલવી
+localeDisplayNamesscriptsTeluતેલુગુ
+localeDisplayNamesscriptsTglgટેગાલોગ
+localeDisplayNamesscriptsLyciલિશિયન
+localeDisplayNamesscriptsTaleતાઇ લી
+localeDisplayNamesscriptsSaraસરાતી
+localeDisplayNamesscriptsEthiઇથિયોપિક
+localeDisplayNamesscriptsPermઓલ્ડ પરમિક
+localeDisplayNamesscriptsMteiમેઇતેઇ માયેક
+localeDisplayNamesscriptsYiiiયી
+localeDisplayNamesscriptsSyrcસિરિયેક
+localeDisplayNamesscriptsCoptકોપ્ટિક
+localeDisplayNamesscriptsCariકરૈન
+localeDisplayNamesscriptsBraiબ્રેલ
+localeDisplayNamesscriptsOrkhઓરખોન
+localeDisplayNamesscriptsPhlvબુક પહલવી
+localeDisplayNamesscriptsHansસરળીકૃત હાન
+localeDisplayNamesscriptsZxxxઅલિખિત
+localeDisplayNamesscriptsZsyeઇમોજી
+localeDisplayNamesscriptsBengબંગાળી
+localeDisplayNamesscriptsOsmaઓસ્માન્યા
+localeDisplayNamesscriptsXpeoજુની ફારસી
+localeDisplayNamesscriptsCprtસિપ્રાયટ
+localeDisplayNamesscriptsLinaલીનિયર અ
+localeDisplayNamesscriptsPhnxફોનિશિયન
+localeDisplayNamesscriptsOgamઓઘામ
+localeDisplayNamesscriptsKanaકટાકાના
+localeDisplayNamesscriptsSyrnપૂર્વ સિરિયાક
+localeDisplayNamesscriptsEgyhઇજિપ્શિયન હાઇરેટિક
+localeDisplayNamesscriptsPrtiઇન્સ્ક્રિપ્શનલ પાર્થિયન
+localeDisplayNamesscriptsKharખારોશ્થી
+localeDisplayNamesscriptsEgypઇજિપ્શિયન હાઇરોગ્લિફ્સ
+localeDisplayNamesscriptsTfngતિફિનાઘ
+localeDisplayNamesscriptsIndsસિન્ધુ
+localeDisplayNamesscriptsMlymમલયાલમ
+localeDisplayNamesscriptsCherચેરોકી
+localeDisplayNamesscriptsPlrdપોલાર્ડ ફોનેટિક
+localeDisplayNamesscriptsHiraહિરાગાના
+localeDisplayNamesscriptsVispવિસિબલ સ્પીચ
+localeDisplayNamesscriptsDevaદેવનાગરી
+localeDisplayNamesscriptsSgnwસંકેત લિપી
+localeDisplayNamesscriptsArmiઇમ્પિરિયલ આર્મનિક
+localeDisplayNamesscriptsGujrગુજરાતી
+localeDisplayNamesscriptsZzzzઅજ્ઞાત લિપિ
+localeDisplayNamesscriptsZinhવંશાગત
+localeDisplayNamesscriptsSamrસમરિટાન
+localeDisplayNamesscriptsRunrરૂનિક
+localeDisplayNamesscriptsKthiકૈથી
+localeDisplayNamesscriptsXsuxસુમેરો અક્કાદિયન સુનિફોર્મ
+localeDisplayNamesscriptsTavtતાઇ વેઇત
+localeDisplayNamesscriptsJamoજેમો
+localeDisplayNamesscriptsHanbહાન્બ
+localeDisplayNamesscriptsHangહંગુલ
+localeDisplayNamesscriptsSaurસૌરાષ્ટ્ર
+localeDisplayNamesscriptsBuhdબુહિદ
+localeDisplayNamesscriptsCakmચકમા
+localeDisplayNamesscriptsJavaજાવાનીસ
+localeDisplayNamesscriptsSyreએસ્ત્રેન્જેલો સિરિયાક
+localeDisplayNamesscriptsGuruગુરૂમુખી
+localeDisplayNamesscriptsCansયુનાઇટેડ કેનેડિયન એબોરિજનલ સિલેબિક્સ
+localeDisplayNamesscriptsMoonમૂન
+localeDisplayNamesscriptsKoreકોરિયન
+localeDisplayNamesscriptsHanoહનુનૂ
+localeDisplayNamesscriptsCyrsઓલ્ડ ચર્ચ સ્લાવોનિક સિરિલિક
+localeDisplayNamesscriptsMayaમયાન હાઇરોગ્લિફ્સ
+localeDisplayNamesscriptsPhagફાગ્સ-પા
+localeDisplayNamesscriptsHungઓલ્ડ હંગેરિયન
+localeDisplayNamesscriptsThaiથાઇ
+localeDisplayNamesscriptsLatgગૈલિક લેટિન
+localeDisplayNamesscriptsLydiલિડિયન
+localeDisplayNamesscriptsMandમાન્ડાયીન
+localeDisplayNamesscriptsPhlpસાલટર પહલવી
+localeDisplayNamesscriptsRoroરોંગોરોંગો
+localeDisplayNamescodePatternslanguageભાષા: {0}
+localeDisplayNamescodePatternsscriptસ્ક્રિપ્ટ: {0}
+localeDisplayNamescodePatternsterritoryપ્રદેશ: {0}
+localeDisplayNameslanguagesboતિબેટીયન
+localeDisplayNameslanguageslagલંગી
+localeDisplayNameslanguagesluiલુઇસેનો
+localeDisplayNameslanguagesnaqનમા
+localeDisplayNameslanguagescggચિગા
+localeDisplayNameslanguagestrટર્કિશ
+localeDisplayNameslanguagesfatફન્ટી
+localeDisplayNameslanguagessmsસ્કોલ્ટ સામી
+localeDisplayNameslanguagesmgaમધ્ય આઈરિશ
+localeDisplayNameslanguagesliલિંબૂર્ગિશ
+localeDisplayNameslanguagesvoવોલાપુક
+localeDisplayNameslanguagesumbઉમ્બુન્ડૂ
+localeDisplayNameslanguagesnnhનીએમબુન
+localeDisplayNameslanguagesfroજૂની ફ્રેંચ
+localeDisplayNameslanguagesyavયાન્ગબેન
+localeDisplayNameslanguagessukસુકુમા
+localeDisplayNameslanguageshaહૌસા
+localeDisplayNameslanguageshoહિરી મોટૂ
+localeDisplayNameslanguagesgbzઝોરોસ્ટ્રિઅન દારી
+localeDisplayNameslanguagesazઅઝેરી
+localeDisplayNameslanguagesbinબિની
+localeDisplayNameslanguagesarcએરમૈક
+localeDisplayNameslanguagescchઅત્સમ
+localeDisplayNameslanguagesmosમોસ્સી
+localeDisplayNameslanguageskrcકરાચય-બલ્કાર
+localeDisplayNameslanguagesyaoયાઓ
+localeDisplayNameslanguagesugઉઇગુર
+localeDisplayNameslanguagesundઅજ્ઞાત ભાષા
+localeDisplayNameslanguageskcgત્યાપ
+localeDisplayNameslanguagessehસેના
+localeDisplayNameslanguagesadyઅદિઘે
+localeDisplayNameslanguagesudmઉદમુર્ત
+localeDisplayNameslanguagesmaiમૈથિલી
+localeDisplayNameslanguagesmgમલાગસી
+localeDisplayNameslanguageskrકનુરી
+localeDisplayNameslanguagesluoલ્યુઓ
+localeDisplayNameslanguagespsપુશ્તો
+localeDisplayNameslanguagesqucકિચે
+localeDisplayNameslanguagesnvનાવાજો
+localeDisplayNameslanguagesksbશમ્બાલા
+localeDisplayNameslanguagestrvટારોકો
+localeDisplayNameslanguagesgohજૂની હાઇ જર્મન
+localeDisplayNameslanguagesrmરોમાન્શ
+localeDisplayNameslanguagessrસર્બિયન
+localeDisplayNameslanguagesmgoમેતા
+localeDisplayNameslanguagesnnનોર્વેજિયન નાયનૉર્સ્ક
+localeDisplayNameslanguageszh_Hantપારંપરિક ચાઇનીઝ
+localeDisplayNameslanguageszenઝેનાગા
+localeDisplayNameslanguagesjgoનગોમ્બા
+localeDisplayNameslanguagesslસ્લોવેનિયન
+localeDisplayNameslanguagesruરશિયન
+localeDisplayNameslanguagesnrદક્ષિણ દેબેલ
+localeDisplayNameslanguagesgayગાયો
+localeDisplayNameslanguagessatસંતાલી
+localeDisplayNameslanguageskawકાવી
+localeDisplayNameslanguagesmusક્રિક
+localeDisplayNameslanguagesnoનૉર્વેજીયન
+localeDisplayNameslanguagescsચેક
+localeDisplayNameslanguagesasઆસામી
+localeDisplayNameslanguageskabકબાઇલ
+localeDisplayNameslanguagespamપમ્પાન્ગા
+localeDisplayNameslanguagesnusનુએર
+localeDisplayNameslanguagestttમુસ્લિમ તાટ
+localeDisplayNameslanguagessyrસિરિએક
+localeDisplayNameslanguagestnત્સ્વાના
+localeDisplayNameslanguagesfaફારસી
+localeDisplayNameslanguagescrhક્રિમિયન તુર્કી
+localeDisplayNameslanguagesanpઅંગીકા
+localeDisplayNameslanguagesneનેપાળી
+localeDisplayNameslanguagesgomગોઅન કોંકણી
+localeDisplayNameslanguagesybbયેમ્બા
+localeDisplayNameslanguagessmસામોન
+localeDisplayNameslanguagesgagગાગાઝ
+localeDisplayNameslanguagesfilફિલિપિનો
+localeDisplayNameslanguagesen_GBયુ.કે. અંગ્રેજી
+localeDisplayNameslanguagesdavતૈતા
+localeDisplayNameslanguagesmwrમારવાડી
+localeDisplayNameslanguageskacકાચિન
+localeDisplayNameslanguagesiiસિચુઆન યી
+localeDisplayNameslanguagesastઅસ્તુરિયન
+localeDisplayNameslanguageslezલેઝધીયન
+localeDisplayNameslanguagesesસ્પેનિશ
+localeDisplayNameslanguagesmulબહુવિધ ભાષાઓ
+localeDisplayNameslanguagesangજુની અંગ્રેજી
+localeDisplayNameslanguageskfoકોરો
+localeDisplayNameslanguagestkતુર્કમેન
+localeDisplayNameslanguageschoચોક્તૌ
+localeDisplayNameslanguagesndઉત્તર દેબેલ
+localeDisplayNameslanguagessvસ્વીડિશ
+localeDisplayNameslanguageshilહિલિગેનોન
+localeDisplayNameslanguageseeઈવ
+localeDisplayNameslanguagescuચર્ચ સ્લાવિક
+localeDisplayNameslanguagesjaજાપાનીઝ
+localeDisplayNameslanguagesibaઇબાન
+localeDisplayNameslanguagesyoયોરૂબા
+localeDisplayNameslanguageswbpવાર્લ્પીરી
+localeDisplayNameslanguagespapપાપિયામેન્ટો
+localeDisplayNameslanguagespiપાલી
+localeDisplayNameslanguagesrapરાપાનુઇ
+localeDisplayNameslanguagesdoiડોગ્રી
+localeDisplayNameslanguagesefiએફિક
+localeDisplayNameslanguagestyvટુવીનિયન
+localeDisplayNameslanguagestvlતુવાલુ
+localeDisplayNameslanguagesssyસાહો
+localeDisplayNameslanguagesbrxબોડો
+localeDisplayNameslanguagesetએસ્ટોનિયન
+localeDisplayNameslanguagesltલિથુઆનિયન
+localeDisplayNameslanguageshakhak
+localeDisplayNameslanguageskeaકાબુવર્ડિઆનુ
+localeDisplayNameslanguagesprgપ્રુસ્સીયન
+localeDisplayNameslanguagesmyvએર્ઝયા
+localeDisplayNameslanguageskhqકોયરા ચિનિ
+localeDisplayNameslanguagesrajરાજસ્થાની
+localeDisplayNameslanguagesshiતેશીલહિટ
+localeDisplayNameslanguagesdyuડ્યુલા
+localeDisplayNameslanguagesklકલાલ્લિસુત
+localeDisplayNameslanguagesdelદેલવેર
+localeDisplayNameslanguageslfnલિંગ્વા ફેન્કા નોવા
+localeDisplayNameslanguagesmnમોંગોલિયન
+localeDisplayNameslanguagesniaનિયાસ
+localeDisplayNameslanguagesnl_BEફ્લેમિશ
+localeDisplayNameslanguagesfr_CHસ્વિસ ફ્રેંચ
+localeDisplayNameslanguageszhચાઇનીઝ
+localeDisplayNameslanguagesdvદિવેહી
+localeDisplayNameslanguagescaકતલાન
+localeDisplayNameslanguageskaaકારા-કલ્પક
+localeDisplayNameslanguagesmadમાદુરીસ
+localeDisplayNameslanguagesrwkરવા
+localeDisplayNameslanguagesugaયુગેરિટિક
+localeDisplayNameslanguageseuબાસ્ક
+localeDisplayNameslanguagestlટાગાલોગ
+localeDisplayNameslanguagesagqઅઘેમ
+localeDisplayNameslanguageslaલેટિન
+localeDisplayNameslanguagesrarરારોટોંગન
+localeDisplayNameslanguagesdyoજોલા-ફોન્યી
+localeDisplayNameslanguageskoકોરિયન
+localeDisplayNameslanguageschgછગાતાઇ
+localeDisplayNameslanguagesquક્વેચુઆ
+localeDisplayNameslanguagessaસંસ્કૃત
+localeDisplayNameslanguagesmasમસાઇ
+localeDisplayNameslanguagesrootરૂટ
+localeDisplayNameslanguagesrupઅરોમેનિયન
+localeDisplayNameslanguagespt_BRબ્રાઝિલીયન પોર્ટુગીઝ
+localeDisplayNameslanguagestzmસેન્ટ્રલ એટલાસ તામાઝિટ
+localeDisplayNameslanguagesaryમોરોક્કન અરબી
+localeDisplayNameslanguagessgaજૂની આયરિશ
+localeDisplayNameslanguageskwકોર્નિશ
+localeDisplayNameslanguagesluલૂબા-કટાંગા
+localeDisplayNameslanguagesurઉર્દૂ
+localeDisplayNameslanguageskiકિકુયૂ
+localeDisplayNameslanguagesjboલોજ્બાન
+localeDisplayNameslanguagessmnઇનારી સામી
+localeDisplayNameslanguagesscસાર્દિનિયન
+localeDisplayNameslanguageses_MXમેક્સિકન સ્પેનિશ
+localeDisplayNameslanguagesidઇન્ડોનેશિયન
+localeDisplayNameslanguagesafhઅફ્રિહિલી
+localeDisplayNameslanguagesainઐનુ
+localeDisplayNameslanguagesabઅબખાજિયન
+localeDisplayNameslanguagesdeજર્મન
+localeDisplayNameslanguagesmtમાલ્ટિઝ
+localeDisplayNameslanguagespcmનાઇજેરિયન પીજીન
+localeDisplayNameslanguagestwટ્વાઇ
+localeDisplayNameslanguageskrlકરેલિયન
+localeDisplayNameslanguagesglગેલિશિયન
+localeDisplayNameslanguagestcyતુલુ
+localeDisplayNameslanguagesnbનોર્વેજિયન બોકમાલ
+localeDisplayNameslanguagesdakદાકોતા
+localeDisplayNameslanguagessw_CDકોંગો સ્વાહિલી
+localeDisplayNameslanguageswaeવેલ્સેર
+localeDisplayNameslanguageslouલ્યુઇસિયાના ક્રેઓલ
+localeDisplayNameslanguagesnyન્યાન્જા
+localeDisplayNameslanguagesgangan
+localeDisplayNameslanguagestogન્યાસા ટોન્ગા
+localeDisplayNameslanguagesinhઇંગુશ
+localeDisplayNameslanguagesarzઈજિપ્શિયન અરબી
+localeDisplayNameslanguagesbgnપશ્ચિમી બાલોચી
+localeDisplayNameslanguagesbmબામ્બારા
+localeDisplayNameslanguagesbnબાંગ્લા
+localeDisplayNameslanguageskgકોંગો
+localeDisplayNameslanguageskbdકબાર્ડિયન
+localeDisplayNameslanguageskoiકોમી-પર્મ્યાક
+localeDisplayNameslanguagesitઇટાલિયન
+localeDisplayNameslanguagesen_USયુ. એસ. અંગ્રેજી
+localeDisplayNameslanguagesanઅર્ગોનીઝ
+localeDisplayNameslanguagesbikબિકોલ
+localeDisplayNameslanguagesteoતેસો
+localeDisplayNameslanguagesyueકેંટોનીઝ
+localeDisplayNameslanguagesffફુલાહ
+localeDisplayNameslanguagesaleઅલેઉત
+localeDisplayNameslanguageskajજ્જુ
+localeDisplayNameslanguageskutકુતેનાઇ
+localeDisplayNameslanguagesckbસેન્ટ્રલ કુર્દિશ
+localeDisplayNameslanguagesnonજૂની નોર્સ
+localeDisplayNameslanguagesluyલુઈયા
+localeDisplayNameslanguagesigઇગ્બો
+localeDisplayNameslanguagesenઅંગ્રેજી
+localeDisplayNameslanguagesjvજાવાનીસ
+localeDisplayNameslanguagesfrcકાજૂન ફ્રેન્ચ
+localeDisplayNameslanguageszh_Hansસરળીકૃત ચાઇનીઝ
+localeDisplayNameslanguagesarnમેપુચે
+localeDisplayNameslanguagesdaડેનિશ
+localeDisplayNameslanguageskruકુરૂખ
+localeDisplayNameslanguagesnsoઉત્તરી સોથો
+localeDisplayNameslanguagesdinદિન્કા
+localeDisplayNameslanguagestetતેતુમ
+localeDisplayNameslanguageszzaઝાઝા
+localeDisplayNameslanguagesceચેચન
+localeDisplayNameslanguageschmમારી
+localeDisplayNameslanguagesmyબર્મીઝ
+localeDisplayNameslanguagesknકન્નડ
+localeDisplayNameslanguagessamસામરિટાન અરેમિક
+localeDisplayNameslanguageszunઝૂની
+localeDisplayNameslanguageshyઆર્મેનિયન
+localeDisplayNameslanguagesenmમિડિલ અંગ્રેજી
+localeDisplayNameslanguagesssસ્વાતી
+localeDisplayNameslanguagessiસિંહાલી
+localeDisplayNameslanguagesbaxબામન
+localeDisplayNameslanguagesarwઅરાવક
+localeDisplayNameslanguagesmiમાઓરી
+localeDisplayNameslanguagesde_CHસ્વિસ હાય જર્મન
+localeDisplayNameslanguagesroરોમાનિયન
+localeDisplayNameslanguagesgdસ્કોટીસ ગેલિક
+localeDisplayNameslanguagessmaદક્ષિણી સામી
+localeDisplayNameslanguagesbaબશ્કીર
+localeDisplayNameslanguagesngડોન્ગા
+localeDisplayNameslanguageswoવોલોફ
+localeDisplayNameslanguagesmdfમોક્ષ
+localeDisplayNameslanguageschkચૂકીસ
+localeDisplayNameslanguagessmjલુલે સામી
+localeDisplayNameslanguagesgezગીઝ
+localeDisplayNameslanguagesgswસ્વિસ જર્મન
+localeDisplayNameslanguageslahલાહન્ડા
+localeDisplayNameslanguagesnyoન્યોરો
+localeDisplayNameslanguagestyતાહિતિયન
+localeDisplayNameslanguagespalપહલવી
+localeDisplayNameslanguagesmncમાન્ચુ
+localeDisplayNameslanguageszuઝુલુ
+localeDisplayNameslanguagesteતેલુગુ
+localeDisplayNameslanguagesnewનેવારી
+localeDisplayNameslanguagesmohમોહૌક
+localeDisplayNameslanguagesamએમ્હારિક
+localeDisplayNameslanguagesveવેન્દા
+localeDisplayNameslanguagesdsbલોઅર સોર્બિયન
+localeDisplayNameslanguagesadaઅદાંગ્મી
+localeDisplayNameslanguageslolમોંગો
+localeDisplayNameslanguagesplપોલીશ
+localeDisplayNameslanguageslrcઉત્તરી લુરી
+localeDisplayNameslanguagesgilજિલ્બરટીઝ
+localeDisplayNameslanguagessoસોમાલી
+localeDisplayNameslanguagesgvમાંક્સ
+localeDisplayNameslanguagesbasબસા
+localeDisplayNameslanguageslozલોઝી
+localeDisplayNameslanguagesbezબેના
+localeDisplayNameslanguageszblબ્લિસિમ્બોલ્સ
+localeDisplayNameslanguagesyiયિદ્દિશ
+localeDisplayNameslanguagesmerમેરુ
+localeDisplayNameslanguagesromરોમાની
+localeDisplayNameslanguageskdeમકોન્ડે
+localeDisplayNameslanguageschકેમોરો
+localeDisplayNameslanguagesmenમેન્ડે
+localeDisplayNameslanguagesnaનાઉરૂ
+localeDisplayNameslanguagesbalબલૂચી
+localeDisplayNameslanguagesxogસોગા
+localeDisplayNameslanguagesmagમગહી
+localeDisplayNameslanguageslktલાકોટા
+localeDisplayNameslanguagesmwlમિરાંડી
+localeDisplayNameslanguagesmfeમોરીસ્યેન
+localeDisplayNameslanguagesekaએકાજુક
+localeDisplayNameslanguageshupહૂપા
+localeDisplayNameslanguagescoકોર્સિકન
+localeDisplayNameslanguagescarકરિબ
+localeDisplayNameslanguagesfrmમિડિલ ફ્રેંચ
+localeDisplayNameslanguagesen_AUઓસ્ટ્રેલિયન અંગ્રેજી
+localeDisplayNameslanguageskpeક્પેલ્લે
+localeDisplayNameslanguagesvaiવાઇ
+localeDisplayNameslanguagesawaઅવધી
+localeDisplayNameslanguageskmખ્મેર
+localeDisplayNameslanguagescyવેલ્શ
+localeDisplayNameslanguagessadસોંડવે
+localeDisplayNameslanguagesbejબેજા
+localeDisplayNameslanguagesmicમિકમેક
+localeDisplayNameslanguagesnogનોગાઇ
+localeDisplayNameslanguagescadકડ્ડો
+localeDisplayNameslanguagesgwiગ્વિચ’ઇન
+localeDisplayNameslanguagesukયુક્રેનિયન
+localeDisplayNameslanguagesfrsપૂર્વ ફ્રિશિયન
+localeDisplayNameslanguagesaeઅવેસ્તન
+localeDisplayNameslanguagesbuaબુરિયાત
+localeDisplayNameslanguageskuકુર્દિશ
+localeDisplayNameslanguagesduaદુઆલા
+localeDisplayNameslanguagestumતુમ્બુકા
+localeDisplayNameslanguagesasaઅસુ
+localeDisplayNameslanguageswasવાશો
+localeDisplayNameslanguagessogસોગ્ડિએન
+localeDisplayNameslanguagessnkસોનિન્કે
+localeDisplayNameslanguagessaqસમ્બુરુ
+localeDisplayNameslanguageskkકઝાખ
+localeDisplayNameslanguagespauપલાઉઆન
+localeDisplayNameslanguagesbhoભોજપુરી
+localeDisplayNameslanguagessrnસ્રાનન ટોન્ગો
+localeDisplayNameslanguagesfiફિનિશ
+localeDisplayNameslanguageskokકોંકણી
+localeDisplayNameslanguagestemટિમ્ને
+localeDisplayNameslanguagestivતિવ
+localeDisplayNameslanguagesbugબુગિનીસ
+localeDisplayNameslanguagesdzડ્ઝોંગ્ખા
+localeDisplayNameslanguagesar_001મોડર્ન સ્ટાન્ડર્ડ અરબી
+localeDisplayNameslanguagesklnકલેજિન
+localeDisplayNameslanguageskyકિર્ગીઝ
+localeDisplayNameslanguagesbgબલ્ગેરિયન
+localeDisplayNameslanguagesxalકાલ્મિક
+localeDisplayNameslanguagessrrસેરેર
+localeDisplayNameslanguageslvલાતવિયન
+localeDisplayNameslanguagesde_ATઓસ્ટ્રિઅન જર્મન
+localeDisplayNameslanguagessidસિદામો
+localeDisplayNameslanguagesvotવોટિક
+localeDisplayNameslanguagesioઈડો
+localeDisplayNameslanguageslamલામ્બા
+localeDisplayNameslanguagesponપોહપિએન
+localeDisplayNameslanguagesbsબોસ્નિયન
+localeDisplayNameslanguagestwqતસાવાક
+localeDisplayNameslanguagessdhસર્ઘન કુર્દીશ
+localeDisplayNameslanguageselxએલામાઇટ
+localeDisplayNameslanguageskamકમ્બા
+localeDisplayNameslanguagestsiસિમ્શિયન
+localeDisplayNameslanguageskkjકાકો
+localeDisplayNameslanguageslbલક્ઝેમબર્ગિશ
+localeDisplayNameslanguagesmsમલય
+localeDisplayNameslanguagespeoજૂની ફારસી
+localeDisplayNameslanguagestigટાઇગ્રે
+localeDisplayNameslanguagesnds_NLલો સેક્સોન
+localeDisplayNameslanguagesscnસિસિલિયાન
+localeDisplayNameslanguagesniuનિયુઆન
+localeDisplayNameslanguagescrક્રી
+localeDisplayNameslanguagessesકોયરાબોરો સેન્ની
+localeDisplayNameslanguagesavઅવેરિક
+localeDisplayNameslanguagessdસિંધી
+localeDisplayNameslanguageshuહંગેરિયન
+localeDisplayNameslanguagesheહીબ્રુ
+localeDisplayNameslanguagescvચૂવાશ
+localeDisplayNameslanguagesdenસ્લેવ
+localeDisplayNameslanguagesnlડચ
+localeDisplayNameslanguageszapઝેપોટેક
+localeDisplayNameslanguagestklતોકેલાઉ
+localeDisplayNameslanguageslgગાંડા
+localeDisplayNameslanguagessycપરંપરાગત સિરિએક
+localeDisplayNameslanguagesswbકોમોરિયન
+localeDisplayNameslanguagesegyપ્રાચીન ઇજીપ્શિયન
+localeDisplayNameslanguageszxxકોઇ ભાષાશાસ્ત્રીય સામગ્રી નથી
+localeDisplayNameslanguageszaઝુઆગ
+localeDisplayNameslanguagesgrcપ્રાચીન ગ્રીક
+localeDisplayNameslanguagessuxસુમેરિયન
+localeDisplayNameslanguagessnશોના
+localeDisplayNameslanguagesgrbગ્રેબો
+localeDisplayNameslanguagesen_CAકેનેડિયન અંગ્રેજી
+localeDisplayNameslanguagesbiબિસ્લામા
+localeDisplayNameslanguagesdgrડોગ્રિબ
+localeDisplayNameslanguagessahસખા
+localeDisplayNameslanguageswarવારેય
+localeDisplayNameslanguagestoટોંગાન
+localeDisplayNameslanguageswalવોલાયટ્ટા
+localeDisplayNameslanguagessusસુસુ
+localeDisplayNameslanguagesfyપશ્ચિમી ફ્રિસિયન
+localeDisplayNameslanguagesfrફ્રેન્ચ
+localeDisplayNameslanguagesbeબેલારુશિયન
+localeDisplayNameslanguagesakઅકાન
+localeDisplayNameslanguagesfr_CAકેનેડિયન ફ્રેંચ
+localeDisplayNameslanguagesfonફોન
+localeDisplayNameslanguagesfoફોરિસ્ત
+localeDisplayNameslanguagesdarદાર્ગવા
+localeDisplayNameslanguagessuસંડેનીઝ
+localeDisplayNameslanguagesbrhબ્રાહુઈ
+localeDisplayNameslanguagesjmcમકામે
+localeDisplayNameslanguagestgતાજીક
+localeDisplayNameslanguagesdumમધ્ય ડચ
+localeDisplayNameslanguageskmbકિમ્બન્દુ
+localeDisplayNameslanguagesmuaમુનડાન્ગ
+localeDisplayNameslanguagespaપંજાબી
+localeDisplayNameslanguagestliક્લીન્ગકિટ
+localeDisplayNameslanguageswuuwuu
+localeDisplayNameslanguagesgonગોંડી
+localeDisplayNameslanguageshsnhsn
+localeDisplayNameslanguageshaiહૈડા
+localeDisplayNameslanguagesbpyબિષ્નુપ્રિયા
+localeDisplayNameslanguagesfrrઉત્તરીય ફ્રિશિયન
+localeDisplayNameslanguagesblaસિક્સિકા
+localeDisplayNameslanguagesnymન્યામવેઝી
+localeDisplayNameslanguagesrwકિન્યારવાન્ડા
+localeDisplayNameslanguagessasસાસાક
+localeDisplayNameslanguagesmhમાર્શલીઝ
+localeDisplayNameslanguageschnચિનૂક જાર્ગન
+localeDisplayNameslanguagesjprજુદેઓ-પર્શિયન
+localeDisplayNameslanguageskhaખાસી
+localeDisplayNameslanguagesnynન્યાનકોલ
+localeDisplayNameslanguagesarઅરબી
+localeDisplayNameslanguagesseઉત્તરી સામી
+localeDisplayNameslanguagesgbaબાયા
+localeDisplayNameslanguagesguzગુસી
+localeDisplayNameslanguagesmlમલયાલમ
+localeDisplayNameslanguagesgaaગા
+localeDisplayNameslanguagessgસાંગો
+localeDisplayNameslanguagesksfબફિયા
+localeDisplayNameslanguagesarqઆલ્જેરિયન અરબી
+localeDisplayNameslanguagesgotગોથિક
+localeDisplayNameslanguagestiટાઇગ્રિનિયા
+localeDisplayNameslanguagesmniમણિપુરી
+localeDisplayNameslanguagesdjeઝર્મા
+localeDisplayNameslanguageshrક્રોએશિયન
+localeDisplayNameslanguagesbanબાલિનીસ
+localeDisplayNameslanguagesmkમેસેડોનિયન
+localeDisplayNameslanguagesojઓજિબ્વા
+localeDisplayNameslanguageses_ESયુરોપિયન સ્પેનિશ
+localeDisplayNameslanguagesswસ્વાહિલી
+localeDisplayNameslanguageschpશિપેવ્યાન
+localeDisplayNameslanguageshsbઅપર સોર્બિયન
+localeDisplayNameslanguagestmhતામાશેખ
+localeDisplayNameslanguagesterતેરેનો
+localeDisplayNameslanguageshawહવાઇયન
+localeDisplayNameslanguageslunલુન્ડા
+localeDisplayNameslanguagesmakમકાસર
+localeDisplayNameslanguagesminમિનાંગ્કાબાઉ
+localeDisplayNameslanguagesikઇનુપિયાક
+localeDisplayNameslanguagesselસેલ્કપ
+localeDisplayNameslanguagesarpઅરાપાહો
+localeDisplayNameslanguageschyશેયેન્ન
+localeDisplayNameslanguagesrofરોમ્બો
+localeDisplayNameslanguagesdzgદાઝાગા
+localeDisplayNameslanguageshifફીજી હિંદી
+localeDisplayNameslanguageshiહિન્દી
+localeDisplayNameslanguagesewoઇવોન્ડો
+localeDisplayNameslanguageslnલિંગાલા
+localeDisplayNameslanguagespt_PTયુરોપિયન પોર્ટુગીઝ
+localeDisplayNameslanguagesbemબેમ્બા
+localeDisplayNameslanguagesfurફ્રિયુલિયાન
+localeDisplayNameslanguagesyapયાપીસ
+localeDisplayNameslanguagesvunવુન્જો
+localeDisplayNameslanguagesisઆઇસલેન્ડિક
+localeDisplayNameslanguagessqઅલ્બેનિયન
+localeDisplayNameslanguagesskસ્લોવૅક
+localeDisplayNameslanguagesiuઇનુકિટૂટ
+localeDisplayNameslanguageseoએસ્પેરાન્ટો
+localeDisplayNameslanguageschbચિબ્ચા
+localeDisplayNameslanguagestlhક્લિન્ગોન
+localeDisplayNameslanguagestaતમિલ
+localeDisplayNameslanguagesscoસ્કોટ્સ
+localeDisplayNameslanguageszghમાનક મોરોક્કન તામાઝિટ
+localeDisplayNameslanguagestpiટોક પિસિન
+localeDisplayNameslanguageskaજ્યોર્જિયન
+localeDisplayNameslanguagesmdrમંદાર
+localeDisplayNameslanguageschrશેરોકી
+localeDisplayNameslanguagesibbઇબિબિઓ
+localeDisplayNameslanguagesebuઍમ્બુ
+localeDisplayNameslanguageshitહિટ્ટિતે
+localeDisplayNameslanguagesiloઇલોકો
+localeDisplayNameslanguagesviવિયેતનામીસ
+localeDisplayNameslanguagesshnશેન
+localeDisplayNameslanguagesshસર્બો-ક્રોએશિયન
+localeDisplayNameslanguagesmanમન્ડિન્ગો
+localeDisplayNameslanguageskumકુમીક
+localeDisplayNameslanguagesaltદક્ષિણ અલ્તાઇ
+localeDisplayNameslanguagesguગુજરાતી
+localeDisplayNameslanguagesmghમાખુવા-મીટ્ટુ
+localeDisplayNameslanguagesmznમઝાન્દેરાની
+localeDisplayNameslanguagesafઆફ્રિકન્સ
+localeDisplayNameslanguagesgmhમધ્ય હાઇ જર્મન
+localeDisplayNameslanguagesgaઆઇરિશ
+localeDisplayNameslanguagesakkઅક્કાદીયાન
+localeDisplayNameslanguageskshકોલોગ્નિયન
+localeDisplayNameslanguagesaaઅફાર
+localeDisplayNameslanguagespagપંગાસીનાન
+localeDisplayNameslanguageskvકોમી
+localeDisplayNameslanguagesfjફીજીયન
+localeDisplayNameslanguagesthથાઈ
+localeDisplayNameslanguageselગ્રીક
+localeDisplayNameslanguagescebસિબુઆનો
+localeDisplayNameslanguagesnqoએન’કો
+localeDisplayNameslanguagesnapનેપોલિટાન
+localeDisplayNameslanguagesphnફોનિશિયન
+localeDisplayNameslanguagesrnરૂન્દી
+localeDisplayNameslanguagesieઇંટરલિંગ
+localeDisplayNameslanguageskjક્વાન્યામા
+localeDisplayNameslanguagesosaઓસેજ
+localeDisplayNameslanguagesro_MDમોલડાવિયન
+localeDisplayNameslanguageshzહેરેરો
+localeDisplayNameslanguagessbaન્ગામ્બેય
+localeDisplayNameslanguagesgnગુઆરાની
+localeDisplayNameslanguagesaceઅચીની
+localeDisplayNameslanguagesfanફેંગ
+localeDisplayNameslanguagesloલાઓ
+localeDisplayNameslanguagesosઓસ્સેટિક
+localeDisplayNameslanguagesocઓક્સિટન
+localeDisplayNameslanguagesayઆયમારા
+localeDisplayNameslanguagesorઉડિયા
+localeDisplayNameslanguageses_419લેટિન અમેરિકન સ્પેનિશ
+localeDisplayNameslanguageswaવાલૂન
+localeDisplayNameslanguagesbraવ્રજ
+localeDisplayNameslanguagesbynબ્લિન
+localeDisplayNameslanguagesproજુની પ્રોવેન્સલ
+localeDisplayNameslanguagesluaલૂબા-લુલુઆ
+localeDisplayNameslanguagesmrjપશ્ચિમી મારી
+localeDisplayNameslanguagesnziન્ઝિમા
+localeDisplayNameslanguagesiaઇંટરલિંગુઆ
+localeDisplayNameslanguagestsસોંગા
+localeDisplayNameslanguageslusમિઝો
+localeDisplayNameslanguagescopકોપ્ટિક
+localeDisplayNameslanguagesxhખોસા
+localeDisplayNameslanguagescrsસેસેલ્વા ક્રેઓલે ફ્રેન્ચ
+localeDisplayNameslanguagesndsલો જર્મન
+localeDisplayNameslanguagesgorગોરોન્તાલો
+localeDisplayNameslanguagesptપોર્ટુગીઝ
+localeDisplayNameslanguagesjrbજુદેઓ-અરબી
+localeDisplayNameslanguagesnmgક્વાસિઓ
+localeDisplayNameslanguagesotaઓટોમાન તુર્કિશ
+localeDisplayNameslanguagesuzઉઝ્બેક
+localeDisplayNameslanguageskhoખોતાનીસ
+localeDisplayNameslanguagesladલાદીનો
+localeDisplayNameslanguagesomઓરોમો
+localeDisplayNameslanguagessbpસાંગુ
+localeDisplayNameslanguagesstદક્ષિણ સોથો
+localeDisplayNameslanguagesmrમરાઠી
+localeDisplayNameslanguagescsbકાશુબિયન
+localeDisplayNameslanguagesttતતાર
+localeDisplayNameslanguagesksકાશ્મીરી
+localeDisplayNameslanguageskosકોસરિયન
+localeDisplayNameslanguagesnannan
+localeDisplayNameslanguageshtહૈતિઅન ક્રેઓલે
+localeDisplayNameslanguagesbrબ્રેટોન
+localeDisplayNameslanguagesachએકોલી
+localeDisplayNameslanguageshmnહમોંગ
+localeDisplayNameslanguagesnwcપરંપરાગત નેવારી
+localeDisplayNamesvariantsWADEGILEવેડ-ગિલ્સ રોમનાઇઝેશન
+localeDisplayNamesvariantsPINYINપિનયિન રોમનાઇઝેશન
+localeDisplayNamescharactersparseLenientsdatelenient:[\:∶]
+localeDisplayNamescharactersparseLenientsdatelenient-[\--/]
+localeDisplayNamescharactersparseLenientsgenerallenient.[.․。︒﹒．｡]
+localeDisplayNamescharactersparseLenientsgenerallenient£[£₤]
+localeDisplayNamescharactersparseLenientsgenerallenient$[\$﹩＄$]
+localeDisplayNamescharactersparseLenientsgenerallenient₹[₨₹{Rp}{Rs}]
+localeDisplayNamescharactersparseLenientsnumberstricter,[,٫︐﹐，]
+localeDisplayNamescharactersparseLenientsnumberstricter.[.․﹒．｡]
+localeDisplayNamescharactersparseLenientsnumberlenient-[\-‒⁻₋−➖﹣－]
+localeDisplayNamescharactersparseLenientsnumberlenient,[,،٫、︐︑﹐﹑，､]
+localeDisplayNamescharactersparseLenientsnumberlenient+[+⁺₊➕﬩﹢＋]
+localeDisplayNamesmeasurementSystemNamesUSઅમેરિકા
+localeDisplayNamesmeasurementSystemNamesmetricમેટ્રિક
+localeDisplayNamesmeasurementSystemNamesUKયુકે
+localeDisplayNamesterritoriesSNસેનેગલ
+localeDisplayNamesterritoriesZWઝિમ્બાબ્વે
+localeDisplayNamesterritoriesEGઇજિપ્ત
+localeDisplayNamesterritoriesXKકોસોવો
+localeDisplayNamesterritoriesVCસેંટ વિન્સેંટ અને ગ્રેનેડાઇંસ
+localeDisplayNamesterritoriesGIજીબ્રાલ્ટર
+localeDisplayNamesterritoriesGAગેબન
+localeDisplayNamesterritoriesFOફેરો આઇલેન્ડ્સ
+localeDisplayNamesterritoriesKPઉત્તર કોરિયા
+localeDisplayNamesterritoriesMNમંગોલિયા
+localeDisplayNamesterritoriesCOકોલમ્બિયા
+localeDisplayNamesterritoriesLAલાઓસ
+localeDisplayNamesterritoriesPKપાકિસ્તાન
+localeDisplayNamesterritoriesMHમાર્શલ આઇલેન્ડ્સ
+localeDisplayNamesterritoriesMDમોલડોવા
+localeDisplayNamesterritoriesGYગયાના
+localeDisplayNamesterritoriesSEસ્વીડન
+localeDisplayNamesterritoriesTJતાજીકિસ્તાન
+localeDisplayNamesterritoriesZMઝામ્બિયા
+localeDisplayNamesterritoriesTAત્રિસ્તાન દા કુન્હા
+localeDisplayNamesterritoriesCYસાયપ્રસ
+localeDisplayNamesterritoriesNOનૉર્વે
+localeDisplayNamesterritories013મધ્ય અમેરિકા
+localeDisplayNamesterritories155પશ્ચિમી યુરોપ
+localeDisplayNamesterritoriesSGસિંગાપુર
+localeDisplayNamesterritoriesCPક્લિપરટન આઇલેન્ડ
+localeDisplayNamesterritoriesHUહંગેરી
+localeDisplayNamesterritoriesCHસ્વિટ્ઝર્લૅન્ડ
+localeDisplayNamesterritoriesAMઆર્મેનિયા
+localeDisplayNamesterritoriesJOજોર્ડન
+localeDisplayNamesterritoriesFMમાઇક્રોનેશિયા
+localeDisplayNamesterritoriesTVતુવાલુ
+localeDisplayNamesterritoriesRUરશિયા
+localeDisplayNamesterritoriesCGકોંગો (રિપબ્લિક)
+localeDisplayNamesterritoriesGGગ્વેર્નસે
+localeDisplayNamesterritoriesCVકૅપ વર્ડે
+localeDisplayNamesterritories150યુરોપ
+localeDisplayNamesterritoriesVIયુએસ વર્જિન આઇલેન્ડ્સ
+localeDisplayNamesterritoriesPFફ્રેંચ પોલિનેશિયા
+localeDisplayNamesterritoriesTRતુર્કી
+localeDisplayNamesterritoriesFKફૉકલેન્ડ આઇલેન્ડ્સ (આઇલાસ માલવિનાસ)
+localeDisplayNamesterritoriesBLસેંટ બાર્થેલેમી
+localeDisplayNamesterritoriesGNગિની
+localeDisplayNamesterritoriesMAમોરોક્કો
+localeDisplayNamesterritoriesCCકોકોઝ (કીલીંગ) આઇલેન્ડ્સ
+localeDisplayNamesterritoriesEHપશ્ચિમી સહારા
+localeDisplayNamesterritoriesPWપલાઉ
+localeDisplayNamesterritoriesNFનોરફોક આઇલેન્ડ્સ
+localeDisplayNamesterritories061પોલિનેશિયા
+localeDisplayNamesterritories145પશ્ચિમી એશિયા
+localeDisplayNamesterritoriesATઑસ્ટ્રિયા
+localeDisplayNamesterritoriesHRક્રોએશિયા
+localeDisplayNamesterritoriesSSદક્ષિણ સુદાન
+localeDisplayNamesterritoriesMVમાલદિવ્સ
+localeDisplayNamesterritoriesMQમાર્ટીનીક
+localeDisplayNamesterritoriesGQઇક્વેટોરિયલ ગિની
+localeDisplayNamesterritoriesLKશ્રીલંકા
+localeDisplayNamesterritoriesLUલક્ઝમબર્ગ
+localeDisplayNamesterritories057માઈક્રોનેશિયન ક્ષેત્ર
+localeDisplayNamesterritoriesCKકુક આઇલેન્ડ્સ
+localeDisplayNamesterritoriesKGકિર્ગિઝ્સ્તાન
+localeDisplayNamesterritoriesSIસ્લોવેનિયા
+localeDisplayNamesterritoriesYEયમન
+localeDisplayNamesterritoriesSKસ્લોવેકિયા
+localeDisplayNamesterritoriesSHસેંટ હેલેના
+localeDisplayNamesterritoriesMWમાલાવી
+localeDisplayNamesterritoriesHMહર્ડ અને મેકડોનાલ્ડ આઇલેન્ડ્સ
+localeDisplayNamesterritoriesCXક્રિસમસ આઇલેન્ડ
+localeDisplayNamesterritoriesGPગ્વાડેલોપ
+localeDisplayNamesterritoriesSZસ્વાઝિલેન્ડ
+localeDisplayNamesterritories019અમેરિકા
+localeDisplayNamesterritories143મધ્ય એશિયા
+localeDisplayNamesterritoriesTZતાંઝાનિયા
+localeDisplayNamesterritoriesWFવૉલિસ અને ફ્યુચુના
+localeDisplayNamesterritoriesBOબોલિવિયા
+localeDisplayNamesterritories035દક્ષિણપૂર્વ એશિયા
+localeDisplayNamesterritoriesISઆઇસલેન્ડ
+localeDisplayNamesterritoriesPMસેંટ પીએરી અને મિક્યુલોન
+localeDisplayNamesterritoriesMSમોંટસેરાત
+localeDisplayNamesterritoriesNUનીયુ
+localeDisplayNamesterritoriesNCન્યુ સેલેડોનિયા
+localeDisplayNamesterritoriesHTહૈતિ
+localeDisplayNamesterritoriesHKહોંગકોંગ
+localeDisplayNamesterritoriesCUક્યુબા
+localeDisplayNamesterritoriesCLચિલી
+localeDisplayNamesterritoriesBAબોસ્નિયા અને હર્ઝેગોવિના
+localeDisplayNamesterritories014પૂર્વીય આફ્રિકા
+localeDisplayNamesterritoriesLVલાત્વિયા
+localeDisplayNamesterritoriesVUવાનુઆતુ
+localeDisplayNamesterritoriesMLમાલી
+localeDisplayNamesterritoriesNAનામિબિયા
+localeDisplayNamesterritoriesGUગ્વામ
+localeDisplayNamesterritoriesDGડિએગો ગારસિઆ
+localeDisplayNamesterritoriesLBલેબનોન
+localeDisplayNamesterritoriesLCસેંટ લુસિયા
+localeDisplayNamesterritoriesZAદક્ષિણ આફ્રિકા
+localeDisplayNamesterritoriesTNટ્યુનિશિયા
+localeDisplayNamesterritoriesRWરવાંડા
+localeDisplayNamesterritoriesIEઆયર્લેન્ડ
+localeDisplayNamesterritoriesRSસર્બિયા
+localeDisplayNamesterritoriesITઇટાલી
+localeDisplayNamesterritories005દક્ષિણ અમેરિકા
+localeDisplayNamesterritoriesLRલાઇબેરિયા
+localeDisplayNamesterritoriesLTલિથુઆનિયા
+localeDisplayNamesterritoriesMFસેંટ માર્ટિન
+localeDisplayNamesterritoriesTOટોંગા
+localeDisplayNamesterritoriesMTમાલ્ટા
+localeDisplayNamesterritories009ઓશનિયા
+localeDisplayNamesterritories154ઉત્તરીય યુરોપ
+localeDisplayNamesterritoriesJPજાપાન
+localeDisplayNamesterritoriesSXસિંટ માર્ટેન
+localeDisplayNamesterritoriesGWગિની-બિસાઉ
+localeDisplayNamesterritoriesSRસુરીનામ
+localeDisplayNamesterritoriesROરોમાનિયા
+localeDisplayNamesterritoriesBQકેરેબિયન નેધરલેન્ડ્ઝ
+localeDisplayNamesterritoriesIQઇરાક
+localeDisplayNamesterritoriesMUમોરિશિયસ
+localeDisplayNamesterritoriesUYઉરુગ્વે
+localeDisplayNamesterritories039દક્ષિણ યુરોપ
+localeDisplayNamesterritories142એશિયા
+localeDisplayNamesterritoriesDEજર્મની
+localeDisplayNamesterritoriesUZઉઝ્બેકિસ્તાન
+localeDisplayNamesterritoriesFRફ્રાંસ
+localeDisplayNamesterritoriesCMકૅમરૂન
+localeDisplayNamesterritoriesBJબેનિન
+localeDisplayNamesterritories151પૂર્વીય યુરોપ
+localeDisplayNamesterritoriesBIબુરુંડી
+localeDisplayNamesterritoriesUGયુગાંડા
+localeDisplayNamesterritoriesKZકઝાકિસ્તાન
+localeDisplayNamesterritoriesSAસાઉદી અરેબિયા
+localeDisplayNamesterritoriesUMયુ.એસ. આઉટલાઇનિંગ આઇલેન્ડ્સ
+localeDisplayNamesterritoriesESસ્પેન
+localeDisplayNamesterritoriesKMકોમોરસ
+localeDisplayNamesterritoriesILઇઝરાઇલ
+localeDisplayNamesterritoriesBTભૂટાન
+localeDisplayNamesterritoriesPTપોર્ટુગલ
+localeDisplayNamesterritoriesEUયુરોપિયન સંઘ
+localeDisplayNamesterritoriesSJસ્વાલબર્ડ અને જેન મેયન
+localeDisplayNamesterritoriesSOસોમાલિયા
+localeDisplayNamesterritoriesGTગ્વાટેમાલા
+localeDisplayNamesterritoriesNIનિકારાગુઆ
+localeDisplayNamesterritoriesDJજીબૌટી
+localeDisplayNamesterritories001વિશ્વ
+localeDisplayNamesterritoriesKEકેન્યા
+localeDisplayNamesterritoriesBSબહામાસ
+localeDisplayNamesterritoriesKRદક્ષિણ કોરિયા
+localeDisplayNamesterritoriesCWક્યુરાસાઓ
+localeDisplayNamesterritoriesTWતાઇવાન
+localeDisplayNamesterritoriesBGબલ્ગેરિયા
+localeDisplayNamesterritoriesBDબાંગ્લાદેશ
+localeDisplayNamesterritoriesADઍંડોરા
+localeDisplayNamesterritoriesPSપેલેસ્ટાઇન
+localeDisplayNamesterritoriesBRબ્રાઝિલ
+localeDisplayNamesterritoriesMKમેસેડોનિયા (FYROM)
+localeDisplayNamesterritoriesBMબર્મુડા
+localeDisplayNamesterritories015ઉત્તરી આફ્રિકા
+localeDisplayNamesterritoriesOMઓમાન
+localeDisplayNamesterritoriesFJફીજી
+localeDisplayNamesterritoriesSVએલ સેલ્વાડોર
+localeDisplayNamesterritories054મેલાનેશિયા
+localeDisplayNamesterritoriesQAકતાર
+localeDisplayNamesterritoriesCFસેન્ટ્રલ આફ્રિકન રિપબ્લિક
+localeDisplayNamesterritoriesWSસમોઆ
+localeDisplayNamesterritoriesUNયૂએન
+localeDisplayNamesterritoriesTKટોકેલાઉ
+localeDisplayNamesterritoriesGFફ્રેંચ ગયાના
+localeDisplayNamesterritories034દક્ષિણ એશિયા
+localeDisplayNamesterritoriesLYલિબિયા
+localeDisplayNamesterritoriesGSદક્ષિણ જ્યોર્જિયા અને દક્ષિણ સેન્ડવિચ આઇલેન્ડ્સ
+localeDisplayNamesterritoriesZZઅજ્ઞાત પ્રદેશ
+localeDisplayNamesterritoriesETઇથિઓપિયા
+localeDisplayNamesterritoriesBWબોત્સ્વાના
+localeDisplayNamesterritoriesPHફિલિપિન્સ
+localeDisplayNamesterritoriesMOમકાઉ
+localeDisplayNamesterritoriesNEનાઇજર
+localeDisplayNamesterritoriesGMગેમ્બિયા
+localeDisplayNamesterritoriesFIફિનલેન્ડ
+localeDisplayNamesterritoriesTLપૂર્વ તિમોર
+localeDisplayNamesterritoriesREરીયુનિયન
+localeDisplayNamesterritories017મધ્ય આફ્રિકા
+localeDisplayNamesterritoriesTCતુર્ક્સ અને કેકોઝ આઇલેન્ડ્સ
+localeDisplayNamesterritoriesQOઆઉટલાઈન્ગ ઓશનિયા
+localeDisplayNamesterritoriesNPનેપાળ
+localeDisplayNamesterritoriesKIકિરિબાટી
+localeDisplayNamesterritoriesMCમોનાકો
+localeDisplayNamesterritoriesEEએસ્ટોનિયા
+localeDisplayNamesterritoriesSBસોલોમન આઇલેન્ડ્સ
+localeDisplayNamesterritoriesAEયુનાઇટેડ આરબ અમીરાત
+localeDisplayNamesterritoriesTHથાઇલેંડ
+localeDisplayNamesterritoriesMPઉત્તરી મારિયાના આઇલેન્ડ્સ
+localeDisplayNamesterritoriesPRપ્યુઅર્ટો રિકો
+localeDisplayNamesterritories011પશ્ચિમી આફ્રિકા
+localeDisplayNamesterritoriesMEમૉન્ટેનેગ્રો
+localeDisplayNamesterritoriesEZયુરોઝોન
+localeDisplayNamesterritoriesIMઆઇલ ઑફ મેન
+localeDisplayNamesterritoriesAXઑલેન્ડ આઇલેન્ડ્સ
+localeDisplayNamesterritoriesKHકંબોડિયા
+localeDisplayNamesterritoriesAUઑસ્ટ્રેલિયા
+localeDisplayNamesterritoriesNGનાઇજેરિયા
+localeDisplayNamesterritoriesIOબ્રિટિશ ઇન્ડિયન ઓશન ટેરિટરી
+localeDisplayNamesterritoriesTFફ્રેંચ સધર્ન ટેરિટરીઝ
+localeDisplayNamesterritoriesDMડોમિનિકા
+localeDisplayNamesterritoriesTDચાડ
+localeDisplayNamesterritoriesAWઅરુબા
+localeDisplayNamesterritoriesGHઘાના
+localeDisplayNamesterritoriesUAયુક્રેન
+localeDisplayNamesterritoriesMXમેક્સિકો
+localeDisplayNamesterritoriesMGમેડાગાસ્કર
+localeDisplayNamesterritoriesDZઅલ્જીરિયા
+localeDisplayNamesterritoriesCRકોસ્ટા રિકા
+localeDisplayNamesterritoriesBFબુર્કિના ફાસો
+localeDisplayNamesterritoriesMZમોઝામ્બિક
+localeDisplayNamesterritoriesAGઍન્ટિગુઆ અને બર્મુડા
+localeDisplayNamesterritoriesCZચેક રિપબ્લિક
+localeDisplayNamesterritories053ઓસ્ટ્રેલેશિયા
+localeDisplayNamesterritoriesGRગ્રીસ
+localeDisplayNamesterritoriesSYસીરિયા
+localeDisplayNamesterritoriesSLસીએરા લેઓન
+localeDisplayNamesterritoriesBNબ્રુનેઇ
+localeDisplayNamesterritoriesAZઅઝરબૈજાન
+localeDisplayNamesterritoriesLSલેસોથો
+localeDisplayNamesterritoriesINભારત
+localeDisplayNamesterritoriesTTટ્રિનીદાદ અને ટોબેગો
+localeDisplayNamesterritoriesSMસૅન મેરિનો
+localeDisplayNamesterritoriesGEજ્યોર્જિયા
+localeDisplayNamesterritoriesERએરિટ્રિયા
+localeDisplayNamesterritories030પૂર્વીય એશિયા
+localeDisplayNamesterritoriesEAસ્યુટા અને મેલિલા
+localeDisplayNamesterritoriesBZબેલીઝ
+localeDisplayNamesterritoriesKYકેમેન આઇલેન્ડ્સ
+localeDisplayNamesterritoriesKNસેંટ કિટ્સ અને નેવિસ
+localeDisplayNamesterritoriesPYપેરાગ્વે
+localeDisplayNamesterritoriesVNવિયેતનામ
+localeDisplayNamesterritoriesHNહોન્ડુરસ
+localeDisplayNamesterritoriesPNપીટકૈર્ન આઇલેન્ડ્સ
+localeDisplayNamesterritoriesNLનેધરલેન્ડ્સ
+localeDisplayNamesterritoriesMRમૌરિટાનિયા
+localeDisplayNamesterritoriesGBયુ.કે.
+localeDisplayNamesterritoriesVAવેટિકન સિટી
+localeDisplayNamesterritories002આફ્રિકા
+localeDisplayNamesterritoriesTMતુર્કમેનિસ્તાન
+localeDisplayNamesterritoriesKWકુવૈત
+localeDisplayNamesterritoriesALઅલ્બેનિયા
+localeDisplayNamesterritoriesUSયુ.એસ.
+localeDisplayNamesterritories202સબ-સહારન આફ્રિકા
+localeDisplayNamesterritoriesARઆર્જેન્ટીના
+localeDisplayNamesterritories419લેટિન અમેરિકા
+localeDisplayNamesterritoriesASઅમેરિકન સમોઆ
+localeDisplayNamesterritoriesTGટોગો
+localeDisplayNamesterritoriesGLગ્રીનલેન્ડ
+localeDisplayNamesterritoriesPLપોલેંડ
+localeDisplayNamesterritoriesPAપનામા
+localeDisplayNamesterritoriesDOડોમિનિકન રિપબ્લિક
+localeDisplayNamesterritoriesACએસેન્શન આઇલેન્ડ
+localeDisplayNamesterritoriesAIઍંગ્વિલા
+localeDisplayNamesterritoriesNZન્યુઝીલેન્ડ
+localeDisplayNamesterritoriesYTમેયોટ
+localeDisplayNamesterritoriesSCસેશેલ્સ
+localeDisplayNamesterritoriesCAકેનેડા
+localeDisplayNamesterritoriesIRઈરાન
+localeDisplayNamesterritoriesJEજર્સી
+localeDisplayNamesterritoriesMMમ્યાંમાર (બર્મા)
+localeDisplayNamesterritoriesBHબેહરીન
+localeDisplayNamesterritoriesBVબૌવેત આઇલેન્ડ
+localeDisplayNamesterritories021ઉત્તરી અમેરિકા
+localeDisplayNamesterritoriesAOઅંગોલા
+localeDisplayNamesterritoriesLIલૈચટેંસ્ટેઇન
+localeDisplayNamesterritoriesSDસુદાન
+localeDisplayNamesterritoriesICકૅનેરી આઇલેન્ડ્સ
+localeDisplayNamesterritoriesNRનૌરુ
+localeDisplayNamesterritoriesCIઆઇવરી કોસ્ટ
+localeDisplayNamesterritoriesBBબારબાડોસ
+localeDisplayNamesterritoriesAFઅફઘાનિસ્તાન
+localeDisplayNamesterritories029કેરિબિયન
+localeDisplayNamesterritoriesAQએન્ટાર્કટિકા
+localeDisplayNamesterritoriesDKડેનમાર્ક
+localeDisplayNamesterritoriesCNચીન
+localeDisplayNamesterritories018સધર્ન આફ્રિકા
+localeDisplayNamesterritoriesMYમલેશિયા
+localeDisplayNamesterritoriesPGપાપુઆ ન્યૂ ગિની
+localeDisplayNamesterritoriesPEપેરુ
+localeDisplayNamesterritoriesCDકોંગો (ડીઆરસી)
+localeDisplayNamesterritoriesGDગ્રેનેડા
+localeDisplayNamesterritoriesVGબ્રિટિશ વર્જિન આઇલેન્ડ્સ
+localeDisplayNamesterritoriesSTસાઓ ટૉમ અને પ્રિંસિપે
+localeDisplayNamesterritoriesJMજમૈકા
+localeDisplayNamesterritoriesBEબેલ્જીયમ
+localeDisplayNamesterritoriesBYબેલારુસ
+localeDisplayNamesterritoriesVEવેનેઝુએલા
+localeDisplayNamesterritoriesIDઇન્ડોનેશિયા
+localeDisplayNamesterritoriesECએક્વાડોર
+localeDisplayNamesterritories003ઉત્તર અમેરિકા
+posixmessagesnostrનહીં
+posixmessagesyesstrહા
+charactersellipsismedial{0}…{1}
+charactersellipsisword-final{0} …
+charactersellipsisword-initial… {0}
+charactersellipsisfinal{0}…
+charactersellipsisword-medial{0} … {1}
+charactersellipsisinitial…{0}
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0૦ 1૧ 2૨ 3૩ 4૪ 5૫ 6૬ 7૭ 8૮ 9૯]
+charactersexemplarCharactersauxiliary[\u200C\u200D ૰]
+charactersexemplarCharactersindex[અ {અ\u0A82} {અઃ} આ ઇ ઈ ઉ ઊ ઋ ઍ એ ઐ ઑ ઓ ઔ ક {ક\u0ACDષ} ખ ગ ઘ ઙ ચ છ જ {જ\u0ACDઞ} ઝ ઞ ટ ઠ ડ ઢ ણ ત {ત\u0ACDર} થ દ ધ ન પ ફ બ ભ મ ય ર લ વ શ ષ સ હ ળ]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” ( ) \[ \] § @ * / \&amp; # † ‡ ′ ″]
+charactersexemplarCharactersstandard[\u0ABC ૐ \u0A82 \u0A81 અ આ ઇ ઈ ઉ ઊ ઋ ૠ ઍ એ ઐ ઑ ઓ ઔ ક ખ ગ ઘ ઙ ચ છ જ ઝ ઞ ટ ઠ ડ ઢ ણ ત થ દ ધ ન પ ફ બ ભ મ ય ર લ વ શ ષ સ હ ળ ઽ \u0AC1 \u0AC2 \u0AC3 \u0AC4 \u0AC5 \u0AC7 \u0AC8 \u0ACD]

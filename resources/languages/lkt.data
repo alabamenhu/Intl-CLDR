@@ -1,0 +1,285 @@
+unitsshortunitduration-seconddisplayNameOkpí
+unitsshortunitduration-secondpatternotherOkpí {0}
+unitsshortunitlength-inchpatternotheroíyutȟe čísčila {0}
+unitsshortunitlength-inchdisplayNameoíyutȟe čísčila
+unitsshortunitduration-daydisplayName-čháŋ
+unitsshortunitduration-daypatternother{0}-čháŋ
+unitsshortunitlength-yarddisplayNamečhaéglepi
+unitsshortunitlength-yardpatternotherčhaéglepi {0}
+unitsshortunitlength-miledisplayNamemakhíyutȟapi
+unitsshortunitlength-milepatternothermakhíyutȟapi {0}
+unitsshortunitlength-footpatternothersiíyutȟapi {0}
+unitsshortunitlength-footdisplayNamesiíyutȟapi
+unitsshortunitduration-monthpatternotherWíyawapi {0}
+unitsshortunitduration-monthdisplayNameWíyawapi
+unitsshortunitduration-yeardisplayNameómakȟa
+unitsshortunitduration-yearpatternotherómakȟa {0}
+unitsshortunitduration-weekdisplayNameokó
+unitsshortunitduration-weekpatternotherokó {0}
+unitsshortunitmass-poundpatternothertkeíyutȟapi {0}
+unitsshortunitmass-pounddisplayNametkeíyutȟapi
+unitsshortunitduration-hourpatternotherOwápȟe {0}
+unitsshortunitduration-hourdisplayNameOwápȟe
+unitslongunitlength-inchpatternotheroíyutȟe čísčila {0}
+unitslongunitlength-inchdisplayNameoíyutȟe čísčila
+unitslongunitlength-yarddisplayNamečhaéglepi
+unitslongunitlength-yardpatternotherčhaéglepi {0}
+unitslongunitduration-daypatternother{0}-čháŋ
+unitslongunitduration-daydisplayName-čháŋ
+unitslongunitduration-secondpatternotherOkpí {0}
+unitslongunitduration-seconddisplayNameOkpí
+unitslongunitmass-pounddisplayNametkeíyutȟapi
+unitslongunitmass-poundpatternothertkeíyutȟapi {0}
+unitslongunitduration-hourdisplayNameOwápȟe
+unitslongunitduration-hourpatternotherOwápȟe {0}
+unitslongunitlength-footdisplayNamesiíyutȟapi
+unitslongunitlength-footpatternothersiíyutȟapi {0}
+unitslongunitlength-miledisplayNamemakhíyutȟapi
+unitslongunitlength-milepatternothermakhíyutȟapi {0}
+unitslongunitduration-monthpatternotherWíyawapi {0}
+unitslongunitduration-monthdisplayNameWíyawapi
+unitslongunitduration-yeardisplayNameómakȟa
+unitslongunitduration-yearpatternotherómakȟa {0}
+unitslongunitduration-weekdisplayNameokó
+unitslongunitduration-weekpatternotherokó {0}
+unitsnarrowunittemperature-fahrenheitpatternother{0}°
+unitsnarrowunitduration-secondpatternotherOkpí {0}
+unitsnarrowunitlength-inchpatternother{0}″
+unitsnarrowunitduration-daypatternother{0}-čháŋ
+unitsnarrowunitlength-yardpatternotherčhaéglepi {0}
+unitsnarrowunitlength-milepatternother{0} makh
+unitsnarrowunitlength-footpatternothersiíyutȟapi {0}
+unitsnarrowunitduration-monthpatternotherWí {0}
+unitsnarrowunitduration-yearpatternotherómakȟa {0}
+unitsnarrowunitduration-weekpatternotherokó {0}
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunitmass-poundpatternother{0}#
+unitsnarrowunitduration-hourpatternotherOwápȟe {0}
+numberssymbolslatngroup,
+numberssymbolslatnexponentialE
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolslatnplusSign+
+numberssymbolslatnminusSign-
+numberssymbolslatnlist;
+numberssymbolslatndecimal.
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort10000000000¤ 00G
+numberscurrencyFormatslatnshort100000000000¤ 000G
+numberscurrencyFormatslatnshort1000¤ 0K
+numberscurrencyFormatslatnshort10000000¤ 00M
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnshort100000¤ 000K
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort1000000000¤ 0G
+numberscurrencyFormatslatnshort10000¤ 00K
+numberscurrencyFormatslatnshort100000000000000¤ 000T
+numberscurrenciesUSDstandard$
+charactersexemplarCharactersstandard[a á {aŋ} b č {čh} {čʼ} e é g ǧ h ȟ i í {iŋ} k {kh} {kȟ} {kʼ} l m n ŋ o ó p {ph} {pȟ} {pʼ} s š t {th} {tȟ} {tʼ} u ú {uŋ} w y z ž ʼ]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . &quot; “ ” ( ) \[ \] @ * / \&amp; #]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersauxiliary[c d f {ȟʼ} j q r {sʼ} {šʼ} v x]
+charactersexemplarCharactersindex[A B Č E G Ǧ H Ȟ I K L M N Ŋ O P S Š T U W Y Z Ž]
+calendarsgenericdateFormatsfullstandardEEEE, MMMM d, y G
+calendarsgenericdateFormatsshortstandardM/d/y GGGGG
+calendarsgenericdateFormatsmediumstandardMMM d, y G
+calendarsgenericdateFormatslongstandardMMMM d, y G
+calendarsgregorianmonthsformatwide3Ištáwičhayazaŋ Wí
+calendarsgregorianmonthsformatwide7Čhaŋpȟásapa Wí
+calendarsgregorianmonthsformatwide12Tȟahékapšuŋ Wí
+calendarsgregorianmonthsformatwide11Waníyetu Wí
+calendarsgregorianmonthsformatwide10Čhaŋwápe-kasná Wí
+calendarsgregorianmonthsformatwide6Wípazukȟa-wašté Wí
+calendarsgregorianmonthsformatwide1Wiótheȟika Wí
+calendarsgregorianmonthsformatwide4Pȟežítȟo Wí
+calendarsgregorianmonthsformatwide9Čhaŋwápeǧi Wí
+calendarsgregorianmonthsformatwide2Thiyóȟeyuŋka Wí
+calendarsgregorianmonthsformatwide8Wasútȟuŋ Wí
+calendarsgregorianmonthsformatwide5Čhaŋwápetȟo Wí
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregoriandateFormatslongstandardMMMM d, y
+calendarsgregoriandateFormatsmediumstandardMMM d, y
+calendarsgregoriandateFormatsshortstandardM/d/yy
+calendarsgregoriandateFormatsfullstandardEEEE, MMMM d, y
+calendarsgregoriandaysformatnarrowsatO
+calendarsgregoriandaysformatnarrowthuT
+calendarsgregoriandaysformatnarrowfriZ
+calendarsgregoriandaysformatnarrowtueN
+calendarsgregoriandaysformatnarrowmonW
+calendarsgregoriandaysformatnarrowwedY
+calendarsgregoriandaysformatnarrowsunA
+calendarsgregoriandaysformatwidesatOwáŋgyužažapi
+calendarsgregoriandaysformatwidethuAŋpétutopa
+calendarsgregoriandaysformatwidefriAŋpétuzaptaŋ
+calendarsgregoriandaysformatwidetueAŋpétunuŋpa
+calendarsgregoriandaysformatwidemonAŋpétuwaŋži
+calendarsgregoriandaysformatwidewedAŋpétuyamni
+calendarsgregoriandaysformatwidesunAŋpétuwakȟaŋ
+localeDisplayNameslanguagesthThai Iyápi
+localeDisplayNameslanguagesfjFiji Iyápi
+localeDisplayNameslanguagesgnGuarani Iyápi
+localeDisplayNameslanguageselGreece Iyápi
+localeDisplayNameslanguagesloLao Iyápi
+localeDisplayNameslanguagescopCoptic Iyápi
+localeDisplayNameslanguageses_419Wiyóȟpeyata Spayóla Iyápi
+localeDisplayNameslanguagesorOriya Iyápi
+localeDisplayNameslanguageslusMizo Iyápi
+localeDisplayNameslanguagesmrMarathi Iyápi
+localeDisplayNameslanguagesxhXhosa Iyápi
+localeDisplayNameslanguagesuzUzbek Iyápi
+localeDisplayNameslanguagesptPortuguese Iyápi
+localeDisplayNameslanguagesksKashmir Iyápi
+localeDisplayNameslanguagesttTatar Iyápi
+localeDisplayNameslanguageshtHaiti Iyápi
+localeDisplayNameslanguageses_ESSpayólaȟča Iyápi
+localeDisplayNameslanguagesswSwahili Iyápi
+localeDisplayNameslanguageschyŠahíyela Iyápi
+localeDisplayNameslanguageshawHawaiian Iyápi
+localeDisplayNameslanguagesarpMaȟpíya Tȟó Iyápi
+localeDisplayNameslanguagessqAlbanian Iyápi
+localeDisplayNameslanguagestaTamil Iyápi
+localeDisplayNameslanguageseoEsperanto Iyápi
+localeDisplayNameslanguagesskSlovak Iyápi
+localeDisplayNameslanguageshiHindi Iyápi
+localeDisplayNameslanguagesisIceland Iyápi
+localeDisplayNameslanguagesviVietnamese Iyápi
+localeDisplayNameslanguageschrCherokee Iyápi
+localeDisplayNameslanguagesaltItóǧata Altai Iyápi
+localeDisplayNameslanguageskaGeoria Iyápi
+localeDisplayNameslanguagesgaIrish Iyápi
+localeDisplayNameslanguagesafAfrikaans Iyápi
+localeDisplayNameslanguagesguGujarati Iyápi
+localeDisplayNameslanguagesfrWašíču Ikčéka Iyápi
+localeDisplayNameslanguagestoTongan Iyápi
+localeDisplayNameslanguagesfoFaroese Iyápi
+localeDisplayNameslanguagesdarDargwa Iyápi
+localeDisplayNameslanguagesbeBelarus Iyápi
+localeDisplayNameslanguagestgTajik Iyápi
+localeDisplayNameslanguagessuSundanese Iyápi
+localeDisplayNameslanguagespaPunjabi Iyápi
+localeDisplayNameslanguagesgbaGbaya Iyápi
+localeDisplayNameslanguagesarArab Iyápi
+localeDisplayNameslanguagestiTigrinya Iyápi
+localeDisplayNameslanguageshrCroatian Iyápi
+localeDisplayNameslanguagesmlMalayalam Iyápi
+localeDisplayNameslanguagesmniNamipuri Iyápi
+localeDisplayNameslanguagesojȞaȟátȟuŋwaŋ Iyápi
+localeDisplayNameslanguagesmkMacedonia Iyápi
+localeDisplayNameslanguagesbuaBuriat Iyápi
+localeDisplayNameslanguagesukUkrain Iyápi
+localeDisplayNameslanguagesaeAvestan Iyápi
+localeDisplayNameslanguageskuKurd Iyápi
+localeDisplayNameslanguageskkKazakh Iyápi
+localeDisplayNameslanguagesfiFinnish Iyápi
+localeDisplayNameslanguagesbgBulgar Iyápi
+localeDisplayNameslanguageskyKirghiz Iyápi
+localeDisplayNameslanguageslvLatvia Iyápi
+localeDisplayNameslanguagescrMaštíŋča Oyáte Iyápi
+localeDisplayNameslanguagesbsBosnia Iyápi
+localeDisplayNameslanguageslbLuxembourg Iyápi
+localeDisplayNameslanguagesmsMalay Iyápi
+localeDisplayNameslanguagescvChuvash Iyápi
+localeDisplayNameslanguagesswbComonian Iyápi
+localeDisplayNameslanguagessdSindhi Iyápi
+localeDisplayNameslanguagesavAvaric Iyápi
+localeDisplayNameslanguagesheHebrew Iyápi
+localeDisplayNameslanguageshuHungary Iyápi
+localeDisplayNameslanguagesnlDutch Iyápi
+localeDisplayNameslanguageswoWolof Iyápi
+localeDisplayNameslanguagesbaxBamun Iyápi
+localeDisplayNameslanguagessiSinhala Iyápi
+localeDisplayNameslanguagesbaBashkir Iyápi
+localeDisplayNameslanguageslahLahnda Iyápi
+localeDisplayNameslanguagesmiMaori Iyápi
+localeDisplayNameslanguagesroRomanian Iyápi
+localeDisplayNameslanguageszuZulu Iyápi
+localeDisplayNameslanguagessoSomali Iyápi
+localeDisplayNameslanguagesteTelugu Iyápi
+localeDisplayNameslanguagesamAmharic Iyápi
+localeDisplayNameslanguagesplPolish Iyápi
+localeDisplayNameslanguagesbalBaluchi Iyápi
+localeDisplayNameslanguageslktLakȟólʼiyapi
+localeDisplayNameslanguagesbejBeja Iyápi
+localeDisplayNameslanguagescyWales Iyápi
+localeDisplayNameslanguageskmKhmer Iyápi
+localeDisplayNameslanguagesurUrdu Iyápi
+localeDisplayNameslanguagesglGalician Iyápi
+localeDisplayNameslanguagesdeIyášiča Iyápi
+localeDisplayNameslanguagesdakDakȟótiyapi
+localeDisplayNameslanguagesabAbkhaz Iyápi
+localeDisplayNameslanguagesmtMaltese Iyápi
+localeDisplayNameslanguagesidIndonesia Iyápi
+localeDisplayNameslanguagesen_USMílahaŋska Wašíčuiyapi
+localeDisplayNameslanguagesbnBengali Iyápi
+localeDisplayNameslanguagesinhIngush Iyápi
+localeDisplayNameslanguagesitItalia Iyápi
+localeDisplayNameslanguageskbdKabardian Iyápi
+localeDisplayNameslanguagesdaDane Iyápi
+localeDisplayNameslanguageszzaZaza Iyápi
+localeDisplayNameslanguageszh_HansPȟečhókaŋ Háŋska Iyápi Ikčéka
+localeDisplayNameslanguagesenWašíčuiyapi
+localeDisplayNameslanguageschmMari Iyápi
+localeDisplayNameslanguagesceChechen Iyápi
+localeDisplayNameslanguageshyArmenia Iyápi
+localeDisplayNameslanguagesjvJava Iyápi
+localeDisplayNameslanguagesigIgbo Iyápi
+localeDisplayNameslanguagesmyBurmese Iyápi
+localeDisplayNameslanguagesknKannada Iyápi
+localeDisplayNameslanguagesfilFilipino Iyápi
+localeDisplayNameslanguagesesSpayóla Iyápi
+localeDisplayNameslanguagesen_GBŠagláša Wašíčuiyapi
+localeDisplayNameslanguagesyoYoruba Iyápi
+localeDisplayNameslanguagestkTurkmen Iyápi
+localeDisplayNameslanguagessvSwedish Iyápi
+localeDisplayNameslanguagesdoiDogri Iyápi
+localeDisplayNameslanguagesjaKisúŋla Iyápi
+localeDisplayNameslanguagesetEstonia Iyápi
+localeDisplayNameslanguagesltLithuania Iyápilt
+localeDisplayNameslanguageszhPȟečhókaŋ Háŋska Iyápi
+localeDisplayNameslanguageseuBasque Iyápi
+localeDisplayNameslanguageskaaKara-Kalpak Iyápi
+localeDisplayNameslanguagescaCatalan Iyápi
+localeDisplayNameslanguageslaLatin Iyápi
+localeDisplayNameslanguageskoKorea Iyápi
+localeDisplayNameslanguagesnl_BEFlemish Iyápi
+localeDisplayNameslanguagesquQuechua Iyápi
+localeDisplayNameslanguagessaSanskrit Iyápi
+localeDisplayNameslanguagestrTurkish Iyápi
+localeDisplayNameslanguagesboTibetan Iyápi
+localeDisplayNameslanguagesugUyghur Iyápi
+localeDisplayNameslanguagesundTukté iyápi tȟaŋíŋ šni
+localeDisplayNameslanguagesazAzerbaijani Iyápi
+localeDisplayNameslanguagesadyAdyghe Iyápi
+localeDisplayNameslanguagesmgMalagasy Iyápi
+localeDisplayNameslanguagesnvŠináglegleǧa Iyápi
+localeDisplayNameslanguagespsPashto Iyápi
+localeDisplayNameslanguageshaHausa Iyápi
+localeDisplayNameslanguagesrmRomansh Iyápi
+localeDisplayNameslanguageszh_HantPȟečhókaŋ Háŋska Iyápi Ȟče
+localeDisplayNameslanguagessrSerbia Iyápi
+localeDisplayNameslanguagesslSlovenian Iyápi
+localeDisplayNameslanguagesruRussia Iyápi
+localeDisplayNameslanguagescrhCrimean Turkish Iyápi
+localeDisplayNameslanguagesfaPersian Iyápi
+localeDisplayNameslanguagescsCzech Iyápi
+localeDisplayNameslanguagesneNepal Iyápi
+localeDisplayNameslanguagesasAssamese Iyápi
+localeDisplayNamesmeasurementSystemNamesUSUS
+localeDisplayNamesterritories150Wašíču Makȟáwita
+localeDisplayNamesterritoriesJPKisúŋla Makȟóčhe
+localeDisplayNamesterritories019Khéya Wíta
+localeDisplayNamesterritories142Hazíla Makȟáwita
+localeDisplayNamesterritoriesESSpayólaȟče Makȟóčhe
+localeDisplayNamesterritoriesDEIyášiča Makȟóčhe
+localeDisplayNamesterritories001Makȟásitomni
+localeDisplayNamesterritoriesMXSpayóla Makȟóčhe
+localeDisplayNamesterritoriesUSMílahaŋska Tȟamákȟočhe
+localeDisplayNamesterritories002Hásapa Makȟáwita
+localeDisplayNamesterritoriesCNPȟečhókaŋhaŋska Makȟóčhe
+localeDisplayNamesterritoriesCAUŋčíyapi Makȟóčhe

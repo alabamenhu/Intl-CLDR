@@ -1,0 +1,2740 @@
+unitsshortcoordinateUnitdisplayNameուղղություն
+unitsshortcoordinateUnitsouth{0} հվ․ լ․
+unitsshortcoordinateUnitnorth{0} հս․ լ․
+unitsshortcoordinateUnitwest{0} ամ․ ե․
+unitsshortcoordinateUniteast{0} ավ․ ե․
+unitsshortunitduration-centurydisplayNameդ․
+unitsshortunitduration-centurypatternother{0} դ․
+unitsshortunitduration-centurypatternone{0} դ․
+unitsshortunittemperature-kelvinpatternother{0} Կ
+unitsshortunittemperature-kelvinpatternone{0} Կ
+unitsshortunittemperature-kelvindisplayNameԿ
+unitsshortunitelectric-voltdisplayNameՎ
+unitsshortunitelectric-voltpatternother{0} Վ
+unitsshortunitelectric-voltpatternone{0} Վ
+unitsshortunitconcentr-permilledisplayNameպրոմիլ
+unitsshortunitconcentr-permillepatternone{0}‰
+unitsshortunitconcentr-permillepatternother{0}‰
+unitsshortunitdigital-petabytepatternone{0} ՊԲ
+unitsshortunitdigital-petabytepatternother{0} ՊԲ
+unitsshortunitdigital-petabytedisplayNameպետաբայթ
+unitsshortunitlength-picometerpatternother{0} պմ
+unitsshortunitlength-picometerpatternone{0} պմ
+unitsshortunitlength-picometerdisplayNameպմ
+unitsshortunitlight-luxdisplayNameլք
+unitsshortunitlight-luxpatternother{0} լք
+unitsshortunitlight-luxpatternone{0} լք
+unitsshortunitarea-acredisplayNameակր
+unitsshortunitarea-acrepatternother{0} ակր
+unitsshortunitarea-acrepatternone{0} ակր
+unitsshortunittemperature-fahrenheitdisplayName°F
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunitspeed-mile-per-hourdisplayNameմղ/ժ
+unitsshortunitspeed-mile-per-hourpatternone{0} մղ/ժ
+unitsshortunitspeed-mile-per-hourpatternother{0} մղ/ժ
+unitsshortunitconcentr-percentpatternother{0}%
+unitsshortunitconcentr-percentpatternone{0}%
+unitsshortunitconcentr-percentdisplayNameտոկոս
+unitsshortunitangle-degreepatternother{0}°
+unitsshortunitangle-degreepatternone{0}°
+unitsshortunitangle-degreedisplayNameաստիճաններ
+unitsshortunitacceleration-meter-per-second-squaredpatternone{0} մ/վ²
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} մ/վ²
+unitsshortunitacceleration-meter-per-second-squareddisplayNameմ/վ²
+unitsshortunitenergy-joulepatternone{0} Ջ
+unitsshortunitenergy-joulepatternother{0} Ջ
+unitsshortunitenergy-jouledisplayNameՋ
+unitsshortunitpower-milliwattpatternother{0} մՎտ
+unitsshortunitpower-milliwattpatternone{0} մՎտ
+unitsshortunitpower-milliwattdisplayNameմՎտ
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} լ/կմ
+unitsshortunitconsumption-liter-per-kilometerpatternone{0} լ/կմ
+unitsshortunitconsumption-liter-per-kilometerdisplayNameլ/կմ
+unitsshortunitvolume-cup-metricpatternother{0} մ․ բաժ․
+unitsshortunitvolume-cup-metricpatternone{0} մ․ բաժ․
+unitsshortunitvolume-cup-metricdisplayNameմ․ բաժ․
+unitsshortunitvolume-cubic-milepatternone{0} մղ³
+unitsshortunitvolume-cubic-milepatternother{0} մղ³
+unitsshortunitvolume-cubic-miledisplayNameմղ³
+unitsshortunitarea-hectarepatternone{0} հա
+unitsshortunitarea-hectarepatternother{0} հա
+unitsshortunitarea-hectaredisplayNameհա
+unitsshortunitmass-caratdisplayNameկար
+unitsshortunitmass-caratpatternother{0} կար
+unitsshortunitmass-caratpatternone{0} կար
+unitsshortunitvolume-milliliterpatternone{0} մլ
+unitsshortunitvolume-milliliterpatternother{0} մլ
+unitsshortunitvolume-milliliterdisplayNameմլ
+unitsshortunitpressure-hectopascaldisplayNameհՊա
+unitsshortunitpressure-hectopascalpatternone{0} հՊա
+unitsshortunitpressure-hectopascalpatternother{0} հՊա
+unitsshortunitenergy-foodcaloriedisplayNameկալ
+unitsshortunitenergy-foodcaloriepatternone{0} կալ
+unitsshortunitenergy-foodcaloriepatternother{0} կալ
+unitsshortunitduration-secondperUnitPattern{0}/վրկ
+unitsshortunitduration-seconddisplayNameվրկ
+unitsshortunitduration-secondpatternone{0} վրկ
+unitsshortunitduration-secondpatternother{0} վրկ
+unitsshortunitvolume-deciliterdisplayNameդլ
+unitsshortunitvolume-deciliterpatternone{0} դլ
+unitsshortunitvolume-deciliterpatternother{0} դլ
+unitsshortunitdigital-kilobytepatternone{0} կԲ
+unitsshortunitdigital-kilobytepatternother{0} կԲ
+unitsshortunitdigital-kilobytedisplayNameկԲ
+unitsshortunitarea-square-footdisplayNameֆտ²
+unitsshortunitarea-square-footpatternother{0} ֆտ²
+unitsshortunitarea-square-footpatternone{0} ֆտ²
+unitsshortunitarea-square-centimeterdisplayNameսմ²
+unitsshortunitarea-square-centimeterperUnitPattern{0}/սմ²
+unitsshortunitarea-square-centimeterpatternother{0} սմ²
+unitsshortunitarea-square-centimeterpatternone{0} սմ²
+unitsshortunitlength-astronomical-unitpatternother{0} ա.մ.
+unitsshortunitlength-astronomical-unitpatternone{0} ա.մ.
+unitsshortunitlength-astronomical-unitdisplayNameա.մ.
+unitsshortunitvolume-megaliterpatternother{0} Մլ
+unitsshortunitvolume-megaliterpatternone{0} Մլ
+unitsshortunitvolume-megaliterdisplayNameՄլ
+unitsshortunitarea-square-kilometerperUnitPattern{0}/կմ²
+unitsshortunitarea-square-kilometerdisplayNameկմ²
+unitsshortunitarea-square-kilometerpatternother{0} կմ²
+unitsshortunitarea-square-kilometerpatternone{0} կմ²
+unitsshortunitelectric-ohmpatternother{0} օմ
+unitsshortunitelectric-ohmpatternone{0} օմ
+unitsshortunitelectric-ohmdisplayNameօմ
+unitsshortunitconsumption-liter-per-100kilometersdisplayNameլ/100 կմ
+unitsshortunitconsumption-liter-per-100kilometerspatternone{0} լ/100 կմ
+unitsshortunitconsumption-liter-per-100kilometerspatternother{0} լ/100 կմ
+unitsshortunitacceleration-g-forcepatternone{0} g
+unitsshortunitacceleration-g-forcepatternother{0} g
+unitsshortunitacceleration-g-forcedisplayNameg
+unitsshortunitvolume-pint-metricdisplayNameմետր․ պինտեր
+unitsshortunitvolume-pint-metricpatternother{0} մետր․ պինտ
+unitsshortunitvolume-pint-metricpatternone{0} մետր․ պինտ
+unitsshortunitvolume-pintdisplayNameպինտեր
+unitsshortunitvolume-pintpatternone{0} պինտ
+unitsshortunitvolume-pintpatternother{0} պինտ
+unitsshortunitduration-microsecondpatternone{0} մկվ
+unitsshortunitduration-microsecondpatternother{0} մկվ
+unitsshortunitduration-microseconddisplayNameմկվ
+unitsshortunitarea-square-inchpatternother{0} դյմ²
+unitsshortunitarea-square-inchpatternone{0} դյմ²
+unitsshortunitarea-square-inchdisplayNameդյմ²
+unitsshortunitarea-square-inchperUnitPattern{0}/դյմ²
+unitsshortunitenergy-kilowatt-hourpatternother{0} կՎտ·ժ
+unitsshortunitenergy-kilowatt-hourpatternone{0} կՎտ·ժ
+unitsshortunitenergy-kilowatt-hourdisplayNameկՎտ·ժ
+unitsshortunitfrequency-hertzpatternother{0} Հց
+unitsshortunitfrequency-hertzpatternone{0} Հց
+unitsshortunitfrequency-hertzdisplayNameՀց
+unitsshortunitlength-inchperUnitPattern{0}/դյմ
+unitsshortunitlength-inchdisplayNameդյմ
+unitsshortunitlength-inchpatternother{0} դյմ
+unitsshortunitlength-inchpatternone{0} դյմ
+unitsshortunitpressure-atmospheredisplayNameմթն
+unitsshortunitpressure-atmospherepatternone{0} մթն
+unitsshortunitpressure-atmospherepatternother{0} մթն
+unitsshortunitvolume-quartpatternone{0} քվարտ
+unitsshortunitvolume-quartpatternother{0} քվարտ
+unitsshortunitvolume-quartdisplayNameքվարտ
+unitsshortunitvolume-cubic-footdisplayNameֆտ³
+unitsshortunitvolume-cubic-footpatternone{0} ֆտ³
+unitsshortunitvolume-cubic-footpatternother{0} ֆտ³
+unitsshortunitconsumption-mile-per-gallonpatternother{0} մղ/գալ
+unitsshortunitconsumption-mile-per-gallonpatternone{0} մղ/գալ
+unitsshortunitconsumption-mile-per-gallondisplayNameմղ/գալ
+unitsshortunitvolume-cubic-centimeterdisplayNameսմ³
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/սմ³
+unitsshortunitvolume-cubic-centimeterpatternone{0} սմ³
+unitsshortunitvolume-cubic-centimeterpatternother{0} սմ³
+unitsshortunitenergy-kilocaloriepatternone{0} կկալ
+unitsshortunitenergy-kilocaloriepatternother{0} կկալ
+unitsshortunitenergy-kilocaloriedisplayNameկկալ
+unitsshortunitlength-nanometerdisplayNameնմ
+unitsshortunitlength-nanometerpatternone{0} նմ
+unitsshortunitlength-nanometerpatternother{0} նմ
+unitsshortunitmass-tondisplayNameամեր․ տ
+unitsshortunitmass-tonpatternone{0} ամեր․ տ
+unitsshortunitmass-tonpatternother{0} ամեր․ տ
+unitsshortunitspeed-meter-per-seconddisplayNameմ/վ
+unitsshortunitspeed-meter-per-secondpatternone{0} մ/վ
+unitsshortunitspeed-meter-per-secondpatternother{0} մ/վ
+unitsshortunitdigital-kilobitdisplayNameկբիթ
+unitsshortunitdigital-kilobitpatternone{0} կբիթ
+unitsshortunitdigital-kilobitpatternother{0} կբիթ
+unitsshortunitvolume-cubic-kilometerpatternother{0} կմ³
+unitsshortunitvolume-cubic-kilometerpatternone{0} կմ³
+unitsshortunitvolume-cubic-kilometerdisplayNameկմ³
+unitsshortunitelectric-amperepatternone{0} Ա
+unitsshortunitelectric-amperepatternother{0} Ա
+unitsshortunitelectric-amperedisplayNameԱ
+unitsshortunitdigital-bytepatternone{0} Բ
+unitsshortunitdigital-bytepatternother{0} Բ
+unitsshortunitdigital-bytedisplayNameԲ
+unitsshortunitlength-micrometerdisplayNameմկմ
+unitsshortunitlength-micrometerpatternone{0} մկմ
+unitsshortunitlength-micrometerpatternother{0} մկմ
+unitsshortunitmass-microgramdisplayNameմկգ
+unitsshortunitmass-microgrampatternone{0} մկգ
+unitsshortunitmass-microgrampatternother{0} մկգ
+unitsshortunitfrequency-kilohertzpatternone{0} կՀց
+unitsshortunitfrequency-kilohertzpatternother{0} կՀց
+unitsshortunitfrequency-kilohertzdisplayNameկՀց
+unitsshortunitpressure-millimeter-of-mercurydisplayNameմմ ս.ս.
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} մմ ս.ս.
+unitsshortunitpressure-millimeter-of-mercurypatternone{0} մմ ս.ս.
+unitsshortunitmass-ounce-troypatternother{0} տրոյ․ ունց
+unitsshortunitmass-ounce-troypatternone{0} տրոյ․ ունց
+unitsshortunitmass-ounce-troydisplayNameտրոյ․ ունց
+unitsshortunitduration-daypatternone{0} օր
+unitsshortunitduration-daypatternother{0} օր
+unitsshortunitduration-dayperUnitPattern{0}/օր
+unitsshortunitduration-daydisplayNameօր
+unitsshortunitvolume-teaspoonpatternother{0} թգ.
+unitsshortunitvolume-teaspoonpatternone{0} թգ.
+unitsshortunitvolume-teaspoondisplayNameթգ.
+unitsshortunitmass-kilogramperUnitPattern{0}/կգ
+unitsshortunitmass-kilogramdisplayNameկգ
+unitsshortunitmass-kilogrampatternother{0} կգ
+unitsshortunitmass-kilogrampatternone{0} կգ
+unitsshortunitpressure-inch-hgpatternother{0} դյմ. ս.ս.
+unitsshortunitpressure-inch-hgpatternone{0} դյմ. ս.ս.
+unitsshortunitpressure-inch-hgdisplayNameդյույմ ս.ս.
+unitsshortunitlength-yarddisplayNameյրդ
+unitsshortunitlength-yardpatternone{0} յրդ
+unitsshortunitlength-yardpatternother{0} յրդ
+unitsshortunitduration-minuteperUnitPattern{0}/ր
+unitsshortunitduration-minutedisplayNameր
+unitsshortunitduration-minutepatternother{0} ր
+unitsshortunitduration-minutepatternone{0} ր
+unitsshortunitlength-meterdisplayNameմ
+unitsshortunitlength-meterperUnitPattern{0}/մ
+unitsshortunitlength-meterpatternone{0} մ
+unitsshortunitlength-meterpatternother{0} մ
+unitsshortunitpressure-millibardisplayNameմբար
+unitsshortunitpressure-millibarpatternother{0} մբար
+unitsshortunitpressure-millibarpatternone{0} մբար
+unitsshortunitvolume-centiliterdisplayNameսլ
+unitsshortunitvolume-centiliterpatternother{0} սլ
+unitsshortunitvolume-centiliterpatternone{0} սլ
+unitsshortunitvolume-cubic-yarddisplayNameյրդ³
+unitsshortunitvolume-cubic-yardpatternone{0} յրդ³
+unitsshortunitvolume-cubic-yardpatternother{0} յրդ³
+unitsshortunitdigital-terabitdisplayNameՏբիթ
+unitsshortunitdigital-terabitpatternone{0} Տբիթ
+unitsshortunitdigital-terabitpatternother{0} Տբիթ
+unitsshortunitduration-milliseconddisplayNameմվ
+unitsshortunitduration-millisecondpatternother{0} մվ
+unitsshortunitduration-millisecondpatternone{0} մվ
+unitsshortunitelectric-milliamperepatternone{0} մԱ
+unitsshortunitelectric-milliamperepatternother{0} մԱ
+unitsshortunitelectric-milliamperedisplayNameմԱ
+unitsshortunitvolume-cuppatternone{0} բաժ․
+unitsshortunitvolume-cuppatternother{0} բաժ․
+unitsshortunitvolume-cupdisplayNameբաժակներ
+unitsshortunitspeed-kilometer-per-hourdisplayNameկմ/ժ
+unitsshortunitspeed-kilometer-per-hourpatternother{0} կմ/ժ
+unitsshortunitspeed-kilometer-per-hourpatternone{0} կմ/ժ
+unitsshortunitduration-monthpatternother{0} ամս
+unitsshortunitduration-monthpatternone{0} ամս
+unitsshortunitduration-monthdisplayNameամս
+unitsshortunitduration-monthperUnitPattern{0}/ամս
+unitsshortunitlength-millimeterpatternother{0} մմ
+unitsshortunitlength-millimeterpatternone{0} մմ
+unitsshortunitlength-millimeterdisplayNameմմ
+unitsshortunitlength-miledisplayNameմղ
+unitsshortunitlength-milepatternother{0} մղ
+unitsshortunitlength-milepatternone{0} մղ
+unitsshortunitdigital-bitpatternother{0} բիթ
+unitsshortunitdigital-bitpatternone{0} բիթ
+unitsshortunitdigital-bitdisplayNameբիթ
+unitsshortunitlength-mile-scandinavianpatternother{0} սկանդ․ մղ
+unitsshortunitlength-mile-scandinavianpatternone{0} սկանդ․ մղ
+unitsshortunitlength-mile-scandinaviandisplayNameսկանդ․ մղ
+unitsshortunitpower-wattdisplayNameՎտ
+unitsshortunitpower-wattpatternother{0} Վտ
+unitsshortunitpower-wattpatternone{0} Վտ
+unitsshortunitlength-pointdisplayNameկտ
+unitsshortunitlength-pointpatternother{0} կտ
+unitsshortunitlength-pointpatternone{0} կտ
+unitsshortunitdigital-megabitdisplayNameՄբիթ
+unitsshortunitdigital-megabitpatternother{0} Մբիթ
+unitsshortunitdigital-megabitpatternone{0} Մբիթ
+unitsshortunitduration-yearperUnitPattern{0}/տ
+unitsshortunitduration-yeardisplayNameտ
+unitsshortunitduration-yearpatternone{0} տ
+unitsshortunitduration-yearpatternother{0} տ
+unitsshortunitarea-square-meterdisplayNameմ²
+unitsshortunitarea-square-meterperUnitPattern{0}/մ²
+unitsshortunitarea-square-meterpatternother{0} մ²
+unitsshortunitarea-square-meterpatternone{0} մ²
+unitsshortunitconcentr-milligram-per-deciliterpatternone{0} մգ/դլ
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} մգ/դլ
+unitsshortunitconcentr-milligram-per-deciliterdisplayNameմգ/դլ
+unitsshortunitlength-footperUnitPattern{0}/ֆտ
+unitsshortunitlength-footdisplayNameֆտ
+unitsshortunitlength-footpatternother{0} ֆտ
+unitsshortunitlength-footpatternone{0} ֆտ
+unitsshortunitmass-milligramdisplayNameմգ
+unitsshortunitmass-milligrampatternother{0} մգ
+unitsshortunitmass-milligrampatternone{0} մգ
+unitsshortunitpower-gigawattdisplayNameԳՎտ
+unitsshortunitpower-gigawattpatternother{0} ԳՎտ
+unitsshortunitpower-gigawattpatternone{0} ԳՎտ
+unitsshortunitlength-nautical-miledisplayNameծով․ մղ
+unitsshortunitlength-nautical-milepatternother{0} ծով․ մղ
+unitsshortunitlength-nautical-milepatternone{0} ծով․ մղ
+unitsshortunitspeed-knotdisplayNameհանգույցներ
+unitsshortunitspeed-knotpatternone{0} հանգույց
+unitsshortunitspeed-knotpatternother{0} հանգույց
+unitsshortunitlength-decimeterpatternother{0} դմ
+unitsshortunitlength-decimeterpatternone{0} դմ
+unitsshortunitlength-decimeterdisplayNameդմ
+unitsshortunitvolume-hectoliterpatternone{0} հլ
+unitsshortunitvolume-hectoliterpatternother{0} հլ
+unitsshortunitvolume-hectoliterdisplayNameհլ
+unitsshortunitlength-light-yeardisplayNameլ․տ․
+unitsshortunitlength-light-yearpatternother{0} լ.տ.
+unitsshortunitlength-light-yearpatternone{0} լ.տ.
+unitsshortunitlength-kilometerpatternone{0} կմ
+unitsshortunitlength-kilometerpatternother{0} կմ
+unitsshortunitlength-kilometerperUnitPattern{0}/կմ
+unitsshortunitlength-kilometerdisplayNameկմ
+unitsshortunitangle-radianpatternother{0} ռադ
+unitsshortunitangle-radianpatternone{0} ռադ
+unitsshortunitangle-radiandisplayNameռադ
+unitsshortunitconcentr-millimole-per-literdisplayNameմմոլ/լ
+unitsshortunitconcentr-millimole-per-literpatternone{0} մմոլ/լ
+unitsshortunitconcentr-millimole-per-literpatternother{0} մմոլ/լ
+unitsshortunitenergy-caloriepatternone{0} կալ
+unitsshortunitenergy-caloriepatternother{0} կալ
+unitsshortunitenergy-caloriedisplayNameկալ
+unitsshortunitarea-square-mileperUnitPattern{0}/մղ²
+unitsshortunitarea-square-miledisplayNameմղ²
+unitsshortunitarea-square-milepatternother{0} մղ²
+unitsshortunitarea-square-milepatternone{0} մղ²
+unitsshortunitpower-horsepowerpatternother{0} ձ․ու․
+unitsshortunitpower-horsepowerpatternone{0} ձ․ու․
+unitsshortunitpower-horsepowerdisplayNameձ․ու․
+unitsshortunitduration-weekperUnitPattern{0}/շաբ
+unitsshortunitduration-weekdisplayNameշաբ
+unitsshortunitduration-weekpatternother{0} շաբ
+unitsshortunitduration-weekpatternone{0} շաբ
+unitsshortunitdigital-megabytedisplayNameՄԲ
+unitsshortunitdigital-megabytepatternone{0} ՄԲ
+unitsshortunitdigital-megabytepatternother{0} ՄԲ
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNameմղ/անգլ․ գալ
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} մղ/անգլ․ գալ
+unitsshortunitconsumption-mile-per-gallon-imperialpatternone{0} մղ/անգլ․ գալ
+unitsshortunitenergy-kilojouledisplayNameկՋ
+unitsshortunitenergy-kilojoulepatternone{0} կՋ
+unitsshortunitenergy-kilojoulepatternother{0} կՋ
+unitsshortunitmass-ounceperUnitPattern{0}/ունց
+unitsshortunitmass-ouncedisplayNameունց
+unitsshortunitmass-ouncepatternother{0} ունց
+unitsshortunitmass-ouncepatternone{0} ունց
+unitsshortunitdigital-terabytepatternother{0} ՏԲ
+unitsshortunitdigital-terabytepatternone{0} ՏԲ
+unitsshortunitdigital-terabytedisplayNameՏԲ
+unitsshortunittemperature-celsiusdisplayName°C
+unitsshortunittemperature-celsiuspatternother{0} °C
+unitsshortunittemperature-celsiuspatternone{0} °C
+unitsshortunitdigital-gigabytepatternother{0} ԳԲ
+unitsshortunitdigital-gigabytepatternone{0} ԳԲ
+unitsshortunitdigital-gigabytedisplayNameԳԲ
+unitsshortunitmass-metric-tonpatternone{0} տ
+unitsshortunitmass-metric-tonpatternother{0} տ
+unitsshortunitmass-metric-tondisplayNameտ
+unitsshortunitangle-revolutionpatternone{0} պտ
+unitsshortunitangle-revolutionpatternother{0} պտ
+unitsshortunitangle-revolutiondisplayNameպտ
+unitsshortunittemperature-genericpatternone{0}°
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunittemperature-genericdisplayName°
+unitsshortunitvolume-cubic-inchdisplayNameդյմ³
+unitsshortunitvolume-cubic-inchpatternother{0} դյմ³
+unitsshortunitvolume-cubic-inchpatternone{0} դյմ³
+unitsshortunitdigital-gigabitpatternother{0} Գբիթ
+unitsshortunitdigital-gigabitpatternone{0} Գբիթ
+unitsshortunitdigital-gigabitdisplayNameԳբիթ
+unitsshortunitconcentr-karatdisplayNameկար
+unitsshortunitconcentr-karatpatternother{0} կար
+unitsshortunitconcentr-karatpatternone{0} կար
+unitsshortunitvolume-fluid-ouncedisplayNameհղ․ ունց․
+unitsshortunitvolume-fluid-ouncepatternother{0} հղ. ունց․
+unitsshortunitvolume-fluid-ouncepatternone{0} հղ. ունց․
+unitsshortunitlength-centimeterdisplayNameսմ
+unitsshortunitlength-centimeterperUnitPattern{0}/սմ
+unitsshortunitlength-centimeterpatternother{0} սմ
+unitsshortunitlength-centimeterpatternone{0} սմ
+unitsshortunitmass-gramperUnitPattern{0}/գ
+unitsshortunitmass-gramdisplayNameգ
+unitsshortunitmass-grampatternother{0} գ
+unitsshortunitmass-grampatternone{0} գ
+unitsshortunitlength-parsecpatternother{0} պկ
+unitsshortunitlength-parsecpatternone{0} պկ
+unitsshortunitlength-parsecdisplayNameպկ
+unitsshortunitconcentr-part-per-millionpatternother{0} մասնիկ/միլիոն
+unitsshortunitconcentr-part-per-millionpatternone{0} մասնիկ/միլիոն
+unitsshortunitconcentr-part-per-milliondisplayNameմասնիկ/միլիոն
+unitsshortunitvolume-gallondisplayNameգալ
+unitsshortunitvolume-gallonperUnitPattern{0}/գալ
+unitsshortunitvolume-gallonpatternone{0} գալ
+unitsshortunitvolume-gallonpatternother{0} գալ
+unitsshortunitmass-poundpatternother{0} ֆունտ
+unitsshortunitmass-poundpatternone{0} ֆունտ
+unitsshortunitmass-poundperUnitPattern{0}/ֆունտ
+unitsshortunitmass-pounddisplayNameֆունտեր
+unitsshortunitvolume-tablespoonpatternone{0} ճգ.
+unitsshortunitvolume-tablespoonpatternother{0} ճգ.
+unitsshortunitvolume-tablespoondisplayNameճգ.
+unitsshortunitarea-square-yarddisplayNameյրդ²
+unitsshortunitarea-square-yardpatternone{0} յրդ²
+unitsshortunitarea-square-yardpatternother{0} յրդ²
+unitsshortunitfrequency-gigahertzdisplayNameԳՀց
+unitsshortunitfrequency-gigahertzpatternother{0} ԳՀց
+unitsshortunitfrequency-gigahertzpatternone{0} ԳՀց
+unitsshortunitpressure-pound-per-square-inchpatternone{0} ֆ./քառ․ դյմ
+unitsshortunitpressure-pound-per-square-inchpatternother{0} ֆ./քառ․ դյմ
+unitsshortunitpressure-pound-per-square-inchdisplayNameֆ․/քառ․ դյմ
+unitsshortunitvolume-literdisplayNameլ
+unitsshortunitvolume-literperUnitPattern{0}/լ
+unitsshortunitvolume-literpatternother{0} լ
+unitsshortunitvolume-literpatternone{0} լ
+unitsshortunitvolume-cubic-meterpatternother{0} մ³
+unitsshortunitvolume-cubic-meterpatternone{0} մ³
+unitsshortunitvolume-cubic-meterdisplayNameմ³
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/մ³
+unitsshortunitpower-megawattdisplayNameՄՎտ
+unitsshortunitpower-megawattpatternone{0} ՄՎտ
+unitsshortunitpower-megawattpatternother{0} ՄՎտ
+unitsshortunitvolume-acre-footdisplayNameակր ֆտ
+unitsshortunitvolume-acre-footpatternone{0} ակր ֆտ
+unitsshortunitvolume-acre-footpatternother{0} ակր ֆտ
+unitsshortunitvolume-gallon-imperialperUnitPattern{0}/անգլ․ գալ
+unitsshortunitvolume-gallon-imperialdisplayNameանգլ․ գալ
+unitsshortunitvolume-gallon-imperialpatternother{0} անգլ․ գալ
+unitsshortunitvolume-gallon-imperialpatternone{0} անգլ․ գալ
+unitsshortunitpower-kilowattpatternother{0} կՎտ
+unitsshortunitpower-kilowattpatternone{0} կՎտ
+unitsshortunitpower-kilowattdisplayNameկՎտ
+unitsshortunitangle-arc-seconddisplayNameվայրկյաններ
+unitsshortunitangle-arc-secondpatternone{0}″
+unitsshortunitangle-arc-secondpatternother{0}″
+unitsshortunitduration-hourdisplayNameժ
+unitsshortunitduration-hourperUnitPattern{0}/ժ
+unitsshortunitduration-hourpatternother{0} ժ
+unitsshortunitduration-hourpatternone{0} ժ
+unitsshortunitduration-nanoseconddisplayNameնվ
+unitsshortunitduration-nanosecondpatternone{0} նվ
+unitsshortunitduration-nanosecondpatternother{0} նվ
+unitsshortunitangle-arc-minutepatternother{0}′
+unitsshortunitangle-arc-minutepatternone{0}′
+unitsshortunitangle-arc-minutedisplayNameրոպեներ
+unitsshortunitfrequency-megahertzdisplayNameՄՀց
+unitsshortunitfrequency-megahertzpatternone{0} ՄՀց
+unitsshortunitfrequency-megahertzpatternother{0} ՄՀց
+unitsshortcompoundUnitperpattern{0}/{1}
+unitsnarrowunitmass-kilogramdisplayNameկգ
+unitsnarrowunitmass-kilogrampatternone{0} կգ
+unitsnarrowunitmass-kilogrampatternother{0} կգ
+unitsnarrowunitpressure-millibarpatternone{0} մբ
+unitsnarrowunitpressure-millibarpatternother{0} մբ
+unitsnarrowunitpressure-inch-hgpatternone{0}&quot; ս. ս.
+unitsnarrowunitpressure-inch-hgpatternother{0}&quot; ս. ս
+unitsnarrowunitlength-yardpatternother{0} յդ.
+unitsnarrowunitlength-yardpatternone{0} յդ.
+unitsnarrowunitduration-millisecondpatternone{0} մվ
+unitsnarrowunitduration-millisecondpatternother{0} մվ
+unitsnarrowunitduration-milliseconddisplayNameմվ
+unitsnarrowunitlength-meterpatternother{0} մ
+unitsnarrowunitlength-meterpatternone{0} մ
+unitsnarrowunitlength-meterdisplayNameմ
+unitsnarrowunitduration-minutedisplayNameր
+unitsnarrowunitduration-minutepatternone{0} ր
+unitsnarrowunitduration-minutepatternother{0} ր
+unitsnarrowunitduration-daypatternother{0} օ
+unitsnarrowunitduration-daypatternone{0} օ
+unitsnarrowunitduration-daydisplayNameօ
+unitsnarrowunitvolume-cubic-kilometerpatternone{0}կմ³
+unitsnarrowunitvolume-cubic-kilometerpatternother{0}կմ³
+unitsnarrowunitlength-inchpatternone{0}″
+unitsnarrowunitlength-inchpatternother{0}″
+unitsnarrowunitspeed-meter-per-secondpatternother{0}մ/վ
+unitsnarrowunitspeed-meter-per-secondpatternone{0}մ/վ
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNameլ/100 կմ
+unitsnarrowunitconsumption-liter-per-100kilometerspatternone{0} լ/100 կմ
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0} լ/100 կմ
+unitsnarrowunitpressure-hectopascalpatternone{0} հՊա
+unitsnarrowunitpressure-hectopascalpatternother{0} հՊա
+unitsnarrowunitduration-seconddisplayNameվ
+unitsnarrowunitduration-secondpatternone{0} վ
+unitsnarrowunitduration-secondpatternother{0} վ
+unitsnarrowunitarea-square-footpatternother{0}ֆտ²
+unitsnarrowunitarea-square-footpatternone{0}ֆտ²
+unitsnarrowunitarea-square-kilometerpatternother{0} կմ²
+unitsnarrowunitarea-square-kilometerpatternone{0} կմ²
+unitsnarrowunitacceleration-g-forcepatternother{0}G
+unitsnarrowunitacceleration-g-forcepatternone{0}G
+unitsnarrowunitvolume-cubic-milepatternone{0}մղ³
+unitsnarrowunitvolume-cubic-milepatternother{0}մղ³
+unitsnarrowunitspeed-mile-per-hourpatternone{0}մղ/ժ
+unitsnarrowunitspeed-mile-per-hourpatternother{0}մղ/ժ
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunitconcentr-percentdisplayName%
+unitsnarrowunitconcentr-percentpatternother{0}%
+unitsnarrowunitconcentr-percentpatternone{0}%
+unitsnarrowunitlength-picometerpatternother{0} պմ
+unitsnarrowunitlength-picometerpatternone{0} պմ
+unitsnarrowunitarea-hectarepatternone{0}հա
+unitsnarrowunitarea-hectarepatternother{0}հա
+unitsnarrowunitarea-acrepatternone{0}ակր
+unitsnarrowunitarea-acrepatternother{0}ակր
+unitsnarrowunitangle-degreepatternother{0}°
+unitsnarrowunitangle-degreepatternone{0}°
+unitsnarrowunitpower-kilowattpatternother{0}կՎ
+unitsnarrowunitpower-kilowattpatternone{0}կՎ
+unitsnarrowunitvolume-literpatternone{0} լ
+unitsnarrowunitvolume-literpatternother{0} լ
+unitsnarrowunitvolume-literdisplayNameլ
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunitangle-arc-secondpatternone{0}″
+unitsnarrowunitduration-hourpatternone{0} ժ
+unitsnarrowunitduration-hourpatternother{0} ժ
+unitsnarrowunitduration-hourdisplayNameժ
+unitsnarrowunitangle-arc-minutepatternother{0}′
+unitsnarrowunitangle-arc-minutepatternone{0}′
+unitsnarrowunitmass-poundpatternone{0}#
+unitsnarrowunitmass-poundpatternother{0}#
+unitsnarrowunitmass-gramdisplayNameգ
+unitsnarrowunitmass-grampatternother{0} գ
+unitsnarrowunitmass-grampatternone{0} գ
+unitsnarrowunitlength-centimeterpatternone{0} սմ
+unitsnarrowunitlength-centimeterpatternother{0} սմ
+unitsnarrowunitlength-centimeterdisplayNameսմ
+unitsnarrowunitpower-horsepowerpatternother{0}ձ/ու
+unitsnarrowunitpower-horsepowerpatternone{0}ձ/ու
+unitsnarrowunittemperature-celsiuspatternone{0} °C
+unitsnarrowunittemperature-celsiuspatternother{0} °C
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunitarea-square-milepatternother{0}մղ²
+unitsnarrowunitarea-square-milepatternone{0}մղ²
+unitsnarrowunitmass-ouncepatternother{0} ունց
+unitsnarrowunitmass-ouncepatternone{0} ունց
+unitsnarrowunitlength-light-yearpatternother{0} լ. տ.
+unitsnarrowunitlength-light-yearpatternone{0} լ. տ.
+unitsnarrowunitlength-kilometerdisplayNameկմ
+unitsnarrowunitlength-kilometerpatternother{0} կմ
+unitsnarrowunitlength-kilometerpatternone{0} կմ
+unitsnarrowunitduration-weekdisplayNameշ
+unitsnarrowunitduration-weekpatternone{0} շ
+unitsnarrowunitduration-weekpatternother{0} շ
+unitsnarrowunitspeed-kilometer-per-hourdisplayNameկմ/ժ
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} կմ/ժ
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0} կմ/ժ
+unitsnarrowunitpower-wattpatternother{0}Վ
+unitsnarrowunitpower-wattpatternone{0}Վ
+unitsnarrowunitlength-milepatternone{0} մղ
+unitsnarrowunitlength-milepatternother{0} մղ
+unitsnarrowunitlength-footpatternone{0}′
+unitsnarrowunitlength-footpatternother{0}′
+unitsnarrowunitduration-monthpatternother{0} ա
+unitsnarrowunitduration-monthpatternone{0} ա
+unitsnarrowunitduration-monthdisplayNameա
+unitsnarrowunitlength-millimeterpatternother{0} մմ
+unitsnarrowunitlength-millimeterpatternone{0} մմ
+unitsnarrowunitlength-millimeterdisplayNameմմ
+unitsnarrowunitduration-yeardisplayNameտ
+unitsnarrowunitduration-yearpatternone{0} տ
+unitsnarrowunitduration-yearpatternother{0} տ
+unitsnarrowunitarea-square-meterpatternother{0} մ²
+unitsnarrowunitarea-square-meterpatternone{0} մ²
+unitsnarrowcoordinateUniteast{0} ավ․ ե․
+unitsnarrowcoordinateUnitwest{0} ամ․ ե․
+unitsnarrowcoordinateUnitdisplayNameուղղ․
+unitsnarrowcoordinateUnitsouth{0} հվ․ լ․
+unitsnarrowcoordinateUnitnorth{0} հս․ լ․
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitslongunittemperature-kelvindisplayNameկելվիններ
+unitslongunittemperature-kelvinpatternother{0} կելվին
+unitslongunittemperature-kelvinpatternone{0} կելվին
+unitslongunitelectric-voltdisplayNameվոլտեր
+unitslongunitelectric-voltpatternother{0} վոլտ
+unitslongunitelectric-voltpatternone{0} վոլտ
+unitslongunitdigital-petabytepatternone{0} պետաբայթ
+unitslongunitdigital-petabytepatternother{0} պետաբայթ
+unitslongunitdigital-petabytedisplayNameպետաբայթ
+unitslongunitlength-picometerpatternone{0} պիկոմետր
+unitslongunitlength-picometerpatternother{0} պիկոմետր
+unitslongunitlength-picometerdisplayNameպիկոմետրեր
+unitslongunitlight-luxpatternother{0} լյուքս
+unitslongunitlight-luxpatternone{0} լյուքս
+unitslongunitlight-luxdisplayNameլյուքսեր
+unitslongunitconcentr-permillepatternone{0} պրոմիլ
+unitslongunitconcentr-permillepatternother{0} պրոմիլ
+unitslongunitconcentr-permilledisplayNameպրոմիլ
+unitslongunitduration-centurydisplayNameդարեր
+unitslongunitduration-centurypatternone{0} դար
+unitslongunitduration-centurypatternother{0} դար
+unitslongunitvolume-cup-metricpatternone{0} մետրիկ բաժակ
+unitslongunitvolume-cup-metricpatternother{0} մետրիկ բաժակ
+unitslongunitvolume-cup-metricdisplayNameմետրիկ բաժակներ
+unitslongunitvolume-cubic-milepatternother{0} խորանարդ մղոն
+unitslongunitvolume-cubic-milepatternone{0} խորանարդ մղոն
+unitslongunitvolume-cubic-miledisplayNameխորանարդ մղոններ
+unitslongunitconsumption-liter-per-kilometerdisplayNameլիտրեր կիլոմետրի վրա
+unitslongunitconsumption-liter-per-kilometerpatternone{0} լիտր կիլոմետրի վրա
+unitslongunitconsumption-liter-per-kilometerpatternother{0} լիտր կիլոմետրի վրա
+unitslongunitarea-hectaredisplayNameհեկտարներ
+unitslongunitarea-hectarepatternother{0} հեկտար
+unitslongunitarea-hectarepatternone{0} հեկտար
+unitslongunitmass-caratpatternother{0} կարատ
+unitslongunitmass-caratpatternone{0} կարատ
+unitslongunitmass-caratdisplayNameկարատներ
+unitslongunitspeed-mile-per-hourdisplayNameմղոններ ժամում
+unitslongunitspeed-mile-per-hourpatternone{0} մղոն ժամում
+unitslongunitspeed-mile-per-hourpatternother{0} մղոն ժամում
+unitslongunittemperature-fahrenheitpatternone{0} աստիճան ըստ Ֆարենհայթի
+unitslongunittemperature-fahrenheitpatternother{0} աստիճան ըստ Ֆարենհայթի
+unitslongunittemperature-fahrenheitdisplayNameաստիճաններ ըստ Ֆարենհայթի
+unitslongunitconcentr-percentpatternother{0} տոկոս
+unitslongunitconcentr-percentpatternone{0} տոկոս
+unitslongunitconcentr-percentdisplayNameտոկոս
+unitslongunitarea-acredisplayNameակրեր
+unitslongunitarea-acrepatternother{0} ակր
+unitslongunitarea-acrepatternone{0} ակր
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} մետր/վայրկյան քառակուսի
+unitslongunitacceleration-meter-per-second-squaredpatternone{0} մետր/վայրկյան քառակուսի
+unitslongunitacceleration-meter-per-second-squareddisplayNameմետրեր/վայրկյան քառակուսի
+unitslongunitenergy-joulepatternother{0} ջոուլ
+unitslongunitenergy-joulepatternone{0} ջոուլ
+unitslongunitenergy-jouledisplayNameջոուլներ
+unitslongunitangle-degreepatternone{0} աստիճան
+unitslongunitangle-degreepatternother{0} աստիճան
+unitslongunitangle-degreedisplayNameաստիճաններ
+unitslongunitpower-milliwattdisplayNameմիլիվատտեր
+unitslongunitpower-milliwattpatternother{0} միլիվատտ
+unitslongunitpower-milliwattpatternone{0} միլիվատտ
+unitslongunitduration-seconddisplayNameվայրկյաններ
+unitslongunitduration-secondperUnitPattern{0} վայրկյանում
+unitslongunitduration-secondpatternother{0} վայրկյան
+unitslongunitduration-secondpatternone{0} վայրկյան
+unitslongunitvolume-deciliterdisplayNameդեցիլիտրեր
+unitslongunitvolume-deciliterpatternone{0} դեցիլիտր
+unitslongunitvolume-deciliterpatternother{0} դեցիլիտր
+unitslongunitdigital-kilobytepatternother{0} կիլոբայթ
+unitslongunitdigital-kilobytepatternone{0} կիլոբայթ
+unitslongunitdigital-kilobytedisplayNameկիլոբայթեր
+unitslongunitarea-square-footdisplayNameքառակուսի ֆուտեր
+unitslongunitarea-square-footpatternone{0} քառակուսի ֆուտ
+unitslongunitarea-square-footpatternother{0} քառակուսի ֆուտ
+unitslongunitarea-square-centimeterpatternone{0} քառակուսի սանտիմետր
+unitslongunitarea-square-centimeterpatternother{0} քառակուսի սանտիմետր
+unitslongunitarea-square-centimeterdisplayNameքառակուսի սանտիմետրեր
+unitslongunitarea-square-centimeterperUnitPattern{0} քառակուսի սանտիմետրի վրա
+unitslongunitlength-astronomical-unitpatternone{0} աստղագիտական միավոր
+unitslongunitlength-astronomical-unitpatternother{0} աստղագիտական միավոր
+unitslongunitlength-astronomical-unitdisplayNameաստղագիտական միավորներ
+unitslongunitvolume-milliliterpatternone{0} միլիլիտր
+unitslongunitvolume-milliliterpatternother{0} միլիլիտր
+unitslongunitvolume-milliliterdisplayNameմիլիլիտրեր
+unitslongunitenergy-foodcaloriedisplayNameկալորիաներ
+unitslongunitenergy-foodcaloriepatternother{0} կալորիա
+unitslongunitenergy-foodcaloriepatternone{0} կալորիա
+unitslongunitpressure-hectopascalpatternother{0} հեկտոպասկալ
+unitslongunitpressure-hectopascalpatternone{0} հեկտոպասկալ
+unitslongunitpressure-hectopascaldisplayNameհեկտոպասկալ
+unitslongunitvolume-megaliterpatternone{0} մեգալիտր
+unitslongunitvolume-megaliterpatternother{0} մեգալիտր
+unitslongunitvolume-megaliterdisplayNameմեգալիտրեր
+unitslongunitelectric-ohmdisplayNameօհմեր
+unitslongunitelectric-ohmpatternother{0} օհմ
+unitslongunitelectric-ohmpatternone{0} օհմ
+unitslongunitconsumption-liter-per-100kilometerspatternone{0} լիտր 100 կիլոմետրի վրա
+unitslongunitconsumption-liter-per-100kilometerspatternother{0} լիտր 100 կիլոմետրի վրա
+unitslongunitconsumption-liter-per-100kilometersdisplayNameլիտրեր 100 կիլոմետրի վրա
+unitslongunitacceleration-g-forcepatternother{0} g
+unitslongunitacceleration-g-forcepatternone{0} g
+unitslongunitacceleration-g-forcedisplayNameազատ անկման արագացում
+unitslongunitarea-square-kilometerperUnitPattern{0} քառակուսի կիլոմետրի վրա
+unitslongunitarea-square-kilometerdisplayNameքառակուսի կիլոմետրեր
+unitslongunitarea-square-kilometerpatternother{0} քառակուսի կիլոմետր
+unitslongunitarea-square-kilometerpatternone{0} քառակուսի կիլոմետր
+unitslongunitenergy-kilocaloriedisplayNameկիլոկալորիաներ
+unitslongunitenergy-kilocaloriepatternone{0} կիլոկալորիա
+unitslongunitenergy-kilocaloriepatternother{0} կիլոկալորիա
+unitslongunitvolume-quartdisplayNameքվարտեր
+unitslongunitvolume-quartpatternone{0} քվարտ
+unitslongunitvolume-quartpatternother{0} քվարտ
+unitslongunitvolume-cubic-footpatternone{0} խորանարդ ֆուտ
+unitslongunitvolume-cubic-footpatternother{0} խորանարդ ֆուտ
+unitslongunitvolume-cubic-footdisplayNameխորանարդ ֆուտ
+unitslongunitvolume-cubic-centimeterdisplayNameխորանարդ սանտիմետրեր
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} խորանարդ սանտիմետրի վրա
+unitslongunitvolume-cubic-centimeterpatternother{0} խորանարդ սանտիմետր
+unitslongunitvolume-cubic-centimeterpatternone{0} խորանարդ սանտիմետր
+unitslongunitconsumption-mile-per-gallondisplayNameմղոններ գալոնի վրա
+unitslongunitconsumption-mile-per-gallonpatternone{0} մղոն գալոնի վրա
+unitslongunitconsumption-mile-per-gallonpatternother{0} մղոն գալոնի վրա
+unitslongunitlength-nanometerdisplayNameնանոմետրեր
+unitslongunitlength-nanometerpatternone{0} նանոմետր
+unitslongunitlength-nanometerpatternother{0} նանոմետր
+unitslongunitmass-tonpatternone{0} ամերիկյան տոննա
+unitslongunitmass-tonpatternother{0} ամերիկյան տոննա
+unitslongunitmass-tondisplayNameամերիկյան տոննաներ
+unitslongunitvolume-pintpatternother{0} պինտ
+unitslongunitvolume-pintpatternone{0} պինտ
+unitslongunitvolume-pintdisplayNameպինտեր
+unitslongunitvolume-pint-metricdisplayNameմետրիկ պինտեր
+unitslongunitvolume-pint-metricpatternother{0} մետրիկ պինտ
+unitslongunitvolume-pint-metricpatternone{0} մետրիկ պինտ
+unitslongunitduration-microsecondpatternother{0} միկրովայրկյան
+unitslongunitduration-microsecondpatternone{0} միկրովայրկյան
+unitslongunitduration-microseconddisplayNameմիկրովայրկյաններ
+unitslongunitarea-square-inchdisplayNameքառակուսի դյույմեր
+unitslongunitarea-square-inchperUnitPattern{0} քառակուսի դյույմի վրա
+unitslongunitarea-square-inchpatternother{0} քառակուսի դյույմ
+unitslongunitarea-square-inchpatternone{0} քառակուսի դյույմ
+unitslongunitenergy-kilowatt-hourdisplayNameկիլովատտեր-ժամեր
+unitslongunitenergy-kilowatt-hourpatternone{0} կիլովատտ-ժամ
+unitslongunitenergy-kilowatt-hourpatternother{0} կիլովատտ-ժամ
+unitslongunitlength-inchpatternother{0} դյույմ
+unitslongunitlength-inchpatternone{0} դյույմ
+unitslongunitlength-inchdisplayNameդյույմեր
+unitslongunitlength-inchperUnitPattern{0} դյույմի վրա
+unitslongunitpressure-atmospheredisplayNameմթնոլորտներ
+unitslongunitpressure-atmospherepatternone{0} մթնոլորտ
+unitslongunitpressure-atmospherepatternother{0} մթնոլորտ
+unitslongunitfrequency-hertzdisplayNameհերցեր
+unitslongunitfrequency-hertzpatternother{0} հերց
+unitslongunitfrequency-hertzpatternone{0} հերց
+unitslongunitvolume-cubic-kilometerpatternone{0} խորանարդ կիլոմետր
+unitslongunitvolume-cubic-kilometerpatternother{0} խորանարդ կիլոմետր
+unitslongunitvolume-cubic-kilometerdisplayNameխորանարդ կիլոմետրեր
+unitslongunitelectric-amperedisplayNameամպերներ
+unitslongunitelectric-amperepatternone{0} ամպեր
+unitslongunitelectric-amperepatternother{0} ամպեր
+unitslongunitdigital-bytepatternother{0} բայթ
+unitslongunitdigital-bytepatternone{0} բայթ
+unitslongunitdigital-bytedisplayNameբայթեր
+unitslongunitfrequency-kilohertzpatternone{0} կիլոհերց
+unitslongunitfrequency-kilohertzpatternother{0} կիլոհերց
+unitslongunitfrequency-kilohertzdisplayNameկիլոհերցեր
+unitslongunitlength-micrometerdisplayNameմիկրոմետրեր
+unitslongunitlength-micrometerpatternone{0} միկրոմետր
+unitslongunitlength-micrometerpatternother{0} միկրոմետր
+unitslongunitmass-ounce-troypatternother{0} տրոյական ունցիա
+unitslongunitmass-ounce-troypatternone{0} տրոյական ունցիա
+unitslongunitmass-ounce-troydisplayNameտրոյական ունցիաներ
+unitslongunitmass-microgrampatternone{0} միկրոգրամ
+unitslongunitmass-microgrampatternother{0} միկրոգրամ
+unitslongunitmass-microgramdisplayNameմիկրոգրամներ
+unitslongunitpressure-millimeter-of-mercurydisplayNameսնդիկի սյան միլիմետրեր
+unitslongunitpressure-millimeter-of-mercurypatternother{0} միլիմետր սնդիկի սյուն
+unitslongunitpressure-millimeter-of-mercurypatternone{0} միլիմետր սնդիկի սյուն
+unitslongunitdigital-kilobitpatternother{0} կիլոբիթ
+unitslongunitdigital-kilobitpatternone{0} կիլոբիթ
+unitslongunitdigital-kilobitdisplayNameկիլոբիթեր
+unitslongunitspeed-meter-per-secondpatternother{0} մետր վայրկյանում
+unitslongunitspeed-meter-per-secondpatternone{0} մետր վայրկյանում
+unitslongunitspeed-meter-per-seconddisplayNameմետրեր վայրկյանում
+unitslongunitduration-minutepatternother{0} րոպե
+unitslongunitduration-minutepatternone{0} րոպե
+unitslongunitduration-minuteperUnitPattern{0} րոպեում
+unitslongunitduration-minutedisplayNameրոպեներ
+unitslongunitlength-meterdisplayNameմետրեր
+unitslongunitlength-meterperUnitPattern{0} մետրի վրա
+unitslongunitlength-meterpatternone{0} մետր
+unitslongunitlength-meterpatternother{0} մետր
+unitslongunitpressure-millibarpatternother{0} միլիբար
+unitslongunitpressure-millibarpatternone{0} միլիբար
+unitslongunitpressure-millibardisplayNameմիլիբարեր
+unitslongunitvolume-teaspoondisplayNameթեյի գդալ
+unitslongunitvolume-teaspoonpatternother{0} թեյի գդալ
+unitslongunitvolume-teaspoonpatternone{0} թեյի գդալ
+unitslongunitduration-daypatternother{0} օր
+unitslongunitduration-daypatternone{0} օր
+unitslongunitduration-dayperUnitPatternօրական {0}
+unitslongunitduration-daydisplayNameօրեր
+unitslongunitmass-kilogramperUnitPattern{0} կիլոգրամի վրա
+unitslongunitmass-kilogramdisplayNameկիլոգրամներ
+unitslongunitmass-kilogrampatternone{0} կիլոգրամ
+unitslongunitmass-kilogrampatternother{0} կիլոգրամ
+unitslongunitpressure-inch-hgpatternone{0} դյույմ սնդիկի սյուն
+unitslongunitpressure-inch-hgpatternother{0} դյույմ սնդիկի սյուն
+unitslongunitpressure-inch-hgdisplayNameսնդիկի սյան դյույմեր
+unitslongunitlength-yardpatternother{0} յարդ
+unitslongunitlength-yardpatternone{0} յարդ
+unitslongunitlength-yarddisplayNameյարդեր
+unitslongunitduration-millisecondpatternone{0} միլիվայրկյան
+unitslongunitduration-millisecondpatternother{0} միլիվայրկյան
+unitslongunitduration-milliseconddisplayNameմիլիվայրկյաններ
+unitslongunitdigital-terabitdisplayNameտերաբիթեր
+unitslongunitdigital-terabitpatternone{0} տերաբիթ
+unitslongunitdigital-terabitpatternother{0} տերաբիթ
+unitslongunitvolume-centiliterpatternother{0} սանտիլիտր
+unitslongunitvolume-centiliterpatternone{0} սանտիլիտր
+unitslongunitvolume-centiliterdisplayNameսանտիլիտրեր
+unitslongunitvolume-cubic-yarddisplayNameխորանարդ յարդ
+unitslongunitvolume-cubic-yardpatternother{0} խորանարդ յարդ
+unitslongunitvolume-cubic-yardpatternone{0} խորանարդ յարդ
+unitslongunitvolume-cupdisplayNameբաժակներ
+unitslongunitvolume-cuppatternone{0} բաժակ
+unitslongunitvolume-cuppatternother{0} բաժակ
+unitslongunitelectric-milliamperedisplayNameմիլիամպերներ
+unitslongunitelectric-milliamperepatternother{0} միլիամպեր
+unitslongunitelectric-milliamperepatternone{0} միլիամպեր
+unitslongunitspeed-kilometer-per-hourdisplayNameկիլոմետրեր ժամում
+unitslongunitspeed-kilometer-per-hourpatternother{0} կիլոմետր ժամում
+unitslongunitspeed-kilometer-per-hourpatternone{0} կիլոմետր ժամում
+unitslongunitduration-monthpatternone{0} ամիս
+unitslongunitduration-monthpatternother{0} ամիս
+unitslongunitduration-monthperUnitPatternամսական {0}
+unitslongunitduration-monthdisplayNameամիսներ
+unitslongunitdigital-bitpatternone{0} բիթ
+unitslongunitdigital-bitpatternother{0} բիթ
+unitslongunitdigital-bitdisplayNameբիթեր
+unitslongunitlength-millimeterdisplayNameմիլիմետրեր
+unitslongunitlength-millimeterpatternone{0} միլիմետր
+unitslongunitlength-millimeterpatternother{0} միլիմետր
+unitslongunitlength-miledisplayNameմղոններ
+unitslongunitlength-milepatternone{0} մղոն
+unitslongunitlength-milepatternother{0} մղոն
+unitslongunitlength-pointdisplayNameկետեր
+unitslongunitlength-pointpatternone{0} կետ
+unitslongunitlength-pointpatternother{0} կետ
+unitslongunitlength-mile-scandinavianpatternother{0} սկանդինավյան մղոն
+unitslongunitlength-mile-scandinavianpatternone{0} սկանդինավյան մղոն
+unitslongunitlength-mile-scandinaviandisplayNameսկանդինավյան մղոններ
+unitslongunitpower-wattdisplayNameվատտեր
+unitslongunitpower-wattpatternother{0} վատտ
+unitslongunitpower-wattpatternone{0} վատտ
+unitslongunitlength-nautical-milepatternone{0} ծովային մղոն
+unitslongunitlength-nautical-milepatternother{0} ծովային մղոն
+unitslongunitlength-nautical-miledisplayNameծովային մղոններ
+unitslongunitspeed-knotdisplayNameհանգույցներ
+unitslongunitspeed-knotpatternone{0} հանգույց
+unitslongunitspeed-knotpatternother{0} հանգույց
+unitslongunitdigital-megabitdisplayNameմեգաբիթեր
+unitslongunitdigital-megabitpatternone{0} մեգաբիթ
+unitslongunitdigital-megabitpatternother{0} մեգաբիթ
+unitslongunitduration-yearperUnitPatternտարեկան {0}
+unitslongunitduration-yeardisplayNameտարիներ
+unitslongunitduration-yearpatternone{0} տարի
+unitslongunitduration-yearpatternother{0} տարի
+unitslongunitarea-square-meterpatternother{0} քառակուսի մետր
+unitslongunitarea-square-meterpatternone{0} քառակուսի մետր
+unitslongunitarea-square-meterdisplayNameքառակուսի մետրեր
+unitslongunitarea-square-meterperUnitPattern{0} քառակուսի մետրի վրա
+unitslongunitconcentr-milligram-per-deciliterdisplayNameմիլիգրամներ դեցիլիտրի վրա
+unitslongunitconcentr-milligram-per-deciliterpatternother{0} միլիգրամ դեցիլիտրի վրա
+unitslongunitconcentr-milligram-per-deciliterpatternone{0} միլիգրամ դեցիլիտրի վրա
+unitslongunitlength-footpatternone{0} ֆուտ
+unitslongunitlength-footpatternother{0} ֆուտ
+unitslongunitlength-footperUnitPattern{0} ֆուտի վրա
+unitslongunitlength-footdisplayNameֆուտեր
+unitslongunitmass-milligrampatternother{0} միլիգրամ
+unitslongunitmass-milligrampatternone{0} միլիգրամ
+unitslongunitmass-milligramdisplayNameմիլիգրամներ
+unitslongunitpower-gigawattpatternother{0} գիգավատտեր
+unitslongunitpower-gigawattpatternone{0} գիգավատտեր
+unitslongunitpower-gigawattdisplayNameգիգավատտեր
+unitslongunitconcentr-millimole-per-literdisplayNameմիլիմոլներ լիտրի վրա
+unitslongunitconcentr-millimole-per-literpatternother{0} միլիմոլ լիտրի վրա
+unitslongunitconcentr-millimole-per-literpatternone{0} միլիմոլ լիտրի վրա
+unitslongunitarea-square-miledisplayNameքառակուսի մղոններ
+unitslongunitarea-square-mileperUnitPattern{0} քառակուսի մղոնի վրա
+unitslongunitarea-square-milepatternother{0} քառակուսի մղոն
+unitslongunitarea-square-milepatternone{0} քառակուսի մղոն
+unitslongunitenergy-caloriedisplayNameկալորիաներ
+unitslongunitenergy-caloriepatternother{0} կալորիա
+unitslongunitenergy-caloriepatternone{0} կալորիա
+unitslongunitangle-radiandisplayNameռադիաններ
+unitslongunitangle-radianpatternother{0} ռադիան
+unitslongunitangle-radianpatternone{0} ռադիան
+unitslongunitpower-horsepowerpatternother{0} ձիաուժ
+unitslongunitpower-horsepowerpatternone{0} ձիաուժ
+unitslongunitpower-horsepowerdisplayNameձիաուժեր
+unitslongunitvolume-hectoliterdisplayNameհեկտոլիտրեր
+unitslongunitvolume-hectoliterpatternother{0} հեկտոլիտր
+unitslongunitvolume-hectoliterpatternone{0} հեկտոլիտր
+unitslongunitlength-kilometerpatternone{0} կիլոմետր
+unitslongunitlength-kilometerpatternother{0} կիլոմետր
+unitslongunitlength-kilometerdisplayNameկիլոմետրեր
+unitslongunitlength-kilometerperUnitPattern{0} կիլոմետրի վրա
+unitslongunitlength-decimeterpatternother{0} դեցիմետր
+unitslongunitlength-decimeterpatternone{0} դեցիմետր
+unitslongunitlength-decimeterdisplayNameդեցիմետրեր
+unitslongunitlength-light-yearpatternother{0} լուսատարի
+unitslongunitlength-light-yearpatternone{0} լուսատարի
+unitslongunitlength-light-yeardisplayNameլուսատարիներ
+unitslongunittemperature-celsiusdisplayNameաստիճաններ ըստ Ցելսիուսի
+unitslongunittemperature-celsiuspatternone{0} աստիճան ըստ Ցելսիուսի
+unitslongunittemperature-celsiuspatternother{0} աստիճան ըստ Ցելսիուսի
+unitslongunitdigital-terabytedisplayNameտերաբայթեր
+unitslongunitdigital-terabytepatternone{0} տերաբայթ
+unitslongunitdigital-terabytepatternother{0} տերաբայթ
+unitslongunitdigital-gigabytedisplayNameգիգաբայթեր
+unitslongunitdigital-gigabytepatternother{0} գիգաբայթ
+unitslongunitdigital-gigabytepatternone{0} գիգաբայթ
+unitslongunitangle-revolutiondisplayNameպտույտներ
+unitslongunitangle-revolutionpatternone{0} պտույտ
+unitslongunitangle-revolutionpatternother{0} պտույտ
+unitslongunitmass-metric-tondisplayNameտոննաներ
+unitslongunitmass-metric-tonpatternone{0} տոննա
+unitslongunitmass-metric-tonpatternother{0} տոննա
+unitslongunitdigital-megabytepatternother{0} մեգաբայթ
+unitslongunitdigital-megabytepatternone{0} մեգաբայթ
+unitslongunitdigital-megabytedisplayNameմեգաբայթեր
+unitslongunitduration-weekperUnitPatternշաբաթական {0}
+unitslongunitduration-weekdisplayNameշաբաթներ
+unitslongunitduration-weekpatternother{0} շաբաթ
+unitslongunitduration-weekpatternone{0} շաբաթ
+unitslongunitconsumption-mile-per-gallon-imperialpatternone{0} մղոն անգլիական գալոնի վրա
+unitslongunitconsumption-mile-per-gallon-imperialpatternother{0} մղոն անգլիական գալոնի վրա
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNameմղոններ անգլիական գալոնի վրա
+unitslongunitenergy-kilojoulepatternother{0} կիլոջոուլ
+unitslongunitenergy-kilojoulepatternone{0} կիլոջոուլ
+unitslongunitenergy-kilojouledisplayNameկիլոջոուլներ
+unitslongunitmass-ounceperUnitPattern{0} ունցիայի վրա
+unitslongunitmass-ouncedisplayNameունցիաներ
+unitslongunitmass-ouncepatternone{0} ունցիա
+unitslongunitmass-ouncepatternother{0} ունցիա
+unitslongunitlength-centimeterpatternother{0} սանտիմետր
+unitslongunitlength-centimeterpatternone{0} սանտիմետր
+unitslongunitlength-centimeterdisplayNameսանտիմետրեր
+unitslongunitlength-centimeterperUnitPattern{0} սանտիմետրի վրա
+unitslongunitvolume-fluid-ouncedisplayNameհեղուկ ունցիաներ
+unitslongunitvolume-fluid-ouncepatternone{0} հեղուկ ունցիա
+unitslongunitvolume-fluid-ouncepatternother{0} հեղուկ ունցիա
+unitslongunitlength-parsecdisplayNameպարսեկներ
+unitslongunitlength-parsecpatternone{0} պարսեկ
+unitslongunitlength-parsecpatternother{0} պարսեկ
+unitslongunitmass-gramperUnitPattern{0} գրամի վրա
+unitslongunitmass-gramdisplayNameգրամներ
+unitslongunitmass-grampatternone{0} գրամ
+unitslongunitmass-grampatternother{0} գրամ
+unitslongunittemperature-genericdisplayName°
+unitslongunittemperature-genericpatternone{0}°
+unitslongunittemperature-genericpatternother{0}°
+unitslongunitvolume-cubic-inchpatternone{0} խորանարդ դյույմ
+unitslongunitvolume-cubic-inchpatternother{0} խորանարդ դյույմ
+unitslongunitvolume-cubic-inchdisplayNameխորանարդ դյույմ
+unitslongunitdigital-gigabitpatternone{0} գիգաբիթ
+unitslongunitdigital-gigabitpatternother{0} գիգաբիթ
+unitslongunitdigital-gigabitdisplayNameգիգաբիթեր
+unitslongunitconcentr-karatdisplayNameկարատ
+unitslongunitconcentr-karatpatternone{0} կարատ
+unitslongunitconcentr-karatpatternother{0} կարատ
+unitslongunitfrequency-gigahertzdisplayNameգիգահերցեր
+unitslongunitfrequency-gigahertzpatternother{0} գիգահերց
+unitslongunitfrequency-gigahertzpatternone{0} գիգահերց
+unitslongunitvolume-tablespoonpatternother{0} ճաշի գդալ
+unitslongunitvolume-tablespoonpatternone{0} ճաշի գդալ
+unitslongunitvolume-tablespoondisplayNameճաշի գդալ
+unitslongunitpressure-pound-per-square-inchpatternone{0} ֆունտ քառակուսի դյույմի վրա
+unitslongunitpressure-pound-per-square-inchpatternother{0} ֆունտ քառակուսի դյույմի վրա
+unitslongunitpressure-pound-per-square-inchdisplayNameֆունտեր քառակուսի դյույմի վրա
+unitslongunitarea-square-yarddisplayNameքառակուսի յարդեր
+unitslongunitarea-square-yardpatternother{0} քառակուսի յարդ
+unitslongunitarea-square-yardpatternone{0} քառակուսի յարդ
+unitslongunitvolume-gallonpatternone{0} գալոն
+unitslongunitvolume-gallonpatternother{0} գալոն
+unitslongunitvolume-gallonperUnitPattern{0} գալոնի վրա
+unitslongunitvolume-gallondisplayNameգալոններ
+unitslongunitconcentr-part-per-milliondisplayNameմասնիկներ միլիոնի վրա
+unitslongunitconcentr-part-per-millionpatternone{0} մասնիկ միլիոնի վրա
+unitslongunitconcentr-part-per-millionpatternother{0} մասնիկ միլիոնի վրա
+unitslongunitmass-poundperUnitPattern{0} ֆունտի վրա
+unitslongunitmass-pounddisplayNameֆունտեր
+unitslongunitmass-poundpatternone{0} ֆունտ
+unitslongunitmass-poundpatternother{0} ֆունտ
+unitslongunitpower-kilowattpatternother{0} կիլովատտ
+unitslongunitpower-kilowattpatternone{0} կիլովատտ
+unitslongunitpower-kilowattdisplayNameկիլովատտեր
+unitslongunitvolume-gallon-imperialpatternone{0} անգլիական գալոն
+unitslongunitvolume-gallon-imperialpatternother{0} անգլիական գալոն
+unitslongunitvolume-gallon-imperialperUnitPattern{0} անգլիական գալոնի վրա
+unitslongunitvolume-gallon-imperialdisplayNameանգլիական գալոններ
+unitslongunitvolume-acre-footdisplayNameակրոֆուտեր
+unitslongunitvolume-acre-footpatternother{0} ակրոֆուտ
+unitslongunitvolume-acre-footpatternone{0} ակրոֆուտ
+unitslongunitangle-arc-secondpatternother{0} վայրկյան
+unitslongunitangle-arc-secondpatternone{0} վայրկյան
+unitslongunitangle-arc-seconddisplayNameվայրկյաններ
+unitslongunitvolume-cubic-meterdisplayNameխորանարդ մետրեր
+unitslongunitvolume-cubic-meterperUnitPattern{0} խորանարդ մետրի վրա
+unitslongunitvolume-cubic-meterpatternother{0} խորանարդ մետր
+unitslongunitvolume-cubic-meterpatternone{0} խորանարդ մետր
+unitslongunitvolume-literpatternother{0} լիտր
+unitslongunitvolume-literpatternone{0} լիտր
+unitslongunitvolume-literperUnitPattern{0} լիտրի վրա
+unitslongunitvolume-literdisplayNameլիտրեր
+unitslongunitpower-megawattpatternother{0} մեգավատտ
+unitslongunitpower-megawattpatternone{0} մեգավատտ
+unitslongunitpower-megawattdisplayNameմեգավատտեր
+unitslongunitduration-nanosecondpatternother{0} նանովայրկյան
+unitslongunitduration-nanosecondpatternone{0} նանովայրկյան
+unitslongunitduration-nanoseconddisplayNameնանովայրկյաններ
+unitslongunitangle-arc-minutedisplayNameրոպեներ
+unitslongunitangle-arc-minutepatternother{0} րոպե
+unitslongunitangle-arc-minutepatternone{0} րոպե
+unitslongunitfrequency-megahertzpatternother{0} մեգահերց
+unitslongunitfrequency-megahertzpatternone{0} մեգահերց
+unitslongunitfrequency-megahertzdisplayNameմեգահերցեր
+unitslongunitduration-hourdisplayNameժամեր
+unitslongunitduration-hourperUnitPattern{0} ժամում
+unitslongunitduration-hourpatternother{0} ժամ
+unitslongunitduration-hourpatternone{0} ժամ
+unitslongcoordinateUnitnorthհյուսիսային լայնության {0}
+unitslongcoordinateUnitdisplayNameուղղություն
+unitslongcoordinateUnitsouthհարավային լայնության {0}
+unitslongcoordinateUniteastարևելյան երկարության {0}
+unitslongcoordinateUnitwestարևմտյան երկարության {0}
+unitslongcompoundUnitperpattern{0}/{1}
+typographicNamesaxisNameslntթեքություն
+typographicNamesaxisNameopszօպտիկական չափ
+typographicNamesaxisNamewghtհագեցվածություն
+typographicNamesaxisNameitalշեղագիր
+typographicNamesaxisNamewdthլայնություն
+typographicNamesfeatureNamesmcpփոքր գլխատառեր
+typographicNamesfeatureNamedligոչ պարտադիր կցագրեր
+typographicNamesfeatureNamelnumթվանշանների հավասարեցում
+typographicNamesfeatureNamecpspգլխատառերի միջև բացատներ
+typographicNamesfeatureNamefracշեղ կոտորակներ
+typographicNamesfeatureNamezeroզրո
+typographicNamesfeatureNameordnդասական թվականներ
+typographicNamesfeatureNameafrcուղղաձիգ կոտորակներ
+typographicNamesfeatureNameonumհնաոճ տարրեր
+typographicNamesfeatureNametnumաղյուսակային թվանշաններ
+typographicNamesfeatureNamepnumհամաչափ թվանշաններ
+typographicNamesstyleNamewdth150wideգերլայն
+typographicNamesstyleNamewdth150extendedգերձգված
+typographicNamesstyleNamewdth150standardգերլայնացված
+typographicNamesstyleNamewdth200extendedուլտրաձգված
+typographicNamesstyleNamewdth200standardուլտրալայնացված
+typographicNamesstyleNamewdth200wideուլտրալայն
+typographicNamesstyleNamewdth87.5compressedկիսանեղացված
+typographicNamesstyleNamewdth87.5standardկիսասեղմված
+typographicNamesstyleNamewdth87.5narrowկիսանեղ
+typographicNamesstyleNamewdth112.5wideկիսալայն
+typographicNamesstyleNamewdth112.5extendedկիսաձգված
+typographicNamesstyleNamewdth112.5standardկիսալայնացված
+typographicNamesstyleNamewdth75standardսեղմված
+typographicNamesstyleNamewdth75compressedնեղացված
+typographicNamesstyleNamewdth75narrowնեղացված
+typographicNamesstyleNamewdth125standardլայնացված
+typographicNamesstyleNamewdth125extendedձգված
+typographicNamesstyleNamewdth125wideլայն
+typographicNamesstyleNamewdth62.5compressedգերնեղացված
+typographicNamesstyleNamewdth62.5standardգերսեղմված
+typographicNamesstyleNamewdth62.5narrowուլտրանեղ
+typographicNamesstyleNamewdth100standardնորմալ
+typographicNamesstyleNamewdth50narrowուլտրանեղ
+typographicNamesstyleNamewdth50standardուլտրասեղմված
+typographicNamesstyleNamewdth50compressedուլտրանեղացված
+typographicNamesstyleNameital1standardձեռագիր
+typographicNamesstyleNamewght100standardբարակ
+typographicNamesstyleNamewght950standardգերսև
+typographicNamesstyleNamewght950ultraheavyուլտրածանր
+typographicNamesstyleNamewght950ultrablackուլտրասև
+typographicNamesstyleNamewght900standardսև
+typographicNamesstyleNamewght900heavyծանր
+typographicNamesstyleNamewght400standardսովորական
+typographicNamesstyleNamewght500standardմիջին
+typographicNamesstyleNamewght700standardթավ
+typographicNamesstyleNamewght200standardգերթեթև
+typographicNamesstyleNamewght200ultraուլտրաթեթև
+typographicNamesstyleNamewght300standardթեթև
+typographicNamesstyleNamewght600demiմիջին թավության
+typographicNamesstyleNamewght600standardկիսաթավ
+typographicNamesstyleNamewght800standardգերթավ
+typographicNamesstyleNamewght350standardկիսաթեթև
+typographicNamesstyleNamewght380standardգրքային
+typographicNamesstyleNameopsz18standardտիտղոսային
+typographicNamesstyleNameopsz144standardպաստառ
+typographicNamesstyleNameopsz8standardենթագիր
+typographicNamesstyleNameopsz72standardմոնիտոր
+typographicNamesstyleNameopsz12standardտեքստ
+typographicNamesstyleNameslnt24standardգերթեք
+typographicNamesstyleNameslnt-12standardթեք շեղագիր
+typographicNamesstyleNameslnt0standardուղիղ
+typographicNamesstyleNameslnt12standardթեք
+characterLabelslabelsplantբույս
+characterLabelslabelstravelճամփորդություն
+characterLabelslabelsdivination_symbolsԳուշակության նշաններ
+characterLabelslabelsleftwards_arrowsՁախ ուղղված սլաքներ
+characterLabelslabelskeycapստեղն
+characterLabelslabelslimited_useՍահմանափակ գործածում
+characterLabelslabelsamerican_scriptsԱմերիկյան գրեր
+characterLabelslabelssmall_form_variantՁևի փոքր տարբերակներ
+characterLabelslabelsplaceվայր
+characterLabelslabelsflagդրոշ
+characterLabelslabelsfood_drinkՈւտելիք և ըմպելիք
+characterLabelslabelsformat_whitespaceՁևաչափում և բացատներ
+characterLabelslabelsvocalic_jamoՋամո ձայնավորներ
+characterLabelslabelsweatherեղանակ
+characterLabelslabelsvariant_formsՁևի տարբերակներ
+characterLabelslabelsdash_connectorՄիության/անջատման գծիկ
+characterLabelslabelsrightwards_arrowsԱջ ուղղված սլաքներ
+characterLabelslabelsmaleտղամարդ
+characterLabelslabelshanzi_traditionalՉինարենի ավանդական հիերոգլիֆներ
+characterLabelslabelswestern_asian_scriptsԱրևմտաասիական գրեր
+characterLabelslabelssportսպորտ
+characterLabelslabelsanimals_natureԿենդանիներ և բնություն
+characterLabelslabelspersonանձ
+characterLabelslabelsemojiԷմոձի
+characterLabelslabelsfull_width_form_variantՁևի ամբողջ լայնքով տարբերակներ
+characterLabelslabelsmodern_scriptsժամանակակից գրեր
+characterLabelslabelspunctuationԿետադրական նշաններ
+characterLabelslabelsdigitsԹվանշաններ
+characterLabelslabelsdownwards_upwards_arrowsՎար և վեր ուղղված սլաքներ
+characterLabelslabelsletterlike_symbolsՏառային նշաններ
+characterLabelslabelswhitespaceԲացատներ
+characterLabelslabelssmileys_peopleԶմայլիկներ և մարդիկ
+characterLabelslabelsbox_drawingԿեղծ գրաֆիկա
+characterLabelslabelsdingbatsՆշագիր
+characterLabelslabelsafrican_scriptsԱֆրիկյան գրեր
+characterLabelslabelsformatՁևաչափում
+characterLabelslabelshanzi_simplifiedՉինարենի պարզեցված հիերոգլիֆներ
+characterLabelslabelshan_charactersՉինական նշաններ
+characterLabelslabelsobjectsԱռարկաներ
+characterLabelslabelsotherԱյլ
+characterLabelslabelsbrailleԲրեյլի գիր
+characterLabelslabelscurrency_symbolsԱրժույթների նշաններ
+characterLabelslabelsflagsԴրոշակներ
+characterLabelslabelsideographic_desc_charactersՀիերոգլիֆների նկարագրման նշաններ
+characterLabelslabelsjapanese_kanaԿանա
+characterLabelslabelskanbunԿամբուն
+characterLabelslabelsleftwards_rightwards_arrowsՁախ և աջ ուղղված սլաքներ
+characterLabelslabelsnonspacingԱռանց բացատի
+characterLabelslabelstechnical_symbolsՏեխնիկական նշաններ
+characterLabelslabelseuropean_scriptsԵվրոպական գրեր
+characterLabelslabelsspacingԲացատներ
+characterLabelslabelsnatureբնություն
+characterLabelslabelsdownwards_arrowsՎար ուղղված սլաքներ
+characterLabelslabelshanjaՀանջա
+characterLabelslabelshan_radicalsՀիերոգլիֆային բանալիներ
+characterLabelslabelsmiddle_eastern_scriptsՄիջինարևելյան գրեր
+characterLabelslabelstone_marksՏոնի նշաններ
+characterLabelslabelssoutheast_asian_scriptsՀարավարևելյան Ասիայի գրեր
+characterLabelslabelsactivitiesԶբաղմունքներ
+characterLabelslabelsarrowsՍլաքներ
+characterLabelslabelsbuildingշենք
+characterLabelslabelsphonetic_alphabetՀնչյունային այբուբեն
+characterLabelslabelskanjiԿանձի
+characterLabelslabelsbullets_starsՊարբերակներ/աստղանիշեր
+characterLabelslabelssouth_asian_scriptsՀարավասիական գրեր
+characterLabelslabelshistoric_scriptsՊատմական գրեր
+characterLabelslabelsmath_symbolsՄաթեմատիկական նշաններ
+characterLabelslabelssmileyզմայլիկ
+characterLabelslabelssign_standard_symbolsՍտանդարտ նշաններ
+characterLabelslabelseast_asian_scriptsԱրևելաասիական գրեր
+characterLabelslabelshalf_width_form_variantՁևի կես լայնքով տարբերակներ
+characterLabelslabelsheartսիրտ
+characterLabelslabelsmusical_symbolsԵրաժշտական գրեր
+characterLabelslabelsnumbersԹվեր
+characterLabelslabelsfemaleկին
+characterLabelslabelsgeometric_shapesԵրկրաչափական պատկերներ
+characterLabelslabelsbodyմարմին
+characterLabelslabelsupwards_arrowsՎեր ուղղված սլաքներ
+characterLabelslabelstravel_placesՃամփորդություն և վայրեր
+characterLabelslabelssymbolsՆշաններ
+characterLabelslabelspictographsՊատկերագրեր
+characterLabelslabelsconsonantal_jamoՋամո բաղաձայններ
+characterLabelslabelsmodifierՓոխակերպիչ
+characterLabelslabelspairedԶույգ նշաններ
+characterLabelslabelsanimalկենդանի
+characterLabelslabelsmiscellaneousԽառը
+characterLabelspatternsother{0} — այլ
+characterLabelspatternsextended{0} — ընդլայնված
+characterLabelspatternsall{0} — բոլորը
+characterLabelspatternshistoric{0} — պատմական
+characterLabelspatternscompatibility{0} — համատեղելի
+characterLabelspatternscategory-list{0}՝ {1}
+characterLabelspatternsscriptsԳրեր — {0}
+characterLabelspatternsmiscellaneous{0} — խառը
+characterLabelspatternsstrokes{0} — Գծեր
+characterLabelspatternsenclosed{0} — ներդրված
+delimitersquotationStart«
+delimitersalternateQuotationEnd»
+delimitersquotationEnd»
+delimitersalternateQuotationStart«
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdecimalFormatslatnshort1000000000000000 տրլն
+numbersdecimalFormatslatnshort100000000000000 մլրդ
+numbersdecimalFormatslatnshort1000000000000 մլրդ
+numbersdecimalFormatslatnshort10000000000000 տրլն
+numbersdecimalFormatslatnshort100000000 հզր
+numbersdecimalFormatslatnshort10000 հզր
+numbersdecimalFormatslatnshort1000000000 մլն
+numbersdecimalFormatslatnshort10000000 մլն
+numbersdecimalFormatslatnshort100000000000000000 տրլն
+numbersdecimalFormatslatnshort1000000 հզր
+numbersdecimalFormatslatnshort10000000000 մլրդ
+numbersdecimalFormatslatnshort100000000000 մլն
+numbersdecimalFormatslatnlong100000000000 միլիոն
+numbersdecimalFormatslatnlong10000000000 միլիարդ
+numbersdecimalFormatslatnlong100000000000000000 տրիլիոն
+numbersdecimalFormatslatnlong1000000 հազար
+numbersdecimalFormatslatnlong10000000 միլիոն
+numbersdecimalFormatslatnlong1000000000 միլիոն
+numbersdecimalFormatslatnlong10000 հազար
+numbersdecimalFormatslatnlong100000000 հազար
+numbersdecimalFormatslatnlong10000000000000 տրիլիոն
+numbersdecimalFormatslatnlong1000000000000 միլիարդ
+numbersdecimalFormatslatnlong100000000000000 միլիարդ
+numbersdecimalFormatslatnlong1000000000000000 տրիլիոն
+numbersdefaultNumberingSystemstandardlatn
+numberscurrenciesILSstandard₪
+numberscurrenciesILSnarrow₪
+numberscurrenciesRSDstandardRSD
+numberscurrenciesBRLnarrowR$
+numberscurrenciesBRLstandardR$
+numberscurrenciesLBPnarrowL£
+numberscurrenciesLBPstandardLBP
+numberscurrenciesHRKstandardHRK
+numberscurrenciesHRKnarrowkn
+numberscurrenciesSTNnarrowDb
+numberscurrenciesSTNstandardSTN
+numberscurrenciesIQDstandardIQD
+numberscurrenciesMXNstandardMX$
+numberscurrenciesMXNnarrow$
+numberscurrenciesLKRstandardLKR
+numberscurrenciesLKRnarrowRs
+numberscurrenciesUZSstandardUZS
+numberscurrenciesTMTstandardTMT
+numberscurrenciesFKPstandardFKP
+numberscurrenciesFKPnarrow£
+numberscurrenciesEURnarrow€
+numberscurrenciesEURstandard€
+numberscurrenciesEGPstandardEGP
+numberscurrenciesEGPnarrowE£
+numberscurrenciesBSDnarrow$
+numberscurrenciesBSDstandardBSD
+numberscurrenciesCDFstandardCDF
+numberscurrenciesARSstandardARS
+numberscurrenciesARSnarrow$
+numberscurrenciesAOAstandardAOA
+numberscurrenciesAOAnarrowKz
+numberscurrenciesMROstandardMRO
+numberscurrenciesNOKnarrowkr
+numberscurrenciesNOKstandardNOK
+numberscurrenciesTRYstandardTRY
+numberscurrenciesTRYvariantTL
+numberscurrenciesTRYnarrow₺
+numberscurrenciesDKKnarrowkr
+numberscurrenciesDKKstandardDKK
+numberscurrenciesQARstandardQAR
+numberscurrenciesMMKstandardMMK
+numberscurrenciesMMKnarrowK
+numberscurrenciesNADnarrow$
+numberscurrenciesNADstandardNAD
+numberscurrenciesTZSstandardTZS
+numberscurrenciesVEFnarrowBs
+numberscurrenciesVEFstandardVEF
+numberscurrenciesBZDstandardBZD
+numberscurrenciesBZDnarrow$
+numberscurrenciesBYNnarrowр.
+numberscurrenciesBYNstandardBYN
+numberscurrenciesGHSstandardGHS
+numberscurrenciesBAMstandardBAM
+numberscurrenciesBAMnarrowKM
+numberscurrenciesGIPstandardGIP
+numberscurrenciesGIPnarrow£
+numberscurrenciesLRDnarrow$
+numberscurrenciesLRDstandardLRD
+numberscurrenciesBMDstandardBMD
+numberscurrenciesBMDnarrow$
+numberscurrenciesTWDnarrowNT$
+numberscurrenciesTWDstandardNT$
+numberscurrenciesHUFnarrowFt
+numberscurrenciesHUFstandardHUF
+numberscurrenciesZMWnarrowZK
+numberscurrenciesZMWstandardZMW
+numberscurrenciesSYPstandardSYP
+numberscurrenciesSYPnarrow£
+numberscurrenciesSLLstandardSLL
+numberscurrenciesLYDstandardLYD
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesNZDnarrow$
+numberscurrenciesVNDstandard₫
+numberscurrenciesVNDnarrow₫
+numberscurrenciesSOSstandardSOS
+numberscurrenciesPKRnarrowRs
+numberscurrenciesPKRstandardPKR
+numberscurrenciesAMDvariantդր.
+numberscurrenciesAMDstandard֏
+numberscurrenciesGYDnarrow$
+numberscurrenciesGYDstandardGYD
+numberscurrenciesMDLstandardMDL
+numberscurrenciesMYRstandardMYR
+numberscurrenciesMYRnarrowRM
+numberscurrenciesSTDstandardSTD
+numberscurrenciesCLPnarrow$
+numberscurrenciesCLPstandardCLP
+numberscurrenciesSSPnarrow£
+numberscurrenciesSSPstandardSSP
+numberscurrenciesHTGstandardHTG
+numberscurrenciesIRRstandardIRR
+numberscurrenciesNGNnarrow₦
+numberscurrenciesNGNstandardNGN
+numberscurrenciesHKDstandardHK$
+numberscurrenciesHKDnarrow$
+numberscurrenciesLVLstandardLVL
+numberscurrenciesMVRstandardMVR
+numberscurrenciesZARstandardZAR
+numberscurrenciesZARnarrowR
+numberscurrenciesUSDnarrow$
+numberscurrenciesUSDstandard$
+numberscurrenciesBIFstandardBIF
+numberscurrenciesDZDstandardDZD
+numberscurrenciesGNFnarrowFG
+numberscurrenciesGNFstandardGNF
+numberscurrenciesPGKstandardPGK
+numberscurrenciesXOFstandardCFA
+numberscurrenciesGBPnarrow£
+numberscurrenciesGBPstandard£
+numberscurrenciesTHBnarrow฿
+numberscurrenciesTHBstandard฿
+numberscurrenciesSEKnarrowkr
+numberscurrenciesSEKstandardSEK
+numberscurrenciesCUPnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesJMDstandardJMD
+numberscurrenciesJMDnarrow$
+numberscurrenciesKMFstandardKMF
+numberscurrenciesKMFnarrowCF
+numberscurrenciesUGXstandardUGX
+numberscurrenciesCZKnarrowKč
+numberscurrenciesCZKstandardCZK
+numberscurrenciesCHFstandardCHF
+numberscurrenciesKRWstandard₩
+numberscurrenciesKRWnarrow₩
+numberscurrenciesMNTstandardMNT
+numberscurrenciesMNTnarrow₮
+numberscurrenciesCADstandardCA$
+numberscurrenciesCADnarrow$
+numberscurrenciesBDTnarrow৳
+numberscurrenciesBDTstandardBDT
+numberscurrenciesBHDstandardBHD
+numberscurrenciesAUDnarrow$
+numberscurrenciesAUDstandardA$
+numberscurrenciesKPWnarrow₩
+numberscurrenciesKPWstandardKPW
+numberscurrenciesSARstandardSAR
+numberscurrenciesSZLstandardSZL
+numberscurrenciesAFNstandardAFN
+numberscurrenciesKWDstandardKWD
+numberscurrenciesMOPstandardMOP
+numberscurrenciesOMRstandardOMR
+numberscurrenciesANGstandardANG
+numberscurrenciesPHPnarrow₱
+numberscurrenciesPHPstandardPHP
+numberscurrenciesKZTstandardKZT
+numberscurrenciesKZTnarrow₸
+numberscurrenciesCRCstandardCRC
+numberscurrenciesCRCnarrow₡
+numberscurrenciesZMKstandardZMK
+numberscurrenciesCVEstandardCVE
+numberscurrenciesALLstandardALL
+numberscurrenciesBGNstandardBGN
+numberscurrenciesUAHnarrow₴
+numberscurrenciesUAHstandardUAH
+numberscurrenciesMKDstandardMKD
+numberscurrenciesVUVstandardVUV
+numberscurrenciesTOPstandardTOP
+numberscurrenciesTOPnarrowT$
+numberscurrenciesRONstandardRON
+numberscurrenciesRONnarrowlei
+numberscurrenciesTTDnarrow$
+numberscurrenciesTTDstandardTTD
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBNDstandardBND
+numberscurrenciesBNDnarrow$
+numberscurrenciesBBDstandardBBD
+numberscurrenciesBBDnarrow$
+numberscurrenciesMWKstandardMWK
+numberscurrenciesUYUnarrow$
+numberscurrenciesUYUstandardUYU
+numberscurrenciesTJSstandardTJS
+numberscurrenciesBOBnarrowBs
+numberscurrenciesBOBstandardBOB
+numberscurrenciesAWGstandardAWG
+numberscurrenciesGMDstandardGMD
+numberscurrenciesRUBstandardRUB
+numberscurrenciesRUBnarrow₽
+numberscurrenciesJODstandardJOD
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesISKstandardISK
+numberscurrenciesISKnarrowkr
+numberscurrenciesGELstandardGEL
+numberscurrenciesGELnarrow₾
+numberscurrenciesYERstandardYER
+numberscurrenciesWSTstandardWST
+numberscurrenciesSDGstandardSDG
+numberscurrenciesPENstandardPEN
+numberscurrenciesMADstandardMAD
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesXCDnarrow$
+numberscurrenciesXCDstandardEC$
+numberscurrenciesSHPstandardSHP
+numberscurrenciesSHPnarrow£
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesCNYnarrow¥
+numberscurrenciesMGAnarrowAr
+numberscurrenciesMGAstandardMGA
+numberscurrenciesNIOstandardNIO
+numberscurrenciesNIOnarrowC$
+numberscurrenciesPABstandardPAB
+numberscurrenciesTNDstandardTND
+numberscurrenciesSBDnarrow$
+numberscurrenciesSBDstandardSBD
+numberscurrenciesETBstandardETB
+numberscurrenciesKESstandardKES
+numberscurrenciesCNHstandardCNH
+numberscurrenciesKYDnarrow$
+numberscurrenciesKYDstandardKYD
+numberscurrenciesKGSstandardKGS
+numberscurrenciesNPRnarrowRs
+numberscurrenciesNPRstandardNPR
+numberscurrenciesERNstandardERN
+numberscurrenciesBYRstandardBYR
+numberscurrenciesAEDstandardAED
+numberscurrenciesGTQnarrowQ
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesINRstandard₹
+numberscurrenciesINRnarrow₹
+numberscurrenciesFJDnarrow$
+numberscurrenciesFJDstandardFJD
+numberscurrenciesRWFstandardRWF
+numberscurrenciesRWFnarrowRF
+numberscurrenciesBWPstandardBWP
+numberscurrenciesBWPnarrowP
+numberscurrenciesIDRnarrowRp
+numberscurrenciesIDRstandardIDR
+numberscurrenciesMZNstandardMZN
+numberscurrenciesAZNstandardAZN
+numberscurrenciesSCRstandardSCR
+numberscurrenciesPLNstandardPLN
+numberscurrenciesPLNnarrowzł
+numberscurrenciesCUCnarrow$
+numberscurrenciesCUCstandardCUC
+numberscurrenciesKHRnarrow៛
+numberscurrenciesKHRstandardKHR
+numberscurrenciesMURnarrowRs
+numberscurrenciesMURstandardMUR
+numberscurrenciesLTLstandardLTL
+numberscurrenciesCOPstandardCOP
+numberscurrenciesCOPnarrow$
+numberscurrenciesSGDnarrow$
+numberscurrenciesSGDstandardSGD
+numberscurrenciesPYGnarrow₲
+numberscurrenciesPYGstandardPYG
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesLAKnarrow₭
+numberscurrenciesLAKstandardLAK
+numberscurrenciesSRDstandardSRD
+numberscurrenciesSRDnarrow$
+numberscurrenciesDOPstandardDOP
+numberscurrenciesDOPnarrow$
+numberscurrenciesHNLnarrowL
+numberscurrenciesHNLstandardHNL
+numberscurrenciesDJFstandardDJF
+numbersmiscPatternslatnrange{0}–{1}
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnatMost≤{0}
+numbersmiscPatternslatnapproximately~{0}
+numbersscientificFormatslatnstandardstandard#E0
+numberscurrencyFormatslatnshort1000000000000000 տրլն ¤
+numberscurrencyFormatslatnshort100000000000000 մլրդ ¤
+numberscurrencyFormatslatnshort10000000000000 տրլն ¤
+numberscurrencyFormatslatnshort1000000000000 մլրդ ¤
+numberscurrencyFormatslatnshort100000000 հզր ¤
+numberscurrencyFormatslatnshort1000000000 մլն ¤
+numberscurrencyFormatslatnshort10000000 մլն ¤
+numberscurrencyFormatslatnshort10000 հզր ¤
+numberscurrencyFormatslatnshort1000000 հզր ¤
+numberscurrencyFormatslatnshort100000000000000000 տրլն ¤
+numberscurrencyFormatslatnshort10000000000 մլրդ ¤
+numberscurrencyFormatslatnshort100000000000 մլն ¤
+numberscurrencyFormatslatnstandardstandard#,##0.00 ¤
+numberspercentFormatslatnstandardstandard#,##0%
+numberssymbolslatndecimal,
+numberssymbolslatnlist;
+numberssymbolslatnminusSign-
+numberssymbolslatntimeSeparator:
+numberssymbolslatnplusSign+
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+numberssymbolslatnnanՈչԹ
+numberssymbolslatninfinity∞
+numberssymbolslatnexponentialE
+numberssymbolslatngroup 
+numbersminimumGroupingDigits1
+numbersotherNumberingSystemstraditionalarmn
+numbersotherNumberingSystemsnativelatn
+listPatternsstandard-shortmiddle{0}, {1}
+listPatternsstandard-shortend{0} և {1}
+listPatternsstandard-short2{0} և {1}
+listPatternsstandard-shortstart{0}, {1}
+listPatternsunit-narrow2{0} {1}
+listPatternsunit-narrowend{0} {1}
+listPatternsunit-narrowmiddle{0} {1}
+listPatternsunit-narrowstart{0} {1}
+listPatternsunit-shortstart{0} {1}
+listPatternsunit-shortend{0} և {1}
+listPatternsunit-short2{0} և {1}
+listPatternsunit-shortmiddle{0} {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandardend{0} և {1}
+listPatternsstandard2{0} և {1}
+listPatternsstandardstart{0}, {1}
+listPatternsunit2{0} և {1}
+listPatternsunitend{0} և {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsunitstart{0}, {1}
+listPatternsormiddle{0}, {1}
+listPatternsorend{0} կամ {1}
+listPatternsor2{0} կամ {1}
+listPatternsorstart{0}, {1}
+calendarsgenericdateFormatslongstandarddd MMMM, y թ. G
+calendarsgenericdateFormatsmediumstandarddd MMM, y թ. G
+calendarsgenericdateFormatsfullstandardd MMMM, y թ. G, EEEE
+calendarsgenericdateFormatsshortstandarddd.MM.y GGGGG
+calendarsgenericdateTimeFormatslong{1}, {0}
+calendarsgenericdateTimeFormatsmedium{1}, {0}
+calendarsgenericdateTimeFormatsshort{1}, {0}
+calendarsgenericdateTimeFormatsfull{1}, {0}
+calendarsgenericintervalFormatsyMMMEdyE, d MMM, y – E, d MMM, y թ. G
+calendarsgenericintervalFormatsyMMMEddE, d MMM – E, d MMM, y թ. G
+calendarsgenericintervalFormatsyMMMEdME, d MMM – E, d MMM, y թ. G
+calendarsgenericintervalFormatsMMM–M
+calendarsgenericintervalFormatsHmmH:mm–H:mm
+calendarsgenericintervalFormatsHmHH:mm–H:mm
+calendarsgenericintervalFormatsddd–d
+calendarsgenericintervalFormatsyMMMdydd MMM, y – dd MMM, y թ. G
+calendarsgenericintervalFormatsyMMMdddd–dd MMM, y թ. G
+calendarsgenericintervalFormatsyMMMdMdd MMM – dd MMM, y թ. G
+calendarsgenericintervalFormatsMMMMMMM–MMM
+calendarsgenericintervalFormatsyMEdMccc, dd.MM.y – ccc, dd.MM.y G
+calendarsgenericintervalFormatsyMEddccc, dd.MM.y – ccc, dd.MM.y G
+calendarsgenericintervalFormatsyMEdyccc, dd.MM.y – ccc, dd.MM.y G
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatsMdMdd.MM – dd.MM
+calendarsgenericintervalFormatsMdddd.MM – dd.MM
+calendarsgenericintervalFormatsHmvmH:mm–H:mm v
+calendarsgenericintervalFormatsHmvHH:mm–H:mm v
+calendarsgenericintervalFormatsHHH–H
+calendarsgenericintervalFormatsstandardstandard{0} - {1}
+calendarsgenericintervalFormatsyMdMdd.MM.y – dd.MM.y G
+calendarsgenericintervalFormatsyMdddd.MM.y – dd.MM.y G
+calendarsgenericintervalFormatsyMdydd.MM.y – dd.MM.y G
+calendarsgenericintervalFormatsMMMddMMM dd–dd
+calendarsgenericintervalFormatsMMMdMMMM dd – MMM dd
+calendarsgenericintervalFormatsMEddE, dd.MM – E, dd.MM
+calendarsgenericintervalFormatsMEdME, dd.MM – E, dd.MM
+calendarsgenericintervalFormatsyMMMMMMM–MMM y թ. G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y թ. G
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatsyMyMM.y – MM.y G
+calendarsgenericintervalFormatsyMMMM.y – MM.y G
+calendarsgenericintervalFormatsyyy–y G
+calendarsgenericintervalFormatsHvHH–H v
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatsyMMMMMG y թ. MMM – MMM
+calendarsgenericintervalFormatsyMMMMyMMM y – MMM y թ G
+calendarsgenericintervalFormatsMMMEddE, MMM dd – E, MMM dd
+calendarsgenericintervalFormatsMMMEdME, MMM dd – E, MMM dd
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMEdG y թ․ MMM d, E
+calendarsgenericavailableFormatsHmsH:mm:ss
+calendarsgenericavailableFormatsHmH:mm
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsGyMMMG y թ․ MMM
+calendarsgenericavailableFormatsEdd, ccc
+calendarsgenericavailableFormatsBhB h-ին
+calendarsgenericavailableFormatsyyyyMdd.M.y թ., G
+calendarsgenericavailableFormatsyyyyMMMG y թ. LLL
+calendarsgenericavailableFormatsMMMMdMMMM d
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEBhmE B h:mm-ին
+calendarsgenericavailableFormatsBhmsB h:mm:ss
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsyyyyMMMMG y MMMM
+calendarsgenericavailableFormatsyyyyMEdd.MM.y թ., G, E
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsHH
+calendarsgenericavailableFormatsMddd.MM
+calendarsgenericavailableFormatsyyyyMG y թ. MM
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMMMEdd MMM, y թ. G, E
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatsMEddd.MM, E
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsyy, G
+calendarsgenericavailableFormatsyyyyQQQG y թ, QQQ
+calendarsgenericavailableFormatsGyG y թ․
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsGyMMMdG y թ․ MMM d
+calendarsgenericavailableFormatsyyyyy, G
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatsMMMEdd MMM, E
+calendarsgenericavailableFormatsBhmB h:mm-ին
+calendarsgenericavailableFormatsyyyyMMMdd MMM, y թ., G
+calendarsgenericavailableFormatsyyyyQQQQG y թ, QQQQ
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericavailableFormatsEBhmsE B h:mm:ss
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsMMMEdd MMM, E
+calendarsgregorianavailableFormatsyMMMMy թ․ LLLL
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsEHmE, HH:mm
+calendarsgregorianavailableFormatsBhmB h:mm-ին
+calendarsgregorianavailableFormatsEHmsE, HH:mm:ss
+calendarsgregorianavailableFormatsEhmE, h:mm a
+calendarsgregorianavailableFormatsEBhmsE B h:mm:ss
+calendarsgregorianavailableFormatsyMMMy թ. LLL
+calendarsgregorianavailableFormatsyQQQy թ. QQQ
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsMEddd.MM, E
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsyMMM.y
+calendarsgregorianavailableFormatsywY w շաբ
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyG y թ.
+calendarsgregorianavailableFormatsGyMMMdd MMM, y թ.
+calendarsgregorianavailableFormatsyQQQQy թ. QQQQ
+calendarsgregorianavailableFormatsHH
+calendarsgregorianavailableFormatsyMEdd.MM.y թ., E
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMddd.MM
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyMddd.MM.y
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsyMMMEdy թ. MMM d, E
+calendarsgregorianavailableFormatsHmsH:mm:ss
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsGyMMMEdG y թ. MMM d, E
+calendarsgregorianavailableFormatsHmH:mm
+calendarsgregorianavailableFormatsGyMMMG y թ. MMM
+calendarsgregorianavailableFormatsBhB h-ին
+calendarsgregorianavailableFormatsEdd, ccc
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsMMMMWMMM W շաբ
+calendarsgregorianavailableFormatsyMMMdd MMM, y թ.
+calendarsgregorianavailableFormatsMMMMdMMMM d
+calendarsgregorianavailableFormatsEhmsE, h:mm:ss a
+calendarsgregorianavailableFormatsBhmsB h:mm:ss
+calendarsgregorianavailableFormatsEBhmE B h:mm-ին
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianmonthsformatnarrow3Մ
+calendarsgregorianmonthsformatnarrow11Ն
+calendarsgregorianmonthsformatnarrow12Դ
+calendarsgregorianmonthsformatnarrow7Հ
+calendarsgregorianmonthsformatnarrow10Հ
+calendarsgregorianmonthsformatnarrow4Ա
+calendarsgregorianmonthsformatnarrow6Հ
+calendarsgregorianmonthsformatnarrow1Հ
+calendarsgregorianmonthsformatnarrow9Ս
+calendarsgregorianmonthsformatnarrow2Փ
+calendarsgregorianmonthsformatnarrow8Օ
+calendarsgregorianmonthsformatnarrow5Մ
+calendarsgregorianmonthsformatwide10հոկտեմբերի
+calendarsgregorianmonthsformatwide3մարտի
+calendarsgregorianmonthsformatwide7հուլիսի
+calendarsgregorianmonthsformatwide12դեկտեմբերի
+calendarsgregorianmonthsformatwide11նոյեմբերի
+calendarsgregorianmonthsformatwide8օգոստոսի
+calendarsgregorianmonthsformatwide2փետրվարի
+calendarsgregorianmonthsformatwide5մայիսի
+calendarsgregorianmonthsformatwide6հունիսի
+calendarsgregorianmonthsformatwide4ապրիլի
+calendarsgregorianmonthsformatwide1հունվարի
+calendarsgregorianmonthsformatwide9սեպտեմբերի
+calendarsgregorianmonthsformatabbreviated9սեպ
+calendarsgregorianmonthsformatabbreviated6հնս
+calendarsgregorianmonthsformatabbreviated4ապր
+calendarsgregorianmonthsformatabbreviated1հնվ
+calendarsgregorianmonthsformatabbreviated5մյս
+calendarsgregorianmonthsformatabbreviated8օգս
+calendarsgregorianmonthsformatabbreviated2փտվ
+calendarsgregorianmonthsformatabbreviated11նոյ
+calendarsgregorianmonthsformatabbreviated12դեկ
+calendarsgregorianmonthsformatabbreviated7հլս
+calendarsgregorianmonthsformatabbreviated3մրտ
+calendarsgregorianmonthsformatabbreviated10հոկ
+calendarsgregorianmonthsstand-alonenarrow3Մ
+calendarsgregorianmonthsstand-alonenarrow7Հ
+calendarsgregorianmonthsstand-alonenarrow12Դ
+calendarsgregorianmonthsstand-alonenarrow11Ն
+calendarsgregorianmonthsstand-alonenarrow10Հ
+calendarsgregorianmonthsstand-alonenarrow4Ա
+calendarsgregorianmonthsstand-alonenarrow6Հ
+calendarsgregorianmonthsstand-alonenarrow1Հ
+calendarsgregorianmonthsstand-alonenarrow9Ս
+calendarsgregorianmonthsstand-alonenarrow2Փ
+calendarsgregorianmonthsstand-alonenarrow8Օ
+calendarsgregorianmonthsstand-alonenarrow5Մ
+calendarsgregorianmonthsstand-aloneabbreviated8օգս
+calendarsgregorianmonthsstand-aloneabbreviated2փտվ
+calendarsgregorianmonthsstand-aloneabbreviated5մյս
+calendarsgregorianmonthsstand-aloneabbreviated1հնվ
+calendarsgregorianmonthsstand-aloneabbreviated6հնս
+calendarsgregorianmonthsstand-aloneabbreviated4ապր
+calendarsgregorianmonthsstand-aloneabbreviated9սեպ
+calendarsgregorianmonthsstand-aloneabbreviated10հոկ
+calendarsgregorianmonthsstand-aloneabbreviated3մրտ
+calendarsgregorianmonthsstand-aloneabbreviated11նոյ
+calendarsgregorianmonthsstand-aloneabbreviated12դեկ
+calendarsgregorianmonthsstand-aloneabbreviated7հլս
+calendarsgregorianmonthsstand-alonewide3մարտ
+calendarsgregorianmonthsstand-alonewide7հուլիս
+calendarsgregorianmonthsstand-alonewide12դեկտեմբեր
+calendarsgregorianmonthsstand-alonewide11նոյեմբեր
+calendarsgregorianmonthsstand-alonewide10հոկտեմբեր
+calendarsgregorianmonthsstand-alonewide4ապրիլ
+calendarsgregorianmonthsstand-alonewide6հունիս
+calendarsgregorianmonthsstand-alonewide1հունվար
+calendarsgregorianmonthsstand-alonewide9սեպտեմբեր
+calendarsgregorianmonthsstand-alonewide8օգոստոս
+calendarsgregorianmonthsstand-alonewide2փետրվար
+calendarsgregorianmonthsstand-alonewide5մայիս
+calendarsgregorianeraseraAbbr0մ․թ․ա․
+calendarsgregorianeraseraAbbr1մ․թ․
+calendarsgregorianeraseraNames0մեր թվարկությունից առաջ
+calendarsgregorianeraseraNames1մեր թվարկության
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregorianintervalFormatsyMMMdddd–dd MMM, y թ.
+calendarsgregorianintervalFormatsyMMMdMdd MMM – dd MMM, y թ.
+calendarsgregorianintervalFormatsyMMMdydd MMM, y թ․ – dd MMM, y թ.
+calendarsgregorianintervalFormatsMMM–M
+calendarsgregorianintervalFormatsyMMMEdyE, d MMM, y – E, d MMM, y թ.
+calendarsgregorianintervalFormatsyMMMEdME, d MMM – E, d MMM, y թ.
+calendarsgregorianintervalFormatsyMMMEddE, d MMM – E, d MMM, y թ.
+calendarsgregorianintervalFormatsddd–d
+calendarsgregorianintervalFormatsHmmH:mm–H:mm
+calendarsgregorianintervalFormatsHmHH:mm–H:mm
+calendarsgregorianintervalFormatsyMdydd.MM.y – dd.MM.y
+calendarsgregorianintervalFormatsyMdMdd.MM.y – dd.MM.y
+calendarsgregorianintervalFormatsyMdddd.MM.y – dd.MM.y
+calendarsgregorianintervalFormatsMMMddMMM dd–dd
+calendarsgregorianintervalFormatsMMMdMMMM dd – MMM dd
+calendarsgregorianintervalFormatsyMEddccc, dd.MM.y – ccc, dd.MM.y
+calendarsgregorianintervalFormatsyMEdMccc, dd.MM.y – ccc, dd.MM.y
+calendarsgregorianintervalFormatsyMEdyccc, dd.MM.y – ccc, dd.MM.y
+calendarsgregorianintervalFormatsMMMMMMM–MMM
+calendarsgregorianintervalFormatsHmvmH:mm–H:mm, v
+calendarsgregorianintervalFormatsHmvHH:mm–H:mm, v
+calendarsgregorianintervalFormatsMdMdd.MM – dd.MM
+calendarsgregorianintervalFormatsMdddd.MM – dd.MM
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsHHH–H
+calendarsgregorianintervalFormatsyMyMM.y – MM.y
+calendarsgregorianintervalFormatsyMMMM.y – MM.y
+calendarsgregorianintervalFormatsHvHH–H, v
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsyMMMyy MMM – y MMM
+calendarsgregorianintervalFormatsyMMMMy թ. MMM – MMM
+calendarsgregorianintervalFormatsMEddE, dd.MM – E, dd.MM
+calendarsgregorianintervalFormatsMEdME, dd.MM – E, dd.MM
+calendarsgregorianintervalFormatsMMMEdME, MMM dd – E, MMM dd
+calendarsgregorianintervalFormatsMMMEddE, MMM dd – E, MMM dd
+calendarsgregorianintervalFormatsyMMMMMy թ․ LLLL – LLLL
+calendarsgregorianintervalFormatsyMMMMyy թ․ LLLL – y թ․ LLLL
+calendarsgregoriandaysformatshortthuհգ
+calendarsgregoriandaysformatshortsatշբ
+calendarsgregoriandaysformatshortfriու
+calendarsgregoriandaysformatshorttueեք
+calendarsgregoriandaysformatshortmonեկ
+calendarsgregoriandaysformatshortwedչք
+calendarsgregoriandaysformatshortsunկր
+calendarsgregoriandaysformatabbreviatedmonերկ
+calendarsgregoriandaysformatabbreviatedtueերք
+calendarsgregoriandaysformatabbreviatedfriուր
+calendarsgregoriandaysformatabbreviatedthuհնգ
+calendarsgregoriandaysformatabbreviatedsatշբթ
+calendarsgregoriandaysformatabbreviatedsunկիր
+calendarsgregoriandaysformatabbreviatedwedչրք
+calendarsgregoriandaysformatwidetueերեքշաբթի
+calendarsgregoriandaysformatwidemonերկուշաբթի
+calendarsgregoriandaysformatwidethuհինգշաբթի
+calendarsgregoriandaysformatwidesatշաբաթ
+calendarsgregoriandaysformatwidefriուրբաթ
+calendarsgregoriandaysformatwidesunկիրակի
+calendarsgregoriandaysformatwidewedչորեքշաբթի
+calendarsgregoriandaysformatnarrowwedՉ
+calendarsgregoriandaysformatnarrowsunԿ
+calendarsgregoriandaysformatnarrowfriՈ
+calendarsgregoriandaysformatnarrowsatՇ
+calendarsgregoriandaysformatnarrowthuՀ
+calendarsgregoriandaysformatnarrowmonԵ
+calendarsgregoriandaysformatnarrowtueԵ
+calendarsgregoriandaysstand-alonenarrowwedՉ
+calendarsgregoriandaysstand-alonenarrowsunԿ
+calendarsgregoriandaysstand-alonenarrowfriՈ
+calendarsgregoriandaysstand-alonenarrowsatՇ
+calendarsgregoriandaysstand-alonenarrowthuՀ
+calendarsgregoriandaysstand-alonenarrowmonԵ
+calendarsgregoriandaysstand-alonenarrowtueԵ
+calendarsgregoriandaysstand-aloneabbreviatedsunկիր
+calendarsgregoriandaysstand-aloneabbreviatedwedչրք
+calendarsgregoriandaysstand-aloneabbreviatedtueերք
+calendarsgregoriandaysstand-aloneabbreviatedmonերկ
+calendarsgregoriandaysstand-aloneabbreviatedsatշբթ
+calendarsgregoriandaysstand-aloneabbreviatedthuհնգ
+calendarsgregoriandaysstand-aloneabbreviatedfriուր
+calendarsgregoriandaysstand-alonewidesatշաբաթ
+calendarsgregoriandaysstand-alonewidethuհինգշաբթի
+calendarsgregoriandaysstand-alonewidefriուրբաթ
+calendarsgregoriandaysstand-alonewidetueերեքշաբթի
+calendarsgregoriandaysstand-alonewidemonերկուշաբթի
+calendarsgregoriandaysstand-alonewidewedչորեքշաբթի
+calendarsgregoriandaysstand-alonewidesunկիրակի
+calendarsgregoriandaysstand-aloneshortsatշբ
+calendarsgregoriandaysstand-aloneshortthuհգ
+calendarsgregoriandaysstand-aloneshortfriու
+calendarsgregoriandaysstand-aloneshorttueեք
+calendarsgregoriandaysstand-aloneshortmonեկ
+calendarsgregoriandaysstand-aloneshortwedչք
+calendarsgregoriandaysstand-aloneshortsunկր
+calendarsgregoriandayPeriodsformatnarrowamա
+calendarsgregoriandayPeriodsformatnarrowafternoon1ցրկ
+calendarsgregoriandayPeriodsformatnarrowmidnightկգ․
+calendarsgregoriandayPeriodsformatnarrowpmհ
+calendarsgregoriandayPeriodsformatnarrowmorning1առվ
+calendarsgregoriandayPeriodsformatnarrownoonկօ․
+calendarsgregoriandayPeriodsformatnarrownight1գշր
+calendarsgregoriandayPeriodsformatnarrowevening1երկ
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandayPeriodsformatwidemorning1առավոտյան
+calendarsgregoriandayPeriodsformatwidemidnightկեսգիշերին
+calendarsgregoriandayPeriodsformatwideafternoon1ցերեկը
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwidenoonկեսօրին
+calendarsgregoriandayPeriodsformatwidenight1գիշերը
+calendarsgregoriandayPeriodsformatwideevening1երեկոյան
+calendarsgregoriandayPeriodsformatabbreviatednoonկեսօր
+calendarsgregoriandayPeriodsformatabbreviatedevening1երեկոյան
+calendarsgregoriandayPeriodsformatabbreviatednight1գիշերը
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandayPeriodsformatabbreviatedafternoon1ցերեկը
+calendarsgregoriandayPeriodsformatabbreviatedmidnightկեսգիշեր
+calendarsgregoriandayPeriodsformatabbreviatedmorning1առավոտյան
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning1առավոտ
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon1ցերեկ
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmidnightկեսգիշեր
+calendarsgregoriandayPeriodsstand-aloneabbreviatednight1գիշեր
+calendarsgregoriandayPeriodsstand-aloneabbreviatedevening1երեկո
+calendarsgregoriandayPeriodsstand-aloneabbreviatednoonկեսօր
+calendarsgregoriandayPeriodsstand-alonewidenight1գիշեր
+calendarsgregoriandayPeriodsstand-alonewideevening1երեկո
+calendarsgregoriandayPeriodsstand-alonewidenoonկեսօր
+calendarsgregoriandayPeriodsstand-alonewidepmPM
+calendarsgregoriandayPeriodsstand-alonewidemorning1առավոտ
+calendarsgregoriandayPeriodsstand-alonewideafternoon1ցերեկ
+calendarsgregoriandayPeriodsstand-alonewidemidnightկեսգիշեր
+calendarsgregoriandayPeriodsstand-alonewideamAM
+calendarsgregoriandayPeriodsstand-alonenarrowevening1երեկո
+calendarsgregoriandayPeriodsstand-alonenarrownight1գիշեր
+calendarsgregoriandayPeriodsstand-alonenarrownoonկեսօր
+calendarsgregoriandayPeriodsstand-alonenarrowmorning1առավոտ
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon1ցերեկ
+calendarsgregoriandayPeriodsstand-alonenarrowmidnightկեսգիշեր
+calendarsgregoriandateTimeFormatsfull{1}, {0}
+calendarsgregoriandateTimeFormatsshort{1}, {0}
+calendarsgregoriandateTimeFormatsmedium{1}, {0}
+calendarsgregoriandateTimeFormatslong{1}, {0}
+calendarsgregoriandateFormatsshortstandarddd.MM.yy
+calendarsgregoriandateFormatsfullstandardy թ. MMMM d, EEEE
+calendarsgregoriandateFormatsmediumstandarddd MMM, y թ.
+calendarsgregoriandateFormatslongstandarddd MMMM, y թ.
+calendarsgregorianquartersformatabbreviated33-րդ եռմս.
+calendarsgregorianquartersformatabbreviated11-ին եռմս.
+calendarsgregorianquartersformatabbreviated44-րդ եռմս.
+calendarsgregorianquartersformatabbreviated22-րդ եռմս.
+calendarsgregorianquartersformatwide11-ին եռամսյակ
+calendarsgregorianquartersformatwide44-րդ եռամսյակ
+calendarsgregorianquartersformatwide22-րդ եռամսյակ
+calendarsgregorianquartersformatwide33-րդ եռամսյակ
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonewide11-ին եռամսյակ
+calendarsgregorianquartersstand-alonewide44-րդ եռամսյակ
+calendarsgregorianquartersstand-alonewide22-րդ եռամսյակ
+calendarsgregorianquartersstand-alonewide33-րդ եռամսյակ
+calendarsgregorianquartersstand-aloneabbreviated33-րդ եռմս.
+calendarsgregorianquartersstand-aloneabbreviated22-րդ եռմս.
+calendarsgregorianquartersstand-aloneabbreviated44-րդ եռմս.
+calendarsgregorianquartersstand-aloneabbreviated11-ին եռմս.
+localeDisplayNamesscriptsMlymմալայալամ
+localeDisplayNamesscriptsKanaկատականա
+localeDisplayNamesscriptsZsyeէմոձի
+localeDisplayNamesscriptsZxxxչգրված
+localeDisplayNamesscriptsTeluթելուգու
+localeDisplayNamesscriptsEthiեթովպական
+localeDisplayNamesscriptsHansպարզեցված չինական
+localeDisplayNamesscriptsBraiբրայլի
+localeDisplayNamesscriptsBengբենգալական
+localeDisplayNamesscriptsKoreկորեական
+localeDisplayNamesscriptsThaiթայական
+localeDisplayNamesscriptsHangհանգըլ
+localeDisplayNamesscriptsGuruգուրմուխի
+localeDisplayNamesscriptsZzzzանհայտ գիր
+localeDisplayNamesscriptsGujrգուջարաթի
+localeDisplayNamesscriptsJamoջամո
+localeDisplayNamesscriptsHiraհիրագանա
+localeDisplayNamesscriptsHanbհանբ
+localeDisplayNamesscriptsDevaդեւանագարի
+localeDisplayNamesscriptsTibtտիբեթական
+localeDisplayNamesscriptsZsymնշաններ
+localeDisplayNamesscriptsZmthմաթեմատիկական նշաններ
+localeDisplayNamesscriptsMongմոնղոլական
+localeDisplayNamesscriptsMymrմյանմարական
+localeDisplayNamesscriptsHebrեբրայական
+localeDisplayNamesscriptsLaooլաոսական
+localeDisplayNamesscriptsBopoբոպոմոֆո
+localeDisplayNamesscriptsGrekհունական
+localeDisplayNamesscriptsGeorվրացական
+localeDisplayNamesscriptsSinhսինհալական
+localeDisplayNamesscriptsKhmrքմերական
+localeDisplayNamesscriptsHantավանդական չինական
+localeDisplayNamesscriptsArabարաբական
+localeDisplayNamesscriptsThaaթաանա
+localeDisplayNamesscriptsLatnլատինական
+localeDisplayNamesscriptsOryaօրիյա
+localeDisplayNamesscriptsJpanճապոնական
+localeDisplayNamesscriptsKndaկաննադա
+localeDisplayNamesscriptsHaniչինական
+localeDisplayNamesscriptsHrktճապոնական վանկագիր
+localeDisplayNamesscriptsCyrlկյուրեղագիր
+localeDisplayNamesscriptsTamlթամիլական
+localeDisplayNamesscriptsZyyyընդհանուր
+localeDisplayNamesscriptsArmnհայկական
+localeDisplayNameslanguageslnլինգալա
+localeDisplayNameslanguageshiհինդի
+localeDisplayNameslanguagesbemբեմբա
+localeDisplayNameslanguagesdzgդազագա
+localeDisplayNameslanguagespt_PTեվրոպական պորտուգալերեն
+localeDisplayNameslanguagesewoէվոնդո
+localeDisplayNameslanguagesyapյափերեն
+localeDisplayNameslanguagesfurֆրիուլիերեն
+localeDisplayNameslanguagesvunվունջո
+localeDisplayNameslanguagesskսլովակերեն
+localeDisplayNameslanguagessqալբաներեն
+localeDisplayNameslanguagesisիսլանդերեն
+localeDisplayNameslanguagesiuինուկտիտուտ
+localeDisplayNameslanguageseoէսպերանտո
+localeDisplayNameslanguagesscoշոտլանդերեն
+localeDisplayNameslanguagestlhկլինգոն
+localeDisplayNameslanguagestaթամիլերեն
+localeDisplayNameslanguagesswսուահիլի
+localeDisplayNameslanguageses_ESեվրոպական իսպաներեն
+localeDisplayNameslanguagestmhտամաշեկ
+localeDisplayNameslanguageshsbվերին սորբերեն
+localeDisplayNameslanguagesterտերենո
+localeDisplayNameslanguageslunլունդա
+localeDisplayNameslanguageshawհավայիերեն
+localeDisplayNameslanguagesmakմակասարերեն
+localeDisplayNameslanguagesminմինանգկաբաու
+localeDisplayNameslanguagesarpարապահո
+localeDisplayNameslanguageschyշայեն
+localeDisplayNameslanguagesrofռոմբո
+localeDisplayNameslanguagesguգուջարաթի
+localeDisplayNameslanguagesmghմաքուա-մետտո
+localeDisplayNameslanguagesmznմազանդարաներեն
+localeDisplayNameslanguagesafաֆրիկաանս
+localeDisplayNameslanguagesgaիռլանդերեն
+localeDisplayNameslanguageskvկոմիերեն
+localeDisplayNameslanguageskshքյոլներեն
+localeDisplayNameslanguagesbssաքուզ
+localeDisplayNameslanguagesaaաֆարերեն
+localeDisplayNameslanguagesakkաքքադերեն
+localeDisplayNameslanguagespagպանգասինաներեն
+localeDisplayNameslanguageszghընդհանուր մարոկյան թամազիղտ
+localeDisplayNameslanguageskaվրացերեն
+localeDisplayNameslanguagestpiտոկ փիսին
+localeDisplayNameslanguageschrչերոկի
+localeDisplayNameslanguagesibbիբիբիո
+localeDisplayNameslanguagesebuէմբու
+localeDisplayNameslanguagesviվիետնամերեն
+localeDisplayNameslanguagesiloիլոկերեն
+localeDisplayNameslanguagesshnշաներեն
+localeDisplayNameslanguagesshսերբա-խորվաթերեն
+localeDisplayNameslanguageskumկումիկերեն
+localeDisplayNameslanguagesaltհարավային ալթայերեն
+localeDisplayNameslanguagesayայմարա
+localeDisplayNameslanguagesorօրիյա
+localeDisplayNameslanguagesvlsարևմտաֆլամանդերեն
+localeDisplayNameslanguageswaվալոներեն
+localeDisplayNameslanguagesbynբիլին
+localeDisplayNameslanguageses_419լատինամերիկյան իսպաներեն
+localeDisplayNameslanguagesproհին պրովանսերեն
+localeDisplayNameslanguagestsdցակոներեն
+localeDisplayNameslanguagesluaլուբա-լուլուա
+localeDisplayNameslanguagesmrjարևմտամարիերեն
+localeDisplayNameslanguagesiaինտերլինգուա
+localeDisplayNameslanguagestsցոնգա
+localeDisplayNameslanguagescopղպտերեն
+localeDisplayNameslanguageslusմիզո
+localeDisplayNameslanguagesthթայերեն
+localeDisplayNameslanguageselհունարեն
+localeDisplayNameslanguagesfjֆիջիերեն
+localeDisplayNameslanguagescebսեբուերեն
+localeDisplayNameslanguagesnqoնկո
+localeDisplayNameslanguagesnapնեապոլերեն
+localeDisplayNameslanguagesphnփյունիկերեն
+localeDisplayNameslanguagesrnռունդի
+localeDisplayNameslanguageskjկուանյամա
+localeDisplayNameslanguagesieինտերլինգուե
+localeDisplayNameslanguagesosaօսեյջ
+localeDisplayNameslanguagesro_MDմոլդովերեն
+localeDisplayNameslanguagesloլաոսերեն
+localeDisplayNameslanguageshzհերերո
+localeDisplayNameslanguagesgnգուարանի
+localeDisplayNameslanguagesocօքսիտաներեն
+localeDisplayNameslanguagesaceաչեհերեն
+localeDisplayNameslanguagessbaնգամբայ
+localeDisplayNameslanguagesosօսերեն
+localeDisplayNameslanguagesksքաշմիրերեն
+localeDisplayNameslanguagesttթաթարերեն
+localeDisplayNameslanguagesrugռովիանա
+localeDisplayNameslanguagesbrբրետոներեն
+localeDisplayNameslanguageshtխառնակերտ հայիթերեն
+localeDisplayNameslanguageshmnհմոնգ
+localeDisplayNameslanguagesachաչոլի
+localeDisplayNameslanguagesgorգորոնտալո
+localeDisplayNameslanguagesxhքոսա
+localeDisplayNameslanguagescrsսեյշելյան խառնակերտ ֆրանսերեն
+localeDisplayNameslanguagesptպորտուգալերեն
+localeDisplayNameslanguagesnmgկվասիո
+localeDisplayNameslanguagesotaօսմաներեն
+localeDisplayNameslanguagesuzուզբեկերեն
+localeDisplayNameslanguagesladլադինո
+localeDisplayNameslanguagesomօրոմո
+localeDisplayNameslanguagesstհարավային սոթո
+localeDisplayNameslanguagessbpսանգու
+localeDisplayNameslanguagesmrմարաթի
+localeDisplayNameslanguageskokկոնկանի
+localeDisplayNameslanguagesfiֆիններեն
+localeDisplayNameslanguagestemտեմնե
+localeDisplayNameslanguagestivտիվերեն
+localeDisplayNameslanguagesbugբուգիերեն
+localeDisplayNameslanguageskyղրղզերեն
+localeDisplayNameslanguagesklnկալենջին
+localeDisplayNameslanguagesar_001արդի ընդհանուր արաբերեն
+localeDisplayNameslanguagesdzջոնգքհա
+localeDisplayNameslanguagesxalկալմիկերեն
+localeDisplayNameslanguagesbgբուլղարերեն
+localeDisplayNameslanguagesde_ATավստրիական գերմաներեն
+localeDisplayNameslanguageslvլատվիերեն
+localeDisplayNameslanguageskuքրդերեն
+localeDisplayNameslanguagesukուկրաիներեն
+localeDisplayNameslanguagesgwiգվիչին
+localeDisplayNameslanguagesfrsարևելաֆրիզերեն
+localeDisplayNameslanguagesduaդուալա
+localeDisplayNameslanguagestumտումբուկա
+localeDisplayNameslanguageswasվաշո
+localeDisplayNameslanguagessnkսոնինկե
+localeDisplayNameslanguageskkղազախերեն
+localeDisplayNameslanguagesbhoբհոպուրի
+localeDisplayNameslanguagesasaասու
+localeDisplayNameslanguagessaqսամբուրու
+localeDisplayNameslanguagespauպալաուերեն
+localeDisplayNameslanguagestruտուրոյո
+localeDisplayNameslanguagessrnսրանան տոնգո
+localeDisplayNameslanguagesavավարերեն
+localeDisplayNameslanguagessesկոյրաբորո սեննի
+localeDisplayNameslanguagessdսինդհի
+localeDisplayNameslanguageshuհունգարերեն
+localeDisplayNameslanguagesheեբրայերեն
+localeDisplayNameslanguagescvչուվաշերեն
+localeDisplayNameslanguagesnlհոլանդերեն
+localeDisplayNameslanguageszapսապոտեկերեն
+localeDisplayNameslanguagestklտոկելաու
+localeDisplayNameslanguagesswbկոմորերեն
+localeDisplayNameslanguageslgգանդա
+localeDisplayNameslanguagespntպոնտերեն
+localeDisplayNameslanguagesegyհին եգիպտերեն
+localeDisplayNameslanguageszxxառանց լեզվային բովանդակության
+localeDisplayNameslanguagessnշոնա
+localeDisplayNameslanguageszaժուանգ
+localeDisplayNameslanguagesgrcհին հունարեն
+localeDisplayNameslanguagesvotվոդերեն
+localeDisplayNameslanguagesponպոնպեերեն
+localeDisplayNameslanguagesioիդո
+localeDisplayNameslanguagestwqտասավաք
+localeDisplayNameslanguagesbsբոսնիերեն
+localeDisplayNameslanguagessdhհարավային քրդերեն
+localeDisplayNameslanguageskkjկակո
+localeDisplayNameslanguagestsiցիմշյան
+localeDisplayNameslanguageslbլյուքսեմբուրգերեն
+localeDisplayNameslanguagesmsմալայերեն
+localeDisplayNameslanguageskamկամբա
+localeDisplayNameslanguagespflպալատինյան գերմաներեն
+localeDisplayNameslanguagespeoհին պարսկերեն
+localeDisplayNameslanguagestigտիգրե
+localeDisplayNameslanguagesnds_NLստորին սաքսոներեն
+localeDisplayNameslanguagesniuնիուերեն
+localeDisplayNameslanguagesscnսիցիլիերեն
+localeDisplayNameslanguagesjmcմաշամե
+localeDisplayNameslanguagessuսունդաներեն
+localeDisplayNameslanguagestgտաջիկերեն
+localeDisplayNameslanguageskmbկիմբունդու
+localeDisplayNameslanguagespaփենջաբերեն
+localeDisplayNameslanguagesmuaմունդանգ
+localeDisplayNameslanguagespdcփենսիլվանական գերմաներեն
+localeDisplayNameslanguageswuuվու չինարեն
+localeDisplayNameslanguagesblaսիկսիկա
+localeDisplayNameslanguagestliտլինգիտ
+localeDisplayNameslanguageshsnսյան չինարեն
+localeDisplayNameslanguagesrwկինյառուանդա
+localeDisplayNameslanguagesmhմարշալերեն
+localeDisplayNameslanguagesbiբիսլամա
+localeDisplayNameslanguagesen_CAկանադական անգլերեն
+localeDisplayNameslanguagesdgrդոգրիբ
+localeDisplayNameslanguagessahյակուտերեն
+localeDisplayNameslanguageswarվարայերեն
+localeDisplayNameslanguagestoտոնգերեն
+localeDisplayNameslanguageswalվոլայտա
+localeDisplayNameslanguagesfyարևմտաֆրիզերեն
+localeDisplayNameslanguagesbeբելառուսերեն
+localeDisplayNameslanguagesakաքան
+localeDisplayNameslanguagesfrֆրանսերեն
+localeDisplayNameslanguagesgucվայուու
+localeDisplayNameslanguagesfr_CAկանադական ֆրանսերեն
+localeDisplayNameslanguagesdarդարգիներեն
+localeDisplayNameslanguagesfoֆարյորերեն
+localeDisplayNameslanguagesfonֆոն
+localeDisplayNameslanguagesguzգուսի
+localeDisplayNameslanguagesmlմալայալամ
+localeDisplayNameslanguagesksfբաֆիա
+localeDisplayNameslanguagesgaaգայերեն
+localeDisplayNameslanguagesrtmռոտուման
+localeDisplayNameslanguagesarqալժիրական արաբերեն
+localeDisplayNameslanguagessgսանգո
+localeDisplayNameslanguagesgotգոթերեն
+localeDisplayNameslanguagestiտիգրինյա
+localeDisplayNameslanguagesdjeզարմա
+localeDisplayNameslanguagesmniմանիպուրի
+localeDisplayNameslanguagesbanբալիերեն
+localeDisplayNameslanguageshrխորվաթերեն
+localeDisplayNameslanguagesmkմակեդոներեն
+localeDisplayNameslanguagesojօջիբվա
+localeDisplayNameslanguageskhaքասիերեն
+localeDisplayNameslanguagesnynնյանկոլե
+localeDisplayNameslanguagesfitտորնադելեն ֆիններեն
+localeDisplayNameslanguagesseհյուսիսային սաամի
+localeDisplayNameslanguagesarարաբերեն
+localeDisplayNameslanguagesidինդոնեզերեն
+localeDisplayNameslanguagessmnինարի սաամի
+localeDisplayNameslanguagesainայներեն
+localeDisplayNameslanguagesabաբխազերեն
+localeDisplayNameslanguageses_MXմեքսիկական իսպաներեն
+localeDisplayNameslanguagesscսարդիներեն
+localeDisplayNameslanguagesdeգերմաներեն
+localeDisplayNameslanguagesmtմալթայերեն
+localeDisplayNameslanguagespcmնիգերյան կրեոլերեն
+localeDisplayNameslanguagestwտուի
+localeDisplayNameslanguagesvroվորո
+localeDisplayNameslanguageskrlկարելերեն
+localeDisplayNameslanguagesglգալիսերեն
+localeDisplayNameslanguagestcyտուլու
+localeDisplayNameslanguagesnbգրքային նորվեգերեն
+localeDisplayNameslanguagesdakդակոտա
+localeDisplayNameslanguagespt_BRբրազիլական պորտուգալերեն
+localeDisplayNameslanguagesrootռուտերեն
+localeDisplayNameslanguagesrupարոմաներեն
+localeDisplayNameslanguagestzmկենտրոնատլասյան թամազիղտ
+localeDisplayNameslanguageskwկոռներեն
+localeDisplayNameslanguagesrgnռոմանիոլերեն
+localeDisplayNameslanguagessgaհին իռլանդերեն
+localeDisplayNameslanguagesurուրդու
+localeDisplayNameslanguagesluլուբա-կատանգա
+localeDisplayNameslanguageskiկիկույու
+localeDisplayNameslanguagesjboլոժբան
+localeDisplayNameslanguagesvepվեպսերեն
+localeDisplayNameslanguagesjvճավայերեն
+localeDisplayNameslanguagesigիգբո
+localeDisplayNameslanguagesenանգլերեն
+localeDisplayNameslanguageszh_Hansպարզեցված չինարեն
+localeDisplayNameslanguageskruկուրուխ
+localeDisplayNameslanguagesarnմապուչի
+localeDisplayNameslanguagesdaդանիերեն
+localeDisplayNameslanguagesnsoհյուսիսային սոթո
+localeDisplayNameslanguageszzaզազաերեն
+localeDisplayNameslanguagestlyթալիշերեն
+localeDisplayNameslanguagesknկաննադա
+localeDisplayNameslanguagestetտետում
+localeDisplayNameslanguagesceչեչեներեն
+localeDisplayNameslanguagesmyբիրմայերեն
+localeDisplayNameslanguageschmմարի
+localeDisplayNameslanguageszunզունիերեն
+localeDisplayNameslanguageshyհայերեն
+localeDisplayNameslanguagesnyնյանջա
+localeDisplayNameslanguageswaeվալսերեն
+localeDisplayNameslanguagessw_CDկոնգոյի սուահիլի
+localeDisplayNameslanguagesrueռուսիներեն
+localeDisplayNameslanguageskoiպերմյակ կոմիերեն
+localeDisplayNameslanguageskbdկաբարդերեն
+localeDisplayNameslanguagesinhինգուշերեն
+localeDisplayNameslanguagesbnբենգալերեն
+localeDisplayNameslanguagesbmբամբարա
+localeDisplayNameslanguagesbgnարևմտաբելուջիերեն
+localeDisplayNameslanguagesarzեգիպտական արաբերեն
+localeDisplayNameslanguagesitիտալերեն
+localeDisplayNameslanguagesanարագոներեն
+localeDisplayNameslanguagesen_USանգլերեն (ԱՄՆ)
+localeDisplayNameslanguagesyueկանտոներեն
+localeDisplayNameslanguagesteoտեսո
+localeDisplayNameslanguageskajջյու
+localeDisplayNameslanguagesckbսորանի քրդերեն
+localeDisplayNameslanguagesaleալեութերեն
+localeDisplayNameslanguagesffֆուլահ
+localeDisplayNameslanguagesluyլույա
+localeDisplayNameslanguagesnonհին նորվեգերեն
+localeDisplayNameslanguagestyթաիտերեն
+localeDisplayNameslanguagespalպահլավերեն
+localeDisplayNameslanguagestkrցախուր
+localeDisplayNameslanguagesteթելուգու
+localeDisplayNameslanguageszuզուլուերեն
+localeDisplayNameslanguagesnewնեվարերեն
+localeDisplayNameslanguagesmohմոհավք
+localeDisplayNameslanguagesveվենդա
+localeDisplayNameslanguageslrcհյուսիսային լուրիերեն
+localeDisplayNameslanguagesamամհարերեն
+localeDisplayNameslanguagesadaադանգմերեն
+localeDisplayNameslanguagesplլեհերեն
+localeDisplayNameslanguagesdsbստորին սորբերեն
+localeDisplayNameslanguagessoսոմալիերեն
+localeDisplayNameslanguageslozլոզի
+localeDisplayNameslanguagesgvմեներեն
+localeDisplayNameslanguagesbasբասաա
+localeDisplayNameslanguagesgilկիրիբատի
+localeDisplayNameslanguagessiսինհալերեն
+localeDisplayNameslanguagesssսվազերեն
+localeDisplayNameslanguagesde_CHշվեյցարական վերին գերմաներեն
+localeDisplayNameslanguagesroռումիներեն
+localeDisplayNameslanguagesmiմաորի
+localeDisplayNameslanguagessmaհարավային սաամի
+localeDisplayNameslanguagesgdշոտլանդական գաելերեն
+localeDisplayNameslanguagesbaբաշկիրերեն
+localeDisplayNameslanguagesngնդոնգա
+localeDisplayNameslanguageschkտրուկերեն
+localeDisplayNameslanguageswoվոլոֆ
+localeDisplayNameslanguagesmdfմոկշայերեն
+localeDisplayNameslanguagessmjլուլե սաամի
+localeDisplayNameslanguagesgezգեեզ
+localeDisplayNameslanguagesgswշվեյցարական գերմաներեն
+localeDisplayNameslanguageskpeկպելլեերեն
+localeDisplayNameslanguagesen_AUավստրալիական անգլերեն
+localeDisplayNameslanguageskmքմերերեն
+localeDisplayNameslanguagesvaiվաի
+localeDisplayNameslanguagesawaավադհի
+localeDisplayNameslanguagesaebթունիսական արաբերեն
+localeDisplayNameslanguagescyուելսերեն
+localeDisplayNameslanguagesnogնոգայերեն
+localeDisplayNameslanguagesmicմիկմակ
+localeDisplayNameslanguagessadսանդավե
+localeDisplayNameslanguageskdeմակոնդե
+localeDisplayNameslanguagesyiիդիշ
+localeDisplayNameslanguagesbezբենա
+localeDisplayNameslanguagesmerմերու
+localeDisplayNameslanguagesromռոմաներեն
+localeDisplayNameslanguageschչամոռո
+localeDisplayNameslanguagesnaնաուրու
+localeDisplayNameslanguagesmenմենդե
+localeDisplayNameslanguageslktլակոտա
+localeDisplayNameslanguagesxogսոգա
+localeDisplayNameslanguagesmagմագահի
+localeDisplayNameslanguagesmwlմիրանդերեն
+localeDisplayNameslanguagesmfeմորիսյեն
+localeDisplayNameslanguagespcdպիկարդերեն
+localeDisplayNameslanguageshupհուպա
+localeDisplayNameslanguagesaseամերիկյան ժեստերի լեզու
+localeDisplayNameslanguagescoկորսիկերեն
+localeDisplayNameslanguagesekaէկաջուկ
+localeDisplayNameslanguageskrcկարաչայ-բալկարերեն
+localeDisplayNameslanguagesgbzզրադաշտական դարի
+localeDisplayNameslanguageshaհաուսա
+localeDisplayNameslanguagesbinբինի
+localeDisplayNameslanguagesazադրբեջաներեն
+localeDisplayNameslanguagesmosմոսսի
+localeDisplayNameslanguagesarcարամեերեն
+localeDisplayNameslanguagesyaoյաո
+localeDisplayNameslanguagesugույղուրերեն
+localeDisplayNameslanguagesundանհայտ լեզու
+localeDisplayNameslanguageskcgտիապ
+localeDisplayNameslanguagessehսենա
+localeDisplayNameslanguagesadyադիղերեն
+localeDisplayNameslanguagesudmուդմուրտերեն
+localeDisplayNameslanguagesmaiմայթիլի
+localeDisplayNameslanguagesmgմալգաշերեն
+localeDisplayNameslanguagesvecվենետերեն
+localeDisplayNameslanguagesluoլուո
+localeDisplayNameslanguageskrկանուրի
+localeDisplayNameslanguagesnvնավախո
+localeDisplayNameslanguagespsփուշթու
+localeDisplayNameslanguagesqucքիչե
+localeDisplayNameslanguageslagլանգի
+localeDisplayNameslanguagesboտիբեթերեն
+localeDisplayNameslanguagesnaqնամա
+localeDisplayNameslanguagescggչիգա
+localeDisplayNameslanguagessmsսկոլտ սաամի
+localeDisplayNameslanguagestrթուրքերեն
+localeDisplayNameslanguagesvoվոլապյուկ
+localeDisplayNameslanguagesumbումբունդու
+localeDisplayNameslanguagesliլիմբուրգերեն
+localeDisplayNameslanguagesnnhնգիեմբուն
+localeDisplayNameslanguagesyavյանգբեն
+localeDisplayNameslanguagesfroհին ֆրանսերեն
+localeDisplayNameslanguagessukսուկումա
+localeDisplayNameslanguagescsչեխերեն
+localeDisplayNameslanguagesnoնորվեգերեն
+localeDisplayNameslanguagesmusկրիկ
+localeDisplayNameslanguagessatսանտալի
+localeDisplayNameslanguageskabկաբիլերեն
+localeDisplayNameslanguagesasասամերեն
+localeDisplayNameslanguagespamպամպանգաերեն
+localeDisplayNameslanguagessyrասորերեն
+localeDisplayNameslanguagesnusնուեր
+localeDisplayNameslanguagestnցվանա
+localeDisplayNameslanguagesanpանգիկա
+localeDisplayNameslanguagescrhղրիմյան թուրքերեն
+localeDisplayNameslanguagesfaպարսկերեն
+localeDisplayNameslanguagesneնեպալերեն
+localeDisplayNameslanguagesgohհին վերին գերմաներեն
+localeDisplayNameslanguagestrvտարոկո
+localeDisplayNameslanguagesrmռոմանշերեն
+localeDisplayNameslanguagesksbշամբալա
+localeDisplayNameslanguagessrսերբերեն
+localeDisplayNameslanguagesmgoմետա
+localeDisplayNameslanguagesnnնոր նորվեգերեն
+localeDisplayNameslanguagesjgoնգոմբա
+localeDisplayNameslanguageszh_Hantավանդական չինարեն
+localeDisplayNameslanguageszenզենագա
+localeDisplayNameslanguageszeaզեյլանդերեն
+localeDisplayNameslanguagesslսլովեներեն
+localeDisplayNameslanguagespdtպլատագերմաներեն
+localeDisplayNameslanguagesruռուսերեն
+localeDisplayNameslanguagespmsպիեմոնտերեն
+localeDisplayNameslanguagesnrհարավային նդեբելե
+localeDisplayNameslanguageskfoկորո
+localeDisplayNameslanguagestkթուրքմեներեն
+localeDisplayNameslanguageschoչոկտո
+localeDisplayNameslanguagesndհյուսիսային նդեբելե
+localeDisplayNameslanguagessvշվեդերեն
+localeDisplayNameslanguagesjaճապոներեն
+localeDisplayNameslanguageshilհիլիգայնոն
+localeDisplayNameslanguagescuեկեղեցական սլավոներեն
+localeDisplayNameslanguageseeէվե
+localeDisplayNameslanguagesyoյորուբա
+localeDisplayNameslanguageswbpվարլպիրի
+localeDisplayNameslanguagesibaիբաներեն
+localeDisplayNameslanguagespiպալի
+localeDisplayNameslanguagesrapռապանուի
+localeDisplayNameslanguagespapպապյամենտո
+localeDisplayNameslanguagessmսամոաերեն
+localeDisplayNameslanguagesybbեմբա
+localeDisplayNameslanguagesgagգագաուզերեն
+localeDisplayNameslanguageskacկաչիներեն
+localeDisplayNameslanguagesdavթաիթա
+localeDisplayNameslanguagesen_GBանգլերեն (Բրիտանիա)
+localeDisplayNameslanguagesfilֆիլիպիներեն
+localeDisplayNameslanguageslezլեզգիերեն
+localeDisplayNameslanguagesastաստուրերեն
+localeDisplayNameslanguagesiiսիչուան
+localeDisplayNameslanguagesangհին անգլերեն
+localeDisplayNameslanguagesesիսպաներեն
+localeDisplayNameslanguagesmulբազմալեզու
+localeDisplayNameslanguagesklկալաալիսուտ
+localeDisplayNameslanguagesmnմոնղոլերեն
+localeDisplayNameslanguagesniaնիասերեն
+localeDisplayNameslanguagesnl_BEֆլամանդերեն
+localeDisplayNameslanguagesshiտաշելհիթ
+localeDisplayNameslanguagescaկատալաներեն
+localeDisplayNameslanguageszhչինարեն
+localeDisplayNameslanguagesfr_CHշվեյցարական ֆրանսերեն
+localeDisplayNameslanguagesmadմադուրերեն
+localeDisplayNameslanguagesdvմալդիվերեն
+localeDisplayNameslanguagesrwkռվա
+localeDisplayNameslanguagesugaուգարիտերեն
+localeDisplayNameslanguagestlտագալերեն
+localeDisplayNameslanguageslaլատիներեն
+localeDisplayNameslanguagesagqաղեմ
+localeDisplayNameslanguageseuբասկերեն
+localeDisplayNameslanguagesrarռարոտոնգաներեն
+localeDisplayNameslanguageskoկորեերեն
+localeDisplayNameslanguagesdyoջոլա-ֆոնյի
+localeDisplayNameslanguagesmasմասաի
+localeDisplayNameslanguagessaսանսկրիտ
+localeDisplayNameslanguagesquկեչուա
+localeDisplayNameslanguagesbrxբոդո
+localeDisplayNameslanguagestyvտուվերեն
+localeDisplayNameslanguagestvlթուվալուերեն
+localeDisplayNameslanguagesssyսահոերեն
+localeDisplayNameslanguagesefiէֆիկ
+localeDisplayNameslanguagesrifռիֆերեն
+localeDisplayNameslanguagesltլիտվերեն
+localeDisplayNameslanguagesetէստոներեն
+localeDisplayNameslanguageskeaկաբուվերդերեն
+localeDisplayNameslanguagesmyvէրզյա
+localeDisplayNameslanguagesprgպրուսերեն
+localeDisplayNameslanguageskhqկոյրա չինի
+localeDisplayNameslanguagesrajռաջաստաներեն
+localeDisplayNamescodePatternslanguageԼեզու՝ {0}
+localeDisplayNamescodePatternsscriptԳիր՝ {0}
+localeDisplayNamescodePatternsterritoryՏարածաշրջան՝ {0}
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}՝ {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNamesterritoriesZZԱնհայտ տարածաշրջան
+localeDisplayNamesterritoriesGSՀարավային Ջորջիա և Հարավային Սենդվիչյան կղզիներ
+localeDisplayNamesterritoriesETԵթովպիա
+localeDisplayNamesterritoriesBWԲոթսվանա
+localeDisplayNamesterritoriesWSՍամոա
+localeDisplayNamesterritoriesUNՄԱԿ
+localeDisplayNamesterritoriesGFՖրանսիական Գվիանա
+localeDisplayNamesterritoriesTKՏոկելաու
+localeDisplayNamesterritoriesCFԿենտրոնական Աֆրիկյան Հանրապետություն
+localeDisplayNamesterritories034Հարավային Ասիա
+localeDisplayNamesterritoriesLYԼիբիա
+localeDisplayNamesterritoriesTLԱրևելյան Թիմոր
+localeDisplayNamesterritoriesREՌեյունիոն
+localeDisplayNamesterritoriesGMԳամբիա
+localeDisplayNamesterritoriesPHՖիլիպիններ
+localeDisplayNamesterritoriesNEՆիգեր
+localeDisplayNamesterritoriesMOՄակաո
+localeDisplayNamesterritoriesFIՖինլանդիա
+localeDisplayNamesterritoriesPSՊաղեստին
+localeDisplayNamesterritoriesBMԲերմուդներ
+localeDisplayNamesterritoriesMKՄակեդոնիա (ՄՆՀՀ)
+localeDisplayNamesterritoriesBRԲրազիլիա
+localeDisplayNamesterritories015Հյուսիսային Աֆրիկա
+localeDisplayNamesterritoriesCWԿյուրասաո
+localeDisplayNamesterritoriesTWԹայվան
+localeDisplayNamesterritoriesBGԲուլղարիա
+localeDisplayNamesterritoriesBDԲանգլադեշ
+localeDisplayNamesterritoriesADԱնդորրա
+localeDisplayNamesterritoriesSVՍալվադոր
+localeDisplayNamesterritoriesQAԿատար
+localeDisplayNamesterritories054Մելանեզիա
+localeDisplayNamesterritoriesOMՕման
+localeDisplayNamesterritoriesFJՖիջի
+localeDisplayNamesterritoriesTDՉադ
+localeDisplayNamesterritoriesTFՖրանսիական Հարավային Տարածքներ
+localeDisplayNamesterritoriesDMԴոմինիկա
+localeDisplayNamesterritoriesAWԱրուբա
+localeDisplayNamesterritoriesIOԲրիտանական Տարածք Հնդկական Օվկիանոսում
+localeDisplayNamesterritoriesNGՆիգերիա
+localeDisplayNamesterritoriesMZՄոզամբիկ
+localeDisplayNamesterritoriesCZՉեխիայի Հանրապետություն
+localeDisplayNamesterritoriesAGԱնտիգուա և Բարբուդա
+localeDisplayNamesterritories053Ավստրալասիա
+localeDisplayNamesterritoriesUAՈւկրաինա
+localeDisplayNamesterritoriesMXՄեքսիկա
+localeDisplayNamesterritoriesGHԳանա
+localeDisplayNamesterritoriesMGՄադագասկար
+localeDisplayNamesterritoriesDZԱլժիր
+localeDisplayNamesterritoriesCRԿոստա Ռիկա
+localeDisplayNamesterritoriesBFԲուրկինա Ֆասո
+localeDisplayNamesterritoriesSBՍողոմոնյան կղզիներ
+localeDisplayNamesterritoriesEEԷստոնիա
+localeDisplayNamesterritoriesAEԱրաբական Միացյալ Էմիրություններ
+localeDisplayNamesterritoriesTCԹըրքս և Կայկոս կղզիներ
+localeDisplayNamesterritoriesNPՆեպալ
+localeDisplayNamesterritoriesQOԱրտաքին Օվկիանիա
+localeDisplayNamesterritories017Կենտրոնական Աֆրիկա
+localeDisplayNamesterritoriesKIԿիրիբատի
+localeDisplayNamesterritoriesMCՄոնակո
+localeDisplayNamesterritoriesIMՄեն կղզի
+localeDisplayNamesterritoriesEZԵվրագոտի
+localeDisplayNamesterritoriesAUԱվստրալիա
+localeDisplayNamesterritoriesAXԱլանդյան կղզիներ
+localeDisplayNamesterritoriesKHԿամբոջա
+localeDisplayNamesterritoriesPRՊուերտո Ռիկո
+localeDisplayNamesterritoriesTHԹայլանդ
+localeDisplayNamesterritoriesMPՀյուսիսային Մարիանյան կղզիներ
+localeDisplayNamesterritories011Արևմտյան Աֆրիկա
+localeDisplayNamesterritoriesMEՉեռնոգորիա
+localeDisplayNamesterritories202Արևադարձային Աֆրիկա
+localeDisplayNamesterritoriesARԱրգենտինա
+localeDisplayNamesterritoriesUSԱՄՆ
+localeDisplayNamesterritoriesPLԼեհաստան
+localeDisplayNamesterritoriesTGՏոգո
+localeDisplayNamesterritoriesPAՊանամա
+localeDisplayNamesterritoriesDOԴոմինիկյան Հանրապետություն
+localeDisplayNamesterritoriesGLԳրենլանդիա
+localeDisplayNamesterritoriesAIԱնգուիլա
+localeDisplayNamesterritoriesACՀամբարձման կղզի
+localeDisplayNamesterritories419Լատինական Ամերիկա
+localeDisplayNamesterritoriesASԱմերիկյան Սամոա
+localeDisplayNamesterritoriesTTՏրինիդադ և Տոբագո
+localeDisplayNamesterritoriesSMՍան Մարինո
+localeDisplayNamesterritoriesEAՍեուտա և Մելիլյա
+localeDisplayNamesterritoriesINՀնդկաստան
+localeDisplayNamesterritoriesGEՎրաստան
+localeDisplayNamesterritoriesERԷրիթրեա
+localeDisplayNamesterritoriesBZԲելիզ
+localeDisplayNamesterritories030Արևելյան Ասիա
+localeDisplayNamesterritoriesKYԿայմանյան կղզիներ
+localeDisplayNamesterritoriesKNՍենթ Քիտս և Նևիս
+localeDisplayNamesterritoriesSLՍիեռա Լեոնե
+localeDisplayNamesterritoriesSYՍիրիա
+localeDisplayNamesterritoriesGRՀունաստան
+localeDisplayNamesterritoriesBNԲրունեյ
+localeDisplayNamesterritoriesAZԱդրբեջան
+localeDisplayNamesterritoriesLSԼեսոտո
+localeDisplayNamesterritoriesTMԹուրքմենստան
+localeDisplayNamesterritoriesVAՎատիկան
+localeDisplayNamesterritories002Աֆրիկա
+localeDisplayNamesterritoriesALԱլբանիա
+localeDisplayNamesterritoriesKWՔուվեյթ
+localeDisplayNamesterritoriesPYՊարագվայ
+localeDisplayNamesterritoriesVNՎիետնամ
+localeDisplayNamesterritoriesPNՊիտկեռն կղզիներ
+localeDisplayNamesterritoriesMRՄավրիտանիա
+localeDisplayNamesterritoriesNLՆիդեռլանդներ
+localeDisplayNamesterritoriesHNՀոնդուրաս
+localeDisplayNamesterritoriesGBՄԹ
+localeDisplayNamesterritoriesMYՄալայզիա
+localeDisplayNamesterritoriesPGՊապուա Նոր Գվինեա
+localeDisplayNamesterritoriesPEՊերու
+localeDisplayNamesterritoriesCDԿոնգո (ԿԺՀ)
+localeDisplayNamesterritoriesVEՎենեսուելա
+localeDisplayNamesterritoriesIDԻնդոնեզիա
+localeDisplayNamesterritoriesBYԲելառուս
+localeDisplayNamesterritoriesECԷկվադոր
+localeDisplayNamesterritories003Հյուսիսային Ամերիկա
+localeDisplayNamesterritoriesGDԳրենադա
+localeDisplayNamesterritoriesVGԲրիտանական Վիրջինյան կղզիներ
+localeDisplayNamesterritoriesSTՍան Տոմե և Փրինսիպի
+localeDisplayNamesterritoriesBEԲելգիա
+localeDisplayNamesterritoriesJMՃամայկա
+localeDisplayNamesterritoriesBVԲուվե կղզի
+localeDisplayNamesterritoriesMMՄյանմա (Բիրմա)
+localeDisplayNamesterritoriesBHԲահրեյն
+localeDisplayNamesterritories021Հյուսիսային Ամերիկա - ԱՄՆ և Կանադա
+localeDisplayNamesterritoriesAOԱնգոլա
+localeDisplayNamesterritoriesLIԼիխտենշտեյն
+localeDisplayNamesterritoriesYTՄայոտ
+localeDisplayNamesterritoriesCAԿանադա
+localeDisplayNamesterritoriesSCՍեյշելներ
+localeDisplayNamesterritoriesNZՆոր Զելանդիա
+localeDisplayNamesterritoriesIRԻրան
+localeDisplayNamesterritoriesJEՋերսի
+localeDisplayNamesterritoriesDKԴանիա
+localeDisplayNamesterritoriesCNՉինաստան
+localeDisplayNamesterritories018Հարավային Աֆրիկա
+localeDisplayNamesterritoriesICԿանարյան կղզիներ
+localeDisplayNamesterritoriesSDՍուդան
+localeDisplayNamesterritoriesNRՆաուրու
+localeDisplayNamesterritoriesCIՓղոսկրի Ափ
+localeDisplayNamesterritoriesBBԲարբադոս
+localeDisplayNamesterritories029Կարիբներ
+localeDisplayNamesterritoriesAQԱնտարկտիդա
+localeDisplayNamesterritoriesAFԱֆղանստան
+localeDisplayNamesterritoriesTJՏաջիկստան
+localeDisplayNamesterritoriesGYԳայանա
+localeDisplayNamesterritoriesSEՇվեդիա
+localeDisplayNamesterritoriesSGՍինգապուր
+localeDisplayNamesterritoriesHUՀունգարիա
+localeDisplayNamesterritoriesCPՔլիփերթոն կղզի
+localeDisplayNamesterritoriesCHՇվեյցարիա
+localeDisplayNamesterritoriesJOՀորդանան
+localeDisplayNamesterritoriesAMՀայաստան
+localeDisplayNamesterritoriesZMԶամբիա
+localeDisplayNamesterritoriesTAՏրիստան դա Կունյա
+localeDisplayNamesterritoriesCYԿիպրոս
+localeDisplayNamesterritoriesNOՆորվեգիա
+localeDisplayNamesterritories013Կենտրոնական Ամերիկա
+localeDisplayNamesterritories155Արևմտյան Եվրոպա
+localeDisplayNamesterritoriesVCՍենթ Վինսենթ և Գրենադիններ
+localeDisplayNamesterritoriesXKԿոսովո
+localeDisplayNamesterritoriesGAԳաբոն
+localeDisplayNamesterritoriesGIՋիբրալթար
+localeDisplayNamesterritoriesFOՖարերյան կղզիներ
+localeDisplayNamesterritoriesZWԶիմբաբվե
+localeDisplayNamesterritoriesEGԵգիպտոս
+localeDisplayNamesterritoriesSNՍենեգալ
+localeDisplayNamesterritoriesMHՄարշալյան կղզիներ
+localeDisplayNamesterritoriesPKՊակիստան
+localeDisplayNamesterritoriesLAԼաոս
+localeDisplayNamesterritoriesMDՄոլդովա
+localeDisplayNamesterritoriesCOԿոլումբիա
+localeDisplayNamesterritoriesMNՄոնղոլիա
+localeDisplayNamesterritoriesKPՀյուսիսային Կորեա
+localeDisplayNamesterritoriesSSՀարավային Սուդան
+localeDisplayNamesterritoriesMQՄարտինիկա
+localeDisplayNamesterritoriesMVՄալդիվներ
+localeDisplayNamesterritoriesHRԽորվաթիա
+localeDisplayNamesterritoriesGQՀասարակածային Գվինեա
+localeDisplayNamesterritoriesLKՇրի Լանկա
+localeDisplayNamesterritoriesLUԼյուքսեմբուրգ
+localeDisplayNamesterritoriesPWՊալաու
+localeDisplayNamesterritoriesEHԱրևմտյան Սահարա
+localeDisplayNamesterritoriesNFՆորֆոլկ կղզի
+localeDisplayNamesterritories061Պոլինեզիա
+localeDisplayNamesterritories145Արևմտյան Ասիա
+localeDisplayNamesterritoriesATԱվստրիա
+localeDisplayNamesterritoriesYEԵմեն
+localeDisplayNamesterritoriesSKՍլովակիա
+localeDisplayNamesterritoriesSIՍլովենիա
+localeDisplayNamesterritoriesCKԿուկի կղզիներ
+localeDisplayNamesterritoriesKGՂրղզստան
+localeDisplayNamesterritories057Միկրոնեզյան տարածաշրջան
+localeDisplayNamesterritoriesGGԳերնսի
+localeDisplayNamesterritoriesCVԿաբո Վերդե
+localeDisplayNamesterritories150Եվրոպա
+localeDisplayNamesterritoriesFMՄիկրոնեզիա
+localeDisplayNamesterritoriesTVՏուվալու
+localeDisplayNamesterritoriesRUՌուսաստան
+localeDisplayNamesterritoriesCGԿոնգո (Կոնգոյի Հանրապետություն)
+localeDisplayNamesterritoriesGNԳվինեա
+localeDisplayNamesterritoriesCCԿոկոսյան (Քիլինգ) կղզիներ
+localeDisplayNamesterritoriesMAՄարոկկո
+localeDisplayNamesterritoriesVIԱՄՆ Վիրջինյան կղզիներ
+localeDisplayNamesterritoriesPFՖրանսիական Պոլինեզիա
+localeDisplayNamesterritoriesTRԹուրքիա
+localeDisplayNamesterritoriesFKՖոլքլենդյան (Մալվինյան) կղզիներ
+localeDisplayNamesterritoriesBLՍուրբ Բարդուղիմեոս
+localeDisplayNamesterritoriesZAՀարավաֆրիկյան Հանրապետություն
+localeDisplayNamesterritoriesTNԹունիս
+localeDisplayNamesterritoriesRSՍերբիա
+localeDisplayNamesterritoriesRWՌուանդա
+localeDisplayNamesterritoriesIEԻռլանդիա
+localeDisplayNamesterritoriesITԻտալիա
+localeDisplayNamesterritoriesLRԼիբերիա
+localeDisplayNamesterritoriesLTԼիտվա
+localeDisplayNamesterritoriesMFՍեն Մարտեն
+localeDisplayNamesterritories005Հարավային Ամերիկա
+localeDisplayNamesterritoriesMLՄալի
+localeDisplayNamesterritoriesVUՎանուատու
+localeDisplayNamesterritoriesNAՆամիբիա
+localeDisplayNamesterritoriesDGԴիեգո Գարսիա
+localeDisplayNamesterritoriesGUԳուամ
+localeDisplayNamesterritoriesLBԼիբանան
+localeDisplayNamesterritoriesLCՍենթ Լյուսիա
+localeDisplayNamesterritoriesGWԳվինեա-Բիսաու
+localeDisplayNamesterritoriesSXՍինտ Մարտեն
+localeDisplayNamesterritoriesSRՍուրինամ
+localeDisplayNamesterritoriesROՌումինիա
+localeDisplayNamesterritoriesBQԿարիբյան Նիդեռլանդներ
+localeDisplayNamesterritoriesIQԻրաք
+localeDisplayNamesterritoriesTOՏոնգա
+localeDisplayNamesterritories009Օվկիանիա
+localeDisplayNamesterritoriesMTՄալթա
+localeDisplayNamesterritoriesJPՃապոնիա
+localeDisplayNamesterritories154Հյուսիսային Եվրոպա
+localeDisplayNamesterritories019Ամերիկա
+localeDisplayNamesterritoriesSZՍվազիլենդ
+localeDisplayNamesterritories143Կենտրոնական Ասիա
+localeDisplayNamesterritoriesSHՍուրբ Հեղինեի կղզի
+localeDisplayNamesterritoriesMWՄալավի
+localeDisplayNamesterritoriesHMՀերդ կղզի և ՄակԴոնալդի կղզիներ
+localeDisplayNamesterritoriesGPԳվադելուպա
+localeDisplayNamesterritoriesCXՍուրբ Ծննդյան կղզի
+localeDisplayNamesterritoriesNCՆոր Կալեդոնիա
+localeDisplayNamesterritoriesPMՍեն Պիեռ և Միքելոն
+localeDisplayNamesterritoriesNUՆիուե
+localeDisplayNamesterritoriesHTՀայիթի
+localeDisplayNamesterritoriesMSՄոնսեռատ
+localeDisplayNamesterritoriesHKՀոնկոնգ
+localeDisplayNamesterritories014Արևելյան Աֆրիկա
+localeDisplayNamesterritoriesCUԿուբա
+localeDisplayNamesterritoriesCLՉիլի
+localeDisplayNamesterritoriesBAԲոսնիա և Հերցեգովինա
+localeDisplayNamesterritoriesLVԼատվիա
+localeDisplayNamesterritoriesBOԲոլիվիա
+localeDisplayNamesterritoriesWFՈւոլիս և Ֆուտունա
+localeDisplayNamesterritoriesTZՏանզանիա
+localeDisplayNamesterritories035Հարավարևելյան Ասիա
+localeDisplayNamesterritoriesISԻսլանդիա
+localeDisplayNamesterritoriesILԻսրայել
+localeDisplayNamesterritoriesBTԲութան
+localeDisplayNamesterritoriesESԻսպանիա
+localeDisplayNamesterritoriesUMԱրտաքին կղզիներ (ԱՄՆ)
+localeDisplayNamesterritoriesSAՍաուդյան Արաբիա
+localeDisplayNamesterritoriesKMԿոմորյան կղզիներ
+localeDisplayNamesterritoriesSJՍվալբարդ և Յան Մայեն
+localeDisplayNamesterritoriesSOՍոմալի
+localeDisplayNamesterritoriesNIՆիկարագուա
+localeDisplayNamesterritoriesDJՋիբութի
+localeDisplayNamesterritoriesGTԳվատեմալա
+localeDisplayNamesterritories001Աշխարհ
+localeDisplayNamesterritoriesBSԲահամյան կղզիներ
+localeDisplayNamesterritoriesKEՔենիա
+localeDisplayNamesterritoriesKRՀարավային Կորեա
+localeDisplayNamesterritoriesPTՊորտուգալիա
+localeDisplayNamesterritoriesEUԵվրոպական Միություն
+localeDisplayNamesterritories039Հարավային Եվրոպա
+localeDisplayNamesterritoriesUYՈւրուգվայ
+localeDisplayNamesterritoriesMUՄավրիկիոս
+localeDisplayNamesterritories142Ասիա
+localeDisplayNamesterritoriesBIԲուրունդի
+localeDisplayNamesterritoriesUGՈւգանդա
+localeDisplayNamesterritoriesKZՂազախստան
+localeDisplayNamesterritoriesFRՖրանսիա
+localeDisplayNamesterritoriesUZՈւզբեկստան
+localeDisplayNamesterritoriesDEԳերմանիա
+localeDisplayNamesterritoriesCMԿամերուն
+localeDisplayNamesterritoriesBJԲենին
+localeDisplayNamesterritories151Արևելյան Եվրոպա
+localeDisplayNamesmeasurementSystemNamesUKԱնգլիական
+localeDisplayNamesmeasurementSystemNamesmetricՄետրական
+localeDisplayNamesmeasurementSystemNamesUSԱմերիկյան
+localeDisplayNamesvariantsAREVMDAարեւմտահայերէն
+localeDisplayNamesvariantsAREVELAարևելահայերեն
+charactersexemplarCharactersnumbers[ \- , % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersauxiliary[]
+charactersexemplarCharactersindex[Ա Բ Գ Դ Ե Զ Է Ը Թ Ժ Ի Լ Խ Ծ Կ Հ Ձ Ղ Ճ Մ Յ Ն Շ Ո Չ Պ Ջ Ռ Ս Վ Տ Ր Ց Ւ Փ Ք Օ Ֆ]
+charactersexemplarCharacterspunctuation[֊ , ՝ \: ՜ ՞ . « » ՚ ՛ ՟]
+charactersexemplarCharactersstandard[ա բ գ դ ե զ է ը թ ժ ի լ խ ծ կ հ ձ ղ ճ մ յ ն շ ո չ պ ջ ռ ս վ տ ր ց ւ փ ք և օ ֆ]
+charactersellipsisword-final{0} …
+charactersellipsismedial{0}…{1}
+charactersellipsisword-initial… {0}
+charactersellipsisword-medial{0} … {1}
+charactersellipsisfinal{0}…
+charactersellipsisinitial…{0}
+posixmessagesyesstrայո:ա
+posixmessagesnostrոչ:ո

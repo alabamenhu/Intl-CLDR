@@ -1,7 +1,7 @@
 {
   "perl"          : "6.*",
   "name"          : "Intl::CLDR",
-  "version"       : "0.3",
+  "version"       : "0.4.0",
   "api"           : 1,
   "description"   : "A module for all the international stuff you could ever need in Perl 6, via the Unicode CLDR",
   "authors"       : ["Matthew ‘Matéu’ Stephen STUCKWISCH <mateu@softastur.com>"],
@@ -11,6 +11,8 @@
   "build-depends" : [ ],
   "test-depends"  : [ ],
   "resources"     : [
+    "languages/root.data",
+    "languages/en.data",
     "ListFormatting.data",
     "NumberFormatting.data",
     "NumberPatterns.data",
@@ -202,6 +204,10 @@
     "NumberPatterns/zu.data"
   ],
   "provides"      : {
+    "Intl::CLDR"                         : "lib/Intl/CLDR.pm6",
+    "Intl::CLDR::Immutability"                  : "lib/Intl/CLDR/Immutability.pm6",
+    "Intl::CLDR::Classes::Calendar"                  : "lib/Intl/CLDR/Classes/Calendar.pm6",
+    "Intl::CLDR::Classes::Base"                  : "lib/Intl/CLDR/Classes/Base.pm6",
     "Intl::CLDR::Lists"                  : "lib/Intl/CLDR/Lists.pm6",
     "Intl::CLDR::Plurals"                : "lib/Intl/CLDR/Plurals.pm6",
     "Intl::CLDR::Plurals::Classes"       : "lib/Intl/CLDR/Plurals/Classes.pm6",

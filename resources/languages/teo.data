@@ -1,0 +1,419 @@
+calendarsgenericdateFormatsshortstandarddd/MM/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM y G
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericavailableFormatsMMMEdE, MMM d
+calendarsgenericavailableFormatsyMMMMMMMM y
+calendarsgenericavailableFormatsyMMMMMM y
+calendarsgenericavailableFormatsyQQQQQQ y
+calendarsgenericavailableFormatsMEdE, M/d
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsMMMMEdE, MMMM d
+calendarsgenericavailableFormatsyMM/y
+calendarsgenericavailableFormatsyy
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsyQQQQQQQQ y
+calendarsgenericavailableFormatsMdM/d
+calendarsgenericavailableFormatsyMEdE, M/d/y
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsMMMdMMM d
+calendarsgenericavailableFormatsyMMMEdE, MMM d, y
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsMMMMdMMMM d
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregorianmonthsstand-alonenarrow7J
+calendarsgregorianmonthsstand-alonenarrow12P
+calendarsgregorianmonthsstand-alonenarrow11L
+calendarsgregorianmonthsstand-alonenarrow3K
+calendarsgregorianmonthsstand-alonenarrow10T
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow6M
+calendarsgregorianmonthsstand-alonenarrow1R
+calendarsgregorianmonthsstand-alonenarrow4D
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow8P
+calendarsgregorianmonthsstand-alonenarrow2M
+calendarsgregorianmonthsformatwide5Omaruk
+calendarsgregorianmonthsformatwide2Omuk
+calendarsgregorianmonthsformatwide8Opedel
+calendarsgregorianmonthsformatwide9Osokosokoma
+calendarsgregorianmonthsformatwide4Odung’el
+calendarsgregorianmonthsformatwide6Omodok’king’ol
+calendarsgregorianmonthsformatwide1Orara
+calendarsgregorianmonthsformatwide10Otibar
+calendarsgregorianmonthsformatwide12Opoo
+calendarsgregorianmonthsformatwide11Olabor
+calendarsgregorianmonthsformatwide7Ojola
+calendarsgregorianmonthsformatwide3Okwamg’
+calendarsgregorianmonthsformatabbreviated3Kwa
+calendarsgregorianmonthsformatabbreviated12Poo
+calendarsgregorianmonthsformatabbreviated11Lab
+calendarsgregorianmonthsformatabbreviated7Jol
+calendarsgregorianmonthsformatabbreviated10Tib
+calendarsgregorianmonthsformatabbreviated6Mod
+calendarsgregorianmonthsformatabbreviated1Rar
+calendarsgregorianmonthsformatabbreviated4Dun
+calendarsgregorianmonthsformatabbreviated9Sok
+calendarsgregorianmonthsformatabbreviated2Muk
+calendarsgregorianmonthsformatabbreviated8Ped
+calendarsgregorianmonthsformatabbreviated5Mar
+calendarsgregorianavailableFormatsMMMdMMM d
+calendarsgregorianavailableFormatsyMEdE, M/d/y
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMdM/d
+calendarsgregorianavailableFormatsMMMMdMMMM d
+calendarsgregorianavailableFormatsyMMMEdE, MMM d, y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsMMMEdE, MMM d
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsMMMMEdE, MMMM d
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsMEdE, M/d
+calendarsgregorianeraseraAbbr1BK
+calendarsgregorianeraseraAbbr0KK
+calendarsgregorianeraseraNames0Kabla ya Christo
+calendarsgregorianeraseraNames1Baada ya Christo
+calendarsgregoriandayPeriodsformatabbreviatedamTaparachu
+calendarsgregoriandayPeriodsformatabbreviatedpmEbongi
+calendarsgregoriandayPeriodsformatwideamTaparachu
+calendarsgregoriandayPeriodsformatwidepmEbongi
+calendarsgregoriandaysstand-alonenarrowwedU
+calendarsgregoriandaysstand-alonenarrowsunJ
+calendarsgregoriandaysstand-alonenarrowfriK
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-alonenarrowthuU
+calendarsgregoriandaysstand-alonenarrowmonB
+calendarsgregoriandaysstand-alonenarrowtueA
+calendarsgregoriandaysformatwidemonNakaebarasa
+calendarsgregoriandaysformatwidetueNakaare
+calendarsgregoriandaysformatwidefriNakakany
+calendarsgregoriandaysformatwidesatNakasabiti
+calendarsgregoriandaysformatwidethuNakaung’on
+calendarsgregoriandaysformatwidesunNakaejuma
+calendarsgregoriandaysformatwidewedNakauni
+calendarsgregoriandaysformatabbreviatedmonBar
+calendarsgregoriandaysformatabbreviatedtueAar
+calendarsgregoriandaysformatabbreviatedfriKan
+calendarsgregoriandaysformatabbreviatedthuUng
+calendarsgregoriandaysformatabbreviatedsatSab
+calendarsgregoriandaysformatabbreviatedsunJum
+calendarsgregoriandaysformatabbreviatedwedUni
+calendarsgregorianquartersformatabbreviated1K1
+calendarsgregorianquartersformatabbreviated4K4
+calendarsgregorianquartersformatabbreviated2K2
+calendarsgregorianquartersformatabbreviated3K3
+calendarsgregorianquartersformatwide1Akwota abe
+calendarsgregorianquartersformatwide4Akwota Aung’on
+calendarsgregorianquartersformatwide2Akwota Aane
+calendarsgregorianquartersformatwide3Akwota auni
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM y
+calendarsgregoriandateFormatsshortstandarddd/MM/y
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM y
+localeDisplayNameslanguagesdeKijerumani
+localeDisplayNameslanguagesidKiindonesia
+localeDisplayNameslanguagesurKiurdu
+localeDisplayNameslanguagesbnKibangla
+localeDisplayNameslanguagesigKiigbo
+localeDisplayNameslanguagesenKingereza
+localeDisplayNameslanguagesitKiitaliano
+localeDisplayNameslanguagesjvKijava
+localeDisplayNameslanguagesteoKiteso
+localeDisplayNameslanguagesmyKiburma
+localeDisplayNameslanguageszuKizulu
+localeDisplayNameslanguagesplKipolandi
+localeDisplayNameslanguagesroKiromania
+localeDisplayNameslanguagessoKisomali
+localeDisplayNameslanguagesamKiamhari
+localeDisplayNameslanguageskmKikambodia
+localeDisplayNameslanguageshaKihausa
+localeDisplayNameslanguagestrKituruki
+localeDisplayNameslanguagesfaKiajemi
+localeDisplayNameslanguagesneKinepali
+localeDisplayNameslanguagesruKirusi
+localeDisplayNameslanguagescsKichecki
+localeDisplayNameslanguagesjaKijapani
+localeDisplayNameslanguagesyoKiyoruba
+localeDisplayNameslanguagesesKihispania
+localeDisplayNameslanguagessvKiswidi
+localeDisplayNameslanguageszhKichina
+localeDisplayNameslanguageskoKikorea
+localeDisplayNameslanguagestaKitamil
+localeDisplayNameslanguageshiKihindi
+localeDisplayNameslanguagesviKivietinamu
+localeDisplayNameslanguageselKigiriki
+localeDisplayNameslanguagesthKitailandi
+localeDisplayNameslanguagesptKireno
+localeDisplayNameslanguagesbgKibulgaria
+localeDisplayNameslanguagesukKiukrania
+localeDisplayNameslanguageshuKihungari
+localeDisplayNameslanguagesmsKimalesia
+localeDisplayNameslanguagesnlKiholanzi
+localeDisplayNameslanguagesakKiakan
+localeDisplayNameslanguagesfrKifaransa
+localeDisplayNameslanguagespaKipunjabi
+localeDisplayNameslanguagesrwKinyarwanda
+localeDisplayNameslanguagesbeKibelarusi
+localeDisplayNameslanguagesarKiarabu
+localeDisplayNamesterritoriesFMMikronesia
+localeDisplayNamesterritoriesRUUrusi
+localeDisplayNamesterritoriesCGKongo
+localeDisplayNamesterritoriesTVTuvalu
+localeDisplayNamesterritoriesCVKepuvede
+localeDisplayNamesterritoriesFKVisiwa vya Falkland
+localeDisplayNamesterritoriesVIVisiwa vya Virgin vya Marekani
+localeDisplayNamesterritoriesPFPolinesia ya Ufaransa
+localeDisplayNamesterritoriesTRUturuki
+localeDisplayNamesterritoriesGNGine
+localeDisplayNamesterritoriesMAMoroko
+localeDisplayNamesterritoriesATAustria
+localeDisplayNamesterritoriesNFKisiwa cha Norfok
+localeDisplayNamesterritoriesPWPalau
+localeDisplayNamesterritoriesLKSirilanka
+localeDisplayNamesterritoriesHRKorasia
+localeDisplayNamesterritoriesLULasembagi
+localeDisplayNamesterritoriesGQGinekweta
+localeDisplayNamesterritoriesMQMartiniki
+localeDisplayNamesterritoriesMVModivu
+localeDisplayNamesterritoriesKGKirigizistani
+localeDisplayNamesterritoriesCKVisiwa vya Cook
+localeDisplayNamesterritoriesYEYemeni
+localeDisplayNamesterritoriesSISlovenia
+localeDisplayNamesterritoriesSKSlovakia
+localeDisplayNamesterritoriesEGMisri
+localeDisplayNamesterritoriesZWZimbabwe
+localeDisplayNamesterritoriesSNSenegali
+localeDisplayNamesterritoriesVCSantavisenti na Grenadini
+localeDisplayNamesterritoriesGIJibralta
+localeDisplayNamesterritoriesGAGaboni
+localeDisplayNamesterritoriesKPKorea Kaskazini
+localeDisplayNamesterritoriesCOKolombia
+localeDisplayNamesterritoriesMNMongolia
+localeDisplayNamesterritoriesLALaosi
+localeDisplayNamesterritoriesMDMoldova
+localeDisplayNamesterritoriesMHVisiwa vya Marshal
+localeDisplayNamesterritoriesPKPakistani
+localeDisplayNamesterritoriesSEUswidi
+localeDisplayNamesterritoriesGYGuyana
+localeDisplayNamesterritoriesTJTajikistani
+localeDisplayNamesterritoriesCYKuprosi
+localeDisplayNamesterritoriesZMZambia
+localeDisplayNamesterritoriesNONorwe
+localeDisplayNamesterritoriesJOYordani
+localeDisplayNamesterritoriesAMArmenia
+localeDisplayNamesterritoriesHUHungaria
+localeDisplayNamesterritoriesCHUswisi
+localeDisplayNamesterritoriesSGSingapoo
+localeDisplayNamesterritoriesMUMorisi
+localeDisplayNamesterritoriesUYUrugwai
+localeDisplayNamesterritoriesDEUjerumani
+localeDisplayNamesterritoriesFRUfaransa
+localeDisplayNamesterritoriesCMKameruni
+localeDisplayNamesterritoriesBJBenini
+localeDisplayNamesterritoriesUZUzibekistani
+localeDisplayNamesterritoriesKZKazakistani
+localeDisplayNamesterritoriesBIBurundi
+localeDisplayNamesterritoriesUGUganda
+localeDisplayNamesterritoriesKMKomoro
+localeDisplayNamesterritoriesESHispania
+localeDisplayNamesterritoriesSASaudi
+localeDisplayNamesterritoriesILIsraeli
+localeDisplayNamesterritoriesBTButani
+localeDisplayNamesterritoriesPTUreno
+localeDisplayNamesterritoriesKRKorea Kusini
+localeDisplayNamesterritoriesKEKenia
+localeDisplayNamesterritoriesBSBahama
+localeDisplayNamesterritoriesGTGwatemala
+localeDisplayNamesterritoriesDJJibuti
+localeDisplayNamesterritoriesSOSomalia
+localeDisplayNamesterritoriesNINikaragwa
+localeDisplayNamesterritoriesGPGwadelupe
+localeDisplayNamesterritoriesMWMalawi
+localeDisplayNamesterritoriesSHSantahelena
+localeDisplayNamesterritoriesSZUswazi
+localeDisplayNamesterritoriesWFWalis na Futuna
+localeDisplayNamesterritoriesISAislandi
+localeDisplayNamesterritoriesBOBolivia
+localeDisplayNamesterritoriesTZTanzania
+localeDisplayNamesterritoriesHTHaiti
+localeDisplayNamesterritoriesCUKuba
+localeDisplayNamesterritoriesBABosnia na Hezegovina
+localeDisplayNamesterritoriesCLChile
+localeDisplayNamesterritoriesMSMontserrati
+localeDisplayNamesterritoriesLVLativia
+localeDisplayNamesterritoriesNUNiue
+localeDisplayNamesterritoriesNCNyukaledonia
+localeDisplayNamesterritoriesPMSantapieri na Mikeloni
+localeDisplayNamesterritoriesVUVanuatu
+localeDisplayNamesterritoriesLBLebanoni
+localeDisplayNamesterritoriesLCSantalusia
+localeDisplayNamesterritoriesGUGwam
+localeDisplayNamesterritoriesMLMali
+localeDisplayNamesterritoriesNANamibia
+localeDisplayNamesterritoriesLTLitwania
+localeDisplayNamesterritoriesZAAfrika Kusini
+localeDisplayNamesterritoriesLRLiberia
+localeDisplayNamesterritoriesIEAyalandi
+localeDisplayNamesterritoriesITItalia
+localeDisplayNamesterritoriesRWRwanda
+localeDisplayNamesterritoriesTNTunisia
+localeDisplayNamesterritoriesJPJapani
+localeDisplayNamesterritoriesMTMalta
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNamesterritoriesIQIraki
+localeDisplayNamesterritoriesGWGinebisau
+localeDisplayNamesterritoriesSRSurinamu
+localeDisplayNamesterritoriesRORomania
+localeDisplayNamesterritoriesKIKiribati
+localeDisplayNamesterritoriesNPNepali
+localeDisplayNamesterritoriesMCMonako
+localeDisplayNamesterritoriesTCVisiwa vya Turki na Kaiko
+localeDisplayNamesterritoriesAEFalme za Kiarabu
+localeDisplayNamesterritoriesEEEstonia
+localeDisplayNamesterritoriesSBVisiwa vya Solomon
+localeDisplayNamesterritoriesMPVisiwa vya Mariana vya Kaskazini
+localeDisplayNamesterritoriesPRPwetoriko
+localeDisplayNamesterritoriesTHTailandi
+localeDisplayNamesterritoriesKHKambodia
+localeDisplayNamesterritoriesAUAustralia
+localeDisplayNamesterritoriesIOEneo la Uingereza katika Bahari Hindi
+localeDisplayNamesterritoriesNGNijeria
+localeDisplayNamesterritoriesDMDominika
+localeDisplayNamesterritoriesAWAruba
+localeDisplayNamesterritoriesTDChadi
+localeDisplayNamesterritoriesGHGhana
+localeDisplayNamesterritoriesDZAljeria
+localeDisplayNamesterritoriesCRKostarika
+localeDisplayNamesterritoriesMGBukini
+localeDisplayNamesterritoriesBFBukinafaso
+localeDisplayNamesterritoriesMXMeksiko
+localeDisplayNamesterritoriesUAUkraini
+localeDisplayNamesterritoriesCZJamhuri ya Cheki
+localeDisplayNamesterritoriesAGAntigua na Barbuda
+localeDisplayNamesterritoriesMZMsumbiji
+localeDisplayNamesterritoriesBDBangladeshi
+localeDisplayNamesterritoriesBGBulgaria
+localeDisplayNamesterritoriesADAndora
+localeDisplayNamesterritoriesTWTaiwani
+localeDisplayNamesterritoriesBRBrazili
+localeDisplayNamesterritoriesBMBermuda
+localeDisplayNamesterritoriesPSUkingo wa Magharibi na Ukanda wa Gaza wa Palestina
+localeDisplayNamesterritoriesMKMasedonia
+localeDisplayNamesterritoriesFJFiji
+localeDisplayNamesterritoriesOMOmani
+localeDisplayNamesterritoriesQAKatari
+localeDisplayNamesterritoriesSVElsavado
+localeDisplayNamesterritoriesWSSamoa
+localeDisplayNamesterritoriesGFGwiyana ya Ufaransa
+localeDisplayNamesterritoriesLYLibya
+localeDisplayNamesterritoriesCFJamhuri ya Afrika ya Kati
+localeDisplayNamesterritoriesTKTokelau
+localeDisplayNamesterritoriesETUhabeshi
+localeDisplayNamesterritoriesBWBotswana
+localeDisplayNamesterritoriesGMGambia
+localeDisplayNamesterritoriesNENijeri
+localeDisplayNamesterritoriesPHFilipino
+localeDisplayNamesterritoriesFIUfini
+localeDisplayNamesterritoriesTLTimori ya Mashariki
+localeDisplayNamesterritoriesRERiyunioni
+localeDisplayNamesterritoriesIRUajemi
+localeDisplayNamesterritoriesYTMayotte
+localeDisplayNamesterritoriesCAKanada
+localeDisplayNamesterritoriesSCShelisheli
+localeDisplayNamesterritoriesNZNyuzilandi
+localeDisplayNamesterritoriesLILishenteni
+localeDisplayNamesterritoriesAOAngola
+localeDisplayNamesterritoriesBHBahareni
+localeDisplayNamesterritoriesMMMyama
+localeDisplayNamesterritoriesAFAfuganistani
+localeDisplayNamesterritoriesBBBabadosi
+localeDisplayNamesterritoriesNRNauru
+localeDisplayNamesterritoriesCIKodivaa
+localeDisplayNamesterritoriesSDSudani
+localeDisplayNamesterritoriesDKDenmaki
+localeDisplayNamesterritoriesCNChina
+localeDisplayNamesterritoriesCDJamhuri ya Kidemokrasia ya Kongo
+localeDisplayNamesterritoriesMYMalesia
+localeDisplayNamesterritoriesPGPapua
+localeDisplayNamesterritoriesPEPeru
+localeDisplayNamesterritoriesJMJamaika
+localeDisplayNamesterritoriesVGVisiwa vya Virgin vya Uingereza
+localeDisplayNamesterritoriesBEUbelgiji
+localeDisplayNamesterritoriesGDGrenada
+localeDisplayNamesterritoriesSTSao Tome na Principe
+localeDisplayNamesterritoriesIDIndonesia
+localeDisplayNamesterritoriesVEVenezuela
+localeDisplayNamesterritoriesECEkwado
+localeDisplayNamesterritoriesBYBelarusi
+localeDisplayNamesterritoriesLSLesoto
+localeDisplayNamesterritoriesGRUgiriki
+localeDisplayNamesterritoriesAZAzabajani
+localeDisplayNamesterritoriesBNBrunei
+localeDisplayNamesterritoriesSYSiria
+localeDisplayNamesterritoriesSLSiera Leoni
+localeDisplayNamesterritoriesKYVisiwa vya Kayman
+localeDisplayNamesterritoriesKNSantakitzi na Nevis
+localeDisplayNamesterritoriesINIndia
+localeDisplayNamesterritoriesGEJojia
+localeDisplayNamesterritoriesEREritrea
+localeDisplayNamesterritoriesBZBelize
+localeDisplayNamesterritoriesSMSamarino
+localeDisplayNamesterritoriesTTTrinidad na Tobago
+localeDisplayNamesterritoriesVNVietinamu
+localeDisplayNamesterritoriesHNHondurasi
+localeDisplayNamesterritoriesGBUingereza
+localeDisplayNamesterritoriesNLUholanzi
+localeDisplayNamesterritoriesMRMoritania
+localeDisplayNamesterritoriesPNPitkairni
+localeDisplayNamesterritoriesPYParagwai
+localeDisplayNamesterritoriesKWKuwaiti
+localeDisplayNamesterritoriesALAlbania
+localeDisplayNamesterritoriesVAVatikani
+localeDisplayNamesterritoriesTMTurukimenistani
+localeDisplayNamesterritoriesUSMarekani
+localeDisplayNamesterritoriesARAjentina
+localeDisplayNamesterritoriesASSamoa ya Marekani
+localeDisplayNamesterritoriesGLGrinlandi
+localeDisplayNamesterritoriesAIAnguilla
+localeDisplayNamesterritoriesDOJamhuri ya Dominika
+localeDisplayNamesterritoriesPLPolandi
+localeDisplayNamesterritoriesPAPanama
+localeDisplayNamesterritoriesTGTogo
+posixmessagesyesstrEeh:E
+posixmessagesnostrKuju:K
+charactersexemplarCharactersstandard[a b c d e g h i j k l m n o p r s t u v w x y]
+charactersexemplarCharactersindex[A B C D E G H I J K L M N O P R S T U V W X Y]
+charactersexemplarCharactersauxiliary[f q z]
+delimitersquotationEnd”
+delimitersalternateQuotationStart‘
+delimitersalternateQuotationEnd’
+delimitersquotationStart“
+numberscurrenciesUGXstandardUSh
+numberscurrencyFormatslatnstandardstandard¤#,##0.00;(¤#,##0.00)
+numberscurrencyFormatslatnshort100000000000000¤000T
+numberscurrencyFormatslatnshort10000¤00K
+numberscurrencyFormatslatnshort100000000¤000M
+numberscurrencyFormatslatnshort1000000000¤0G
+numberscurrencyFormatslatnshort100000¤000K
+numberscurrencyFormatslatnshort1000¤0K
+numberscurrencyFormatslatnshort10000000¤00M
+numberscurrencyFormatslatnshort1000000¤0M
+numberscurrencyFormatslatnshort100000000000¤000G
+numberscurrencyFormatslatnshort10000000000¤00G
+numberscurrencyFormatslatnshort1000000000000¤0T
+numberscurrencyFormatslatnshort10000000000000¤00T

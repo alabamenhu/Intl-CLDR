@@ -1,0 +1,178 @@
+numberscurrencyFormatslatnstandardstandard¤#,##0.00;(¤#,##0.00)
+numberscurrencyFormatslatnshort100000¤000K
+numberscurrencyFormatslatnshort1000¤0K
+numberscurrencyFormatslatnshort10000000¤00M
+numberscurrencyFormatslatnshort1000000¤0M
+numberscurrencyFormatslatnshort100000000000000¤000T
+numberscurrencyFormatslatnshort10000¤00K
+numberscurrencyFormatslatnshort1000000000¤0G
+numberscurrencyFormatslatnshort100000000¤000M
+numberscurrencyFormatslatnshort10000000000000¤00T
+numberscurrencyFormatslatnshort100000000000¤000G
+numberscurrencyFormatslatnshort1000000000000¤0T
+numberscurrencyFormatslatnshort10000000000¤00G
+numberscurrenciesZMWstandardK
+delimitersquotationStart“
+delimitersalternateQuotationEnd’
+delimitersquotationEnd”
+delimitersalternateQuotationStart‘
+charactersexemplarCharactersstandard[a b c e f g i j k l m n o p s {sh} t u w y]
+charactersexemplarCharactersauxiliary[d h q r v x z]
+charactersexemplarCharactersindex[A B C E F G I J K L M N O P S {SH} T U W Y]
+posixmessagesyesstrEe:E
+posixmessagesnostrAwe:A
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsyMEdE, M/d/y
+calendarsgregorianavailableFormatsMdM/d
+calendarsgregorianavailableFormatsMMMdMMM d
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsyMMMEdE, MMM d, y
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsyMMMdd MMM y
+calendarsgregorianavailableFormatsMMMMdMMMM d
+calendarsgregorianavailableFormatsMMMEdE, MMM d
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsMEdE, M/d
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsMMMMEdE, MMMM d
+calendarsgregorianeraseraAbbr0BC
+calendarsgregorianeraseraAbbr1AD
+calendarsgregorianeraseraNames1After Yesu
+calendarsgregorianeraseraNames0Before Yesu
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow4E
+calendarsgregorianmonthsstand-alonenarrow6J
+calendarsgregorianmonthsstand-alonenarrow1J
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow8O
+calendarsgregorianmonthsstand-alonenarrow7J
+calendarsgregorianmonthsstand-alonenarrow12D
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonenarrow10O
+calendarsgregorianmonthsformatabbreviated10Okt
+calendarsgregorianmonthsformatabbreviated3Mac
+calendarsgregorianmonthsformatabbreviated11Nov
+calendarsgregorianmonthsformatabbreviated12Dis
+calendarsgregorianmonthsformatabbreviated7Jul
+calendarsgregorianmonthsformatabbreviated8Oga
+calendarsgregorianmonthsformatabbreviated2Feb
+calendarsgregorianmonthsformatabbreviated5Mei
+calendarsgregorianmonthsformatabbreviated6Jun
+calendarsgregorianmonthsformatabbreviated4Epr
+calendarsgregorianmonthsformatabbreviated1Jan
+calendarsgregorianmonthsformatabbreviated9Sep
+calendarsgregorianmonthsformatwide10Oktoba
+calendarsgregorianmonthsformatwide7Julai
+calendarsgregorianmonthsformatwide12Disemba
+calendarsgregorianmonthsformatwide11Novemba
+calendarsgregorianmonthsformatwide3Machi
+calendarsgregorianmonthsformatwide5Mei
+calendarsgregorianmonthsformatwide2Februari
+calendarsgregorianmonthsformatwide8Ogasti
+calendarsgregorianmonthsformatwide9Septemba
+calendarsgregorianmonthsformatwide4Epreo
+calendarsgregorianmonthsformatwide6Juni
+calendarsgregorianmonthsformatwide1Januari
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriandaysformatwidesatPachibelushi
+calendarsgregoriandaysformatwidethuPalichine
+calendarsgregoriandaysformatwidefriPalichisano
+calendarsgregoriandaysformatwidetuePalichibuli
+calendarsgregoriandaysformatwidemonPalichimo
+calendarsgregoriandaysformatwidewedPalichitatu
+calendarsgregoriandaysformatwidesunPa Mulungu
+calendarsgregoriandayPeriodsformatabbreviatedpmakasuba
+calendarsgregoriandayPeriodsformatabbreviatedamuluchelo
+calendarsgregoriandayPeriodsformatwidepmakasuba
+calendarsgregoriandayPeriodsformatwideamuluchelo
+calendarsgregoriandateFormatsshortstandarddd/MM/y
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM y
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgenericdateFormatsshortstandarddd/MM/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM y G
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericavailableFormatsMMMMdMMMM d
+calendarsgenericavailableFormatsyMMMdd MMM y
+calendarsgenericavailableFormatsyMMMEdE, MMM d, y
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsMMMdMMM d
+calendarsgenericavailableFormatsyMdd/M/y
+calendarsgenericavailableFormatsMdM/d
+calendarsgenericavailableFormatsyQQQQQQQQ y
+calendarsgenericavailableFormatsyMEdE, M/d/y
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsyy
+calendarsgenericavailableFormatsyMM/y
+calendarsgenericavailableFormatsMMMMEdE, MMMM d
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsyQQQQQQ y
+calendarsgenericavailableFormatsyMMMMMM y
+calendarsgenericavailableFormatsMEdE, M/d
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsyMMMMMMMM y
+calendarsgenericavailableFormatsMMMEdE, MMM d
+localeDisplayNameslanguagesnlIchi Dachi
+localeDisplayNameslanguagesukIchi Ukraniani
+localeDisplayNameslanguagesmsIchi Maleshani
+localeDisplayNameslanguageshuIchi Hangarian
+localeDisplayNameslanguagesbgIchi Bulgariani
+localeDisplayNameslanguagesrwIchi Rwanda
+localeDisplayNameslanguagespaIchi Punjabi
+localeDisplayNameslanguagesakIchi Akan
+localeDisplayNameslanguagesfrIchi Frenchi
+localeDisplayNameslanguagesbeIchi Belarus
+localeDisplayNameslanguagesarIchi Arab
+localeDisplayNameslanguagesviIchi Vietinamu
+localeDisplayNameslanguagestaIchi Tamil
+localeDisplayNameslanguagesbemIchibemba
+localeDisplayNameslanguageshiIchi Hindu
+localeDisplayNameslanguageselIchi Griki
+localeDisplayNameslanguagesthIchi Thai
+localeDisplayNameslanguagesptIchi Potogisi
+localeDisplayNameslanguagestrIchi Takishi
+localeDisplayNameslanguagesneIchi Nepali
+localeDisplayNameslanguagesruIchi Rusiani
+localeDisplayNameslanguageshaIchi Hausa
+localeDisplayNameslanguagesfaIchi Pesia
+localeDisplayNameslanguagescsIchi Cheki
+localeDisplayNameslanguagessvIchi Swideni
+localeDisplayNameslanguageszhIchi Chainisi
+localeDisplayNameslanguagesyoIchi Yoruba
+localeDisplayNameslanguageskoIchi Koriani
+localeDisplayNameslanguagesjaIchi Japanisi
+localeDisplayNameslanguagesesIchi Spanishi
+localeDisplayNameslanguagesjvIchi Javanisi
+localeDisplayNameslanguagesurIchi Urudu
+localeDisplayNameslanguagesmyIchi Burma
+localeDisplayNameslanguagesidIchi Indonesiani
+localeDisplayNameslanguagesitIchi Italiani
+localeDisplayNameslanguagesigIchi Ibo
+localeDisplayNameslanguagesenIchi Sungu
+localeDisplayNameslanguagesdeIchi Jemani
+localeDisplayNameslanguagesbnIchi Bengali
+localeDisplayNameslanguageszuIchi Zulu
+localeDisplayNameslanguagesroIchi Romaniani
+localeDisplayNameslanguagessoIchi Somalia
+localeDisplayNameslanguagesplIchi Polishi
+localeDisplayNameslanguagesamIchi Amhari
+localeDisplayNameslanguageskmIchi Khmer
+localeDisplayNamesterritoriesZMZambia

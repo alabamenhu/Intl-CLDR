@@ -1,0 +1,713 @@
+delimitersquotationStart«
+delimitersalternateQuotationEnd»
+delimitersquotationEnd»
+delimitersalternateQuotationStart«
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdefaultNumberingSystemstandardlatn
+numberscurrenciesEURstandard€
+numberscurrenciesEURnarrow€
+numberscurrenciesBRLnarrowR$
+numberscurrenciesBRLstandardR$
+numberscurrenciesUSDnarrow$
+numberscurrenciesUSDstandard$
+numberscurrenciesGBPstandard£
+numberscurrenciesGBPnarrow£
+numberscurrenciesTJSstandardсом.
+numberscurrenciesRUBstandardRUB
+numberscurrenciesRUBnarrow₽
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesINRnarrow₹
+numberscurrenciesINRstandard₹
+numbersmiscPatternslatnrange{0}–{1}
+numbersmiscPatternslatnatLeast≥{0}
+numberscurrencyFormatslatnstandardstandard#,##0.00 ¤
+numbersscientificFormatslatnstandardstandard#E0
+numberspercentFormatslatnstandardstandard#,##0%
+numberssymbolslatngroup 
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnexponentialE
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnplusSign+
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal,
+numbersminimumGroupingDigits1
+numbersotherNumberingSystemsnativelatn
+calendarsgregoriandateFormatsmediumstandarddd MMM y
+calendarsgregoriandateFormatslongstandarddd MMMM y
+calendarsgregoriandateFormatsshortstandarddd/MM/yy
+calendarsgregoriandateFormatsfullstandardEEEE, dd MMMM y
+calendarsgregorianquartersformatwide2Ч2
+calendarsgregorianquartersformatwide1Ч1
+calendarsgregorianquartersformatwide4Ч4
+calendarsgregorianquartersformatwide3Ч3
+calendarsgregorianquartersformatabbreviated3Ч3
+calendarsgregorianquartersformatabbreviated1Ч1
+calendarsgregorianquartersformatabbreviated4Ч4
+calendarsgregorianquartersformatabbreviated2Ч2
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersstand-aloneabbreviated2Ч2
+calendarsgregorianquartersstand-aloneabbreviated1Ч1
+calendarsgregorianquartersstand-aloneabbreviated4Ч4
+calendarsgregorianquartersstand-aloneabbreviated3Ч3
+calendarsgregorianquartersstand-alonewide3Ч3
+calendarsgregorianquartersstand-alonewide4Ч4
+calendarsgregorianquartersstand-alonewide1Ч1
+calendarsgregorianquartersstand-alonewide2Ч2
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregoriandaysformatnarrowsunЯ
+calendarsgregoriandaysformatnarrowwedЧ
+calendarsgregoriandaysformatnarrowtueС
+calendarsgregoriandaysformatnarrowmonД
+calendarsgregoriandaysformatnarrowsatШ
+calendarsgregoriandaysformatnarrowthuП
+calendarsgregoriandaysformatnarrowfriҶ
+calendarsgregoriandaysformatabbreviatedmonДшб
+calendarsgregoriandaysformatabbreviatedtueСшб
+calendarsgregoriandaysformatabbreviatedfriҶмъ
+calendarsgregoriandaysformatabbreviatedthuПшб
+calendarsgregoriandaysformatabbreviatedsatШнб
+calendarsgregoriandaysformatabbreviatedsunЯшб
+calendarsgregoriandaysformatabbreviatedwedЧшб
+calendarsgregoriandaysformatwidesunЯкшанбе
+calendarsgregoriandaysformatwidewedЧоршанбе
+calendarsgregoriandaysformatwidemonДушанбе
+calendarsgregoriandaysformatwidetueСешанбе
+calendarsgregoriandaysformatwidefriҶумъа
+calendarsgregoriandaysformatwidesatШанбе
+calendarsgregoriandaysformatwidethuПанҷшанбе
+calendarsgregoriandaysformatshortsunЯшб
+calendarsgregoriandaysformatshortwedЧшб
+calendarsgregoriandaysformatshorttueСшб
+calendarsgregoriandaysformatshortmonДшб
+calendarsgregoriandaysformatshortsatШнб
+calendarsgregoriandaysformatshortthuПшб
+calendarsgregoriandaysformatshortfriҶмъ
+calendarsgregoriandaysstand-aloneshortmonДшб
+calendarsgregoriandaysstand-aloneshorttueСшб
+calendarsgregoriandaysstand-aloneshortfriҶмъ
+calendarsgregoriandaysstand-aloneshortsatШнб
+calendarsgregoriandaysstand-aloneshortthuПшб
+calendarsgregoriandaysstand-aloneshortsunЯшб
+calendarsgregoriandaysstand-aloneshortwedЧшб
+calendarsgregoriandaysstand-aloneabbreviatedsunЯшб
+calendarsgregoriandaysstand-aloneabbreviatedwedЧшб
+calendarsgregoriandaysstand-aloneabbreviatedtueСшб
+calendarsgregoriandaysstand-aloneabbreviatedmonДшб
+calendarsgregoriandaysstand-aloneabbreviatedthuПшб
+calendarsgregoriandaysstand-aloneabbreviatedsatШнб
+calendarsgregoriandaysstand-aloneabbreviatedfriҶмъ
+calendarsgregoriandaysstand-alonewidefriҶумъа
+calendarsgregoriandaysstand-alonewidesatШанбе
+calendarsgregoriandaysstand-alonewidethuПанҷшанбе
+calendarsgregoriandaysstand-alonewidemonДушанбе
+calendarsgregoriandaysstand-alonewidetueСешанбе
+calendarsgregoriandaysstand-alonewidewedЧоршанбе
+calendarsgregoriandaysstand-alonewidesunЯкшанбе
+calendarsgregoriandaysstand-alonenarrowfriҶ
+calendarsgregoriandaysstand-alonenarrowthuП
+calendarsgregoriandaysstand-alonenarrowsatШ
+calendarsgregoriandaysstand-alonenarrowmonД
+calendarsgregoriandaysstand-alonenarrowtueС
+calendarsgregoriandaysstand-alonenarrowwedЧ
+calendarsgregoriandaysstand-alonenarrowsunЯ
+calendarsgregoriandayPeriodsformatabbreviatedpmпа. чо.
+calendarsgregoriandayPeriodsformatabbreviatedamпе. чо.
+calendarsgregoriandayPeriodsformatwideamпе. чо.
+calendarsgregoriandayPeriodsformatwidepmпа. чо.
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsyw'ҳафтаи' w, Y
+calendarsgregorianavailableFormatsGyMMMdd MMM, y G
+calendarsgregorianavailableFormatsyMMM-y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsMEdE, dd-MM
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsMMMEdE, d MMM
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsyMMMdd MMM, y
+calendarsgregorianavailableFormatsMMMMW'ҳафтаи' W, MMM
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsyMMMEdE, d MMM, y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsGyMMMEdE, d MMM, y G
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsEdd, E
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsyMEdE, d/M/y
+calendarsgregorianavailableFormatsMddd-MM
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianmonthsstand-alonenarrow10О
+calendarsgregorianmonthsstand-alonenarrow3М
+calendarsgregorianmonthsstand-alonenarrow11Н
+calendarsgregorianmonthsstand-alonenarrow12Д
+calendarsgregorianmonthsstand-alonenarrow7И
+calendarsgregorianmonthsstand-alonenarrow2Ф
+calendarsgregorianmonthsstand-alonenarrow8А
+calendarsgregorianmonthsstand-alonenarrow5М
+calendarsgregorianmonthsstand-alonenarrow4А
+calendarsgregorianmonthsstand-alonenarrow6И
+calendarsgregorianmonthsstand-alonenarrow1Я
+calendarsgregorianmonthsstand-alonenarrow9С
+calendarsgregorianmonthsstand-aloneabbreviated1Янв
+calendarsgregorianmonthsstand-aloneabbreviated6Июн
+calendarsgregorianmonthsstand-aloneabbreviated4Апр
+calendarsgregorianmonthsstand-aloneabbreviated9Сен
+calendarsgregorianmonthsstand-aloneabbreviated2Фев
+calendarsgregorianmonthsstand-aloneabbreviated8Авг
+calendarsgregorianmonthsstand-aloneabbreviated5Май
+calendarsgregorianmonthsstand-aloneabbreviated3Мар
+calendarsgregorianmonthsstand-aloneabbreviated12Дек
+calendarsgregorianmonthsstand-aloneabbreviated11Ноя
+calendarsgregorianmonthsstand-aloneabbreviated7Июл
+calendarsgregorianmonthsstand-aloneabbreviated10Окт
+calendarsgregorianmonthsstand-alonewide5Май
+calendarsgregorianmonthsstand-alonewide8Август
+calendarsgregorianmonthsstand-alonewide2Феврал
+calendarsgregorianmonthsstand-alonewide9Сентябр
+calendarsgregorianmonthsstand-alonewide1Январ
+calendarsgregorianmonthsstand-alonewide6Июн
+calendarsgregorianmonthsstand-alonewide4Апрел
+calendarsgregorianmonthsstand-alonewide10Октябр
+calendarsgregorianmonthsstand-alonewide12Декабр
+calendarsgregorianmonthsstand-alonewide11Ноябр
+calendarsgregorianmonthsstand-alonewide7Июл
+calendarsgregorianmonthsstand-alonewide3Март
+calendarsgregorianmonthsformatwide2Феврал
+calendarsgregorianmonthsformatwide8Август
+calendarsgregorianmonthsformatwide5Май
+calendarsgregorianmonthsformatwide6Июн
+calendarsgregorianmonthsformatwide4Апрел
+calendarsgregorianmonthsformatwide1Январ
+calendarsgregorianmonthsformatwide9Сентябр
+calendarsgregorianmonthsformatwide10Октябр
+calendarsgregorianmonthsformatwide3Март
+calendarsgregorianmonthsformatwide12Декабр
+calendarsgregorianmonthsformatwide7Июл
+calendarsgregorianmonthsformatwide11Ноябр
+calendarsgregorianmonthsformatabbreviated3Мар
+calendarsgregorianmonthsformatabbreviated7Июл
+calendarsgregorianmonthsformatabbreviated12Дек
+calendarsgregorianmonthsformatabbreviated11Ноя
+calendarsgregorianmonthsformatabbreviated10Окт
+calendarsgregorianmonthsformatabbreviated4Апр
+calendarsgregorianmonthsformatabbreviated6Июн
+calendarsgregorianmonthsformatabbreviated1Янв
+calendarsgregorianmonthsformatabbreviated9Сен
+calendarsgregorianmonthsformatabbreviated8Авг
+calendarsgregorianmonthsformatabbreviated2Фев
+calendarsgregorianmonthsformatabbreviated5Май
+calendarsgregorianmonthsformatnarrow10О
+calendarsgregorianmonthsformatnarrow12Д
+calendarsgregorianmonthsformatnarrow7И
+calendarsgregorianmonthsformatnarrow11Н
+calendarsgregorianmonthsformatnarrow3М
+calendarsgregorianmonthsformatnarrow5М
+calendarsgregorianmonthsformatnarrow8А
+calendarsgregorianmonthsformatnarrow2Ф
+calendarsgregorianmonthsformatnarrow9С
+calendarsgregorianmonthsformatnarrow6И
+calendarsgregorianmonthsformatnarrow1Я
+calendarsgregorianmonthsformatnarrow4А
+calendarsgregorianeraseraAbbr1CE
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregorianeraseraNames1CE
+calendarsgregorianeraseraNames0BCE
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsyyyyMdd-MM-y GGGGG
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdd, E
+calendarsgenericavailableFormatsyyyyMMM-y GGGGG
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMMMMMMMM y G
+calendarsgenericavailableFormatsMddd-MM
+calendarsgenericavailableFormatsyyyyMEdE, d-MM-y GGGGG
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsGyMMMdd MMM y G
+calendarsgenericavailableFormatsyyyyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsMEdE, dd-MM
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsyyyyMMMdd MMM y G
+calendarsgenericavailableFormatsMMMEdE, d MMM
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericdateFormatslongstandarddd MMMM y G
+calendarsgenericdateFormatsmediumstandarddd MMM y G
+calendarsgenericdateFormatsfullstandardEEEE, dd MMMM y G
+calendarsgenericdateFormatsshortstandarddd/MM/yy GGGGG
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+localeDisplayNamesmeasurementSystemNamesUSИМА
+localeDisplayNamesmeasurementSystemNamesmetricМетрӣ
+localeDisplayNamesmeasurementSystemNamesUKБК
+localeDisplayNamesterritoriesGFГвианаи Фаронса
+localeDisplayNamesterritoriesWSСамоа
+localeDisplayNamesterritoriesTKТокелау
+localeDisplayNamesterritoriesCFҶумҳурии Африқои Марказӣ
+localeDisplayNamesterritoriesLYЛибия
+localeDisplayNamesterritoriesZZМинтақаи номаълум
+localeDisplayNamesterritoriesETЭфиопия
+localeDisplayNamesterritoriesGSҶорҷияи Ҷанубӣ ва Ҷазираҳои Сандвич
+localeDisplayNamesterritoriesBWБотсвана
+localeDisplayNamesterritoriesPHФилиппин
+localeDisplayNamesterritoriesNEНигер
+localeDisplayNamesterritoriesGMГамбия
+localeDisplayNamesterritoriesFIФинляндия
+localeDisplayNamesterritoriesMOМакао
+localeDisplayNamesterritoriesREРеюнион
+localeDisplayNamesterritoriesTLТимор-Лесте
+localeDisplayNamesterritoriesBDБангладеш
+localeDisplayNamesterritoriesTWТайван
+localeDisplayNamesterritoriesCWКюрасао
+localeDisplayNamesterritoriesADАндорра
+localeDisplayNamesterritoriesBGБулғория
+localeDisplayNamesterritoriesBMБермуда
+localeDisplayNamesterritoriesBRБразилия
+localeDisplayNamesterritoriesMKМақдун (ҶСЮМ)
+localeDisplayNamesterritoriesOMУмон
+localeDisplayNamesterritoriesFJФиҷи
+localeDisplayNamesterritoriesQAҚатар
+localeDisplayNamesterritoriesSVЭл-Салвадор
+localeDisplayNamesterritoriesNGНигерия
+localeDisplayNamesterritoriesIOҚаламрави Британия дар уқёнуси Ҳинд
+localeDisplayNamesterritoriesDMДоминика
+localeDisplayNamesterritoriesTFМинтақаҳои Ҷанубии Фаронса
+localeDisplayNamesterritoriesTDЧад
+localeDisplayNamesterritoriesAWАруба
+localeDisplayNamesterritoriesUAУкраина
+localeDisplayNamesterritoriesGHГана
+localeDisplayNamesterritoriesDZАлҷазоир
+localeDisplayNamesterritoriesCRКоста-Рика
+localeDisplayNamesterritoriesMGМадагаскар
+localeDisplayNamesterritoriesMXМексика
+localeDisplayNamesterritoriesBFБуркина-Фасо
+localeDisplayNamesterritoriesAGАнтигуа ва Барбуда
+localeDisplayNamesterritoriesCZҶумҳурии Чех
+localeDisplayNamesterritoriesMZМозамбик
+localeDisplayNamesterritoriesTCҶазираҳои Теркс ва Кайкос
+localeDisplayNamesterritoriesKIКирибати
+localeDisplayNamesterritoriesNPНепал
+localeDisplayNamesterritoriesMCМонако
+localeDisplayNamesterritoriesEEЭстония
+localeDisplayNamesterritoriesSBҶазираҳои Соломон
+localeDisplayNamesterritoriesAEАморатҳои Муттаҳидаи Араб
+localeDisplayNamesterritoriesTHТаиланд
+localeDisplayNamesterritoriesMEЧерногория
+localeDisplayNamesterritoriesPRПуэрто-Рико
+localeDisplayNamesterritoriesMPҶазираҳои Марианаи Шимолӣ
+localeDisplayNamesterritoriesIMҶазираи Мэн
+localeDisplayNamesterritoriesAXҶазираҳои Аланд
+localeDisplayNamesterritoriesAUАвстралия
+localeDisplayNamesterritoriesKHКамбоҷа
+localeDisplayNamesterritoriesUSИМ
+localeDisplayNamesterritoriesARАргентина
+localeDisplayNamesterritoriesASСамоаи Америка
+localeDisplayNamesterritoriesTGТого
+localeDisplayNamesterritoriesDOҶумҳурии Доминикан
+localeDisplayNamesterritoriesPLЛаҳистон
+localeDisplayNamesterritoriesPAПанама
+localeDisplayNamesterritoriesGLГренландия
+localeDisplayNamesterritoriesACАсунсон
+localeDisplayNamesterritoriesAIАнгилия
+localeDisplayNamesterritoriesGRЮнон
+localeDisplayNamesterritoriesSYСурия
+localeDisplayNamesterritoriesSLСиерра-Леоне
+localeDisplayNamesterritoriesAZОзарбойҷон
+localeDisplayNamesterritoriesBNБруней
+localeDisplayNamesterritoriesLSЛесото
+localeDisplayNamesterritoriesTTТринидад ва Тобаго
+localeDisplayNamesterritoriesSMСан-Марино
+localeDisplayNamesterritoriesINҲиндустон
+localeDisplayNamesterritoriesGEГурҷистон
+localeDisplayNamesterritoriesERЭритрея
+localeDisplayNamesterritoriesBZБелиз
+localeDisplayNamesterritoriesKYҶазираҳои Кайман
+localeDisplayNamesterritoriesKNСент-Китс ва Невис
+localeDisplayNamesterritoriesPYПарагвай
+localeDisplayNamesterritoriesVNВетнам
+localeDisplayNamesterritoriesPNҶазираҳои Питкейрн
+localeDisplayNamesterritoriesHNГондурас
+localeDisplayNamesterritoriesNLНидерландия
+localeDisplayNamesterritoriesGBШоҳигарии Муттаҳида
+localeDisplayNamesterritoriesMRМавритания
+localeDisplayNamesterritoriesKWҚувайт
+localeDisplayNamesterritoriesVAШаҳри Вотикон
+localeDisplayNamesterritoriesTMТуркманистон
+localeDisplayNamesterritoriesALАлбания
+localeDisplayNamesterritoriesPGПапуа Гвинеяи Нав
+localeDisplayNamesterritoriesPEПеру
+localeDisplayNamesterritoriesMYМалайзия
+localeDisplayNamesterritoriesCDКонго (ҶДК)
+localeDisplayNamesterritoriesGDГренада
+localeDisplayNamesterritoriesVGҶазираҳои Виргини Британия
+localeDisplayNamesterritoriesSTСан Томе ва Принсипи
+localeDisplayNamesterritoriesBEБелгия
+localeDisplayNamesterritoriesJMЯмайка
+localeDisplayNamesterritoriesIDИндонезия
+localeDisplayNamesterritoriesVEВенесуэла
+localeDisplayNamesterritoriesECЭквадор
+localeDisplayNamesterritoriesBYБелорус
+localeDisplayNamesterritoriesYTМайотта
+localeDisplayNamesterritoriesNZЗеландияи Нав
+localeDisplayNamesterritoriesSCСейшел
+localeDisplayNamesterritoriesIRЭрон
+localeDisplayNamesterritoriesCAКанада
+localeDisplayNamesterritoriesJEҶерси
+localeDisplayNamesterritoriesAOАнгола
+localeDisplayNamesterritoriesBHБаҳрайн
+localeDisplayNamesterritoriesBVҶазираи Буве
+localeDisplayNamesterritoriesLIЛихтенштейн
+localeDisplayNamesterritoriesMMМянма
+localeDisplayNamesterritoriesSDСудон
+localeDisplayNamesterritoriesNRНауру
+localeDisplayNamesterritoriesCIКот-д’Ивуар
+localeDisplayNamesterritoriesAFАфғонистон
+localeDisplayNamesterritoriesAQАнтарктида
+localeDisplayNamesterritoriesBBБарбадос
+localeDisplayNamesterritoriesDKДания
+localeDisplayNamesterritoriesCNХитой
+localeDisplayNamesterritoriesSEШветсия
+localeDisplayNamesterritoriesGYГайана
+localeDisplayNamesterritoriesTJТоҷикистон
+localeDisplayNamesterritoriesTAТристан-да-Куня
+localeDisplayNamesterritoriesZMЗамбия
+localeDisplayNamesterritoriesCYКипр
+localeDisplayNamesterritoriesNOНорвегия
+localeDisplayNamesterritoriesHUМаҷористон
+localeDisplayNamesterritoriesSGСингапур
+localeDisplayNamesterritoriesCHШвейтсария
+localeDisplayNamesterritoriesJOУрдун
+localeDisplayNamesterritoriesAMАрманистон
+localeDisplayNamesterritoriesSNСенегал
+localeDisplayNamesterritoriesZWЗимбабве
+localeDisplayNamesterritoriesEGМиср
+localeDisplayNamesterritoriesXKКосово
+localeDisplayNamesterritoriesGIГибралтар
+localeDisplayNamesterritoriesVCСент-Винсент ва Гренадина
+localeDisplayNamesterritoriesGAГабон
+localeDisplayNamesterritoriesFOҶазираҳои Фарер
+localeDisplayNamesterritoriesKPКореяи Шимолӣ
+localeDisplayNamesterritoriesCOКолумбия
+localeDisplayNamesterritoriesMNМуғулистон
+localeDisplayNamesterritoriesLAЛаос
+localeDisplayNamesterritoriesPKПокистон
+localeDisplayNamesterritoriesMDМолдова
+localeDisplayNamesterritoriesMHҶазираҳои Маршалл
+localeDisplayNamesterritoriesPWПалау
+localeDisplayNamesterritoriesATАвстрия
+localeDisplayNamesterritoriesNFҶазираи Норфолк
+localeDisplayNamesterritoriesSSСудони Ҷанубӣ
+localeDisplayNamesterritoriesHRХорватия
+localeDisplayNamesterritoriesGQГвинеяи Экваторӣ
+localeDisplayNamesterritoriesLKШри-Ланка
+localeDisplayNamesterritoriesMQМартиника
+localeDisplayNamesterritoriesLUЛюксембург
+localeDisplayNamesterritoriesMVМалдив
+localeDisplayNamesterritoriesKGҚирғизистон
+localeDisplayNamesterritoriesCKҶазираҳои Кук
+localeDisplayNamesterritoriesYEЯман
+localeDisplayNamesterritoriesSKСловакия
+localeDisplayNamesterritoriesSIСловения
+localeDisplayNamesterritoriesFMШтатҳои Федеративии Микронезия
+localeDisplayNamesterritoriesTVТувалу
+localeDisplayNamesterritoriesRUРусия
+localeDisplayNamesterritoriesCGКонго
+localeDisplayNamesterritoriesGGГернси
+localeDisplayNamesterritoriesCVКабо-Верде
+localeDisplayNamesterritoriesVIҶазираҳои Виргини ИМА
+localeDisplayNamesterritoriesTRТуркия
+localeDisplayNamesterritoriesPFПолинезияи Фаронса
+localeDisplayNamesterritoriesFKҶазираҳои Фолкленд
+localeDisplayNamesterritoriesBLСент-Бартелми
+localeDisplayNamesterritoriesGNГвинея
+localeDisplayNamesterritoriesCCҶазираҳои Кокос (Килинг)
+localeDisplayNamesterritoriesMAМарокаш
+localeDisplayNamesterritoriesVUВануату
+localeDisplayNamesterritoriesGUГуам
+localeDisplayNamesterritoriesLBЛубнон
+localeDisplayNamesterritoriesLCСент-Люсия
+localeDisplayNamesterritoriesMLМали
+localeDisplayNamesterritoriesNAНамибия
+localeDisplayNamesterritoriesZAАфрикаи Ҷанубӣ
+localeDisplayNamesterritoriesRSСербия
+localeDisplayNamesterritoriesTNТунис
+localeDisplayNamesterritoriesRWРуанда
+localeDisplayNamesterritoriesIEИрландия
+localeDisplayNamesterritoriesITИталия
+localeDisplayNamesterritoriesLTЛитва
+localeDisplayNamesterritoriesMFҶазираи Сент-Мартин
+localeDisplayNamesterritoriesLRЛиберия
+localeDisplayNamesterritoriesTOТонга
+localeDisplayNamesterritoriesMTМалта
+localeDisplayNamesterritoriesJPЯпония
+localeDisplayNamesterritoriesSRСуринам
+localeDisplayNamesterritoriesSXСинт-Маартен
+localeDisplayNamesterritoriesGWГвинея-Бисау
+localeDisplayNamesterritoriesROРуминия
+localeDisplayNamesterritoriesIQИроқ
+localeDisplayNamesterritoriesSHСент Елена
+localeDisplayNamesterritoriesHMҶазираи Ҳерд ва Ҷазираҳои Макдоналд
+localeDisplayNamesterritoriesCXҶазираи Крисмас
+localeDisplayNamesterritoriesGPГваделупа
+localeDisplayNamesterritoriesMWМалави
+localeDisplayNamesterritoriesSZСвазиленд
+localeDisplayNamesterritoriesWFУоллис ва Футуна
+localeDisplayNamesterritoriesTZТанзания
+localeDisplayNamesterritoriesISИсландия
+localeDisplayNamesterritoriesBOБоливия
+localeDisplayNamesterritoriesPMСент-Пер ва Микелон
+localeDisplayNamesterritoriesHTГаити
+localeDisplayNamesterritoriesNUНиуэ
+localeDisplayNamesterritoriesNCКаледонияи Нав
+localeDisplayNamesterritoriesHKҲонконг
+localeDisplayNamesterritoriesCUКуба
+localeDisplayNamesterritoriesCLЧили
+localeDisplayNamesterritoriesBAБосния ва Ҳерсеговина
+localeDisplayNamesterritoriesLVЛатвия
+localeDisplayNamesterritoriesMSМонтсеррат
+localeDisplayNamesterritoriesUMҶазираҳои Хурди Дурдасти ИМА
+localeDisplayNamesterritoriesESИспания
+localeDisplayNamesterritoriesSAАрабистони Саудӣ
+localeDisplayNamesterritoriesKMКомор
+localeDisplayNamesterritoriesILИсроил
+localeDisplayNamesterritoriesBTБутон
+localeDisplayNamesterritoriesPTПортугалия
+localeDisplayNamesterritoriesSJШпитсберген ва Ян Майен
+localeDisplayNamesterritoriesSOСомалӣ
+localeDisplayNamesterritoriesGTГватемала
+localeDisplayNamesterritoriesNIНикарагуа
+localeDisplayNamesterritoriesBSБагам
+localeDisplayNamesterritoriesDJҶибути
+localeDisplayNamesterritoriesKEКения
+localeDisplayNamesterritoriesMUМаврикий
+localeDisplayNamesterritoriesUYУругвай
+localeDisplayNamesterritoriesUZӮзбекистон
+localeDisplayNamesterritoriesFRФрансия
+localeDisplayNamesterritoriesDEГермания
+localeDisplayNamesterritoriesCMКамерун
+localeDisplayNamesterritoriesBJБенин
+localeDisplayNamesterritoriesBIБурунди
+localeDisplayNamesterritoriesUGУганда
+localeDisplayNamesterritoriesKZҚазоқистон
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslanguagesmrмаратҳӣ
+localeDisplayNameslanguagesuzӯзбекӣ
+localeDisplayNameslanguagesomоромо
+localeDisplayNameslanguagesptпортугалӣ
+localeDisplayNameslanguageshtгаитии креолӣ
+localeDisplayNameslanguagesttтоторӣ
+localeDisplayNameslanguagesksкашмирӣ
+localeDisplayNameslanguagesbrбретонӣ
+localeDisplayNameslanguagesthтайӣ
+localeDisplayNameslanguagesgnгуаранӣ
+localeDisplayNameslanguageselюнонӣ
+localeDisplayNameslanguageshzҳереро
+localeDisplayNameslanguagescebсебуано
+localeDisplayNameslanguagesloлаосӣ
+localeDisplayNameslanguagesocокситанӣ
+localeDisplayNameslanguageses_419испанӣ (Америкаи Лотинӣ)
+localeDisplayNameslanguagesorодия
+localeDisplayNameslanguagesiaБайни забонӣ
+localeDisplayNameslanguagesviветнамӣ
+localeDisplayNameslanguageschrчерокӣ
+localeDisplayNameslanguagesibbибибио
+localeDisplayNameslanguageskaгурҷӣ
+localeDisplayNameslanguagesguгуҷаротӣ
+localeDisplayNameslanguagesgaирландӣ
+localeDisplayNameslanguagesafафрикаанс
+localeDisplayNameslanguageshsbсербии болоӣ
+localeDisplayNameslanguageshawҳавайӣ
+localeDisplayNameslanguagessqалбанӣ
+localeDisplayNameslanguagestaтамилӣ
+localeDisplayNameslanguagesskсловакӣ
+localeDisplayNameslanguageshiҳиндӣ
+localeDisplayNameslanguageseoэсперанто
+localeDisplayNameslanguagesbemбемба
+localeDisplayNameslanguagesisисландӣ
+localeDisplayNameslanguagesiuинуктитутӣ
+localeDisplayNameslanguagesarарабӣ
+localeDisplayNameslanguagesseсамии шимолӣ
+localeDisplayNameslanguagestiтигриня
+localeDisplayNameslanguageshrхорватӣ
+localeDisplayNameslanguagesmkмақдунӣ
+localeDisplayNameslanguagesbanбалинӣ
+localeDisplayNameslanguagesmniманипурӣ
+localeDisplayNameslanguagesmlмалаяламӣ
+localeDisplayNameslanguagestoтонганӣ
+localeDisplayNameslanguagessahсаха
+localeDisplayNameslanguagesfrфрансузӣ
+localeDisplayNameslanguagesfyфризии ғарбӣ
+localeDisplayNameslanguagesfoфарерӣ
+localeDisplayNameslanguagesbeбелорусӣ
+localeDisplayNameslanguagespaпанҷобӣ
+localeDisplayNameslanguagestgтоҷикӣ
+localeDisplayNameslanguagesrwкиняруанда
+localeDisplayNameslanguageslbлюксембургӣ
+localeDisplayNameslanguagesbsбосниягӣ
+localeDisplayNameslanguagesniuниуэӣ
+localeDisplayNameslanguagesmsмалайӣ
+localeDisplayNameslanguageshuмаҷорӣ
+localeDisplayNameslanguagessdсиндӣ
+localeDisplayNameslanguagesheибронӣ
+localeDisplayNameslanguagesnlголландӣ
+localeDisplayNameslanguagesukукраинӣ
+localeDisplayNameslanguageskuкурдӣ
+localeDisplayNameslanguageskkқазоқӣ
+localeDisplayNameslanguagesbgбулғорӣ
+localeDisplayNameslanguagesfiфинӣ
+localeDisplayNameslanguagesdzдзонгха
+localeDisplayNameslanguageskokконканӣ
+localeDisplayNameslanguageskyқирғизӣ
+localeDisplayNameslanguageslvлатишӣ
+localeDisplayNameslanguagescoкорсиканӣ
+localeDisplayNameslanguagesyiидиш
+localeDisplayNameslanguagesmenменде
+localeDisplayNameslanguageskmкхмерӣ
+localeDisplayNameslanguagescyваллӣ
+localeDisplayNameslanguageswoволоф
+localeDisplayNameslanguagessmaсамии ҷанубӣ
+localeDisplayNameslanguagessmjлуле самӣ
+localeDisplayNameslanguagessiсингалӣ
+localeDisplayNameslanguagesgdшотландии гэлӣ
+localeDisplayNameslanguagesbaбошқирдӣ
+localeDisplayNameslanguagesmiмаорӣ
+localeDisplayNameslanguagesroруминӣ
+localeDisplayNameslanguagesveвенда
+localeDisplayNameslanguageszuЗулу
+localeDisplayNameslanguagesteтелугу
+localeDisplayNameslanguagessoсомалӣ
+localeDisplayNameslanguagesdsbсербии поёнӣ
+localeDisplayNameslanguagesamамҳарӣ
+localeDisplayNameslanguagesplлаҳистонӣ
+localeDisplayNameslanguagesmohмоҳок
+localeDisplayNameslanguagesckbкурдии марказӣ
+localeDisplayNameslanguagesffфулаҳ
+localeDisplayNameslanguagesen_USанглисӣ (ИМ)
+localeDisplayNameslanguagesbnбинғолӣ
+localeDisplayNameslanguagesitиталиявӣ
+localeDisplayNameslanguagesnyнянҷа
+localeDisplayNameslanguageszh_Hansхитоии осонфаҳм
+localeDisplayNameslanguageshyарманӣ
+localeDisplayNameslanguagesenанглисӣ
+localeDisplayNameslanguagesdaданиягӣ
+localeDisplayNameslanguagesigигбо
+localeDisplayNameslanguageschmмарӣ
+localeDisplayNameslanguagesjvҶаванизӣ
+localeDisplayNameslanguagesknканнада
+localeDisplayNameslanguageskruкурукс
+localeDisplayNameslanguagesmyбирманӣ
+localeDisplayNameslanguagestzmтамазайти атласи марказӣ
+localeDisplayNameslanguagesurурду
+localeDisplayNameslanguagesglгалисиягӣ
+localeDisplayNameslanguagessmnинари самӣ
+localeDisplayNameslanguagesidиндонезӣ
+localeDisplayNameslanguagesmtмалтӣ
+localeDisplayNameslanguagesdeнемисӣ
+localeDisplayNameslanguagesetэстонӣ
+localeDisplayNameslanguagesltлитвонӣ
+localeDisplayNameslanguageseuбаскӣ
+localeDisplayNameslanguageszhхитоӣ
+localeDisplayNameslanguagesdvдивеҳӣ
+localeDisplayNameslanguagescaкаталонӣ
+localeDisplayNameslanguageslaлотинӣ
+localeDisplayNameslanguageskoкореягӣ
+localeDisplayNameslanguagesmnмуғулӣ
+localeDisplayNameslanguagesquкечуа
+localeDisplayNameslanguagessaсанскрит
+localeDisplayNameslanguagesfilфилиппинӣ
+localeDisplayNameslanguagesesиспанӣ
+localeDisplayNameslanguagesen_GBанглисӣ (ШМ)
+localeDisplayNameslanguageshilҳилигайнон
+localeDisplayNameslanguagesyoйоруба
+localeDisplayNameslanguagestkтуркманӣ
+localeDisplayNameslanguagessvшведӣ
+localeDisplayNameslanguagesjaяпонӣ
+localeDisplayNameslanguagespapпапиаменто
+localeDisplayNameslanguageszh_Hantхитоии анъанавӣ
+localeDisplayNameslanguagessrсербӣ
+localeDisplayNameslanguagesrmретороманӣ
+localeDisplayNameslanguagesslсловенӣ
+localeDisplayNameslanguagesruрусӣ
+localeDisplayNameslanguagessatсанталӣ
+localeDisplayNameslanguagessyrсуриёнӣ
+localeDisplayNameslanguagescsчехӣ
+localeDisplayNameslanguagesfaфорсӣ
+localeDisplayNameslanguagesasассомӣ
+localeDisplayNameslanguagesneнепалӣ
+localeDisplayNameslanguagesnoнорвегӣ
+localeDisplayNameslanguagestrтуркӣ
+localeDisplayNameslanguagesboтибетӣ
+localeDisplayNameslanguagessmsсколти самӣ
+localeDisplayNameslanguageshaҳауса
+localeDisplayNameslanguagesundзабони номаълум
+localeDisplayNameslanguagesugӯйғурӣ
+localeDisplayNameslanguagesazозарбойҷонӣ
+localeDisplayNameslanguagesmgмалагасӣ
+localeDisplayNameslanguagespsпушту
+localeDisplayNameslanguageskrканурӣ
+localeDisplayNameslanguagesqucкиче
+localeDisplayNamesscriptsLatnЛотинӣ
+localeDisplayNamesscriptsCyrlКириллӣ
+localeDisplayNamesscriptsArabАрабӣ
+localeDisplayNamesscriptsHantХани анъанавӣ
+localeDisplayNamesscriptsZzzzСкрипти номаълум
+localeDisplayNamesscriptsZxxxНонавишта
+localeDisplayNamesscriptsHansХани осонфаҳм
+localeDisplayNamescodePatternsterritory{0}
+localeDisplayNamescodePatternslanguage{0}
+localeDisplayNamescodePatternsscript{0}
+charactersexemplarCharactersstandard[а б в г ғ д е ё ж з и ӣ й к қ л м н о п р с т у ӯ ф х ҳ ч ҷ ш ъ э ю я]
+charactersexemplarCharactersauxiliary[ц щ ы ь]
+charactersexemplarCharactersindex[А Б В Г Ғ Д Е Ж З И Й К Қ Л М Н О П Р С Т У Ф Х Ҳ Ч Ҷ Ш Ъ Э Ю Я]
+charactersexemplarCharactersnumbers[ \- , % ‰ + 0 1 2 3 4 5 6 7 8 9]
+posixmessagesnostrне:н
+posixmessagesyesstrҳа:ҳ
+listPatternsstandardstart{0}, {1}
+listPatternsstandardend{0}, {1}
+listPatternsstandard2{0}, {1}
+listPatternsstandardmiddle{0}, {1}

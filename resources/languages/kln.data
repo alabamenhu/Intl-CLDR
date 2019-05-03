@@ -1,0 +1,419 @@
+delimitersquotationStart“
+delimitersalternateQuotationEnd’
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+numberscurrenciesKESstandardKsh
+numberscurrencyFormatslatnshort100000000000¤000G
+numberscurrencyFormatslatnshort1000000000000¤0T
+numberscurrencyFormatslatnshort10000000000¤00G
+numberscurrencyFormatslatnshort10000000000000¤00T
+numberscurrencyFormatslatnshort10000¤00K
+numberscurrencyFormatslatnshort100000000000000¤000T
+numberscurrencyFormatslatnshort100000000¤000M
+numberscurrencyFormatslatnshort1000000000¤0G
+numberscurrencyFormatslatnshort100000¤000K
+numberscurrencyFormatslatnshort10000000¤00M
+numberscurrencyFormatslatnshort1000000¤0M
+numberscurrencyFormatslatnshort1000¤0K
+numberscurrencyFormatslatnstandardstandard¤#,##0.00;(¤#,##0.00)
+calendarsgenericdateFormatsshortstandarddd/MM/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM y G
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericavailableFormatsMMMdMMM d
+calendarsgenericavailableFormatsMdM/d
+calendarsgenericavailableFormatsyQQQQQQQQ y
+calendarsgenericavailableFormatsyMEdE, M/d/y
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsMMMMdMMMM d
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsyMMMEdE, MMM d, y
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsyMMMMMMMM y
+calendarsgenericavailableFormatsMMMEdE, MMM d
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsyMM/y
+calendarsgenericavailableFormatsyy
+calendarsgenericavailableFormatsMMMMEdE, MMMM d
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsyQQQQQQ y
+calendarsgenericavailableFormatsyMMMMMM y
+calendarsgenericavailableFormatsMEdE, M/d
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregorianmonthsformatabbreviated9Bur
+calendarsgregorianmonthsformatabbreviated6Paa
+calendarsgregorianmonthsformatabbreviated1Mul
+calendarsgregorianmonthsformatabbreviated4Iwo
+calendarsgregorianmonthsformatabbreviated5Mam
+calendarsgregorianmonthsformatabbreviated8Roo
+calendarsgregorianmonthsformatabbreviated2Ngat
+calendarsgregorianmonthsformatabbreviated12Kpa
+calendarsgregorianmonthsformatabbreviated7Nge
+calendarsgregorianmonthsformatabbreviated11Kpt
+calendarsgregorianmonthsformatabbreviated3Taa
+calendarsgregorianmonthsformatabbreviated10Epe
+calendarsgregorianmonthsformatwide10Epeeso
+calendarsgregorianmonthsformatwide12Kipsuunde nebo aeng’
+calendarsgregorianmonthsformatwide7Ng’eiyeet
+calendarsgregorianmonthsformatwide11Kipsuunde ne taai
+calendarsgregorianmonthsformatwide3Kiptaamo
+calendarsgregorianmonthsformatwide5Mamuut
+calendarsgregorianmonthsformatwide8Rooptui
+calendarsgregorianmonthsformatwide2Ng’atyaato
+calendarsgregorianmonthsformatwide9Bureet
+calendarsgregorianmonthsformatwide1Mulgul
+calendarsgregorianmonthsformatwide6Paagi
+calendarsgregorianmonthsformatwide4Iwootkuut
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow8R
+calendarsgregorianmonthsstand-alonenarrow2N
+calendarsgregorianmonthsstand-alonenarrow9B
+calendarsgregorianmonthsstand-alonenarrow6P
+calendarsgregorianmonthsstand-alonenarrow1M
+calendarsgregorianmonthsstand-alonenarrow4I
+calendarsgregorianmonthsstand-alonenarrow10E
+calendarsgregorianmonthsstand-alonenarrow12K
+calendarsgregorianmonthsstand-alonenarrow7N
+calendarsgregorianmonthsstand-alonenarrow11K
+calendarsgregorianmonthsstand-alonenarrow3T
+calendarsgregorianavailableFormatsyMEdE, M/d/y
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsMdM/d
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMMMdMMM d
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsyMMMEdE, MMM d, y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsMMMMdMMMM d
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsMMMEdE, MMM d
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsMEdE, M/d
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsMMMMEdE, MMMM d
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianeraseraNames1Kokakesich Jesu
+calendarsgregorianeraseraNames0Amait kesich Jesu
+calendarsgregorianeraseraAbbr1KO
+calendarsgregorianeraseraAbbr0AM
+calendarsgregorianquartersformatwide4Robo nebo ang’wan
+calendarsgregorianquartersformatwide1Robo netai
+calendarsgregorianquartersformatwide2Robo nebo aeng’
+calendarsgregorianquartersformatwide3Robo nebo somok
+calendarsgregorianquartersformatabbreviated2R2
+calendarsgregorianquartersformatabbreviated1R1
+calendarsgregorianquartersformatabbreviated4R4
+calendarsgregorianquartersformatabbreviated3R3
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgregoriandateFormatsshortstandarddd/MM/y
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM y
+calendarsgregoriandaysformatabbreviatedthuKoa
+calendarsgregoriandaysformatabbreviatedsatKol
+calendarsgregoriandaysformatabbreviatedfriKom
+calendarsgregoriandaysformatabbreviatedtueKoo
+calendarsgregoriandaysformatabbreviatedmonKot
+calendarsgregoriandaysformatabbreviatedwedKos
+calendarsgregoriandaysformatabbreviatedsunKts
+calendarsgregoriandaysformatwidesunKotisap
+calendarsgregoriandaysformatwidewedKosomok
+calendarsgregoriandaysformatwidemonKotaai
+calendarsgregoriandaysformatwidetueKoaeng’
+calendarsgregoriandaysformatwidefriKomuut
+calendarsgregoriandaysformatwidethuKoang’wan
+calendarsgregoriandaysformatwidesatKolo
+calendarsgregoriandaysstand-alonenarrowtueO
+calendarsgregoriandaysstand-alonenarrowmonT
+calendarsgregoriandaysstand-alonenarrowsatL
+calendarsgregoriandaysstand-alonenarrowthuA
+calendarsgregoriandaysstand-alonenarrowfriM
+calendarsgregoriandaysstand-alonenarrowsunT
+calendarsgregoriandaysstand-alonenarrowwedS
+calendarsgregoriandayPeriodsformatwidepmkooskoliny
+calendarsgregoriandayPeriodsformatwideamkaroon
+calendarsgregoriandayPeriodsformatabbreviatedamkrn
+calendarsgregoriandayPeriodsformatabbreviatedpmkoosk
+localeDisplayNamesterritoriesUYEmetab Uruguay
+localeDisplayNamesterritoriesMUEmetab Mauritius
+localeDisplayNamesterritoriesKZEmetab Kazakhstan
+localeDisplayNamesterritoriesBIEmetab Burundi
+localeDisplayNamesterritoriesUGEmetab Uganda
+localeDisplayNamesterritoriesFREmetab France
+localeDisplayNamesterritoriesDEEmetab Geruman
+localeDisplayNamesterritoriesBJEmetab Benin
+localeDisplayNamesterritoriesCMEmetab Cameroon
+localeDisplayNamesterritoriesUZEmetab Uzibekistani
+localeDisplayNamesterritoriesILEmetab Israel
+localeDisplayNamesterritoriesBTEmetab Bhutan
+localeDisplayNamesterritoriesKMEmetab Comoros
+localeDisplayNamesterritoriesESEmetab Spain
+localeDisplayNamesterritoriesSAEmetab Saudi Arabia
+localeDisplayNamesterritoriesKREmetab korea nebo murot tai
+localeDisplayNamesterritoriesKEEmetab Kenya
+localeDisplayNamesterritoriesGTEmetab Guatemala
+localeDisplayNamesterritoriesDJEmetab Djibouti
+localeDisplayNamesterritoriesNIEmetab Nicaragua
+localeDisplayNamesterritoriesBSEmetab Bahamas
+localeDisplayNamesterritoriesSOEmetab Somalia
+localeDisplayNamesterritoriesPTEmetab Portugal
+localeDisplayNamesterritoriesSZEmetab Swaziland
+localeDisplayNamesterritoriesGPEmetab Guadeloupe
+localeDisplayNamesterritoriesMWEmetab Malawi
+localeDisplayNamesterritoriesSHEmetab Helena Ne tilil
+localeDisplayNamesterritoriesHTEmetab Haiti
+localeDisplayNamesterritoriesCUEmetab Cuba
+localeDisplayNamesterritoriesCLEmetab Chile
+localeDisplayNamesterritoriesBAEmetab Bosnia ak Herzegovina
+localeDisplayNamesterritoriesLVEmetab Latvia
+localeDisplayNamesterritoriesMSEmetab Montserrat
+localeDisplayNamesterritoriesNUEmetab Niue
+localeDisplayNamesterritoriesNCEmetab New Caledonia
+localeDisplayNamesterritoriesPMEmetab Peter Ne titil ak Miquelon
+localeDisplayNamesterritoriesWFEmetab Walis ak Futuna
+localeDisplayNamesterritoriesISEmetab Iceland
+localeDisplayNamesterritoriesBOEmetab Bolivia
+localeDisplayNamesterritoriesTZEmetab Tanzania
+localeDisplayNamesterritoriesLREmetab Liberia
+localeDisplayNamesterritoriesZAEmetab Afrika nebo Murot tai
+localeDisplayNamesterritoriesLTEmetab Lithuania
+localeDisplayNamesterritoriesITEmetab Italy
+localeDisplayNamesterritoriesIEEmetab Ireland
+localeDisplayNamesterritoriesRWEmetab Rwanda
+localeDisplayNamesterritoriesTNEmetab Tunisia
+localeDisplayNamesterritoriesVUEmetab Vanuatu
+localeDisplayNamesterritoriesLCEmetab Lucia Ne
+localeDisplayNamesterritoriesLBEmetab Lebanon
+localeDisplayNamesterritoriesMLEmetab Mali
+localeDisplayNamesterritoriesNAEmetab Namibia
+localeDisplayNamesterritoriesGUEmetab Guam
+localeDisplayNamesterritoriesIQEmetab Iraq
+localeDisplayNamesterritoriesGWEmetab Guinea-Bissau
+localeDisplayNamesterritoriesROEmetab Romania
+localeDisplayNamesterritoriesSREmetab Suriname
+localeDisplayNamesterritoriesJPEmetab Japan
+localeDisplayNamesterritoriesMTEmetab Malta
+localeDisplayNamesterritoriesTOEmetab Tonga
+localeDisplayNamesterritoriesCVIkwembeyotab Cape Verde
+localeDisplayNamesterritoriesFMEmetab Micronesia
+localeDisplayNamesterritoriesCGEmetab Congo - Brazzaville
+localeDisplayNamesterritoriesRUEmetab Russia
+localeDisplayNamesterritoriesTVEmetab Tuvalu
+localeDisplayNamesterritoriesGNEmetab Guinea
+localeDisplayNamesterritoriesMAEmetab Morocco
+localeDisplayNamesterritoriesFKIkwembeyotab Falkland
+localeDisplayNamesterritoriesVIIkwemweiyotab Amerika
+localeDisplayNamesterritoriesPFEmetab Polynesia nebo ufaransa
+localeDisplayNamesterritoriesTREmetab Turkey
+localeDisplayNamesterritoriesLKEmetab Sri Lanka
+localeDisplayNamesterritoriesHREmetab Croatia
+localeDisplayNamesterritoriesGQEmetab Equatorial Guinea
+localeDisplayNamesterritoriesMQEmetab Martinique
+localeDisplayNamesterritoriesLUEmetab Luxembourg
+localeDisplayNamesterritoriesMVEmetab Maldives
+localeDisplayNamesterritoriesATEmetab Austria
+localeDisplayNamesterritoriesPWEmetab Palau
+localeDisplayNamesterritoriesNFIkwembeiyotab Norfork
+localeDisplayNamesterritoriesYEEmetab Yemen
+localeDisplayNamesterritoriesSIEmetab Slovenia
+localeDisplayNamesterritoriesSKEmetab Slovakia
+localeDisplayNamesterritoriesKGEmetab Kyrgyzstan
+localeDisplayNamesterritoriesCKIkwembeyotab Cook
+localeDisplayNamesterritoriesVCEmetab Vincent netilil ak Grenadines
+localeDisplayNamesterritoriesGIEmetab Gibraltar
+localeDisplayNamesterritoriesGAEmetab Gabon
+localeDisplayNamesterritoriesZWEmetab Zimbabwe
+localeDisplayNamesterritoriesEGEmetab Misiri
+localeDisplayNamesterritoriesSNEmetab Senegal
+localeDisplayNamesterritoriesLAEmetab Laos
+localeDisplayNamesterritoriesMDEmetab Moldova
+localeDisplayNamesterritoriesMHIkwembeiyotab Marshall
+localeDisplayNamesterritoriesPKEmetab Pakistan
+localeDisplayNamesterritoriesKPEmetab Korea nebo murot katam
+localeDisplayNamesterritoriesCOEmetab Colombia
+localeDisplayNamesterritoriesMNEmetab Mongolia
+localeDisplayNamesterritoriesTJEmetab Tajikistan
+localeDisplayNamesterritoriesSEEmetab Sweden
+localeDisplayNamesterritoriesGYEmetab Guyana
+localeDisplayNamesterritoriesJOEmetab Jordan
+localeDisplayNamesterritoriesHUEmetab Hungary
+localeDisplayNamesterritoriesCHEmetab Switzerland
+localeDisplayNamesterritoriesAMEmetab Armenia
+localeDisplayNamesterritoriesSGEmetab Singapore
+localeDisplayNamesterritoriesZMEmetab Zambia
+localeDisplayNamesterritoriesCYEmetab Cyprus
+localeDisplayNamesterritoriesNOEmetab Norway
+localeDisplayNamesterritoriesLIEmetab Liechtenstein
+localeDisplayNamesterritoriesAOEmetab Angola
+localeDisplayNamesterritoriesBHEmetab Bahrain
+localeDisplayNamesterritoriesMMEmetab Myanmar
+localeDisplayNamesterritoriesIREmetab Iran
+localeDisplayNamesterritoriesYTEmetab Mayotte
+localeDisplayNamesterritoriesCAEmetab Canada
+localeDisplayNamesterritoriesSCEmetab Seychelles
+localeDisplayNamesterritoriesNZEmetab New Zealand
+localeDisplayNamesterritoriesDKEmetab Denmark
+localeDisplayNamesterritoriesCNEmetab China
+localeDisplayNamesterritoriesAFEmetab Afghanistan
+localeDisplayNamesterritoriesBBEmetab Barbados
+localeDisplayNamesterritoriesCIEmetab Côte d’Ivoire
+localeDisplayNamesterritoriesSDEmetab Sudan
+localeDisplayNamesterritoriesNREmetab Nauru
+localeDisplayNamesterritoriesMYEmetab Malaysia
+localeDisplayNamesterritoriesCDEmetab Congo - Kinshasa
+localeDisplayNamesterritoriesPGEmetab Papua New Guinea
+localeDisplayNamesterritoriesPEEmetab Peru
+localeDisplayNamesterritoriesVEEmetab Venezuela
+localeDisplayNamesterritoriesIDEmetab Indonesia
+localeDisplayNamesterritoriesECEmetab Ecuador
+localeDisplayNamesterritoriesBYEmetab Belarus
+localeDisplayNamesterritoriesVGIkwembeyotab British Virgin
+localeDisplayNamesterritoriesJMEmetab Jamaica
+localeDisplayNamesterritoriesGDEmetab Grenada
+localeDisplayNamesterritoriesBEEmetab Belgium
+localeDisplayNamesterritoriesSTEmetab São Tomé and Príncipe
+localeDisplayNamesterritoriesKYIkwembeyotab Cayman
+localeDisplayNamesterritoriesINEmetab India
+localeDisplayNamesterritoriesKNEmetab Saint Kitts ak Nevis
+localeDisplayNamesterritoriesGEEmetab Georgia
+localeDisplayNamesterritoriesEREmetab Eritrea
+localeDisplayNamesterritoriesBZEmetab Belize
+localeDisplayNamesterritoriesTTEmetab Trinidad ak Tobago
+localeDisplayNamesterritoriesSMEmetab San Marino
+localeDisplayNamesterritoriesLSEmetab Lesotho
+localeDisplayNamesterritoriesGREmetab Greece
+localeDisplayNamesterritoriesAZEmetab Azerbaijan
+localeDisplayNamesterritoriesBNEmetab Brunei
+localeDisplayNamesterritoriesSLEmetab Sierra Leone
+localeDisplayNamesterritoriesSYEmetab Syria
+localeDisplayNamesterritoriesKWEmetab Kuwait
+localeDisplayNamesterritoriesALEmetab Albania
+localeDisplayNamesterritoriesTMEmetab Turkmenistan
+localeDisplayNamesterritoriesVAEmetab Vatican
+localeDisplayNamesterritoriesVNEmetab Vietnam
+localeDisplayNamesterritoriesHNEmetab Honduras
+localeDisplayNamesterritoriesMREmetab Mauritania
+localeDisplayNamesterritoriesGBEmetab Kibagenge nebo Uingereza
+localeDisplayNamesterritoriesPNEmetab Pitcairn
+localeDisplayNamesterritoriesNLEmetab Holand
+localeDisplayNamesterritoriesPYEmetab Paraguay
+localeDisplayNamesterritoriesAREmetab Argentina
+localeDisplayNamesterritoriesUSEmetab amerika
+localeDisplayNamesterritoriesDOEmetab Dominican Republic
+localeDisplayNamesterritoriesGLEmetab Greenland
+localeDisplayNamesterritoriesAIEmetab Anguilla
+localeDisplayNamesterritoriesPAEmetab Panama
+localeDisplayNamesterritoriesPLEmetab Poland
+localeDisplayNamesterritoriesTGEmetab Togo
+localeDisplayNamesterritoriesASEmetab American Samoa
+localeDisplayNamesterritoriesEEEmetab Estonia
+localeDisplayNamesterritoriesAEEmetab kibagenge nebo arabuk
+localeDisplayNamesterritoriesSBIkwembeiyotab Solomon
+localeDisplayNamesterritoriesKIEmetab Kiribati
+localeDisplayNamesterritoriesMCEmetab Monaco
+localeDisplayNamesterritoriesTCIkwembeiyotab Turks ak Caicos
+localeDisplayNamesterritoriesNPEmetab Nepal
+localeDisplayNamesterritoriesKHEmetab Cambodia
+localeDisplayNamesterritoriesAUEmetab Australia
+localeDisplayNamesterritoriesMPIkwembeiyotab Mariana nebo murot katam
+localeDisplayNamesterritoriesPREmetab Puerto Rico
+localeDisplayNamesterritoriesTHEmetab Thailand
+localeDisplayNamesterritoriesDMEmetab Dominica
+localeDisplayNamesterritoriesTDEmetab Chad
+localeDisplayNamesterritoriesAWEmetab Aruba
+localeDisplayNamesterritoriesIOKebebertab araraitab indian Ocean nebo Uingeresa
+localeDisplayNamesterritoriesNGEmetab Nigeria
+localeDisplayNamesterritoriesCZEmetab Czech Republic
+localeDisplayNamesterritoriesAGEmetab Antigua ak Barbuda
+localeDisplayNamesterritoriesMZEmetab Mozambique
+localeDisplayNamesterritoriesGHEmetab Ghana
+localeDisplayNamesterritoriesDZEmetab Algeria
+localeDisplayNamesterritoriesCREmetab Costa Rica
+localeDisplayNamesterritoriesMGEmetab Madagascar
+localeDisplayNamesterritoriesMXEmetab Mexico
+localeDisplayNamesterritoriesBFEmetab Burkina Faso
+localeDisplayNamesterritoriesUAEmetab Ukrainie
+localeDisplayNamesterritoriesBREmetab Brazil
+localeDisplayNamesterritoriesMKEmetab Macedonia
+localeDisplayNamesterritoriesPSEmetab Palestine
+localeDisplayNamesterritoriesBMEmetab Bermuda
+localeDisplayNamesterritoriesADEmetab Andorra
+localeDisplayNamesterritoriesBGEmetab Bulgaria
+localeDisplayNamesterritoriesBDEmetab Bangladesh
+localeDisplayNamesterritoriesTWEmetab Taiwan
+localeDisplayNamesterritoriesQAEmetab Qatar
+localeDisplayNamesterritoriesSVEmetab El Salvador
+localeDisplayNamesterritoriesFJEmetab Fiji
+localeDisplayNamesterritoriesOMEmetab Oman
+localeDisplayNamesterritoriesETEmetab Ethiopia
+localeDisplayNamesterritoriesBWEmetab Botswana
+localeDisplayNamesterritoriesWSEmetab Samoa
+localeDisplayNamesterritoriesGFEmetab Guiana nebo Ufaransa
+localeDisplayNamesterritoriesCFEmetab Afrika nebo Kwen
+localeDisplayNamesterritoriesTKEmetab Tokelau
+localeDisplayNamesterritoriesLYEmetab Libya
+localeDisplayNamesterritoriesREEmetab Réunion
+localeDisplayNamesterritoriesTLEmetab Timor nebo Murot tai
+localeDisplayNamesterritoriesGMEmetab Gambia
+localeDisplayNamesterritoriesFIEmetab Finland
+localeDisplayNamesterritoriesPHEmetab Philippines
+localeDisplayNamesterritoriesNEEmetab niger
+localeDisplayNameslanguagesmykutitab Burma
+localeDisplayNameslanguagesurkutitab Urdu
+localeDisplayNameslanguagesjvkutitap Javanese
+localeDisplayNameslanguagesidkutitab Indonesia
+localeDisplayNameslanguagesitkutitab Talianek
+localeDisplayNameslanguagesigkutitab Igbo
+localeDisplayNameslanguagesenkutitab Uingeresa
+localeDisplayNameslanguagesdekutitab Chermani
+localeDisplayNameslanguagesbnkutitab Bengali
+localeDisplayNameslanguageszukutitab Zulu
+localeDisplayNameslanguageskmkutitab Kher nebo Kwen
+localeDisplayNameslanguagessokutitab Somaliek
+localeDisplayNameslanguagesrokutitab Romaniek
+localeDisplayNameslanguagesplkutitap Poland
+localeDisplayNameslanguagesamkutitab Amariek
+localeDisplayNameslanguagestrkutitab Turkey
+localeDisplayNameslanguagesrukutitab Russia
+localeDisplayNameslanguagesnekutitab Nepali
+localeDisplayNameslanguageshakutitab Hausa
+localeDisplayNameslanguagesfakutitab Persia
+localeDisplayNameslanguagescskutitab Chek
+localeDisplayNameslanguageszhkutitab China
+localeDisplayNameslanguageskokutitab Korea
+localeDisplayNameslanguagesyokutitab Yoruba
+localeDisplayNameslanguagessvkutitab Sweden
+localeDisplayNameslanguagesjakutitap Japan
+localeDisplayNameslanguageseskutitab Espianik
+localeDisplayNameslanguagesvikutitab Vietnam
+localeDisplayNameslanguagestakutitab Tamil
+localeDisplayNameslanguageshikutitab Maindiik
+localeDisplayNameslanguagesthkutitab Thailand
+localeDisplayNameslanguagesptkutitab Portugal
+localeDisplayNameslanguageselkutitab Greece
+localeDisplayNameslanguagesmskutitab Malay
+localeDisplayNameslanguagesukkutitab Ukraine
+localeDisplayNameslanguagesnlkutitab Boa
+localeDisplayNameslanguagesbgkutitab Bulgaria
+localeDisplayNameslanguagesklnKalenjin
+localeDisplayNameslanguageshukutitab Hangari
+localeDisplayNameslanguagesrwkutitab Kinyarwanda
+localeDisplayNameslanguagesfrkutitab Kifaransa
+localeDisplayNameslanguagespakutitab Punjab
+localeDisplayNameslanguagesbekutitab Belarusa
+localeDisplayNameslanguagesakkutitab Aka
+localeDisplayNameslanguagesarkutitab Arabuk
+posixmessagesnostrAchicha:A
+posixmessagesyesstrWei:W
+charactersexemplarCharactersstandard[a b c d e g h i j k l m n o p r s t u w y]
+charactersexemplarCharactersauxiliary[f q v x z]
+charactersexemplarCharactersindex[A B C D E G H I J K L M N O P R S T U W Y]

@@ -1,0 +1,2397 @@
+delimitersalternateQuotationEnd‘
+delimitersquotationStart„
+delimitersquotationEnd“
+delimitersalternateQuotationStart‚
+numbersdecimalFormatslatnlong1000000000 milionow
+numbersdecimalFormatslatnlong10000 tysac
+numbersdecimalFormatslatnlong10000000 milionow
+numbersdecimalFormatslatnlong100000000 tysac
+numbersdecimalFormatslatnlong10000000000 miliardow
+numbersdecimalFormatslatnlong100000000000 milionow
+numbersdecimalFormatslatnlong100000000000000000 bilionow
+numbersdecimalFormatslatnlong1000000 tysac
+numbersdecimalFormatslatnlong1000000000000000 bilionow
+numbersdecimalFormatslatnlong1000000000000 miliardow
+numbersdecimalFormatslatnlong10000000000000 bilionow
+numbersdecimalFormatslatnlong100000000000000 miliardow
+numbersdecimalFormatslatnshort100000000 tys'.'
+numbersdecimalFormatslatnshort10000 tys'.'
+numbersdecimalFormatslatnshort1000000000 mio'.'
+numbersdecimalFormatslatnshort10000000 mio'.'
+numbersdecimalFormatslatnshort1000000 tys'.'
+numbersdecimalFormatslatnshort100000000000000000 bil'.'
+numbersdecimalFormatslatnshort10000000000 mrd'.'
+numbersdecimalFormatslatnshort100000000000 mio'.'
+numbersdecimalFormatslatnshort1000000000000000 bil'.'
+numbersdecimalFormatslatnshort100000000000000 mrd'.'
+numbersdecimalFormatslatnshort10000000000000 bil'.'
+numbersdecimalFormatslatnshort1000000000000 mrd'.'
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersminimumGroupingDigits1
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnexponentialE
+numberssymbolslatngroup.
+numberssymbolslatndecimal,
+numberssymbolslatntimeSeparator:
+numberssymbolslatnminusSign-
+numberssymbolslatnsuperscriptingExponent·
+numberssymbolslatnplusSign+
+numbersscientificFormatslatnstandardstandard#E0
+numberscurrencyFormatslatnshort10000000000000 bil'.' ¤
+numberscurrencyFormatslatnshort1000000000000 mrd'.' ¤
+numberscurrencyFormatslatnshort100000000000000 mrd'.' ¤
+numberscurrencyFormatslatnshort1000000000000000 bil'.' ¤
+numberscurrencyFormatslatnshort100000000000 mio'.' ¤
+numberscurrencyFormatslatnshort10000000000 mrd'.' ¤
+numberscurrencyFormatslatnshort1000000 tys'.' ¤
+numberscurrencyFormatslatnshort100000000000000000 bil'.' ¤
+numberscurrencyFormatslatnshort1000000000 mio'.' ¤
+numberscurrencyFormatslatnshort10000000 mio'.' ¤
+numberscurrencyFormatslatnshort10000 tys'.' ¤
+numberscurrencyFormatslatnshort100000000 tys'.' ¤
+numberscurrencyFormatslatnstandardstandard#,##0.00 ¤
+numberspercentFormatslatnstandardstandard#,##0 %
+numberscurrenciesPLNstandardzł
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesXCDstandardEC$
+numberscurrenciesJPYstandard¥
+numberscurrenciesALLstandardALL
+numberscurrenciesBGNstandardBGN
+numberscurrenciesXOFstandardCFA
+numberscurrenciesTHBstandard฿
+numberscurrenciesCADstandardCA$
+numberscurrenciesKRWstandard₩
+numberscurrenciesKPWstandardKPW
+numberscurrenciesGBPstandard£
+numberscurrenciesAUDstandardAUD
+numberscurrenciesUSDstandard$
+numberscurrenciesHKDstandardHK$
+numberscurrenciesVNDstandard₫
+numberscurrenciesTWDstandardNT$
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesEURstandard€
+numberscurrenciesEURnarrow€
+numberscurrenciesMXNstandardMX$
+numberscurrenciesILSstandard₪
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnrange{0}–{1}
+unitsnarrowunitangle-arc-minutepatternother{0}′
+unitsnarrowunitangle-arc-minutepatternfew{0}′
+unitsnarrowunitangle-arc-minutepatternone{0}′
+unitsnarrowunitangle-arc-minutepatterntwo{0}′
+unitsnarrowunitvolume-literdisplayNamel
+unitsnarrowunitvolume-literpatternone{0} l
+unitsnarrowunitvolume-literpatterntwo{0} l
+unitsnarrowunitvolume-literpatternfew{0} l
+unitsnarrowunitvolume-literpatternother{0} l
+unitsnarrowunitpower-kilowattpatternfew{0} kW
+unitsnarrowunitpower-kilowattpatternother{0} kW
+unitsnarrowunitpower-kilowattpatternone{0} kW
+unitsnarrowunitpower-kilowattpatterntwo{0} kW
+unitsnarrowunitduration-hourdisplayNameh
+unitsnarrowunitduration-hourpatternone{0} h
+unitsnarrowunitduration-hourpatterntwo{0} h
+unitsnarrowunitduration-hourpatternother{0} h
+unitsnarrowunitduration-hourpatternfew{0} h
+unitsnarrowunitangle-arc-secondpatterntwo{0}″
+unitsnarrowunitangle-arc-secondpatternone{0}″
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunitangle-arc-secondpatternfew{0}″
+unitsnarrowunitmass-poundpatternone{0} lb
+unitsnarrowunitmass-poundpatterntwo{0} lb
+unitsnarrowunitmass-poundpatternother{0} lb
+unitsnarrowunitmass-poundpatternfew{0} lb
+unitsnarrowunitlength-centimeterdisplayNamecm
+unitsnarrowunitlength-centimeterpatternother{0} cm
+unitsnarrowunitlength-centimeterpatternfew{0} cm
+unitsnarrowunitlength-centimeterpatternone{0} cm
+unitsnarrowunitlength-centimeterpatterntwo{0} cm
+unitsnarrowunitmass-gramdisplayNameg
+unitsnarrowunitmass-grampatternfew{0} g
+unitsnarrowunitmass-grampatternother{0} g
+unitsnarrowunitmass-grampatterntwo{0} g
+unitsnarrowunitmass-grampatternone{0} g
+unitsnarrowunitpower-horsepowerpatternother{0} PS
+unitsnarrowunitpower-horsepowerpatternfew{0} PS
+unitsnarrowunitpower-horsepowerpatterntwo{0} PS
+unitsnarrowunitpower-horsepowerpatternone{0} PS
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunittemperature-celsiuspatternone{0}°C
+unitsnarrowunittemperature-celsiuspatterntwo{0}°C
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunittemperature-celsiuspatternfew{0}°C
+unitsnarrowunitlength-light-yearpatternfew{0} ly
+unitsnarrowunitlength-light-yearpatternother{0} ly
+unitsnarrowunitlength-light-yearpatternone{0} ly
+unitsnarrowunitlength-light-yearpatterntwo{0} ly
+unitsnarrowunitmass-ouncepatternone{0} oz
+unitsnarrowunitmass-ouncepatterntwo{0} oz
+unitsnarrowunitmass-ouncepatternother{0} oz
+unitsnarrowunitmass-ouncepatternfew{0} oz
+unitsnarrowunitarea-square-milepatternfew{0} mi²
+unitsnarrowunitarea-square-milepatternother{0} mi²
+unitsnarrowunitarea-square-milepatterntwo{0} mi²
+unitsnarrowunitarea-square-milepatternone{0} mi²
+unitsnarrowunitlength-kilometerpatternother{0} km
+unitsnarrowunitlength-kilometerpatternfew{0} km
+unitsnarrowunitlength-kilometerpatterntwo{0} km
+unitsnarrowunitlength-kilometerpatternone{0} km
+unitsnarrowunitlength-kilometerdisplayNamekm
+unitsnarrowunitduration-weekpatternother{0} t.
+unitsnarrowunitduration-weekpatternfew{0} t.
+unitsnarrowunitduration-weekpatterntwo{0} t.
+unitsnarrowunitduration-weekpatternone{0} t.
+unitsnarrowunitduration-weekdisplayNamet.
+unitsnarrowunitpower-wattpatternfew{0} W
+unitsnarrowunitpower-wattpatternother{0} W
+unitsnarrowunitpower-wattpatternone{0} W
+unitsnarrowunitpower-wattpatterntwo{0} W
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0} km/h
+unitsnarrowunitspeed-kilometer-per-hourpatterntwo{0} km/h
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} km/h
+unitsnarrowunitspeed-kilometer-per-hourpatternfew{0} km/h
+unitsnarrowunitlength-footpatternone{0} ft
+unitsnarrowunitlength-footpatterntwo{0} ft
+unitsnarrowunitlength-footpatternfew{0} ft
+unitsnarrowunitlength-footpatternother{0} ft
+unitsnarrowunitlength-millimeterdisplayNamemm
+unitsnarrowunitlength-millimeterpatternfew{0} mm
+unitsnarrowunitlength-millimeterpatternother{0} mm
+unitsnarrowunitlength-millimeterpatterntwo{0} mm
+unitsnarrowunitlength-millimeterpatternone{0} mm
+unitsnarrowunitlength-milepatterntwo{0} mi
+unitsnarrowunitlength-milepatternone{0} mi
+unitsnarrowunitlength-milepatternfew{0} mi
+unitsnarrowunitlength-milepatternother{0} mi
+unitsnarrowunitarea-square-meterpatternother{0} m²
+unitsnarrowunitarea-square-meterpatternfew{0} m²
+unitsnarrowunitarea-square-meterpatterntwo{0} m²
+unitsnarrowunitarea-square-meterpatternone{0} m²
+unitsnarrowunitduration-monthpatternone{0} měs.
+unitsnarrowunitduration-monthpatterntwo{0} měs.
+unitsnarrowunitduration-monthpatternother{0} měs.
+unitsnarrowunitduration-monthpatternfew{0} měs.
+unitsnarrowunitduration-monthdisplayNameměs.
+unitsnarrowunitduration-yearpatterntwo{0} l.
+unitsnarrowunitduration-yearpatternone{0} l.
+unitsnarrowunitduration-yearpatternother{0} l.
+unitsnarrowunitduration-yearpatternfew{0} l.
+unitsnarrowunitduration-yeardisplayNamel.
+unitsnarrowunitpressure-millibarpatternfew{0} mbar
+unitsnarrowunitpressure-millibarpatternother{0} mbar
+unitsnarrowunitpressure-millibarpatterntwo{0} mbar
+unitsnarrowunitpressure-millibarpatternone{0} mbar
+unitsnarrowunitpressure-inch-hgpatterntwo{0} inHg
+unitsnarrowunitpressure-inch-hgpatternone{0} inHg
+unitsnarrowunitpressure-inch-hgpatternother{0} inHg
+unitsnarrowunitpressure-inch-hgpatternfew{0} inHg
+unitsnarrowunitmass-kilogrampatterntwo{0} kg
+unitsnarrowunitmass-kilogrampatternone{0} kg
+unitsnarrowunitmass-kilogrampatternother{0} kg
+unitsnarrowunitmass-kilogrampatternfew{0} kg
+unitsnarrowunitmass-kilogramdisplayNamekg
+unitsnarrowunitlength-yardpatterntwo{0} yd
+unitsnarrowunitlength-yardpatternone{0} yd
+unitsnarrowunitlength-yardpatternother{0} yd
+unitsnarrowunitlength-yardpatternfew{0} yd
+unitsnarrowunitlength-meterdisplayNamem
+unitsnarrowunitlength-meterpatternone{0} m
+unitsnarrowunitlength-meterpatterntwo{0} m
+unitsnarrowunitlength-meterpatternfew{0} m
+unitsnarrowunitlength-meterpatternother{0} m
+unitsnarrowunitduration-milliseconddisplayNamems
+unitsnarrowunitduration-millisecondpatternfew{0} ms
+unitsnarrowunitduration-millisecondpatternother{0} ms
+unitsnarrowunitduration-millisecondpatterntwo{0} ms
+unitsnarrowunitduration-millisecondpatternone{0} ms
+unitsnarrowunitduration-minutepatterntwo{0} min
+unitsnarrowunitduration-minutepatternone{0} min
+unitsnarrowunitduration-minutepatternfew{0} min
+unitsnarrowunitduration-minutepatternother{0} min
+unitsnarrowunitduration-minutedisplayNamemin
+unitsnarrowunitduration-daypatternone{0} d
+unitsnarrowunitduration-daypatterntwo{0} d
+unitsnarrowunitduration-daypatternfew{0} d
+unitsnarrowunitduration-daypatternother{0} d
+unitsnarrowunitduration-daydisplayNamed
+unitsnarrowunitspeed-meter-per-secondpatternfew{0} m/s
+unitsnarrowunitspeed-meter-per-secondpatternother{0} m/s
+unitsnarrowunitspeed-meter-per-secondpatterntwo{0} m/s
+unitsnarrowunitspeed-meter-per-secondpatternone{0} m/s
+unitsnarrowunitvolume-cubic-kilometerpatternfew{0} km³
+unitsnarrowunitvolume-cubic-kilometerpatternother{0} km³
+unitsnarrowunitvolume-cubic-kilometerpatterntwo{0} km³
+unitsnarrowunitvolume-cubic-kilometerpatternone{0} km³
+unitsnarrowunitlength-inchpatternone{0} in
+unitsnarrowunitlength-inchpatterntwo{0} in
+unitsnarrowunitlength-inchpatternother{0} in
+unitsnarrowunitlength-inchpatternfew{0} in
+unitsnarrowunitpressure-hectopascalpatternfew{0} hPa
+unitsnarrowunitpressure-hectopascalpatternother{0} hPa
+unitsnarrowunitpressure-hectopascalpatterntwo{0} hPa
+unitsnarrowunitpressure-hectopascalpatternone{0} hPa
+unitsnarrowunitarea-square-kilometerpatterntwo{0} km²
+unitsnarrowunitarea-square-kilometerpatternone{0} km²
+unitsnarrowunitarea-square-kilometerpatternfew{0} km²
+unitsnarrowunitarea-square-kilometerpatternother{0} km²
+unitsnarrowunitduration-secondpatternone{0} s
+unitsnarrowunitduration-secondpatterntwo{0} s
+unitsnarrowunitduration-secondpatternother{0} s
+unitsnarrowunitduration-secondpatternfew{0} s
+unitsnarrowunitduration-seconddisplayNames
+unitsnarrowunitarea-square-footpatternfew{0} ft²
+unitsnarrowunitarea-square-footpatternother{0} ft²
+unitsnarrowunitarea-square-footpatternone{0} ft²
+unitsnarrowunitarea-square-footpatterntwo{0} ft²
+unitsnarrowunitacceleration-g-forcepatterntwo{0} G
+unitsnarrowunitacceleration-g-forcepatternone{0} G
+unitsnarrowunitacceleration-g-forcepatternfew{0} G
+unitsnarrowunitacceleration-g-forcepatternother{0} G
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunittemperature-fahrenheitpatternfew{0}°F
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunittemperature-fahrenheitpatterntwo{0}°F
+unitsnarrowunitvolume-cubic-milepatternfew{0} mi³
+unitsnarrowunitvolume-cubic-milepatternother{0} mi³
+unitsnarrowunitvolume-cubic-milepatterntwo{0} mi³
+unitsnarrowunitvolume-cubic-milepatternone{0} mi³
+unitsnarrowunitspeed-mile-per-hourpatternother{0} mph
+unitsnarrowunitspeed-mile-per-hourpatternfew{0} mph
+unitsnarrowunitspeed-mile-per-hourpatternone{0} mph
+unitsnarrowunitspeed-mile-per-hourpatterntwo{0} mph
+unitsnarrowunitarea-acrepatternfew{0} ac
+unitsnarrowunitarea-acrepatternother{0} ac
+unitsnarrowunitarea-acrepatterntwo{0} ac
+unitsnarrowunitarea-acrepatternone{0} ac
+unitsnarrowunitlength-picometerpatternother{0} pm
+unitsnarrowunitlength-picometerpatternfew{0} pm
+unitsnarrowunitlength-picometerpatternone{0} pm
+unitsnarrowunitlength-picometerpatterntwo{0} pm
+unitsnarrowunitarea-hectarepatterntwo{0} ha
+unitsnarrowunitarea-hectarepatternone{0} ha
+unitsnarrowunitarea-hectarepatternother{0} ha
+unitsnarrowunitarea-hectarepatternfew{0} ha
+unitsnarrowunitangle-degreepatternone{0}°
+unitsnarrowunitangle-degreepatterntwo{0}°
+unitsnarrowunitangle-degreepatternfew{0}°
+unitsnarrowunitangle-degreepatternother{0}°
+unitslongunitfrequency-hertzpatternfew{0} hertzy
+unitslongunitfrequency-hertzpatternother{0} hertzow
+unitslongunitfrequency-hertzpatterntwo{0} hertzaj
+unitslongunitfrequency-hertzpatternone{0} hertz
+unitslongunitfrequency-hertzdisplayNamehertzy
+unitslongunitvolume-pintpatternother{0} pintow
+unitslongunitvolume-pintpatternfew{0} pinty
+unitslongunitvolume-pintpatterntwo{0} pintaj
+unitslongunitvolume-pintpatternone{0} pint
+unitslongunitvolume-pintdisplayNamepinty
+unitslongunitduration-microseconddisplayNamemikrosekundy
+unitslongunitduration-microsecondpatternother{0} mikrosekundow
+unitslongunitduration-microsecondpatternfew{0} mikrosekundy
+unitslongunitduration-microsecondpatterntwo{0} mikrosekundźe
+unitslongunitduration-microsecondpatternone{0} mikrosekunda
+unitslongunitenergy-kilowatt-hourdisplayNamekilowattowe hodźiny
+unitslongunitenergy-kilowatt-hourpatternfew{0} kilowattowe hodźiny
+unitslongunitenergy-kilowatt-hourpatternother{0} kilowattowych hodźin
+unitslongunitenergy-kilowatt-hourpatternone{0} kilowattowa hodźina
+unitslongunitenergy-kilowatt-hourpatterntwo{0} kilowattowej hodźinje
+unitslongunitarea-square-inchpatternother{0} kwadratnych cólow
+unitslongunitarea-square-inchpatternfew{0} kwadratne cóle
+unitslongunitarea-square-inchpatterntwo{0} kwadratnej cólaj
+unitslongunitarea-square-inchpatternone{0} kwadratny cól
+unitslongunitarea-square-inchdisplayNamekwadratne cóle
+unitslongunitlength-inchdisplayNamecóle
+unitslongunitlength-inchpatternother{0} cólow
+unitslongunitlength-inchpatternfew{0} cóle
+unitslongunitlength-inchpatterntwo{0} cólej
+unitslongunitlength-inchpatternone{0} cól
+unitslongunitvolume-cubic-centimeterdisplayNamekubikne centimetry
+unitslongunitvolume-cubic-centimeterpatternfew{0} kubikne centimetry
+unitslongunitvolume-cubic-centimeterpatternother{0} kubiknych centimetrow
+unitslongunitvolume-cubic-centimeterpatternone{0} kubikny centimeter
+unitslongunitvolume-cubic-centimeterpatterntwo{0} kubiknej centimetraj
+unitslongunitvolume-quartpatternone{0} quart
+unitslongunitvolume-quartpatterntwo{0} quartaj
+unitslongunitvolume-quartpatternother{0} quartow
+unitslongunitvolume-quartpatternfew{0} quarty
+unitslongunitvolume-quartdisplayNamequarty
+unitslongunitvolume-cubic-footdisplayNamekubikne stopy
+unitslongunitvolume-cubic-footpatternother{0} kubiknych stopow
+unitslongunitvolume-cubic-footpatternfew{0} kubikne stopy
+unitslongunitvolume-cubic-footpatternone{0} kubikna stopa
+unitslongunitvolume-cubic-footpatterntwo{0} kubiknej stopje
+unitslongunitenergy-kilocaloriedisplayNamekilokalorije
+unitslongunitenergy-kilocaloriepatterntwo{0} kilokaloriji
+unitslongunitenergy-kilocaloriepatternone{0} kilokalorija
+unitslongunitenergy-kilocaloriepatternother{0} kilokalorijow
+unitslongunitenergy-kilocaloriepatternfew{0} kilokalorije
+unitslongunitconsumption-mile-per-gallonpatternone{0} mila na galonu
+unitslongunitconsumption-mile-per-gallonpatterntwo{0} mili na galonu
+unitslongunitconsumption-mile-per-gallonpatternother{0} milow na galonu
+unitslongunitconsumption-mile-per-gallonpatternfew{0} mile na galonu
+unitslongunitconsumption-mile-per-gallondisplayNamemile na galonu
+unitslongunitlength-nanometerdisplayNamenanometry
+unitslongunitlength-nanometerpatternother{0} nanometrow
+unitslongunitlength-nanometerpatternfew{0} nanometry
+unitslongunitlength-nanometerpatternone{0} nanometer
+unitslongunitlength-nanometerpatterntwo{0} nanometraj
+unitslongunitmass-tonpatterntwo{0} ameriskej tonje
+unitslongunitmass-tonpatternone{0} ameriska tona
+unitslongunitmass-tonpatternother{0} ameriskich tonow
+unitslongunitmass-tonpatternfew{0} ameriske tony
+unitslongunitmass-tondisplayNameameriske tony
+unitslongunitdigital-kilobitdisplayNamekilobity
+unitslongunitdigital-kilobitpatterntwo{0} kilobitaj
+unitslongunitdigital-kilobitpatternone{0} kilobit
+unitslongunitdigital-kilobitpatternfew{0} kilobity
+unitslongunitdigital-kilobitpatternother{0} kilobitow
+unitslongunitspeed-meter-per-seconddisplayNamemetry na sekundu
+unitslongunitspeed-meter-per-secondpatterntwo{0} metraj na sekundu
+unitslongunitspeed-meter-per-secondpatternone{0} meter na sekundu
+unitslongunitspeed-meter-per-secondpatternfew{0} metry na sekundu
+unitslongunitspeed-meter-per-secondpatternother{0} metrow na sekundu
+unitslongunitfrequency-kilohertzpatterntwo{0} kilohertzaj
+unitslongunitfrequency-kilohertzpatternone{0} kilohertz
+unitslongunitfrequency-kilohertzpatternother{0} kilohertzow
+unitslongunitfrequency-kilohertzpatternfew{0} kilohertzy
+unitslongunitfrequency-kilohertzdisplayNamekilohertzy
+unitslongunitelectric-amperepatterntwo{0} amperaj
+unitslongunitelectric-amperepatternone{0} ampere
+unitslongunitelectric-amperepatternfew{0} ampery
+unitslongunitelectric-amperepatternother{0} amperow
+unitslongunitelectric-amperedisplayNameampery
+unitslongunitdigital-bytedisplayNamebytey
+unitslongunitdigital-bytepatternfew{0} bytey
+unitslongunitdigital-bytepatternother{0} byteow
+unitslongunitdigital-bytepatterntwo{0} byteaj
+unitslongunitdigital-bytepatternone{0} byte
+unitslongunitlength-micrometerdisplayNamemikrometry
+unitslongunitlength-micrometerpatterntwo{0} mikrometraj
+unitslongunitlength-micrometerpatternone{0} mikrometer
+unitslongunitlength-micrometerpatternfew{0} mikrometry
+unitslongunitlength-micrometerpatternother{0} mikrometrow
+unitslongunitmass-microgrampatternother{0} mikrogramow
+unitslongunitmass-microgrampatternfew{0} mikrogramy
+unitslongunitmass-microgrampatternone{0} mikrogram
+unitslongunitmass-microgrampatterntwo{0} mikrogramaj
+unitslongunitmass-microgramdisplayNamemikrogramy
+unitslongunitmass-ounce-troypatternone{0} troyska unca
+unitslongunitmass-ounce-troypatterntwo{0} troyskej uncy
+unitslongunitmass-ounce-troypatternother{0} troyskich uncow
+unitslongunitmass-ounce-troypatternfew{0} troyske uncy
+unitslongunitmass-ounce-troydisplayNametroyske uncy
+unitslongunitpressure-millimeter-of-mercurypatternfew{0} milimetry žiwoslěbroweho stołpika
+unitslongunitpressure-millimeter-of-mercurypatternother{0} milimetrow žiwoslěbroweho stołpika
+unitslongunitpressure-millimeter-of-mercurypatternone{0} milimeter žiwoslěbroweho stołpika
+unitslongunitpressure-millimeter-of-mercurypatterntwo{0} milimetraj žiwoslěbroweho stołpika
+unitslongunitpressure-millimeter-of-mercurydisplayNamemilimetry žiwoslěbroweho stołpika
+unitslongunitvolume-cubic-kilometerpatternone{0} kubikny kilometer
+unitslongunitvolume-cubic-kilometerpatterntwo{0} kubiknej kilometraj
+unitslongunitvolume-cubic-kilometerpatternfew{0} kubikne kilometry
+unitslongunitvolume-cubic-kilometerpatternother{0} kubiknych kilometrow
+unitslongunitvolume-cubic-kilometerdisplayNamekubikne kilometry
+unitslongunitduration-daypatterntwo{0} dnjej
+unitslongunitduration-daypatternone{0} dźeń
+unitslongunitduration-daypatternother{0} dnjow
+unitslongunitduration-daypatternfew{0} dny
+unitslongunitduration-daydisplayNamedny
+unitslongunitvolume-teaspoonpatternfew{0} łžički
+unitslongunitvolume-teaspoonpatternother{0} łžičkow
+unitslongunitvolume-teaspoonpatternone{0} łžička
+unitslongunitvolume-teaspoonpatterntwo{0} łžičce
+unitslongunitvolume-teaspoondisplayNamełžički
+unitslongunitmass-kilogramdisplayNamekilogramy
+unitslongunitmass-kilogrampatternother{0} kilogramow
+unitslongunitmass-kilogrampatternfew{0} kilogramy
+unitslongunitmass-kilogrampatternone{0} kilogram
+unitslongunitmass-kilogrampatterntwo{0} kilogramaj
+unitslongunitlength-yarddisplayNameyardy
+unitslongunitlength-yardpatternone{0} yard
+unitslongunitlength-yardpatterntwo{0} yardaj
+unitslongunitlength-yardpatternother{0} yardow
+unitslongunitlength-yardpatternfew{0} yardy
+unitslongunitpressure-inch-hgpatternone{0} cól žiwoslěbroweho stołpika
+unitslongunitpressure-inch-hgpatterntwo{0} cólej žiwoslěbroweho stołpika
+unitslongunitpressure-inch-hgpatternother{0} cólow žiwoslěbroweho stołpika
+unitslongunitpressure-inch-hgpatternfew{0} cóle žiwoslěbroweho stołpika
+unitslongunitpressure-inch-hgdisplayNamecóle žiwoslěbroweho stołpika
+unitslongunitduration-minutedisplayNameminuty
+unitslongunitduration-minutepatternfew{0} minuty
+unitslongunitduration-minutepatternother{0} minutow
+unitslongunitduration-minutepatterntwo{0} minuće
+unitslongunitduration-minutepatternone{0} minuta
+unitslongunitlength-meterpatternother{0} metrow
+unitslongunitlength-meterpatternfew{0} metry
+unitslongunitlength-meterpatterntwo{0} metraj
+unitslongunitlength-meterpatternone{0} meter
+unitslongunitlength-meterdisplayNamemetry
+unitslongunitpressure-millibardisplayNamemilibary
+unitslongunitpressure-millibarpatternfew{0} milibary
+unitslongunitpressure-millibarpatternother{0} milibarow
+unitslongunitpressure-millibarpatternone{0} milibar
+unitslongunitpressure-millibarpatterntwo{0} milibaraj
+unitslongunitvolume-centiliterpatterntwo{0} centilitraj
+unitslongunitvolume-centiliterpatternone{0} centiliter
+unitslongunitvolume-centiliterpatternfew{0} centilitry
+unitslongunitvolume-centiliterpatternother{0} centilitrow
+unitslongunitvolume-centiliterdisplayNamecentilitry
+unitslongunitvolume-cubic-yardpatternfew{0} kubikne yardy
+unitslongunitvolume-cubic-yardpatternother{0} kubiknych yardow
+unitslongunitvolume-cubic-yardpatternone{0} kubikny yard
+unitslongunitvolume-cubic-yardpatterntwo{0} kubiknej yardaj
+unitslongunitvolume-cubic-yarddisplayNamekubikne yardy
+unitslongunitdigital-terabitdisplayNameterabity
+unitslongunitdigital-terabitpatternother{0} terabitow
+unitslongunitdigital-terabitpatternfew{0} terabity
+unitslongunitdigital-terabitpatternone{0} terabit
+unitslongunitdigital-terabitpatterntwo{0} terabitaj
+unitslongunitduration-millisecondpatterntwo{0} milisekundźe
+unitslongunitduration-millisecondpatternone{0} milisekunda
+unitslongunitduration-millisecondpatternfew{0} milisekundy
+unitslongunitduration-millisecondpatternother{0} milisekundow
+unitslongunitduration-milliseconddisplayNamemilisekundy
+unitslongunitelectric-voltdisplayNamevolty
+unitslongunitelectric-voltpatternfew{0} volty
+unitslongunitelectric-voltpatternother{0} voltow
+unitslongunitelectric-voltpatternone{0} volt
+unitslongunitelectric-voltpatterntwo{0} voltaj
+unitslongunitlength-picometerdisplayNamepikometry
+unitslongunitlength-picometerpatternone{0} pikometer
+unitslongunitlength-picometerpatterntwo{0} pikometraj
+unitslongunitlength-picometerpatternfew{0} pikometry
+unitslongunitlength-picometerpatternother{0} pikometrow
+unitslongunitlight-luxpatternone{0} lux
+unitslongunitlight-luxpatterntwo{0} lux
+unitslongunitlight-luxpatternfew{0} lux
+unitslongunitlight-luxpatternother{0} lux
+unitslongunitlight-luxdisplayNamelux
+unitslongunittemperature-kelvinpatterntwo{0} stopnjej Kelvina
+unitslongunittemperature-kelvinpatternone{0} stopjeń Kelvina
+unitslongunittemperature-kelvinpatternother{0} stopnjow Kelvina
+unitslongunittemperature-kelvinpatternfew{0} stopnje Kelvina
+unitslongunittemperature-kelvindisplayNamestopnje Kelvina
+unitslongunitenergy-jouledisplayNamejoule
+unitslongunitenergy-joulepatternone{0} joule
+unitslongunitenergy-joulepatterntwo{0} joulej
+unitslongunitenergy-joulepatternother{0} jouleow
+unitslongunitenergy-joulepatternfew{0} joule
+unitslongunitarea-acredisplayNameacry
+unitslongunitarea-acrepatternother{0} acrow
+unitslongunitarea-acrepatternfew{0} acry
+unitslongunitarea-acrepatterntwo{0} acraj
+unitslongunitarea-acrepatternone{0} acre
+unitslongunitangle-degreedisplayNamestopnje
+unitslongunitangle-degreepatternone{0} stopjeń
+unitslongunitangle-degreepatterntwo{0} stopnjej
+unitslongunitangle-degreepatternfew{0} stopnje
+unitslongunitangle-degreepatternother{0} stopnjow
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} metrow na kwadratnu sekundu
+unitslongunitacceleration-meter-per-second-squaredpatternfew{0} metry na kwadratnu sekundu
+unitslongunitacceleration-meter-per-second-squaredpatterntwo{0} metraj na kwadratnu sekundu
+unitslongunitacceleration-meter-per-second-squaredpatternone{0} meter na kwadratnu sekundu
+unitslongunitacceleration-meter-per-second-squareddisplayNamemetry na kwadratnu sekundu
+unitslongunitpower-milliwattdisplayNamemiliwatty
+unitslongunitpower-milliwattpatternother{0} miliwattow
+unitslongunitpower-milliwattpatternfew{0} miliwatty
+unitslongunitpower-milliwattpatterntwo{0} miliwattaj
+unitslongunitpower-milliwattpatternone{0} miliwatt
+unitslongunitspeed-mile-per-hourpatternone{0} mila na hodźinu
+unitslongunitspeed-mile-per-hourpatterntwo{0} mili na hodźinu
+unitslongunitspeed-mile-per-hourpatternfew{0} mile na hodźinu
+unitslongunitspeed-mile-per-hourpatternother{0} milow na hodźinu
+unitslongunitspeed-mile-per-hourdisplayNamemile na hodźinu
+unitslongunittemperature-fahrenheitdisplayNamestopnje Fahrenheita
+unitslongunittemperature-fahrenheitpatternother{0} stopnjow Fahrenheita
+unitslongunittemperature-fahrenheitpatternfew{0} stopnje Fahrenheita
+unitslongunittemperature-fahrenheitpatterntwo{0} stopnjej Fahrenheita
+unitslongunittemperature-fahrenheitpatternone{0} stopjeń Fahrenheita
+unitslongunitvolume-cubic-milepatternother{0} kubiknych milow
+unitslongunitvolume-cubic-milepatternfew{0} kubikne mile
+unitslongunitvolume-cubic-milepatterntwo{0} kubiknej mili
+unitslongunitvolume-cubic-milepatternone{0} kubikna mila
+unitslongunitvolume-cubic-miledisplayNamekubikne mile
+unitslongunitconsumption-liter-per-kilometerpatternone{0} liter na kilometer
+unitslongunitconsumption-liter-per-kilometerpatterntwo{0} litraj na kilometer
+unitslongunitconsumption-liter-per-kilometerpatternother{0} litrow na kilometer
+unitslongunitconsumption-liter-per-kilometerpatternfew{0} litry na kilometer
+unitslongunitconsumption-liter-per-kilometerdisplayNamelitry na kilometer
+unitslongunitarea-hectarepatternfew{0} hektary
+unitslongunitarea-hectarepatternother{0} hektarow
+unitslongunitarea-hectarepatterntwo{0} hektaraj
+unitslongunitarea-hectarepatternone{0} hektar
+unitslongunitarea-hectaredisplayNamehektary
+unitslongunitmass-caratpatterntwo{0} karataj
+unitslongunitmass-caratpatternone{0} karat
+unitslongunitmass-caratpatternother{0} karatow
+unitslongunitmass-caratpatternfew{0} karaty
+unitslongunitmass-caratdisplayNamekaraty
+unitslongunitvolume-milliliterpatternone{0} mililiter
+unitslongunitvolume-milliliterpatterntwo{0} mililitraj
+unitslongunitvolume-milliliterpatternother{0} mililitrow
+unitslongunitvolume-milliliterpatternfew{0} mililitry
+unitslongunitvolume-milliliterdisplayNamemililitry
+unitslongunitenergy-foodcaloriedisplayNamekilokalorije
+unitslongunitenergy-foodcaloriepatternone{0} kilokalorija
+unitslongunitenergy-foodcaloriepatterntwo{0} kilokaloriji
+unitslongunitenergy-foodcaloriepatternother{0} kilokalorijow
+unitslongunitenergy-foodcaloriepatternfew{0} kilokalorije
+unitslongunitpressure-hectopascaldisplayNamehektopascale
+unitslongunitpressure-hectopascalpatternone{0} hektopascal
+unitslongunitpressure-hectopascalpatterntwo{0} hektopascalej
+unitslongunitpressure-hectopascalpatternother{0} hektopascalow
+unitslongunitpressure-hectopascalpatternfew{0} hektopascale
+unitslongunitduration-secondperUnitPattern{0} na sekundu
+unitslongunitduration-seconddisplayNamesekundy
+unitslongunitduration-secondpatternother{0} sekundow
+unitslongunitduration-secondpatternfew{0} sekundy
+unitslongunitduration-secondpatterntwo{0} sekundźe
+unitslongunitduration-secondpatternone{0} sekunda
+unitslongunitvolume-deciliterdisplayNamedecilitry
+unitslongunitvolume-deciliterpatterntwo{0} decilitraj
+unitslongunitvolume-deciliterpatternone{0} deciliter
+unitslongunitvolume-deciliterpatternfew{0} decilitry
+unitslongunitvolume-deciliterpatternother{0} decilitrow
+unitslongunitdigital-kilobytepatterntwo{0} kilobyteaj
+unitslongunitdigital-kilobytepatternone{0} kilobyte
+unitslongunitdigital-kilobytepatternother{0} kilobyteow
+unitslongunitdigital-kilobytepatternfew{0} kilobytey
+unitslongunitdigital-kilobytedisplayNamekilobytey
+unitslongunitarea-square-centimeterpatternother{0} kwadratnych centimetrow
+unitslongunitarea-square-centimeterpatternfew{0} kwadratne centimetry
+unitslongunitarea-square-centimeterpatternone{0} kwadratny centimeter
+unitslongunitarea-square-centimeterpatterntwo{0} kwadratnej centimetraj
+unitslongunitarea-square-centimeterdisplayNamekwadratne centimetry
+unitslongunitlength-astronomical-unitdisplayNameastronomiske jednotki
+unitslongunitlength-astronomical-unitpatternfew{0} astronomiske jednotki
+unitslongunitlength-astronomical-unitpatternother{0} astronomiskich jednotkow
+unitslongunitlength-astronomical-unitpatternone{0} astronomiska jednotka
+unitslongunitlength-astronomical-unitpatterntwo{0} astronomiskej jednotce
+unitslongunitarea-square-footpatternone{0} kwadratna stopa
+unitslongunitarea-square-footpatterntwo{0} kwadratnej stopje
+unitslongunitarea-square-footpatternfew{0} kwadratne stopy
+unitslongunitarea-square-footpatternother{0} kwadratnych stopow
+unitslongunitarea-square-footdisplayNamekwadratne stopy
+unitslongunitvolume-megaliterdisplayNamemegalitry
+unitslongunitvolume-megaliterpatternone{0} megaliter
+unitslongunitvolume-megaliterpatterntwo{0} megalitraj
+unitslongunitvolume-megaliterpatternfew{0} megalitry
+unitslongunitvolume-megaliterpatternother{0} megalitrow
+unitslongunitelectric-ohmdisplayNameohmy
+unitslongunitelectric-ohmpatternother{0} ohmow
+unitslongunitelectric-ohmpatternfew{0} ohmy
+unitslongunitelectric-ohmpatternone{0} ohm
+unitslongunitelectric-ohmpatterntwo{0} ohmaj
+unitslongunitacceleration-g-forcepatternfew{0} jednotki zemskeho pospěšenja
+unitslongunitacceleration-g-forcepatternother{0} jednotkow zemskeho pospěšenja
+unitslongunitacceleration-g-forcepatternone{0} jednotka zemskeho pospěšenja
+unitslongunitacceleration-g-forcepatterntwo{0} jednotce zemskeho pospěšenja
+unitslongunitacceleration-g-forcedisplayNamejednotki zemskeho pospěšenja
+unitslongunitarea-square-kilometerdisplayNamekwadratne kilometry
+unitslongunitarea-square-kilometerpatterntwo{0} kwadratnej kilometraj
+unitslongunitarea-square-kilometerpatternone{0} kwadratny kilometer
+unitslongunitarea-square-kilometerpatternfew{0} kwadratne kilometry
+unitslongunitarea-square-kilometerpatternother{0} kwadratnych kilometrow
+unitslongunitdigital-gigabitdisplayNamegigabity
+unitslongunitdigital-gigabitpatterntwo{0} gigabitaj
+unitslongunitdigital-gigabitpatternone{0} gigabit
+unitslongunitdigital-gigabitpatternother{0} gigabitow
+unitslongunitdigital-gigabitpatternfew{0} gigabity
+unitslongunitvolume-cubic-inchdisplayNamekubikne cóle
+unitslongunitvolume-cubic-inchpatterntwo{0} kubiknej cólej
+unitslongunitvolume-cubic-inchpatternone{0} kubikny cól
+unitslongunitvolume-cubic-inchpatternother{0} kubiknych cólow
+unitslongunitvolume-cubic-inchpatternfew{0} kubikne cóle
+unitslongunitconcentr-karatpatternone{0} karat
+unitslongunitconcentr-karatpatterntwo{0} karataj
+unitslongunitconcentr-karatpatternother{0} karatow
+unitslongunitconcentr-karatpatternfew{0} karaty
+unitslongunitconcentr-karatdisplayNamekaraty
+unitslongunitvolume-fluid-ouncedisplayNameběžite uncy
+unitslongunitvolume-fluid-ouncepatternfew{0} běžite uncy
+unitslongunitvolume-fluid-ouncepatternother{0} běžitych uncow
+unitslongunitvolume-fluid-ouncepatternone{0} běžita unca
+unitslongunitvolume-fluid-ouncepatterntwo{0} běžitej uncy
+unitslongunitlength-centimeterpatternother{0} centimetrow
+unitslongunitlength-centimeterpatternfew{0} centimetry
+unitslongunitlength-centimeterpatternone{0} centimeter
+unitslongunitlength-centimeterpatterntwo{0} centimetraj
+unitslongunitlength-centimeterdisplayNamecentimetry
+unitslongunitlength-parsecdisplayNameparsec
+unitslongunitlength-parsecpatternfew{0} parsec
+unitslongunitlength-parsecpatternother{0} parsec
+unitslongunitlength-parsecpatternone{0} parsec
+unitslongunitlength-parsecpatterntwo{0} parsec
+unitslongunitmass-gramdisplayNamegramy
+unitslongunitmass-grampatternone{0} gram
+unitslongunitmass-grampatterntwo{0} gramaj
+unitslongunitmass-grampatternother{0} gramow
+unitslongunitmass-grampatternfew{0} gramy
+unitslongunitvolume-gallondisplayNamegalony
+unitslongunitvolume-gallonpatternone{0} galona
+unitslongunitvolume-gallonpatterntwo{0} galonje
+unitslongunitvolume-gallonpatternother{0} galonow
+unitslongunitvolume-gallonpatternfew{0} galony
+unitslongunitmass-poundpatternone{0} punt
+unitslongunitmass-poundpatterntwo{0} puntaj
+unitslongunitmass-poundpatternfew{0} punty
+unitslongunitmass-poundpatternother{0} puntow
+unitslongunitmass-pounddisplayNamepunty
+unitslongunitfrequency-gigahertzdisplayNamegigahertzy
+unitslongunitfrequency-gigahertzpatternother{0} gigahertzow
+unitslongunitfrequency-gigahertzpatternfew{0} gigahertzy
+unitslongunitfrequency-gigahertzpatterntwo{0} gigahertzaj
+unitslongunitfrequency-gigahertzpatternone{0} gigahertz
+unitslongunitvolume-tablespoondisplayNamełžicy
+unitslongunitvolume-tablespoonpatternother{0} łžicow
+unitslongunitvolume-tablespoonpatternfew{0} łžicy
+unitslongunitvolume-tablespoonpatterntwo{0} łžicy
+unitslongunitvolume-tablespoonpatternone{0} łžica
+unitslongunitarea-square-yardpatternother{0} kwadratnych yardow
+unitslongunitarea-square-yardpatternfew{0} kwadratne yardy
+unitslongunitarea-square-yardpatterntwo{0} kwadratnej yardaj
+unitslongunitarea-square-yardpatternone{0} kwadratny yard
+unitslongunitarea-square-yarddisplayNamekwadratne yardy
+unitslongunitpressure-pound-per-square-inchdisplayNamepunty na kwadratny cól
+unitslongunitpressure-pound-per-square-inchpatternother{0} puntow na kwadratny cól
+unitslongunitpressure-pound-per-square-inchpatternfew{0} punty na kwadratny cól
+unitslongunitpressure-pound-per-square-inchpatterntwo{0} puntaj na kwadratny cól
+unitslongunitpressure-pound-per-square-inchpatternone{0} punt na kwadratny cól
+unitslongunitvolume-literpatternone{0} liter
+unitslongunitvolume-literpatterntwo{0} litraj
+unitslongunitvolume-literpatternother{0} litrow
+unitslongunitvolume-literpatternfew{0} litry
+unitslongunitvolume-literdisplayNamelitry
+unitslongunitvolume-cubic-meterpatterntwo{0} kubiknej metraj
+unitslongunitvolume-cubic-meterpatternone{0} kubikny meter
+unitslongunitvolume-cubic-meterpatternother{0} kubiknych metrow
+unitslongunitvolume-cubic-meterpatternfew{0} kubikne metry
+unitslongunitvolume-cubic-meterdisplayNamekubikne metry
+unitslongunitpower-megawattpatternfew{0} megawatty
+unitslongunitpower-megawattpatternother{0} megawattow
+unitslongunitpower-megawattpatterntwo{0} megawattaj
+unitslongunitpower-megawattpatternone{0} megawatt
+unitslongunitpower-megawattdisplayNamemegawatty
+unitslongunitvolume-acre-footdisplayNameacre-stopy
+unitslongunitvolume-acre-footpatternone{0} acre-stopa
+unitslongunitvolume-acre-footpatterntwo{0} acre-stopje
+unitslongunitvolume-acre-footpatternfew{0} acre-stopy
+unitslongunitvolume-acre-footpatternother{0} acre-stopow
+unitslongunitangle-arc-seconddisplayNamesekundy
+unitslongunitangle-arc-secondpatternother{0} sekundow
+unitslongunitangle-arc-secondpatternfew{0} sekundy
+unitslongunitangle-arc-secondpatternone{0} sekunda
+unitslongunitangle-arc-secondpatterntwo{0} sekundźe
+unitslongunitpower-kilowattpatternone{0} kilowatt
+unitslongunitpower-kilowattpatterntwo{0} kilowattaj
+unitslongunitpower-kilowattpatternfew{0} kilowatty
+unitslongunitpower-kilowattpatternother{0} kilowattow
+unitslongunitpower-kilowattdisplayNamekilowatty
+unitslongunitduration-hourpatternone{0} hodźina
+unitslongunitduration-hourpatterntwo{0} hodźinje
+unitslongunitduration-hourpatternother{0} hodźinow
+unitslongunitduration-hourpatternfew{0} hodźiny
+unitslongunitduration-hourperUnitPattern{0} na hodźinu
+unitslongunitduration-hourdisplayNamehodźiny
+unitslongunitfrequency-megahertzpatternfew{0} megahertzy
+unitslongunitfrequency-megahertzpatternother{0} megahertzow
+unitslongunitfrequency-megahertzpatternone{0} megahertz
+unitslongunitfrequency-megahertzpatterntwo{0} megahertzaj
+unitslongunitfrequency-megahertzdisplayNamemegahertzy
+unitslongunitduration-nanosecondpatternother{0} nanosekundow
+unitslongunitduration-nanosecondpatternfew{0} nanosekundy
+unitslongunitduration-nanosecondpatterntwo{0} nanosekundźe
+unitslongunitduration-nanosecondpatternone{0} nanosekunda
+unitslongunitduration-nanoseconddisplayNamenanosekundy
+unitslongunitangle-arc-minutedisplayNameminuty
+unitslongunitangle-arc-minutepatterntwo{0} minuće
+unitslongunitangle-arc-minutepatternone{0} minuta
+unitslongunitangle-arc-minutepatternfew{0} minuty
+unitslongunitangle-arc-minutepatternother{0} minutow
+unitslongunitvolume-cuppatterntwo{0} šalce
+unitslongunitvolume-cuppatternone{0} šalka
+unitslongunitvolume-cuppatternfew{0} šalki
+unitslongunitvolume-cuppatternother{0} šalkow
+unitslongunitvolume-cupdisplayNamešalki
+unitslongunitelectric-milliamperepatternone{0} milliampere
+unitslongunitelectric-milliamperepatterntwo{0} milliamperaj
+unitslongunitelectric-milliamperepatternfew{0} milliampery
+unitslongunitelectric-milliamperepatternother{0} milliamperow
+unitslongunitelectric-milliamperedisplayNamemilliampery
+unitslongunitduration-monthpatternother{0} měsacow
+unitslongunitduration-monthpatternfew{0} měsacy
+unitslongunitduration-monthpatternone{0} měsac
+unitslongunitduration-monthpatterntwo{0} měsacaj
+unitslongunitduration-monthdisplayNameměsacy
+unitslongunitdigital-bitpatterntwo{0} bitaj
+unitslongunitdigital-bitpatternone{0} bit
+unitslongunitdigital-bitpatternfew{0} bity
+unitslongunitdigital-bitpatternother{0} bitow
+unitslongunitdigital-bitdisplayNamebity
+unitslongunitlength-millimeterdisplayNamemilimetry
+unitslongunitlength-millimeterpatternother{0} milimetrow
+unitslongunitlength-millimeterpatternfew{0} milimetry
+unitslongunitlength-millimeterpatternone{0} milimeter
+unitslongunitlength-millimeterpatterntwo{0} milimetraj
+unitslongunitpower-wattdisplayNamewatty
+unitslongunitpower-wattpatterntwo{0} wattaj
+unitslongunitpower-wattpatternone{0} watt
+unitslongunitpower-wattpatternother{0} wattow
+unitslongunitpower-wattpatternfew{0} watty
+unitslongunitlength-milepatternfew{0} mile
+unitslongunitlength-milepatternother{0} milow
+unitslongunitlength-milepatterntwo{0} mili
+unitslongunitlength-milepatternone{0} mila
+unitslongunitlength-miledisplayNamemile
+unitslongunitspeed-kilometer-per-hourpatternother{0} kilometrow na hodźinu
+unitslongunitspeed-kilometer-per-hourpatternfew{0} kilometry na hodźinu
+unitslongunitspeed-kilometer-per-hourpatternone{0} kilometer na hodźinu
+unitslongunitspeed-kilometer-per-hourpatterntwo{0} kilometraj na hodźinu
+unitslongunitspeed-kilometer-per-hourdisplayNamekilometry na hodźinu
+unitslongunitduration-yeardisplayNamelěta
+unitslongunitduration-yearpatternone{0} lěto
+unitslongunitduration-yearpatterntwo{0} lěće
+unitslongunitduration-yearpatternother{0} lět
+unitslongunitduration-yearpatternfew{0} lěta
+unitslongunitdigital-megabitdisplayNamemegabity
+unitslongunitdigital-megabitpatterntwo{0} megabitaj
+unitslongunitdigital-megabitpatternone{0} megabit
+unitslongunitdigital-megabitpatternfew{0} megabity
+unitslongunitdigital-megabitpatternother{0} megabitow
+unitslongunitlength-footpatternone{0} stopa
+unitslongunitlength-footpatterntwo{0} stopje
+unitslongunitlength-footpatternfew{0} stopy
+unitslongunitlength-footpatternother{0} stopow
+unitslongunitlength-footdisplayNamestopy
+unitslongunitmass-milligrampatterntwo{0} miligramaj
+unitslongunitmass-milligrampatternone{0} miligram
+unitslongunitmass-milligrampatternother{0} miligramow
+unitslongunitmass-milligrampatternfew{0} miligramy
+unitslongunitmass-milligramdisplayNamemiligramy
+unitslongunitarea-square-meterdisplayNamekwadratne metry
+unitslongunitarea-square-meterpatternother{0} kwadratnych metrow
+unitslongunitarea-square-meterpatternfew{0} kwadratne metry
+unitslongunitarea-square-meterpatterntwo{0} kwadratnej metraj
+unitslongunitarea-square-meterpatternone{0} kwadratny meter
+unitslongunitpower-gigawattpatternother{0} gigawattow
+unitslongunitpower-gigawattpatternfew{0} gigawatty
+unitslongunitpower-gigawattpatternone{0} gigawatt
+unitslongunitpower-gigawattpatterntwo{0} gigawattaj
+unitslongunitpower-gigawattdisplayNamegigawatty
+unitslongunitlength-nautical-milepatternother{0} nawtiskich milow
+unitslongunitlength-nautical-milepatternfew{0} nawtiske mile
+unitslongunitlength-nautical-milepatterntwo{0} nawtiskej mili
+unitslongunitlength-nautical-milepatternone{0} nawtiska mila
+unitslongunitlength-nautical-miledisplayNamenawtiske mile
+unitslongunitvolume-hectoliterdisplayNamehektolitry
+unitslongunitvolume-hectoliterpatternother{0} hektolitrow
+unitslongunitvolume-hectoliterpatternfew{0} hektolitry
+unitslongunitvolume-hectoliterpatternone{0} hektoliter
+unitslongunitvolume-hectoliterpatterntwo{0} hektolitraj
+unitslongunitlength-kilometerdisplayNamekilometry
+unitslongunitlength-kilometerpatternone{0} kilometer
+unitslongunitlength-kilometerpatterntwo{0} kilometraj
+unitslongunitlength-kilometerpatternfew{0} kilometry
+unitslongunitlength-kilometerpatternother{0} kilometrow
+unitslongunitlength-decimeterdisplayNamedecimetry
+unitslongunitlength-decimeterpatternone{0} decimeter
+unitslongunitlength-decimeterpatterntwo{0} decimetraj
+unitslongunitlength-decimeterpatternother{0} decimetrow
+unitslongunitlength-decimeterpatternfew{0} decimetry
+unitslongunitlength-light-yeardisplayNameswětłolěta
+unitslongunitlength-light-yearpatternfew{0} swětłolěta
+unitslongunitlength-light-yearpatternother{0} swětłolět
+unitslongunitlength-light-yearpatternone{0} swětłolěto
+unitslongunitlength-light-yearpatterntwo{0} swětłolěće
+unitslongunitenergy-caloriedisplayNamekalorije
+unitslongunitenergy-caloriepatternone{0} kalorija
+unitslongunitenergy-caloriepatterntwo{0} kaloriji
+unitslongunitenergy-caloriepatternother{0} kalorijow
+unitslongunitenergy-caloriepatternfew{0} kalorije
+unitslongunitarea-square-miledisplayNamekwadratne mile
+unitslongunitarea-square-milepatternone{0} kwadratna mila
+unitslongunitarea-square-milepatterntwo{0} kwadratnej mili
+unitslongunitarea-square-milepatternfew{0} kwadratne mile
+unitslongunitarea-square-milepatternother{0} kwadratnych milow
+unitslongunitangle-radianpatternfew{0} radianty
+unitslongunitangle-radianpatternother{0} radiantow
+unitslongunitangle-radianpatternone{0} radiant
+unitslongunitangle-radianpatterntwo{0} radiantaj
+unitslongunitangle-radiandisplayNameradianty
+unitslongunitpower-horsepowerpatterntwo{0} konjacej mocy
+unitslongunitpower-horsepowerpatternone{0} konjaca móc
+unitslongunitpower-horsepowerpatternfew{0} konjace mocy
+unitslongunitpower-horsepowerpatternother{0} konjacych mocow
+unitslongunitpower-horsepowerdisplayNamekonjace mocy
+unitslongunitenergy-kilojouledisplayNamekilojoule
+unitslongunitenergy-kilojoulepatternother{0} kilojouleow
+unitslongunitenergy-kilojoulepatternfew{0} kilojoule
+unitslongunitenergy-kilojoulepatternone{0} kilojoule
+unitslongunitenergy-kilojoulepatterntwo{0} kilojoulej
+unitslongunitduration-weekdisplayNametydźenje
+unitslongunitduration-weekpatterntwo{0} tydźenjej
+unitslongunitduration-weekpatternone{0} tydźeń
+unitslongunitduration-weekpatternfew{0} tydźenje
+unitslongunitduration-weekpatternother{0} tydźenjow
+unitslongunitdigital-megabytepatternfew{0} megabytey
+unitslongunitdigital-megabytepatternother{0} megabyteow
+unitslongunitdigital-megabytepatternone{0} megabyte
+unitslongunitdigital-megabytepatterntwo{0} megabyteaj
+unitslongunitdigital-megabytedisplayNamemegabytey
+unitslongunitmass-ouncedisplayNameuncy
+unitslongunitmass-ouncepatternfew{0} uncy
+unitslongunitmass-ouncepatternother{0} uncow
+unitslongunitmass-ouncepatterntwo{0} uncy
+unitslongunitmass-ouncepatternone{0} unca
+unitslongunitdigital-gigabytepatterntwo{0} gigabyteaj
+unitslongunitdigital-gigabytepatternone{0} gigabyte
+unitslongunitdigital-gigabytepatternfew{0} gigabytey
+unitslongunitdigital-gigabytepatternother{0} gigabyteow
+unitslongunitdigital-gigabytedisplayNamegigabytey
+unitslongunitmass-metric-tondisplayNametony
+unitslongunitmass-metric-tonpatternother{0} tonow
+unitslongunitmass-metric-tonpatternfew{0} tony
+unitslongunitmass-metric-tonpatternone{0} tona
+unitslongunitmass-metric-tonpatterntwo{0} tonje
+unitslongunitdigital-terabytedisplayNameterabytey
+unitslongunitdigital-terabytepatterntwo{0} terabyteaj
+unitslongunitdigital-terabytepatternone{0} terabyte
+unitslongunitdigital-terabytepatternfew{0} terabytey
+unitslongunitdigital-terabytepatternother{0} terabyteow
+unitslongunittemperature-celsiusdisplayNamestopnje Celsiusa
+unitslongunittemperature-celsiuspatternfew{0} stopnje Celsiusa
+unitslongunittemperature-celsiuspatternother{0} stopnjow Celsiusa
+unitslongunittemperature-celsiuspatternone{0} stopjeń Celsiusa
+unitslongunittemperature-celsiuspatterntwo{0} stopnjej Celsiusa
+unitsshortunitvolume-acre-footpatterntwo{0} ac ft
+unitsshortunitvolume-acre-footpatternone{0} ac ft
+unitsshortunitvolume-acre-footpatternfew{0} ac ft
+unitsshortunitvolume-acre-footpatternother{0} ac ft
+unitsshortunitvolume-acre-footdisplayNameac ft
+unitsshortunitangle-arc-seconddisplayName″
+unitsshortunitangle-arc-secondpatternfew{0} ″
+unitsshortunitangle-arc-secondpatternother{0} ″
+unitsshortunitangle-arc-secondpatternone{0} ″
+unitsshortunitangle-arc-secondpatterntwo{0} ″
+unitsshortunitpower-kilowattdisplayNamekW
+unitsshortunitpower-kilowattpatterntwo{0} kW
+unitsshortunitpower-kilowattpatternone{0} kW
+unitsshortunitpower-kilowattpatternother{0} kW
+unitsshortunitpower-kilowattpatternfew{0} kW
+unitsshortunitvolume-literdisplayNamel
+unitsshortunitvolume-literpatternone{0} l
+unitsshortunitvolume-literpatterntwo{0} l
+unitsshortunitvolume-literpatternfew{0} l
+unitsshortunitvolume-literpatternother{0} l
+unitsshortunitvolume-cubic-meterpatterntwo{0} m³
+unitsshortunitvolume-cubic-meterpatternone{0} m³
+unitsshortunitvolume-cubic-meterpatternfew{0} m³
+unitsshortunitvolume-cubic-meterpatternother{0} m³
+unitsshortunitvolume-cubic-meterdisplayNamem³
+unitsshortunitpower-megawattpatterntwo{0} MW
+unitsshortunitpower-megawattpatternone{0} MW
+unitsshortunitpower-megawattpatternother{0} MW
+unitsshortunitpower-megawattpatternfew{0} MW
+unitsshortunitpower-megawattdisplayNameMW
+unitsshortunitfrequency-megahertzdisplayNameMHz
+unitsshortunitfrequency-megahertzpatternone{0} MHz
+unitsshortunitfrequency-megahertzpatterntwo{0} MHz
+unitsshortunitfrequency-megahertzpatternfew{0} MHz
+unitsshortunitfrequency-megahertzpatternother{0} MHz
+unitsshortunitduration-nanoseconddisplayNamens
+unitsshortunitduration-nanosecondpatternfew{0} ns
+unitsshortunitduration-nanosecondpatternother{0} ns
+unitsshortunitduration-nanosecondpatterntwo{0} ns
+unitsshortunitduration-nanosecondpatternone{0} ns
+unitsshortunitangle-arc-minutedisplayName′
+unitsshortunitangle-arc-minutepatternone{0} ′
+unitsshortunitangle-arc-minutepatterntwo{0} ′
+unitsshortunitangle-arc-minutepatternother{0} ′
+unitsshortunitangle-arc-minutepatternfew{0} ′
+unitsshortunitduration-hourdisplayNamehodź.
+unitsshortunitduration-hourperUnitPattern{0}/h
+unitsshortunitduration-hourpatternother{0} hodź.
+unitsshortunitduration-hourpatternfew{0} hodź.
+unitsshortunitduration-hourpatterntwo{0} hodź.
+unitsshortunitduration-hourpatternone{0} hodź.
+unitsshortunitlength-centimeterdisplayNamecm
+unitsshortunitlength-centimeterpatternfew{0} cm
+unitsshortunitlength-centimeterpatternother{0} cm
+unitsshortunitlength-centimeterpatterntwo{0} cm
+unitsshortunitlength-centimeterpatternone{0} cm
+unitsshortunitvolume-fluid-ouncepatternother{0} fl. oz.
+unitsshortunitvolume-fluid-ouncepatternfew{0} fl. oz.
+unitsshortunitvolume-fluid-ouncepatternone{0} fl. oz.
+unitsshortunitvolume-fluid-ouncepatterntwo{0} fl. oz.
+unitsshortunitvolume-fluid-ouncedisplayNamefl. oz.
+unitsshortunitmass-gramdisplayNameg
+unitsshortunitmass-grampatternone{0} g
+unitsshortunitmass-grampatterntwo{0} g
+unitsshortunitmass-grampatternfew{0} g
+unitsshortunitmass-grampatternother{0} g
+unitsshortunitlength-parsecpatternfew{0} pc
+unitsshortunitlength-parsecpatternother{0} pc
+unitsshortunitlength-parsecpatternone{0} pc
+unitsshortunitlength-parsecpatterntwo{0} pc
+unitsshortunitlength-parsecdisplayNamepc
+unitsshortunitvolume-cubic-inchdisplayNamein³
+unitsshortunitvolume-cubic-inchpatterntwo{0} in³
+unitsshortunitvolume-cubic-inchpatternone{0} in³
+unitsshortunitvolume-cubic-inchpatternfew{0} in³
+unitsshortunitvolume-cubic-inchpatternother{0} in³
+unitsshortunitdigital-gigabitdisplayNameGb
+unitsshortunitdigital-gigabitpatternfew{0} Gb
+unitsshortunitdigital-gigabitpatternother{0} Gb
+unitsshortunitdigital-gigabitpatterntwo{0} Gb
+unitsshortunitdigital-gigabitpatternone{0} Gb
+unitsshortunitconcentr-karatdisplayNamekt
+unitsshortunitconcentr-karatpatternother{0} kt
+unitsshortunitconcentr-karatpatternfew{0} kt
+unitsshortunitconcentr-karatpatternone{0} kt
+unitsshortunitconcentr-karatpatterntwo{0} kt
+unitsshortunitfrequency-gigahertzdisplayNameGHz
+unitsshortunitfrequency-gigahertzpatternone{0} GHz
+unitsshortunitfrequency-gigahertzpatterntwo{0} GHz
+unitsshortunitfrequency-gigahertzpatternfew{0} GHz
+unitsshortunitfrequency-gigahertzpatternother{0} GHz
+unitsshortunitvolume-tablespoondisplayNamełž.
+unitsshortunitvolume-tablespoonpatternfew{0} łž.
+unitsshortunitvolume-tablespoonpatternother{0} łž.
+unitsshortunitvolume-tablespoonpatternone{0} łž.
+unitsshortunitvolume-tablespoonpatterntwo{0} łž.
+unitsshortunitpressure-pound-per-square-inchdisplayNamepsi
+unitsshortunitpressure-pound-per-square-inchpatterntwo{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternone{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternfew{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternother{0} psi
+unitsshortunitarea-square-yarddisplayNameyd²
+unitsshortunitarea-square-yardpatternone{0} yd²
+unitsshortunitarea-square-yardpatterntwo{0} yd²
+unitsshortunitarea-square-yardpatternother{0} yd²
+unitsshortunitarea-square-yardpatternfew{0} yd²
+unitsshortunitvolume-gallondisplayNamegal
+unitsshortunitvolume-gallonpatterntwo{0} gal
+unitsshortunitvolume-gallonpatternone{0} gal
+unitsshortunitvolume-gallonpatternother{0} gal
+unitsshortunitvolume-gallonpatternfew{0} gal
+unitsshortunitmass-pounddisplayNamelb
+unitsshortunitmass-poundpatternfew{0} lb
+unitsshortunitmass-poundpatternother{0} lb
+unitsshortunitmass-poundpatterntwo{0} lb
+unitsshortunitmass-poundpatternone{0} lb
+unitsshortunitenergy-caloriepatternone{0} cal
+unitsshortunitenergy-caloriepatterntwo{0} cal
+unitsshortunitenergy-caloriepatternother{0} cal
+unitsshortunitenergy-caloriepatternfew{0} cal
+unitsshortunitenergy-caloriedisplayNamecal
+unitsshortunitarea-square-milepatternother{0} mi²
+unitsshortunitarea-square-milepatternfew{0} mi²
+unitsshortunitarea-square-milepatterntwo{0} mi²
+unitsshortunitarea-square-milepatternone{0} mi²
+unitsshortunitarea-square-miledisplayNamemi²
+unitsshortunitangle-radianpatterntwo{0} rad
+unitsshortunitangle-radianpatternone{0} rad
+unitsshortunitangle-radianpatternother{0} rad
+unitsshortunitangle-radianpatternfew{0} rad
+unitsshortunitangle-radiandisplayNamerad
+unitsshortunitpower-horsepowerpatternfew{0} PS
+unitsshortunitpower-horsepowerpatternother{0} PS
+unitsshortunitpower-horsepowerpatterntwo{0} PS
+unitsshortunitpower-horsepowerpatternone{0} PS
+unitsshortunitpower-horsepowerdisplayNamePS
+unitsshortunitvolume-hectoliterdisplayNamehl
+unitsshortunitvolume-hectoliterpatternone{0} hl
+unitsshortunitvolume-hectoliterpatterntwo{0} hl
+unitsshortunitvolume-hectoliterpatternother{0} hl
+unitsshortunitvolume-hectoliterpatternfew{0} hl
+unitsshortunitlength-kilometerpatternfew{0} km
+unitsshortunitlength-kilometerpatternother{0} km
+unitsshortunitlength-kilometerpatterntwo{0} km
+unitsshortunitlength-kilometerpatternone{0} km
+unitsshortunitlength-kilometerdisplayNamekm
+unitsshortunitlength-decimeterpatternother{0} dm
+unitsshortunitlength-decimeterpatternfew{0} dm
+unitsshortunitlength-decimeterpatterntwo{0} dm
+unitsshortunitlength-decimeterpatternone{0} dm
+unitsshortunitlength-decimeterdisplayNamedm
+unitsshortunitlength-light-yearpatternfew{0} ly
+unitsshortunitlength-light-yearpatternother{0} ly
+unitsshortunitlength-light-yearpatterntwo{0} ly
+unitsshortunitlength-light-yearpatternone{0} ly
+unitsshortunitlength-light-yeardisplayNamely
+unitsshortunitdigital-gigabytedisplayNameGB
+unitsshortunitdigital-gigabytepatternfew{0} GB
+unitsshortunitdigital-gigabytepatternother{0} GB
+unitsshortunitdigital-gigabytepatterntwo{0} GB
+unitsshortunitdigital-gigabytepatternone{0} GB
+unitsshortunitmass-metric-tondisplayNamet
+unitsshortunitmass-metric-tonpatternone{0} t
+unitsshortunitmass-metric-tonpatterntwo{0} t
+unitsshortunitmass-metric-tonpatternfew{0} t
+unitsshortunitmass-metric-tonpatternother{0} t
+unitsshortunittemperature-celsiuspatternone{0}°C
+unitsshortunittemperature-celsiuspatterntwo{0}°C
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunittemperature-celsiuspatternfew{0}°C
+unitsshortunittemperature-celsiusdisplayName°C
+unitsshortunitdigital-terabytepatterntwo{0} TB
+unitsshortunitdigital-terabytepatternone{0} TB
+unitsshortunitdigital-terabytepatternother{0} TB
+unitsshortunitdigital-terabytepatternfew{0} TB
+unitsshortunitdigital-terabytedisplayNameTB
+unitsshortunitenergy-kilojoulepatternother{0} kJ
+unitsshortunitenergy-kilojoulepatternfew{0} kJ
+unitsshortunitenergy-kilojoulepatterntwo{0} kJ
+unitsshortunitenergy-kilojoulepatternone{0} kJ
+unitsshortunitenergy-kilojouledisplayNamekJ
+unitsshortunitduration-weekdisplayNametydź.
+unitsshortunitduration-weekpatterntwo{0} tydź.
+unitsshortunitduration-weekpatternone{0} tydź.
+unitsshortunitduration-weekpatternother{0} tydź.
+unitsshortunitduration-weekpatternfew{0} tydź.
+unitsshortunitdigital-megabytepatterntwo{0} MB
+unitsshortunitdigital-megabytepatternone{0} MB
+unitsshortunitdigital-megabytepatternfew{0} MB
+unitsshortunitdigital-megabytepatternother{0} MB
+unitsshortunitdigital-megabytedisplayNameMB
+unitsshortunitmass-ouncedisplayNameoz
+unitsshortunitmass-ouncepatterntwo{0} oz
+unitsshortunitmass-ouncepatternone{0} oz
+unitsshortunitmass-ouncepatternother{0} oz
+unitsshortunitmass-ouncepatternfew{0} oz
+unitsshortunitvolume-cupdisplayNameš.
+unitsshortunitvolume-cuppatternother{0} š.
+unitsshortunitvolume-cuppatternfew{0} š.
+unitsshortunitvolume-cuppatterntwo{0} š.
+unitsshortunitvolume-cuppatternone{0} š.
+unitsshortunitdigital-bitpatternother{0} bit
+unitsshortunitdigital-bitpatternfew{0} bit
+unitsshortunitdigital-bitpatternone{0} bit
+unitsshortunitdigital-bitpatterntwo{0} bit
+unitsshortunitdigital-bitdisplayNamebit
+unitsshortunitelectric-milliamperedisplayNamemA
+unitsshortunitelectric-milliamperepatterntwo{0} mA
+unitsshortunitelectric-milliamperepatternone{0} mA
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitelectric-milliamperepatternfew{0} mA
+unitsshortunitduration-monthpatterntwo{0} měs.
+unitsshortunitduration-monthpatternone{0} měs.
+unitsshortunitduration-monthpatternfew{0} měs.
+unitsshortunitduration-monthpatternother{0} měs.
+unitsshortunitduration-monthdisplayNameměs.
+unitsshortunitlength-millimeterpatternfew{0} mm
+unitsshortunitlength-millimeterpatternother{0} mm
+unitsshortunitlength-millimeterpatternone{0} mm
+unitsshortunitlength-millimeterpatterntwo{0} mm
+unitsshortunitlength-millimeterdisplayNamemm
+unitsshortunitlength-miledisplayNamemi
+unitsshortunitlength-milepatternfew{0} mi
+unitsshortunitlength-milepatternother{0} mi
+unitsshortunitlength-milepatterntwo{0} mi
+unitsshortunitlength-milepatternone{0} mi
+unitsshortunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsshortunitspeed-kilometer-per-hourpatternone{0} km/h
+unitsshortunitspeed-kilometer-per-hourpatterntwo{0} km/h
+unitsshortunitspeed-kilometer-per-hourpatternother{0} km/h
+unitsshortunitspeed-kilometer-per-hourpatternfew{0} km/h
+unitsshortunitpower-wattdisplayNameW
+unitsshortunitpower-wattpatternone{0} W
+unitsshortunitpower-wattpatterntwo{0} W
+unitsshortunitpower-wattpatternfew{0} W
+unitsshortunitpower-wattpatternother{0} W
+unitsshortunitlength-nautical-milepatternfew{0} nmi
+unitsshortunitlength-nautical-milepatternother{0} nmi
+unitsshortunitlength-nautical-milepatterntwo{0} nmi
+unitsshortunitlength-nautical-milepatternone{0} nmi
+unitsshortunitlength-nautical-miledisplayNamenmi
+unitsshortunitduration-yeardisplayNamel.
+unitsshortunitduration-yearpatternfew{0} l.
+unitsshortunitduration-yearpatternother{0} l.
+unitsshortunitduration-yearpatternone{0} l.
+unitsshortunitduration-yearpatterntwo{0} l.
+unitsshortunitarea-square-meterdisplayNamem²
+unitsshortunitarea-square-meterpatternone{0} m²
+unitsshortunitarea-square-meterpatterntwo{0} m²
+unitsshortunitarea-square-meterpatternfew{0} m²
+unitsshortunitarea-square-meterpatternother{0} m²
+unitsshortunitdigital-megabitdisplayNameMb
+unitsshortunitdigital-megabitpatternother{0} Mb
+unitsshortunitdigital-megabitpatternfew{0} Mb
+unitsshortunitdigital-megabitpatterntwo{0} Mb
+unitsshortunitdigital-megabitpatternone{0} Mb
+unitsshortunitlength-footdisplayNameft
+unitsshortunitlength-footpatterntwo{0} ft
+unitsshortunitlength-footpatternone{0} ft
+unitsshortunitlength-footpatternother{0} ft
+unitsshortunitlength-footpatternfew{0} ft
+unitsshortunitmass-milligramdisplayNamemg
+unitsshortunitmass-milligrampatterntwo{0} mg
+unitsshortunitmass-milligrampatternone{0} mg
+unitsshortunitmass-milligrampatternother{0} mg
+unitsshortunitmass-milligrampatternfew{0} mg
+unitsshortunitpower-gigawattpatternone{0} GW
+unitsshortunitpower-gigawattpatterntwo{0} GW
+unitsshortunitpower-gigawattpatternfew{0} GW
+unitsshortunitpower-gigawattpatternother{0} GW
+unitsshortunitpower-gigawattdisplayNameGW
+unitsshortunitduration-minutepatternfew{0} min.
+unitsshortunitduration-minutepatternother{0} min.
+unitsshortunitduration-minutepatterntwo{0} min.
+unitsshortunitduration-minutepatternone{0} min.
+unitsshortunitduration-minutedisplayNamemin.
+unitsshortunitlength-meterpatternone{0} m
+unitsshortunitlength-meterpatterntwo{0} m
+unitsshortunitlength-meterpatternother{0} m
+unitsshortunitlength-meterpatternfew{0} m
+unitsshortunitlength-meterdisplayNamem
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitpressure-millibarpatternfew{0} mbar
+unitsshortunitpressure-millibarpatterntwo{0} mbar
+unitsshortunitpressure-millibarpatternone{0} mbar
+unitsshortunitpressure-millibardisplayNamembar
+unitsshortunitlength-yardpatternone{0} yd
+unitsshortunitlength-yardpatterntwo{0} yd
+unitsshortunitlength-yardpatternfew{0} yd
+unitsshortunitlength-yardpatternother{0} yd
+unitsshortunitlength-yarddisplayNameyd
+unitsshortunitvolume-teaspoondisplayNamełžk.
+unitsshortunitvolume-teaspoonpatternother{0} łžk.
+unitsshortunitvolume-teaspoonpatternfew{0} łžk.
+unitsshortunitvolume-teaspoonpatterntwo{0} łžk.
+unitsshortunitvolume-teaspoonpatternone{0} łžk.
+unitsshortunitmass-kilogramdisplayNamekg
+unitsshortunitmass-kilogrampatterntwo{0} kg
+unitsshortunitmass-kilogrampatternone{0} kg
+unitsshortunitmass-kilogrampatternfew{0} kg
+unitsshortunitmass-kilogrampatternother{0} kg
+unitsshortunitduration-daydisplayNamedny
+unitsshortunitduration-daypatterntwo{0} dn.
+unitsshortunitduration-daypatternone{0} dź.
+unitsshortunitduration-daypatternfew{0} dn.
+unitsshortunitduration-daypatternother{0} dn.
+unitsshortunitpressure-inch-hgdisplayNameinHg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitpressure-inch-hgpatternfew{0} inHg
+unitsshortunitpressure-inch-hgpatterntwo{0} inHg
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitduration-milliseconddisplayNamems
+unitsshortunitduration-millisecondpatternother{0} ms
+unitsshortunitduration-millisecondpatternfew{0} ms
+unitsshortunitduration-millisecondpatternone{0} ms
+unitsshortunitduration-millisecondpatterntwo{0} ms
+unitsshortunitvolume-cubic-yardpatternother{0} yd³
+unitsshortunitvolume-cubic-yardpatternfew{0} yd³
+unitsshortunitvolume-cubic-yardpatternone{0} yd³
+unitsshortunitvolume-cubic-yardpatterntwo{0} yd³
+unitsshortunitvolume-cubic-yarddisplayNameyd³
+unitsshortunitvolume-centiliterdisplayNamecl
+unitsshortunitvolume-centiliterpatternfew{0} cl
+unitsshortunitvolume-centiliterpatternother{0} cl
+unitsshortunitvolume-centiliterpatterntwo{0} cl
+unitsshortunitvolume-centiliterpatternone{0} cl
+unitsshortunitdigital-terabitdisplayNameTb
+unitsshortunitdigital-terabitpatternfew{0} Tb
+unitsshortunitdigital-terabitpatternother{0} Tb
+unitsshortunitdigital-terabitpatterntwo{0} Tb
+unitsshortunitdigital-terabitpatternone{0} Tb
+unitsshortunitvolume-quartdisplayNameqt
+unitsshortunitvolume-quartpatterntwo{0} qt
+unitsshortunitvolume-quartpatternone{0} qt
+unitsshortunitvolume-quartpatternfew{0} qt
+unitsshortunitvolume-quartpatternother{0} qt
+unitsshortunitenergy-kilocaloriedisplayNamekcal
+unitsshortunitenergy-kilocaloriepatternother{0} kcal
+unitsshortunitenergy-kilocaloriepatternfew{0} kcal
+unitsshortunitenergy-kilocaloriepatternone{0} kcal
+unitsshortunitenergy-kilocaloriepatterntwo{0} kcal
+unitsshortunitvolume-cubic-footpatternother{0} ft³
+unitsshortunitvolume-cubic-footpatternfew{0} ft³
+unitsshortunitvolume-cubic-footpatternone{0} ft³
+unitsshortunitvolume-cubic-footpatterntwo{0} ft³
+unitsshortunitvolume-cubic-footdisplayNameft³
+unitsshortunitvolume-cubic-centimeterdisplayNamecm³
+unitsshortunitvolume-cubic-centimeterpatternfew{0} cm³
+unitsshortunitvolume-cubic-centimeterpatternother{0} cm³
+unitsshortunitvolume-cubic-centimeterpatternone{0} cm³
+unitsshortunitvolume-cubic-centimeterpatterntwo{0} cm³
+unitsshortunitconsumption-mile-per-gallonpatternother{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatternfew{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatterntwo{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatternone{0} mpg
+unitsshortunitconsumption-mile-per-gallondisplayNamempg
+unitsshortunitlength-nanometerpatterntwo{0} nm
+unitsshortunitlength-nanometerpatternone{0} nm
+unitsshortunitlength-nanometerpatternfew{0} nm
+unitsshortunitlength-nanometerpatternother{0} nm
+unitsshortunitlength-nanometerdisplayNamenm
+unitsshortunitmass-tondisplayNameam.tony
+unitsshortunitmass-tonpatternone{0} tn
+unitsshortunitmass-tonpatterntwo{0} tn
+unitsshortunitmass-tonpatternfew{0} tn
+unitsshortunitmass-tonpatternother{0} tn
+unitsshortunitenergy-kilowatt-hourdisplayNamekWh
+unitsshortunitenergy-kilowatt-hourpatternfew{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternother{0} kWh
+unitsshortunitenergy-kilowatt-hourpatterntwo{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternone{0} kWh
+unitsshortunitvolume-pintdisplayNamept
+unitsshortunitvolume-pintpatternother{0} pt
+unitsshortunitvolume-pintpatternfew{0} pt
+unitsshortunitvolume-pintpatternone{0} pt
+unitsshortunitvolume-pintpatterntwo{0} pt
+unitsshortunitfrequency-hertzpatternother{0} Hz
+unitsshortunitfrequency-hertzpatternfew{0} Hz
+unitsshortunitfrequency-hertzpatterntwo{0} Hz
+unitsshortunitfrequency-hertzpatternone{0} Hz
+unitsshortunitfrequency-hertzdisplayNameHz
+unitsshortunitduration-microseconddisplayNameμs
+unitsshortunitduration-microsecondpatterntwo{0} μs
+unitsshortunitduration-microsecondpatternone{0} μs
+unitsshortunitduration-microsecondpatternfew{0} μs
+unitsshortunitduration-microsecondpatternother{0} μs
+unitsshortunitarea-square-inchdisplayNamein²
+unitsshortunitarea-square-inchpatternfew{0} in²
+unitsshortunitarea-square-inchpatternother{0} in²
+unitsshortunitarea-square-inchpatternone{0} in²
+unitsshortunitarea-square-inchpatterntwo{0} in²
+unitsshortunitlength-inchdisplayNamein
+unitsshortunitlength-inchpatternfew{0} in
+unitsshortunitlength-inchpatternother{0} in
+unitsshortunitlength-inchpatterntwo{0} in
+unitsshortunitlength-inchpatternone{0} in
+unitsshortunitfrequency-kilohertzpatternother{0} kHz
+unitsshortunitfrequency-kilohertzpatternfew{0} kHz
+unitsshortunitfrequency-kilohertzpatterntwo{0} kHz
+unitsshortunitfrequency-kilohertzpatternone{0} kHz
+unitsshortunitfrequency-kilohertzdisplayNamekHz
+unitsshortunitelectric-amperepatternone{0} A
+unitsshortunitelectric-amperepatterntwo{0} A
+unitsshortunitelectric-amperepatternother{0} A
+unitsshortunitelectric-amperepatternfew{0} A
+unitsshortunitelectric-amperedisplayNameA
+unitsshortunitdigital-bytepatternother{0} byte
+unitsshortunitdigital-bytepatternfew{0} byte
+unitsshortunitdigital-bytepatterntwo{0} byte
+unitsshortunitdigital-bytepatternone{0} byte
+unitsshortunitdigital-bytedisplayNamebyte
+unitsshortunitmass-microgrampatternother{0} µg
+unitsshortunitmass-microgrampatternfew{0} µg
+unitsshortunitmass-microgrampatternone{0} µg
+unitsshortunitmass-microgrampatterntwo{0} µg
+unitsshortunitmass-microgramdisplayNameµg
+unitsshortunitmass-ounce-troypatternone{0} oz. tr.
+unitsshortunitmass-ounce-troypatterntwo{0} oz. tr.
+unitsshortunitmass-ounce-troypatternfew{0} oz. tr.
+unitsshortunitmass-ounce-troypatternother{0} oz. tr.
+unitsshortunitmass-ounce-troydisplayNameoz. tr.
+unitsshortunitlength-micrometerpatternone{0} μm
+unitsshortunitlength-micrometerpatterntwo{0} μm
+unitsshortunitlength-micrometerpatternfew{0} μm
+unitsshortunitlength-micrometerpatternother{0} μm
+unitsshortunitlength-micrometerdisplayNameμm
+unitsshortunitpressure-millimeter-of-mercurypatternone{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatterntwo{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternfew{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemm Hg
+unitsshortunitvolume-cubic-kilometerdisplayNamekm³
+unitsshortunitvolume-cubic-kilometerpatterntwo{0} km³
+unitsshortunitvolume-cubic-kilometerpatternone{0} km³
+unitsshortunitvolume-cubic-kilometerpatternfew{0} km³
+unitsshortunitvolume-cubic-kilometerpatternother{0} km³
+unitsshortunitdigital-kilobitpatternone{0} kb
+unitsshortunitdigital-kilobitpatterntwo{0} kb
+unitsshortunitdigital-kilobitpatternfew{0} kb
+unitsshortunitdigital-kilobitpatternother{0} kb
+unitsshortunitdigital-kilobitdisplayNamekb
+unitsshortunitspeed-meter-per-secondpatternfew{0} m/s
+unitsshortunitspeed-meter-per-secondpatternother{0} m/s
+unitsshortunitspeed-meter-per-secondpatternone{0} m/s
+unitsshortunitspeed-meter-per-secondpatterntwo{0} m/s
+unitsshortunitspeed-meter-per-seconddisplayNamem/s
+unitsshortunitvolume-deciliterpatternfew{0} dl
+unitsshortunitvolume-deciliterpatternother{0} dl
+unitsshortunitvolume-deciliterpatternone{0} dl
+unitsshortunitvolume-deciliterpatterntwo{0} dl
+unitsshortunitvolume-deciliterdisplayNamedl
+unitsshortunitdigital-kilobytepatternother{0} kB
+unitsshortunitdigital-kilobytepatternfew{0} kB
+unitsshortunitdigital-kilobytepatternone{0} kB
+unitsshortunitdigital-kilobytepatterntwo{0} kB
+unitsshortunitdigital-kilobytedisplayNamekB
+unitsshortunitduration-secondperUnitPattern{0}/s
+unitsshortunitduration-seconddisplayNamesek.
+unitsshortunitduration-secondpatternfew{0} sek.
+unitsshortunitduration-secondpatternother{0} sek.
+unitsshortunitduration-secondpatterntwo{0} sek.
+unitsshortunitduration-secondpatternone{0} sek.
+unitsshortunitarea-square-footdisplayNameft²
+unitsshortunitarea-square-footpatterntwo{0} ft²
+unitsshortunitarea-square-footpatternone{0} ft²
+unitsshortunitarea-square-footpatternfew{0} ft²
+unitsshortunitarea-square-footpatternother{0} ft²
+unitsshortunitlength-astronomical-unitpatternfew{0} au
+unitsshortunitlength-astronomical-unitpatternother{0} au
+unitsshortunitlength-astronomical-unitpatterntwo{0} au
+unitsshortunitlength-astronomical-unitpatternone{0} au
+unitsshortunitlength-astronomical-unitdisplayNameau
+unitsshortunitarea-square-centimeterdisplayNamecm²
+unitsshortunitarea-square-centimeterpatterntwo{0} cm²
+unitsshortunitarea-square-centimeterpatternone{0} cm²
+unitsshortunitarea-square-centimeterpatternother{0} cm²
+unitsshortunitarea-square-centimeterpatternfew{0} cm²
+unitsshortunitenergy-foodcaloriedisplayNamekcal
+unitsshortunitenergy-foodcaloriepatternfew{0} kcal
+unitsshortunitenergy-foodcaloriepatternother{0} kcal
+unitsshortunitenergy-foodcaloriepatternone{0} kcal
+unitsshortunitenergy-foodcaloriepatterntwo{0} kcal
+unitsshortunitvolume-milliliterpatternother{0} ml
+unitsshortunitvolume-milliliterpatternfew{0} ml
+unitsshortunitvolume-milliliterpatternone{0} ml
+unitsshortunitvolume-milliliterpatterntwo{0} ml
+unitsshortunitvolume-milliliterdisplayNameml
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitpressure-hectopascalpatternfew{0} hPa
+unitsshortunitpressure-hectopascalpatternother{0} hPa
+unitsshortunitpressure-hectopascalpatternone{0} hPa
+unitsshortunitpressure-hectopascalpatterntwo{0} hPa
+unitsshortunitelectric-ohmpatterntwo{0} Ω
+unitsshortunitelectric-ohmpatternone{0} Ω
+unitsshortunitelectric-ohmpatternfew{0} Ω
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitelectric-ohmdisplayNameΩ
+unitsshortunitvolume-megaliterdisplayNameMl
+unitsshortunitvolume-megaliterpatterntwo{0} Ml
+unitsshortunitvolume-megaliterpatternone{0} Ml
+unitsshortunitvolume-megaliterpatternother{0} Ml
+unitsshortunitvolume-megaliterpatternfew{0} Ml
+unitsshortunitacceleration-g-forcepatternone{0} G
+unitsshortunitacceleration-g-forcepatterntwo{0} G
+unitsshortunitacceleration-g-forcepatternother{0} G
+unitsshortunitacceleration-g-forcepatternfew{0} G
+unitsshortunitacceleration-g-forcedisplayNameG
+unitsshortunitarea-square-kilometerpatternfew{0} km²
+unitsshortunitarea-square-kilometerpatternother{0} km²
+unitsshortunitarea-square-kilometerpatternone{0} km²
+unitsshortunitarea-square-kilometerpatterntwo{0} km²
+unitsshortunitarea-square-kilometerdisplayNamekm²
+unitsshortunitlength-picometerpatterntwo{0} pm
+unitsshortunitlength-picometerpatternone{0} pm
+unitsshortunitlength-picometerpatternother{0} pm
+unitsshortunitlength-picometerpatternfew{0} pm
+unitsshortunitlength-picometerdisplayNamepm
+unitsshortunitlight-luxpatternother{0} lx
+unitsshortunitlight-luxpatternfew{0} lx
+unitsshortunitlight-luxpatternone{0} lx
+unitsshortunitlight-luxpatterntwo{0} lx
+unitsshortunitlight-luxdisplayNamelx
+unitsshortunittemperature-kelvinpatternone{0} K
+unitsshortunittemperature-kelvinpatterntwo{0} K
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunittemperature-kelvinpatternfew{0} K
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunitelectric-voltdisplayNameV
+unitsshortunitelectric-voltpatterntwo{0} V
+unitsshortunitelectric-voltpatternone{0} V
+unitsshortunitelectric-voltpatternother{0} V
+unitsshortunitelectric-voltpatternfew{0} V
+unitsshortunitvolume-cubic-milepatternother{0} mi³
+unitsshortunitvolume-cubic-milepatternfew{0} mi³
+unitsshortunitvolume-cubic-milepatternone{0} mi³
+unitsshortunitvolume-cubic-milepatterntwo{0} mi³
+unitsshortunitvolume-cubic-miledisplayNamemi³
+unitsshortunitconsumption-liter-per-kilometerdisplayNamel/km
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} l/km
+unitsshortunitconsumption-liter-per-kilometerpatternfew{0} l/km
+unitsshortunitconsumption-liter-per-kilometerpatterntwo{0} l/km
+unitsshortunitconsumption-liter-per-kilometerpatternone{0} l/km
+unitsshortunitarea-hectarepatternother{0} ha
+unitsshortunitarea-hectarepatternfew{0} ha
+unitsshortunitarea-hectarepatterntwo{0} ha
+unitsshortunitarea-hectarepatternone{0} ha
+unitsshortunitarea-hectaredisplayNameha
+unitsshortunitmass-caratdisplayNameKt
+unitsshortunitmass-caratpatternother{0} Kt
+unitsshortunitmass-caratpatternfew{0} Kt
+unitsshortunitmass-caratpatternone{0} Kt
+unitsshortunitmass-caratpatterntwo{0} Kt
+unitsshortunitenergy-joulepatternother{0} J
+unitsshortunitenergy-joulepatternfew{0} J
+unitsshortunitenergy-joulepatternone{0} J
+unitsshortunitenergy-joulepatterntwo{0} J
+unitsshortunitenergy-jouledisplayNameJ
+unitsshortunitarea-acrepatternother{0} ac
+unitsshortunitarea-acrepatternfew{0} ac
+unitsshortunitarea-acrepatterntwo{0} ac
+unitsshortunitarea-acrepatternone{0} ac
+unitsshortunitarea-acredisplayNameac
+unitsshortunitangle-degreedisplayName°
+unitsshortunitangle-degreepatternfew{0} °
+unitsshortunitangle-degreepatternother{0} °
+unitsshortunitangle-degreepatterntwo{0} °
+unitsshortunitangle-degreepatternone{0} °
+unitsshortunitacceleration-meter-per-second-squaredpatternone{0} m/s²
+unitsshortunitacceleration-meter-per-second-squaredpatterntwo{0} m/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} m/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternfew{0} m/s²
+unitsshortunitacceleration-meter-per-second-squareddisplayNamem/s²
+unitsshortunitpower-milliwattdisplayNamemW
+unitsshortunitpower-milliwattpatternfew{0} mW
+unitsshortunitpower-milliwattpatternother{0} mW
+unitsshortunitpower-milliwattpatterntwo{0} mW
+unitsshortunitpower-milliwattpatternone{0} mW
+unitsshortunitspeed-mile-per-hourpatternother{0} mph
+unitsshortunitspeed-mile-per-hourpatternfew{0} mph
+unitsshortunitspeed-mile-per-hourpatterntwo{0} mph
+unitsshortunitspeed-mile-per-hourpatternone{0} mph
+unitsshortunitspeed-mile-per-hourdisplayNamemph
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitpatternfew{0}°F
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunittemperature-fahrenheitpatterntwo{0}°F
+unitsshortunittemperature-fahrenheitdisplayName°F
+localeDisplayNamesmeasurementSystemNamesmetricmetriski
+localeDisplayNamesmeasurementSystemNamesUKbritiski
+localeDisplayNamesmeasurementSystemNamesUSameriski
+localeDisplayNamesterritoriesTJTadźikistan
+localeDisplayNamesterritoriesSEŠwedska
+localeDisplayNamesterritoriesGYGuyana
+localeDisplayNamesterritoriesCHŠwicarska
+localeDisplayNamesterritoriesSGSingapur
+localeDisplayNamesterritoriesCPClippertonowa kupa
+localeDisplayNamesterritoriesHUMadźarska
+localeDisplayNamesterritoriesJOJordaniska
+localeDisplayNamesterritoriesAMArmenska
+localeDisplayNamesterritoriesZMSambija
+localeDisplayNamesterritoriesCYCypern
+localeDisplayNamesterritoriesTATristan da Cunha
+localeDisplayNamesterritoriesNONorwegska
+localeDisplayNamesterritories013Srjedźna Amerika
+localeDisplayNamesterritories155zapadna Europa
+localeDisplayNamesterritoriesVCSt. Vincent a Grenadiny
+localeDisplayNamesterritoriesXKKosowo
+localeDisplayNamesterritoriesFOFäröske kupy
+localeDisplayNamesterritoriesGAGabun
+localeDisplayNamesterritoriesGIGibraltar
+localeDisplayNamesterritoriesZWSimbabwe
+localeDisplayNamesterritoriesEGEgyptowska
+localeDisplayNamesterritoriesSNSenegal
+localeDisplayNamesterritoriesPKPakistan
+localeDisplayNamesterritoriesMHMarshallowe kupy
+localeDisplayNamesterritoriesLALaos
+localeDisplayNamesterritoriesMDMoldawska
+localeDisplayNamesterritoriesCOKolumbiska
+localeDisplayNamesterritoriesMNMongolska
+localeDisplayNamesterritoriesKPSewjerna Koreja
+localeDisplayNamesterritoriesSSJužny Sudan
+localeDisplayNamesterritoriesMVMalediwy
+localeDisplayNamesterritoriesMQMartinique
+localeDisplayNamesterritoriesGQEkwatorialna Gineja
+localeDisplayNamesterritoriesHRChorwatska
+localeDisplayNamesterritoriesLULuxemburgska
+localeDisplayNamesterritoriesLKSri Lanka
+localeDisplayNamesterritoriesPWPalau
+localeDisplayNamesterritoriesEHZapadna Sahara
+localeDisplayNamesterritoriesNFNorfolkowa kupa
+localeDisplayNamesterritories061Polyneziska
+localeDisplayNamesterritories145zapadna Azija
+localeDisplayNamesterritoriesATAwstriska
+localeDisplayNamesterritoriesSKSłowakska
+localeDisplayNamesterritoriesYEJemen
+localeDisplayNamesterritoriesSISłowjenska
+localeDisplayNamesterritoriesCKCookowe kupy
+localeDisplayNamesterritoriesKGKirgizistan
+localeDisplayNamesterritories057Mikroneziska (kupowy region)
+localeDisplayNamesterritoriesCVKap Verde
+localeDisplayNamesterritories150Europa
+localeDisplayNamesterritoriesGGGuernsey
+localeDisplayNamesterritoriesTVTuvalu
+localeDisplayNamesterritoriesFMMikroneziska
+localeDisplayNamesterritoriesRURuska
+localeDisplayNamesterritoriesCGKongo (Republika)
+localeDisplayNamesterritoriesCCKokosowe kupy
+localeDisplayNamesterritoriesGNGineja
+localeDisplayNamesterritoriesMAMarokko
+localeDisplayNamesterritoriesTRTurkowska
+localeDisplayNamesterritoriesVIAmeriske knježniske kupy
+localeDisplayNamesterritoriesFKFalklandske kupy (Malwiny)
+localeDisplayNamesterritoriesPFFrancoska Polyneziska
+localeDisplayNamesterritoriesBLSt. Barthélemy
+localeDisplayNamesterritoriesTNTuneziska
+localeDisplayNamesterritoriesZAJužna Afrika (Republika)
+localeDisplayNamesterritoriesRWRuanda
+localeDisplayNamesterritories005Južna Amerika
+localeDisplayNamesterritoriesRSSerbiska
+localeDisplayNamesterritoriesITItalska
+localeDisplayNamesterritoriesIEIrska
+localeDisplayNamesterritoriesLRLiberija
+localeDisplayNamesterritoriesMFSt. Martin
+localeDisplayNamesterritoriesLTLitawska
+localeDisplayNamesterritoriesVUVanuatu
+localeDisplayNamesterritoriesNANamibija
+localeDisplayNamesterritoriesMLMali
+localeDisplayNamesterritoriesDGDiego Garcia
+localeDisplayNamesterritoriesGUGuam
+localeDisplayNamesterritoriesLBLibanon
+localeDisplayNamesterritoriesLCSt. Lucia
+localeDisplayNamesterritoriesRORumunska
+localeDisplayNamesterritoriesSXSint Maarten
+localeDisplayNamesterritoriesSRSurinam
+localeDisplayNamesterritoriesBQKaribiska Nižozemska
+localeDisplayNamesterritoriesGWGineja-Bissau
+localeDisplayNamesterritoriesIQIrak
+localeDisplayNamesterritoriesMTMalta
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNamesterritories009Oceaniska
+localeDisplayNamesterritories154sewjerna Europa
+localeDisplayNamesterritoriesJPJapanska
+localeDisplayNamesterritoriesSZSwaziska
+localeDisplayNamesterritories019Amerika
+localeDisplayNamesterritories143centralna Azija
+localeDisplayNamesterritoriesCXHodowna kupa
+localeDisplayNamesterritoriesSHSt. Helena
+localeDisplayNamesterritoriesMWMalawi
+localeDisplayNamesterritoriesHMHeardowa kupa a McDonaldowe kupy
+localeDisplayNamesterritoriesGPGuadeloupe
+localeDisplayNamesterritoriesNCNowa Kaledoniska
+localeDisplayNamesterritoriesPMSt. Pierre a Miquelon
+localeDisplayNamesterritoriesNUNiue
+localeDisplayNamesterritoriesCUKuba
+localeDisplayNamesterritoriesMSMontserrat
+localeDisplayNamesterritoriesCLChilska
+localeDisplayNamesterritories014wuchodna Afrika
+localeDisplayNamesterritoriesBABosniska a Hercegowina
+localeDisplayNamesterritoriesHKHongkong
+localeDisplayNamesterritoriesHTHaiti
+localeDisplayNamesterritoriesLVLetiska
+localeDisplayNamesterritoriesTZTansanija
+localeDisplayNamesterritoriesWFWallis a Futuna
+localeDisplayNamesterritoriesBOBoliwiska
+localeDisplayNamesterritories035juhowuchodna Azija
+localeDisplayNamesterritoriesISIslandska
+localeDisplayNamesterritoriesILIsrael
+localeDisplayNamesterritoriesBTBhutan
+localeDisplayNamesterritoriesSASawdi-Arabska
+localeDisplayNamesterritoriesUMAmeriska Oceaniska
+localeDisplayNamesterritoriesESŠpaniska
+localeDisplayNamesterritoriesKMKomory
+localeDisplayNamesterritoriesNINikaragua
+localeDisplayNamesterritoriesSOSomalija
+localeDisplayNamesterritoriesSJSvalbard a Jan Mayen
+localeDisplayNamesterritoriesDJDźibuti
+localeDisplayNamesterritoriesBSBahamy
+localeDisplayNamesterritories001swět
+localeDisplayNamesterritoriesKEKenija
+localeDisplayNamesterritoriesGTGuatemala
+localeDisplayNamesterritoriesKRJužna Koreja
+localeDisplayNamesterritoriesPTPortugalska
+localeDisplayNamesterritoriesEUEuropska unija
+localeDisplayNamesterritoriesUYUruguay
+localeDisplayNamesterritoriesMUMauritius
+localeDisplayNamesterritories039južna Europa
+localeDisplayNamesterritories142Azija
+localeDisplayNamesterritoriesUGUganda
+localeDisplayNamesterritoriesBIBurundi
+localeDisplayNamesterritoriesKZKazachstan
+localeDisplayNamesterritoriesUZUzbekistan
+localeDisplayNamesterritoriesBJBenin
+localeDisplayNamesterritoriesFRFrancoska
+localeDisplayNamesterritoriesDENěmska
+localeDisplayNamesterritoriesCMKamerun
+localeDisplayNamesterritories151wuchodna Europa
+localeDisplayNamesterritoriesZZnjeznaty region
+localeDisplayNamesterritoriesETEtiopiska
+localeDisplayNamesterritoriesBWBotswana
+localeDisplayNamesterritoriesGSJužna Georgiska a Južne Sandwichowe kupy
+localeDisplayNamesterritoriesWSSamoa
+localeDisplayNamesterritoriesTKTokelau
+localeDisplayNamesterritoriesCFCentralnoafriska republika
+localeDisplayNamesterritories034južna Azija
+localeDisplayNamesterritoriesGFFrancoska Guyana
+localeDisplayNamesterritoriesLYLibyska
+localeDisplayNamesterritoriesRERéunion
+localeDisplayNamesterritoriesTLWuchodny Timor
+localeDisplayNamesterritoriesNENiger
+localeDisplayNamesterritoriesPHFilipiny
+localeDisplayNamesterritoriesMOMacao
+localeDisplayNamesterritoriesGMGambija
+localeDisplayNamesterritoriesFIFinska
+localeDisplayNamesterritoriesPSPalestina
+localeDisplayNamesterritoriesMKMakedonska (FYROM)
+localeDisplayNamesterritories015sewjerna Afrika
+localeDisplayNamesterritoriesBRBrazilska
+localeDisplayNamesterritoriesBMBermudy
+localeDisplayNamesterritoriesCWCuraçao
+localeDisplayNamesterritoriesTWTaiwan
+localeDisplayNamesterritoriesADAndorra
+localeDisplayNamesterritoriesBGBołharska
+localeDisplayNamesterritoriesBDBangladeš
+localeDisplayNamesterritoriesSVEl Salvador
+localeDisplayNamesterritoriesQAKatar
+localeDisplayNamesterritories054Melaneziska
+localeDisplayNamesterritoriesOMOman
+localeDisplayNamesterritoriesFJFidźi
+localeDisplayNamesterritoriesTDČad
+localeDisplayNamesterritoriesTFFrancoski južny a antarktiski teritorij
+localeDisplayNamesterritoriesDMDominika
+localeDisplayNamesterritoriesAWAruba
+localeDisplayNamesterritoriesNGNigerija
+localeDisplayNamesterritoriesIOBritiski teritorij w Indiskim oceanje
+localeDisplayNamesterritoriesCZČěska republika
+localeDisplayNamesterritoriesMZMosambik
+localeDisplayNamesterritories053Awstralazija
+localeDisplayNamesterritoriesAGAntigua a Barbuda
+localeDisplayNamesterritoriesUAUkraina
+localeDisplayNamesterritoriesDZAlgeriska
+localeDisplayNamesterritoriesMXMexiko
+localeDisplayNamesterritoriesMGMadagaskar
+localeDisplayNamesterritoriesCRKosta Rika
+localeDisplayNamesterritoriesGHGhana
+localeDisplayNamesterritoriesBFBurkina Faso
+localeDisplayNamesterritoriesSBSalomony
+localeDisplayNamesterritoriesEEEstiska
+localeDisplayNamesterritoriesAEZjednoćene arabske emiraty
+localeDisplayNamesterritoriesTCkupy Turks a Caicos
+localeDisplayNamesterritoriesQOWonkowna Oceaniska
+localeDisplayNamesterritoriesNPNepal
+localeDisplayNamesterritories017srjedźna Afrika
+localeDisplayNamesterritoriesKIKiribati
+localeDisplayNamesterritoriesMCMonaco
+localeDisplayNamesterritoriesAXÅland
+localeDisplayNamesterritoriesAUAwstralska
+localeDisplayNamesterritoriesIMMan
+localeDisplayNamesterritoriesKHKambodźa
+localeDisplayNamesterritoriesTHThailandska
+localeDisplayNamesterritories011zapadna Afrika
+localeDisplayNamesterritoriesPRPuerto Rico
+localeDisplayNamesterritoriesMPSewjerne Mariany
+localeDisplayNamesterritoriesMEMontenegro
+localeDisplayNamesterritoriesARArgentinska
+localeDisplayNamesterritoriesUSUSA
+localeDisplayNamesterritoriesTGTogo
+localeDisplayNamesterritoriesPAPanama
+localeDisplayNamesterritoriesPLPólska
+localeDisplayNamesterritoriesDODominikanska republika
+localeDisplayNamesterritoriesACAscension
+localeDisplayNamesterritoriesAIAnguilla
+localeDisplayNamesterritoriesGLGrönlandska
+localeDisplayNamesterritories419Łaćonska Amerika
+localeDisplayNamesterritoriesASAmeriska Samoa
+localeDisplayNamesterritoriesTTTrinidad a Tobago
+localeDisplayNamesterritoriesGEGeorgiska
+localeDisplayNamesterritoriesSMSan Marino
+localeDisplayNamesterritoriesEREritreja
+localeDisplayNamesterritoriesEACeuta a Melilla
+localeDisplayNamesterritoriesBZBelize
+localeDisplayNamesterritories030wuchodna Azija
+localeDisplayNamesterritoriesINIndiska
+localeDisplayNamesterritoriesKNSt. Kitts a Nevis
+localeDisplayNamesterritoriesKYKajmanske kupy
+localeDisplayNamesterritoriesSLSierra Leone
+localeDisplayNamesterritoriesSYSyriska
+localeDisplayNamesterritoriesBNBrunei
+localeDisplayNamesterritoriesAZAzerbajdźan
+localeDisplayNamesterritoriesGRGrjekska
+localeDisplayNamesterritoriesLSLesotho
+localeDisplayNamesterritories002Afrika
+localeDisplayNamesterritoriesVAVatikanske město
+localeDisplayNamesterritoriesTMTurkmeniska
+localeDisplayNamesterritoriesALAlbanska
+localeDisplayNamesterritoriesKWKuwait
+localeDisplayNamesterritoriesPYParaguay
+localeDisplayNamesterritoriesVNVietnam
+localeDisplayNamesterritoriesPNPitcairnowe kupy
+localeDisplayNamesterritoriesNLNižozemska
+localeDisplayNamesterritoriesMRMawretanska
+localeDisplayNamesterritoriesGBUK
+localeDisplayNamesterritoriesHNHonduras
+localeDisplayNamesterritoriesPGPapuwa-Nowa Gineja
+localeDisplayNamesterritoriesMYMalajzija
+localeDisplayNamesterritoriesPEPeru
+localeDisplayNamesterritoriesCDKongo (Demokratiska republika)
+localeDisplayNamesterritoriesVEVenezuela
+localeDisplayNamesterritoriesECEkwador
+localeDisplayNamesterritoriesBYBěłoruska
+localeDisplayNamesterritories003Sewjerna Amerika
+localeDisplayNamesterritoriesIDIndoneska
+localeDisplayNamesterritoriesVGBritiske knježniske kupy
+localeDisplayNamesterritoriesSTSão Tomé a Príncipe
+localeDisplayNamesterritoriesGDGrenada
+localeDisplayNamesterritoriesBEBelgiska
+localeDisplayNamesterritoriesJMJamaika
+localeDisplayNamesterritories021sewjerny ameriski kontinent
+localeDisplayNamesterritoriesMMMyanmar
+localeDisplayNamesterritoriesBVBouvetowa kupa
+localeDisplayNamesterritoriesAOAngola
+localeDisplayNamesterritoriesBHBahrain
+localeDisplayNamesterritoriesLILiechtenstein
+localeDisplayNamesterritoriesYTMayotte
+localeDisplayNamesterritoriesNZNowoseelandska
+localeDisplayNamesterritoriesSCSeychelle
+localeDisplayNamesterritoriesCAKanada
+localeDisplayNamesterritoriesJEJersey
+localeDisplayNamesterritoriesIRIran
+localeDisplayNamesterritoriesDKDanska
+localeDisplayNamesterritoriesCNChina
+localeDisplayNamesterritories018južna Afrika
+localeDisplayNamesterritoriesSDSudan
+localeDisplayNamesterritoriesNRNauru
+localeDisplayNamesterritoriesCISłonowinowy pobrjóh
+localeDisplayNamesterritories029Karibika
+localeDisplayNamesterritoriesAFAfghanistan
+localeDisplayNamesterritoriesAQAntarktika
+localeDisplayNamesterritoriesBBBarbados
+localeDisplayNamesterritoriesICKanariske kupy
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNamescodePatternsterritoryregion: {0}
+localeDisplayNamescodePatternslanguagerěč: {0}
+localeDisplayNamescodePatternsscriptpismo: {0}
+localeDisplayNamesscriptsKorekorejsce
+localeDisplayNamesscriptsThaithailandsce
+localeDisplayNamesscriptsGurugurmukhi
+localeDisplayNamesscriptsHanghangul
+localeDisplayNamesscriptsZzzznjeznate pismo
+localeDisplayNamesscriptsHirahiragana
+localeDisplayNamesscriptsGujrgujarati
+localeDisplayNamesscriptsDevadevanagari
+localeDisplayNamesscriptsMlymmalayalamsce
+localeDisplayNamesscriptsKanakatakana
+localeDisplayNamesscriptsZxxxbjez pisma
+localeDisplayNamesscriptsTelutelugu
+localeDisplayNamesscriptsEthietiopisce
+localeDisplayNamesscriptsHanszjednorjene chinske pismo
+localeDisplayNamesscriptsBraiBraillowe pismo
+localeDisplayNamesscriptsBengbengalsce
+localeDisplayNamesscriptsLatnłaćonsce
+localeDisplayNamesscriptsThaathaana
+localeDisplayNamesscriptsOryaoriya
+localeDisplayNamesscriptsKndakannadsce
+localeDisplayNamesscriptsJpanjapansce
+localeDisplayNamesscriptsHanichinsce
+localeDisplayNamesscriptsCyrlkyrilisce
+localeDisplayNamesscriptsZyyypowšitkowne
+localeDisplayNamesscriptsArmnarmensce
+localeDisplayNamesscriptsTamltamilsce
+localeDisplayNamesscriptsTibttibetsce
+localeDisplayNamesscriptsZsymsymbole
+localeDisplayNamesscriptsMongmongolsce
+localeDisplayNamesscriptsMymrburmasce
+localeDisplayNamesscriptsBopobopomofo
+localeDisplayNamesscriptsLaoolaosce
+localeDisplayNamesscriptsHebrhebrejsce
+localeDisplayNamesscriptsGrekgrjeksce
+localeDisplayNamesscriptsSinhsinghalsce
+localeDisplayNamesscriptsKhmrkhmersce
+localeDisplayNamesscriptsHanttradicionalne chinske pismo
+localeDisplayNamesscriptsArabarabsce
+localeDisplayNamesscriptsGeorgeorgisce
+localeDisplayNameslanguagesiainterlingua
+localeDisplayNameslanguageststsonga
+localeDisplayNameslanguageses_419łaćonskoameriska španišćina
+localeDisplayNameslanguageswawalonšćina
+localeDisplayNameslanguagesororijšćina
+localeDisplayNameslanguagesayaymaršćina
+localeDisplayNameslanguagesgnguarani
+localeDisplayNameslanguageslolaošćina
+localeDisplayNameslanguagesocokcitanšćina
+localeDisplayNameslanguagesro_MDmoldawšćina
+localeDisplayNameslanguagesththailandšćina
+localeDisplayNameslanguagesfjfidźišćina
+localeDisplayNameslanguageselgrjekšćina
+localeDisplayNameslanguagesrnkirundišćina
+localeDisplayNameslanguagesnqon’ko
+localeDisplayNameslanguagesbrbretonšćina
+localeDisplayNameslanguageshthaitišćina
+localeDisplayNameslanguageskskašmiršćina
+localeDisplayNameslanguagestttataršćina
+localeDisplayNameslanguagesmrmaratišćina
+localeDisplayNameslanguagesuzuzbekšćina
+localeDisplayNameslanguagesstjužnosotšćina (Sesotho)
+localeDisplayNameslanguagesomoromo
+localeDisplayNameslanguagessbpsangu
+localeDisplayNameslanguagesxhxhosa
+localeDisplayNameslanguagesndsdelnjoněmčina
+localeDisplayNameslanguagesptportugalšćina
+localeDisplayNameslanguagesnmgkwasio
+localeDisplayNameslanguagestatamilšćina
+localeDisplayNameslanguageseoesperanto
+localeDisplayNameslanguagesiuinuitšćina
+localeDisplayNameslanguagesisislandšćina
+localeDisplayNameslanguagessksłowakšćina
+localeDisplayNameslanguagessqalbanšćina
+localeDisplayNameslanguagesvunvunjo
+localeDisplayNameslanguageshihindišćina
+localeDisplayNameslanguagesbembemba
+localeDisplayNameslanguageslnlingala
+localeDisplayNameslanguagespt_PTeuropska portugalšćina
+localeDisplayNameslanguageshsbhornjoserbšćina
+localeDisplayNameslanguagesikinupiak
+localeDisplayNameslanguagesrofrombo
+localeDisplayNameslanguageshawhawaiišćina
+localeDisplayNameslanguageses_ESeuropska španišćina
+localeDisplayNameslanguagesswsuahelšćina
+localeDisplayNameslanguagesgairšćina
+localeDisplayNameslanguagesaaafaršćina
+localeDisplayNameslanguagesgugujarati
+localeDisplayNameslanguagesafafrikaanšćina
+localeDisplayNameslanguagesmghmakhuwa-meetto
+localeDisplayNameslanguagesshserbochorwatšćina
+localeDisplayNameslanguagesvivietnamšćina
+localeDisplayNameslanguageszghtamazight
+localeDisplayNameslanguagesebuembu
+localeDisplayNameslanguageskageorgišćina
+localeDisplayNameslanguageschrcherokee
+localeDisplayNameslanguagesrwkinjarwanda
+localeDisplayNameslanguagesjmcmachame
+localeDisplayNameslanguagestgtadźikšćina
+localeDisplayNameslanguagessusundanezišćina
+localeDisplayNameslanguagesmuamundang
+localeDisplayNameslanguagespapandźabšćina
+localeDisplayNameslanguagestotongašćina
+localeDisplayNameslanguagesfrfrancošćina
+localeDisplayNameslanguagesfyfrizišćina
+localeDisplayNameslanguagesfr_CAkanadiska francošćina
+localeDisplayNameslanguagesfofäröšćina
+localeDisplayNameslanguagesbeběłorušćina
+localeDisplayNameslanguagesakakanšćina
+localeDisplayNameslanguagesen_CAkanadiska jendźelšćina
+localeDisplayNameslanguagesbibislamšćina
+localeDisplayNameslanguagesgotgotšćina
+localeDisplayNameslanguagestitigrinšćina
+localeDisplayNameslanguageshrchorwatšćina
+localeDisplayNameslanguagesmkmakedonšćina
+localeDisplayNameslanguagesdjezarma
+localeDisplayNameslanguagesguzgusii
+localeDisplayNameslanguagesksfbafia
+localeDisplayNameslanguagesmlmalajamšćina
+localeDisplayNameslanguagessgsango
+localeDisplayNameslanguagesararabšćina
+localeDisplayNameslanguagessesewjerosamišćina
+localeDisplayNameslanguagesnynnyankole
+localeDisplayNameslanguagesbgbołharšćina
+localeDisplayNameslanguagesar_001moderna wysokoarabšćina
+localeDisplayNameslanguagesde_ATawstriska němčina
+localeDisplayNameslanguagesdzdzongkha
+localeDisplayNameslanguagesklnkalenjin
+localeDisplayNameslanguageslvletišćina
+localeDisplayNameslanguageskykirgišćina
+localeDisplayNameslanguagesfifinšćina
+localeDisplayNameslanguagesbugbuginezišćina
+localeDisplayNameslanguageskokkonkani
+localeDisplayNameslanguagesasapare
+localeDisplayNameslanguageskkkazachšćina
+localeDisplayNameslanguagessaqsamburu
+localeDisplayNameslanguagesduaduala
+localeDisplayNameslanguagesukukrainšćina
+localeDisplayNameslanguageskukurdišćina
+localeDisplayNameslanguageszxxžadyn rěčny wobsah
+localeDisplayNameslanguageszazhuang
+localeDisplayNameslanguageslggandšćina
+localeDisplayNameslanguagessnšonašćina
+localeDisplayNameslanguageshumadźaršćina
+localeDisplayNameslanguagesavawaršćina
+localeDisplayNameslanguageshehebrejšćina
+localeDisplayNameslanguagesnlnižozemšćina
+localeDisplayNameslanguagessdsindhišćina
+localeDisplayNameslanguagesseskoyra senni
+localeDisplayNameslanguagescrkri
+localeDisplayNameslanguageskamkamba
+localeDisplayNameslanguageslbluxemburgšćina
+localeDisplayNameslanguagesmsmalajšćina
+localeDisplayNameslanguagesscnsicilšćina
+localeDisplayNameslanguagesbsbosnišćina
+localeDisplayNameslanguagestwqtasawaq
+localeDisplayNameslanguagesioido
+localeDisplayNameslanguagesgvmanšćina
+localeDisplayNameslanguagesamamharšćina
+localeDisplayNameslanguagesplpólšćina
+localeDisplayNameslanguagessosomališćina
+localeDisplayNameslanguagesdsbdelnjoserbšćina
+localeDisplayNameslanguagesmohmohawkšćina
+localeDisplayNameslanguageszuzulušćina
+localeDisplayNameslanguagestytahitišćina
+localeDisplayNameslanguagestetelugu
+localeDisplayNameslanguagesgswšwicarska němčina
+localeDisplayNameslanguageswowolof
+localeDisplayNameslanguagessmjlule-samišćina
+localeDisplayNameslanguagesbabaškiršćina
+localeDisplayNameslanguagesgdšotiska gelšćina
+localeDisplayNameslanguagesmimaoršćina
+localeDisplayNameslanguagesrorumunšćina
+localeDisplayNameslanguagessisinghalšćina
+localeDisplayNameslanguagessmajužnosamišćina
+localeDisplayNameslanguagesde_CHšwicarska wysokoněmčina
+localeDisplayNameslanguagessssiswati
+localeDisplayNameslanguagesvaivai
+localeDisplayNameslanguagesen_AUawstralska jendźelšćina
+localeDisplayNameslanguageskmkhmeršćina
+localeDisplayNameslanguagescywalizišćina
+localeDisplayNameslanguagescokorsišćina
+localeDisplayNameslanguagesxogsoga
+localeDisplayNameslanguageslktlakota
+localeDisplayNameslanguagesmfemauriciska kreolšćina
+localeDisplayNameslanguagesyijidišćina
+localeDisplayNameslanguageschčamoršćina
+localeDisplayNameslanguagesbezbena
+localeDisplayNameslanguageskdemakonde
+localeDisplayNameslanguageskrikrio
+localeDisplayNameslanguagesnanaurušćina
+localeDisplayNameslanguagesmermeru
+localeDisplayNameslanguagesglgalicišćina
+localeDisplayNameslanguagestwtwi
+localeDisplayNameslanguagesnbnorwegšćina (bokmål)
+localeDisplayNameslanguageses_MXmexiska španišćina
+localeDisplayNameslanguagesidindonešćina
+localeDisplayNameslanguagesababchazišćina
+localeDisplayNameslanguagesmtmaltašćina
+localeDisplayNameslanguagesdeněmčina
+localeDisplayNameslanguagesscsardinšćina
+localeDisplayNameslanguagessmninari-samišćina
+localeDisplayNameslanguageskikikuyu
+localeDisplayNameslanguagesururdušćina
+localeDisplayNameslanguagesluluba-katanga
+localeDisplayNameslanguagestzmtamazight (srjedźny Marokko)
+localeDisplayNameslanguageskwkornišćina
+localeDisplayNameslanguagespt_BRbrazilska portugalšćina
+localeDisplayNameslanguageshyarmenšćina
+localeDisplayNameslanguagesmyburmašćina
+localeDisplayNameslanguagesknkannadšćina
+localeDisplayNameslanguagesigigbo
+localeDisplayNameslanguageszh_Hanschinšćina (zjednorjena)
+localeDisplayNameslanguagesenjendźelšćina
+localeDisplayNameslanguagesarnarawkanšćina
+localeDisplayNameslanguagesjvjavašćina
+localeDisplayNameslanguagesdadanšćina
+localeDisplayNameslanguagesen_USjendźelšćina (USA)
+localeDisplayNameslanguagesteoteso
+localeDisplayNameslanguagesanaragonšćina
+localeDisplayNameslanguagesititalšćina
+localeDisplayNameslanguagesckbsorani
+localeDisplayNameslanguagesluyluhya
+localeDisplayNameslanguagessw_CDkongoska suahelšćina
+localeDisplayNameslanguagesbmbambara
+localeDisplayNameslanguagesbnbengalšćina
+localeDisplayNameslanguageskoipermska komišćina
+localeDisplayNameslanguageseeewe
+localeDisplayNameslanguagesyojorubašćina
+localeDisplayNameslanguagesjajapanšćina
+localeDisplayNameslanguagestkturkmenšćina
+localeDisplayNameslanguageschochoctawšćina
+localeDisplayNameslanguagessvšwedšćina
+localeDisplayNameslanguagesndsewjero-ndebele
+localeDisplayNameslanguagesstqsaterfrizišćina
+localeDisplayNameslanguagesiisichuan yi
+localeDisplayNameslanguagesesšpanišćina
+localeDisplayNameslanguagesanganglosakšćina
+localeDisplayNameslanguagesastasturšćina
+localeDisplayNameslanguagesgaggagauzišćina
+localeDisplayNameslanguagesfilfilipinšćina
+localeDisplayNameslanguagesen_GBjendźelšćina (UK)
+localeDisplayNameslanguagessmsamoašćina
+localeDisplayNameslanguagesdavtaita
+localeDisplayNameslanguagesagqaghemšćina
+localeDisplayNameslanguagestltagalog
+localeDisplayNameslanguageseubaskišćina
+localeDisplayNameslanguageskokorejšćina
+localeDisplayNameslanguagesdyojola-fonyi
+localeDisplayNameslanguagesmasmasaišćina
+localeDisplayNameslanguageslałaćonšćina
+localeDisplayNameslanguagesqukečua
+localeDisplayNameslanguagessasanskrit
+localeDisplayNameslanguageszhchinšćina
+localeDisplayNameslanguagesfr_CHšwicarska francošćina
+localeDisplayNameslanguagescakatalanšćina
+localeDisplayNameslanguagesdvdivehi
+localeDisplayNameslanguagesklgröndlandšćina
+localeDisplayNameslanguagesnl_BEflamšćina
+localeDisplayNameslanguagesmnmongolšćina
+localeDisplayNameslanguagesrwkrwa
+localeDisplayNameslanguagesshitašelhit
+localeDisplayNameslanguageskeakapverdšćina
+localeDisplayNameslanguageskhqkoyra chiini
+localeDisplayNameslanguagesprgprušćina
+localeDisplayNameslanguagesetestišćina
+localeDisplayNameslanguagesbrxbodo
+localeDisplayNameslanguagesltlitawšćina
+localeDisplayNameslanguagesluoluo
+localeDisplayNameslanguagesmgmalagassišćina
+localeDisplayNameslanguagesnvnavaho
+localeDisplayNameslanguagespspaštunšćina
+localeDisplayNameslanguagesquckʼicheʼ
+localeDisplayNameslanguageshahausa
+localeDisplayNameslanguagesundnjeznata rěč
+localeDisplayNameslanguagesugujguršćina
+localeDisplayNameslanguagesazazerbajdźanšćina
+localeDisplayNameslanguagessehsena
+localeDisplayNameslanguagesvovolapük
+localeDisplayNameslanguageslilimburšćina
+localeDisplayNameslanguagestrturkowšćina
+localeDisplayNameslanguagesbotibetšćina
+localeDisplayNameslanguagescggchiga
+localeDisplayNameslanguageslaglangi
+localeDisplayNameslanguagessmsskolt-samišćina
+localeDisplayNameslanguagesnaqnama
+localeDisplayNameslanguagestntswana
+localeDisplayNameslanguagesfapersišćina
+localeDisplayNameslanguagesnenepalšćina
+localeDisplayNameslanguagesnusnuer
+localeDisplayNameslanguagesasasamšćina
+localeDisplayNameslanguageskabkabylšćina
+localeDisplayNameslanguagesmuskrik
+localeDisplayNameslanguagescsčěšćina
+localeDisplayNameslanguagesnonorwegšćina
+localeDisplayNameslanguagesjgongomba
+localeDisplayNameslanguageszh_Hantchinšćina (tradicionalna)
+localeDisplayNameslanguagesrurušćina
+localeDisplayNameslanguagesslsłowjenšćina
+localeDisplayNameslanguagesksbšambala
+localeDisplayNameslanguagesnnnorwegšćina (nynorsk)
+localeDisplayNameslanguagesmgometa’
+localeDisplayNameslanguagesrmretoromanšćina
+localeDisplayNameslanguagessrserbišćina
+calendarsgregorianintervalFormatsyMMMEddE, d. – E, d. MMM y
+calendarsgregorianintervalFormatsyMMMEdME, d. MMM – E, d. MMM y
+calendarsgregorianintervalFormatsyMMMEdyE, d. MMM y – E, d. MMM y
+calendarsgregorianintervalFormatsMMM. – M.
+calendarsgregorianintervalFormatsddd. – d.
+calendarsgregorianintervalFormatsHmHH:mm – H:mm 'hodź'.
+calendarsgregorianintervalFormatsHmmH:mm – H:mm 'hodź'.
+calendarsgregorianintervalFormatsyMMMdyd. MMM y – d. MMM y
+calendarsgregorianintervalFormatsyMMMdMd. MMM – d. MMM y
+calendarsgregorianintervalFormatsyMMMddd. – d. MMM y
+calendarsgregorianintervalFormatsMdMd.M. – d.M.
+calendarsgregorianintervalFormatsMddd.M. – d.M.
+calendarsgregorianintervalFormatsyMEdyE, d.M.y – E, d.M.y
+calendarsgregorianintervalFormatsyMEdME, d.M.y – E, d.M.y
+calendarsgregorianintervalFormatsyMEddE, d.M.y – E, d.M.y
+calendarsgregorianintervalFormatsMMMMLLL – LLL
+calendarsgregorianintervalFormatshmvmh:mm – h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm – h:mm a v
+calendarsgregorianintervalFormatsHmvHH:mm – H:mm 'hodź'. v
+calendarsgregorianintervalFormatsHmvmH:mm – H:mm 'hodź'. v
+calendarsgregorianintervalFormatsHHH–H 'hodź'.
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsMMMddd. – d. MMM
+calendarsgregorianintervalFormatsMMMdMd. MMM – d. MMM
+calendarsgregorianintervalFormatsyMddd.M.y – d.M.y
+calendarsgregorianintervalFormatsyMdMd.M.y – d.M.y
+calendarsgregorianintervalFormatsyMdyd.M.y – d.M.y
+calendarsgregorianintervalFormatsMEddE, d.M. – E, d.M.
+calendarsgregorianintervalFormatsMEdME, d.M. – E, d.M.
+calendarsgregorianintervalFormatsyMMMyLLL y – LLL y
+calendarsgregorianintervalFormatsyMMMMLLL – LLL y
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatsyMMM.y – M.y
+calendarsgregorianintervalFormatsyMyM.y – M.y
+calendarsgregorianintervalFormatsHvHH–H v
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm – h:mm a
+calendarsgregorianintervalFormatshmhh:mm – h:mm a
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatsyMMMMMLLLL – LLLL y
+calendarsgregorianintervalFormatsyMMMMyLLLL y – LLLL y
+calendarsgregorianintervalFormatsMMMEddE, d. – E, d. MMM
+calendarsgregorianintervalFormatsMMMEdME, d. MMM – E, d. MMM
+calendarsgregoriantimeFormatslongstandardH:mm:ss z
+calendarsgregoriantimeFormatsmediumstandardH:mm:ss
+calendarsgregoriantimeFormatsshortstandardH:mm 'hodź'.
+calendarsgregoriantimeFormatsfullstandardH:mm:ss zzzz
+calendarsgregorianmonthsstand-alonenarrow10o
+calendarsgregorianmonthsstand-alonenarrow3m
+calendarsgregorianmonthsstand-alonenarrow12d
+calendarsgregorianmonthsstand-alonenarrow11n
+calendarsgregorianmonthsstand-alonenarrow7j
+calendarsgregorianmonthsstand-alonenarrow8a
+calendarsgregorianmonthsstand-alonenarrow2f
+calendarsgregorianmonthsstand-alonenarrow5m
+calendarsgregorianmonthsstand-alonenarrow4a
+calendarsgregorianmonthsstand-alonenarrow6j
+calendarsgregorianmonthsstand-alonenarrow1j
+calendarsgregorianmonthsstand-alonenarrow9s
+calendarsgregorianmonthsstand-aloneabbreviated10okt
+calendarsgregorianmonthsstand-aloneabbreviated12dec
+calendarsgregorianmonthsstand-aloneabbreviated11now
+calendarsgregorianmonthsstand-aloneabbreviated7jul
+calendarsgregorianmonthsstand-aloneabbreviated3měr
+calendarsgregorianmonthsstand-aloneabbreviated5mej
+calendarsgregorianmonthsstand-aloneabbreviated2feb
+calendarsgregorianmonthsstand-aloneabbreviated8awg
+calendarsgregorianmonthsstand-aloneabbreviated9sep
+calendarsgregorianmonthsstand-aloneabbreviated1jan
+calendarsgregorianmonthsstand-aloneabbreviated6jun
+calendarsgregorianmonthsstand-aloneabbreviated4apr
+calendarsgregorianmonthsstand-alonewide5meja
+calendarsgregorianmonthsstand-alonewide8awgust
+calendarsgregorianmonthsstand-alonewide2februar
+calendarsgregorianmonthsstand-alonewide9september
+calendarsgregorianmonthsstand-alonewide4apryl
+calendarsgregorianmonthsstand-alonewide6junij
+calendarsgregorianmonthsstand-alonewide1januar
+calendarsgregorianmonthsstand-alonewide10oktober
+calendarsgregorianmonthsstand-alonewide12december
+calendarsgregorianmonthsstand-alonewide7julij
+calendarsgregorianmonthsstand-alonewide11nowember
+calendarsgregorianmonthsstand-alonewide3měrc
+calendarsgregorianmonthsformatnarrow10o
+calendarsgregorianmonthsformatnarrow3m
+calendarsgregorianmonthsformatnarrow7j
+calendarsgregorianmonthsformatnarrow12d
+calendarsgregorianmonthsformatnarrow11n
+calendarsgregorianmonthsformatnarrow2f
+calendarsgregorianmonthsformatnarrow8a
+calendarsgregorianmonthsformatnarrow5m
+calendarsgregorianmonthsformatnarrow6j
+calendarsgregorianmonthsformatnarrow4a
+calendarsgregorianmonthsformatnarrow1j
+calendarsgregorianmonthsformatnarrow9s
+calendarsgregorianmonthsformatabbreviated12dec.
+calendarsgregorianmonthsformatabbreviated7jul.
+calendarsgregorianmonthsformatabbreviated11now.
+calendarsgregorianmonthsformatabbreviated3měr.
+calendarsgregorianmonthsformatabbreviated10okt.
+calendarsgregorianmonthsformatabbreviated9sep.
+calendarsgregorianmonthsformatabbreviated4apr.
+calendarsgregorianmonthsformatabbreviated6jun.
+calendarsgregorianmonthsformatabbreviated1jan.
+calendarsgregorianmonthsformatabbreviated5mej.
+calendarsgregorianmonthsformatabbreviated2feb.
+calendarsgregorianmonthsformatabbreviated8awg.
+calendarsgregorianmonthsformatwide3měrca
+calendarsgregorianmonthsformatwide11nowembra
+calendarsgregorianmonthsformatwide12decembra
+calendarsgregorianmonthsformatwide7julija
+calendarsgregorianmonthsformatwide10oktobra
+calendarsgregorianmonthsformatwide6junija
+calendarsgregorianmonthsformatwide4apryla
+calendarsgregorianmonthsformatwide1januara
+calendarsgregorianmonthsformatwide9septembra
+calendarsgregorianmonthsformatwide2februara
+calendarsgregorianmonthsformatwide8awgusta
+calendarsgregorianmonthsformatwide5meje
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsyMdd.M.y
+calendarsgregorianavailableFormatsMMMdd. MMM
+calendarsgregorianavailableFormatsyMEdE, d.M.y
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsMdd.M.
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsHH 'hodź'.
+calendarsgregorianavailableFormatsyMMMdd. MMM y
+calendarsgregorianavailableFormatsEhmsE, h:mm:ss a
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsyMMMEdE, d. MMM y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsH:mm:ss
+calendarsgregorianavailableFormatsGyMMMEdE, d. MMM y G
+calendarsgregorianavailableFormatsHmH:mm 'hodź'.
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsEdE, d.
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsEhmE, h:mm a
+calendarsgregorianavailableFormatsEHmsE, HH:mm:ss
+calendarsgregorianavailableFormatsEHmE, H:mm 'hodź'.
+calendarsgregorianavailableFormatsMMMEdE, d. MMM
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsyMM.y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyMMMdd. MMM y G
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsMEdE, d.M.
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianeraseraNames0před našim ličenjom časa
+calendarsgregorianeraseraNames1našeho ličenja časa
+calendarsgregorianeraseraAbbr0př.n.l.č.
+calendarsgregorianeraseraAbbr1n.l.č.
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-aloneabbreviated3Q3
+calendarsgregorianquartersstand-aloneabbreviated4Q4
+calendarsgregorianquartersstand-aloneabbreviated1Q1
+calendarsgregorianquartersstand-aloneabbreviated2Q2
+calendarsgregorianquartersstand-alonewide11. kwartal
+calendarsgregorianquartersstand-alonewide44. kwartal
+calendarsgregorianquartersstand-alonewide22. kwartal
+calendarsgregorianquartersstand-alonewide33. kwartal
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatabbreviated3Q3
+calendarsgregorianquartersformatabbreviated2Q2
+calendarsgregorianquartersformatabbreviated4Q4
+calendarsgregorianquartersformatabbreviated1Q1
+calendarsgregorianquartersformatwide44. kwartal
+calendarsgregorianquartersformatwide11. kwartal
+calendarsgregorianquartersformatwide22. kwartal
+calendarsgregorianquartersformatwide33. kwartal
+calendarsgregoriandateFormatsshortstandardd.M.yy
+calendarsgregoriandateFormatsfullstandardEEEE, d. MMMM y
+calendarsgregoriandateFormatslongstandardd. MMMM y
+calendarsgregoriandateFormatsmediumstandardd.M.y
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandayPeriodsformatabbreviatedpmpopołdnju
+calendarsgregoriandayPeriodsformatabbreviatedamdopołdnja
+calendarsgregoriandayPeriodsformatwidepmpopołdnju
+calendarsgregoriandayPeriodsformatwideamdopołdnja
+calendarsgregoriandayPeriodsformatnarrowpmpop.
+calendarsgregoriandayPeriodsformatnarrowamdop.
+calendarsgregoriandaysformatwidewedsrjeda
+calendarsgregoriandaysformatwidesunnjedźela
+calendarsgregoriandaysformatwidefripjatk
+calendarsgregoriandaysformatwidesatsobota
+calendarsgregoriandaysformatwidethuštwórtk
+calendarsgregoriandaysformatwidemonpóndźela
+calendarsgregoriandaysformatwidetuewutora
+calendarsgregoriandaysformatabbreviatedmonpón
+calendarsgregoriandaysformatabbreviatedtuewut
+calendarsgregoriandaysformatabbreviatedfripja
+calendarsgregoriandaysformatabbreviatedthuštw
+calendarsgregoriandaysformatabbreviatedsatsob
+calendarsgregoriandaysformatabbreviatedsunnje
+calendarsgregoriandaysformatabbreviatedwedsrj
+calendarsgregoriandaysformatnarrowmonp
+calendarsgregoriandaysformatnarrowtuew
+calendarsgregoriandaysformatnarrowfrip
+calendarsgregoriandaysformatnarrowthuš
+calendarsgregoriandaysformatnarrowsats
+calendarsgregoriandaysformatnarrowsunn
+calendarsgregoriandaysformatnarrowweds
+calendarsgregoriandaysformatshorttuewu
+calendarsgregoriandaysformatshortmonpó
+calendarsgregoriandaysformatshortsatso
+calendarsgregoriandaysformatshortthušt
+calendarsgregoriandaysformatshortfripj
+calendarsgregoriandaysformatshortsunnj
+calendarsgregoriandaysformatshortwedsr
+calendarsgregoriandaysstand-aloneabbreviatedwedsrj
+calendarsgregoriandaysstand-aloneabbreviatedsunnje
+calendarsgregoriandaysstand-aloneabbreviatedthuštw
+calendarsgregoriandaysstand-aloneabbreviatedsatsob
+calendarsgregoriandaysstand-aloneabbreviatedfripja
+calendarsgregoriandaysstand-aloneabbreviatedtuewut
+calendarsgregoriandaysstand-aloneabbreviatedmonpón
+calendarsgregoriandaysstand-alonewidemonpóndźela
+calendarsgregoriandaysstand-alonewidetuewutora
+calendarsgregoriandaysstand-alonewidefripjatk
+calendarsgregoriandaysstand-alonewidesatsobota
+calendarsgregoriandaysstand-alonewidethuštwórtk
+calendarsgregoriandaysstand-alonewidesunnjedźela
+calendarsgregoriandaysstand-alonewidewedsrjeda
+calendarsgregoriandaysstand-alonenarrowweds
+calendarsgregoriandaysstand-alonenarrowsunn
+calendarsgregoriandaysstand-alonenarrowfrip
+calendarsgregoriandaysstand-alonenarrowsats
+calendarsgregoriandaysstand-alonenarrowthuš
+calendarsgregoriandaysstand-alonenarrowmonp
+calendarsgregoriandaysstand-alonenarrowtuew
+calendarsgregoriandaysstand-aloneshortwedsr
+calendarsgregoriandaysstand-aloneshortsunnj
+calendarsgregoriandaysstand-aloneshortfripj
+calendarsgregoriandaysstand-aloneshortthušt
+calendarsgregoriandaysstand-aloneshortsatso
+calendarsgregoriandaysstand-aloneshortmonpó
+calendarsgregoriandaysstand-aloneshorttuewu
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateFormatsmediumstandardd.M.y G
+calendarsgenericdateFormatslongstandardd. MMMM y G
+calendarsgenericdateFormatsfullstandardEEEE, d. MMMM y G
+calendarsgenericdateFormatsshortstandardd.M.yy GGGGG
+calendarsgenericavailableFormatsyyyyMM.y GGGGG
+calendarsgenericavailableFormatsMMMdd. MMM
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsyyyyMEdE, d.M.y GGGGG
+calendarsgenericavailableFormatsMdd.M.
+calendarsgenericavailableFormatsyyyyMdd.M.y GGGGG
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMEdE, d. MMM y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdE, d.
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsyyyyMMMdd. MMM y G
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsMMMEdE, d. MMM
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatsGyMMMdd. MMM y G
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsyyyyMMMEdE, d. MMM y G
+calendarsgenericavailableFormatsMEdE, d.M.
+calendarsgenericintervalFormatsyMMMMyLLLL y – LLLL y G
+calendarsgenericintervalFormatsyMMMMMLLLL – LLLL y G
+calendarsgenericintervalFormatsMMMEdME, d. MMM – E, d. MMM
+calendarsgenericintervalFormatsMMMEddE, d. – E, d. MMM
+calendarsgenericintervalFormatsyMMM.y – M.y G
+calendarsgenericintervalFormatsyMyM.y – M.y G
+calendarsgenericintervalFormatsyyy–y G
+calendarsgenericintervalFormatsMEdME, d.M. – E, d.M.
+calendarsgenericintervalFormatsMEddE, d.M. – E, d.M.
+calendarsgenericintervalFormatsyMMMMLLL – LLL y G
+calendarsgenericintervalFormatsyMMMyLLL y – LLL y G
+calendarsgenericintervalFormatsMMMddd. – d. MMM
+calendarsgenericintervalFormatsMMMdMd. MMM – d. MMM
+calendarsgenericintervalFormatsyMddd.M.y – d.M.y G
+calendarsgenericintervalFormatsyMdMd.M.y – d.M.y G
+calendarsgenericintervalFormatsyMdyd.M.y – d.M.y G
+calendarsgenericintervalFormatsyMEdyE, d.M.y – E, d.M.y G
+calendarsgenericintervalFormatsyMEdME, d.M.y – E, d.M.y G
+calendarsgenericintervalFormatsyMEddE, d.M.y – E, d.M.y G
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsMMMMLLL – LLL
+calendarsgenericintervalFormatsMdMd.M. – d.M.
+calendarsgenericintervalFormatsMddd.M. – d.M.
+calendarsgenericintervalFormatsyMMMdyd. MMM y – d. MMM y G
+calendarsgenericintervalFormatsyMMMdMd. MMM – d. MMM y G
+calendarsgenericintervalFormatsyMMMddd. – d. MMM y G
+calendarsgenericintervalFormatsyMMMEdyE, d. MMM y – E, d. MMM y G
+calendarsgenericintervalFormatsyMMMEddE, d. – E, d. MMM y G
+calendarsgenericintervalFormatsyMMMEdME, d. MMM – E, d. MMM y G
+calendarsgenericintervalFormatsddd. – d.
+calendarsgenericintervalFormatsMMM. – M.
+posixmessagesyesstrhaj:h
+posixmessagesnostrně:n
+charactersexemplarCharactersstandard[a b c č ć d {dź} e ě f g h {ch} i j k ł l m n ń o ó p q r ř s š t u v w x y z ž]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . … ' ‘ ’ ‚ &quot; “ „ « » ( ) \[ \] \{ \} § @ * / \&amp; #]
+charactersexemplarCharactersindex[A B C Č Ć D {DŹ} E F G H {CH} I J K Ł L M N O P Q R S Š T U V W X Y Z Ž]
+charactersexemplarCharactersauxiliary[á à ă â å ä ã ą ā æ ç ď đ é è ĕ ê ë ė ę ē ğ í ì ĭ î ï İ ī ı ĺ ľ ň ñ ò ŏ ô ö ő ø ō œ ŕ ś ş ß ť ú ù ŭ û ů ü ű ū ý ÿ ż ź]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+listPatternsunit-narrowstart{0}, {1}
+listPatternsunit-narrow2{0}, {1}
+listPatternsunit-narrowend{0}, {1}
+listPatternsunit-narrowmiddle{0}, {1}
+listPatternsstandardend{0} a {1}
+listPatternsstandard2{0} a {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandardstart{0}, {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsunit-shortend{0} a {1}
+listPatternsunit-short2{0}, {1}
+listPatternsunit-shortstart{0}, {1}
+listPatternsunitend{0} a {1}
+listPatternsunit2{0} a {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsunitstart{0}, {1}

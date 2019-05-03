@@ -1,0 +1,417 @@
+delimitersquotationStart«
+delimitersalternateQuotationEnd’
+delimitersquotationEnd»
+delimitersalternateQuotationStart‘
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numberssymbolslatngroup.
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnexponentialE
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnplusSign+
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal,
+numbersminimumGroupingDigits1
+numberscurrenciesRWFstandardRF
+numbersmiscPatternslatnrange{0}–{1}
+numbersmiscPatternslatnatLeast≥{0}
+numberscurrencyFormatslatnshort1000000000¤ 0G
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort10000¤ 00K
+numberscurrencyFormatslatnshort100000000000000¤ 000T
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnshort10000000¤ 00M
+numberscurrencyFormatslatnshort1000¤ 0K
+numberscurrencyFormatslatnshort100000¤ 000K
+numberscurrencyFormatslatnshort10000000000¤ 00G
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort100000000000¤ 000G
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numberspercentFormatslatnstandardstandard#,##0%
+numbersscientificFormatslatnstandardstandard#E0
+localeDisplayNamesterritoriesRWU Rwanda
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNameslanguagesheIgiheburayo
+localeDisplayNameslanguageshuIgihongiriya
+localeDisplayNameslanguagessdIgisindi
+localeDisplayNameslanguagesnlIkinerilande
+localeDisplayNameslanguagesmsIkimalayi
+localeDisplayNameslanguagesbsInyebosiniya
+localeDisplayNameslanguagesfiIgifinilande
+localeDisplayNameslanguageskyInkerigizi
+localeDisplayNameslanguageslvIkinyaletoviyani
+localeDisplayNameslanguagesbgUrunyabuligariya
+localeDisplayNameslanguageskuInyekuridishi
+localeDisplayNameslanguagesukIkinyayukereni
+localeDisplayNameslanguageshrIgikorowasiya
+localeDisplayNameslanguagesmkIkimasedoniya
+localeDisplayNameslanguagesmlIkimalayalami
+localeDisplayNameslanguagestiInyatigirinya
+localeDisplayNameslanguagesarIcyarabu
+localeDisplayNameslanguagespaIgipunjabi
+localeDisplayNameslanguagesrwKinyarwanda
+localeDisplayNameslanguagessuInyesudani
+localeDisplayNameslanguagesfyIgifiriziyani
+localeDisplayNameslanguagesfoInyefaroyizi
+localeDisplayNameslanguagesfrIgifaransa
+localeDisplayNameslanguagesbeIkibelarusiya
+localeDisplayNameslanguagesgaIkirilandi
+localeDisplayNameslanguagesguInyegujarati
+localeDisplayNameslanguagesafIkinyafurikaneri
+localeDisplayNameslanguagesviIkinyaviyetinamu
+localeDisplayNameslanguageskaInyejeworujiya
+localeDisplayNameslanguagesshInyeseribiya na Korowasiya
+localeDisplayNameslanguagesisIgisilande
+localeDisplayNameslanguageshiIgihindi
+localeDisplayNameslanguageslnIlingala
+localeDisplayNameslanguageseoIcyesiperanto
+localeDisplayNameslanguagespt_PTInyeporutigali (Igiporutigali)
+localeDisplayNameslanguagesskIgisilovaki
+localeDisplayNameslanguagessqIcyalubaniya
+localeDisplayNameslanguagestaIgitamili
+localeDisplayNameslanguagestlhInyekilingoni
+localeDisplayNameslanguagesswIgiswahili
+localeDisplayNameslanguagesbrInyebiritoni
+localeDisplayNameslanguagesxhInyehawusa
+localeDisplayNameslanguagesmrIkimarati
+localeDisplayNameslanguagesuzInyeyuzubeki
+localeDisplayNameslanguagesstInyesesoto
+localeDisplayNameslanguagesptIgiporutugali
+localeDisplayNameslanguagesiaUrurimi Gahuzamiryango
+localeDisplayNameslanguagesorInyoriya
+localeDisplayNameslanguagesieUruhuzandimi
+localeDisplayNameslanguageselIkigereki
+localeDisplayNameslanguagesgnInyaguwarani
+localeDisplayNameslanguagesocInyogusitani
+localeDisplayNameslanguagesloIkilawotiyani
+localeDisplayNameslanguagesthIgitayi
+localeDisplayNameslanguagesfaInyeperisi
+localeDisplayNameslanguagescsIgiceke
+localeDisplayNameslanguagesneIkinepali
+localeDisplayNameslanguagesasIcyasamizi
+localeDisplayNameslanguagesnoIkinoruveji
+localeDisplayNameslanguagesnnInyenoruveji (Nyonorusiki)
+localeDisplayNameslanguagesruIkirusiya
+localeDisplayNameslanguagesslIkinyasiloveniya
+localeDisplayNameslanguagessrIgiseribe
+localeDisplayNameslanguagesugIkiwiguri
+localeDisplayNameslanguagesazInyazeribayijani
+localeDisplayNameslanguagespsImpashito
+localeDisplayNameslanguagestrIgiturukiya
+localeDisplayNameslanguageseuIkibasiki
+localeDisplayNameslanguagescaIgikatalani
+localeDisplayNameslanguageslaIkilatini
+localeDisplayNameslanguageskoIgikoreya
+localeDisplayNameslanguagessaIgisansikiri
+localeDisplayNameslanguagesmnIkimongoli
+localeDisplayNameslanguagesetIcyesitoniya
+localeDisplayNameslanguagesltIkilituwaniya
+localeDisplayNameslanguagesjaIkiyapani
+localeDisplayNameslanguagessvIgisuweduwa
+localeDisplayNameslanguagestkInyeturukimeni
+localeDisplayNameslanguagesfilIkinyafilipine
+localeDisplayNameslanguagesesIcyesipanyolo
+localeDisplayNameslanguageshyIkinyarumeniya
+localeDisplayNameslanguagesknIgikanada
+localeDisplayNameslanguagesjvInyejava
+localeDisplayNameslanguagesenIcyongereza
+localeDisplayNameslanguagesdaIkidaninwa
+localeDisplayNameslanguagesitIgitaliyani
+localeDisplayNameslanguagesbnIkibengali
+localeDisplayNameslanguagesidIkinyendoziya
+localeDisplayNameslanguagestwInyetuwi
+localeDisplayNameslanguagesglIkigalisiya
+localeDisplayNameslanguagesdeIkidage
+localeDisplayNameslanguagesmtIkimaliteze
+localeDisplayNameslanguagespt_BRInyeporutigali (Brezili)
+localeDisplayNameslanguagesurInyeyurudu
+localeDisplayNameslanguageskmIgikambodiya
+localeDisplayNameslanguagescyIkigaluwa
+localeDisplayNameslanguagesyiInyeyidishi
+localeDisplayNameslanguagesplIgipolone
+localeDisplayNameslanguageszuInyezulu
+localeDisplayNameslanguagesamInyamuhariki
+localeDisplayNameslanguagessoIgisomali
+localeDisplayNameslanguagesteIgitelugu
+localeDisplayNameslanguagesgdIkigaluwa cy’Igisweduwa
+localeDisplayNameslanguagesroIkinyarumaniya
+localeDisplayNameslanguagessiInyesimpaleze
+calendarsgregorianquartersstand-alonewide3igihembwe cya gatatu
+calendarsgregorianquartersstand-alonewide1igihembwe cya mbere
+calendarsgregorianquartersstand-alonewide4igihembwe cya kane
+calendarsgregorianquartersstand-alonewide2igihembwe cya kabiri
+calendarsgregorianquartersstand-aloneabbreviated2I2
+calendarsgregorianquartersstand-aloneabbreviated1I1
+calendarsgregorianquartersstand-aloneabbreviated4I4
+calendarsgregorianquartersstand-aloneabbreviated3I3
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatwide2igihembwe cya kabiri
+calendarsgregorianquartersformatwide1igihembwe cya mbere
+calendarsgregorianquartersformatwide4igihembwe cya kane
+calendarsgregorianquartersformatwide3igihembwe cya gatatu
+calendarsgregorianquartersformatabbreviated3I3
+calendarsgregorianquartersformatabbreviated1I1
+calendarsgregorianquartersformatabbreviated4I4
+calendarsgregorianquartersformatabbreviated2I2
+calendarsgregoriandateFormatslongstandardy MMMM d
+calendarsgregoriandateFormatsmediumstandardy MMM d
+calendarsgregoriandateFormatsshortstandardy-MM-dd
+calendarsgregoriandateFormatsfullstandardy MMMM d, EEEE
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandayPeriodsstand-alonewideamAM
+calendarsgregoriandayPeriodsstand-alonewidepmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsformatnarrowpmPM
+calendarsgregoriandayPeriodsformatnarrowamAM
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandaysstand-aloneabbreviatedwedgtu.
+calendarsgregoriandaysstand-aloneabbreviatedsuncyu.
+calendarsgregoriandaysstand-aloneabbreviatedfrignu.
+calendarsgregoriandaysstand-aloneabbreviatedthukan.
+calendarsgregoriandaysstand-aloneabbreviatedsatgnd.
+calendarsgregoriandaysstand-aloneabbreviatedmonmbe.
+calendarsgregoriandaysstand-aloneabbreviatedtuekab.
+calendarsgregoriandaysstand-alonewidemonKuwa mbere
+calendarsgregoriandaysstand-alonewidetueKuwa kabiri
+calendarsgregoriandaysstand-alonewidefriKuwa gatanu
+calendarsgregoriandaysstand-alonewidethuKuwa kane
+calendarsgregoriandaysstand-alonewidesatKuwa gatandatu
+calendarsgregoriandaysstand-alonewidesunKu cyumweru
+calendarsgregoriandaysstand-alonewidewedKuwa gatatu
+calendarsgregoriandaysstand-alonenarrowwedW
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-alonenarrowthuT
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowtueT
+calendarsgregoriandaysstand-aloneshortfrignu.
+calendarsgregoriandaysstand-aloneshortsatgnd.
+calendarsgregoriandaysstand-aloneshortthukan.
+calendarsgregoriandaysstand-aloneshortmonmbe.
+calendarsgregoriandaysstand-aloneshorttuekab.
+calendarsgregoriandaysstand-aloneshortwedgtu.
+calendarsgregoriandaysstand-aloneshortsuncyu.
+calendarsgregoriandaysformatwidewedKuwa gatatu
+calendarsgregoriandaysformatwidesunKu cyumweru
+calendarsgregoriandaysformatwidethuKuwa kane
+calendarsgregoriandaysformatwidesatKuwa gatandatu
+calendarsgregoriandaysformatwidefriKuwa gatanu
+calendarsgregoriandaysformatwidetueKuwa kabiri
+calendarsgregoriandaysformatwidemonKuwa mbere
+calendarsgregoriandaysformatabbreviatedtuekab.
+calendarsgregoriandaysformatabbreviatedmonmbe.
+calendarsgregoriandaysformatabbreviatedthukan.
+calendarsgregoriandaysformatabbreviatedsatgnd.
+calendarsgregoriandaysformatabbreviatedfrignu.
+calendarsgregoriandaysformatabbreviatedsuncyu.
+calendarsgregoriandaysformatabbreviatedwedgtu.
+calendarsgregoriandaysformatnarrowsunS
+calendarsgregoriandaysformatnarrowwedW
+calendarsgregoriandaysformatnarrowtueT
+calendarsgregoriandaysformatnarrowmonM
+calendarsgregoriandaysformatnarrowthuT
+calendarsgregoriandaysformatnarrowsatS
+calendarsgregoriandaysformatnarrowfriF
+calendarsgregoriandaysformatshortsuncyu.
+calendarsgregoriandaysformatshortwedgtu.
+calendarsgregoriandaysformatshortmonmbe.
+calendarsgregoriandaysformatshorttuekab.
+calendarsgregoriandaysformatshortfrignu.
+calendarsgregoriandaysformatshortsatgnd.
+calendarsgregoriandaysformatshortthukan.
+calendarsgregorianintervalFormatsyMdyy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsyMddy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsyMdMy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsMMMdMMMM d – MMM d
+calendarsgregorianintervalFormatsMMMddMMM d–d
+calendarsgregorianintervalFormatsyMEdyy-MM-dd, E – y-MM-dd, E
+calendarsgregorianintervalFormatsyMEdMy-MM-dd, E – y-MM-dd, E
+calendarsgregorianintervalFormatsyMEddy-MM-dd, E – y-MM-dd, E
+calendarsgregorianintervalFormatsMMMMLLL–LLL
+calendarsgregorianintervalFormatsMddMM-dd – MM-dd
+calendarsgregorianintervalFormatsMdMMM-dd – MM-dd
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatsHHHH–HH
+calendarsgregorianintervalFormatsyMMMddy MMM d–d
+calendarsgregorianintervalFormatsyMMMdMy MMM d – MMM d
+calendarsgregorianintervalFormatsyMMMdyy MMM d – y MMM d
+calendarsgregorianintervalFormatsyMMMEdyy MMM d, E – y MMM d, E
+calendarsgregorianintervalFormatsyMMMEddy MMM d, E – MMM d, E
+calendarsgregorianintervalFormatsyMMMEdMy MMM d, E – MMM d, E
+calendarsgregorianintervalFormatsHmHHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsMMMM–MM
+calendarsgregorianintervalFormatsddd–d
+calendarsgregorianintervalFormatsMMMEdMMMM d, E – MMM d, E
+calendarsgregorianintervalFormatsMMMEddMMM d, E – MMM d, E
+calendarsgregorianintervalFormatsyMMMMyy MMMM – y MMMM
+calendarsgregorianintervalFormatsyMMMMMy MMMM–MMMM
+calendarsgregorianintervalFormatsyMMy-MM – y-MM
+calendarsgregorianintervalFormatsyMyy-MM – y-MM
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatsyMMMyy MMM – y MMM
+calendarsgregorianintervalFormatsyMMMMy MMM–MMM
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsMEdMMM-dd, E – MM-dd, E
+calendarsgregorianintervalFormatsMEddMM-dd, E – MM-dd, E
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregorianeraseraNames1CE
+calendarsgregorianeraseraNames0BCE
+calendarsgregorianeraseraAbbr1CE
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsyMMMdy MMM d
+calendarsgregorianavailableFormatsMMMMW'week' W 'of' MMM
+calendarsgregorianavailableFormatsMMMMdMMMM d
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsyMMMEdy MMM d, E
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsGyMMMEdG y MMM d, E
+calendarsgregorianavailableFormatsGyMMMG y MMM
+calendarsgregorianavailableFormatsEdd, E
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsyMdy-MM-dd
+calendarsgregorianavailableFormatsMMMdMMM d
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsyMEdy-MM-dd, E
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMdMM-dd
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsyMy-MM
+calendarsgregorianavailableFormatsyw'week' w 'of' Y
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyG y
+calendarsgregorianavailableFormatsGyMMMdG y MMM d
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMy MMM
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsMEdMM-dd, E
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsyMMMMy MMMM
+calendarsgregorianavailableFormatsMMMEdMMM d, E
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianmonthsformatnarrow66
+calendarsgregorianmonthsformatnarrow44
+calendarsgregorianmonthsformatnarrow11
+calendarsgregorianmonthsformatnarrow99
+calendarsgregorianmonthsformatnarrow88
+calendarsgregorianmonthsformatnarrow22
+calendarsgregorianmonthsformatnarrow55
+calendarsgregorianmonthsformatnarrow33
+calendarsgregorianmonthsformatnarrow1212
+calendarsgregorianmonthsformatnarrow77
+calendarsgregorianmonthsformatnarrow1111
+calendarsgregorianmonthsformatnarrow1010
+calendarsgregorianmonthsformatabbreviated12uku.
+calendarsgregorianmonthsformatabbreviated11ugu.
+calendarsgregorianmonthsformatabbreviated7nya.
+calendarsgregorianmonthsformatabbreviated3wer.
+calendarsgregorianmonthsformatabbreviated10ukw.
+calendarsgregorianmonthsformatabbreviated9nze.
+calendarsgregorianmonthsformatabbreviated6kam.
+calendarsgregorianmonthsformatabbreviated1mut.
+calendarsgregorianmonthsformatabbreviated4mat.
+calendarsgregorianmonthsformatabbreviated5gic.
+calendarsgregorianmonthsformatabbreviated2gas.
+calendarsgregorianmonthsformatabbreviated8kan.
+calendarsgregorianmonthsformatwide2Gashyantare
+calendarsgregorianmonthsformatwide8Kanama
+calendarsgregorianmonthsformatwide5Gicuransi
+calendarsgregorianmonthsformatwide6Kamena
+calendarsgregorianmonthsformatwide1Mutarama
+calendarsgregorianmonthsformatwide4Mata
+calendarsgregorianmonthsformatwide9Nzeli
+calendarsgregorianmonthsformatwide10Ukwakira
+calendarsgregorianmonthsformatwide3Werurwe
+calendarsgregorianmonthsformatwide12Ukuboza
+calendarsgregorianmonthsformatwide7Nyakanga
+calendarsgregorianmonthsformatwide11Ugushyingo
+calendarsgregorianmonthsstand-aloneabbreviated9nze.
+calendarsgregorianmonthsstand-aloneabbreviated6kam.
+calendarsgregorianmonthsstand-aloneabbreviated1mut.
+calendarsgregorianmonthsstand-aloneabbreviated4mat.
+calendarsgregorianmonthsstand-aloneabbreviated5gic.
+calendarsgregorianmonthsstand-aloneabbreviated2gas.
+calendarsgregorianmonthsstand-aloneabbreviated8kan.
+calendarsgregorianmonthsstand-aloneabbreviated12uku.
+calendarsgregorianmonthsstand-aloneabbreviated11ugu.
+calendarsgregorianmonthsstand-aloneabbreviated7nya.
+calendarsgregorianmonthsstand-aloneabbreviated3wer.
+calendarsgregorianmonthsstand-aloneabbreviated10ukw.
+calendarsgregorianmonthsstand-alonewide5Gicuransi
+calendarsgregorianmonthsstand-alonewide2Gashyantare
+calendarsgregorianmonthsstand-alonewide8Kanama
+calendarsgregorianmonthsstand-alonewide9Nzeli
+calendarsgregorianmonthsstand-alonewide4Mata
+calendarsgregorianmonthsstand-alonewide6Kamena
+calendarsgregorianmonthsstand-alonewide1Mutarama
+calendarsgregorianmonthsstand-alonewide10Ukwakira
+calendarsgregorianmonthsstand-alonewide7Nyakanga
+calendarsgregorianmonthsstand-alonewide12Ukuboza
+calendarsgregorianmonthsstand-alonewide11Ugushyingo
+calendarsgregorianmonthsstand-alonewide3Werurwe
+calendarsgregorianmonthsstand-alonenarrow1010
+calendarsgregorianmonthsstand-alonenarrow1212
+calendarsgregorianmonthsstand-alonenarrow1111
+calendarsgregorianmonthsstand-alonenarrow77
+calendarsgregorianmonthsstand-alonenarrow33
+calendarsgregorianmonthsstand-alonenarrow55
+calendarsgregorianmonthsstand-alonenarrow88
+calendarsgregorianmonthsstand-alonenarrow22
+calendarsgregorianmonthsstand-alonenarrow99
+calendarsgregorianmonthsstand-alonenarrow66
+calendarsgregorianmonthsstand-alonenarrow44
+calendarsgregorianmonthsstand-alonenarrow11
+calendarsgenericdateFormatsshortstandardGGGGG yy/MM/dd
+calendarsgenericdateFormatsfullstandardEEEE, G y MMMM dd
+calendarsgenericdateFormatslongstandardG y MMMM d
+calendarsgenericdateFormatsmediumstandardG y MMM d
+charactersexemplarCharactersindex[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersstandard[a b c d e f g h i j k l m n o p q r s t u v w x y z]

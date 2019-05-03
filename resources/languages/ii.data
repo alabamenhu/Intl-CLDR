@@ -1,0 +1,304 @@
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnshort10000000000¤ 00G
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort100000000000¤ 000G
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnshort10000000¤ 00M
+numberscurrencyFormatslatnshort1000¤ 0K
+numberscurrencyFormatslatnshort100000¤ 000K
+numberscurrencyFormatslatnshort1000000000¤ 0G
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort100000000000000¤ 000T
+numberscurrencyFormatslatnshort10000¤ 00K
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numberspercentFormatslatnstandardstandard#,##0%
+numbersscientificFormatslatnstandardstandard#E0
+numberscurrenciesCNYstandard¥
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal.
+numberssymbolslatnplusSign+
+numberssymbolslatnpercentSign%
+numberssymbolslatngroup,
+localeDisplayNamesmeasurementSystemNamesmetricꂰꌬꌠ
+localeDisplayNamesmeasurementSystemNamesUSꂰꇩ
+localeDisplayNamesterritoriesRUꊉꇆꌦ
+localeDisplayNamesterritoriesJPꏝꀪ
+localeDisplayNamesterritoriesITꑴꄊꆺ
+localeDisplayNamesterritoriesDEꄓꇩ
+localeDisplayNamesterritoriesFRꃔꇩ
+localeDisplayNamesterritoriesBRꀠꑭ
+localeDisplayNamesterritoriesZZꃅꄷꅉꀋꐚꌠ
+localeDisplayNamesterritoriesGBꑱꇩ
+localeDisplayNamesterritoriesUSꂰꇩ
+localeDisplayNamesterritoriesINꑴꄗ
+localeDisplayNamesterritoriesCNꍏꇩ
+localeDisplayNamesscriptsCyrlꀊꆨꌦꇁꃚꁱꂷ
+localeDisplayNamesscriptsLatnꇁꄀꁱꂷ
+localeDisplayNamesscriptsHantꀎꋏꉌꈲꁱꂷ
+localeDisplayNamesscriptsArabꀊꇁꀨꁱꂷ
+localeDisplayNamesscriptsZzzzꅉꀋꐚꌠꁱꂷ
+localeDisplayNamesscriptsZxxxꁱꀋꉆꌠ
+localeDisplayNamesscriptsHansꈝꐯꉌꈲꁱꂷ
+localeDisplayNamesscriptsYiiiꆈꌠꁱꂷ
+localeDisplayNameslanguagesruꊉꇩꉙ
+localeDisplayNameslanguageszh_Hantꀎꋏꍏꇩꉙ
+localeDisplayNameslanguagesundꅉꀋꌠꅇꂷ
+localeDisplayNameslanguageszhꍏꇩꉙ
+localeDisplayNameslanguagesjaꏝꀪꉙ
+localeDisplayNameslanguagesesꑭꀠꑸꉙ
+localeDisplayNameslanguagesiiꆈꌠꉙ
+localeDisplayNameslanguagespt_BRꀠꑟꁍꄨꑸꉙ
+localeDisplayNameslanguageszh_Hansꈝꐯꍏꇩꉙ
+localeDisplayNameslanguagesitꑴꄊꆺꉙ
+localeDisplayNameslanguagesdeꄓꇩꉙ
+localeDisplayNameslanguagesenꑱꇩꉙ
+localeDisplayNameslanguagesfrꃔꇩꉙ
+localeDisplayNameslanguagesptꁍꄨꑸꉙ
+localeDisplayNamescodePatternslanguageꅇꉙ: {0}
+localeDisplayNamescodePatternsscriptꇇꁱ: {0}
+localeDisplayNamescodePatternsterritoryꃅꄷ: {0}
+calendarsgregorianintervalFormatsyMMMdyy MMM d – y MMM d
+calendarsgregorianintervalFormatsyMMMdMy MMM d – MMM d
+calendarsgregorianintervalFormatsyMMMddy MMM d–d
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmHHH:mm–HH:mm
+calendarsgregorianintervalFormatsyMMMEdMy MMM d, E – MMM d, E
+calendarsgregorianintervalFormatsyMMMEddy MMM d, E – MMM d, E
+calendarsgregorianintervalFormatsyMMMEdyy MMM d, E – y MMM d, E
+calendarsgregorianintervalFormatsMMMM–MM
+calendarsgregorianintervalFormatsddd–d
+calendarsgregorianintervalFormatsyMddy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsyMdMy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsyMdyy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsMMMdMMMM d – MMM d
+calendarsgregorianintervalFormatsMMMddMMM d–d
+calendarsgregorianintervalFormatsMMMMLLL–LLL
+calendarsgregorianintervalFormatsyMEdyy-MM-dd, E – y-MM-dd, E
+calendarsgregorianintervalFormatsyMEdMy-MM-dd, E – y-MM-dd, E
+calendarsgregorianintervalFormatsyMEddy-MM-dd, E – y-MM-dd, E
+calendarsgregorianintervalFormatsMddMM-dd – MM-dd
+calendarsgregorianintervalFormatsMdMMM-dd – MM-dd
+calendarsgregorianintervalFormatsHHHH–HH
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatsyMyy-MM – y-MM
+calendarsgregorianintervalFormatsyMMy-MM – y-MM
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatsyMMMMy MMM–MMM
+calendarsgregorianintervalFormatsyMMMyy MMM – y MMM
+calendarsgregorianintervalFormatsMEdMMM-dd, E – MM-dd, E
+calendarsgregorianintervalFormatsMEddMM-dd, E – MM-dd, E
+calendarsgregorianintervalFormatsyMMMMyy MMMM – y MMMM
+calendarsgregorianintervalFormatsyMMMMMy MMMM–MMMM
+calendarsgregorianintervalFormatsMMMEddMMM d, E – MMM d, E
+calendarsgregorianintervalFormatsMMMEdMMMM d, E – MMM d, E
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianmonthsformatabbreviated3ꌕꆪ
+calendarsgregorianmonthsformatabbreviated11ꊰꊪꆪ
+calendarsgregorianmonthsformatabbreviated12ꊰꑋꆪ
+calendarsgregorianmonthsformatabbreviated7ꏃꆪ
+calendarsgregorianmonthsformatabbreviated10ꊰꆪ
+calendarsgregorianmonthsformatabbreviated1ꋍꆪ
+calendarsgregorianmonthsformatabbreviated6ꃘꆪ
+calendarsgregorianmonthsformatabbreviated4ꇖꆪ
+calendarsgregorianmonthsformatabbreviated9ꈬꆪ
+calendarsgregorianmonthsformatabbreviated8ꉆꆪ
+calendarsgregorianmonthsformatabbreviated2ꑍꆪ
+calendarsgregorianmonthsformatabbreviated5ꉬꆪ
+calendarsgregorianmonthsformatwide5ꉬꆪ
+calendarsgregorianmonthsformatwide2ꑍꆪ
+calendarsgregorianmonthsformatwide8ꉆꆪ
+calendarsgregorianmonthsformatwide9ꈬꆪ
+calendarsgregorianmonthsformatwide6ꃘꆪ
+calendarsgregorianmonthsformatwide4ꇖꆪ
+calendarsgregorianmonthsformatwide1ꋍꆪ
+calendarsgregorianmonthsformatwide10ꊰꆪ
+calendarsgregorianmonthsformatwide11ꊰꊪꆪ
+calendarsgregorianmonthsformatwide12ꊰꑋꆪ
+calendarsgregorianmonthsformatwide7ꏃꆪ
+calendarsgregorianmonthsformatwide3ꌕꆪ
+calendarsgregorianmonthsformatnarrow99
+calendarsgregorianmonthsformatnarrow44
+calendarsgregorianmonthsformatnarrow66
+calendarsgregorianmonthsformatnarrow11
+calendarsgregorianmonthsformatnarrow55
+calendarsgregorianmonthsformatnarrow22
+calendarsgregorianmonthsformatnarrow88
+calendarsgregorianmonthsformatnarrow1212
+calendarsgregorianmonthsformatnarrow1111
+calendarsgregorianmonthsformatnarrow77
+calendarsgregorianmonthsformatnarrow33
+calendarsgregorianmonthsformatnarrow1010
+calendarsgregorianmonthsstand-alonenarrow55
+calendarsgregorianmonthsstand-alonenarrow22
+calendarsgregorianmonthsstand-alonenarrow88
+calendarsgregorianmonthsstand-alonenarrow99
+calendarsgregorianmonthsstand-alonenarrow66
+calendarsgregorianmonthsstand-alonenarrow44
+calendarsgregorianmonthsstand-alonenarrow11
+calendarsgregorianmonthsstand-alonenarrow1010
+calendarsgregorianmonthsstand-alonenarrow1111
+calendarsgregorianmonthsstand-alonenarrow1212
+calendarsgregorianmonthsstand-alonenarrow77
+calendarsgregorianmonthsstand-alonenarrow33
+calendarsgregorianmonthsstand-alonewide10ꊰꆪ
+calendarsgregorianmonthsstand-alonewide3ꌕꆪ
+calendarsgregorianmonthsstand-alonewide12ꊰꑋꆪ
+calendarsgregorianmonthsstand-alonewide11ꊰꊪꆪ
+calendarsgregorianmonthsstand-alonewide7ꏃꆪ
+calendarsgregorianmonthsstand-alonewide8ꉆꆪ
+calendarsgregorianmonthsstand-alonewide2ꑍꆪ
+calendarsgregorianmonthsstand-alonewide5ꉬꆪ
+calendarsgregorianmonthsstand-alonewide6ꃘꆪ
+calendarsgregorianmonthsstand-alonewide4ꇖꆪ
+calendarsgregorianmonthsstand-alonewide1ꋍꆪ
+calendarsgregorianmonthsstand-alonewide9ꈬꆪ
+calendarsgregorianmonthsstand-aloneabbreviated6ꃘꆪ
+calendarsgregorianmonthsstand-aloneabbreviated4ꇖꆪ
+calendarsgregorianmonthsstand-aloneabbreviated1ꋍꆪ
+calendarsgregorianmonthsstand-aloneabbreviated9ꈬꆪ
+calendarsgregorianmonthsstand-aloneabbreviated8ꉆꆪ
+calendarsgregorianmonthsstand-aloneabbreviated2ꑍꆪ
+calendarsgregorianmonthsstand-aloneabbreviated5ꉬꆪ
+calendarsgregorianmonthsstand-aloneabbreviated3ꌕꆪ
+calendarsgregorianmonthsstand-aloneabbreviated12ꊰꑋꆪ
+calendarsgregorianmonthsstand-aloneabbreviated7ꏃꆪ
+calendarsgregorianmonthsstand-aloneabbreviated11ꊰꊪꆪ
+calendarsgregorianmonthsstand-aloneabbreviated10ꊰꆪ
+calendarsgregorianavailableFormatsyMy-MM
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyMMMdG y MMM d
+calendarsgregorianavailableFormatsGyG y
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMy MMM
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsMEdMM-dd, E
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsMMMEdMMM d, E
+calendarsgregorianavailableFormatsyMMMMy MMMM
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsyMMMdy MMM d
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsMMMMdMMMM d
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsyMMMEdy MMM d, E
+calendarsgregorianavailableFormatsGyMMMG y MMM
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsGyMMMEdG y MMM d, E
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsEdd, E
+calendarsgregorianavailableFormatsMMMdMMM d
+calendarsgregorianavailableFormatsyMdy-MM-dd
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsyMEdy-MM-dd, E
+calendarsgregorianavailableFormatsMdMM-dd
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianeraseraAbbr1ꃅꋊꊂ
+calendarsgregorianeraseraAbbr0ꃅꋊꂿ
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregoriandateFormatsmediumstandardy MMM d
+calendarsgregoriandateFormatslongstandardy MMMM d
+calendarsgregoriandateFormatsfullstandardy MMMM d, EEEE
+calendarsgregoriandateFormatsshortstandardy-MM-dd
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonewide1ꃅꑌ
+calendarsgregorianquartersstand-alonewide4ꃅꋆ
+calendarsgregorianquartersstand-alonewide2ꃅꎸ
+calendarsgregorianquartersstand-alonewide3ꃅꍵ
+calendarsgregorianquartersstand-aloneabbreviated1ꃅꑌ
+calendarsgregorianquartersstand-aloneabbreviated4ꃅꋆ
+calendarsgregorianquartersstand-aloneabbreviated2ꃅꎸ
+calendarsgregorianquartersstand-aloneabbreviated3ꃅꍵ
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatabbreviated3ꃅꍵ
+calendarsgregorianquartersformatabbreviated2ꃅꎸ
+calendarsgregorianquartersformatabbreviated1ꃅꑌ
+calendarsgregorianquartersformatabbreviated4ꃅꋆ
+calendarsgregorianquartersformatwide3ꃅꍵ
+calendarsgregorianquartersformatwide2ꃅꎸ
+calendarsgregorianquartersformatwide1ꃅꑌ
+calendarsgregorianquartersformatwide4ꃅꋆ
+calendarsgregoriandaysstand-alonenarrowsunꆏ
+calendarsgregoriandaysstand-alonenarrowwedꌕ
+calendarsgregoriandaysstand-alonenarrowtueꑍ
+calendarsgregoriandaysstand-alonenarrowmonꋍ
+calendarsgregoriandaysstand-alonenarrowthuꇖ
+calendarsgregoriandaysstand-alonenarrowsatꃘ
+calendarsgregoriandaysstand-alonenarrowfriꉬ
+calendarsgregoriandaysstand-alonewidetueꆏꊂꑍ
+calendarsgregoriandaysstand-alonewidemonꆏꊂꋍ
+calendarsgregoriandaysstand-alonewidesatꆏꊂꃘ
+calendarsgregoriandaysstand-alonewidethuꆏꊂꇖ
+calendarsgregoriandaysstand-alonewidefriꆏꊂꉬ
+calendarsgregoriandaysstand-alonewidesunꑭꆏꑍ
+calendarsgregoriandaysstand-alonewidewedꆏꊂꌕ
+calendarsgregoriandaysstand-aloneabbreviatedmonꆏꋍ
+calendarsgregoriandaysstand-aloneabbreviatedtueꆏꑍ
+calendarsgregoriandaysstand-aloneabbreviatedfriꆏꉬ
+calendarsgregoriandaysstand-aloneabbreviatedsatꆏꃘ
+calendarsgregoriandaysstand-aloneabbreviatedthuꆏꇖ
+calendarsgregoriandaysstand-aloneabbreviatedsunꑭꆏ
+calendarsgregoriandaysstand-aloneabbreviatedwedꆏꌕ
+calendarsgregoriandaysformatwidewedꆏꊂꌕ
+calendarsgregoriandaysformatwidesunꑭꆏꑍ
+calendarsgregoriandaysformatwidethuꆏꊂꇖ
+calendarsgregoriandaysformatwidesatꆏꊂꃘ
+calendarsgregoriandaysformatwidefriꆏꊂꉬ
+calendarsgregoriandaysformatwidetueꆏꊂꑍ
+calendarsgregoriandaysformatwidemonꆏꊂꋍ
+calendarsgregoriandaysformatabbreviatedwedꆏꌕ
+calendarsgregoriandaysformatabbreviatedsunꑭꆏ
+calendarsgregoriandaysformatabbreviatedthuꆏꇖ
+calendarsgregoriandaysformatabbreviatedsatꆏꃘ
+calendarsgregoriandaysformatabbreviatedfriꆏꉬ
+calendarsgregoriandaysformatabbreviatedtueꆏꑍ
+calendarsgregoriandaysformatabbreviatedmonꆏꋍ
+calendarsgregoriandaysformatnarrowwedꌕ
+calendarsgregoriandaysformatnarrowsunꆏ
+calendarsgregoriandaysformatnarrowthuꇖ
+calendarsgregoriandaysformatnarrowsatꃘ
+calendarsgregoriandaysformatnarrowfriꉬ
+calendarsgregoriandaysformatnarrowtueꑍ
+calendarsgregoriandaysformatnarrowmonꋍ
+calendarsgregoriandayPeriodsformatabbreviatedpmꁯꋒ
+calendarsgregoriandayPeriodsformatabbreviatedamꎸꄑ
+calendarsgregoriandayPeriodsformatwidepmꁯꋒ
+calendarsgregoriandayPeriodsformatwideamꎸꄑ
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+posixmessagesyesstrꉬ
+posixmessagesnostrꀋꉬ
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersindex[ꀀ ꀋ ꀗ ꀣ ꀯ ꀺ ꁆ ꁒ ꁞ ꁩ ꁵ ꂁ ꂍ ꂘ ꂤ ꂰ ꂼ ꃇ ꃓ ꃟ ꃫ ꃶ ꄂ ꄎ ꄚ ꄥ ꄱ ꄽ ꅉ ꅔ ꅠ ꅬ ꅸ ꆃ ꆏ ꆛ ꆧ ꆳ ꆾ ꇊ ꇖ ꇢ ꇭ ꇹ ꈅ ꈑ ꈜ ꈨ ꈴ ꉀ ꉋ ꉗ ꉣ ꉯ ꉺ ꊆ ꊒ ꊞ ꊩ ꊵ ꋁ ꋍ ꋘ ꋤ ꋰ ꋼ ꌇ ꌓ ꌟ ꌫ ꌷ ꍂ ꍎ ꍚ ꍦ ꍱ ꍽ ꎉ ꎕ ꎠ ꎬ ꎸ ꏄ ꏏ ꏛ ꏧ ꏳ ꏾ ꐊ ꐖ ꐢ ꐭ ꐹ ꑅ ꑑ ꑜ ꑨ ꑴ ꒀ ꒋ]
+charactersexemplarCharactersstandard[ꀀ-ꒌ]

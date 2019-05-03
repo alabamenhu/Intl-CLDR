@@ -1,0 +1,75 @@
+numberscurrencyFormatslatnstandardstandard¤#,##0.00
+numberscurrencyFormatslatnshort100000¤000K
+numberscurrencyFormatslatnshort10000000¤00M
+numberscurrencyFormatslatnshort1000000¤0M
+numberscurrencyFormatslatnshort1000¤0K
+numberscurrencyFormatslatnshort100000000000000¤000T
+numberscurrencyFormatslatnshort10000¤00K
+numberscurrencyFormatslatnshort1000000000¤0G
+numberscurrencyFormatslatnshort100000000¤000M
+numberscurrencyFormatslatnshort10000000000000¤00T
+numberscurrencyFormatslatnshort100000000000¤000G
+numberscurrencyFormatslatnshort1000000000000¤0T
+numberscurrencyFormatslatnshort10000000000¤00G
+charactersexemplarCharactersindex[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]
+charactersexemplarCharactersstandard[a b c ç d e f g h i j k l m n o p q r s t u v w x y z]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” ( ) \[ \] § @ * / \&amp; # † ‡ ′ ″]
+localeDisplayNamesterritoriesIMEllan Vannin
+localeDisplayNamesterritoriesGBRywvaneth Unys
+localeDisplayNameslanguagesgvGaelg
+calendarsgenericdateFormatsfullstandardEEEE dd MMMM y G
+calendarsgenericdateFormatsshortstandarddd/MM/yy GGGGG
+calendarsgenericdateFormatslongstandarddd MMMM y G
+calendarsgenericdateFormatsmediumstandardMMM dd, y G
+calendarsgregoriandaysformatwidewedJercean
+calendarsgregoriandaysformatwidesunJedoonee
+calendarsgregoriandaysformatwidefriJeheiney
+calendarsgregoriandaysformatwidethuJerdein
+calendarsgregoriandaysformatwidesatJesarn
+calendarsgregoriandaysformatwidemonJelhein
+calendarsgregoriandaysformatwidetueJemayrt
+calendarsgregoriandaysformatabbreviatedsatJes
+calendarsgregoriandaysformatabbreviatedthuJerd
+calendarsgregoriandaysformatabbreviatedfriJeh
+calendarsgregoriandaysformatabbreviatedtueJem
+calendarsgregoriandaysformatabbreviatedmonJel
+calendarsgregoriandaysformatabbreviatedwedJerc
+calendarsgregoriandaysformatabbreviatedsunJed
+calendarsgregoriandayPeriodsformatabbreviatedpmp.m.
+calendarsgregoriandayPeriodsformatabbreviatedama.m.
+calendarsgregoriandayPeriodsformatwidepmp.m.
+calendarsgregoriandayPeriodsformatwideama.m.
+calendarsgregoriandateFormatsshortstandarddd/MM/yy
+calendarsgregoriandateFormatsfullstandardEEEE dd MMMM y
+calendarsgregoriandateFormatsmediumstandardMMM dd, y
+calendarsgregoriandateFormatslongstandarddd MMMM y
+calendarsgregorianeraseraAbbr1AD
+calendarsgregorianeraseraAbbr0RC
+calendarsgregorianmonthsformatabbreviated5Boaldyn
+calendarsgregorianmonthsformatabbreviated8Luanistyn
+calendarsgregorianmonthsformatabbreviated2T-arree
+calendarsgregorianmonthsformatabbreviated9M-fouyir
+calendarsgregorianmonthsformatabbreviated6M-souree
+calendarsgregorianmonthsformatabbreviated4Avrril
+calendarsgregorianmonthsformatabbreviated1J-guer
+calendarsgregorianmonthsformatabbreviated10J-fouyir
+calendarsgregorianmonthsformatabbreviated7J-souree
+calendarsgregorianmonthsformatabbreviated12M-Nollick
+calendarsgregorianmonthsformatabbreviated11M-Houney
+calendarsgregorianmonthsformatabbreviated3Mayrnt
+calendarsgregorianmonthsformatwide5Boaldyn
+calendarsgregorianmonthsformatwide2Toshiaght-arree
+calendarsgregorianmonthsformatwide8Luanistyn
+calendarsgregorianmonthsformatwide9Mean-fouyir
+calendarsgregorianmonthsformatwide6Mean-souree
+calendarsgregorianmonthsformatwide1Jerrey-geuree
+calendarsgregorianmonthsformatwide4Averil
+calendarsgregorianmonthsformatwide10Jerrey-fouyir
+calendarsgregorianmonthsformatwide7Jerrey-souree
+calendarsgregorianmonthsformatwide12Mee ny Nollick
+calendarsgregorianmonthsformatwide11Mee Houney
+calendarsgregorianmonthsformatwide3Mayrnt
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsshortstandardHH:mm

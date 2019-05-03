@@ -198,13 +198,18 @@ frequently in medieval times.
    there are probably more options than necessary.  Defaults to False.
 
 # Version History
+  * 0.4.0
+    * Initial support for importing all CLDR data into a single repository in `Intl::CLDR`
+      * DateTime formatting currently uses it.
+      * Number / list formatting will be updated in the near future to use it (they still maintain their own separate database ATM)
+      * Not all languages are fully supported because I'm too lazy to manually add them all to the META6 file (I'll eventually automate it)
   * 0.3.0
     * Added support for formatting numbers of all types in the CLDR except for currency.
     * Added preliminary support for finding localized numbers in grammars.
   * 0.2.1
     * Added preliminary support for Ge'ez numerals.  
     * Added preliminary support for Roman numerals.  
-  * 0.2.0  
+  * 0.2.0
     * Added support for cardinal plural count.
       * Ordinal *should* be working but there's a bug somewhere
   * 0.1.0  

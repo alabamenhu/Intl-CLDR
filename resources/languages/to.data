@@ -1,0 +1,3503 @@
+unitsshortcompoundUnitperpattern{0}/{1}
+unitsshortunitspeed-knotpatternotherfp ʻe {0}
+unitsshortunitspeed-knotdisplayNamefp
+unitsshortunitlength-nautical-miledisplayNamemt
+unitsshortunitlength-nautical-milepatternothermt ʻe {0}
+unitsshortunitduration-yearpatternothertaʻu ʻe {0}
+unitsshortunitduration-yeardisplayNametaʻu
+unitsshortunitduration-yearperUnitPattern{0} /t
+unitsshortunitarea-square-meterperUnitPattern{0} /m²
+unitsshortunitarea-square-meterdisplayNamem²
+unitsshortunitarea-square-meterpatternotherm² ʻe {0}
+unitsshortunitdigital-megabitpatternotherMb ʻe {0}
+unitsshortunitdigital-megabitdisplayNamemekapiti
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemk/tl
+unitsshortunitconcentr-milligram-per-deciliterpatternothermk ʻe {0}/tl
+unitsshortunitlength-footperUnitPattern{0} /ft
+unitsshortunitlength-footdisplayNameft
+unitsshortunitlength-footpatternotherft ʻe {0}
+unitsshortunitmass-milligrampatternothermk ʻe {0}
+unitsshortunitmass-milligramdisplayNamemk
+unitsshortunitpower-gigawattpatternotherGW ʻe {0}
+unitsshortunitpower-gigawattdisplayNameGW
+unitsshortunitduration-monthdisplayNamemā
+unitsshortunitduration-monthperUnitPattern{0} /mā
+unitsshortunitduration-monthpatternothermā ʻe {0}
+unitsshortunitvolume-cupdisplayNameip
+unitsshortunitvolume-cuppatternotherip ʻe {0}
+unitsshortunitspeed-kilometer-per-hourpatternotherkm/h ʻe {0}
+unitsshortunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsshortunitelectric-milliamperepatternothermA ʻe {0}
+unitsshortunitelectric-milliamperedisplayNamemA
+unitsshortunitlength-millimeterpatternothermm ʻe {0}
+unitsshortunitlength-millimeterdisplayNamemm
+unitsshortunitdigital-bitdisplayNamepiti
+unitsshortunitdigital-bitpatternotherpiti ʻe {0}
+unitsshortunitlength-miledisplayNamemi
+unitsshortunitlength-milepatternothermi ʻe {0}
+unitsshortunitlength-pointdisplayNamept
+unitsshortunitlength-pointpatternother{0} pt
+unitsshortunitlength-mile-scandinavianpatternother{0} smi
+unitsshortunitlength-mile-scandinaviandisplayNamemis
+unitsshortunitpower-wattpatternotherW ʻe {0}
+unitsshortunitpower-wattdisplayNameuate
+unitsshortunitdigital-gigabytedisplayNamekikapaiti
+unitsshortunitdigital-gigabytepatternotherGB ʻe {0}
+unitsshortunittemperature-celsiusdisplayName°S
+unitsshortunittemperature-celsiuspatternother°S ʻe {0}
+unitsshortunitdigital-terabytepatternotherTB ʻe {0}
+unitsshortunitdigital-terabytedisplayNametelapaiti
+unitsshortunitmass-metric-tondisplayNameto
+unitsshortunitmass-metric-tonpatternotherto ʻe {0}
+unitsshortunitangle-revolutionpatternothertak ʻe {0}
+unitsshortunitangle-revolutiondisplayNametak
+unitsshortunitduration-weekdisplayNameu
+unitsshortunitduration-weekperUnitPattern{0} /u
+unitsshortunitduration-weekpatternotheru ʻe {0}
+unitsshortunitdigital-megabytedisplayNamemekapaiti
+unitsshortunitdigital-megabytepatternotherMB ʻe {0}
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNamemi/kāʻem
+unitsshortunitconsumption-mile-per-gallon-imperialpatternothermi ʻe {0}/kāʻem
+unitsshortunitenergy-kilojouledisplayNamekJ
+unitsshortunitenergy-kilojoulepatternotherkJ ʻe {0}
+unitsshortunitmass-ounceperUnitPattern{0} /ʻau
+unitsshortunitmass-ouncedisplayNameʻau
+unitsshortunitmass-ouncepatternotherʻau ʻe {0}
+unitsshortunitarea-square-milepatternothermi² ʻe {0}
+unitsshortunitarea-square-mileperUnitPattern{0} /mi²
+unitsshortunitarea-square-miledisplayNamemi²
+unitsshortunitconcentr-millimole-per-literdisplayNamemmol/l
+unitsshortunitconcentr-millimole-per-literpatternothermmol ʻe {0}/l
+unitsshortunitangle-radianpatternotherlēt ʻe {0}
+unitsshortunitangle-radiandisplayNamelēt
+unitsshortunitenergy-caloriepatternotherkal ʻe {0}
+unitsshortunitenergy-caloriedisplayNamekal
+unitsshortunitpower-horsepowerdisplayNamehp
+unitsshortunitpower-horsepowerpatternotherhp ʻe {0}
+unitsshortunitlength-kilometerdisplayNamekm
+unitsshortunitlength-kilometerperUnitPattern{0} /km
+unitsshortunitlength-kilometerpatternotherkm ʻe {0}
+unitsshortunitvolume-hectoliterdisplayNamehl
+unitsshortunitvolume-hectoliterpatternotherhl ʻe {0}
+unitsshortunitlength-decimeterdisplayNametm
+unitsshortunitlength-decimeterpatternothertm ʻe {0}
+unitsshortunitlength-light-yeardisplayNametma
+unitsshortunitlength-light-yearpatternothertma ʻe {0}
+unitsshortunitvolume-tablespoonpatternothersētē ʻe {0}
+unitsshortunitvolume-tablespoondisplayNamesētē
+unitsshortunitfrequency-gigahertzpatternotherGHz ʻe {0}
+unitsshortunitfrequency-gigahertzdisplayNameGHz
+unitsshortunitpressure-pound-per-square-inchpatternotherpā/in² ʻe {0}
+unitsshortunitpressure-pound-per-square-inchdisplayNamepā/in²
+unitsshortunitarea-square-yarddisplayNameit²
+unitsshortunitarea-square-yardpatternotherit² ʻe {0}
+unitsshortunitconcentr-part-per-milliondisplayNamekhm
+unitsshortunitconcentr-part-per-millionpatternotherkhm ʻe {0}
+unitsshortunitvolume-gallonperUnitPattern{0} /kā
+unitsshortunitvolume-gallondisplayNamekā
+unitsshortunitvolume-gallonpatternotherkā ʻe {0}
+unitsshortunitmass-pounddisplayNamepā
+unitsshortunitmass-poundperUnitPattern{0} /pā
+unitsshortunitmass-poundpatternotherpā ʻe {0}
+unitsshortunitvolume-fluid-ouncedisplayNameʻau-tf
+unitsshortunitvolume-fluid-ouncepatternotherʻau-tf ʻe {0}
+unitsshortunitlength-centimeterpatternothersm ʻe {0}
+unitsshortunitlength-centimeterperUnitPattern{0} /sm
+unitsshortunitlength-centimeterdisplayNamesm
+unitsshortunitlength-fathompatternotherofa ʻe {0}
+unitsshortunitlength-fathomdisplayNameofa
+unitsshortunitlength-parsecpatternotherngs ʻe {0}
+unitsshortunitlength-parsecdisplayNamengs
+unitsshortunitmass-grampatternotherk ʻe {0}
+unitsshortunitmass-gramdisplayNamek
+unitsshortunitmass-gramperUnitPattern{0} /k
+unitsshortunitdigital-gigabitdisplayNamekikapiti
+unitsshortunitdigital-gigabitpatternotherGb ʻe {0}
+unitsshortunitvolume-cubic-inchpatternotherin³ ʻe {0}
+unitsshortunitvolume-cubic-inchdisplayNamein³
+unitsshortunittemperature-genericpatternother° ʻe {0}
+unitsshortunittemperature-genericdisplayName°
+unitsshortunitconcentr-karatpatternotherkt ʻe {0}
+unitsshortunitconcentr-karatdisplayNamekt
+unitsshortunitduration-nanoseconddisplayNamens
+unitsshortunitduration-nanosecondpatternotherns ʻe {0}
+unitsshortunitangle-arc-minutedisplayNamemsk
+unitsshortunitangle-arc-minutepatternothermsk ʻe {0}
+unitsshortunitfrequency-megahertzpatternotherMHz ʻe {0}
+unitsshortunitfrequency-megahertzdisplayNameMHz
+unitsshortunitduration-hourpatternotherh ʻe {0}
+unitsshortunitduration-hourperUnitPattern{0} /h
+unitsshortunitduration-hourdisplayNameh
+unitsshortunitvolume-gallon-imperialperUnitPattern{0} / kāʻem
+unitsshortunitvolume-gallon-imperialdisplayNamekāʻem
+unitsshortunitvolume-gallon-imperialpatternotherkāʻem ʻe {0}
+unitsshortunitvolume-acre-footpatternotherʻe-ft ʻe {0}
+unitsshortunitvolume-acre-footdisplayNameʻe-ft
+unitsshortunitlength-furlongdisplayNamefāl
+unitsshortunitlength-furlongpatternotherfāl ʻe {0}
+unitsshortunitangle-arc-seconddisplayNamessk
+unitsshortunitangle-arc-secondpatternotherssk ʻe {0}
+unitsshortunitpower-kilowattpatternotherkW ʻe {0}
+unitsshortunitpower-kilowattdisplayNamekW
+unitsshortunitvolume-literdisplayNamel
+unitsshortunitvolume-literperUnitPattern{0}/l
+unitsshortunitvolume-literpatternotherl ʻe {0}
+unitsshortunitvolume-cubic-meterpatternotherm³ ʻe {0}
+unitsshortunitvolume-cubic-meterdisplayNamem³
+unitsshortunitvolume-cubic-meterperUnitPattern{0} /m³
+unitsshortunitpower-megawattdisplayNameMW
+unitsshortunitpower-megawattpatternotherMW ʻe {0}
+unitsshortunitvolume-cubic-milepatternothermi³ ʻe {0}
+unitsshortunitvolume-cubic-miledisplayNamemi³
+unitsshortunitvolume-cup-metricpatternotheripm ʻe {0}
+unitsshortunitvolume-cup-metricdisplayNameipm
+unitsshortunitconsumption-liter-per-kilometerdisplayNamel/km
+unitsshortunitconsumption-liter-per-kilometerpatternotherl ʻe {0}/km
+unitsshortunitarea-hectarepatternotherha ʻe {0}
+unitsshortunitarea-hectaredisplayNameha
+unitsshortunitmass-caratpatternotherkt ʻe {0}
+unitsshortunitmass-caratdisplayNamekt
+unitsshortunitspeed-mile-per-hourdisplayNamemi/h
+unitsshortunitspeed-mile-per-hourpatternothermi/h ʻe {0}
+unitsshortunittemperature-fahrenheitpatternother°F ʻe {0}
+unitsshortunittemperature-fahrenheitdisplayName°F
+unitsshortunitconcentr-percentdisplayName%
+unitsshortunitconcentr-percentpatternother% ʻe {0}
+unitsshortunitarea-acredisplayNameʻek
+unitsshortunitarea-acrepatternotherʻek ʻe {0}
+unitsshortunitacceleration-meter-per-second-squaredpatternotherm/s² ʻe {0}
+unitsshortunitacceleration-meter-per-second-squareddisplayNamem/s²
+unitsshortunitenergy-jouledisplayNameJ
+unitsshortunitenergy-joulepatternotherJ ʻe {0}
+unitsshortunitangle-degreepatternothertsk ʻe {0}
+unitsshortunitangle-degreedisplayNametsk
+unitsshortunitpower-milliwattpatternothermW ʻe {0}
+unitsshortunitpower-milliwattdisplayNamemW
+unitsshortunitelectric-voltdisplayNamevolotā
+unitsshortunitelectric-voltpatternotherV ʻe {0}
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunittemperature-kelvinpatternotherK ʻe {0}
+unitsshortunitdigital-petabytedisplayNamePB
+unitsshortunitdigital-petabytepatternotherPB ʻe {0}
+unitsshortunitconcentr-permillepatternother‰ ʻe {0}
+unitsshortunitconcentr-permilledisplayName‰
+unitsshortunitlight-luxpatternotherlx ʻe {0}
+unitsshortunitlight-luxdisplayNamelx
+unitsshortunitlength-picometerdisplayNamepm
+unitsshortunitlength-picometerpatternotherpm ʻe {0}
+unitsshortunitduration-centurypatternothertt ʻe {0}
+unitsshortunitduration-centurydisplayNamett
+unitsshortunitelectric-ohmpatternotherΩ ʻe {0}
+unitsshortunitelectric-ohmdisplayNameΩ
+unitsshortunitvolume-megaliterdisplayNameMl
+unitsshortunitvolume-megaliterpatternotherMl ʻe {0}
+unitsshortunitconsumption-liter-per-100kilometerspatternotherl ʻe {0}/100km
+unitsshortunitconsumption-liter-per-100kilometersdisplayNamel/100km
+unitsshortunitarea-square-kilometerdisplayNamekm²
+unitsshortunitarea-square-kilometerperUnitPattern{0}/km²
+unitsshortunitarea-square-kilometerpatternotherkm² ʻe {0}
+unitsshortunitacceleration-g-forcepatternotherk-mā ʻe {0}
+unitsshortunitacceleration-g-forcedisplayNamek-mā
+unitsshortunitduration-secondperUnitPattern{0} /s
+unitsshortunitduration-seconddisplayNames
+unitsshortunitduration-secondpatternothers ʻe {0}
+unitsshortunitvolume-deciliterpatternothertl ʻe {0}
+unitsshortunitvolume-deciliterdisplayNametl
+unitsshortunitdigital-kilobytedisplayNamekilopaiti
+unitsshortunitdigital-kilobytepatternotherkB ʻe {0}
+unitsshortunitarea-square-footpatternotherft² ʻe {0}
+unitsshortunitarea-square-footdisplayNameft²
+unitsshortunitarea-square-centimeterdisplayNamesm²
+unitsshortunitarea-square-centimeterperUnitPattern{0} /sm²
+unitsshortunitarea-square-centimeterpatternothersm² ʻe {0}
+unitsshortunitlength-astronomical-unitpatternotherʻiʻa ʻe {0}
+unitsshortunitlength-astronomical-unitdisplayNameʻiʻa
+unitsshortunitenergy-foodcaloriedisplayNamekal-k
+unitsshortunitenergy-foodcaloriepatternotherkal-k ʻe {0}
+unitsshortunitvolume-milliliterdisplayNameml
+unitsshortunitvolume-milliliterpatternotherml ʻe {0}
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitpressure-hectopascalpatternotherhPa ʻe {0}
+unitsshortunitdigital-bytepatternotherpaiti ʻe {0}
+unitsshortunitdigital-bytedisplayNamepaiti
+unitsshortunitvolume-cubic-kilometerdisplayNamekm³
+unitsshortunitvolume-cubic-kilometerpatternotherkm³ ʻe {0}
+unitsshortunitelectric-amperedisplayNameA
+unitsshortunitelectric-amperepatternotherA ʻe {0}
+unitsshortunitfrequency-kilohertzpatternotherkHz ʻe {0}
+unitsshortunitfrequency-kilohertzdisplayNamekHz
+unitsshortunitlength-micrometerdisplayNameµm
+unitsshortunitlength-micrometerpatternotherµm ʻe {0}
+unitsshortunitmass-microgrampatternotherμk ʻe {0}
+unitsshortunitmass-microgramdisplayNameμk
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemm-Hg
+unitsshortunitpressure-millimeter-of-mercurypatternothermm-Hg ʻe {0}
+unitsshortunitmass-ounce-troypatternotherʻau-k ʻe {0}
+unitsshortunitmass-ounce-troydisplayNameʻau-k
+unitsshortunitspeed-meter-per-secondpatternotherm/s ʻe {0}
+unitsshortunitspeed-meter-per-seconddisplayNamem/s
+unitsshortunitdigital-kilobitpatternotherkb ʻe {0}
+unitsshortunitdigital-kilobitdisplayNamekilopiti
+unitsshortunitvolume-quartdisplayNameku
+unitsshortunitvolume-quartpatternotherku ʻe {0}
+unitsshortunitvolume-cubic-centimeterdisplayNamesm³
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0} /sm³
+unitsshortunitvolume-cubic-centimeterpatternothersm³ ʻe {0}
+unitsshortunitvolume-busheldisplayNamepū
+unitsshortunitvolume-bushelpatternotherpū ʻe {0}
+unitsshortunitvolume-cubic-footpatternotherft³ ʻe {0}
+unitsshortunitvolume-cubic-footdisplayNameft³
+unitsshortunitconsumption-mile-per-gallondisplayNamemi/kā
+unitsshortunitconsumption-mile-per-gallonpatternothermi ʻe {0}/kā
+unitsshortunitenergy-kilocaloriepatternotherkkal ʻe {0}
+unitsshortunitenergy-kilocaloriedisplayNamekkal
+unitsshortunitlength-nanometerpatternothernm ʻe {0}
+unitsshortunitlength-nanometerdisplayNamenm
+unitsshortunitmass-tonpatternothertn ʻe {0}
+unitsshortunitmass-tondisplayNametn
+unitsshortunitvolume-pintdisplayNamept
+unitsshortunitvolume-pintpatternotherpt ʻe {0}
+unitsshortunitduration-microsecondpatternotherμs ʻe {0}
+unitsshortunitduration-microseconddisplayNameμs
+unitsshortunitvolume-pint-metricpatternotherptm ʻe {0}
+unitsshortunitvolume-pint-metricdisplayNameptm
+unitsshortunitarea-square-inchpatternotherin² ʻe {0}
+unitsshortunitarea-square-inchdisplayNamein²
+unitsshortunitarea-square-inchperUnitPattern{0} /in²
+unitsshortunitenergy-kilowatt-hourpatternotherkWh ʻe {0}
+unitsshortunitenergy-kilowatt-hourdisplayNamekWh
+unitsshortunitfrequency-hertzpatternotherHz ʻe {0}
+unitsshortunitfrequency-hertzdisplayNameHz
+unitsshortunitlength-inchpatternotherin ʻe {0}
+unitsshortunitlength-inchperUnitPattern{0} /in
+unitsshortunitlength-inchdisplayNamein
+unitsshortunitpressure-atmospherepatternotherʻati ʻe {0}
+unitsshortunitpressure-atmospheredisplayNameʻati
+unitsshortunitduration-millisecondpatternotherms ʻe {0}
+unitsshortunitduration-milliseconddisplayNamems
+unitsshortunitvolume-centiliterdisplayNamesl
+unitsshortunitvolume-centiliterpatternothersl ʻe {0}
+unitsshortunitvolume-cubic-yarddisplayNameit³
+unitsshortunitvolume-cubic-yardpatternotherit³ ʻe {0}
+unitsshortunitdigital-terabitpatternotherTb ʻe {0}
+unitsshortunitdigital-terabitdisplayNametelapiti
+unitsshortunitmass-stonedisplayNamest
+unitsshortunitmass-stonepatternotherst ʻe {0}
+unitsshortunitduration-minutepatternotherm ʻe {0}
+unitsshortunitduration-minutedisplayNamem
+unitsshortunitduration-minuteperUnitPattern{0} /m
+unitsshortunitlength-meterpatternotherm ʻe {0}
+unitsshortunitlength-meterperUnitPattern{0} /m
+unitsshortunitlength-meterdisplayNamem
+unitsshortunitpressure-millibarpatternothermpā ʻe {0}
+unitsshortunitpressure-millibardisplayNamempā
+unitsshortunitvolume-teaspoonpatternothersētī ʻe {0}
+unitsshortunitvolume-teaspoondisplayNamesētī
+unitsshortunitlength-yarddisplayNameit
+unitsshortunitlength-yardpatternotherit ʻe {0}
+unitsshortunitduration-daypatternotherʻa ʻe {0}
+unitsshortunitduration-dayperUnitPattern{0} /ʻa
+unitsshortunitduration-daydisplayNameʻa
+unitsshortunitmass-kilogramdisplayNamekk
+unitsshortunitmass-kilogramperUnitPattern{0} /kk
+unitsshortunitmass-kilogrampatternotherkk ʻe {0}
+unitsshortunitpressure-inch-hgdisplayNamein-Hg
+unitsshortunitpressure-inch-hgpatternotherin-Hg ʻe {0}
+unitsshortcoordinateUniteastha ʻe {0}
+unitsshortcoordinateUnitwesthi ʻe {0}
+unitsshortcoordinateUnitdisplayNamefua
+unitsshortcoordinateUnitsouthto ʻe {0}
+unitsshortcoordinateUnitnorthtk ʻe {0}
+unitslongcompoundUnitperpattern{0} ʻi he {1}
+unitslongcoordinateUnitnorthtokelau ʻe {0}
+unitslongcoordinateUnitdisplayNamefua tefitoʻi
+unitslongcoordinateUnitsouthtonga ʻe {0}
+unitslongcoordinateUniteasthahake ʻe {0}
+unitslongcoordinateUnitwesthihifo ʻe {0}
+unitslongunitvolume-cubic-inchdisplayNameʻinisi kiupiki
+unitslongunitvolume-cubic-inchpatternotherʻinisi kiupiki ʻe {0}
+unitslongunitdigital-gigabitdisplayNamekikapiti
+unitslongunitdigital-gigabitpatternotherkikapiti ʻe {0}
+unitslongunittemperature-genericpatternothertikili ʻe {0}
+unitslongunittemperature-genericdisplayNametikili
+unitslongunitconcentr-karatpatternotherkalati ʻe {0}
+unitslongunitconcentr-karatdisplayNamekalati
+unitslongunitvolume-fluid-ouncepatternotherʻaunise tafe ʻe {0}
+unitslongunitvolume-fluid-ouncedisplayNameʻaunise tafe
+unitslongunitlength-centimeterpatternothersenitimita ʻe {0}
+unitslongunitlength-centimeterdisplayNamesenitimita
+unitslongunitlength-centimeterperUnitPattern{0} ki he senitimita
+unitslongunitlength-parsecpatternotherngaofesekoni ʻe {0}
+unitslongunitlength-parsecdisplayNamengaofesekoni
+unitslongunitmass-gramperUnitPattern{0} ki he kalami
+unitslongunitmass-gramdisplayNamekalami
+unitslongunitmass-grampatternotherkalami ʻe {0}
+unitslongunitlength-fathomdisplayNameofa
+unitslongunitlength-fathompatternotherofa ʻe {0}
+unitslongunitconcentr-part-per-milliondisplayNamekonga he miliona
+unitslongunitconcentr-part-per-millionpatternotherkonga ʻe {0} he miliona
+unitslongunitvolume-gallondisplayNamekālani
+unitslongunitvolume-gallonperUnitPattern{0} ki he kālani
+unitslongunitvolume-gallonpatternotherkālani ʻe {0}
+unitslongunitmass-poundpatternotherpāuni ʻe {0}
+unitslongunitmass-pounddisplayNamepāuni
+unitslongunitmass-poundperUnitPattern{0} ki he pāuni
+unitslongunitvolume-tablespoonpatternothersēpuni tēpile ʻe {0}
+unitslongunitvolume-tablespoondisplayNamesēpuni tēpile
+unitslongunitfrequency-gigahertzpatternotherkikahēti ʻe {0}
+unitslongunitfrequency-gigahertzdisplayNamekikahēti
+unitslongunitpressure-pound-per-square-inchpatternotherpāuni he ʻinisi sikuea ʻe {0}
+unitslongunitpressure-pound-per-square-inchdisplayNamepāuni he ʻinisi sikuea
+unitslongunitarea-square-yardpatternotheriate sikuea ʻe {0}
+unitslongunitarea-square-yarddisplayNameiate sikuea
+unitslongunitvolume-literpatternotherlita ʻe {0}
+unitslongunitvolume-literperUnitPattern{0} ki he lita
+unitslongunitvolume-literdisplayNamelita
+unitslongunitvolume-cubic-meterperUnitPattern{0} ki he mita kiupiki
+unitslongunitvolume-cubic-meterdisplayNamemita kiupiki
+unitslongunitvolume-cubic-meterpatternothermita kiupiki ʻe {0}
+unitslongunitpower-megawattdisplayNamemekauate
+unitslongunitpower-megawattpatternothermekauate ʻe {0}
+unitslongunitvolume-gallon-imperialperUnitPattern{0} ki he kālani fakaʻemipaea
+unitslongunitvolume-gallon-imperialdisplayNamekālani fakaʻemipaea
+unitslongunitvolume-gallon-imperialpatternotherkālani fakaʻemipaea ʻe {0}
+unitslongunitlength-furlongdisplayNamefālongo
+unitslongunitlength-furlongpatternotherfālongo ʻe {0}
+unitslongunitvolume-acre-footpatternotherʻeka-fute ʻe {0}
+unitslongunitvolume-acre-footdisplayNameʻeka-fute
+unitslongunitangle-arc-secondpatternothersekoni seakale ʻe {0}
+unitslongunitangle-arc-seconddisplayNamesekoni seakale
+unitslongunitpower-kilowattpatternotherkilouate ʻe {0}
+unitslongunitpower-kilowattdisplayNamekilouate
+unitslongunitduration-hourdisplayNamehoua
+unitslongunitduration-hourperUnitPattern{0} ki he houa
+unitslongunitduration-hourpatternotherhoua ʻe {0}
+unitslongunitduration-nanosecondpatternothernanosekoni ʻe {0}
+unitslongunitduration-nanoseconddisplayNamenanosekoni
+unitslongunitangle-arc-minutedisplayNameminiti seakale
+unitslongunitangle-arc-minutepatternotherminiti seakale ʻe {0}
+unitslongunitfrequency-megahertzpatternothermegahēti ʻe {0}
+unitslongunitfrequency-megahertzdisplayNamemegahēti
+unitslongunitspeed-kilometer-per-hourpatternotherkilomita he houa ʻe {0}
+unitslongunitspeed-kilometer-per-hourdisplayNamekilomita he houa
+unitslongunitvolume-cuppatternotheripu ʻe {0}
+unitslongunitvolume-cupdisplayNameipu
+unitslongunitduration-monthpatternothermāhina ʻe {0}
+unitslongunitduration-monthperUnitPattern{0} ki he māhina
+unitslongunitduration-monthdisplayNamemāhina
+unitslongunitelectric-milliamperepatternothermiliʻamipele ʻe {0}
+unitslongunitelectric-milliamperedisplayNamemiliʻamipele
+unitslongunitlength-millimeterdisplayNamemilimita
+unitslongunitlength-millimeterpatternothermilimita ʻe {0}
+unitslongunitdigital-bitpatternotherpiti ʻe {0}
+unitslongunitdigital-bitdisplayNamepiti
+unitslongunitlength-mile-scandinavianpatternother{0} smi
+unitslongunitlength-mile-scandinaviandisplayNamesmi
+unitslongunitlength-milepatternothermaile ʻe {0}
+unitslongunitlength-miledisplayNamemaile
+unitslongunitlength-pointdisplayNamept
+unitslongunitlength-pointpatternother{0} pt
+unitslongunitpower-wattpatternotheruate ʻe {0}
+unitslongunitpower-wattdisplayNameuate
+unitslongunitduration-yearpatternothertaʻu ʻe {0}
+unitslongunitduration-yeardisplayNametaʻu
+unitslongunitduration-yearperUnitPattern{0} ki he taʻu
+unitslongunitdigital-megabitdisplayNamemekapiti
+unitslongunitdigital-megabitpatternothermekapiti ʻe {0}
+unitslongunitconcentr-milligram-per-deciliterdisplayNamemilikalami he tesilita
+unitslongunitconcentr-milligram-per-deciliterpatternothermilikalami ʻe {0} he tesilita
+unitslongunitarea-square-meterpatternothermita sikuea ʻe {0}
+unitslongunitarea-square-meterperUnitPattern{0} ki he mita sikuea
+unitslongunitarea-square-meterdisplayNamemita sikuea ʻe
+unitslongunitmass-milligrampatternothermilikalami ʻe {0}
+unitslongunitmass-milligramdisplayNamemilikalami
+unitslongunitpower-gigawattpatternotherkikauate ʻe {0}
+unitslongunitpower-gigawattdisplayNamekikauate
+unitslongunitlength-footpatternotherfute ʻe {0}
+unitslongunitlength-footperUnitPattern{0} ki he fute
+unitslongunitlength-footdisplayNamefute
+unitslongunitspeed-knotdisplayNamefakapona
+unitslongunitspeed-knotpatternotherfakapona ʻe {0}
+unitslongunitlength-nautical-milepatternothermaile ʻi tahi ʻe {0}
+unitslongunitlength-nautical-miledisplayNamemaile ʻi tahi
+unitslongunitlength-kilometerperUnitPattern{0} ki he kilomita
+unitslongunitlength-kilometerdisplayNamekilomita
+unitslongunitlength-kilometerpatternotherkilomita ʻe {0}
+unitslongunitvolume-hectoliterdisplayNamehēkitolita
+unitslongunitvolume-hectoliterpatternotherhēkitolita ʻe {0}
+unitslongunitlength-light-yearpatternothertaʻumaama ʻe {0}
+unitslongunitlength-light-yeardisplayNametaʻumaama
+unitslongunitlength-decimeterdisplayNametesimita
+unitslongunitlength-decimeterpatternothertesimita ʻe {0}
+unitslongunitarea-square-milepatternothermaile sikuea ʻe {0}
+unitslongunitarea-square-mileperUnitPattern{0}/mi²
+unitslongunitarea-square-miledisplayNamemaile sikuea
+unitslongunitconcentr-millimole-per-literdisplayNamemilimole he lita
+unitslongunitconcentr-millimole-per-literpatternothermilimole ʻe {0} he lita
+unitslongunitangle-radiandisplayNamelētiani
+unitslongunitangle-radianpatternotherlētiani ʻe {0}
+unitslongunitenergy-caloriedisplayNamekaloli
+unitslongunitenergy-caloriepatternotherkaloli ʻe {0}
+unitslongunitpower-horsepowerdisplayNamehoosipaoa
+unitslongunitpower-horsepowerpatternotherhoosipaoa ʻe {0}
+unitslongunitduration-weekdisplayNameuike
+unitslongunitduration-weekperUnitPattern{0} ki he uike
+unitslongunitduration-weekpatternotheruike ʻe {0}
+unitslongunitdigital-megabytedisplayNamemekapaiti
+unitslongunitdigital-megabytepatternothermekapaiti ʻe {0}
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNamemaile he kālani fakaʻemipaea
+unitslongunitconsumption-mile-per-gallon-imperialpatternothermaile ʻe {0} he kālani fakaʻemipaea
+unitslongunitmass-ouncedisplayNameʻaunise
+unitslongunitmass-ounceperUnitPattern{0} ki he ʻaunise
+unitslongunitmass-ouncepatternotherʻaunisi ʻe {0}
+unitslongunitenergy-kilojoulepatternotherkilosiule ʻe {0}
+unitslongunitenergy-kilojouledisplayNamekilosiule
+unitslongunittemperature-celsiuspatternothertikili selisiasi ʻe {0}
+unitslongunittemperature-celsiusdisplayNametikili selisiasi
+unitslongunitdigital-gigabytepatternotherkikapaiti ʻe {0}
+unitslongunitdigital-gigabytedisplayNamekikapaiti
+unitslongunitdigital-terabytepatternothertelapaiti ʻe {0}
+unitslongunitdigital-terabytedisplayNametelapaiti
+unitslongunitangle-revolutiondisplayNametakai
+unitslongunitangle-revolutionpatternothertakai ʻe {0}
+unitslongunitmass-metric-tondisplayNametoni
+unitslongunitmass-metric-tonpatternothertoni ʻe {0}
+unitslongunitvolume-pintdisplayNamepainite
+unitslongunitvolume-pintpatternotherpainite ʻe {0}
+unitslongunitduration-microsecondpatternothermikolosekoni ʻe {0}
+unitslongunitduration-microseconddisplayNamemikolosekoni
+unitslongunitvolume-pint-metricpatternotherpainite fakamita ʻe {0}
+unitslongunitvolume-pint-metricdisplayNamepainite fakamita
+unitslongunitarea-square-inchpatternotherʻinisi sikuea ʻe {0}
+unitslongunitarea-square-inchdisplayNameʻinisi sikuea
+unitslongunitarea-square-inchperUnitPattern{0} ki he ʻinisi sikuea
+unitslongunitenergy-kilowatt-hourpatternotherkilouate-houa ʻe {0}
+unitslongunitenergy-kilowatt-hourdisplayNamekilouate-houa
+unitslongunitfrequency-hertzpatternotherhēti ʻe {0}
+unitslongunitfrequency-hertzdisplayNamehēti
+unitslongunitlength-inchperUnitPattern{0} ki he ʻinise
+unitslongunitlength-inchdisplayNameʻinisi
+unitslongunitlength-inchpatternotherʻinisi ʻe {0}
+unitslongunitpressure-atmospheredisplayNameʻatimosifia
+unitslongunitpressure-atmospherepatternotherʻatimosifia ʻe {0}
+unitslongunitvolume-cubic-footdisplayNamefute kiupiki
+unitslongunitvolume-cubic-footpatternotherfute kiupiki ʻe {0}
+unitslongunitvolume-quartpatternotherkuata ʻe {0}
+unitslongunitvolume-quartdisplayNamekuata
+unitslongunitvolume-bushelpatternotherpūseli ʻe {0}
+unitslongunitvolume-busheldisplayNamepūseli
+unitslongunitvolume-cubic-centimeterdisplayNamesenitimita kiupiki
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} ki he senitimita kiupiki
+unitslongunitvolume-cubic-centimeterpatternothersenitimita kiupiki ʻe {0}
+unitslongunitconsumption-mile-per-gallonpatternothermaile ʻe {0} he kālani
+unitslongunitconsumption-mile-per-gallondisplayNamemaile he kālani
+unitslongunitenergy-kilocaloriepatternotherkilokaloli ʻe {0}
+unitslongunitenergy-kilocaloriedisplayNamekilokaloli
+unitslongunitlength-nanometerpatternothernanomita ʻe {0}
+unitslongunitlength-nanometerdisplayNamenanomita
+unitslongunitmass-tonpatternothertoni nounou ʻe {0}
+unitslongunitmass-tondisplayNametoni nounou
+unitslongunitspeed-meter-per-secondpatternothermita he sekoni ʻe {0}
+unitslongunitspeed-meter-per-seconddisplayNamemita he sekoni
+unitslongunitdigital-kilobitpatternotherkilopiti ʻe {0}
+unitslongunitdigital-kilobitdisplayNamekilopiti
+unitslongunitdigital-bytedisplayNamepaiti
+unitslongunitdigital-bytepatternotherpaiti ʻe {0}
+unitslongunitvolume-cubic-kilometerdisplayNamekilomita kiupiki
+unitslongunitvolume-cubic-kilometerpatternotherkilomita kiupiki ʻe {0}
+unitslongunitelectric-amperedisplayNameʻamipele
+unitslongunitelectric-amperepatternotherʻamipele ʻe {0}
+unitslongunitlength-micrometerdisplayNamemaikolomita
+unitslongunitlength-micrometerpatternothermaikolomita ʻe {0}
+unitslongunitmass-microgrampatternothermaikolokalami ʻe {0}
+unitslongunitmass-microgramdisplayNamemaikolokalami
+unitslongunitfrequency-kilohertzpatternotherkilohēti ʻe {0}
+unitslongunitfrequency-kilohertzdisplayNamekilohēti
+unitslongunitmass-ounce-troydisplayNameʻaunisi koula
+unitslongunitmass-ounce-troypatternotherʻaunisi koula ʻe {0}
+unitslongunitpressure-millimeter-of-mercurydisplayNamemilimita meakuli
+unitslongunitpressure-millimeter-of-mercurypatternothermilimita meakuli ʻe {0}
+unitslongunitvolume-teaspoondisplayNamesēpuni tī
+unitslongunitvolume-teaspoonpatternothersēpuni tī ʻe {0}
+unitslongunitlength-yardpatternotheriate ʻe {0}
+unitslongunitlength-yarddisplayNameiate
+unitslongunitduration-dayperUnitPattern{0} ki he ʻaho
+unitslongunitduration-daydisplayNameʻaho
+unitslongunitduration-daypatternotherʻaho ʻe {0}
+unitslongunitmass-kilogramdisplayNamekilokalami
+unitslongunitmass-kilogramperUnitPattern{0} ki he kilokalami
+unitslongunitmass-kilogrampatternotherkilokalami ʻe {0}
+unitslongunitpressure-inch-hgdisplayNameʻinisi meakuli
+unitslongunitpressure-inch-hgpatternotherʻinisi meakuli ʻe {0}
+unitslongunitduration-minuteperUnitPattern{0} ki he miniti
+unitslongunitduration-minutedisplayNameminiti
+unitslongunitduration-minutepatternotherminiti ʻe {0}
+unitslongunitlength-meterdisplayNamemita
+unitslongunitlength-meterperUnitPattern{0} ki he mita
+unitslongunitlength-meterpatternothermita ʻe {0}
+unitslongunitpressure-millibardisplayNamemilipā
+unitslongunitpressure-millibarpatternothermilipā ʻe {0}
+unitslongunitvolume-centiliterdisplayNamesenitilita
+unitslongunitvolume-centiliterpatternothersenitilita ʻe {0}
+unitslongunitvolume-cubic-yarddisplayNameiate kiupiki
+unitslongunitvolume-cubic-yardpatternotheriate kiupiki ʻe {0}
+unitslongunitdigital-terabitpatternothertelapiti ʻe {0}
+unitslongunitdigital-terabitdisplayNametelapiti
+unitslongunitmass-stonedisplayNamesitoni
+unitslongunitmass-stonepatternothersitoni ʻe {0}
+unitslongunitduration-millisecondpatternothermilisekoni ʻe {0}
+unitslongunitduration-milliseconddisplayNamemilisekoni
+unitslongunitduration-centurypatternotherteautaʻu ʻe {0}
+unitslongunitduration-centurydisplayNameteautaʻu
+unitslongunitelectric-voltdisplayNamevolotā
+unitslongunitelectric-voltpatternothervolotā ʻe {0}
+unitslongunittemperature-kelvindisplayNamekelevini
+unitslongunittemperature-kelvinpatternotherkelevini ʻe {0}
+unitslongunitdigital-petabytepatternotherpetapaiti ʻe {0}
+unitslongunitdigital-petabytedisplayNamepetapaiti
+unitslongunitlength-picometerpatternotherpikomita ʻe {0}
+unitslongunitlength-picometerdisplayNamepikomita
+unitslongunitconcentr-permilledisplayNamepemili
+unitslongunitconcentr-permillepatternotherpemili ʻe {0}
+unitslongunitlight-luxdisplayNamelukisi
+unitslongunitlight-luxpatternotherlukisi ʻe {0}
+unitslongunitspeed-mile-per-hourpatternothermaile he houa ʻe {0}
+unitslongunitspeed-mile-per-hourdisplayNamemaile he houa
+unitslongunittemperature-fahrenheitdisplayNametikili felenihaiti
+unitslongunittemperature-fahrenheitpatternothertikili felenihaiti ʻe {0}
+unitslongunitarea-acredisplayNameʻeka
+unitslongunitarea-acrepatternotherʻeka ʻe {0}
+unitslongunitconcentr-percentpatternotherpeseti ʻe {0}
+unitslongunitconcentr-percentdisplayNamepeseti
+unitslongunitacceleration-meter-per-second-squaredpatternothermita he sekoni sikuea ʻe {0}
+unitslongunitacceleration-meter-per-second-squareddisplayNamemita he sekoni sikuea
+unitslongunitangle-degreedisplayNametikili seakale
+unitslongunitangle-degreepatternothertikili seakale ʻe {0}
+unitslongunitenergy-jouledisplayNamesiule
+unitslongunitenergy-joulepatternothersiule ʻe {0}
+unitslongunitpower-milliwattdisplayNamemiliuate
+unitslongunitpower-milliwattpatternothermiliuate ʻe {0}
+unitslongunitvolume-cup-metricdisplayNameipu fakamita
+unitslongunitvolume-cup-metricpatternotheripu fakamita ʻe {0}
+unitslongunitvolume-cubic-milepatternothermaile kiupiki ʻe {0}
+unitslongunitvolume-cubic-miledisplayNamemaile kiupiki
+unitslongunitconsumption-liter-per-kilometerdisplayNamelita he kilomita
+unitslongunitconsumption-liter-per-kilometerpatternotherlita ʻe {0} he kilomita
+unitslongunitarea-hectaredisplayNamehekitale
+unitslongunitarea-hectarepatternotherhekitale ʻe {0}
+unitslongunitmass-caratpatternotherkalati ʻe {0}
+unitslongunitmass-caratdisplayNamekalati
+unitslongunitenergy-foodcaloriepatternotherkaloli-kai ʻe {0}
+unitslongunitenergy-foodcaloriedisplayNamekaloli-kai
+unitslongunitvolume-milliliterdisplayNamemililita
+unitslongunitvolume-milliliterpatternothermililita ʻe {0}
+unitslongunitpressure-hectopascalpatternotherhēkitopasikale ʻe {0}
+unitslongunitpressure-hectopascaldisplayNamehēkitopasikale
+unitslongunitvolume-deciliterpatternothertesilita ʻe {0}
+unitslongunitvolume-deciliterdisplayNametesilita
+unitslongunitduration-secondperUnitPattern{0} ki he sekoni
+unitslongunitduration-seconddisplayNamesekoni
+unitslongunitduration-secondpatternothersekoni ʻe {0}
+unitslongunitdigital-kilobytedisplayNamekilopaiti
+unitslongunitdigital-kilobytepatternotherkilopaiti ʻe {0}
+unitslongunitarea-square-footdisplayNamefute sikuea
+unitslongunitarea-square-footpatternotherfute sikuea ʻe {0}
+unitslongunitarea-square-centimeterdisplayNamesenitimita sikuea
+unitslongunitarea-square-centimeterperUnitPattern{0} ki he senitimita sikuea
+unitslongunitarea-square-centimeterpatternothersenitimita sikuea ʻe {0}
+unitslongunitlength-astronomical-unitdisplayNameʻiuniti fakaʻasitalōnoma
+unitslongunitlength-astronomical-unitpatternotherʻiuniti fakaʻasitalōnoma ʻe {0}
+unitslongunitvolume-megaliterpatternothermekalita ʻe {0}
+unitslongunitvolume-megaliterdisplayNamemekalita
+unitslongunitelectric-ohmpatternotherʻōmi ʻe {0}
+unitslongunitelectric-ohmdisplayNameʻōmi
+unitslongunitconsumption-liter-per-100kilometersdisplayNamelita he kilomita ʻe 100
+unitslongunitconsumption-liter-per-100kilometerspatternotherlita ʻe {0} he kilomita ʻe 100
+unitslongunitacceleration-g-forcepatternotherk-mālohi ʻe {0}
+unitslongunitacceleration-g-forcedisplayNamek-mālohi
+unitslongunitarea-square-kilometerpatternotherkilomita sikuea ʻe {0}
+unitslongunitarea-square-kilometerperUnitPattern{0} ki he kilomita sikuea
+unitslongunitarea-square-kilometerdisplayNamekilomita sikuea
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitsnarrowunitduration-yeardisplayNamet
+unitsnarrowunitduration-yearperUnitPattern{0}/t
+unitsnarrowunitduration-yearpatternother{0} t
+unitsnarrowunitarea-square-meterpatternother{0} m²
+unitsnarrowunitarea-square-meterdisplayNamem²
+unitsnarrowunitarea-square-meterperUnitPattern{0}/m²
+unitsnarrowunitdigital-megabitpatternother{0} Mb
+unitsnarrowunitdigital-megabitdisplayNameMb
+unitsnarrowunitlength-footdisplayNameft
+unitsnarrowunitlength-footperUnitPattern{0}/ft
+unitsnarrowunitlength-footpatternother{0} ft
+unitsnarrowunitconcentr-milligram-per-deciliterdisplayNamemk/tl
+unitsnarrowunitconcentr-milligram-per-deciliterpatternother{0} mk/tl
+unitsnarrowunitpower-gigawattdisplayNameGW
+unitsnarrowunitpower-gigawattpatternother{0} GW
+unitsnarrowunitmass-milligrampatternother{0} mk
+unitsnarrowunitmass-milligramdisplayNamemk
+unitsnarrowunitlength-nautical-milepatternother{0} mt
+unitsnarrowunitlength-nautical-miledisplayNamemt
+unitsnarrowunitspeed-knotdisplayNamefp
+unitsnarrowunitspeed-knotpatternother{0} fp
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} km/h
+unitsnarrowunitvolume-cupdisplayNameip
+unitsnarrowunitvolume-cuppatternother{0} ip
+unitsnarrowunitelectric-milliamperedisplayNamemA
+unitsnarrowunitelectric-milliamperepatternother{0} mA
+unitsnarrowunitduration-monthdisplayNamem
+unitsnarrowunitduration-monthperUnitPattern{0}/m
+unitsnarrowunitduration-monthpatternother{0} m
+unitsnarrowunitdigital-bitdisplayNameb
+unitsnarrowunitdigital-bitpatternother{0} b
+unitsnarrowunitlength-miledisplayNamemi
+unitsnarrowunitlength-milepatternother{0} mi
+unitsnarrowunitlength-millimeterdisplayNamemm
+unitsnarrowunitlength-millimeterpatternother{0} mm
+unitsnarrowunitlength-pointpatternother{0} pt
+unitsnarrowunitlength-pointdisplayNamept
+unitsnarrowunitlength-mile-scandinavianpatternother{0} smi
+unitsnarrowunitlength-mile-scandinaviandisplayNamemis
+unitsnarrowunitpower-wattpatternother{0} W
+unitsnarrowunitpower-wattdisplayNameW
+unitsnarrowunitdigital-megabytedisplayNameMB
+unitsnarrowunitdigital-megabytepatternother{0} MB
+unitsnarrowunitduration-weekperUnitPattern{0}/u
+unitsnarrowunitduration-weekdisplayNameu
+unitsnarrowunitduration-weekpatternother{0} u
+unitsnarrowunitconsumption-mile-per-gallon-imperialpatternother{0}m/kāʻe
+unitsnarrowunitconsumption-mile-per-gallon-imperialdisplayNamemi/kāʻem
+unitsnarrowunitenergy-kilojoulepatternother{0} kJ
+unitsnarrowunitenergy-kilojouledisplayNamekJ
+unitsnarrowunitmass-ouncepatternother{0} ʻau
+unitsnarrowunitmass-ouncedisplayNameʻau
+unitsnarrowunitmass-ounceperUnitPattern{0}/ʻau
+unitsnarrowunittemperature-celsiusdisplayName°S
+unitsnarrowunittemperature-celsiuspatternother{0}°S
+unitsnarrowunitdigital-gigabytedisplayNamekikapaiti
+unitsnarrowunitdigital-gigabytepatternotherKP ʻe {0}
+unitsnarrowunitdigital-terabytepatternother{0} TB
+unitsnarrowunitdigital-terabytedisplayNameTB
+unitsnarrowunitangle-revolutionpatternother{0} tak
+unitsnarrowunitangle-revolutiondisplayNametak
+unitsnarrowunitmass-metric-tonpatternother{0} to
+unitsnarrowunitmass-metric-tondisplayNameto
+unitsnarrowunitlength-kilometerperUnitPattern{0}/km
+unitsnarrowunitlength-kilometerdisplayNamekm
+unitsnarrowunitlength-kilometerpatternother{0} km
+unitsnarrowunitvolume-hectoliterpatternother{0} hl
+unitsnarrowunitvolume-hectoliterdisplayNamehl
+unitsnarrowunitlength-decimeterdisplayNametm
+unitsnarrowunitlength-decimeterpatternother{0} tm
+unitsnarrowunitlength-light-yearpatternother{0} tma
+unitsnarrowunitlength-light-yeardisplayNametma
+unitsnarrowunitconcentr-millimole-per-literpatternother{0} mmol/l
+unitsnarrowunitconcentr-millimole-per-literdisplayNamemmol/l
+unitsnarrowunitarea-square-mileperUnitPattern{0}/mi²
+unitsnarrowunitarea-square-miledisplayNamemi²
+unitsnarrowunitarea-square-milepatternother{0} mi²
+unitsnarrowunitenergy-caloriedisplayNamekal
+unitsnarrowunitenergy-caloriepatternother{0} kal
+unitsnarrowunitpower-horsepowerdisplayNamehp
+unitsnarrowunitpower-horsepowerpatternother{0} hp
+unitsnarrowunitangle-radiandisplayNamelēt
+unitsnarrowunitangle-radianpatternother{0} lēt
+unitsnarrowunitconcentr-part-per-millionpatternother{0} khm
+unitsnarrowunitconcentr-part-per-milliondisplayNamekhm
+unitsnarrowunitvolume-gallonpatternother{0} kā
+unitsnarrowunitvolume-gallonperUnitPattern{0}/kā
+unitsnarrowunitvolume-gallondisplayNamekā
+unitsnarrowunitmass-poundpatternother{0} pā
+unitsnarrowunitmass-pounddisplayNamepā
+unitsnarrowunitmass-poundperUnitPattern{0}/pā
+unitsnarrowunitvolume-tablespoonpatternother{0} sētē
+unitsnarrowunitvolume-tablespoondisplayNamesētē
+unitsnarrowunitfrequency-gigahertzpatternother{0} GHz
+unitsnarrowunitfrequency-gigahertzdisplayNameGHz
+unitsnarrowunitarea-square-yardpatternother{0} it²
+unitsnarrowunitarea-square-yarddisplayNameit²
+unitsnarrowunitpressure-pound-per-square-inchdisplayNamepā/in²
+unitsnarrowunitpressure-pound-per-square-inchpatternother{0} pā/in²
+unitsnarrowunitvolume-cubic-inchdisplayNamein³
+unitsnarrowunitvolume-cubic-inchpatternother{0} in³
+unitsnarrowunitdigital-gigabitdisplayNameGb
+unitsnarrowunitdigital-gigabitpatternother{0} Gb
+unitsnarrowunittemperature-genericpatternother{0}°
+unitsnarrowunittemperature-genericdisplayName°
+unitsnarrowunitconcentr-karatdisplayNamekt
+unitsnarrowunitconcentr-karatpatternother{0} kt
+unitsnarrowunitlength-centimeterpatternother{0} sm
+unitsnarrowunitlength-centimeterdisplayNamesm
+unitsnarrowunitlength-centimeterperUnitPattern{0}/sm
+unitsnarrowunitvolume-fluid-ouncedisplayNameʻau-tf
+unitsnarrowunitvolume-fluid-ouncepatternother{0} ʻau-tf
+unitsnarrowunitlength-fathomdisplayNameo
+unitsnarrowunitlength-fathompatternother{0} o
+unitsnarrowunitmass-grampatternother{0} k
+unitsnarrowunitmass-gramdisplayNamek
+unitsnarrowunitmass-gramperUnitPattern{0}/k
+unitsnarrowunitlength-parsecdisplayNamengs
+unitsnarrowunitlength-parsecpatternother{0} ngs
+unitsnarrowunitduration-hourperUnitPattern{0} /h
+unitsnarrowunitduration-hourdisplayNameh
+unitsnarrowunitduration-hourpatternother{0} h
+unitsnarrowunitduration-nanoseconddisplayNamens
+unitsnarrowunitduration-nanosecondpatternother{0} ns
+unitsnarrowunitangle-arc-minutepatternother{0}′
+unitsnarrowunitangle-arc-minutedisplayName′
+unitsnarrowunitfrequency-megahertzdisplayNameMHz
+unitsnarrowunitfrequency-megahertzpatternother{0} MHz
+unitsnarrowunitvolume-literpatternother{0} l
+unitsnarrowunitvolume-literdisplayNamel
+unitsnarrowunitvolume-literperUnitPattern{0} /l
+unitsnarrowunitpower-megawattdisplayNameMW
+unitsnarrowunitpower-megawattpatternother{0} MW
+unitsnarrowunitvolume-cubic-meterdisplayNamem³
+unitsnarrowunitvolume-cubic-meterperUnitPattern{0}/m³
+unitsnarrowunitvolume-cubic-meterpatternother{0} m³
+unitsnarrowunitvolume-acre-footpatternother{0} ʻe-ft
+unitsnarrowunitvolume-acre-footdisplayNameʻe-ft
+unitsnarrowunitvolume-gallon-imperialdisplayNamekāʻem
+unitsnarrowunitvolume-gallon-imperialperUnitPattern{0}/kāʻem
+unitsnarrowunitvolume-gallon-imperialpatternother{0} kāʻem
+unitsnarrowunitlength-furlongdisplayNamefāl
+unitsnarrowunitlength-furlongpatternother{0} fāl
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunitangle-arc-seconddisplayName″
+unitsnarrowunitpower-kilowattpatternother{0} kW
+unitsnarrowunitpower-kilowattdisplayNamekW
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunittemperature-fahrenheitdisplayName°F
+unitsnarrowunitspeed-mile-per-hourpatternother{0} mi/h
+unitsnarrowunitspeed-mile-per-hourdisplayNamemi/h
+unitsnarrowunitacceleration-meter-per-second-squaredpatternother{0} m/s²
+unitsnarrowunitacceleration-meter-per-second-squareddisplayNamem/s²
+unitsnarrowunitconcentr-percentpatternother{0}%
+unitsnarrowunitconcentr-percentdisplayName%
+unitsnarrowunitarea-acredisplayNameʻek
+unitsnarrowunitarea-acrepatternother{0} ʻek
+unitsnarrowunitangle-degreepatternother{0}°
+unitsnarrowunitangle-degreedisplayName°
+unitsnarrowunitenergy-jouledisplayNameJ
+unitsnarrowunitenergy-joulepatternother{0} J
+unitsnarrowunitpower-milliwattdisplayNamemW
+unitsnarrowunitpower-milliwattpatternother{0} mW
+unitsnarrowunitconsumption-liter-per-kilometerpatternother{0} l/km
+unitsnarrowunitconsumption-liter-per-kilometerdisplayNamel/km
+unitsnarrowunitvolume-cup-metricdisplayNameipm
+unitsnarrowunitvolume-cup-metricpatternother{0} ipm
+unitsnarrowunitvolume-cubic-milepatternother{0} mi³
+unitsnarrowunitvolume-cubic-miledisplayNamemi³
+unitsnarrowunitarea-hectarepatternother{0} ha
+unitsnarrowunitarea-hectaredisplayNameha
+unitsnarrowunitmass-caratpatternother{0} kt
+unitsnarrowunitmass-caratdisplayNamekt
+unitsnarrowunitduration-centurydisplayNamett
+unitsnarrowunitduration-centurypatternother{0} tt
+unitsnarrowunittemperature-kelvindisplayNameK
+unitsnarrowunittemperature-kelvinpatternother{0} K
+unitsnarrowunitelectric-voltdisplayNameV
+unitsnarrowunitelectric-voltpatternother{0} V
+unitsnarrowunitdigital-petabytedisplayNamePB
+unitsnarrowunitdigital-petabytepatternother{0} PB
+unitsnarrowunitlength-picometerdisplayNamepm
+unitsnarrowunitlength-picometerpatternother{0} pm
+unitsnarrowunitlight-luxdisplayNamelx
+unitsnarrowunitlight-luxpatternother{0} lx
+unitsnarrowunitconcentr-permilledisplayName‰
+unitsnarrowunitconcentr-permillepatternother{0}‰
+unitsnarrowunitelectric-ohmdisplayNameΩ
+unitsnarrowunitelectric-ohmpatternother{0} Ω
+unitsnarrowunitvolume-megaliterdisplayNameMl
+unitsnarrowunitvolume-megaliterpatternother{0} Ml
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0} l/100km
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNamel/100km
+unitsnarrowunitarea-square-kilometerperUnitPattern{0}/km²
+unitsnarrowunitarea-square-kilometerdisplayNamekm²
+unitsnarrowunitarea-square-kilometerpatternother{0} km²
+unitsnarrowunitacceleration-g-forcedisplayNamek-mā
+unitsnarrowunitacceleration-g-forcepatternother{0} k-mā
+unitsnarrowunitenergy-foodcaloriedisplayNamekal-k
+unitsnarrowunitenergy-foodcaloriepatternother{0} kal-k
+unitsnarrowunitvolume-milliliterdisplayNameml
+unitsnarrowunitvolume-milliliterpatternother{0} ml
+unitsnarrowunitpressure-hectopascalpatternother{0} hPa
+unitsnarrowunitpressure-hectopascaldisplayNamehPa
+unitsnarrowunitduration-secondperUnitPattern{0} /s
+unitsnarrowunitduration-seconddisplayNames
+unitsnarrowunitduration-secondpatternother{0} s
+unitsnarrowunitvolume-deciliterpatternother{0} tl
+unitsnarrowunitvolume-deciliterdisplayNametl
+unitsnarrowunitdigital-kilobytedisplayNamekB
+unitsnarrowunitdigital-kilobytepatternother{0} kB
+unitsnarrowunitarea-square-footpatternother{0} ft²
+unitsnarrowunitarea-square-footdisplayNameft²
+unitsnarrowunitarea-square-centimeterdisplayNamesm²
+unitsnarrowunitarea-square-centimeterperUnitPattern{0}/sm²
+unitsnarrowunitarea-square-centimeterpatternother{0} sm²
+unitsnarrowunitlength-astronomical-unitpatternother{0} ʻiʻa
+unitsnarrowunitlength-astronomical-unitdisplayNameʻiʻa
+unitsnarrowunitdigital-kilobitpatternother{0} kb
+unitsnarrowunitdigital-kilobitdisplayNamekb
+unitsnarrowunitspeed-meter-per-seconddisplayNamem/s
+unitsnarrowunitspeed-meter-per-secondpatternother{0} m/s
+unitsnarrowunitvolume-cubic-kilometerpatternother{0} km³
+unitsnarrowunitvolume-cubic-kilometerdisplayNamekm³
+unitsnarrowunitelectric-amperepatternother{0} A
+unitsnarrowunitelectric-amperedisplayNameA
+unitsnarrowunitfrequency-kilohertzdisplayNamekHz
+unitsnarrowunitfrequency-kilohertzpatternother{0} kHz
+unitsnarrowunitlength-micrometerdisplayNameµm
+unitsnarrowunitlength-micrometerpatternother{0} µm
+unitsnarrowunitdigital-bytedisplayNameB
+unitsnarrowunitdigital-bytepatternother{0} B
+unitsnarrowunitmass-ounce-troypatternother{0} ʻau-k
+unitsnarrowunitmass-ounce-troydisplayNameʻau-k
+unitsnarrowunitmass-microgramdisplayNameμk
+unitsnarrowunitmass-microgrampatternother{0} μk
+unitsnarrowunitpressure-millimeter-of-mercurypatternother{0} mm-Hg
+unitsnarrowunitpressure-millimeter-of-mercurydisplayNamemm-Hg
+unitsnarrowunitvolume-pint-metricdisplayNameptm
+unitsnarrowunitvolume-pint-metricpatternother{0} ptm
+unitsnarrowunitvolume-pintdisplayNamept
+unitsnarrowunitvolume-pintpatternother{0} pt
+unitsnarrowunitduration-microsecondpatternother{0} μs
+unitsnarrowunitduration-microseconddisplayNameμs
+unitsnarrowunitarea-square-inchperUnitPattern{0}/in²
+unitsnarrowunitarea-square-inchdisplayNamein²
+unitsnarrowunitarea-square-inchpatternother{0} in²
+unitsnarrowunitenergy-kilowatt-hourdisplayNamekWh
+unitsnarrowunitenergy-kilowatt-hourpatternother{0} kWh
+unitsnarrowunitfrequency-hertzdisplayNameHz
+unitsnarrowunitfrequency-hertzpatternother{0} Hz
+unitsnarrowunitlength-inchperUnitPattern{0}/in
+unitsnarrowunitlength-inchdisplayNamein
+unitsnarrowunitlength-inchpatternother{0} in
+unitsnarrowunitpressure-atmospherepatternother{0} ʻati
+unitsnarrowunitpressure-atmospheredisplayNameʻati
+unitsnarrowunitvolume-bushelpatternother{0} pū
+unitsnarrowunitvolume-busheldisplayNamepū
+unitsnarrowunitvolume-quartpatternother{0} ku
+unitsnarrowunitvolume-quartdisplayNameku
+unitsnarrowunitvolume-cubic-footpatternother{0} ft³
+unitsnarrowunitvolume-cubic-footdisplayNameft³
+unitsnarrowunitenergy-kilocaloriedisplayNamekkal
+unitsnarrowunitenergy-kilocaloriepatternother{0} kkal
+unitsnarrowunitvolume-cubic-centimeterperUnitPattern{0}/sm³
+unitsnarrowunitvolume-cubic-centimeterdisplayNamesm³
+unitsnarrowunitvolume-cubic-centimeterpatternother{0} sm³
+unitsnarrowunitlength-nanometerdisplayNamenm
+unitsnarrowunitlength-nanometerpatternother{0} nm
+unitsnarrowunitconsumption-mile-per-gallondisplayNamemi/kā
+unitsnarrowunitconsumption-mile-per-gallonpatternother{0} mi/kā
+unitsnarrowunitmass-tondisplayNametn
+unitsnarrowunitmass-tonpatternother{0} tn
+unitsnarrowunitvolume-cubic-yardpatternother{0} it³
+unitsnarrowunitvolume-cubic-yarddisplayNameit³
+unitsnarrowunitvolume-centiliterdisplayNamesl
+unitsnarrowunitvolume-centiliterpatternother{0} sl
+unitsnarrowunitdigital-terabitdisplayNameTb
+unitsnarrowunitdigital-terabitpatternother{0} Tb
+unitsnarrowunitmass-stonedisplayNamest
+unitsnarrowunitmass-stonepatternother{0} st
+unitsnarrowunitduration-millisecondpatternother{0} ms
+unitsnarrowunitduration-milliseconddisplayNamems
+unitsnarrowunitvolume-teaspoonpatternother{0} sētī
+unitsnarrowunitvolume-teaspoondisplayNamesētī
+unitsnarrowunitduration-daypatternother{0} ʻa
+unitsnarrowunitduration-dayperUnitPattern{0}/ʻa
+unitsnarrowunitduration-daydisplayNameʻa
+unitsnarrowunitlength-yardpatternother{0} it
+unitsnarrowunitlength-yarddisplayNameit
+unitsnarrowunitmass-kilogramdisplayNamekk
+unitsnarrowunitmass-kilogramperUnitPattern{0}/kk
+unitsnarrowunitmass-kilogrampatternother{0} kk
+unitsnarrowunitpressure-inch-hgdisplayNamein-Hg
+unitsnarrowunitpressure-inch-hgpatternother{0} in-Hg
+unitsnarrowunitduration-minutepatternother{0} m
+unitsnarrowunitduration-minutedisplayNamem
+unitsnarrowunitduration-minuteperUnitPattern{0}/m
+unitsnarrowunitlength-meterdisplayNamem
+unitsnarrowunitlength-meterperUnitPattern{0}/m
+unitsnarrowunitlength-meterpatternother{0} m
+unitsnarrowunitpressure-millibarpatternother{0} mpā
+unitsnarrowunitpressure-millibardisplayNamempā
+unitsnarrowcoordinateUnitnorth{0} tk
+unitsnarrowcoordinateUnitdisplayNamefua
+unitsnarrowcoordinateUnitsouth{0} to
+unitsnarrowcoordinateUniteast{0} ha
+unitsnarrowcoordinateUnitwest{0} hi
+delimitersquotationStart“
+delimitersalternateQuotationEnd’
+delimitersquotationEnd”
+delimitersalternateQuotationStart‘
+typographicNamesfeatureNameafrcfalakiseni hangatonu
+typographicNamesfeatureNameonumfuo onopooni
+typographicNamesfeatureNametnummataʻifika tepile
+typographicNamesfeatureNamepnummataʻifika hoatatau
+typographicNamesfeatureNamelnummataʻifika laine
+typographicNamesfeatureNamesmcpmataʻitohilahi siʻi
+typographicNamesfeatureNamecpspvā mataʻitohilahi
+typographicNamesfeatureNamedlignonoʻo faʻiteliha
+typographicNamesfeatureNamezeronoa matafa
+typographicNamesfeatureNameordnmataʻifika noa
+typographicNamesfeatureNamefracfalakiseni mahei
+typographicNamesstyleNameital1standardfalala
+typographicNamesstyleNamewght600standardsino siʻi
+typographicNamesstyleNamewght600demisino siʻi
+typographicNamesstyleNamewght300standardmaʻamaʻa
+typographicNamesstyleNamewght200standardmaʻamaʻa lalahi
+typographicNamesstyleNamewght200ultramaʻamaʻa lahi
+typographicNamesstyleNamewght800standardsino lahi
+typographicNamesstyleNamewght380standardtotonutohi
+typographicNamesstyleNamewght350standardmaʻamaʻa siʻi
+typographicNamesstyleNamewght950ultraheavymamafa lalahi
+typographicNamesstyleNamewght950standardʻuliʻuli lahi
+typographicNamesstyleNamewght950ultrablackʻuliʻuli lalahi
+typographicNamesstyleNamewght900standardʻuliʻuli
+typographicNamesstyleNamewght900heavymamafa
+typographicNamesstyleNamewght100standardmanifi
+typographicNamesstyleNamewght700standardsino
+typographicNamesstyleNamewght500standardtauloto
+typographicNamesstyleNamewght400standardtotonu
+typographicNamesstyleNameopsz18standardtohi lahi
+typographicNamesstyleNameopsz144standardtohi kāfakafa
+typographicNamesstyleNameopsz8standardtohi leka
+typographicNamesstyleNameopsz72standardtohi lalahi
+typographicNamesstyleNameopsz12standardtohi
+typographicNamesstyleNameslnt24standardmahei lahi
+typographicNamesstyleNameslnt-12standardmahei kimui
+typographicNamesstyleNameslnt0standardtuʻutonu
+typographicNamesstyleNameslnt12standardmahei
+typographicNamesstyleNamewdth150widefālahi lahi
+typographicNamesstyleNamewdth150standardfano lahi
+typographicNamesstyleNamewdth150extendedfakalōloa lahi
+typographicNamesstyleNamewdth200extendedfakalōloa lalahi
+typographicNamesstyleNamewdth200standardfano lalahi
+typographicNamesstyleNamewdth200widefālalahi
+typographicNamesstyleNamewdth87.5narrowlausiʻi siʻi
+typographicNamesstyleNamewdth87.5compressedkoko siʻi
+typographicNamesstyleNamewdth87.5standardnounou siʻi
+typographicNamesstyleNamewdth112.5standardfano siʻi
+typographicNamesstyleNamewdth112.5extendedfakalōloa siʻi
+typographicNamesstyleNamewdth112.5widefālahi siʻi
+typographicNamesstyleNamewdth125extendedfakalōloa
+typographicNamesstyleNamewdth125standardfano
+typographicNamesstyleNamewdth125widefālahi
+typographicNamesstyleNamewdth75compressedkoko
+typographicNamesstyleNamewdth75standardnounou
+typographicNamesstyleNamewdth75narrowlausiʻi
+typographicNamesstyleNamewdth100standardtotonu
+typographicNamesstyleNamewdth62.5narrowlausiʻi lahi
+typographicNamesstyleNamewdth62.5compressedkoko lahi
+typographicNamesstyleNamewdth62.5standardnounou lahi
+typographicNamesstyleNamewdth50compressedkoko lalahi
+typographicNamesstyleNamewdth50standardnounou lalahi
+typographicNamesstyleNamewdth50narrowlausiʻi lalahi
+typographicNamesaxisNamewdthfālahi
+typographicNamesaxisNameitalfalala
+typographicNamesaxisNamewghtmamafa
+typographicNamesaxisNameopszlaulalahi
+typographicNamesaxisNameslntmahei
+characterLabelspatternsother{0} — kehe
+characterLabelspatternsextended{0} — toloi
+characterLabelspatternsall{0} — kotoa
+characterLabelspatternshistoric{0} — tupuʻa
+characterLabelspatternscategory-list{0}: {1}
+characterLabelspatternscompatibility{0} — hoa
+characterLabelspatternsscriptsngaahi tohinima — {0}
+characterLabelspatternsmiscellaneous{0} — kehekehe
+characterLabelspatternsstrokeskohi ʻe {0}
+characterLabelspatternsenclosed{0} — kāpui
+characterLabelslabelstravelfolau
+characterLabelslabelsdivination_symbolsfakaʻilonga tongafisi
+characterLabelslabelsplantʻakau
+characterLabelslabelsleftwards_arrowsngahau hema
+characterLabelslabelskeycaptatā foʻi kī
+characterLabelslabelslimited_usengāueʻaki fakangatangata
+characterLabelslabelsplacefeituʻu
+characterLabelslabelssmall_form_variantfuo faikeheʻi iiki
+characterLabelslabelsamerican_scriptstohinima fakaʻamelika
+characterLabelslabelsflagfuka
+characterLabelslabelsformat_whitespaceanga &amp; vā hinehina
+characterLabelslabelsfood_drinkinu &amp; kai
+characterLabelslabelsvocalic_jamosamo fakavauele
+characterLabelslabelsweatherʻea
+characterLabelslabelsvariant_formsfuo faikeheʻi
+characterLabelslabelsdash_connectorkohi
+characterLabelslabelsrightwards_arrowsngahau mataʻu
+characterLabelslabelshanzi_traditionalhanisī tukufakaholo
+characterLabelslabelsmalefakatangata
+characterLabelslabelswestern_asian_scriptstohinima fakaʻēsia-hihifo
+characterLabelslabelssportvāʻinga
+characterLabelslabelspersonkakai
+characterLabelslabelsanimals_naturemanu &amp; natula
+characterLabelslabelsemojingaahi ongo
+characterLabelslabelsfull_width_form_variantfuo faikeheʻi fakalaulahiloa
+characterLabelslabelsmodern_scriptstohinima fakaonopooni
+characterLabelslabelsdigitsmataʻifika
+characterLabelslabelspunctuationfakaʻilonga mālōlō
+characterLabelslabelsdownwards_upwards_arrowsngahau hake-hifo
+characterLabelslabelsletterlike_symbolsfakaʻilonga vāofi mataʻitohi
+characterLabelslabelssmileys_peoplemalimali &amp; kakai
+characterLabelslabelswhitespacevā hinehina
+characterLabelslabelsbox_drawingtā puha
+characterLabelslabelsafrican_scriptstohinima fakaʻafilika
+characterLabelslabelsdingbatsnikonikoʻi
+characterLabelslabelsformatanga
+characterLabelslabelshanzi_simplifiedhanisī fakafaingofua
+characterLabelslabelshan_charactersmataʻitohi hana
+characterLabelslabelsotherkehe
+characterLabelslabelscurrency_symbolsfakaʻilonga paʻanga
+characterLabelslabelsobjectsfoʻi meʻa
+characterLabelslabelsbraillemataʻitohi maʻae kakai kui
+characterLabelslabelsflagsngaahi fuka
+characterLabelslabelsjapanese_kanakana fakasiapani
+characterLabelslabelsideographic_desc_charactersfakaʻilonga fakakaukau
+characterLabelslabelsleftwards_rightwards_arrowsngahau hema-mataʻu
+characterLabelslabelsnonspacingtaʻevā
+characterLabelslabelskanbunkanipuni
+characterLabelslabelseuropean_scriptstohinima fakaʻeulope
+characterLabelslabelstechnical_symbolsfakaʻilonga tekinikale
+characterLabelslabelsspacingvā
+characterLabelslabelsnaturenatula
+characterLabelslabelshan_radicalsʻelitoʻi hana
+characterLabelslabelsdownwards_arrowsngahau hifo
+characterLabelslabelshanjahanisa
+characterLabelslabelsmiddle_eastern_scriptstohinima fakahahake-lotoloto
+characterLabelslabelsarrowsngahau
+characterLabelslabelstone_marksfakaʻilonga fasiʻalea
+characterLabelslabelssoutheast_asian_scriptstohinima fakaʻēsia-tongahahake
+characterLabelslabelsactivitiesvaʻinga
+characterLabelslabelsbuildingfale
+characterLabelslabelsphonetic_alphabetmotuʻalea fakafonētiki
+characterLabelslabelskanjikanisī
+characterLabelslabelssouth_asian_scriptstohinima fakaʻēsia-tonga
+characterLabelslabelsbullets_starspulu &amp; fetuʻu
+characterLabelslabelshistoric_scriptstohinima fakatupuʻanga
+characterLabelslabelsmath_symbolsfakaʻilonga matematika
+characterLabelslabelssmileymalimali
+characterLabelslabelssign_standard_symbolsfakaʻilonga sīpinga
+characterLabelslabelseast_asian_scriptstohinima fakaʻēsia-hahake
+characterLabelslabelshalf_width_form_variantfuo faikeheʻi fakalaulahi
+characterLabelslabelsheartmafu
+characterLabelslabelsmusical_symbolsfakaʻilonga fasi
+characterLabelslabelsnumbersfika
+characterLabelslabelsfemalefakafefine
+characterLabelslabelsgeometric_shapesfuo fakasiomita
+characterLabelslabelsupwards_arrowsngahau hake
+characterLabelslabelspictographsfoʻi ʻata
+characterLabelslabelstravel_placesfolau &amp; feituʻu
+characterLabelslabelssymbolsfakaʻilonga
+characterLabelslabelsconsonantal_jamosamo fakakonisinanite
+characterLabelslabelsbodysino
+characterLabelslabelsmodifierfakaliliu
+characterLabelslabelsanimalmanu
+characterLabelslabelspairedtauhoa
+characterLabelslabelsmiscellaneouskehekehe
+numberssymbolsbengpercentSign%
+numberssymbolsbengperMille‰
+numberssymbolsbenginfinity∞
+numberssymbolsbengnanTF
+numberssymbolsbengexponentialE
+numberssymbolsbenggroup,
+numberssymbolsbengdecimal.
+numberssymbolsbenglist;
+numberssymbolsbengminusSign-
+numberssymbolsbengtimeSeparator:
+numberssymbolsbengplusSign+
+numberssymbolsbengsuperscriptingExponent×
+numberssymbolstibtsuperscriptingExponent×
+numberssymbolstibtplusSign+
+numberssymbolstibttimeSeparator:
+numberssymbolstibtminusSign-
+numberssymbolstibtdecimal.
+numberssymbolstibtlist;
+numberssymbolstibtgroup,
+numberssymbolstibtinfinity∞
+numberssymbolstibtnanTF
+numberssymbolstibtexponentialE
+numberssymbolstibtpercentSign%
+numberssymbolstibtperMille‰
+numberssymbolstamldeclist;
+numberssymbolstamldecdecimal.
+numberssymbolstamldectimeSeparator:
+numberssymbolstamldecminusSign-
+numberssymbolstamldecplusSign+
+numberssymbolstamldecsuperscriptingExponent×
+numberssymbolstamldecperMille‰
+numberssymbolstamldecpercentSign%
+numberssymbolstamldecexponentialE
+numberssymbolstamldecnanTF
+numberssymbolstamldecinfinity∞
+numberssymbolstamldecgroup,
+numberssymbolslimbsuperscriptingExponent×
+numberssymbolslimbplusSign+
+numberssymbolslimbtimeSeparator:
+numberssymbolslimbminusSign-
+numberssymbolslimblist;
+numberssymbolslimbdecimal.
+numberssymbolslimbgroup,
+numberssymbolslimbnanTF
+numberssymbolslimbexponentialE
+numberssymbolslimbinfinity∞
+numberssymbolslimbperMille‰
+numberssymbolslimbpercentSign%
+numberssymbolskhmrperMille‰
+numberssymbolskhmrpercentSign%
+numberssymbolskhmrgroup,
+numberssymbolskhmrinfinity∞
+numberssymbolskhmrnanTF
+numberssymbolskhmrexponentialE
+numberssymbolskhmrminusSign-
+numberssymbolskhmrtimeSeparator:
+numberssymbolskhmrlist;
+numberssymbolskhmrdecimal.
+numberssymbolskhmrplusSign+
+numberssymbolskhmrsuperscriptingExponent×
+numberssymbolskndaperMille‰
+numberssymbolskndapercentSign%
+numberssymbolskndagroup,
+numberssymbolskndainfinity∞
+numberssymbolskndananTF
+numberssymbolskndaexponentialE
+numberssymbolskndatimeSeparator:
+numberssymbolskndaminusSign-
+numberssymbolskndalist;
+numberssymbolskndadecimal.
+numberssymbolskndasuperscriptingExponent×
+numberssymbolskndaplusSign+
+numberssymbolssundtimeSeparator:
+numberssymbolssundminusSign-
+numberssymbolssundlist;
+numberssymbolssunddecimal.
+numberssymbolssundsuperscriptingExponent×
+numberssymbolssundplusSign+
+numberssymbolssundperMille‰
+numberssymbolssundpercentSign%
+numberssymbolssundgroup,
+numberssymbolssundnanTF
+numberssymbolssundinfinity∞
+numberssymbolssundexponentialE
+numberssymbolstaluperMille‰
+numberssymbolstalupercentSign%
+numberssymbolstalunanTF
+numberssymbolstaluexponentialE
+numberssymbolstaluinfinity∞
+numberssymbolstalugroup,
+numberssymbolstaludecimal.
+numberssymbolstalulist;
+numberssymbolstalutimeSeparator:
+numberssymbolstaluminusSign-
+numberssymbolstaluplusSign+
+numberssymbolstalusuperscriptingExponent×
+numberssymbolsthaisuperscriptingExponent×
+numberssymbolsthaiplusSign+
+numberssymbolsthaitimeSeparator:
+numberssymbolsthaiminusSign-
+numberssymbolsthaidecimal.
+numberssymbolsthailist;
+numberssymbolsthaigroup,
+numberssymbolsthaiexponentialE
+numberssymbolsthainanTF
+numberssymbolsthaiinfinity∞
+numberssymbolsthaipercentSign%
+numberssymbolsthaiperMille‰
+numberssymbolsmongsuperscriptingExponent×
+numberssymbolsmongplusSign+
+numberssymbolsmongminusSign-
+numberssymbolsmongtimeSeparator:
+numberssymbolsmongdecimal.
+numberssymbolsmonglist;
+numberssymbolsmonggroup,
+numberssymbolsmonginfinity∞
+numberssymbolsmongnanTF
+numberssymbolsmongexponentialE
+numberssymbolsmongperMille‰
+numberssymbolsmongpercentSign%
+numberssymbolslanathamlist;
+numberssymbolslanathamdecimal.
+numberssymbolslanathamtimeSeparator:
+numberssymbolslanathamminusSign-
+numberssymbolslanathamsuperscriptingExponent×
+numberssymbolslanathamplusSign+
+numberssymbolslanathamperMille‰
+numberssymbolslanathampercentSign%
+numberssymbolslanathamnanTF
+numberssymbolslanathamexponentialE
+numberssymbolslanathaminfinity∞
+numberssymbolslanathamgroup,
+numberssymbolsshrdnanTF
+numberssymbolsshrdexponentialE
+numberssymbolsshrdinfinity∞
+numberssymbolsshrdgroup,
+numberssymbolsshrdpercentSign%
+numberssymbolsshrdperMille‰
+numberssymbolsshrdsuperscriptingExponent×
+numberssymbolsshrdplusSign+
+numberssymbolsshrdlist;
+numberssymbolsshrddecimal.
+numberssymbolsshrdminusSign-
+numberssymbolsshrdtimeSeparator:
+numberssymbolsmymrshanplusSign+
+numberssymbolsmymrshansuperscriptingExponent×
+numberssymbolsmymrshanlist;
+numberssymbolsmymrshandecimal.
+numberssymbolsmymrshanminusSign-
+numberssymbolsmymrshantimeSeparator:
+numberssymbolsmymrshannanTF
+numberssymbolsmymrshanexponentialE
+numberssymbolsmymrshaninfinity∞
+numberssymbolsmymrshangroup,
+numberssymbolsmymrshanperMille‰
+numberssymbolsmymrshanpercentSign%
+numberssymbolsguruplusSign+
+numberssymbolsgurusuperscriptingExponent×
+numberssymbolsgurudecimal.
+numberssymbolsgurulist;
+numberssymbolsgurutimeSeparator:
+numberssymbolsguruminusSign-
+numberssymbolsguruinfinity∞
+numberssymbolsgurunanTF
+numberssymbolsguruexponentialE
+numberssymbolsgurugroup,
+numberssymbolsguruperMille‰
+numberssymbolsgurupercentSign%
+numberssymbolstakrplusSign+
+numberssymbolstakrsuperscriptingExponent×
+numberssymbolstakrtimeSeparator:
+numberssymbolstakrminusSign-
+numberssymbolstakrlist;
+numberssymbolstakrdecimal.
+numberssymbolstakrgroup,
+numberssymbolstakrinfinity∞
+numberssymbolstakrnanTF
+numberssymbolstakrexponentialE
+numberssymbolstakrpercentSign%
+numberssymbolstakrperMille‰
+numberssymbolsjavaminusSign-
+numberssymbolsjavatimeSeparator:
+numberssymbolsjavadecimal.
+numberssymbolsjavalist;
+numberssymbolsjavaplusSign+
+numberssymbolsjavasuperscriptingExponent×
+numberssymbolsjavaperMille‰
+numberssymbolsjavapercentSign%
+numberssymbolsjavagroup,
+numberssymbolsjavananTF
+numberssymbolsjavaexponentialE
+numberssymbolsjavainfinity∞
+numberssymbolsvaiiplusSign+
+numberssymbolsvaiisuperscriptingExponent×
+numberssymbolsvaiitimeSeparator:
+numberssymbolsvaiiminusSign-
+numberssymbolsvaiidecimal.
+numberssymbolsvaiilist;
+numberssymbolsvaiigroup,
+numberssymbolsvaiiexponentialE
+numberssymbolsvaiinanTF
+numberssymbolsvaiiinfinity∞
+numberssymbolsvaiipercentSign%
+numberssymbolsvaiiperMille‰
+numberssymbolsgonmplusSign+
+numberssymbolsgonmsuperscriptingExponent×
+numberssymbolsgonmlist;
+numberssymbolsgonmdecimal.
+numberssymbolsgonmtimeSeparator:
+numberssymbolsgonmminusSign-
+numberssymbolsgonmnanTF
+numberssymbolsgonminfinity∞
+numberssymbolsgonmexponentialE
+numberssymbolsgonmgroup,
+numberssymbolsgonmperMille‰
+numberssymbolsgonmpercentSign%
+numberssymbolsdevaperMille‰
+numberssymbolsdevapercentSign%
+numberssymbolsdevagroup,
+numberssymbolsdevainfinity∞
+numberssymbolsdevananTF
+numberssymbolsdevaexponentialE
+numberssymbolsdevaminusSign-
+numberssymbolsdevatimeSeparator:
+numberssymbolsdevadecimal.
+numberssymbolsdevalist;
+numberssymbolsdevasuperscriptingExponent×
+numberssymbolsdevaplusSign+
+numberssymbolsoryaminusSign-
+numberssymbolsoryatimeSeparator:
+numberssymbolsoryadecimal.
+numberssymbolsoryalist;
+numberssymbolsoryasuperscriptingExponent×
+numberssymbolsoryaplusSign+
+numberssymbolsoryapercentSign%
+numberssymbolsoryaperMille‰
+numberssymbolsoryagroup,
+numberssymbolsoryananTF
+numberssymbolsoryaexponentialE
+numberssymbolsoryainfinity∞
+numberssymbolsosmananTF
+numberssymbolsosmainfinity∞
+numberssymbolsosmaexponentialE
+numberssymbolsosmagroup,
+numberssymbolsosmapercentSign%
+numberssymbolsosmaperMille‰
+numberssymbolsosmaplusSign+
+numberssymbolsosmasuperscriptingExponent×
+numberssymbolsosmadecimal.
+numberssymbolsosmalist;
+numberssymbolsosmaminusSign-
+numberssymbolsosmatimeSeparator:
+numberssymbolscakmnanTF
+numberssymbolscakminfinity∞
+numberssymbolscakmexponentialE
+numberssymbolscakmgroup,
+numberssymbolscakmperMille‰
+numberssymbolscakmpercentSign%
+numberssymbolscakmplusSign+
+numberssymbolscakmsuperscriptingExponent×
+numberssymbolscakmdecimal.
+numberssymbolscakmlist;
+numberssymbolscakmminusSign-
+numberssymbolscakmtimeSeparator:
+numberssymbolslaoosuperscriptingExponent×
+numberssymbolslaooplusSign+
+numberssymbolslaoominusSign-
+numberssymbolslaootimeSeparator:
+numberssymbolslaoolist;
+numberssymbolslaoodecimal.
+numberssymbolslaoogroup,
+numberssymbolslaooinfinity∞
+numberssymbolslaoonanTF
+numberssymbolslaooexponentialE
+numberssymbolslaooperMille‰
+numberssymbolslaoopercentSign%
+numberssymbolslepclist;
+numberssymbolslepcdecimal.
+numberssymbolslepcminusSign-
+numberssymbolslepctimeSeparator:
+numberssymbolslepcsuperscriptingExponent×
+numberssymbolslepcplusSign+
+numberssymbolslepcpercentSign%
+numberssymbolslepcperMille‰
+numberssymbolslepcinfinity∞
+numberssymbolslepcnanTF
+numberssymbolslepcexponentialE
+numberssymbolslepcgroup,
+numberssymbolssoradecimal.
+numberssymbolssoralist;
+numberssymbolssoraminusSign-
+numberssymbolssoratimeSeparator:
+numberssymbolssoraplusSign+
+numberssymbolssorasuperscriptingExponent×
+numberssymbolssorapercentSign%
+numberssymbolssoraperMille‰
+numberssymbolssorananTF
+numberssymbolssorainfinity∞
+numberssymbolssoraexponentialE
+numberssymbolssoragroup,
+numberssymbolshanidecexponentialE
+numberssymbolshanidecnanTF
+numberssymbolshanidecinfinity∞
+numberssymbolshanidecgroup,
+numberssymbolshanidecpercentSign%
+numberssymbolshanidecperMille‰
+numberssymbolshanidecsuperscriptingExponent×
+numberssymbolshanidecplusSign+
+numberssymbolshanidecdecimal.
+numberssymbolshanideclist;
+numberssymbolshanidecminusSign-
+numberssymbolshanidectimeSeparator:
+numberssymbolslatnplusSign+
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatntimeSeparator:
+numberssymbolslatnminusSign-
+numberssymbolslatnlist;
+numberssymbolslatndecimal.
+numberssymbolslatngroup,
+numberssymbolslatnnanTF
+numberssymbolslatnexponentialE
+numberssymbolslatninfinity∞
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolsolcklist;
+numberssymbolsolckdecimal.
+numberssymbolsolcktimeSeparator:
+numberssymbolsolckminusSign-
+numberssymbolsolcksuperscriptingExponent×
+numberssymbolsolckplusSign+
+numberssymbolsolckperMille‰
+numberssymbolsolckpercentSign%
+numberssymbolsolckexponentialE
+numberssymbolsolcknanTF
+numberssymbolsolckinfinity∞
+numberssymbolsolckgroup,
+numberssymbolsfullwidesuperscriptingExponent×
+numberssymbolsfullwideplusSign+
+numberssymbolsfullwideminusSign-
+numberssymbolsfullwidetimeSeparator:
+numberssymbolsfullwidelist;
+numberssymbolsfullwidedecimal.
+numberssymbolsfullwidegroup,
+numberssymbolsfullwidenanTF
+numberssymbolsfullwideinfinity∞
+numberssymbolsfullwideexponentialE
+numberssymbolsfullwideperMille‰
+numberssymbolsfullwidepercentSign%
+numberssymbolskalisuperscriptingExponent×
+numberssymbolskaliplusSign+
+numberssymbolskaliminusSign-
+numberssymbolskalitimeSeparator:
+numberssymbolskalidecimal.
+numberssymbolskalilist;
+numberssymbolskaligroup,
+numberssymbolskalinanTF
+numberssymbolskaliexponentialE
+numberssymbolskaliinfinity∞
+numberssymbolskaliperMille‰
+numberssymbolskalipercentSign%
+numberssymbolsbalisuperscriptingExponent×
+numberssymbolsbaliplusSign+
+numberssymbolsbalilist;
+numberssymbolsbalidecimal.
+numberssymbolsbaliminusSign-
+numberssymbolsbalitimeSeparator:
+numberssymbolsbaliexponentialE
+numberssymbolsbalinanTF
+numberssymbolsbaliinfinity∞
+numberssymbolsbaligroup,
+numberssymbolsbalipercentSign%
+numberssymbolsbaliperMille‰
+numberssymbolsbrahminusSign-
+numberssymbolsbrahtimeSeparator:
+numberssymbolsbrahdecimal.
+numberssymbolsbrahlist;
+numberssymbolsbrahplusSign+
+numberssymbolsbrahsuperscriptingExponent×
+numberssymbolsbrahperMille‰
+numberssymbolsbrahpercentSign%
+numberssymbolsbrahgroup,
+numberssymbolsbrahnanTF
+numberssymbolsbrahinfinity∞
+numberssymbolsbrahexponentialE
+numberssymbolsmteisuperscriptingExponent×
+numberssymbolsmteiplusSign+
+numberssymbolsmteitimeSeparator:
+numberssymbolsmteiminusSign-
+numberssymbolsmteidecimal.
+numberssymbolsmteilist;
+numberssymbolsmteigroup,
+numberssymbolsmteiexponentialE
+numberssymbolsmteinanTF
+numberssymbolsmteiinfinity∞
+numberssymbolsmteipercentSign%
+numberssymbolsmteiperMille‰
+numberssymbolschamtimeSeparator:
+numberssymbolschamminusSign-
+numberssymbolschamlist;
+numberssymbolschamdecimal.
+numberssymbolschamsuperscriptingExponent×
+numberssymbolschamplusSign+
+numberssymbolschampercentSign%
+numberssymbolschamperMille‰
+numberssymbolschamgroup,
+numberssymbolschamexponentialE
+numberssymbolschamnanTF
+numberssymbolschaminfinity∞
+numberssymbolsnkooplusSign+
+numberssymbolsnkoosuperscriptingExponent×
+numberssymbolsnkoominusSign-
+numberssymbolsnkootimeSeparator:
+numberssymbolsnkoolist;
+numberssymbolsnkoodecimal.
+numberssymbolsnkoogroup,
+numberssymbolsnkoonanTF
+numberssymbolsnkooexponentialE
+numberssymbolsnkooinfinity∞
+numberssymbolsnkoopercentSign%
+numberssymbolsnkooperMille‰
+numberssymbolsmymrpercentSign%
+numberssymbolsmymrperMille‰
+numberssymbolsmymrgroup,
+numberssymbolsmymrexponentialE
+numberssymbolsmymrnanTF
+numberssymbolsmymrinfinity∞
+numberssymbolsmymrtimeSeparator:
+numberssymbolsmymrminusSign-
+numberssymbolsmymrlist;
+numberssymbolsmymrdecimal.
+numberssymbolsmymrsuperscriptingExponent×
+numberssymbolsmymrplusSign+
+numberssymbolssaurplusSign+
+numberssymbolssaursuperscriptingExponent×
+numberssymbolssaurdecimal.
+numberssymbolssaurlist;
+numberssymbolssaurminusSign-
+numberssymbolssaurtimeSeparator:
+numberssymbolssaurinfinity∞
+numberssymbolssaurnanTF
+numberssymbolssaurexponentialE
+numberssymbolssaurgroup,
+numberssymbolssaurpercentSign%
+numberssymbolssaurperMille‰
+numberssymbolsarabextexponential×۱۰^
+numberssymbolsarabextnanNaN
+numberssymbolsarabextinfinity∞
+numberssymbolsarabextgroup٬
+numberssymbolsarabextperMille؉
+numberssymbolsarabextpercentSign٪
+numberssymbolsarabextplusSign‎+‎
+numberssymbolsarabextsuperscriptingExponent×
+numberssymbolsarabextdecimal٫
+numberssymbolsarabextlist؛
+numberssymbolsarabextminusSign‎-‎
+numberssymbolsarabexttimeSeparator٫
+numberssymbolsarabpercentSign٪؜
+numberssymbolsarabperMille؉
+numberssymbolsarabgroup٬
+numberssymbolsarabnanNaN
+numberssymbolsarabinfinity∞
+numberssymbolsarabexponentialاس
+numberssymbolsarabtimeSeparator:
+numberssymbolsarabminusSign‏-
+numberssymbolsarablist؛
+numberssymbolsarabdecimal٫
+numberssymbolsarabsuperscriptingExponent×
+numberssymbolsarabplusSign‏+
+numberssymbolsgujrtimeSeparator:
+numberssymbolsgujrminusSign-
+numberssymbolsgujrdecimal.
+numberssymbolsgujrlist;
+numberssymbolsgujrsuperscriptingExponent×
+numberssymbolsgujrplusSign+
+numberssymbolsgujrpercentSign%
+numberssymbolsgujrperMille‰
+numberssymbolsgujrgroup,
+numberssymbolsgujrexponentialE
+numberssymbolsgujrnanTF
+numberssymbolsgujrinfinity∞
+numberssymbolsmlyminfinity∞
+numberssymbolsmlymnanTF
+numberssymbolsmlymexponentialE
+numberssymbolsmlymgroup,
+numberssymbolsmlympercentSign%
+numberssymbolsmlymperMille‰
+numberssymbolsmlymplusSign+
+numberssymbolsmlymsuperscriptingExponent×
+numberssymbolsmlymdecimal.
+numberssymbolsmlymlist;
+numberssymbolsmlymminusSign-
+numberssymbolsmlymtimeSeparator:
+numberssymbolslanasuperscriptingExponent×
+numberssymbolslanaplusSign+
+numberssymbolslanaminusSign-
+numberssymbolslanatimeSeparator:
+numberssymbolslanalist;
+numberssymbolslanadecimal.
+numberssymbolslanagroup,
+numberssymbolslanaexponentialE
+numberssymbolslanananTF
+numberssymbolslanainfinity∞
+numberssymbolslanaperMille‰
+numberssymbolslanapercentSign%
+numberssymbolstelulist;
+numberssymbolsteludecimal.
+numberssymbolstelutimeSeparator:
+numberssymbolsteluminusSign-
+numberssymbolstelusuperscriptingExponent×
+numberssymbolsteluplusSign+
+numberssymbolstelupercentSign%
+numberssymbolsteluperMille‰
+numberssymbolstelunanTF
+numberssymbolsteluinfinity∞
+numberssymbolsteluexponentialE
+numberssymbolstelugroup,
+numbersminimumGroupingDigits1
+numbersotherNumberingSystemsnativelatn
+numberscurrenciesSBDstandardSBD
+numberscurrenciesSBDnarrow$
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesFJDnarrow$
+numberscurrenciesFJDstandardFJD
+numberscurrenciesWSTstandardWST
+numberscurrenciesGELvariant₾
+numberscurrenciesVUVstandardVUV
+numberscurrenciesTOPstandardT$
+numberscurrenciesAUDnarrow$
+numberscurrenciesAUDstandardAUD$
+numberscurrenciesPGKstandardPGK
+numberscurrenciesTWDnarrow$
+numberscurrenciesNZDstandardNZD$
+numberscurrenciesNZDnarrow$
+numbersmiscPatternsfullwideatLeast{0}+
+numbersmiscPatternsfullwiderange{0}—{1}
+numbersmiscPatternskaliatLeast{0}+
+numbersmiscPatternskalirange{0}—{1}
+numbersmiscPatternsbaliatLeast{0}+
+numbersmiscPatternsbalirange{0}—{1}
+numbersmiscPatternscakmrange{0}—{1}
+numbersmiscPatternscakmatLeast{0}+
+numbersmiscPatternslepcatLeast{0}+
+numbersmiscPatternslepcrange{0}—{1}
+numbersmiscPatternssoraatLeast{0}+
+numbersmiscPatternssorarange{0}—{1}
+numbersmiscPatternslaooatLeast{0}+
+numbersmiscPatternslaoorange{0}—{1}
+numbersmiscPatternshanidecatLeast{0}+
+numbersmiscPatternshanidecrange{0}—{1}
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnrange{0}—{1}
+numbersmiscPatternsolckrange{0}—{1}
+numbersmiscPatternsolckatLeast{0}+
+numbersmiscPatternschamrange{0}—{1}
+numbersmiscPatternschamatLeast{0}+
+numbersmiscPatternsmymratLeast{0}+
+numbersmiscPatternsmymrrange{0}—{1}
+numbersmiscPatternsnkooatLeast{0}+
+numbersmiscPatternsnkoorange{0}—{1}
+numbersmiscPatternssauratLeast{0}+
+numbersmiscPatternssaurrange{0}—{1}
+numbersmiscPatternsarabatLeast{0}+
+numbersmiscPatternsarabrange{0}—{1}
+numbersmiscPatternsarabextrange{0}—{1}
+numbersmiscPatternsarabextatLeast{0}+
+numbersmiscPatternsgujratLeast{0}+
+numbersmiscPatternsgujrrange{0}—{1}
+numbersmiscPatternslanarange{0}—{1}
+numbersmiscPatternslanaatLeast{0}+
+numbersmiscPatternsmlymrange{0}—{1}
+numbersmiscPatternsmlymatLeast{0}+
+numbersmiscPatternstelurange{0}—{1}
+numbersmiscPatternsteluatLeast{0}+
+numbersmiscPatternsbrahatLeast{0}+
+numbersmiscPatternsbrahrange{0}—{1}
+numbersmiscPatternsmteirange{0}—{1}
+numbersmiscPatternsmteiatLeast{0}+
+numbersmiscPatternstaluatLeast{0}+
+numbersmiscPatternstalurange{0}—{1}
+numbersmiscPatternsthairange{0}—{1}
+numbersmiscPatternsthaiatLeast{0}+
+numbersmiscPatternsmongatLeast{0}+
+numbersmiscPatternsmongrange{0}—{1}
+numbersmiscPatternslanathamatLeast{0}+
+numbersmiscPatternslanathamrange{0}—{1}
+numbersmiscPatternstibtatLeast{0}+
+numbersmiscPatternstibtrange{0}—{1}
+numbersmiscPatternsbengatLeast{0}+
+numbersmiscPatternsbengrange{0}—{1}
+numbersmiscPatternslimbatLeast{0}+
+numbersmiscPatternslimbrange{0}—{1}
+numbersmiscPatternstamldecatLeast{0}+
+numbersmiscPatternstamldecrange{0}—{1}
+numbersmiscPatternskhmratLeast{0}+
+numbersmiscPatternskhmrrange{0}—{1}
+numbersmiscPatternskndaatLeast{0}+
+numbersmiscPatternskndarange{0}—{1}
+numbersmiscPatternssundrange{0}—{1}
+numbersmiscPatternssundatLeast{0}+
+numbersmiscPatternsgururange{0}—{1}
+numbersmiscPatternsguruatLeast{0}+
+numbersmiscPatternstakrrange{0}—{1}
+numbersmiscPatternstakratLeast{0}+
+numbersmiscPatternsjavarange{0}—{1}
+numbersmiscPatternsjavaatLeast{0}+
+numbersmiscPatternsvaiirange{0}—{1}
+numbersmiscPatternsvaiiatLeast{0}+
+numbersmiscPatternsdevaatLeast{0}+
+numbersmiscPatternsdevarange{0}—{1}
+numbersmiscPatternsgonmrange{0}—{1}
+numbersmiscPatternsgonmatLeast{0}+
+numbersmiscPatternsoryarange{0}—{1}
+numbersmiscPatternsoryaatLeast{0}+
+numbersmiscPatternsosmaatLeast{0}+
+numbersmiscPatternsosmarange{0}—{1}
+numbersmiscPatternsshrdrange{0}—{1}
+numbersmiscPatternsshrdatLeast{0}+
+numbersmiscPatternsmymrshanatLeast{0}+
+numbersmiscPatternsmymrshanrange{0}—{1}
+numberscurrencyFormatsgurustandardstandard¤ #,##0.00
+numberscurrencyFormatsjavastandardstandard¤ #,##0.00
+numberscurrencyFormatstakrstandardstandard¤ #,##0.00
+numberscurrencyFormatsvaiistandardstandard¤ #,##0.00
+numberscurrencyFormatsgonmstandardstandard¤ #,##0.00
+numberscurrencyFormatsdevastandardstandard¤ #,##0.00
+numberscurrencyFormatsoryastandardstandard¤ #,##0.00
+numberscurrencyFormatsosmastandardstandard¤ #,##0.00
+numberscurrencyFormatsshrdstandardstandard¤ #,##0.00
+numberscurrencyFormatsmymrshanstandardstandard¤ #,##0.00
+numberscurrencyFormatstalustandardstandard¤ #,##0.00
+numberscurrencyFormatslanathamstandardstandard¤ #,##0.00
+numberscurrencyFormatsthaistandardstandard¤ #,##0.00
+numberscurrencyFormatsmongstandardstandard¤ #,##0.00
+numberscurrencyFormatslimbstandardstandard¤ #,##0.00
+numberscurrencyFormatstibtstandardstandard¤ #,##0.00
+numberscurrencyFormatsbengstandardstandard¤ #,##0.00
+numberscurrencyFormatstamldecstandardstandard¤ #,##0.00
+numberscurrencyFormatskhmrstandardstandard¤ #,##0.00
+numberscurrencyFormatskndastandardstandard¤ #,##0.00
+numberscurrencyFormatssundstandardstandard¤ #,##0.00
+numberscurrencyFormatschamstandardstandard¤ #,##0.00
+numberscurrencyFormatsmymrstandardstandard¤ #,##0.00
+numberscurrencyFormatsnkoostandardstandard¤ #,##0.00
+numberscurrencyFormatssaurstandardstandard¤ #,##0.00
+numberscurrencyFormatsarabstandardstandard#,##0.00 ¤
+numberscurrencyFormatsarabextstandardstandard¤ #,##0.00
+numberscurrencyFormatsgujrstandardstandard¤ #,##0.00
+numberscurrencyFormatsmlymstandardstandard¤ #,##0.00
+numberscurrencyFormatslanastandardstandard¤ #,##0.00
+numberscurrencyFormatstelustandardstandard¤ #,##0.00
+numberscurrencyFormatsbrahstandardstandard¤ #,##0.00
+numberscurrencyFormatsmteistandardstandard¤ #,##0.00
+numberscurrencyFormatsfullwidestandardstandard¤ #,##0.00
+numberscurrencyFormatskalistandardstandard¤ #,##0.00
+numberscurrencyFormatsbalistandardstandard¤ #,##0.00
+numberscurrencyFormatscakmstandardstandard¤ #,##0.00
+numberscurrencyFormatslaoostandardstandard¤ #,##0.00
+numberscurrencyFormatslepcstandardstandard¤ #,##0.00
+numberscurrencyFormatssorastandardstandard¤ #,##0.00
+numberscurrencyFormatshanidecstandardstandard¤ #,##0.00
+numberscurrencyFormatslatnshort100000000000¤ 000P
+numberscurrencyFormatslatnshort10000000000¤ 00P
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnshort100000000000000¤ 000T
+numberscurrencyFormatslatnshort10000¤ 0m
+numberscurrencyFormatslatnshort1000000000¤ 0P
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort100000¤ 0k
+numberscurrencyFormatslatnshort1000¤ 0a
+numberscurrencyFormatslatnshort10000000¤ 00M
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numberscurrencyFormatsolckstandardstandard¤ #,##0.00
+numberspercentFormatsmteistandardstandard#,##0%
+numberspercentFormatsbrahstandardstandard#,##0%
+numberspercentFormatsarabextstandardstandard#,##0%
+numberspercentFormatsgujrstandardstandard#,##0%
+numberspercentFormatslanastandardstandard#,##0%
+numberspercentFormatsarabstandardstandard#,##0 %
+numberspercentFormatsmlymstandardstandard#,##0%
+numberspercentFormatstelustandardstandard#,##0%
+numberspercentFormatschamstandardstandard#,##0%
+numberspercentFormatsmymrstandardstandard#,##0%
+numberspercentFormatsnkoostandardstandard#,##0%
+numberspercentFormatssaurstandardstandard#,##0%
+numberspercentFormatshanidecstandardstandard#,##0%
+numberspercentFormatslatnstandardstandard#,##0%
+numberspercentFormatsolckstandardstandard#,##0%
+numberspercentFormatslaoostandardstandard#,##0%
+numberspercentFormatscakmstandardstandard#,##0%
+numberspercentFormatssorastandardstandard#,##0%
+numberspercentFormatslepcstandardstandard#,##0%
+numberspercentFormatsbalistandardstandard#,##0%
+numberspercentFormatsfullwidestandardstandard#,##0%
+numberspercentFormatskalistandardstandard#,##0%
+numberspercentFormatsmymrshanstandardstandard#,##0%
+numberspercentFormatsshrdstandardstandard#,##0%
+numberspercentFormatsgonmstandardstandard#,##0%
+numberspercentFormatsvaiistandardstandard#,##0%
+numberspercentFormatsdevastandardstandard#,##0%
+numberspercentFormatsosmastandardstandard#,##0%
+numberspercentFormatsoryastandardstandard#,##0%
+numberspercentFormatsgurustandardstandard#,##0%
+numberspercentFormatsjavastandardstandard#,##0%
+numberspercentFormatstakrstandardstandard#,##0%
+numberspercentFormatskhmrstandardstandard#,##0%
+numberspercentFormatskndastandardstandard#,##0%
+numberspercentFormatssundstandardstandard#,##0%
+numberspercentFormatsbengstandardstandard#,##0%
+numberspercentFormatstibtstandardstandard#,##0%
+numberspercentFormatstamldecstandardstandard#,##0%
+numberspercentFormatslimbstandardstandard#,##0%
+numberspercentFormatsthaistandardstandard#,##0%
+numberspercentFormatsmongstandardstandard#,##0%
+numberspercentFormatslanathamstandardstandard#,##0%
+numberspercentFormatstalustandardstandard#,##0%
+numbersscientificFormatschamstandardstandard#E0
+numbersscientificFormatsnkoostandardstandard#E0
+numbersscientificFormatsmymrstandardstandard#E0
+numbersscientificFormatssaurstandardstandard#E0
+numbersscientificFormatsarabstandardstandard#E0
+numbersscientificFormatsgujrstandardstandard#E0
+numbersscientificFormatslanastandardstandard#E0
+numbersscientificFormatsmlymstandardstandard#E0
+numbersscientificFormatsarabextstandardstandard#E0
+numbersscientificFormatstelustandardstandard#E0
+numbersscientificFormatsbrahstandardstandard#E0
+numbersscientificFormatsmteistandardstandard#E0
+numbersscientificFormatsbalistandardstandard#E0
+numbersscientificFormatskalistandardstandard#E0
+numbersscientificFormatsfullwidestandardstandard#E0
+numbersscientificFormatscakmstandardstandard#E0
+numbersscientificFormatslaoostandardstandard#E0
+numbersscientificFormatslepcstandardstandard#E0
+numbersscientificFormatssorastandardstandard#E0
+numbersscientificFormatshanidecstandardstandard#E0
+numbersscientificFormatsolckstandardstandard#E0
+numbersscientificFormatslatnstandardstandard#E0
+numbersscientificFormatsgurustandardstandard#E0
+numbersscientificFormatsjavastandardstandard#E0
+numbersscientificFormatstakrstandardstandard#E0
+numbersscientificFormatsgonmstandardstandard#E0
+numbersscientificFormatsvaiistandardstandard#E0
+numbersscientificFormatsdevastandardstandard#E0
+numbersscientificFormatsoryastandardstandard#E0
+numbersscientificFormatsosmastandardstandard#E0
+numbersscientificFormatsshrdstandardstandard#E0
+numbersscientificFormatsmymrshanstandardstandard#E0
+numbersscientificFormatstalustandardstandard#E0
+numbersscientificFormatsmongstandardstandard#E0
+numbersscientificFormatsthaistandardstandard#E0
+numbersscientificFormatslanathamstandardstandard#E0
+numbersscientificFormatsbengstandardstandard#E0
+numbersscientificFormatstibtstandardstandard#E0
+numbersscientificFormatslimbstandardstandard#E0
+numbersscientificFormatstamldecstandardstandard#E0
+numbersscientificFormatskhmrstandardstandard#E0
+numbersscientificFormatskndastandardstandard#E0
+numbersscientificFormatssundstandardstandard#E0
+numbersdefaultNumberingSystemstandardlatn
+numbersdecimalFormatsarabstandardstandard#,##0.###
+numbersdecimalFormatsarabextstandardstandard#,##0.###
+numbersdecimalFormatsgujrstandardstandard#,##0.###
+numbersdecimalFormatsmlymstandardstandard#,##0.###
+numbersdecimalFormatslanastandardstandard#,##0.###
+numbersdecimalFormatstelustandardstandard#,##0.###
+numbersdecimalFormatschamstandardstandard#,##0.###
+numbersdecimalFormatsmymrstandardstandard#,##0.###
+numbersdecimalFormatsnkoostandardstandard#,##0.###
+numbersdecimalFormatssaurstandardstandard#,##0.###
+numbersdecimalFormatsmteistandardstandard#,##0.###
+numbersdecimalFormatsbrahstandardstandard#,##0.###
+numbersdecimalFormatsfullwidestandardstandard#,##0.###
+numbersdecimalFormatskalistandardstandard#,##0.###
+numbersdecimalFormatsbalistandardstandard#,##0.###
+numbersdecimalFormatshanidecstandardstandard#,##0.###
+numbersdecimalFormatsolckstandardstandard#,##0.###
+numbersdecimalFormatslatnlong1000000000000000 tiliona
+numbersdecimalFormatslatnlong10000000000000 tiliona
+numbersdecimalFormatslatnlong1000000000000 piliona
+numbersdecimalFormatslatnlong100000000000000 piliona
+numbersdecimalFormatslatnlong1000000000 miliona
+numbersdecimalFormatslatnlong10000000 miliona
+numbersdecimalFormatslatnlong10000 afe
+numbersdecimalFormatslatnlong1000000 kilu
+numbersdecimalFormatslatnlong10000000000 piliona
+numbersdecimalFormatslatnlong100000000000 miliona
+numbersdecimalFormatslatnlong100000000000000000 tiliona
+numbersdecimalFormatslatnlong100000 mano
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdecimalFormatslatnshort1000000000000000T
+numbersdecimalFormatslatnshort100000000000000P
+numbersdecimalFormatslatnshort1000000000000P
+numbersdecimalFormatslatnshort10000000000000T
+numbersdecimalFormatslatnshort1000000k
+numbersdecimalFormatslatnshort10000a
+numbersdecimalFormatslatnshort1000000000M
+numbersdecimalFormatslatnshort10000000M
+numbersdecimalFormatslatnshort100000000000000000T
+numbersdecimalFormatslatnshort100000m
+numbersdecimalFormatslatnshort10000000000P
+numbersdecimalFormatslatnshort100000000000M
+numbersdecimalFormatscakmstandardstandard#,##0.###
+numbersdecimalFormatslaoostandardstandard#,##0.###
+numbersdecimalFormatslepcstandardstandard#,##0.###
+numbersdecimalFormatssorastandardstandard#,##0.###
+numbersdecimalFormatsvaiistandardstandard#,##0.###
+numbersdecimalFormatsdevastandardstandard#,##0.###
+numbersdecimalFormatsgonmstandardstandard#,##0.###
+numbersdecimalFormatsoryastandardstandard#,##0.###
+numbersdecimalFormatsosmastandardstandard#,##0.###
+numbersdecimalFormatsjavastandardstandard#,##0.###
+numbersdecimalFormatsgurustandardstandard#,##0.###
+numbersdecimalFormatstakrstandardstandard#,##0.###
+numbersdecimalFormatsmymrshanstandardstandard#,##0.###
+numbersdecimalFormatsshrdstandardstandard#,##0.###
+numbersdecimalFormatsthaistandardstandard#,##0.###
+numbersdecimalFormatsmongstandardstandard#,##0.###
+numbersdecimalFormatslanathamstandardstandard#,##0.###
+numbersdecimalFormatstalustandardstandard#,##0.###
+numbersdecimalFormatskhmrstandardstandard#,##0.###
+numbersdecimalFormatskndastandardstandard#,##0.###
+numbersdecimalFormatssundstandardstandard#,##0.###
+numbersdecimalFormatstibtstandardstandard#,##0.###
+numbersdecimalFormatsbengstandardstandard#,##0.###
+numbersdecimalFormatslimbstandardstandard#,##0.###
+numbersdecimalFormatstamldecstandardstandard#,##0.###
+listPatternsorstart{0}, {1}
+listPatternsormiddle{0}, {1}
+listPatternsor2{0} pē {1}
+listPatternsorend{0}, pē {1}
+listPatternsunitend{0} mo e {1}
+listPatternsunit2{0} mo e {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsunitstart{0}, {1}
+listPatternsunit-shortstart{0}, {1}
+listPatternsunit-short2{0} mo e {1}
+listPatternsunit-shortend{0} mo e {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsstandardstart{0} mo {1}
+listPatternsstandardend{0} mo {1}
+listPatternsstandard2{0} mo {1}
+listPatternsstandardmiddle{0} mo {1}
+listPatternsunit-narrowstart{0} {1}
+listPatternsunit-narrowmiddle{0} {1}
+listPatternsunit-narrowend{0} mo e {1}
+listPatternsunit-narrow2{0} mo e {1}
+listPatternsstandard-shortstart{0} mo {1}
+listPatternsstandard-shortmiddle{0} mo {1}
+listPatternsstandard-short2{0} mo {1}
+listPatternsstandard-shortend{0} mo {1}
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslanguagesqulea fakakuetisa
+localeDisplayNameslanguagessalea fakasanisukuliti
+localeDisplayNameslanguagesdyolea fakaiola-fonī
+localeDisplayNameslanguageschglea fakasakatāi
+localeDisplayNameslanguagesmaslea fakamasai
+localeDisplayNameslanguageskolea fakakōlea
+localeDisplayNameslanguageseulea fakapāsiki
+localeDisplayNameslanguagesugalea fakaʻūkaliti
+localeDisplayNameslanguagestllea fakatakāloka
+localeDisplayNameslanguagesrarlea fakalalotonga
+localeDisplayNameslanguagesbkmlea fakakome
+localeDisplayNameslanguagesagqlea fakaʻakihemi
+localeDisplayNameslanguageslalea fakalatina
+localeDisplayNameslanguageslzhlea fakasiaina-faʻutohi
+localeDisplayNameslanguagesmdelea fakamapa
+localeDisplayNameslanguageszhlea fakasiaina
+localeDisplayNameslanguagesfr_CHlea fakafalanisē-suisilani
+localeDisplayNameslanguagesrwklea fakaluā
+localeDisplayNameslanguagesdvlea fakativehi
+localeDisplayNameslanguagescalea fakakatalani
+localeDisplayNameslanguageskaalea fakakala-kalipaki
+localeDisplayNameslanguagesmadlea fakamatula
+localeDisplayNameslanguagesshilea fakataselihiti
+localeDisplayNameslanguagesdyulea fakatiula
+localeDisplayNameslanguagesdellea fakatelauale
+localeDisplayNameslanguageskllea fakakalaʻalisuti
+localeDisplayNameslanguagesmnlea fakamongokōlia
+localeDisplayNameslanguageslfnlea fakakavakava-foʻou
+localeDisplayNameslanguagesnl_BElea fakahōlani-pelesiume
+localeDisplayNameslanguagesnialea fakaniasi
+localeDisplayNameslanguageskhqlea fakakoila-sīni
+localeDisplayNameslanguagesrajlea fakalasasitani
+localeDisplayNameslanguageshaklea fakasiaina-haka
+localeDisplayNameslanguagesprglea fakapulūsia
+localeDisplayNameslanguagesbfdlea fakapafuti
+localeDisplayNameslanguageslijlea fakalikulia
+localeDisplayNameslanguagesmyvlea fakaʻelisia
+localeDisplayNameslanguageskealea fakakapuvelitianu
+localeDisplayNameslanguagesetlea fakaʻesitōnia
+localeDisplayNameslanguagesltlea fakalituania
+localeDisplayNameslanguagesriflea fakalifi
+localeDisplayNameslanguagestyvlea fakatuvīnia
+localeDisplayNameslanguagestvllea fakatūvalu
+localeDisplayNameslanguagesssylea fakasaho
+localeDisplayNameslanguagesefilea fakaʻefiki
+localeDisplayNameslanguagesbrxlea fakapōto
+localeDisplayNameslanguageswbplea fakaʻuālipili
+localeDisplayNameslanguagesyolea fakaʻiōlupa
+localeDisplayNameslanguagesszllea fakasilesia
+localeDisplayNameslanguagesraplea fakalapanui
+localeDisplayNameslanguagespilea fakapāli
+localeDisplayNameslanguagesibalea fakaʻipani
+localeDisplayNameslanguagesdoilea fakatokili
+localeDisplayNameslanguagespaplea fakapapiamēnito
+localeDisplayNameslanguageskrjlea fakakinaraiā
+localeDisplayNameslanguageshillea fakahilikainoni
+localeDisplayNameslanguageseelea fakaʻeue
+localeDisplayNameslanguagesculea fakasilavia-fakasiasi
+localeDisplayNameslanguagesjalea fakasiapani
+localeDisplayNameslanguagessvlea fakasuēteni
+localeDisplayNameslanguagestklea fakatēkimeni
+localeDisplayNameslanguagescholea fakasokitau
+localeDisplayNameslanguagesndlea fakanetepele-tokelau
+localeDisplayNameslanguageskfolea fakakolo
+localeDisplayNameslanguageseslea fakasipēnisi
+localeDisplayNameslanguagesmullea tuifio
+localeDisplayNameslanguagesanglea fakapālangi-motuʻa
+localeDisplayNameslanguagesstqlea fakafilisia-satēlani
+localeDisplayNameslanguagesiilea fakasisiuani-ī
+localeDisplayNameslanguagesastlea fakaʻasitūlia
+localeDisplayNameslanguageslezlea fakalesikia
+localeDisplayNameslanguagesfillea fakafilipaini
+localeDisplayNameslanguagesen_GBlea fakapilitānia
+localeDisplayNameslanguagesdavlea fakataita
+localeDisplayNameslanguagesmwrlea fakamaliwali
+localeDisplayNameslanguageskaclea fakakasini
+localeDisplayNameslanguagesybblea fakaʻiēmipa
+localeDisplayNameslanguagesgaglea fakakakausi
+localeDisplayNameslanguagessmlea fakahaʻamoa
+localeDisplayNameslanguagesgomlea fakakonikanī-koani
+localeDisplayNameslanguagesavklea fakakotava
+localeDisplayNameslanguagestnlea fakatisuana
+localeDisplayNameslanguagesfalea fakapēsia
+localeDisplayNameslanguagescrhlea fakatoake-kilimea
+localeDisplayNameslanguagesanplea fakaʻangika
+localeDisplayNameslanguagesnelea fakanepali
+localeDisplayNameslanguagesegllea fakaʻemilia
+localeDisplayNameslanguagestttlea fakatati-moselemi
+localeDisplayNameslanguagessyrlea fakasuliāiā
+localeDisplayNameslanguagesnuslea fakanueli
+localeDisplayNameslanguagesaslea fakaʻasamia
+localeDisplayNameslanguageskablea fakakapile
+localeDisplayNameslanguagespamlea fakapamipanga
+localeDisplayNameslanguagessatlea fakasanitali
+localeDisplayNameslanguagescslea fakaseki
+localeDisplayNameslanguageskawlea fakakavi
+localeDisplayNameslanguagesmuslea fakakileki
+localeDisplayNameslanguagesnolea fakanouaē
+localeDisplayNameslanguagesgaylea fakakaio
+localeDisplayNameslanguagesslylea fakaselaiā
+localeDisplayNameslanguagesnrlea fakanetepele-tonga
+localeDisplayNameslanguageszh_Hantlea fakasiaina-tukufakaholo
+localeDisplayNameslanguageszealea fakasēlani
+localeDisplayNameslanguageszenlea fakasenaka
+localeDisplayNameslanguageslmolea fakalomipāti
+localeDisplayNameslanguagessllea fakasolovenia
+localeDisplayNameslanguagesrulea fakalūsia
+localeDisplayNameslanguagespmslea fakapiemonite
+localeDisplayNameslanguagesjgolea fakanikōmipa
+localeDisplayNameslanguagespdtlea fakasiamane-lafalafa
+localeDisplayNameslanguagesmgolea fakametā
+localeDisplayNameslanguagessrlea fakasēpia
+localeDisplayNameslanguagesnnlea fakanoauē-ninosiki
+localeDisplayNameslanguagesyrllea fakaneʻēngatū
+localeDisplayNameslanguagesxmflea fakamingilelia
+localeDisplayNameslanguagesrmlea fakalaito-lomēnia
+localeDisplayNameslanguagestrvlea fakataloko
+localeDisplayNameslanguagessgslea fakasamositia
+localeDisplayNameslanguagesgohlea fakasiamane-hake-motuʻa
+localeDisplayNameslanguagesksblea fakasiamipala
+localeDisplayNameslanguagespslea fakapasitō
+localeDisplayNameslanguagesveclea fakavenēsia
+localeDisplayNameslanguagesquclea fakakīsē
+localeDisplayNameslanguageskrlea fakakanuli
+localeDisplayNameslanguagesluolea fakaluo
+localeDisplayNameslanguagesnvlea fakanavaho
+localeDisplayNameslanguagesadylea fakaʻatikē
+localeDisplayNameslanguagesudmlea fakaʻutimuliti
+localeDisplayNameslanguagesmailea fakamaitili
+localeDisplayNameslanguagesmglea fakamalakasi
+localeDisplayNameslanguagesyaolea fakaʻiao
+localeDisplayNameslanguagesundlea taʻeʻiloa
+localeDisplayNameslanguageskcglea fakatiapi
+localeDisplayNameslanguagesuglea fakaʻuikūli
+localeDisplayNameslanguagessehlea fakasena
+localeDisplayNameslanguagesnovlea fakanoviale
+localeDisplayNameslanguagesholea fakahili-motu
+localeDisplayNameslanguageshalea fakahausa
+localeDisplayNameslanguagesazlea fakaʻasapaisani
+localeDisplayNameslanguagesgbzlea fakateli-soloasitelia
+localeDisplayNameslanguagesarclea fakaʻalāmiti
+localeDisplayNameslanguagesbinlea fakapini
+localeDisplayNameslanguagescchlea fakaʻatisami
+localeDisplayNameslanguagesltglea fakalatakale
+localeDisplayNameslanguagesmoslea fakamosi
+localeDisplayNameslanguageskrclea fakakalate-palakili
+localeDisplayNameslanguagessuklea fakasukuma
+localeDisplayNameslanguagesyavlea fakaʻiangipeni
+localeDisplayNameslanguagesfrolea fakafalanisē-motuʻa
+localeDisplayNameslanguagesvolea fakavolapiki
+localeDisplayNameslanguageslilea fakalimipūliki
+localeDisplayNameslanguagesumblea fakaʻumipūnitu
+localeDisplayNameslanguagesnnhlea fakangiemipōni
+localeDisplayNameslanguagestrlea fakatoake
+localeDisplayNameslanguagesfatlea fakafanitē
+localeDisplayNameslanguagessmslea fakasami-sikolita
+localeDisplayNameslanguagesmgalea fakaʻaelani-lotoloto
+localeDisplayNameslanguagesalnlea fakaʻalapēnia-keki
+localeDisplayNameslanguagesbolea fakatipeti
+localeDisplayNameslanguageslaglea fakalangi
+localeDisplayNameslanguagesluilea fakaluiseno
+localeDisplayNameslanguagescgglea fakakika
+localeDisplayNameslanguagesnaqlea fakanama
+localeDisplayNameslanguagesbarlea fakapavālia
+localeDisplayNameslanguagescadlea fakakato
+localeDisplayNameslanguagessazlea fakasaulasitilā
+localeDisplayNameslanguagesbejlea fakapesa
+localeDisplayNameslanguagessadlea fakasanitaue
+localeDisplayNameslanguagesmiclea fakamikemaki
+localeDisplayNameslanguagesnoglea fakanokai
+localeDisplayNameslanguagesvailea fakavai
+localeDisplayNameslanguagesaeblea fakaʻalepea-tunīsia
+localeDisplayNameslanguagesawalea fakaʻauati
+localeDisplayNameslanguagescpslea fakakapiseno
+localeDisplayNameslanguagescylea fakauēlesi
+localeDisplayNameslanguageskmlea fakakamipōtia
+localeDisplayNameslanguagesseilea fakaseli
+localeDisplayNameslanguagesfrmlea fakafalanisē-lotoloto
+localeDisplayNameslanguagesesulea fakaiūpiki-loloto
+localeDisplayNameslanguagesen_AUlea fakapālangi-ʻaositelēlia
+localeDisplayNameslanguageskpelea fakakepele
+localeDisplayNameslanguageshuplea fakahupa
+localeDisplayNameslanguagesekalea fakaʻekaiuki
+localeDisplayNameslanguagesaselea fakaʻilonga-ʻamelika
+localeDisplayNameslanguagescarlea fakakalipa
+localeDisplayNameslanguagescolea fakakōsika
+localeDisplayNameslanguagesxoglea fakasoka
+localeDisplayNameslanguagesballea fakapalusi
+localeDisplayNameslanguagesmaglea fakamakahi
+localeDisplayNameslanguageslktlea fakalakota
+localeDisplayNameslanguagesmwllea fakamilanitēsi
+localeDisplayNameslanguagesmfelea fakamolisieni
+localeDisplayNameslanguagespcdlea fakapikāti
+localeDisplayNameslanguageschlea fakakamolo
+localeDisplayNameslanguagesmenlea fakamenetī
+localeDisplayNameslanguagesmaflea fakamafa
+localeDisplayNameslanguagesmwvlea fakamenitauai
+localeDisplayNameslanguagesnalea fakanaulu
+localeDisplayNameslanguageszbllea fakaʻilonga-pilisi
+localeDisplayNameslanguagesyilea fakaītisi
+localeDisplayNameslanguagesromlea fakalomani
+localeDisplayNameslanguagesbezlea fakapena
+localeDisplayNameslanguageskdelea fakamakōnite
+localeDisplayNameslanguageskrilea fakakilio
+localeDisplayNameslanguagesmerlea fakamelu
+localeDisplayNameslanguagessolea fakasomali
+localeDisplayNameslanguagesgillea fakakilipasi
+localeDisplayNameslanguagesgvlea fakamangikī
+localeDisplayNameslanguagesbaslea fakapasaʻa
+localeDisplayNameslanguageslozlea fakalosi
+localeDisplayNameslanguagesvelea fakavenitā
+localeDisplayNameslanguagesdsblea fakasōpia-hifo
+localeDisplayNameslanguagespllea fakapolani
+localeDisplayNameslanguagesamlea fakaʻameliki
+localeDisplayNameslanguagesadalea fakaʻatangimē
+localeDisplayNameslanguagesbqilea fakapakitiāli
+localeDisplayNameslanguageslollea fakamongikō
+localeDisplayNameslanguageslrclea fakaluli-tokelau
+localeDisplayNameslanguageszulea fakasulu
+localeDisplayNameslanguagesmohlea fakamohauki
+localeDisplayNameslanguagestelea fakaʻinitia-teluku
+localeDisplayNameslanguagesmnclea fakamanisū
+localeDisplayNameslanguagesnewlea fakaneuali
+localeDisplayNameslanguagestylea fakatahiti
+localeDisplayNameslanguagestkrlea fakasākuli
+localeDisplayNameslanguagesnyolea fakaniolo
+localeDisplayNameslanguagespallea fakapālavi
+localeDisplayNameslanguagesgezlea fakasiʻisi
+localeDisplayNameslanguagessmjlea fakasami-lule
+localeDisplayNameslanguagesgswlea fakasiamane-suisilani
+localeDisplayNameslanguagesfrplea fakaʻāpitano
+localeDisplayNameslanguagesdtplea fakatusuni-loloto
+localeDisplayNameslanguageslahlea fakalānita
+localeDisplayNameslanguageschklea fakatūke
+localeDisplayNameslanguageswolea fakaʻuolofo
+localeDisplayNameslanguagesmdflea fakamokisiā
+localeDisplayNameslanguagesgdlea fakakaeliki
+localeDisplayNameslanguagessmalea fakasami-tonga
+localeDisplayNameslanguagesbalea fakapasikili
+localeDisplayNameslanguageslzzlea fakalasu
+localeDisplayNameslanguagesnglea fakanetongikā
+localeDisplayNameslanguagessslea fakasuati
+localeDisplayNameslanguagessilea fakasingihala
+localeDisplayNameslanguagesarwlea fakaʻalauaki
+localeDisplayNameslanguagesrolea fakalōmenia
+localeDisplayNameslanguagesbaxlea fakapamuni
+localeDisplayNameslanguageskiulea fakakilimanisikī
+localeDisplayNameslanguagesde_CHlea fakasiamane-hake-suisilani
+localeDisplayNameslanguagesmilea fakamauli
+localeDisplayNameslanguageszunlea fakasuni
+localeDisplayNameslanguagessamlea fakasamalitani-ʻalāmiti
+localeDisplayNameslanguageshylea fakaʻāmenia
+localeDisplayNameslanguagesenmlea fakapālangi-lotoloto
+localeDisplayNameslanguagestetlea fakatetumu
+localeDisplayNameslanguageszzalea fakasāsā
+localeDisplayNameslanguagestlylea fakatalisi
+localeDisplayNameslanguageschmlea fakamalī
+localeDisplayNameslanguagescelea fakasese
+localeDisplayNameslanguagesmylea fakapema
+localeDisplayNameslanguagesknlea fakakanata
+localeDisplayNameslanguagesfrclea fakafalanisē-kasuni
+localeDisplayNameslanguageszh_Hanslea fakasiaina-fakafaingofua
+localeDisplayNameslanguagesdinlea fakatingikā
+localeDisplayNameslanguagesarnlea fakamapuse
+localeDisplayNameslanguagesdalea fakatenimaʻake
+localeDisplayNameslanguagesnsolea fakasoto-tokelau
+localeDisplayNameslanguageskrulea fakakuluki
+localeDisplayNameslanguagesiglea fakaʻikipō
+localeDisplayNameslanguagesshulea fakaʻalepea-sāti
+localeDisplayNameslanguagesenlea fakapālangi
+localeDisplayNameslanguagesbbclea fakatōpe-pēteki
+localeDisplayNameslanguagesjvlea fakasava
+localeDisplayNameslanguagesyuelea fakakuangitongi
+localeDisplayNameslanguagesteolea fakateso
+localeDisplayNameslanguagesfflea fakafulā
+localeDisplayNameslanguagesalelea fakaʻaleuti
+localeDisplayNameslanguageskajlea fakasisū
+localeDisplayNameslanguageskbllea fakakanēmipu
+localeDisplayNameslanguagesckblea fakakūtisi-loloto
+localeDisplayNameslanguageskutlea fakakutenai
+localeDisplayNameslanguagesnonlea fakanoauē-motuʻa
+localeDisplayNameslanguagesluylea fakaluīa
+localeDisplayNameslanguagesen_USlea fakapālangi-ʻAmelika
+localeDisplayNameslanguagesanlea fakaʻalakoni
+localeDisplayNameslanguagesbiklea fakapikoli
+localeDisplayNameslanguagesitlea fakaʻītali
+localeDisplayNameslanguagestoglea fakaniasa-tonga
+localeDisplayNameslanguagesganlea fakasiaina-kani
+localeDisplayNameslanguagesarzlea fakaʻalepea-ʻisipite
+localeDisplayNameslanguagesbgnlea fakapalusi-hihifo
+localeDisplayNameslanguagesbmlea fakapamipala
+localeDisplayNameslanguagesinhlea fakaʻingusi
+localeDisplayNameslanguagesbnlea fakapāngilā
+localeDisplayNameslanguageskbdlea fakakapālitia
+localeDisplayNameslanguageskoilea fakakomi-pelemiaki
+localeDisplayNameslanguageskglea fakakongikō
+localeDisplayNameslanguageswaelea fakaʻualiseli
+localeDisplayNameslanguagessw_CDlea fakasuahili-kongikō
+localeDisplayNameslanguagesruelea fakalusini
+localeDisplayNameslanguagesnylea fakanianisa
+localeDisplayNameslanguagestcylea fakatulu
+localeDisplayNameslanguagesgllea fakakalisia
+localeDisplayNameslanguagesdaklea fakatakota
+localeDisplayNameslanguagesnblea fakanouaē-pokimali
+localeDisplayNameslanguagestwlea fakatusuī
+localeDisplayNameslanguagesvrolea fakavōlo
+localeDisplayNameslanguageskrllea fakakalelia
+localeDisplayNameslanguagesbyvlea fakametūmipa
+localeDisplayNameslanguagesmtlea fakamalita
+localeDisplayNameslanguagespcmlea fakanaisilia
+localeDisplayNameslanguagessclea fakasaletīnia
+localeDisplayNameslanguagessmnlea fakasami-ʻinali
+localeDisplayNameslanguagesidlea fakaʻinitōnesia
+localeDisplayNameslanguageses_MXlea fakasipēnisi-mekisikou
+localeDisplayNameslanguagesablea fakaʻapakasia
+localeDisplayNameslanguagesainlea fakaʻainu
+localeDisplayNameslanguagesafhlea fakaʻafilihili
+localeDisplayNameslanguagesdelea fakasiamane
+localeDisplayNameslanguagesveplea fakavepisi
+localeDisplayNameslanguagesjbolea fakalosipani
+localeDisplayNameslanguagesurlea fakaʻūtū
+localeDisplayNameslanguageskilea fakakikuiu
+localeDisplayNameslanguageslulea fakalupa-katanga
+localeDisplayNameslanguagesjamlea fakapālangi-samaika
+localeDisplayNameslanguagestzmlea fakatamasaiti-ʻatilasi-loloto
+localeDisplayNameslanguagessgalea fakaʻaelani-motuʻa
+localeDisplayNameslanguagesrgnlea fakalomaniolo
+localeDisplayNameslanguagesarylea fakaʻalepea-moloko
+localeDisplayNameslanguageskwlea fakakoniuali
+localeDisplayNameslanguagessdclea fakasaletīnia-sasalesu
+localeDisplayNameslanguagesruplea fakaʻalomania
+localeDisplayNameslanguagespt_BRlea fakapotukali-palāsili
+localeDisplayNameslanguagesrootlea fakaʻilonga-tefito
+localeDisplayNameslanguageshrlea fakakuloisia
+localeDisplayNameslanguagesmklea fakamasitōnia
+localeDisplayNameslanguagesbanlea fakapali
+localeDisplayNameslanguagesojlea fakaʻosipiuā
+localeDisplayNameslanguagestilea fakatikilinia
+localeDisplayNameslanguagesdjelea fakatisāma
+localeDisplayNameslanguagesgotlea fakakotika
+localeDisplayNameslanguagesmnilea fakamanipuli
+localeDisplayNameslanguagessglea fakasangikō
+localeDisplayNameslanguagesgaalea fakakā
+localeDisplayNameslanguagesrtmlea fakalotuma
+localeDisplayNameslanguagesksflea fakapafia
+localeDisplayNameslanguagesarqlea fakaʻalepea-ʻaisilia
+localeDisplayNameslanguagesguzlea fakakusī
+localeDisplayNameslanguagesmllea fakaʻinitia-malāialami
+localeDisplayNameslanguagesselea fakasami-tokelau
+localeDisplayNameslanguagesgbalea fakakapaia
+localeDisplayNameslanguagesarlea fakaʻalepea
+localeDisplayNameslanguagesfitlea fakafinilani-tōnetale
+localeDisplayNameslanguagesbbjlea fakakomala
+localeDisplayNameslanguagesjprlea fakaʻiuteo-pēsia
+localeDisplayNameslanguagesbewlea fakapetavi
+localeDisplayNameslanguageskhalea fakakāsi
+localeDisplayNameslanguagesnynlea fakanianikole
+localeDisplayNameslanguagesglklea fakakilaki
+localeDisplayNameslanguagessaslea fakasasaki
+localeDisplayNameslanguagescaylea fakakaiuka
+localeDisplayNameslanguageschnlea fakasinuki-takote
+localeDisplayNameslanguagesmhlea fakamāsolo
+localeDisplayNameslanguageswuulea fakasiaina-uū
+localeDisplayNameslanguagestlilea fakatilingikīte
+localeDisplayNameslanguagesrwlea fakakiniāuanita
+localeDisplayNameslanguageshsnlea fakasiaina-siangi
+localeDisplayNameslanguageshailea fakahaita
+localeDisplayNameslanguagesgonlea fakakonitī
+localeDisplayNameslanguagesfrrlea fakafilisia-tokelau
+localeDisplayNameslanguagesblalea fakasikesikā
+localeDisplayNameslanguagesbpylea fakapisinupilia
+localeDisplayNameslanguagesnymlea fakaniamiuesi
+localeDisplayNameslanguagesdumlea fakahōlani-lotoloto
+localeDisplayNameslanguagestglea fakatāsiki
+localeDisplayNameslanguageskmblea fakakimipūnitu
+localeDisplayNameslanguagesmualea fakamunitangi
+localeDisplayNameslanguagespdclea fakasiamane-penisilivania
+localeDisplayNameslanguagespalea fakapūnusapi
+localeDisplayNameslanguagesvmflea fakafalanikoni-loloto
+localeDisplayNameslanguagessulea fakasunitā
+localeDisplayNameslanguagesslilea fakasilesia-hifo
+localeDisplayNameslanguagesjmclea fakamasame
+localeDisplayNameslanguagesbrhlea fakapalahui
+localeDisplayNameslanguagesguclea fakaʻuaiū
+localeDisplayNameslanguagesfr_CAlea fakafalanisē-kānata
+localeDisplayNameslanguagesfolea fakafaloe
+localeDisplayNameslanguagesfonlea fakafōngi
+localeDisplayNameslanguagesdarlea fakatalakuā
+localeDisplayNameslanguagesfylea fakafilisia-hihifo
+localeDisplayNameslanguageswarlea fakaʻualai
+localeDisplayNameslanguageswallea fakaʻuolaita
+localeDisplayNameslanguagestolea fakatonga
+localeDisplayNameslanguagessuslea fakasusū
+localeDisplayNameslanguagesfrlea fakafalanisē
+localeDisplayNameslanguagesaklea fakaʻakani
+localeDisplayNameslanguagesbelea fakapelalusi
+localeDisplayNameslanguagessahlea fakasaka
+localeDisplayNameslanguagesen_CAlea fakapālangi-kānata
+localeDisplayNameslanguagesbilea fakapisilama
+localeDisplayNameslanguagesdgrlea fakatōkelipi
+localeDisplayNameslanguageszxxʻikai ha lea
+localeDisplayNameslanguageszalea fakasuangi
+localeDisplayNameslanguagessuxlea fakasumelia
+localeDisplayNameslanguagesgrclea fakakalisimuʻa
+localeDisplayNameslanguagessnlea fakasiona
+localeDisplayNameslanguagesgrblea fakakēpo
+localeDisplayNameslanguagesbfqlea fakapataka
+localeDisplayNameslanguagestkllea fakatokelau
+localeDisplayNameslanguageszaplea fakasapoteki
+localeDisplayNameslanguagesegylea fakaʻisipitemuʻa
+localeDisplayNameslanguagessyclea fakasuliāiā-muʻa
+localeDisplayNameslanguagesswblea fakakomolo
+localeDisplayNameslanguagespntlea fakaponitiki
+localeDisplayNameslanguageslglea fakakanita
+localeDisplayNameslanguageshulea fakahungakalia
+localeDisplayNameslanguageshelea fakahepelū
+localeDisplayNameslanguagescvlea fakasuvasa
+localeDisplayNameslanguagesnllea fakahōlani
+localeDisplayNameslanguagesdenlea fakasilave
+localeDisplayNameslanguagesseslea fakakoilapolo-seni
+localeDisplayNameslanguagessdlea fakasīniti
+localeDisplayNameslanguagesavlea fakaʻavaliki
+localeDisplayNameslanguagesakzlea fakaʻalapama
+localeDisplayNameslanguagestiglea fakatikilē
+localeDisplayNameslanguagesscnlea fakasisīlia
+localeDisplayNameslanguagescrlea fakakelī
+localeDisplayNameslanguagesniulea fakaniuē
+localeDisplayNameslanguagesnds_NLlea fakasakisoni-hifo
+localeDisplayNameslanguagestsilea fakatisīmisiani
+localeDisplayNameslanguageskkjlea fakakako
+localeDisplayNameslanguageskamlea fakakamipa
+localeDisplayNameslanguageslblea fakalakisimipeki
+localeDisplayNameslanguagesmslea fakamalei
+localeDisplayNameslanguagespeolea fakapēsia-motuʻa
+localeDisplayNameslanguagesnjolea fakaʻaonasa
+localeDisplayNameslanguagespfllea fakasiamane-palatine
+localeDisplayNameslanguageselxlea fakaʻelamite
+localeDisplayNameslanguagestwqlea fakatasauaki
+localeDisplayNameslanguagessdhlea faka-tonga ‘o Ketesi
+localeDisplayNameslanguagesbslea fakaposinia
+localeDisplayNameslanguagesvotlea fakavotiki
+localeDisplayNameslanguagesiolea fakaʻito
+localeDisplayNameslanguagessidlea fakasitamo
+localeDisplayNameslanguagesponlea fakaponapē
+localeDisplayNameslanguageslamlea fakalamipā
+localeDisplayNameslanguagesgurlea fakafalefale
+localeDisplayNameslanguagesxallea fakakalimiki
+localeDisplayNameslanguagessrrlea fakasēlēle
+localeDisplayNameslanguagesbglea fakapulukalia
+localeDisplayNameslanguagesde_ATlea fakasiamane-ʻaositulia
+localeDisplayNameslanguageslvlea fakalativia
+localeDisplayNameslanguagesextlea fakaʻekisitematula
+localeDisplayNameslanguagesar_001lea fakaʻalepea (māmani)
+localeDisplayNameslanguagesdzlea fakatisōngika
+localeDisplayNameslanguageskylea fakakīsisi
+localeDisplayNameslanguagesklnlea fakakalenisini
+localeDisplayNameslanguagestemlea fakatimenē
+localeDisplayNameslanguagestivlea fakativi
+localeDisplayNameslanguagesbuglea fakapukisi
+localeDisplayNameslanguagesquglea fakakuitisa-simipolaso
+localeDisplayNameslanguagesfilea fakafinilani
+localeDisplayNameslanguageskoklea fakakonikanī
+localeDisplayNameslanguagestrulea fakatuloio
+localeDisplayNameslanguagessrnlea fakasulanane-tongikō
+localeDisplayNameslanguagessoglea fakasokitiana
+localeDisplayNameslanguageswaslea fakaʻuasiō
+localeDisplayNameslanguagessnklea fakasoninekē
+localeDisplayNameslanguagesasalea fakaʻasu
+localeDisplayNameslanguagessaqlea fakasamipulu
+localeDisplayNameslanguagesbholea fakaposipuli
+localeDisplayNameslanguageskklea fakakasaki
+localeDisplayNameslanguagespaulea fakapalau
+localeDisplayNameslanguagestumlea fakatumepuka
+localeDisplayNameslanguagesdualea fakatuala
+localeDisplayNameslanguagesgwilea fakaʻuīsini
+localeDisplayNameslanguagesuklea fakaʻūkalaʻine
+localeDisplayNameslanguagesfrslea fakafilisia-hahake
+localeDisplayNameslanguagesaelea fakaʻavesitani
+localeDisplayNameslanguagesbualea fakapuliati
+localeDisplayNameslanguageskulea fakakulitī
+localeDisplayNameslanguageshmnlea fakamōngi
+localeDisplayNameslanguagesachlea fakaʻakoli
+localeDisplayNameslanguagesnwclea fakaneuali-motuʻa
+localeDisplayNameslanguageshtlea fakahaiti
+localeDisplayNameslanguagesbrlea fakapeletoni
+localeDisplayNameslanguagesnanlea fakasiaina-mininani
+localeDisplayNameslanguagesruglea fakaloviana
+localeDisplayNameslanguageskoslea fakakosilae
+localeDisplayNameslanguagesarolea fakaʻalaona
+localeDisplayNameslanguagesttlea fakatatale
+localeDisplayNameslanguagescsblea fakakasiupia
+localeDisplayNameslanguagesjutlea fakaʻiutilani
+localeDisplayNameslanguageskslea fakakāsimila
+localeDisplayNameslanguagessbplea fakasangu
+localeDisplayNameslanguagesstlea fakasoto-tonga
+localeDisplayNameslanguagesmrlea fakamalati
+localeDisplayNameslanguagesladlea fakalatino
+localeDisplayNameslanguagesuzlea fakaʻusipeki
+localeDisplayNameslanguageskholea fakakōtani
+localeDisplayNameslanguagesomlea fakaʻolomo
+localeDisplayNameslanguagesjrblea fakaʻiuteo-ʻalepea
+localeDisplayNameslanguagesnmglea fakakuasio
+localeDisplayNameslanguagesotalea fakatoake-ʻotomani
+localeDisplayNameslanguagesxhlea fakatōsa
+localeDisplayNameslanguagesgorlea fakakolonitalo
+localeDisplayNameslanguagesptlea fakapotukali
+localeDisplayNameslanguagesndslea fakasiamane-hifo
+localeDisplayNameslanguagescrslea fakaseselua-falanisē
+localeDisplayNameslanguagesialea fakavahaʻalea
+localeDisplayNameslanguagestslea fakatisonga
+localeDisplayNameslanguagescoplea fakakopitika
+localeDisplayNameslanguagesluslea fakamiso
+localeDisplayNameslanguageskhwlea fakakouali
+localeDisplayNameslanguagesmyelea fakamiene
+localeDisplayNameslanguagestsdlea fakasakōnia
+localeDisplayNameslanguageskenlea fakakeniangi
+localeDisplayNameslanguageslualea fakalupa-lulua
+localeDisplayNameslanguagesmrjlea fakamali-hihifo
+localeDisplayNameslanguagesnzilea fakanesima
+localeDisplayNameslanguageses_419lea fakasipēnisi lātini-ʻamelika
+localeDisplayNameslanguageswalea fakaʻualonia
+localeDisplayNameslanguagesvlslea fakavelamingi-hihifo
+localeDisplayNameslanguagesprolea fakapolovenisi-motuʻa
+localeDisplayNameslanguagesbralea fakapalai
+localeDisplayNameslanguagesbynlea fakapilini
+localeDisplayNameslanguagesaylea fakaʻaimala
+localeDisplayNameslanguagesizhlea fakaʻingiliani
+localeDisplayNameslanguagesorlea faka-ʻotia
+localeDisplayNameslanguagesgnlea fakakualani
+localeDisplayNameslanguagessbalea fakangāmipai
+localeDisplayNameslanguageshzlea fakahelelo
+localeDisplayNameslanguagesfanlea fakafangi
+localeDisplayNameslanguagesacelea fakaʻatisē
+localeDisplayNameslanguageslolea fakalau
+localeDisplayNameslanguagesoclea fakaʻokitane
+localeDisplayNameslanguagesoslea fakaʻosetiki
+localeDisplayNameslanguagesro_MDlea fakamolitāvia
+localeDisplayNameslanguagesielea fakavahaʻalingikē
+localeDisplayNameslanguageskjlea fakakuaniama
+localeDisplayNameslanguagesosalea fakaʻosēse
+localeDisplayNameslanguagesrnlea fakaluaniti
+localeDisplayNameslanguagesnaplea fakanapoletano
+localeDisplayNameslanguagesphnlea fakafoinikia
+localeDisplayNameslanguagesnqolea fakanikō
+localeDisplayNameslanguagesceblea fakasepuano
+localeDisplayNameslanguagesfjlea fakafisi
+localeDisplayNameslanguagesthlea fakatailani
+localeDisplayNameslanguagesellea fakakalisi
+localeDisplayNameslanguagesakklea fakaʻakatia
+localeDisplayNameslanguagesbsslea fakaʻakōse
+localeDisplayNameslanguageskshlea fakakolongia
+localeDisplayNameslanguageskvlea fakakomi
+localeDisplayNameslanguagesaalea fakaʻafāla
+localeDisplayNameslanguagespaglea fakapangasinani
+localeDisplayNameslanguagesgalea fakaʻaelani
+localeDisplayNameslanguagesgmhlea fakasiamane-hake-lotoloto
+localeDisplayNameslanguagesaflea fakaʻafilikana
+localeDisplayNameslanguagesgulea fakakutalati
+localeDisplayNameslanguagesmghlea fakamakūa-meʻeto
+localeDisplayNameslanguagesmznlea fakamasanitelani
+localeDisplayNameslanguageskumlea fakakumiki
+localeDisplayNameslanguagesaltlea fakaʻalitai-tonga
+localeDisplayNameslanguagesshlea fakakuloisia-sēpia
+localeDisplayNameslanguagesvilea fakavietinami
+localeDisplayNameslanguagesshnlea fakasiani
+localeDisplayNameslanguagesilolea fakaʻiloko
+localeDisplayNameslanguagesmanlea fakamanitīngiko
+localeDisplayNameslanguagesebulea fakaʻemipū
+localeDisplayNameslanguagesibblea fakaʻipipio
+localeDisplayNameslanguageshitlea fakahitite
+localeDisplayNameslanguagesbumlea fakapulu
+localeDisplayNameslanguageszghlea fakatamasaiti-moloko
+localeDisplayNameslanguagestpilea fakatoki-pisini
+localeDisplayNameslanguagesseelea fakaseneka
+localeDisplayNameslanguageskalea fakaseōsia
+localeDisplayNameslanguageschrlea fakaselokī
+localeDisplayNameslanguagesmdrlea fakamanetali
+localeDisplayNameslanguagestlhlea fakakilingoni
+localeDisplayNameslanguageschblea fakasīpisa
+localeDisplayNameslanguagestalea fakatamili
+localeDisplayNameslanguagesscolea fakasikotilani
+localeDisplayNameslanguagessklea fakasolāvaki
+localeDisplayNameslanguagessqlea fakaʻalapēnia
+localeDisplayNameslanguageseolea fakaʻesipulanito
+localeDisplayNameslanguagesislea fakaʻaisilani
+localeDisplayNameslanguagesiulea fakaʻinuketituti
+localeDisplayNameslanguagesfurlea fakafulilāni
+localeDisplayNameslanguagesyaplea fakaʻiapi
+localeDisplayNameslanguagesvunlea fakavūniso
+localeDisplayNameslanguagespt_PTlea fakapotukali-ʻiulope
+localeDisplayNameslanguageshiflea fakahinitī-fisi
+localeDisplayNameslanguagesewolea fakaʻeuōnito
+localeDisplayNameslanguageshilea fakahinitī
+localeDisplayNameslanguagesdzglea fakatasaka
+localeDisplayNameslanguageslnlea lingikala
+localeDisplayNameslanguagesbemlea fakapēmipa
+localeDisplayNameslanguagessellea fakaselikupi
+localeDisplayNameslanguagesarplea fakaʻalapaho
+localeDisplayNameslanguagesroflea fakalomipō
+localeDisplayNameslanguageschylea fakaseiene
+localeDisplayNameslanguagesiklea fakaʻinupiaki
+localeDisplayNameslanguagestmhlea fakatamasieki
+localeDisplayNameslanguagesterlea fakateleno
+localeDisplayNameslanguageshsblea fakasōpia-hake
+localeDisplayNameslanguageshawlea fakahauaiʻi
+localeDisplayNameslanguagesbjnlea fakapanisali
+localeDisplayNameslanguageslivlea fakalivonia
+localeDisplayNameslanguageslunlea fakalunitā
+localeDisplayNameslanguagesmaklea fakamakasali
+localeDisplayNameslanguagesminlea fakaminangikapau
+localeDisplayNameslanguageses_ESlea fakasipēnisi-‘iulope
+localeDisplayNameslanguagesswlea fakasuahili
+localeDisplayNameslanguageskgplea fakakaingangi
+localeDisplayNameslanguageschplea fakasipeuiani
+localeDisplayNamesscriptsSgnwtohinima fakaʻilonga-tohi
+localeDisplayNamesscriptsVisptohinima fakafonētiki-hāmai
+localeDisplayNamesscriptsArmitohinima fakaʻalāmiti-ʻemipaea
+localeDisplayNamesscriptsElbatohinima fakaʻelepasani
+localeDisplayNamesscriptsMerctohinima fakameloue-heihei
+localeDisplayNamesscriptsDevatohinima fakaʻinitia-tevanākalī
+localeDisplayNamesscriptsHiratohinima fakasiapani-hilakana
+localeDisplayNamesscriptsOsgetohinima fakaʻosase
+localeDisplayNamesscriptsPauctohinima fakapausinihau
+localeDisplayNamesscriptsHanbtohinima fakahānipi
+localeDisplayNamesscriptsXsuxtohinima fakamataʻingahau-sumelo-akatia
+localeDisplayNamesscriptsTavttohinima fakatai-vieti
+localeDisplayNamesscriptsJamotohinima fakasamo
+localeDisplayNamesscriptsPalmtohinima fakapalamilene
+localeDisplayNamesscriptsZzzztohinima taʻeʻiloa
+localeDisplayNamesscriptsSamrtohinima fakasamalitane
+localeDisplayNamesscriptsZinhtohinima hokosi
+localeDisplayNamesscriptsRunrtohinima fakaluniki
+localeDisplayNamesscriptsGujrtohinima fakaʻinitia-kutalati
+localeDisplayNamesscriptsKpeltohinima fakakepele
+localeDisplayNamesscriptsKthitohinima fakakaiatī
+localeDisplayNamesscriptsGurutohinima fakakūmuki
+localeDisplayNamesscriptsSyretohinima fakasuliāiā-ʻesitelangelo
+localeDisplayNamesscriptsCanstohinima fakatupuʻi-kānata-fakatahataha
+localeDisplayNamesscriptsJavatohinima fakasava
+localeDisplayNamesscriptsMoontohinima laukonga ki he kui-māhina
+localeDisplayNamesscriptsKoretohinima fakakōlea
+localeDisplayNamesscriptsTangtohinima fakatanguti
+localeDisplayNamesscriptsSaurtohinima fakasaulasitā
+localeDisplayNamesscriptsHluwtohinima tongitapu-fakaʻanatolia
+localeDisplayNamesscriptsHangtohinima fakakōlea-hāngūlu
+localeDisplayNamesscriptsBasstohinima fakapasa-vā
+localeDisplayNamesscriptsCakmtohinima fakasakimā
+localeDisplayNamesscriptsBuhdtohinima fakapuhiti
+localeDisplayNamesscriptsBhkstohinima fakapaikisuki
+localeDisplayNamesscriptsRorotohinima fakalongolongo
+localeDisplayNamesscriptsThaitohinima fakatailani
+localeDisplayNamesscriptsHungtohinima fakahungakalia-motuʻa
+localeDisplayNamesscriptsPhlptohinima fakapālavi-saame
+localeDisplayNamesscriptsKhojtohinima fakakosikī
+localeDisplayNamesscriptsLatgtohinima fakalatina-kaeliki
+localeDisplayNamesscriptsMandtohinima fakamanitaea
+localeDisplayNamesscriptsLyditohinima fakalītia
+localeDisplayNamesscriptsHanotohinima fakahanunōʻo
+localeDisplayNamesscriptsZanbtohinima fakasanapasā-tapafā
+localeDisplayNamesscriptsSoratohinima fakasolasomipengi
+localeDisplayNamesscriptsCyrstohinima fakalūsia-lotu-motuʻa
+localeDisplayNamesscriptsPhagtohinima fakapākisipā
+localeDisplayNamesscriptsMayatohinima tongitapu fakamaia
+localeDisplayNamesscriptsYiiitohinima fakaīī
+localeDisplayNamesscriptsMteitohinima fakametei-maieki
+localeDisplayNamesscriptsWaratohinima fakavalangi-kisitī
+localeDisplayNamesscriptsSyrctohinima fakasuliāiā
+localeDisplayNamesscriptsTglgtohinima fakatakaloka
+localeDisplayNamesscriptsEthitohinima fakaʻītiōpia
+localeDisplayNamesscriptsTelutohinima fakaʻinitia-teluku
+localeDisplayNamesscriptsTaletohinima fakatai-lue
+localeDisplayNamesscriptsSaratohinima fakasalati
+localeDisplayNamesscriptsLycitohinima fakalīsia
+localeDisplayNamesscriptsJurctohinima fakaiūkeni
+localeDisplayNamesscriptsMulttohinima fakamulitani
+localeDisplayNamesscriptsPermtohinima fakapēmi-motuʻa
+localeDisplayNamesscriptsZsyetohinima fakatātā
+localeDisplayNamesscriptsZxxxtohinima taʻetohitohiʻi
+localeDisplayNamesscriptsHanstohinima fakasiaina-fakafaingofua
+localeDisplayNamesscriptsBengtohinima fakapāngilā
+localeDisplayNamesscriptsModitohinima fakamotī
+localeDisplayNamesscriptsOsmatohinima fakaʻosimānia
+localeDisplayNamesscriptsBraitohinima laukonga ki he kui
+localeDisplayNamesscriptsPhlvtohinima fakapālavi-tohi
+localeDisplayNamesscriptsCopttohinima fakakopitika
+localeDisplayNamesscriptsCaritohinima fakakali
+localeDisplayNamesscriptsAfaktohinima fakaʻafaka
+localeDisplayNamesscriptsAdlmtohinima fakaʻatilami
+localeDisplayNamesscriptsOrkhtohinima fakaʻolikoni
+localeDisplayNamesscriptsSyrntohinima fakasuliāiā-hahake
+localeDisplayNamesscriptsPrtitohinima fakapātia-tongi
+localeDisplayNamesscriptsKanatohinima fakasiapani-katakana
+localeDisplayNamesscriptsEgyhtohinima hielatika-fakaʻisipite
+localeDisplayNamesscriptsPhnxtohinima fakafoinikia
+localeDisplayNamesscriptsXpeotohinima fakapēsiamuʻa
+localeDisplayNamesscriptsCprttohinima fakasaipalesi
+localeDisplayNamesscriptsLinatohinima fakalinea-A
+localeDisplayNamesscriptsMahjtohinima fakamahasani
+localeDisplayNamesscriptsOgamtohinima fakaʻokami
+localeDisplayNamesscriptsMarctohinima fakamaʻake
+localeDisplayNamesscriptsTfngtohinima fakatifināki
+localeDisplayNamesscriptsSindtohinima fakakutauāti
+localeDisplayNamesscriptsPlrdtohinima fakafonētiki-polāti
+localeDisplayNamesscriptsEgyptohinima tongitapu-fakaʻisipite
+localeDisplayNamesscriptsChertohinima fakaselokī
+localeDisplayNamesscriptsIndstohinima fakaʻinitusi
+localeDisplayNamesscriptsMlymtohinima fakaʻinitia-malāialami
+localeDisplayNamesscriptsNewatohinima fakaneua
+localeDisplayNamesscriptsNarbtohinima fakaʻalepea-tokelau-motuʻa
+localeDisplayNamesscriptsChamtohinima fakasami
+localeDisplayNamesscriptsKhartohinima fakakalositī
+localeDisplayNamesscriptsTirhtohinima fakatīhuta
+localeDisplayNamesscriptsHmngtohinima fakapahaumongi
+localeDisplayNamesscriptsZyyytohinima fakatatau
+localeDisplayNamesscriptsArmntohinima fakaʻāmenia
+localeDisplayNamesscriptsNshutohinima fakanasiū
+localeDisplayNamesscriptsWoletohinima fakauoleai
+localeDisplayNamesscriptsTamltohinima fakatamili
+localeDisplayNamesscriptsBlistohinima fakaʻilonga-pilisi
+localeDisplayNamesscriptsDupltohinimanounou fakatupoloiē
+localeDisplayNamesscriptsBamutohinima fakapamumi
+localeDisplayNamesscriptsAhomtohinima fakaʻahomi
+localeDisplayNamesscriptsAghbtohinima fakaʻalapēnia-kaukasia
+localeDisplayNamesscriptsMendtohinima fakamēniti
+localeDisplayNamesscriptsHanitohinima fakasiaina
+localeDisplayNamesscriptsTagbtohinima fakatakipaneuā
+localeDisplayNamesscriptsKndatohinima fakaʻinitia-kanata
+localeDisplayNamesscriptsLomatohinima fakaloma
+localeDisplayNamesscriptsNkgbtohinima fakanati-sepa
+localeDisplayNamesscriptsItaltohinima fakaʻītali-motuʻa
+localeDisplayNamesscriptsBugitohinima fakapukisi
+localeDisplayNamesscriptsUgartohinima fakaʻūkaliti
+localeDisplayNamesscriptsSarbtohinima fakaʻalepea-tonga-motuʻa
+localeDisplayNamesscriptsCirttohinima fakakīliti
+localeDisplayNamesscriptsVaiitohinima fakavai
+localeDisplayNamesscriptsTakrtohinima fakatakili
+localeDisplayNamesscriptsLimbtohinima fakalimipū
+localeDisplayNamesscriptsOryatohinima fakaʻotia
+localeDisplayNamesscriptsPhlitohinima fakapālavi-tongi
+localeDisplayNamesscriptsHatrtohinima fakahatalani
+localeDisplayNamesscriptsThaatohinima fakatāna
+localeDisplayNamesscriptsShrdtohinima fakasiālatā
+localeDisplayNamesscriptsCyrltohinima fakalūsia
+localeDisplayNamesscriptsHrkttohinima fakasilapa-siapani
+localeDisplayNamesscriptsLatftohinima fakalatina-falakituli
+localeDisplayNamesscriptsLatntohinima fakalatina
+localeDisplayNamesscriptsJpantohinima fakasiapani
+localeDisplayNamesscriptsSinhtohinima fakasingihala
+localeDisplayNamesscriptsGeortohinima fakaseōsia
+localeDisplayNamesscriptsMrootohinima fakamolō
+localeDisplayNamesscriptsKhmrtohinima fakakamipōtia
+localeDisplayNamesscriptsOlcktohinima fakaʻolisiki
+localeDisplayNamesscriptsGlagtohinima fakakalakoliti
+localeDisplayNamesscriptsSundtohinima fakasunitā
+localeDisplayNamesscriptsSoyotohinima fakasoiōmipo
+localeDisplayNamesscriptsAvsttohinima fakaʻavesitani
+localeDisplayNamesscriptsArabtohinima fakaʻalepea
+localeDisplayNamesscriptsLanatohinima fakalana
+localeDisplayNamesscriptsNbattohinima fakanapatea
+localeDisplayNamesscriptsBrahtohinima fakapalāmī
+localeDisplayNamesscriptsSyrjtohinima fakasuliāiā-hihifo
+localeDisplayNamesscriptsRjngtohinima fakalesiangi
+localeDisplayNamesscriptsEgydtohinima temotika-fakaʻisipite
+localeDisplayNamesscriptsSiddtohinima fakasititami
+localeDisplayNamesscriptsHanttohinima fakasiaina-tukufakaholo
+localeDisplayNamesscriptsKalitohinima fakakaialī
+localeDisplayNamesscriptsLinbtohinima fakalinea-P
+localeDisplayNamesscriptsLisutohinima fakafalāse
+localeDisplayNamesscriptsManitohinima fakamanikaea
+localeDisplayNamesscriptsDsrttohinima fakateseleti
+localeDisplayNamesscriptsZsymtohinima fakaʻilonga
+localeDisplayNamesscriptsTibttohinima fakataipeti
+localeDisplayNamesscriptsHebrtohinima fakahepelū
+localeDisplayNamesscriptsBalitohinima fakapali
+localeDisplayNamesscriptsGothtohinima fakakotika
+localeDisplayNamesscriptsGonmtohinima fakakōniti-masalami
+localeDisplayNamesscriptsBopotohinima fakapopomofo
+localeDisplayNamesscriptsLaootohinima fakalau
+localeDisplayNamesscriptsMerotohinima fakameloue
+localeDisplayNamesscriptsBatktohinima fakapātaki
+localeDisplayNamesscriptsNkootohinima fakanikō
+localeDisplayNamesscriptsSylotohinima fakasailoti-nakili
+localeDisplayNamesscriptsGrektohinima fakakalisi
+localeDisplayNamesscriptsMongtohinima fakamongokōlia
+localeDisplayNamesscriptsMymrtohinima fakapema
+localeDisplayNamesscriptsTengtohinima fakatengiuali
+localeDisplayNamesscriptsZmthtohinima fakamatematika
+localeDisplayNamesscriptsShawtohinima fakasiavi
+localeDisplayNamesscriptsTalutohinima fakatai-lue-foʻou
+localeDisplayNamesscriptsGrantohinima fakasilanitā
+localeDisplayNamesscriptsLepctohinima fakalepasā
+localeDisplayNamesscriptsGeoktohinima fakakutusuli-seōsia
+localeDisplayNamescodePatternsterritoryFeituʻu: {0}
+localeDisplayNamescodePatternsscriptTohinima: {0}
+localeDisplayNamescodePatternslanguageLea: {0}
+localeDisplayNamesvariantsSCOTLANDlea fakasikotilani fakasīpinga
+localeDisplayNamesvariantsFONIPAfonētiki IPA
+localeDisplayNamesvariantsHEPBURNmataʻitohi liliu fakahepipūnu
+localeDisplayNamesvariantsNJIVAlea fakafeituʻu fakangiva
+localeDisplayNamesvariantsBALANKAlea fakafeituʻu fakapalanika ʻo Anii
+localeDisplayNamesvariantsUCCORsipelatotonu fakatahataha
+localeDisplayNamesvariantsOSOJSlea fakafeituʻu fakaʻoseako
+localeDisplayNamesvariants1606NICTlea fakafalanisē fakaloto-tōmui
+localeDisplayNamesvariants1959ACADfakaako
+localeDisplayNamesvariantsEMODENGlea fakapilitānia fakonopooni-tōmuʻa
+localeDisplayNamesvariantsMONOTONfasiʻalea taha
+localeDisplayNamesvariantsBAKU1926motuʻalea fakalatina fakatahataha ki Toake
+localeDisplayNamesvariantsBARLAlea fakafeituʻu fakapālavenito-pupunga
+localeDisplayNamesvariantsKSCORsipelatotonu fakasīpinga
+localeDisplayNamesvariantsMETELKOmotuʻalea fakametēliko
+localeDisplayNamesvariantsKKCORsipelatotonu fakatatau
+localeDisplayNamesvariantsNULIKlea fakavolapuki fakaonopooni
+localeDisplayNamesvariantsPINYINmataʻitohi liliu fakapīnīni
+localeDisplayNamesvariants1694ACADlea fakafalanisē fakaonopooni-tōmuʻa
+localeDisplayNamesvariantsBOHORICmotuʻalea fakapoholisi
+localeDisplayNamesvariantsCOLB1945sipelatotonu ʻoe lea fakapotukali-palāsili he 1945
+localeDisplayNamesvariantsEKAVSKlea fakasēpia (puʻaki fakaʻekavia)
+localeDisplayNamesvariantsNEDISlea fakafeituʻu fakanatisone
+localeDisplayNamesvariantsWADEGILEmataʻitohi liliu fakauate-kilesi
+localeDisplayNamesvariantsPOSIXfakakomipiuta
+localeDisplayNamesvariantsDAJNKOmotuʻalea fakatainikō
+localeDisplayNamesvariantsFONUPAfonētiki UPA
+localeDisplayNamesvariants1994sipelatotonu fakasīpinga ʻo Lesia
+localeDisplayNamesvariantsAREVMDAlea fakaʻāmenia-hihifo
+localeDisplayNamesvariantsAREVELAlea fakaʻāmenia-hahake
+localeDisplayNamesvariantsIJEKAVSKlea fakasēpia (puʻaki fakaʻisekavia)
+localeDisplayNamesvariantsROZAJlea fakafeituʻu fakalesia
+localeDisplayNamesvariantsUCRCORsipelatotonu fakatahataha kuo sivi
+localeDisplayNamesvariantsTARASKsipelatotunu fakatalasikievika
+localeDisplayNamesvariantsBOONTlea fakapunavila
+localeDisplayNamesvariantsPOLYTONfasiʻalea lahi
+localeDisplayNamesvariants1901sipelatotonu ʻoe lea fakasiamane tukufakaholo
+localeDisplayNamesvariantsNDYUKAlea fakafeituʻu fakanitiuka
+localeDisplayNamesvariantsUNIFONmotuʻalea fonētiki ʻo Unifoni
+localeDisplayNamesvariantsSOLBAlea fakafeituʻu fakasolipika
+localeDisplayNamesvariantsPAMAKAlea fakafeituʻu fakapamaka
+localeDisplayNamesvariantsOXENDICTsipelatotonu fakapilitānia tikisinale fakaʻokisifooti
+localeDisplayNamesvariantsABL1943sipelatotonu fokotuʻu 1943
+localeDisplayNamesvariantsLIPAWlea fakafeituʻu fakalipovasi ʻo Lesia
+localeDisplayNamesvariants1996sipelatotonu ʻoe lea fakasiamane 1996
+localeDisplayNamesvariantsRIGIKlea fakavolapuki motuʻa
+localeDisplayNamesvariantsREVISEDsipelatotonu kuo sivi
+localeDisplayNamesvariantsALUKUlea fakafeituʻu fakaʻaluku
+localeDisplayNamesvariantsVALENCIAlea fakavalenisia
+localeDisplayNamesvariantsSOTAVlea fakafeituʻu fakasotavenito-pupunga
+localeDisplayNamesvariantsAO1990sipelatotonu ʻoe lea fakapotukali he 1990
+localeDisplayNamesvariantsBISKElea fakafeituʻu fakapila mo fakasā-siōsio
+localeDisplayNamescharactersparseLenientsnumberstricter,[,٫︐﹐，]
+localeDisplayNamescharactersparseLenientsnumberstricter.[.․﹒．｡]
+localeDisplayNamescharactersparseLenientsnumberlenient,[,،٫、︐︑﹐﹑，､]
+localeDisplayNamescharactersparseLenientsnumberlenient+[+⁺₊➕﬩﹢＋]
+localeDisplayNamescharactersparseLenientsnumberlenient-[\-‒⁻₋−➖﹣－]
+localeDisplayNamescharactersparseLenientsdatelenient:[\:∶]
+localeDisplayNamescharactersparseLenientsdatelenient-[\--/]
+localeDisplayNamescharactersparseLenientsgenerallenient₹[₨₹{Rp}{Rs}]
+localeDisplayNamescharactersparseLenientsgenerallenient.[.․。︒﹒．｡]
+localeDisplayNamescharactersparseLenientsgenerallenient$[\$﹩＄$]
+localeDisplayNamescharactersparseLenientsgenerallenient£[£₤]
+localeDisplayNamesterritoriesDOLepupelika Tominika
+localeDisplayNamesterritoriesTGToko
+localeDisplayNamesterritoriesPLPolani
+localeDisplayNamesterritoriesPAPanamā
+localeDisplayNamesterritoriesACMotu ʻAsenisini
+localeDisplayNamesterritoriesAIAnikuila
+localeDisplayNamesterritoriesGLKulinilani
+localeDisplayNamesterritories419ʻAmelika fakalatina
+localeDisplayNamesterritoriesASHaʻamoa ʻAmelika
+localeDisplayNamesterritoriesARʻAsenitina
+localeDisplayNamesterritoriesUSʻAmelika
+localeDisplayNamesterritoriesTMTūkimenisitani
+localeDisplayNamesterritoriesVAKolo Vatikani
+localeDisplayNamesterritories002ʻAfilika
+localeDisplayNamesterritoriesALʻAlipania
+localeDisplayNamesterritoriesKWKueiti
+localeDisplayNamesterritoriesVNVietinami
+localeDisplayNamesterritoriesPNʻOtumotu Pitikeni
+localeDisplayNamesterritoriesPYPalakuai
+localeDisplayNamesterritoriesGBPilitānia
+localeDisplayNamesterritoriesNLHōlani
+localeDisplayNamesterritoriesMRMaulitenia
+localeDisplayNamesterritoriesHNHonitulasi
+localeDisplayNamesterritoriesSMSā Malino
+localeDisplayNamesterritoriesTTTilinitati mo Topako
+localeDisplayNamesterritoriesERʻElitulia
+localeDisplayNamesterritoriesGESeōsia
+localeDisplayNamesterritoriesEASiuta mo Melila
+localeDisplayNamesterritories030ʻĒsia fakahahake
+localeDisplayNamesterritoriesBZPelise
+localeDisplayNamesterritoriesINʻInitia
+localeDisplayNamesterritoriesKNSā Kitisi mo Nevisi
+localeDisplayNamesterritoriesKYʻOtumotu Keimeni
+localeDisplayNamesterritoriesSYSīlia
+localeDisplayNamesterritoriesBNPulunei
+localeDisplayNamesterritoriesSLSiela Leone
+localeDisplayNamesterritoriesGRKalisi
+localeDisplayNamesterritoriesAZʻAsapaisani
+localeDisplayNamesterritoriesLSLesoto
+localeDisplayNamesterritoriesECʻEkuetoa
+localeDisplayNamesterritoriesVEVenesuela
+localeDisplayNamesterritoriesBYPelalusi
+localeDisplayNamesterritories003ʻAmelika tokelau
+localeDisplayNamesterritoriesIDʻInitonēsia
+localeDisplayNamesterritoriesVGʻOtumotu Vilikini fakapilitānia
+localeDisplayNamesterritoriesGDKelenatā
+localeDisplayNamesterritoriesSTSao Tomē mo Pilinisipe
+localeDisplayNamesterritoriesBEPelesiume
+localeDisplayNamesterritoriesJMSamaika
+localeDisplayNamesterritoriesPGPapuaniukini
+localeDisplayNamesterritoriesPEPelū
+localeDisplayNamesterritoriesMYMalēsia
+localeDisplayNamesterritoriesCDKongo (LTK)
+localeDisplayNamesterritoriesDKTenimaʻake
+localeDisplayNamesterritoriesCNSiaina
+localeDisplayNamesterritories018ʻAfilika fakatonga
+localeDisplayNamesterritoriesNRNaulu
+localeDisplayNamesterritoriesSDSūteni
+localeDisplayNamesterritoriesCIMatafonua ʻAivolī
+localeDisplayNamesterritories029Kalipiane
+localeDisplayNamesterritoriesAQʻAnitātika
+localeDisplayNamesterritoriesBBPāpeitosi
+localeDisplayNamesterritoriesAFʻAfikānisitani
+localeDisplayNamesterritoriesICʻOtumotu Kaneli
+localeDisplayNamesterritoriesBVMotu Puveti
+localeDisplayNamesterritoriesMMMianimā (Pema)
+localeDisplayNamesterritories021ʻAmelika fakatokelau
+localeDisplayNamesterritoriesAOʻAngikola
+localeDisplayNamesterritoriesBHPaleini
+localeDisplayNamesterritoriesLILikitenisiteini
+localeDisplayNamesterritoriesCAKānata
+localeDisplayNamesterritoriesYTMaiote
+localeDisplayNamesterritoriesSCʻOtumotu Seiseli
+localeDisplayNamesterritoriesNZNuʻusila
+localeDisplayNamesterritoriesIRʻIlaani
+localeDisplayNamesterritoriesJESelusī
+localeDisplayNamesterritoriesTLTimoa hahake
+localeDisplayNamesterritoriesRELēunioni
+localeDisplayNamesterritoriesFIFinilani
+localeDisplayNamesterritoriesPHFilipaini
+localeDisplayNamesterritoriesNENisia
+localeDisplayNamesterritoriesMOMakau
+localeDisplayNamesterritoriesGMKamipia
+localeDisplayNamesterritoriesETʻĪtiōpia
+localeDisplayNamesterritoriesZZPotu fonua taʻeʻiloa pe hala
+localeDisplayNamesterritoriesGSʻOtumotu Seōsia-tonga mo Saniuisi-tonga
+localeDisplayNamesterritoriesBWPotisiuana
+localeDisplayNamesterritories034ʻĒsia fakatonga
+localeDisplayNamesterritoriesWSHaʻamoa
+localeDisplayNamesterritoriesUNʻŪ fonua fakatahataha
+localeDisplayNamesterritoriesTKTokelau
+localeDisplayNamesterritoriesCFLepupelika ʻAfilika Lotoloto
+localeDisplayNamesterritoriesGFKuiana fakafalanisē
+localeDisplayNamesterritoriesLYLīpia
+localeDisplayNamesterritoriesSVʻEle Salavatoa
+localeDisplayNamesterritories054Melanīsia
+localeDisplayNamesterritoriesQAKatā
+localeDisplayNamesterritoriesFJFisi
+localeDisplayNamesterritoriesOMʻOmani
+localeDisplayNamesterritoriesPSPalesitaine
+localeDisplayNamesterritoriesBRPalāsili
+localeDisplayNamesterritoriesMKMasetōnia (FYROM)
+localeDisplayNamesterritories015ʻAfilika fakatokelau
+localeDisplayNamesterritoriesBMPēmuta
+localeDisplayNamesterritoriesCWKulasao
+localeDisplayNamesterritoriesTWTaiuani
+localeDisplayNamesterritoriesADʻAnitola
+localeDisplayNamesterritoriesBDPengilātesi
+localeDisplayNamesterritoriesBGPulukalia
+localeDisplayNamesterritoriesCZLepupelika Seki
+localeDisplayNamesterritoriesMZMosēmipiki
+localeDisplayNamesterritories053ʻAositelēlēsia
+localeDisplayNamesterritoriesAGAnitikua mo Palaputa
+localeDisplayNamesterritoriesMXMekisikou
+localeDisplayNamesterritoriesUAʻŪkalaʻine
+localeDisplayNamesterritoriesCRKosita Lika
+localeDisplayNamesterritoriesMGMatakasika
+localeDisplayNamesterritoriesDZʻAlisilia
+localeDisplayNamesterritoriesGHKana
+localeDisplayNamesterritoriesBFPekano Faso
+localeDisplayNamesterritoriesDMTominika
+localeDisplayNamesterritoriesTFPotu fonua tonga fakafalanisē
+localeDisplayNamesterritoriesTDSāti
+localeDisplayNamesterritoriesAWʻAlupa
+localeDisplayNamesterritoriesNGNaisilia
+localeDisplayNamesterritoriesIOPotu fonua moana ʻInitia fakapilitānia
+localeDisplayNamesterritoriesEZʻEulope fekauʻaki-paʻanga
+localeDisplayNamesterritoriesAUʻAositelēlia
+localeDisplayNamesterritoriesIMMotu Mani
+localeDisplayNamesterritoriesAXʻOtumotu ʻAlani
+localeDisplayNamesterritoriesKHKamipōtia
+localeDisplayNamesterritoriesMPʻOtumotu Maliana tokelau
+localeDisplayNamesterritoriesTHTailani
+localeDisplayNamesterritoriesPRPuēto Liko
+localeDisplayNamesterritories011ʻAfilika fakahihifo
+localeDisplayNamesterritoriesMEMonitenikalo
+localeDisplayNamesterritoriesSBʻOtumotu Solomone
+localeDisplayNamesterritoriesEEʻEsitōnia
+localeDisplayNamesterritoriesAEʻAlepea Fakatahataha
+localeDisplayNamesterritoriesTCʻOtumotu Tuki mo Kaikosi
+localeDisplayNamesterritoriesQOʻOsēnia mamaʻo
+localeDisplayNamesterritories017ʻAfilika lotoloto
+localeDisplayNamesterritoriesNPNepali
+localeDisplayNamesterritoriesKIKilipasi
+localeDisplayNamesterritoriesMCMonako
+localeDisplayNamesterritoriesBQKalipiane fakahōlani
+localeDisplayNamesterritoriesSXSā Mātini (fakahōlani)
+localeDisplayNamesterritoriesSRSuliname
+localeDisplayNamesterritoriesROLomēnia
+localeDisplayNamesterritoriesGWKini-Pisau
+localeDisplayNamesterritoriesIQʻIlaaki
+localeDisplayNamesterritories009ʻOsēnia
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNamesterritoriesMTMalita
+localeDisplayNamesterritories154ʻEulope fakatokelau
+localeDisplayNamesterritoriesJPSiapani
+localeDisplayNamesterritoriesZAʻAfilika tonga
+localeDisplayNamesterritoriesTNTunīsia
+localeDisplayNamesterritoriesRSSēpia
+localeDisplayNamesterritoriesRWLuanitā
+localeDisplayNamesterritoriesIEʻAealani
+localeDisplayNamesterritories005ʻAmelika tonga
+localeDisplayNamesterritoriesITʻĪtali
+localeDisplayNamesterritoriesLRLaipelia
+localeDisplayNamesterritoriesLTLituania
+localeDisplayNamesterritoriesMFSā Mātini (fakafalanisē)
+localeDisplayNamesterritoriesNANamipia
+localeDisplayNamesterritoriesVUVanuatu
+localeDisplayNamesterritoriesMLMāli
+localeDisplayNamesterritoriesDGTieko Kāsia
+localeDisplayNamesterritoriesGUKuamu
+localeDisplayNamesterritoriesLCSā Lūsia
+localeDisplayNamesterritoriesLBLepanoni
+localeDisplayNamesterritoriesCUKiupa
+localeDisplayNamesterritoriesPMSā Piea mo Mikeloni
+localeDisplayNamesterritoriesNUNiuē
+localeDisplayNamesterritoriesNCNiu Kaletōnia
+localeDisplayNamesterritoriesMSMoʻungaselati
+localeDisplayNamesterritoriesCLSili
+localeDisplayNamesterritories014ʻAfilika fakahahake
+localeDisplayNamesterritoriesBAPosinia mo Hesikōvina
+localeDisplayNamesterritoriesHTHaiti
+localeDisplayNamesterritoriesHKHongi Kongi
+localeDisplayNamesterritoriesLVLativia
+localeDisplayNamesterritoriesWFʻUvea mo Futuna
+localeDisplayNamesterritoriesTZTenisānia
+localeDisplayNamesterritoriesBOPolīvia
+localeDisplayNamesterritories035ʻĒsia fakatongahahake
+localeDisplayNamesterritoriesISʻAisilani
+localeDisplayNamesterritories019Ongo ʻAmelika
+localeDisplayNamesterritoriesSZSuasilani
+localeDisplayNamesterritories143ʻĒsia lotoloto
+localeDisplayNamesterritoriesSHSā Helena
+localeDisplayNamesterritoriesMWMalaui
+localeDisplayNamesterritoriesCXMotu Kilisimasi
+localeDisplayNamesterritoriesGPKuatalupe
+localeDisplayNamesterritoriesHMʻOtumotu Heati mo Makitonali
+localeDisplayNamesterritoriesDJSiputi
+localeDisplayNamesterritoriesSOSōmalia
+localeDisplayNamesterritoriesSJSivolopāti mo Sani Maieni
+localeDisplayNamesterritoriesNINikalakua
+localeDisplayNamesterritories001Māmani
+localeDisplayNamesterritoriesBSPahama
+localeDisplayNamesterritoriesKEKeniā
+localeDisplayNamesterritoriesKRKōlea tonga
+localeDisplayNamesterritoriesGTKuatamala
+localeDisplayNamesterritoriesPTPotukali
+localeDisplayNamesterritoriesEUʻEulope fakatahataha
+localeDisplayNamesterritoriesILʻIsileli
+localeDisplayNamesterritoriesBTPūtani
+localeDisplayNamesterritoriesSASaute ʻAlepea
+localeDisplayNamesterritoriesUMʻOtumotu siʻi ʻo ʻAmelika
+localeDisplayNamesterritoriesESSipeini
+localeDisplayNamesterritoriesKMKomolosi
+localeDisplayNamesterritoriesBIPuluniti
+localeDisplayNamesterritoriesUGʻIukanitā
+localeDisplayNamesterritoriesKZKasakitani
+localeDisplayNamesterritoriesFRFalanisē
+localeDisplayNamesterritoriesUZʻUsipekitani
+localeDisplayNamesterritoriesDESiamane
+localeDisplayNamesterritoriesBJPenini
+localeDisplayNamesterritoriesCMKameluni
+localeDisplayNamesterritories151ʻEulope fakahahake
+localeDisplayNamesterritoriesUYʻUlukuai
+localeDisplayNamesterritories142ʻĒsia
+localeDisplayNamesterritoriesMUMaulitiusi
+localeDisplayNamesterritories039ʻEulope fakatonga
+localeDisplayNamesterritoriesCPMotu Kilipatoni
+localeDisplayNamesterritoriesSGSingapoa
+localeDisplayNamesterritoriesCHSuisilani
+localeDisplayNamesterritoriesAMʻĀmenia
+localeDisplayNamesterritoriesHUHungakalia
+localeDisplayNamesterritoriesJOSoatane
+localeDisplayNamesterritoriesZMSemipia
+localeDisplayNamesterritoriesTATulisitani ta Kunuha
+localeDisplayNamesterritories155ʻEulope fakahihifo
+localeDisplayNamesterritoriesNONoauē
+localeDisplayNamesterritoriesCYSaipalesi
+localeDisplayNamesterritories013ʻAmelika lotoloto
+localeDisplayNamesterritoriesTJTasikitani
+localeDisplayNamesterritoriesGYKuiana
+localeDisplayNamesterritoriesSESuēteni
+localeDisplayNamesterritoriesPKPākisitani
+localeDisplayNamesterritoriesLALau
+localeDisplayNamesterritoriesMHʻOtumotu Māsolo
+localeDisplayNamesterritoriesMDMolotova
+localeDisplayNamesterritoriesMNMongokōlia
+localeDisplayNamesterritoriesKPKōlea tokelau
+localeDisplayNamesterritoriesCOKolomipia
+localeDisplayNamesterritoriesGAKaponi
+localeDisplayNamesterritoriesXKKōsovo
+localeDisplayNamesterritoriesVCSā Viniseni mo Kulenatini
+localeDisplayNamesterritoriesFOʻOtumotu Faloe
+localeDisplayNamesterritoriesGISipalālitā
+localeDisplayNamesterritoriesSNSenekalo
+localeDisplayNamesterritoriesZWSimipapuei
+localeDisplayNamesterritoriesEGʻIsipite
+localeDisplayNamesterritoriesYEIemeni
+localeDisplayNamesterritoriesSKSilōvakia
+localeDisplayNamesterritoriesSISilōvenia
+localeDisplayNamesterritoriesCKʻOtumotu Kuki
+localeDisplayNamesterritoriesKGKīkisitani
+localeDisplayNamesterritories057Potu fonua Mikolonīsia
+localeDisplayNamesterritoriesMQMātiniki
+localeDisplayNamesterritoriesSSSūtani fakatonga
+localeDisplayNamesterritoriesMVMalativisi
+localeDisplayNamesterritoriesGQʻEkueta Kini
+localeDisplayNamesterritoriesHRKuloisia
+localeDisplayNamesterritoriesLULakisimipeki
+localeDisplayNamesterritoriesLKSīlangikā
+localeDisplayNamesterritoriesEHSahala fakahihifo
+localeDisplayNamesterritoriesPWPalau
+localeDisplayNamesterritoriesNFMotu Nōfoliki
+localeDisplayNamesterritories061Polinīsia
+localeDisplayNamesterritories145ʻĒsia fakahihifo
+localeDisplayNamesterritoriesATʻAositulia
+localeDisplayNamesterritoriesCCʻOtumotu Koko
+localeDisplayNamesterritoriesGNKini
+localeDisplayNamesterritoriesMAMoloko
+localeDisplayNamesterritoriesTRToake
+localeDisplayNamesterritoriesVIʻOtumotu Vilikini fakaʻamelika
+localeDisplayNamesterritoriesFKʻOtumotu Fokulani
+localeDisplayNamesterritoriesPFPolinisia fakafalanisē
+localeDisplayNamesterritoriesBLSā Patēlemi
+localeDisplayNamesterritoriesCVMuiʻi Vēte
+localeDisplayNamesterritories150ʻEulope
+localeDisplayNamesterritoriesGGKuenisī
+localeDisplayNamesterritoriesRULūsia
+localeDisplayNamesterritoriesTVTūvalu
+localeDisplayNamesterritoriesFMMikolonīsia
+localeDisplayNamesterritoriesCGKongo (Lepupelika)
+localeDisplayNamesmeasurementSystemNamesUSfakaʻamelika
+localeDisplayNamesmeasurementSystemNamesmetricfakamita
+localeDisplayNamesmeasurementSystemNamesUKfakapilitānia
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsyMMMEdE d MMM y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsGyMMMEdE d MMM y G
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsEdE d
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsBhh B
+calendarsgregorianavailableFormatsyMMMdd MMM y
+calendarsgregorianavailableFormatsMMMMW'uike' 'hono' W ʻ'o' MMM
+calendarsgregorianavailableFormatsEBhmE h:mm B
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsBhmsh:mm:ss B
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsyMEdE d/M/y
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMM-y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsMEdE d/M
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsyw'uike' 'hono' w ʻ'o' Y
+calendarsgregorianavailableFormatsMMMMEdE d MMMM
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyMMMdd MMM y G
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsMMMEdE d MMM
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsBhmh:mm B
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsEBhmsE h:mm:ss B
+calendarsgregorianeraseraAbbr0KM
+calendarsgregorianeraseraAbbr1TS
+calendarsgregorianeraseraNames0KM
+calendarsgregorianeraseraNames1TS
+calendarsgregorianeraseraNarrow0KM
+calendarsgregorianeraseraNarrow1TS
+calendarsgregorianmonthsformatwide9Sepitema
+calendarsgregorianmonthsformatwide4ʻEpeleli
+calendarsgregorianmonthsformatwide6Sune
+calendarsgregorianmonthsformatwide1Sānuali
+calendarsgregorianmonthsformatwide5Mē
+calendarsgregorianmonthsformatwide8ʻAokosi
+calendarsgregorianmonthsformatwide2Fēpueli
+calendarsgregorianmonthsformatwide7Siulai
+calendarsgregorianmonthsformatwide12Tīsema
+calendarsgregorianmonthsformatwide11Nōvema
+calendarsgregorianmonthsformatwide3Maʻasi
+calendarsgregorianmonthsformatwide10ʻOkatopa
+calendarsgregorianmonthsformatabbreviated3Maʻa
+calendarsgregorianmonthsformatabbreviated12Tīs
+calendarsgregorianmonthsformatabbreviated7Siu
+calendarsgregorianmonthsformatabbreviated11Nōv
+calendarsgregorianmonthsformatabbreviated10ʻOka
+calendarsgregorianmonthsformatabbreviated1Sān
+calendarsgregorianmonthsformatabbreviated6Sun
+calendarsgregorianmonthsformatabbreviated4ʻEpe
+calendarsgregorianmonthsformatabbreviated9Sep
+calendarsgregorianmonthsformatabbreviated2Fēp
+calendarsgregorianmonthsformatabbreviated8ʻAok
+calendarsgregorianmonthsformatabbreviated5Mē
+calendarsgregorianmonthsformatnarrow10O
+calendarsgregorianmonthsformatnarrow12T
+calendarsgregorianmonthsformatnarrow7S
+calendarsgregorianmonthsformatnarrow11N
+calendarsgregorianmonthsformatnarrow3M
+calendarsgregorianmonthsformatnarrow5M
+calendarsgregorianmonthsformatnarrow8A
+calendarsgregorianmonthsformatnarrow2F
+calendarsgregorianmonthsformatnarrow9S
+calendarsgregorianmonthsformatnarrow6S
+calendarsgregorianmonthsformatnarrow1S
+calendarsgregorianmonthsformatnarrow4E
+calendarsgregorianmonthsstand-aloneabbreviated2Fēp
+calendarsgregorianmonthsstand-aloneabbreviated8ʻAok
+calendarsgregorianmonthsstand-aloneabbreviated5Mē
+calendarsgregorianmonthsstand-aloneabbreviated6Sun
+calendarsgregorianmonthsstand-aloneabbreviated1Sān
+calendarsgregorianmonthsstand-aloneabbreviated4ʻEpe
+calendarsgregorianmonthsstand-aloneabbreviated9Sep
+calendarsgregorianmonthsstand-aloneabbreviated10ʻOka
+calendarsgregorianmonthsstand-aloneabbreviated3Maʻa
+calendarsgregorianmonthsstand-aloneabbreviated12Tīs
+calendarsgregorianmonthsstand-aloneabbreviated7Siu
+calendarsgregorianmonthsstand-aloneabbreviated11Nōv
+calendarsgregorianmonthsstand-alonewide5Mē
+calendarsgregorianmonthsstand-alonewide8ʻAokosi
+calendarsgregorianmonthsstand-alonewide2Fēpueli
+calendarsgregorianmonthsstand-alonewide9Sepitema
+calendarsgregorianmonthsstand-alonewide6Sune
+calendarsgregorianmonthsstand-alonewide4ʻEpeleli
+calendarsgregorianmonthsstand-alonewide1Sānuali
+calendarsgregorianmonthsstand-alonewide10ʻOkatopa
+calendarsgregorianmonthsstand-alonewide7Siulai
+calendarsgregorianmonthsstand-alonewide12Tīsema
+calendarsgregorianmonthsstand-alonewide11Nōvema
+calendarsgregorianmonthsstand-alonewide3Maʻasi
+calendarsgregorianmonthsstand-alonenarrow10O
+calendarsgregorianmonthsstand-alonenarrow7S
+calendarsgregorianmonthsstand-alonenarrow12T
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow8A
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow4E
+calendarsgregorianmonthsstand-alonenarrow6S
+calendarsgregorianmonthsstand-alonenarrow1S
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregorianintervalFormatsMMMddd – d MMM
+calendarsgregorianintervalFormatsMMMdMd MMM – d MMM
+calendarsgregorianintervalFormatsyMdyd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMddd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMdMd/M/y – d/M/y
+calendarsgregorianintervalFormatsMddd/M – d/M
+calendarsgregorianintervalFormatsMdMd/M – d/M
+calendarsgregorianintervalFormatsyMEdyE d/M/y – E d/M/y
+calendarsgregorianintervalFormatsyMEddE d/M/y – E d/M/y
+calendarsgregorianintervalFormatsyMEdME d/M/y – E d/M/y
+calendarsgregorianintervalFormatsMMMMLLL – LLL
+calendarsgregorianintervalFormatshmvhh:mm – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsHHHH – HH
+calendarsgregorianintervalFormatsyMMMdyd MMM y – d MMM y
+calendarsgregorianintervalFormatsyMMMdMd MMM – d MMM y
+calendarsgregorianintervalFormatsyMMMddd–d MMM y
+calendarsgregorianintervalFormatsyMMMEdyE d MMM y – E d MMM y
+calendarsgregorianintervalFormatsyMMMEdME d MMM – E d MMM y
+calendarsgregorianintervalFormatsyMMMEddE d MMM – E d MMM y
+calendarsgregorianintervalFormatsddd – d
+calendarsgregorianintervalFormatsMMM – M
+calendarsgregorianintervalFormatsHmHHH:mm – HH:mm
+calendarsgregorianintervalFormatsHmmHH:mm – HH:mm
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsyMMMMMMMMM – MMMM y
+calendarsgregorianintervalFormatsMMMEddE d MMM – E d MMM
+calendarsgregorianintervalFormatsMMMEdME d MMM – E d MMM
+calendarsgregorianintervalFormatsyMyM/y – M/y
+calendarsgregorianintervalFormatsyMMM/y – M/y
+calendarsgregorianintervalFormatsyyy – y
+calendarsgregorianintervalFormatshmhh:mm – h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm – h:mm a
+calendarsgregorianintervalFormatsHvHHH – HH v
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh – h a v
+calendarsgregorianintervalFormatsMEdME d/M – E d/M
+calendarsgregorianintervalFormatsMEddE d/M – E d/M
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsyMMMMMMM – MMM y
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatshhh – h a
+calendarsgregoriandaysstand-aloneshortsunSāp
+calendarsgregoriandaysstand-aloneshortwedPul
+calendarsgregoriandaysstand-aloneshortmonMōn
+calendarsgregoriandaysstand-aloneshorttueTūs
+calendarsgregoriandaysstand-aloneshortfriFal
+calendarsgregoriandaysstand-aloneshortsatTok
+calendarsgregoriandaysstand-aloneshortthuTuʻa
+calendarsgregoriandaysstand-alonewidefriFalaite
+calendarsgregoriandaysstand-alonewidethuTuʻapulelulu
+calendarsgregoriandaysstand-alonewidesatTokonaki
+calendarsgregoriandaysstand-alonewidemonMōnite
+calendarsgregoriandaysstand-alonewidetueTūsite
+calendarsgregoriandaysstand-alonewidewedPulelulu
+calendarsgregoriandaysstand-alonewidesunSāpate
+calendarsgregoriandaysstand-aloneabbreviatedtueTūs
+calendarsgregoriandaysstand-aloneabbreviatedmonMōn
+calendarsgregoriandaysstand-aloneabbreviatedthuTuʻa
+calendarsgregoriandaysstand-aloneabbreviatedsatTok
+calendarsgregoriandaysstand-aloneabbreviatedfriFal
+calendarsgregoriandaysstand-aloneabbreviatedsunSāp
+calendarsgregoriandaysstand-aloneabbreviatedwedPul
+calendarsgregoriandaysstand-alonenarrowtueT
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowthuT
+calendarsgregoriandaysstand-alonenarrowsatT
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowwedP
+calendarsgregoriandaysformatshortsunSāp
+calendarsgregoriandaysformatshortwedPul
+calendarsgregoriandaysformatshorttueTūs
+calendarsgregoriandaysformatshortmonMōn
+calendarsgregoriandaysformatshortsatTok
+calendarsgregoriandaysformatshortthuTuʻa
+calendarsgregoriandaysformatshortfriFal
+calendarsgregoriandaysformatwidewedPulelulu
+calendarsgregoriandaysformatwidesunSāpate
+calendarsgregoriandaysformatwidefriFalaite
+calendarsgregoriandaysformatwidesatTokonaki
+calendarsgregoriandaysformatwidethuTuʻapulelulu
+calendarsgregoriandaysformatwidemonMōnite
+calendarsgregoriandaysformatwidetueTūsite
+calendarsgregoriandaysformatabbreviatedmonMōn
+calendarsgregoriandaysformatabbreviatedtueTūs
+calendarsgregoriandaysformatabbreviatedfriFal
+calendarsgregoriandaysformatabbreviatedsatTok
+calendarsgregoriandaysformatabbreviatedthuTuʻa
+calendarsgregoriandaysformatabbreviatedsunSāp
+calendarsgregoriandaysformatabbreviatedwedPul
+calendarsgregoriandaysformatnarrowsunS
+calendarsgregoriandaysformatnarrowwedP
+calendarsgregoriandaysformatnarrowtueT
+calendarsgregoriandaysformatnarrowmonM
+calendarsgregoriandaysformatnarrowsatT
+calendarsgregoriandaysformatnarrowthuT
+calendarsgregoriandaysformatnarrowfriF
+calendarsgregoriandayPeriodsstand-alonewidepmEA
+calendarsgregoriandayPeriodsstand-alonewideamHH
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsformatnarrowamAM
+calendarsgregoriandayPeriodsformatnarrowpmPM
+calendarsgregoriandayPeriodsformatwidepmefiafi
+calendarsgregoriandayPeriodsformatwideamhengihengi
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsfull{1}, {0}
+calendarsgregoriandateTimeFormatsmedium{1}, {0}
+calendarsgregoriandateTimeFormatslong{1}, {0}
+calendarsgregoriandateFormatsfullstandardEEEE d MMMM y
+calendarsgregoriandateFormatsshortstandardd/M/yy
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgregorianquartersformatabbreviated2K2
+calendarsgregorianquartersformatabbreviated1K1
+calendarsgregorianquartersformatabbreviated4K4
+calendarsgregorianquartersformatabbreviated3K3
+calendarsgregorianquartersformatwide3kuata tolu
+calendarsgregorianquartersformatwide1kuata ʻuluaki
+calendarsgregorianquartersformatwide4kuata fā
+calendarsgregorianquartersformatwide2kuata ua
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersstand-alonewide4kuata 4
+calendarsgregorianquartersstand-alonewide1kuata 1
+calendarsgregorianquartersstand-alonewide2kuata 2
+calendarsgregorianquartersstand-alonewide3kuata 3
+calendarsgregorianquartersstand-aloneabbreviated3K3
+calendarsgregorianquartersstand-aloneabbreviated4K4
+calendarsgregorianquartersstand-aloneabbreviated1K1
+calendarsgregorianquartersstand-aloneabbreviated2K2
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgenericintervalFormatsHvHHH – HH v
+calendarsgenericintervalFormatsyMyM/y – M/y GGGGG
+calendarsgenericintervalFormatsyMMM/y – M/y GGGGG
+calendarsgenericintervalFormatsyyy – y G
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatsyMMMMMMM – MMM y G
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatsMEdME d/M – E d/M
+calendarsgenericintervalFormatsMEddE d/M – E d/M
+calendarsgenericintervalFormatsyMMMMMMMMM – MMMM y G
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsMMMEdME d MMM – E d MMM
+calendarsgenericintervalFormatsMMMEddE d MMM – E d MMM
+calendarsgenericintervalFormatsyMMMddd – d MMM y G
+calendarsgenericintervalFormatsyMMMdMd MMM – d MMM y G
+calendarsgenericintervalFormatsyMMMdyd MMM y – d MMM y G
+calendarsgenericintervalFormatsMMM – M
+calendarsgenericintervalFormatsyMMMEdyE d MMM y – E d MMM y G
+calendarsgenericintervalFormatsyMMMEddE d MMM – E d MMM y G
+calendarsgenericintervalFormatsyMMMEdME d MMM – E d MMM y G
+calendarsgenericintervalFormatsHmmHH:mm – HH:mm
+calendarsgenericintervalFormatsHmHHH:mm – HH:mm
+calendarsgenericintervalFormatsddd – d
+calendarsgenericintervalFormatsyMdyd/M/y – d/M/y GGGGG
+calendarsgenericintervalFormatsyMdMd/M/y – d/M/y GGGGG
+calendarsgenericintervalFormatsyMddd/M/y – d/M/y GGGGG
+calendarsgenericintervalFormatsMMMdMd MMM – d MMM
+calendarsgenericintervalFormatsMMMddd – d MMM
+calendarsgenericintervalFormatsMMMMLLL – LLL
+calendarsgenericintervalFormatsyMEdyE d/M/y – E d/M/y GGGGG
+calendarsgenericintervalFormatsyMEdME d/M/y – E d/M/y GGGGG
+calendarsgenericintervalFormatsyMEddE d/M/y – E d/M/y GGGGG
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatsMddd/M – d/M
+calendarsgenericintervalFormatsMdMd/M – d/M
+calendarsgenericintervalFormatsHmvHHH:mm – HH:mm v
+calendarsgenericintervalFormatsHmvmHH:mm – HH:mm v
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsHHHH – HH
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMy/MM GGGGG
+calendarsgenericavailableFormatsyMdd-M-y
+calendarsgenericavailableFormatsyQQQQy QQQQ
+calendarsgenericavailableFormatsyyyyMMMMG y MMMM
+calendarsgenericavailableFormatsyyyyMEdE dd-MM-y GGGGG
+calendarsgenericavailableFormatsyMEdE d/M/y
+calendarsgenericavailableFormatsMdd/M
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsHHH
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsyyyyMddd/MM/y GGGGG
+calendarsgenericavailableFormatsyMMMdd MMM y
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEBhmE h:mm B
+calendarsgenericavailableFormatsBhmsh:mm:ss B
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsyMMMEdE d MMM y
+calendarsgenericavailableFormatsHmsH:mm:ss
+calendarsgenericavailableFormatsHmH:mm
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsGyMMMEdE d MMM y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdE d
+calendarsgenericavailableFormatsBhh B
+calendarsgenericavailableFormatsyyyyQQQQy QQQQ G
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsyyyyMMMdd MMM y G
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericavailableFormatsEBhmsE h:mm:ss B
+calendarsgenericavailableFormatsyMMMMMMMM y
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsMMMEdE d MMM
+calendarsgenericavailableFormatsBhmh:mm B
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsyyyyQQQy QQQ G
+calendarsgenericavailableFormatsyMM-y
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsMMMMEdE d MMMM
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsGyMMMdd MMM y G
+calendarsgenericavailableFormatsyQQQy QQQ
+calendarsgenericavailableFormatsyyyyMMMEdE d MMM y G
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsyMMMMMM y
+calendarsgenericavailableFormatsyMMMM-y
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsMEdE d/M
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsshortstandardd/M/yy GGGGG
+calendarsgenericdateFormatsfullstandardEEEE d MMMM y G
+calendarsgenericdateTimeFormatslong{1}, {0}
+calendarsgenericdateTimeFormatsmedium{1}, {0}
+calendarsgenericdateTimeFormatsshort{1}, {0}
+calendarsgenericdateTimeFormatsfull{1}, {0}
+posixmessagesnostrʻikai
+posixmessagesyesstrʻio
+charactersellipsisword-initial… {0}
+charactersellipsisword-final{0} …
+charactersellipsismedial{0}…{1}
+charactersellipsisinitial…{0}
+charactersellipsisword-medial{0} … {1}
+charactersellipsisfinal{0}…
+charactersexemplarCharactersauxiliary[à ă â å ä æ b c ç d è ĕ ê ë g ì ĭ î ï j ñ ò ŏ ô ö ø œ q r ù ŭ û ü w x y ÿ z]
+charactersexemplarCharactersindex[A E F H I K L M N {NG} O P S T U V ʻ]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharactersstandard[a á ā e é ē f h i í ī k l m n {ng} o ó ō p s t u ú ū v ʻ]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” ( ) \[ \] § @ * / \&amp; # † ‡ ′ ″]

@@ -1,0 +1,2753 @@
+unitslongcoordinateUniteast{0} 𑄛𑄪𑄇𑄴
+unitslongcoordinateUnitwest{0} 𑄛𑄮𑄏𑄨𑄟𑄴
+unitslongcoordinateUnitsouth{0} 𑄘𑄧𑄉𑄨𑄚𑄴
+unitslongcoordinateUnitnorth{0} 𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴
+unitslongunitvolume-cup-metricpatternone{0} 𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄇𑄛𑄴
+unitslongunitvolume-cup-metricpatternother{0} 𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄇𑄛𑄴
+unitslongunitvolume-cup-metricdisplayName𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄇𑄛𑄴
+unitslongunitarea-hectaredisplayName𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitslongunitarea-hectarepatternother{0} 𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitslongunitarea-hectarepatternone{0} 𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitslongunitvolume-cubic-miledisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄬𑄣𑄴
+unitslongunitvolume-cubic-milepatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄬𑄣𑄴
+unitslongunitvolume-cubic-milepatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄬𑄣𑄴
+unitslongunitconsumption-liter-per-kilometerdisplayName𑄣𑄨𑄑𑄢𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄬
+unitslongunitconsumption-liter-per-kilometerpatternone{0} 𑄣𑄨𑄑𑄢𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄬
+unitslongunitconsumption-liter-per-kilometerpatternother{0} 𑄣𑄨𑄑𑄢𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄬
+unitslongunitmass-caratpatternone{0} 𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitslongunitmass-caratpatternother{0} 𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitslongunitmass-caratdisplayName𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitslongunitarea-acredisplayName𑄃𑄬𑄇𑄧𑄢𑄴
+unitslongunitarea-acrepatternone{0} 𑄃𑄬𑄇𑄧𑄢𑄴
+unitslongunitarea-acrepatternother{0} 𑄃𑄬𑄇𑄧𑄢𑄴
+unitslongunitangle-degreedisplayName𑄓𑄨𑄉𑄳𑄢𑄩
+unitslongunitangle-degreepatternone{0} 𑄓𑄨𑄉𑄳𑄢𑄩
+unitslongunitangle-degreepatternother{0} 𑄓𑄨𑄉𑄳𑄢𑄩
+unitslongunitacceleration-meter-per-second-squareddisplayName𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitacceleration-meter-per-second-squaredpatternone{0} 𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄇𑄬𑄚𑄴𑄓𑄬
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} 𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄇𑄬𑄚𑄴𑄓𑄬
+unitslongunitenergy-jouledisplayName𑄎𑄪𑄣𑄴
+unitslongunitenergy-joulepatternother{0} 𑄎𑄪𑄣𑄴
+unitslongunitenergy-joulepatternone{0} 𑄎𑄪𑄣𑄴
+unitslongunitspeed-mile-per-hourpatternone{0} 𑄊𑄧𑄚𑄳𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄬𑄣𑄴
+unitslongunitspeed-mile-per-hourpatternother{0} 𑄊𑄧𑄚𑄳𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄬𑄣𑄴
+unitslongunitspeed-mile-per-hourdisplayName𑄊𑄧𑄚𑄳𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄬𑄣𑄴
+unitslongunittemperature-fahrenheitpatternone{0} 𑄓𑄨𑄉𑄳𑄢𑄩 𑄜𑄢𑄬𑄚𑄴𑄦𑄭𑄖𑄴
+unitslongunittemperature-fahrenheitpatternother{0} 𑄓𑄨𑄉𑄳𑄢𑄩 𑄜𑄢𑄬𑄚𑄴𑄦𑄭𑄖𑄴
+unitslongunittemperature-fahrenheitdisplayName𑄓𑄨𑄉𑄳𑄢𑄩 𑄜𑄢𑄬𑄚𑄴𑄦𑄭𑄖𑄴
+unitslongunitpower-milliwattdisplayName𑄟𑄨𑄣𑄨𑄤𑄖𑄴
+unitslongunitpower-milliwattpatternother{0} 𑄟𑄨𑄣𑄨𑄤𑄖𑄴
+unitslongunitpower-milliwattpatternone{0} 𑄟𑄨𑄣𑄨𑄤𑄖𑄴
+unitslongunitelectric-voltpatternone{0} 𑄞𑄮𑄣𑄳𑄑𑄴
+unitslongunitelectric-voltpatternother{0} 𑄞𑄮𑄣𑄳𑄑𑄴
+unitslongunitelectric-voltdisplayName𑄣𑄮𑄣𑄳𑄑𑄴
+unitslongunitlight-luxdisplayName𑄣𑄇𑄳𑄥𑄴
+unitslongunitlight-luxpatternother{0} 𑄣𑄇𑄳𑄥𑄴
+unitslongunitlight-luxpatternone{0} 𑄣𑄇𑄳𑄥𑄴
+unitslongunittemperature-kelvindisplayName𑄇𑄬𑄣𑄴𑄞𑄨𑄚𑄴
+unitslongunittemperature-kelvinpatternone{0} 𑄇𑄬𑄣𑄴𑄞𑄨𑄚𑄴
+unitslongunittemperature-kelvinpatternother{0} 𑄇𑄬𑄣𑄴𑄞𑄨𑄚𑄴
+unitslongunitlength-picometerdisplayName𑄛𑄨𑄇𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-picometerpatternother{0} 𑄛𑄨𑄇𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-picometerpatternone{0} 𑄛𑄨𑄇𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitduration-centurydisplayName𑄃𑄬𑄇𑄴𑄥𑄧 𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitduration-centurypatternone{0} 𑄃𑄬𑄇𑄴𑄥𑄧 𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitduration-centurypatternother{0} 𑄃𑄬𑄇𑄴𑄥𑄧 𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitelectric-ohmpatternother{0} 𑄃𑄮𑄦𑄧𑄟𑄴
+unitslongunitelectric-ohmpatternone{0} 𑄃𑄮𑄦𑄧𑄟𑄴
+unitslongunitelectric-ohmdisplayName𑄃𑄮𑄦𑄧𑄟𑄴
+unitslongunitvolume-megaliterdisplayName𑄟𑄬𑄉𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-megaliterpatternone{0} 𑄟𑄬𑄉𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-megaliterpatternother{0} 𑄟𑄬𑄉𑄣𑄨𑄑𑄢𑄴
+unitslongunitconsumption-liter-per-100kilometersdisplayName𑄣𑄨𑄑𑄢𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄷𑄶𑄶 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄬
+unitslongunitconsumption-liter-per-100kilometerspatternone{0} 𑄣𑄨𑄑𑄢𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄷𑄶𑄶 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄬
+unitslongunitconsumption-liter-per-100kilometerspatternother{0} 𑄣𑄨𑄑𑄢𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄷𑄶𑄶 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄬
+unitslongunitarea-square-kilometerpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-kilometerpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-kilometerperUnitPattern𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴𑄢𑄳𑄠 {0}
+unitslongunitarea-square-kilometerdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitacceleration-g-forcepatternother{0} 𑄎𑄨-𑄝𑄧𑄣𑄴
+unitslongunitacceleration-g-forcepatternone{0} 𑄎𑄨-𑄝𑄧𑄣𑄴
+unitslongunitacceleration-g-forcedisplayName𑄎𑄨-𑄝𑄧𑄣𑄴
+unitslongunitvolume-deciliterpatternone{0} 𑄓𑄬𑄥𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-deciliterpatternother{0} 𑄓𑄬𑄥𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-deciliterdisplayName𑄓𑄬𑄥𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitdigital-kilobytepatternone{0} 𑄇𑄨𑄣𑄮𑄝𑄭𑄖𑄴
+unitslongunitdigital-kilobytepatternother{0} 𑄇𑄨𑄣𑄮𑄝𑄭𑄖𑄴
+unitslongunitdigital-kilobytedisplayName𑄇𑄨𑄣𑄮𑄝𑄭𑄖𑄴
+unitslongunitduration-secondpatternother{0} 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-secondpatternone{0} 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-seconddisplayName𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-secondperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitarea-square-footpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitslongunitarea-square-footpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitslongunitarea-square-footdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitslongunitarea-square-centimeterpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-centimeterpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-centimeterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-centimeterdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-astronomical-unitdisplayName𑄎𑄳𑄠𑄬𑄖𑄨𑄢𑄴𑄝𑄨𑄇𑄴𑄉𑄳𑄠𑄚𑄴 𑄃𑄬𑄇𑄧𑄇𑄴
+unitslongunitlength-astronomical-unitpatternone{0} 𑄎𑄳𑄠𑄬𑄖𑄨𑄢𑄴𑄝𑄨𑄇𑄴𑄉𑄳𑄠𑄚𑄴 𑄃𑄬𑄇𑄧𑄇𑄴
+unitslongunitlength-astronomical-unitpatternother{0} 𑄎𑄳𑄠𑄬𑄖𑄨𑄢𑄴𑄝𑄨𑄇𑄴𑄉𑄳𑄠𑄚𑄴 𑄃𑄬𑄇𑄧𑄇𑄴
+unitslongunitvolume-milliliterdisplayName𑄟𑄨𑄣𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-milliliterpatternother{0} 𑄟𑄨𑄣𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-milliliterpatternone{0} 𑄟𑄨𑄣𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitpressure-hectopascalpatternone{0} 𑄦𑄬𑄇𑄴𑄑𑄮𑄛𑄥𑄴𑄇𑄧𑄣𑄴
+unitslongunitpressure-hectopascalpatternother{0} 𑄦𑄬𑄇𑄴𑄑𑄮𑄛𑄥𑄴𑄇𑄧𑄣𑄴
+unitslongunitpressure-hectopascaldisplayName𑄦𑄬𑄇𑄴𑄑𑄮𑄛𑄥𑄴𑄇𑄧𑄣𑄴
+unitslongunitenergy-foodcaloriepatternother{0} 𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitenergy-foodcaloriepatternone{0} 𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitenergy-foodcaloriedisplayName𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitelectric-amperedisplayName𑄃𑄳𑄠𑄟𑄴𑄛𑄨𑄠𑄢𑄴
+unitslongunitelectric-amperepatternone{0} 𑄃𑄳𑄠𑄟𑄴𑄛𑄨𑄠𑄢𑄴
+unitslongunitelectric-amperepatternother{0} 𑄃𑄳𑄠𑄟𑄴𑄛𑄨𑄠𑄢𑄴
+unitslongunitdigital-bytedisplayName𑄝𑄭𑄖𑄴
+unitslongunitdigital-bytepatternother{0} 𑄝𑄭𑄖𑄴
+unitslongunitdigital-bytepatternone{0} 𑄝𑄭𑄖𑄴
+unitslongunitfrequency-kilohertzdisplayName𑄇𑄨𑄣𑄮𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-kilohertzpatternother{0} 𑄇𑄨𑄣𑄮𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-kilohertzpatternone{0} 𑄇𑄨𑄣𑄮𑄦𑄢𑄴𑄎𑄴
+unitslongunitmass-microgramdisplayName𑄟𑄭𑄇𑄳𑄢𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-microgrampatternone{0} 𑄟𑄭𑄇𑄳𑄢𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-microgrampatternother{0} 𑄟𑄭𑄇𑄳𑄢𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-ounce-troypatternother{0} 𑄛𑄳𑄢𑄧𑄠𑄴 𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitmass-ounce-troypatternone{0} 𑄛𑄳𑄢𑄧𑄠𑄴 𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitmass-ounce-troydisplayName𑄛𑄳𑄢𑄧𑄠𑄴 𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitlength-micrometerpatternother{0} 𑄟𑄭𑄇𑄳𑄢𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-micrometerpatternone{0} 𑄟𑄭𑄇𑄳𑄢𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-micrometerdisplayName𑄟𑄭𑄇𑄳𑄢𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitpressure-millimeter-of-mercurydisplayName𑄟𑄨𑄣𑄨𑄟𑄨𑄑𑄢𑄴 𑄛𑄢𑄧𑄖𑄴
+unitslongunitpressure-millimeter-of-mercurypatternother{0} 𑄟𑄨𑄣𑄨𑄟𑄨𑄑𑄢𑄴 𑄛𑄢𑄧𑄖𑄴
+unitslongunitpressure-millimeter-of-mercurypatternone{0} 𑄟𑄨𑄣𑄨𑄟𑄨𑄑𑄢𑄴 𑄛𑄢𑄧𑄖𑄴
+unitslongunitvolume-cubic-kilometerdisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-kilometerpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-kilometerpatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitdigital-kilobitpatternone{0} 𑄇𑄨𑄣𑄮𑄝𑄨𑄖𑄴
+unitslongunitdigital-kilobitpatternother{0} 𑄇𑄨𑄣𑄮𑄝𑄨𑄖𑄴
+unitslongunitdigital-kilobitdisplayName𑄇𑄨𑄣𑄮𑄝𑄨𑄖𑄴
+unitslongunitspeed-meter-per-secondpatternone{0} 𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitspeed-meter-per-secondpatternother{0} 𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitspeed-meter-per-seconddisplayName𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitvolume-quartpatternother{0} 𑄇𑄮𑄠𑄢𑄴𑄑𑄴
+unitslongunitvolume-quartpatternone{0} 𑄇𑄮𑄠𑄢𑄴𑄑𑄴
+unitslongunitvolume-quartdisplayName𑄇𑄮𑄠𑄢𑄴𑄑𑄴
+unitslongunitvolume-cubic-footpatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄜𑄪𑄖𑄴
+unitslongunitvolume-cubic-footpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄜𑄪𑄖𑄴
+unitslongunitvolume-cubic-footdisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄜𑄪𑄖𑄴
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-centimeterdisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-centimeterpatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-centimeterpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitenergy-kilocaloriedisplayName𑄇𑄨𑄣𑄮𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitenergy-kilocaloriepatternother{0}𑄇𑄨𑄣𑄮𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitenergy-kilocaloriepatternone{0} 𑄇𑄨𑄣𑄮𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitconsumption-mile-per-gallondisplayName𑄟𑄬𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄳𑄠𑄣𑄧𑄚𑄬
+unitslongunitconsumption-mile-per-gallonpatternone{0} 𑄟𑄬𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄳𑄠𑄣𑄧𑄚𑄬
+unitslongunitconsumption-mile-per-gallonpatternother{0} 𑄟𑄬𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄳𑄠𑄣𑄧𑄚𑄬
+unitslongunitlength-nanometerdisplayName𑄚𑄳𑄠𑄚𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-nanometerpatternother{0} 𑄚𑄳𑄠𑄚𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-nanometerpatternone{0} 𑄚𑄳𑄠𑄚𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitmass-tonpatternother{0} 𑄑𑄧𑄚𑄴
+unitslongunitmass-tonpatternone{0} 𑄑𑄧𑄚𑄴
+unitslongunitmass-tondisplayName𑄑𑄧𑄚𑄴
+unitslongunitvolume-pint-metricpatternother{0} 𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄛𑄨𑄚𑄳𑄑𑄴
+unitslongunitvolume-pint-metricpatternone{0} 𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄛𑄨𑄚𑄳𑄑𑄴
+unitslongunitvolume-pint-metricdisplayName𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄛𑄨𑄚𑄳𑄑𑄴
+unitslongunitvolume-pintdisplayName𑄛𑄨𑄚𑄳𑄑𑄴
+unitslongunitvolume-pintpatternother{0} 𑄛𑄨𑄚𑄳𑄑𑄴
+unitslongunitvolume-pintpatternone{0} 𑄛𑄨𑄚𑄳𑄑𑄴
+unitslongunitduration-microsecondpatternone{0} 𑄟𑄭𑄇𑄳𑄢𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-microsecondpatternother{0} 𑄟𑄭𑄇𑄳𑄢𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-microseconddisplayName𑄟𑄭𑄇𑄳𑄢𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitarea-square-inchdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitarea-square-inchperUnitPattern𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄃𑄨𑄚𑄴𑄌𑄨𑄖𑄴 {0}
+unitslongunitarea-square-inchpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitarea-square-inchpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitenergy-kilowatt-hourdisplayName𑄇𑄨𑄣𑄮𑄃𑄮𑄠𑄖𑄴 𑄊𑄧𑄚𑄳𑄑
+unitslongunitenergy-kilowatt-hourpatternother{0} 𑄇𑄨𑄣𑄮𑄃𑄮𑄠𑄖𑄴 𑄊𑄧𑄚𑄳𑄑
+unitslongunitenergy-kilowatt-hourpatternone{0} 𑄇𑄨𑄣𑄮𑄃𑄮𑄠𑄖𑄴 𑄊𑄧𑄚𑄳𑄑
+unitslongunitfrequency-hertzdisplayName𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-hertzpatternone{0} 𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-hertzpatternother{0} 𑄦𑄢𑄴𑄎𑄴
+unitslongunitlength-inchperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitlength-inchdisplayName𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitlength-inchpatternone{0} 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitlength-inchpatternother{0} 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitduration-milliseconddisplayName𑄟𑄨𑄣𑄨𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-millisecondpatternone{0}𑄟𑄨𑄣𑄨𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-millisecondpatternother{0} 𑄟𑄨𑄣𑄨𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitvolume-centiliterpatternone{0} 𑄥𑄬𑄚𑄴𑄑𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-centiliterpatternother{0} 𑄥𑄬𑄚𑄴𑄑𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-centiliterdisplayName𑄥𑄬𑄚𑄴𑄑𑄨𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-yarddisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄉𑄧𑄌𑄴
+unitslongunitvolume-cubic-yardpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄉𑄧𑄌𑄴
+unitslongunitvolume-cubic-yardpatternother{0} yd³
+unitslongunitdigital-terabitpatternother{0} 𑄑𑄬𑄢𑄝𑄨𑄖𑄴
+unitslongunitdigital-terabitpatternone{0} 𑄑𑄬𑄢𑄝𑄨𑄖𑄴
+unitslongunitdigital-terabitdisplayName𑄑𑄬𑄢𑄝𑄨𑄖𑄴
+unitslongunitduration-minutedisplayName𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitduration-minuteperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitduration-minutepatternone{0} 𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitduration-minutepatternother{0} 𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitlength-meterdisplayName𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-meterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-meterpatternone{0} 𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-meterpatternother{0} 𑄟𑄨𑄑𑄢𑄴
+unitslongunitpressure-millibardisplayName𑄟𑄨𑄣𑄨𑄝𑄢𑄴
+unitslongunitpressure-millibarpatternone{0} 𑄟𑄨𑄣𑄨𑄝𑄢𑄴
+unitslongunitpressure-millibarpatternother{0}𑄟𑄨𑄣𑄨𑄝𑄢𑄴
+unitslongunitvolume-teaspoondisplayName𑄌 𑄌𑄟𑄬𑄌𑄴
+unitslongunitvolume-teaspoonpatternother{0} 𑄌 𑄌𑄟𑄬𑄌𑄴
+unitslongunitvolume-teaspoonpatternone{0} 𑄌 𑄌𑄟𑄬𑄌𑄴
+unitslongunitduration-daydisplayName𑄘𑄨𑄚𑄴
+unitslongunitduration-dayperUnitPattern{0} 𑄘𑄨𑄚𑄴 𑄟𑄉𑄬𑄚𑄬
+unitslongunitduration-daypatternone{0} 𑄘𑄨𑄚𑄴
+unitslongunitduration-daypatternother{0} 𑄘𑄨𑄚𑄴
+unitslongunitlength-yardpatternother{0} 𑄉𑄧𑄌𑄴
+unitslongunitlength-yardpatternone{0} 𑄉𑄧𑄌𑄴
+unitslongunitlength-yarddisplayName𑄉𑄧𑄌𑄴
+unitslongunitmass-kilogrampatternother{0} 𑄇𑄨𑄣𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-kilogrampatternone{0} 𑄇𑄨𑄣𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-kilogramperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-kilogramdisplayName𑄇𑄨𑄣𑄮𑄉𑄳𑄢𑄟𑄴
+unitslongunitpressure-inch-hgdisplayName𑄃𑄨𑄚𑄴𑄌𑄨 𑄛𑄢𑄧𑄖𑄴
+unitslongunitpressure-inch-hgpatternother{0} 𑄃𑄨𑄚𑄴𑄌𑄨 𑄛𑄢𑄧𑄖𑄴
+unitslongunitpressure-inch-hgpatternone{0} 𑄃𑄨𑄚𑄴𑄌𑄨 𑄛𑄢𑄧𑄖𑄴
+unitslongunitlength-nautical-milepatternother{0} 𑄚𑄧𑄑𑄨𑄇𑄳𑄠𑄣𑄴 𑄟𑄬𑄣𑄴
+unitslongunitlength-nautical-milepatternone{0} 𑄚𑄧𑄑𑄨𑄇𑄳𑄠𑄣𑄴 𑄟𑄬𑄣𑄴
+unitslongunitlength-nautical-miledisplayName𑄚𑄧𑄑𑄨𑄇𑄳𑄠𑄣𑄴 𑄟𑄬𑄣𑄴
+unitslongunitspeed-knotpatternother{0} 𑄚𑄧𑄖𑄴
+unitslongunitspeed-knotpatternone{0} 𑄚𑄧𑄖𑄴
+unitslongunitspeed-knotdisplayName𑄚𑄧𑄖𑄴
+unitslongunitduration-yearpatternother{0} 𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitduration-yearpatternone{0} 𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitduration-yearperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitduration-yeardisplayName𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitconcentr-milligram-per-deciliterpatternone{0} 𑄟𑄨𑄣𑄨𑄉𑄳𑄢𑄟𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄓𑄬𑄥𑄨𑄣𑄨𑄑𑄢𑄬
+unitslongunitconcentr-milligram-per-deciliterpatternother{0} 𑄟𑄨𑄣𑄨𑄉𑄳𑄢𑄟𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄓𑄬𑄥𑄨𑄣𑄨𑄑𑄢𑄬
+unitslongunitconcentr-milligram-per-deciliterdisplayName𑄟𑄨𑄣𑄨𑄉𑄳𑄢𑄟𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄓𑄬𑄥𑄨𑄣𑄨𑄑𑄢𑄬
+unitslongunitdigital-megabitpatternother{0} 𑄟𑄬𑄉𑄝𑄨𑄖𑄴
+unitslongunitdigital-megabitpatternone{0} 𑄟𑄬𑄉𑄝𑄨𑄖𑄴
+unitslongunitdigital-megabitdisplayName𑄟𑄬𑄉𑄝𑄨𑄖𑄴
+unitslongunitlength-footpatternother{0} 𑄜𑄪𑄖𑄴
+unitslongunitlength-footpatternone{0} 𑄜𑄪𑄖𑄴
+unitslongunitlength-footdisplayName𑄜𑄪𑄖𑄴
+unitslongunitlength-footperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄜𑄪𑄖𑄴
+unitslongunitarea-square-meterdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-meterperUnitPattern𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄨𑄑𑄢𑄬 {0}
+unitslongunitarea-square-meterpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄨𑄑𑄢𑄴
+unitslongunitarea-square-meterpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄨𑄑𑄢𑄴
+unitslongunitmass-milligrampatternone{0} 𑄟𑄨𑄣𑄨𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-milligrampatternother{0} 𑄟𑄨𑄣𑄨𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-milligramdisplayName𑄟𑄨𑄣𑄨𑄉𑄳𑄢𑄟𑄴
+unitslongunitpower-gigawattpatternone{0} 𑄉𑄨𑄉𑄤𑄖𑄴
+unitslongunitpower-gigawattpatternother{0} 𑄉𑄨𑄉𑄤𑄖𑄴
+unitslongunitpower-gigawattdisplayName𑄉𑄨𑄉𑄤𑄖𑄴
+unitslongunitelectric-milliamperedisplayName𑄟𑄨𑄣𑄨-𑄃𑄳𑄠𑄟𑄴𑄛𑄨𑄠𑄢𑄴
+unitslongunitelectric-milliamperepatternother{0} 𑄟𑄨𑄣𑄨-𑄃𑄳𑄠𑄟𑄴𑄛𑄨𑄠𑄢𑄴
+unitslongunitelectric-milliamperepatternone{0} 𑄟𑄨𑄣𑄨-𑄃𑄳𑄠𑄟𑄴𑄛𑄨𑄠𑄢𑄴
+unitslongunitvolume-cupdisplayName𑄇𑄛𑄴
+unitslongunitvolume-cuppatternone{0} 𑄇𑄛𑄴
+unitslongunitvolume-cuppatternother{0} 𑄇𑄛𑄴
+unitslongunitduration-monthpatternone{0} 𑄟𑄌𑄴
+unitslongunitduration-monthpatternother{0} 𑄟𑄌𑄴
+unitslongunitduration-monthdisplayName𑄟𑄌𑄴
+unitslongunitduration-monthperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄌𑄴
+unitslongunitdigital-bitdisplayName𑄝𑄨𑄖𑄴
+unitslongunitdigital-bitpatternone{0} 𑄝𑄨𑄖𑄴
+unitslongunitdigital-bitpatternother{0} 𑄝𑄨𑄖𑄴
+unitslongunitlength-millimeterpatternone{0} 𑄟𑄨𑄣𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-millimeterpatternother{0} 𑄟𑄨𑄣𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-millimeterdisplayName𑄟𑄨𑄣𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-miledisplayName𑄟𑄬𑄣𑄴
+unitslongunitlength-milepatternone{0} 𑄟𑄬𑄣𑄴
+unitslongunitlength-milepatternother{0} 𑄟𑄬𑄣𑄴
+unitslongunitpower-wattpatternone{0} 𑄤𑄖𑄴
+unitslongunitpower-wattpatternother{0} 𑄤𑄖𑄴
+unitslongunitpower-wattdisplayName𑄤𑄖𑄴
+unitslongunitspeed-kilometer-per-hourpatternone{0} 𑄊𑄧𑄚𑄳𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitspeed-kilometer-per-hourpatternother{0} 𑄊𑄧𑄚𑄳𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitspeed-kilometer-per-hourdisplayName𑄊𑄧𑄚𑄳𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-mile-scandinaviandisplayName𑄟𑄬𑄣𑄴-𑄥𑄳𑄇𑄳𑄠𑄚𑄴𑄓𑄨𑄚𑄬𑄞𑄨𑄠𑄚𑄴
+unitslongunitlength-mile-scandinavianpatternone{0} 𑄟𑄬𑄣𑄴-𑄥𑄳𑄇𑄳𑄠𑄚𑄴𑄓𑄨𑄚𑄬𑄞𑄨𑄠𑄚𑄴
+unitslongunitlength-mile-scandinavianpatternother{0} 𑄟𑄬𑄣𑄴-𑄥𑄳𑄇𑄳𑄠𑄚𑄴𑄓𑄨𑄚𑄬𑄞𑄨𑄠𑄚𑄴
+unitslongunitdigital-gigabytepatternone{0} 𑄉𑄨𑄉𑄝𑄭𑄖𑄴
+unitslongunitdigital-gigabytepatternother{0} 𑄉𑄨𑄉𑄝𑄭𑄖𑄴
+unitslongunitdigital-gigabytedisplayName𑄉𑄨𑄉𑄝𑄭𑄖𑄴
+unitslongunitdigital-terabytepatternother{0} 𑄑𑄢𑄝𑄭𑄖𑄴
+unitslongunitdigital-terabytepatternone{0} 𑄑𑄢𑄝𑄭𑄖𑄴
+unitslongunitdigital-terabytedisplayName𑄑𑄢𑄝𑄭𑄖𑄴
+unitslongunitangle-revolutionpatternone{0} 𑄢𑄨𑄞𑄮𑄣𑄨𑄅𑄪𑄥𑄧𑄚𑄴
+unitslongunitangle-revolutionpatternother{0} 𑄊𑄪𑄢𑄮𑄚𑄴
+unitslongunitangle-revolutiondisplayName𑄊𑄪𑄢𑄮𑄚𑄴
+unitslongunitmass-metric-tondisplayName𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄑𑄧𑄚𑄴
+unitslongunitmass-metric-tonpatternother{0} 𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄑𑄧𑄚𑄴
+unitslongunitmass-metric-tonpatternone{0} 𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴 𑄑𑄧𑄚𑄴
+unitslongunittemperature-celsiuspatternone{0} 𑄓𑄨𑄉𑄳𑄢𑄩 𑄥𑄬𑄣𑄴𑄥𑄨𑄠𑄌𑄴
+unitslongunittemperature-celsiuspatternother{0} 𑄓𑄨𑄉𑄳𑄢𑄩 𑄥𑄬𑄣𑄴𑄥𑄨𑄠𑄌𑄴
+unitslongunittemperature-celsiusdisplayName𑄓𑄨𑄉𑄳𑄢𑄩 𑄥𑄬𑄣𑄴𑄥𑄨𑄠𑄌𑄴
+unitslongunitduration-weekperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄛𑄴𑄖
+unitslongunitduration-weekdisplayName𑄥𑄛𑄴𑄖
+unitslongunitduration-weekpatternother{0} 𑄥𑄛𑄴𑄖
+unitslongunitduration-weekpatternone{0} 𑄥𑄛𑄴𑄖
+unitslongunitconsumption-mile-per-gallon-imperialdisplayName𑄟𑄬𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄬
+unitslongunitconsumption-mile-per-gallon-imperialpatternone{0} 𑄟𑄬𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄬
+unitslongunitconsumption-mile-per-gallon-imperialpatternother{0} 𑄟𑄬𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄬
+unitslongunitdigital-megabytepatternone{0} 𑄟𑄬𑄉𑄝𑄭𑄖𑄴
+unitslongunitdigital-megabytepatternother{0} 𑄟𑄬𑄉𑄝𑄭𑄖𑄴
+unitslongunitdigital-megabytedisplayName𑄟𑄬𑄉𑄝𑄭𑄖𑄴
+unitslongunitmass-ounceperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitmass-ouncedisplayName𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitmass-ouncepatternother{0} 𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitmass-ouncepatternone{0} 𑄃𑄅𑄪𑄚𑄳𑄥𑄴
+unitslongunitenergy-kilojouledisplayName𑄇𑄨𑄣𑄮𑄎𑄪𑄣𑄴
+unitslongunitenergy-kilojoulepatternother{0} 𑄇𑄨𑄣𑄮𑄎𑄪𑄣𑄴
+unitslongunitenergy-kilojoulepatternone{0} 𑄇𑄨𑄣𑄮𑄎𑄪𑄣𑄴
+unitslongunitenergy-caloriepatternother{0} 𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitenergy-caloriepatternone{0} 𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitenergy-caloriedisplayName𑄇𑄳𑄠𑄣𑄮𑄢𑄨
+unitslongunitarea-square-milepatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄭
+unitslongunitarea-square-milepatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄭
+unitslongunitarea-square-miledisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄭
+unitslongunitarea-square-mileperUnitPattern𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄣𑄬{0}
+unitslongunitconcentr-millimole-per-literpatternother{0} 𑄟𑄨𑄣𑄨𑄟𑄮𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄣𑄨𑄑𑄢𑄬
+unitslongunitconcentr-millimole-per-literpatternone{0} 𑄟𑄨𑄣𑄨𑄟𑄮𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄣𑄨𑄑𑄢𑄬
+unitslongunitconcentr-millimole-per-literdisplayName𑄟𑄨𑄣𑄨𑄟𑄮𑄣𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄣𑄨𑄑𑄢𑄬
+unitslongunitpower-horsepowerpatternone{0} 𑄦𑄧𑄢𑄴𑄥𑄴𑄛𑄤𑄢𑄴
+unitslongunitpower-horsepowerpatternother{0} 𑄦𑄧𑄢𑄴𑄥𑄴𑄛𑄤𑄢𑄴
+unitslongunitpower-horsepowerdisplayName𑄦𑄧𑄢𑄴𑄥𑄴𑄛𑄤𑄢𑄴
+unitslongunitangle-radianpatternone{0} 𑄢𑄬𑄓𑄨𑄠𑄚𑄴
+unitslongunitangle-radianpatternother{0} 𑄢𑄬𑄓𑄨𑄠𑄳𑄠𑄚𑄴𑄥𑄴
+unitslongunitangle-radiandisplayName𑄢𑄬𑄓𑄨𑄠𑄚𑄴
+unitslongunitlength-kilometerpatternone{0} 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-kilometerpatternother{0} 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-kilometerdisplayName𑄇𑄨𑄣𑄮𑄟𑄨𑄢𑄢𑄴
+unitslongunitlength-kilometerperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-hectoliterpatternother{0} 𑄦𑄬𑄇𑄴𑄑𑄮𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-hectoliterpatternone{0} 𑄦𑄬𑄇𑄴𑄑𑄮𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-hectoliterdisplayName𑄦𑄬𑄇𑄴𑄑𑄮𑄣𑄨𑄑𑄢𑄴
+unitslongunitlength-decimeterdisplayName𑄓𑄬𑄥𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-decimeterpatternother{0} 𑄓𑄬𑄥𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-decimeterpatternone{0} 𑄓𑄬𑄥𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-light-yearpatternone{0} 𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitlength-light-yearpatternother{0} 𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitlength-light-yeardisplayName𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄧𑄢𑄴
+unitslongunitvolume-tablespoonpatternone{0} 𑄑𑄬𑄝𑄨𑄣𑄴 𑄌𑄟𑄬𑄌𑄴
+unitslongunitvolume-tablespoonpatternother{0} 𑄑𑄬𑄝𑄨𑄣𑄴 𑄌𑄟𑄬𑄌𑄴
+unitslongunitvolume-tablespoondisplayName𑄑𑄬𑄝𑄨𑄣𑄴 𑄌𑄟𑄬𑄌𑄴
+unitslongunitarea-square-yardpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄉𑄧𑄌𑄴
+unitslongunitarea-square-yardpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄉𑄧𑄌𑄴
+unitslongunitarea-square-yarddisplayNameyd²
+unitslongunitfrequency-gigahertzdisplayName𑄉𑄨𑄉𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-gigahertzpatternone{0} 𑄉𑄨𑄉𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-gigahertzpatternother{0} 𑄉𑄨𑄉𑄦𑄢𑄴𑄎𑄴
+unitslongunitpressure-pound-per-square-inchpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧𑄃𑄨𑄚𑄴𑄌𑄨 𑄛𑄳𑄢𑄧𑄖𑄨 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitpressure-pound-per-square-inchpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧𑄃𑄨𑄚𑄴𑄌𑄨 𑄛𑄳𑄢𑄧𑄖𑄨 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitpressure-pound-per-square-inchdisplayName𑄝𑄧𑄢𑄴𑄉𑄧𑄃𑄨𑄚𑄴𑄌𑄨 𑄛𑄳𑄢𑄧𑄖𑄨 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitvolume-gallondisplayName𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitvolume-gallonperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitvolume-gallonpatternother{0} 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitvolume-gallonpatternone{0} 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitconcentr-part-per-millionpatternone{0} 𑄞𑄧𑄇𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄘𑄧𑄌𑄴 𑄣𑄉𑄬
+unitslongunitconcentr-part-per-millionpatternother{0} 𑄞𑄧𑄇𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄘𑄧𑄌𑄴 𑄣𑄉𑄬
+unitslongunitconcentr-part-per-milliondisplayName𑄞𑄇𑄴, 𑄛𑄳𑄢𑄧𑄖𑄨 𑄘𑄧𑄌𑄴 𑄣𑄬𑄉
+unitslongunitmass-poundpatternone{0} 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitmass-poundpatternother{0} 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitmass-poundperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitmass-pounddisplayName𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitslongunitvolume-fluid-ouncepatternother{0} 𑄜𑄳𑄣𑄪𑄃𑄨𑄓𑄴 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitslongunitvolume-fluid-ouncepatternone{0} 𑄜𑄳𑄣𑄪𑄃𑄨𑄓𑄴 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitslongunitvolume-fluid-ouncedisplayName𑄜𑄳𑄣𑄪𑄃𑄨𑄓𑄴 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitslongunitlength-centimeterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-centimeterdisplayName𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-centimeterpatternother{0} 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-centimeterpatternone{0} 𑄥𑄬𑄚𑄴𑄑𑄨𑄟𑄨𑄑𑄢𑄴
+unitslongunitlength-parsecdisplayNameparsecs
+unitslongunitlength-parsecpatternother{0} parsecs
+unitslongunitlength-parsecpatternone{0} parsec
+unitslongunitmass-gramperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-gramdisplayName𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-grampatternone{0} 𑄉𑄳𑄢𑄟𑄴
+unitslongunitmass-grampatternother{0} 𑄉𑄳𑄢𑄟𑄴
+unitslongunitvolume-cubic-inchdisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitvolume-cubic-inchpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitvolume-cubic-inchpatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄃𑄨𑄚𑄴𑄌𑄨
+unitslongunitdigital-gigabitpatternother{0} 𑄉𑄨𑄉𑄝𑄨𑄖𑄴
+unitslongunitdigital-gigabitpatternone{0} 𑄉𑄨𑄉𑄝𑄨𑄖𑄴
+unitslongunitdigital-gigabitdisplayName𑄉𑄨𑄉𑄝𑄨𑄖𑄴
+unitslongunitconcentr-karatdisplayName𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitslongunitconcentr-karatpatternone{0} 𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitslongunitconcentr-karatpatternother{0} 𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitslongunittemperature-genericdisplayName°
+unitslongunittemperature-genericpatternother{0}°
+unitslongunittemperature-genericpatternone{0}°
+unitslongunitduration-nanoseconddisplayName𑄚𑄳𑄠𑄚𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-nanosecondpatternone{0} 𑄚𑄳𑄠𑄚𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitduration-nanosecondpatternother{0} 𑄚𑄳𑄠𑄚𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitangle-arc-minutepatternother{0} 𑄃𑄢𑄴𑄇𑄴-𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitangle-arc-minutepatternone{0} 𑄃𑄢𑄴𑄇𑄴-𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitangle-arc-minutedisplayName𑄃𑄢𑄴𑄇𑄴-𑄟𑄨𑄚𑄨𑄖𑄴
+unitslongunitfrequency-megahertzdisplayName𑄟𑄬𑄉𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-megahertzpatternother{0} 𑄟𑄬𑄉𑄦𑄢𑄴𑄎𑄴
+unitslongunitfrequency-megahertzpatternone{0} 𑄟𑄬𑄉𑄦𑄢𑄴𑄎𑄴
+unitslongunitduration-hourperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄊𑄧𑄚𑄴𑄘
+unitslongunitduration-hourdisplayName𑄊𑄧𑄚𑄴𑄘
+unitslongunitduration-hourpatternone{0} 𑄊𑄧𑄚𑄴𑄘
+unitslongunitduration-hourpatternother{0} 𑄊𑄧𑄚𑄴𑄘
+unitslongunitvolume-acre-footdisplayName𑄃𑄬𑄇𑄧𑄢𑄴-𑄜𑄪𑄖𑄴
+unitslongunitvolume-acre-footpatternother{0} 𑄃𑄬𑄇𑄧𑄢𑄴-𑄜𑄪𑄖𑄴
+unitslongunitvolume-acre-footpatternone{0} 𑄃𑄬𑄇𑄧𑄢𑄴-𑄜𑄪𑄖𑄴
+unitslongunitvolume-gallon-imperialdisplayName𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitvolume-gallon-imperialperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitvolume-gallon-imperialpatternother{0} 𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitvolume-gallon-imperialpatternone{0} 𑄃𑄨𑄟𑄴𑄛𑄬𑄢𑄨𑄠𑄣𑄴 𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitslongunitangle-arc-secondpatternone{0} 𑄃𑄢𑄴𑄇𑄴𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitangle-arc-secondpatternother{0} 𑄃𑄢𑄴𑄇𑄴𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitangle-arc-seconddisplayName𑄃𑄢𑄴𑄇𑄴𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitslongunitpower-kilowattpatternother{0} 𑄇𑄨𑄣𑄮𑄤𑄖𑄴
+unitslongunitpower-kilowattpatternone{0} 𑄇𑄨𑄣𑄮𑄤𑄖𑄴
+unitslongunitpower-kilowattdisplayName𑄇𑄨𑄣𑄮𑄤𑄖𑄴
+unitslongunitvolume-literpatternother{0} 𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-literpatternone{0} 𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-literdisplayName𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-literperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄣𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-meterpatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-meterpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-meterdisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄨𑄑𑄢𑄴
+unitslongunitvolume-cubic-meterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄟𑄨𑄑𑄢𑄴
+unitslongunitpower-megawattpatternother{0} 𑄟𑄬𑄉𑄤𑄖𑄴
+unitslongunitpower-megawattpatternone{0} 𑄟𑄬𑄉𑄤𑄖𑄴
+unitslongunitpower-megawattdisplayName𑄟𑄬𑄉𑄤𑄖𑄴
+unitslongcompoundUnitperpattern{1} 𑄛𑄳𑄢𑄧𑄖𑄨 {0}
+unitsnarrowcoordinateUnitsouth{0}𑄘𑄧
+unitsnarrowcoordinateUnitnorth{0}𑄅𑄪
+unitsnarrowcoordinateUnitwest{0}𑄛𑄧
+unitsnarrowcoordinateUniteast{0}𑄛𑄪
+unitsnarrowunitpower-horsepowerpatternone{0} hp
+unitsnarrowunitpower-horsepowerpatternother{0} hp
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunittemperature-celsiuspatternone{0}°C
+unitsnarrowunitmass-ouncepatternother{0} 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitsnarrowunitmass-ouncepatternone{0} 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitsnarrowunitlength-light-yearpatternother{0} 𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄢𑄴
+unitsnarrowunitlength-light-yearpatternone{0} 𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄢𑄴
+unitsnarrowunitarea-square-milepatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄣𑄴
+unitsnarrowunitarea-square-milepatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄣𑄴
+unitsnarrowunitlength-kilometerdisplayName𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitsnarrowunitlength-kilometerpatternone{0} 𑄇𑄨𑄟𑄨
+unitsnarrowunitlength-kilometerpatternother{0} 𑄇𑄨𑄟𑄨
+unitsnarrowunitduration-weekpatternone{0} 𑄥𑄛𑄴𑄖
+unitsnarrowunitduration-weekpatternother{0} 𑄥𑄛𑄴𑄖
+unitsnarrowunitduration-weekdisplayName𑄥𑄛𑄴𑄖
+unitsnarrowunitpower-wattpatternone{0} 𑄤𑄖𑄴
+unitsnarrowunitpower-wattpatternother{0} 𑄤𑄖𑄴
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0}kph
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0}kph
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekm/hr
+unitsnarrowunitlength-footpatternother{0} 𑄜𑄪𑄖𑄴
+unitsnarrowunitlength-footpatternone{0} 𑄜𑄪𑄖𑄴
+unitsnarrowunitduration-yearpatternother{0} 𑄝𑄧𑄏𑄧𑄢𑄴
+unitsnarrowunitduration-yearpatternone{0} 𑄝𑄧𑄏𑄧𑄢𑄴
+unitsnarrowunitduration-yeardisplayName𑄝𑄧𑄏𑄧𑄢𑄴
+unitsnarrowunitlength-milepatternother{0} 𑄟𑄬𑄣𑄴
+unitsnarrowunitlength-milepatternone{0} 𑄟𑄬𑄣𑄴
+unitsnarrowunitlength-millimeterdisplayName𑄟𑄨𑄟𑄨
+unitsnarrowunitlength-millimeterpatternone{0} 𑄟𑄨𑄟𑄨
+unitsnarrowunitlength-millimeterpatternother{0} 𑄟𑄨𑄟𑄨
+unitsnarrowunitduration-monthdisplayName𑄟𑄌𑄴
+unitsnarrowunitduration-monthpatternone{0} 𑄟𑄌𑄴
+unitsnarrowunitduration-monthpatternother{0} 𑄟𑄌𑄴
+unitsnarrowunitarea-square-meterpatternother{0} m²
+unitsnarrowunitarea-square-meterpatternone{0} m²
+unitsnarrowunitangle-arc-secondpatternother{0}𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsnarrowunitangle-arc-secondpatternone{0}𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsnarrowunitvolume-literdisplayName𑄣𑄨𑄑𑄢𑄴
+unitsnarrowunitvolume-literpatternone{0} 𑄣𑄨𑄑𑄢𑄴
+unitsnarrowunitvolume-literpatternother{0} 𑄣𑄨𑄑𑄢𑄴
+unitsnarrowunitpower-kilowattpatternone{0} 𑄇𑄨𑄣𑄮𑄤𑄖𑄴
+unitsnarrowunitpower-kilowattpatternother{0} 𑄇𑄨𑄣𑄮𑄤𑄖𑄴
+unitsnarrowunitduration-hourpatternother{0} 𑄊𑄂
+unitsnarrowunitduration-hourpatternone{0} 𑄊𑄂
+unitsnarrowunitduration-hourdisplayName𑄊𑄧𑄚𑄴𑄑
+unitsnarrowunitangle-arc-minutepatternother{0}𑄟𑄨𑄚𑄨𑄖𑄴
+unitsnarrowunitangle-arc-minutepatternone{0}𑄟𑄨𑄚𑄨𑄖𑄴
+unitsnarrowunitlength-centimeterpatternone{0} 𑄥𑄬𑄟𑄨
+unitsnarrowunitlength-centimeterpatternother{0} 𑄥𑄬𑄟𑄨
+unitsnarrowunitlength-centimeterdisplayName𑄥𑄬𑄟𑄨
+unitsnarrowunitmass-poundpatternother{0} 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitsnarrowunitmass-poundpatternone{0} 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitsnarrowunitmass-gramdisplayName𑄉𑄳𑄢𑄟𑄴
+unitsnarrowunitmass-grampatternone{0} 𑄉𑄳𑄢𑄟𑄴
+unitsnarrowunitmass-grampatternother{0} 𑄉𑄳𑄢𑄟𑄴
+unitsnarrowunitpressure-hectopascalpatternone{0} hPa
+unitsnarrowunitpressure-hectopascalpatternother{0} hPa
+unitsnarrowunitduration-seconddisplayName𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsnarrowunitduration-secondpatternone{0} 𑄥𑄬𑄂
+unitsnarrowunitduration-secondpatternother{0} 𑄥𑄬𑄂
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNameL/100km
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0} L/100km
+unitsnarrowunitconsumption-liter-per-100kilometerspatternone{0} L/100km
+unitsnarrowunitarea-square-kilometerpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄟𑄨
+unitsnarrowunitarea-square-kilometerpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄟𑄨
+unitsnarrowunitarea-square-footpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitsnarrowunitarea-square-footpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitsnarrowunitacceleration-g-forcepatternother{0} 𑄎𑄨-𑄝𑄧𑄣𑄴
+unitsnarrowunitacceleration-g-forcepatternone{0} 𑄎𑄨-𑄝𑄧𑄣𑄴
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunitvolume-cubic-milepatternone{0}mi³
+unitsnarrowunitvolume-cubic-milepatternother{0}mi³
+unitsnarrowunitspeed-mile-per-hourpatternother{0}mph
+unitsnarrowunitspeed-mile-per-hourpatternone{0}mph
+unitsnarrowunitarea-acrepatternone{0} 𑄃𑄬𑄉𑄧𑄢𑄴
+unitsnarrowunitarea-acrepatternother{0} 𑄃𑄬𑄉𑄧𑄢𑄴
+unitsnarrowunitlength-picometerpatternone{0}𑄛𑄨𑄟𑄨
+unitsnarrowunitlength-picometerpatternother{0} 𑄛𑄨𑄟𑄨
+unitsnarrowunitangle-degreepatternone{0}𑄓𑄨𑄉𑄳𑄢𑄩
+unitsnarrowunitangle-degreepatternother{0}𑄓𑄨𑄉𑄳𑄢𑄩
+unitsnarrowunitarea-hectarepatternone{0} 𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitsnarrowunitarea-hectarepatternother{0} 𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitsnarrowunitpressure-millibarpatternother{0} mb
+unitsnarrowunitpressure-millibarpatternone{0} mb
+unitsnarrowunitduration-milliseconddisplayName𑄟𑄨𑄣𑄨𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsnarrowunitduration-millisecondpatternother{0} ms
+unitsnarrowunitduration-millisecondpatternone{0} ms
+unitsnarrowunitpressure-inch-hgpatternone{0} inHg
+unitsnarrowunitpressure-inch-hgpatternother{0} inHg
+unitsnarrowunitmass-kilogramdisplayName𑄇𑄬𑄎𑄨
+unitsnarrowunitmass-kilogrampatternone{0} 𑄇𑄬𑄎𑄨
+unitsnarrowunitmass-kilogrampatternother{0} 𑄇𑄬𑄎𑄨
+unitsnarrowunitlength-yardpatternone{0} 𑄉𑄧𑄌𑄴
+unitsnarrowunitlength-yardpatternother{0} 𑄉𑄧𑄌𑄴
+unitsnarrowunitlength-meterpatternone{0} 𑄟𑄨
+unitsnarrowunitlength-meterpatternother{0} 𑄟𑄨
+unitsnarrowunitlength-meterdisplayName𑄟𑄨𑄑𑄢𑄴
+unitsnarrowunitduration-daypatternother{0} 𑄘𑄨𑄚𑄴
+unitsnarrowunitduration-daypatternone{0} 𑄘𑄨𑄚𑄴
+unitsnarrowunitduration-daydisplayName𑄘𑄨𑄚𑄴
+unitsnarrowunitduration-minutepatternone{0} 𑄟𑄨𑄂
+unitsnarrowunitduration-minutepatternother{0} 𑄟𑄨𑄂
+unitsnarrowunitduration-minutedisplayName𑄟𑄨𑄚𑄨𑄖𑄴
+unitsnarrowunitlength-inchpatternone{0} 𑄃𑄨𑄚𑄴𑄌𑄨
+unitsnarrowunitlength-inchpatternother{0} 𑄃𑄨𑄚𑄴𑄌𑄨
+unitsnarrowunitvolume-cubic-kilometerpatternother{0}km³
+unitsnarrowunitvolume-cubic-kilometerpatternone{0}km³
+unitsnarrowunitspeed-meter-per-secondpatternone{0}m/s
+unitsnarrowunitspeed-meter-per-secondpatternother{0}m/s
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitsshortunitvolume-fluid-ouncedisplayNamefl oz
+unitsshortunitvolume-fluid-ouncepatternone{0} fl oz
+unitsshortunitvolume-fluid-ouncepatternother{0} fl oz
+unitsshortunitlength-centimeterdisplayName𑄥𑄬𑄟𑄨
+unitsshortunitlength-centimeterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄟𑄨
+unitsshortunitlength-centimeterpatternone{0} 𑄥𑄬𑄟𑄨
+unitsshortunitlength-centimeterpatternother{0} 𑄥𑄬𑄟𑄨
+unitsshortunitmass-gramdisplayName𑄉𑄳𑄢𑄟𑄴
+unitsshortunitmass-gramperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄉𑄳𑄢𑄟𑄴
+unitsshortunitmass-grampatternone{0}𑄉𑄳𑄢𑄟𑄴
+unitsshortunitmass-grampatternother{0} 𑄉𑄳𑄢𑄟𑄴
+unitsshortunitlength-parsecpatternone{0} pc
+unitsshortunitlength-parsecpatternother{0} pc
+unitsshortunitlength-parsecdisplayNameparsecs
+unitsshortunitdigital-gigabitdisplayNameGb
+unitsshortunitdigital-gigabitpatternone{0} Gb
+unitsshortunitdigital-gigabitpatternother{0} Gb
+unitsshortunitvolume-cubic-inchpatternother{0} in³
+unitsshortunitvolume-cubic-inchpatternone{0} in³
+unitsshortunitvolume-cubic-inchdisplayNamein³
+unitsshortunitconcentr-karatdisplayName𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitsshortunitconcentr-karatpatternother{0} kt
+unitsshortunitconcentr-karatpatternone{0} kt
+unitsshortunittemperature-genericpatternone{0}°
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunittemperature-genericdisplayName°
+unitsshortunitvolume-tablespoondisplayNametbsp
+unitsshortunitvolume-tablespoonpatternone{0} tbsp
+unitsshortunitvolume-tablespoonpatternother{0} tbsp
+unitsshortunitfrequency-gigahertzpatternother{0} GHz
+unitsshortunitfrequency-gigahertzpatternone{0} GHz
+unitsshortunitfrequency-gigahertzdisplayNameGHz
+unitsshortunitpressure-pound-per-square-inchpatternother{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternone{0} psi
+unitsshortunitpressure-pound-per-square-inchdisplayNamepsi
+unitsshortunitarea-square-yardpatternother{0} yd²
+unitsshortunitarea-square-yardpatternone{0} yd²
+unitsshortunitarea-square-yarddisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄉𑄧𑄌𑄴
+unitsshortunitvolume-gallonpatternother{0} gal
+unitsshortunitvolume-gallonpatternone{0} gal
+unitsshortunitvolume-gallonperUnitPattern{0}/gal US
+unitsshortunitvolume-gallondisplayNamegal
+unitsshortunitconcentr-part-per-milliondisplayNameppm
+unitsshortunitconcentr-part-per-millionpatternone{0} ppm
+unitsshortunitconcentr-part-per-millionpatternother{0} ppm
+unitsshortunitmass-poundperUnitPattern{0}/lb
+unitsshortunitmass-pounddisplayName𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitsshortunitmass-poundpatternone{0} 𑄛𑄅𑄪𑄚𑄳𑄓𑄴
+unitsshortunitmass-poundpatternother{0} lb
+unitsshortunitangle-arc-secondpatternother{0} 𑄃𑄢𑄴𑄇𑄴𑄥𑄬𑄇𑄴
+unitsshortunitangle-arc-secondpatternone{0} 𑄃𑄢𑄴𑄇𑄴𑄥𑄬𑄇𑄴
+unitsshortunitangle-arc-seconddisplayName𑄃𑄢𑄴𑄇𑄴𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitvolume-gallon-imperialpatternother{0} gal Imp.
+unitsshortunitvolume-gallon-imperialpatternone{0} gal Imp.
+unitsshortunitvolume-gallon-imperialdisplayNameImp. gal
+unitsshortunitvolume-gallon-imperialperUnitPattern{0}/gal Imp.
+unitsshortunitvolume-acre-footdisplayNameac ft
+unitsshortunitvolume-acre-footpatternother{0} ac ft
+unitsshortunitvolume-acre-footpatternone{0} ac ft
+unitsshortunitpower-kilowattpatternother{0} kW
+unitsshortunitpower-kilowattpatternone{0} kW
+unitsshortunitpower-kilowattdisplayNamekW
+unitsshortunitpower-megawattpatternone{0} MW
+unitsshortunitpower-megawattpatternother{0} MW
+unitsshortunitpower-megawattdisplayNameMW
+unitsshortunitvolume-literpatternother{0} 𑄣𑄨𑄑𑄢𑄴
+unitsshortunitvolume-literpatternone{0} 𑄣𑄨𑄑𑄢𑄴
+unitsshortunitvolume-literdisplayName𑄣𑄨𑄑𑄢𑄴
+unitsshortunitvolume-literperUnitPattern{0}/l
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/m³
+unitsshortunitvolume-cubic-meterdisplayNamem³
+unitsshortunitvolume-cubic-meterpatternone{0} m³
+unitsshortunitvolume-cubic-meterpatternother{0} m³
+unitsshortunitduration-nanosecondpatternother{0} ns
+unitsshortunitduration-nanosecondpatternone{0} ns
+unitsshortunitduration-nanoseconddisplayName𑄚𑄳𑄠𑄚𑄮𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitfrequency-megahertzdisplayNameMHz
+unitsshortunitfrequency-megahertzpatternother{0} MHz
+unitsshortunitfrequency-megahertzpatternone{0} MHz
+unitsshortunitangle-arc-minutepatternone{0} 𑄃𑄢𑄴𑄇𑄴𑄟𑄨𑄚𑄴
+unitsshortunitangle-arc-minutepatternother{0} 𑄃𑄢𑄴𑄇𑄴𑄟𑄨𑄚𑄴
+unitsshortunitangle-arc-minutedisplayName𑄃𑄢𑄴𑄇𑄴𑄟𑄨𑄚𑄴
+unitsshortunitduration-hourpatternother{0} 𑄊𑄧𑄚𑄴𑄑
+unitsshortunitduration-hourpatternone{0} 𑄊𑄧𑄚𑄴𑄑
+unitsshortunitduration-hourperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄊𑄧𑄚𑄴𑄑
+unitsshortunitduration-hourdisplayName𑄊𑄧𑄚𑄴𑄑
+unitsshortunitelectric-milliamperedisplayNamemA
+unitsshortunitelectric-milliamperepatternone{0} mA
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitvolume-cupdisplayNamecup
+unitsshortunitvolume-cuppatternone{0} c
+unitsshortunitvolume-cuppatternother{0} c
+unitsshortunitduration-monthpatternone{0} 𑄟𑄌𑄴
+unitsshortunitduration-monthpatternother{0} 𑄟𑄌𑄴
+unitsshortunitduration-monthperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄌𑄴
+unitsshortunitduration-monthdisplayName𑄟𑄌𑄴
+unitsshortunitdigital-bitdisplayName𑄝𑄨𑄖𑄴
+unitsshortunitdigital-bitpatternone{0} 𑄝𑄨𑄖𑄴
+unitsshortunitdigital-bitpatternother{0} 𑄝𑄨𑄖𑄴
+unitsshortunitlength-milepatternother{0} 𑄟𑄬𑄣𑄴
+unitsshortunitlength-milepatternone{0} 𑄟𑄬𑄣𑄴
+unitsshortunitlength-miledisplayName𑄟𑄬𑄣𑄴
+unitsshortunitlength-millimeterpatternother{0} 𑄟𑄨𑄟𑄨
+unitsshortunitlength-millimeterpatternone{0} 𑄟𑄨𑄟𑄨
+unitsshortunitlength-millimeterdisplayName𑄟𑄨𑄟𑄨
+unitsshortunitlength-mile-scandinaviandisplayNamesmi
+unitsshortunitlength-mile-scandinavianpatternother{0} smi
+unitsshortunitlength-mile-scandinavianpatternone{0} smi
+unitsshortunitspeed-kilometer-per-hourpatternother{0} km/h
+unitsshortunitspeed-kilometer-per-hourpatternone{0} kph
+unitsshortunitspeed-kilometer-per-hourdisplayNamekm/h
+unitsshortunitpower-wattpatternone{0} W
+unitsshortunitpower-wattpatternother{0} W
+unitsshortunitpower-wattdisplayName𑄤𑄖𑄴
+unitsshortunitlength-nautical-milepatternone{0} nmi
+unitsshortunitlength-nautical-milepatternother{0} nmi
+unitsshortunitlength-nautical-miledisplayNamenmi
+unitsshortunitspeed-knotpatternone{0} kn
+unitsshortunitspeed-knotpatternother{0} kn
+unitsshortunitspeed-knotdisplayNamekn
+unitsshortunitduration-yearpatternother{0} 𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitduration-yearpatternone{0} 𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitduration-yeardisplayName𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitduration-yearperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternone{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemg/dL
+unitsshortunitdigital-megabitdisplayNameMb
+unitsshortunitdigital-megabitpatternother{0} Mb
+unitsshortunitdigital-megabitpatternone{0} Mb
+unitsshortunitarea-square-meterpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄨𑄑𑄢𑄴
+unitsshortunitarea-square-meterpatternother{0} m²
+unitsshortunitarea-square-meterdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄨𑄑𑄢𑄴
+unitsshortunitarea-square-meterperUnitPattern{0}/m²
+unitsshortunitlength-footpatternone{0} 𑄜𑄪𑄖𑄴
+unitsshortunitlength-footpatternother{0} 𑄜𑄪𑄖𑄴
+unitsshortunitlength-footperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄜𑄪𑄖𑄴
+unitsshortunitlength-footdisplayName𑄜𑄪𑄖𑄴
+unitsshortunitmass-milligramdisplayNamemg
+unitsshortunitmass-milligrampatternone{0} mg
+unitsshortunitmass-milligrampatternother{0} mg
+unitsshortunitpower-gigawattpatternone{0} GW
+unitsshortunitpower-gigawattpatternother{0} GW
+unitsshortunitpower-gigawattdisplayNameGW
+unitsshortunitenergy-caloriepatternone{0} cal
+unitsshortunitenergy-caloriepatternother{0} cal
+unitsshortunitenergy-caloriedisplayNamecal
+unitsshortunitconcentr-millimole-per-literdisplayNamemmol/L
+unitsshortunitconcentr-millimole-per-literpatternother{0} mmol/L
+unitsshortunitconcentr-millimole-per-literpatternone{0} mmol/L
+unitsshortunitarea-square-miledisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄣𑄴
+unitsshortunitarea-square-mileperUnitPattern{0}/mi²
+unitsshortunitarea-square-milepatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄣𑄴
+unitsshortunitarea-square-milepatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄟𑄬𑄣𑄴
+unitsshortunitangle-radianpatternone{0} rad
+unitsshortunitangle-radianpatternother{0} rad
+unitsshortunitangle-radiandisplayName𑄢𑄬𑄓𑄨𑄠𑄳𑄠𑄚𑄳𑄌𑄴
+unitsshortunitpower-horsepowerpatternone{0} hp
+unitsshortunitpower-horsepowerpatternother{0} hp
+unitsshortunitpower-horsepowerdisplayNamehp
+unitsshortunitvolume-hectoliterpatternother{0} hL
+unitsshortunitvolume-hectoliterpatternone{0} hL
+unitsshortunitvolume-hectoliterdisplayNamehL
+unitsshortunitlength-kilometerperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄨𑄟𑄨
+unitsshortunitlength-kilometerdisplayName𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitsshortunitlength-kilometerpatternother{0} 𑄇𑄨𑄟𑄨
+unitsshortunitlength-kilometerpatternone{0} 𑄇𑄨𑄟𑄨
+unitsshortunitlength-decimeterdisplayName𑄓𑄬𑄟𑄨
+unitsshortunitlength-decimeterpatternother{0} 𑄓𑄬𑄟𑄨
+unitsshortunitlength-decimeterpatternone{0} 𑄓𑄬𑄟𑄨
+unitsshortunitlength-light-yearpatternother{0} 𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitlength-light-yearpatternone{0} 𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitlength-light-yeardisplayName𑄃𑄣𑄮𑄇𑄴𑄝𑄧𑄏𑄧𑄢𑄴
+unitsshortunitdigital-gigabytedisplayNameGB
+unitsshortunitdigital-gigabytepatternother{0} GB
+unitsshortunitdigital-gigabytepatternone{0} GB
+unitsshortunitangle-revolutionpatternone{0} 𑄊𑄪𑄢𑄰𑄱
+unitsshortunitangle-revolutionpatternother{0} 𑄊𑄪𑄢𑄰𑄱
+unitsshortunitangle-revolutiondisplayName𑄊𑄪𑄢𑄰𑄱
+unitsshortunitdigital-terabytedisplayNameTByte
+unitsshortunitdigital-terabytepatternone{0} TB
+unitsshortunitdigital-terabytepatternother{0} TB
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunittemperature-celsiuspatternone{0}°C
+unitsshortunittemperature-celsiusdisplayNamedeg. C
+unitsshortunitmass-metric-tondisplayNamet
+unitsshortunitmass-metric-tonpatternone{0} t
+unitsshortunitmass-metric-tonpatternother{0} t
+unitsshortunitdigital-megabytedisplayNameMB
+unitsshortunitdigital-megabytepatternone{0} MB
+unitsshortunitdigital-megabytepatternother{0} MB
+unitsshortunitduration-weekdisplayName𑄥𑄛𑄴𑄖
+unitsshortunitduration-weekperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄛𑄴𑄖
+unitsshortunitduration-weekpatternother{0} 𑄥𑄛𑄴𑄖
+unitsshortunitduration-weekpatternone{0} 𑄥𑄛𑄴𑄖
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNamemiles/gal Imp
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} mpg Imp.
+unitsshortunitconsumption-mile-per-gallon-imperialpatternone{0} mpg Imp.
+unitsshortunitenergy-kilojouledisplayNamekJ
+unitsshortunitenergy-kilojoulepatternother{0} kJ
+unitsshortunitenergy-kilojoulepatternone{0} kJ
+unitsshortunitmass-ouncepatternone{0} 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitsshortunitmass-ouncepatternother{0} 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitsshortunitmass-ouncedisplayName𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitsshortunitmass-ounceperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄅𑄪𑄚𑄳𑄌𑄴
+unitsshortunitvolume-quartpatternother{0} qt
+unitsshortunitvolume-quartpatternone{0} qt
+unitsshortunitvolume-quartdisplayNameqt
+unitsshortunitvolume-cubic-centimeterpatternone{0} cm³
+unitsshortunitvolume-cubic-centimeterpatternother{0} cm³
+unitsshortunitvolume-cubic-centimeterdisplayNamecm³
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/cm³
+unitsshortunitvolume-cubic-footpatternone{0} ft³
+unitsshortunitvolume-cubic-footpatternother{0} ft³
+unitsshortunitvolume-cubic-footdisplayNameft³
+unitsshortunitenergy-kilocaloriepatternother{0} kcal
+unitsshortunitenergy-kilocaloriepatternone{0} kcal
+unitsshortunitenergy-kilocaloriedisplayNamekcal
+unitsshortunitconsumption-mile-per-gallondisplayName𑄟𑄬𑄣𑄴/𑄉𑄳𑄠𑄣𑄧𑄚𑄴
+unitsshortunitconsumption-mile-per-gallonpatternother{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatternone{0} mpg
+unitsshortunitlength-nanometerpatternone{0} nm
+unitsshortunitlength-nanometerpatternother{0} nm
+unitsshortunitlength-nanometerdisplayNamenm
+unitsshortunitmass-tonpatternone{0} tn
+unitsshortunitmass-tonpatternother{0} tn
+unitsshortunitmass-tondisplayNametn
+unitsshortunitduration-microseconddisplayNameμsecs
+unitsshortunitduration-microsecondpatternother{0} μs
+unitsshortunitduration-microsecondpatternone{0} μs
+unitsshortunitvolume-pintpatternother{0} pt
+unitsshortunitvolume-pintpatternone{0} pt
+unitsshortunitvolume-pintdisplayNamept
+unitsshortunitvolume-pint-metricdisplayNamempt
+unitsshortunitvolume-pint-metricpatternother{0} mpt
+unitsshortunitvolume-pint-metricpatternone{0} mpt
+unitsshortunitarea-square-inchperUnitPattern{0}/in²
+unitsshortunitarea-square-inchdisplayNamein²
+unitsshortunitarea-square-inchpatternother{0} in²
+unitsshortunitarea-square-inchpatternone{0} in²
+unitsshortunitenergy-kilowatt-hourpatternother{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternone{0} kWh
+unitsshortunitenergy-kilowatt-hourdisplayNamekWh
+unitsshortunitfrequency-hertzdisplayNameHz
+unitsshortunitfrequency-hertzpatternone{0} Hz
+unitsshortunitfrequency-hertzpatternother{0} Hz
+unitsshortunitlength-inchpatternone{0} 𑄃𑄨𑄚𑄴𑄌𑄨
+unitsshortunitlength-inchpatternother{0} 𑄃𑄨𑄚𑄴𑄌𑄨
+unitsshortunitlength-inchperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄃𑄨𑄚𑄴𑄌𑄨
+unitsshortunitlength-inchdisplayName𑄃𑄨𑄚𑄴𑄌𑄨
+unitsshortunitelectric-amperedisplayNameamp
+unitsshortunitelectric-amperepatternone{0} A
+unitsshortunitelectric-amperepatternother{0} A
+unitsshortunitdigital-bytedisplayName𑄝𑄭𑄖𑄴
+unitsshortunitdigital-bytepatternother{0} 𑄝𑄭𑄖𑄴
+unitsshortunitdigital-bytepatternone{0} 𑄝𑄭𑄖𑄴
+unitsshortunitfrequency-kilohertzpatternother{0} kHz
+unitsshortunitfrequency-kilohertzpatternone{0} kHz
+unitsshortunitfrequency-kilohertzdisplayNamekHz
+unitsshortunitlength-micrometerdisplayNameµmeters
+unitsshortunitlength-micrometerpatternone{0} µm
+unitsshortunitlength-micrometerpatternother{0} µm
+unitsshortunitmass-ounce-troydisplayNameoz t
+unitsshortunitmass-ounce-troypatternother{0} oz t
+unitsshortunitmass-ounce-troypatternone{0} oz t
+unitsshortunitpressure-millimeter-of-mercurypatternone{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemm Hg
+unitsshortunitmass-microgrampatternone{0} µg
+unitsshortunitmass-microgrampatternother{0} µg
+unitsshortunitmass-microgramdisplayNameµg
+unitsshortunitvolume-cubic-kilometerdisplayName𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitsshortunitvolume-cubic-kilometerpatternother{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitsshortunitvolume-cubic-kilometerpatternone{0} 𑄇𑄨𑄅𑄪𑄝𑄨𑄇𑄴 𑄇𑄨𑄣𑄮𑄟𑄨𑄑𑄢𑄴
+unitsshortunitdigital-kilobitdisplayNamekb
+unitsshortunitdigital-kilobitpatternone{0} kb
+unitsshortunitdigital-kilobitpatternother{0} kb
+unitsshortunitspeed-meter-per-secondpatternother{0} m/s
+unitsshortunitspeed-meter-per-secondpatternone{0} m/s
+unitsshortunitspeed-meter-per-seconddisplayName𑄟𑄨𑄑𑄢𑄴 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitduration-minuteperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄨𑄚𑄨𑄖𑄴
+unitsshortunitduration-minutedisplayName𑄟𑄨𑄚𑄨𑄖𑄴
+unitsshortunitduration-minutepatternother{0} 𑄟𑄨𑄚𑄨𑄖𑄴
+unitsshortunitduration-minutepatternone{0} 𑄟𑄨𑄚𑄨𑄖𑄴
+unitsshortunitlength-meterdisplayName𑄟𑄨𑄑𑄢𑄴
+unitsshortunitlength-meterperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄨
+unitsshortunitlength-meterpatternother{0} 𑄟𑄨
+unitsshortunitlength-meterpatternone{0} 𑄟𑄨
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitpressure-millibarpatternone{0} mbar
+unitsshortunitpressure-millibardisplayNamembar
+unitsshortunitduration-daydisplayName𑄘𑄨𑄚𑄴
+unitsshortunitduration-dayperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄘𑄨𑄚𑄴
+unitsshortunitduration-daypatternone{0} 𑄘𑄨𑄚𑄴
+unitsshortunitduration-daypatternother{0} 𑄘𑄨𑄚𑄴
+unitsshortunitvolume-teaspoonpatternother{0} tsp
+unitsshortunitvolume-teaspoonpatternone{0} tsp
+unitsshortunitvolume-teaspoondisplayNametsp
+unitsshortunitlength-yarddisplayName𑄉𑄧𑄌𑄴
+unitsshortunitlength-yardpatternother{0} 𑄉𑄧𑄌𑄴
+unitsshortunitlength-yardpatternone{0} 𑄉𑄧𑄌𑄴
+unitsshortunitmass-kilogramdisplayName𑄇𑄬𑄎𑄨
+unitsshortunitmass-kilogramperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄇𑄬𑄎𑄨
+unitsshortunitmass-kilogrampatternother{0} 𑄇𑄬𑄎𑄨
+unitsshortunitmass-kilogrampatternone{0} 𑄇𑄬𑄎𑄨
+unitsshortunitpressure-inch-hgdisplayNameinHg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitduration-millisecondpatternother{0} ms
+unitsshortunitduration-millisecondpatternone{0} ms
+unitsshortunitduration-milliseconddisplayName𑄟𑄨𑄣𑄨𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitvolume-centiliterpatternone{0} cL
+unitsshortunitvolume-centiliterpatternother{0} cL
+unitsshortunitvolume-centiliterdisplayNamecL
+unitsshortunitvolume-cubic-yardpatternone{0} yd³
+unitsshortunitvolume-cubic-yardpatternother{0} yd³
+unitsshortunitvolume-cubic-yarddisplayNameyd³
+unitsshortunitdigital-terabitpatternone{0} Tb
+unitsshortunitdigital-terabitpatternother{0} Tb
+unitsshortunitdigital-terabitdisplayNameTbit
+unitsshortunitelectric-voltdisplayName𑄞𑄮𑄣𑄴𑄑𑄴
+unitsshortunitelectric-voltpatternother{0} V
+unitsshortunitelectric-voltpatternone{0} V
+unitsshortunitlength-picometerdisplayName𑄛𑄨𑄟𑄨
+unitsshortunitlength-picometerpatternother{0} 𑄛𑄨𑄟𑄨
+unitsshortunitlength-picometerpatternone{0} 𑄛𑄨𑄟𑄨
+unitsshortunitlight-luxpatternother{0} lx
+unitsshortunitlight-luxpatternone{0} lx
+unitsshortunitlight-luxdisplayNamelx
+unitsshortunittemperature-kelvinpatternone{0} K
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunitduration-centurypatternother{0} 𑄥𑄧𑄖𑄧𑄇𑄴
+unitsshortunitduration-centurypatternone{0} 𑄥𑄧𑄖𑄧𑄇𑄴
+unitsshortunitduration-centurydisplayName𑄥𑄧𑄖𑄧𑄇𑄴
+unitsshortunitvolume-cubic-milepatternother{0} mi³
+unitsshortunitvolume-cubic-milepatternone{0} mi³
+unitsshortunitvolume-cubic-miledisplayNamemi³
+unitsshortunitvolume-cup-metricpatternone{0} mc
+unitsshortunitvolume-cup-metricpatternother{0} mc
+unitsshortunitvolume-cup-metricdisplayNamemcup
+unitsshortunitconsumption-liter-per-kilometerdisplayName𑄣𑄨𑄑𑄢𑄴/𑄇𑄨𑄟𑄨
+unitsshortunitconsumption-liter-per-kilometerpatternone{0} L/km
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} L/km
+unitsshortunitarea-hectarepatternone{0} 𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitsshortunitarea-hectarepatternother{0} 𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitsshortunitarea-hectaredisplayName𑄦𑄬𑄇𑄴𑄑𑄧𑄢𑄴
+unitsshortunitmass-caratpatternone{0} CD
+unitsshortunitmass-caratpatternother{0} CD
+unitsshortunitmass-caratdisplayName𑄇𑄳𑄠𑄢𑄬𑄖𑄴
+unitsshortunitarea-acredisplayName𑄃𑄬𑄉𑄧𑄢𑄴
+unitsshortunitarea-acrepatternother{0} 𑄃𑄬𑄉𑄧𑄢𑄴
+unitsshortunitarea-acrepatternone{0} 𑄃𑄬𑄉𑄧𑄢𑄴
+unitsshortunitangle-degreedisplayName𑄓𑄨𑄉𑄳𑄢𑄩
+unitsshortunitangle-degreepatternone{0}𑄓𑄨𑄉𑄳𑄢𑄩
+unitsshortunitangle-degreepatternother{0}𑄓𑄨𑄉𑄳𑄢𑄩
+unitsshortunitacceleration-meter-per-second-squareddisplayNamem/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} m/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternone{0} m/s²
+unitsshortunitenergy-joulepatternone{0} J
+unitsshortunitenergy-joulepatternother{0} J
+unitsshortunitenergy-jouledisplayName𑄎𑄪𑄣𑄴
+unitsshortunitpower-milliwattdisplayNamemW
+unitsshortunitpower-milliwattpatternother{0} mW
+unitsshortunitpower-milliwattpatternone{0} mW
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitdisplayName°F
+unitsshortunitspeed-mile-per-hourdisplayName𑄊𑄧𑄚𑄴𑄑 𑄛𑄳𑄢𑄧𑄖𑄨 𑄟𑄬𑄣𑄴
+unitsshortunitspeed-mile-per-hourpatternone{0} mph
+unitsshortunitspeed-mile-per-hourpatternother{0} mph
+unitsshortunitvolume-deciliterdisplayNamedL
+unitsshortunitvolume-deciliterpatternone{0} dL
+unitsshortunitvolume-deciliterpatternother{0} dL
+unitsshortunitduration-secondpatternother{0} 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitduration-secondpatternone{0} 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitduration-secondperUnitPattern{0} 𑄛𑄳𑄢𑄧𑄖𑄨 𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitduration-seconddisplayName𑄥𑄬𑄇𑄬𑄚𑄳𑄓𑄴
+unitsshortunitdigital-kilobytedisplayNamekB
+unitsshortunitdigital-kilobytepatternone{0} kB
+unitsshortunitdigital-kilobytepatternother{0} kB
+unitsshortunitarea-square-footpatternone{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitsshortunitarea-square-footpatternother{0} 𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitsshortunitarea-square-footdisplayName𑄝𑄧𑄢𑄴𑄉𑄧 𑄜𑄪𑄖𑄴
+unitsshortunitlength-astronomical-unitdisplayNameau
+unitsshortunitlength-astronomical-unitpatternone{0} au
+unitsshortunitlength-astronomical-unitpatternother{0} au
+unitsshortunitarea-square-centimeterperUnitPattern{0}/cm²
+unitsshortunitarea-square-centimeterdisplayNamecm²
+unitsshortunitarea-square-centimeterpatternother{0} cm²
+unitsshortunitarea-square-centimeterpatternone{0} cm²
+unitsshortunitvolume-milliliterdisplayNamemL
+unitsshortunitvolume-milliliterpatternone{0} mL
+unitsshortunitvolume-milliliterpatternother{0} mL
+unitsshortunitenergy-foodcaloriepatternother{0} Cal
+unitsshortunitenergy-foodcaloriepatternone{0} Cal
+unitsshortunitenergy-foodcaloriedisplayNameCal
+unitsshortunitpressure-hectopascalpatternother{0} hPa
+unitsshortunitpressure-hectopascalpatternone{0} hPa
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitvolume-megaliterpatternother{0} ML
+unitsshortunitvolume-megaliterpatternone{0} ML
+unitsshortunitvolume-megaliterdisplayNameML
+unitsshortunitelectric-ohmdisplayName𑄃𑄮𑄦𑄧𑄟𑄴
+unitsshortunitelectric-ohmpatternone{0} Ω
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitconsumption-liter-per-100kilometersdisplayNameL/100km
+unitsshortunitconsumption-liter-per-100kilometerspatternone{0} L/100km
+unitsshortunitconsumption-liter-per-100kilometerspatternother{0} L/100km
+unitsshortunitarea-square-kilometerpatternother{0} km²
+unitsshortunitarea-square-kilometerpatternone{0} km²
+unitsshortunitarea-square-kilometerperUnitPattern{0}/𑄝𑄧𑄢𑄴𑄉𑄧 𑄇𑄨𑄟𑄨
+unitsshortunitarea-square-kilometerdisplayNamekm²
+unitsshortunitacceleration-g-forcepatternone{0} G
+unitsshortunitacceleration-g-forcepatternother{0} G
+unitsshortunitacceleration-g-forcedisplayName𑄎𑄨-𑄝𑄧𑄣𑄴
+unitsshortcoordinateUnitwest{0}𑄛𑄧
+unitsshortcoordinateUniteast{0}𑄛𑄪
+unitsshortcoordinateUnitsouth{0}𑄘𑄧
+unitsshortcoordinateUnitnorth{0}𑄅𑄪
+unitsshortcompoundUnitperpattern{0}/{1}
+numbersdefaultNumberingSystemstandardcakm
+numbersdecimalFormatslatnstandardstandard#,##,##0.###
+numberssymbolscakmpercentSign%
+numberssymbolscakmperMille‰
+numberssymbolscakmexponentialE
+numberssymbolscakmnanNaN
+numberssymbolscakminfinity∞
+numberssymbolscakmdecimal.
+numberssymbolscakmsuperscriptingExponent×
+numberssymbolslatnplusSign+
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatntimeSeparator:
+numberssymbolslatnminusSign-
+numberssymbolslatnlist;
+numberssymbolslatndecimal.
+numberssymbolslatngroup,
+numberssymbolslatninfinity∞
+numberssymbolslatnnanNaN
+numberssymbolslatnexponentialE
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+numbersminimumGroupingDigits1
+numbersotherNumberingSystemsnativecakm
+numberscurrenciesHRKstandardHRK
+numberscurrenciesHRKnarrowkn
+numberscurrenciesSTNnarrowDb
+numberscurrenciesIQDstandardIQD
+numberscurrenciesMXNnarrow$
+numberscurrenciesMXNstandardMX$
+numberscurrenciesLKRnarrowRs
+numberscurrenciesLKRstandardLKR
+numberscurrenciesBRLnarrowR$
+numberscurrenciesBRLstandardR$
+numberscurrenciesILSstandard₪
+numberscurrenciesILSnarrow₪
+numberscurrenciesLBPstandardLBP
+numberscurrenciesLBPnarrowL£
+numberscurrenciesRSDstandardRSD
+numberscurrenciesDKKnarrowkr
+numberscurrenciesDKKstandardDKK
+numberscurrenciesTRYnarrow₺
+numberscurrenciesTRYvariantTL
+numberscurrenciesTRYstandardTRY
+numberscurrenciesTMMstandardTMM
+numberscurrenciesMMKstandardMMK
+numberscurrenciesMMKnarrowK
+numberscurrenciesNADnarrow$
+numberscurrenciesNADstandardNAD
+numberscurrenciesQARstandardQAR
+numberscurrenciesUZSstandardUZS
+numberscurrenciesTMTstandardTMT
+numberscurrenciesEURstandard€
+numberscurrenciesEURnarrow€
+numberscurrenciesFKPstandardFKP
+numberscurrenciesFKPnarrow£
+numberscurrenciesEGPnarrowE£
+numberscurrenciesEGPstandardEGP
+numberscurrenciesCDFstandardCDF
+numberscurrenciesBSDstandardBSD
+numberscurrenciesBSDnarrow$
+numberscurrenciesAOAstandardAOA
+numberscurrenciesAOAnarrowKz
+numberscurrenciesMROstandardMRO
+numberscurrenciesARSnarrow$
+numberscurrenciesARSstandardARS
+numberscurrenciesNOKnarrowkr
+numberscurrenciesNOKstandardNOK
+numberscurrenciesTWDnarrowNT$
+numberscurrenciesTWDstandardNT$
+numberscurrenciesBMDstandardBMD
+numberscurrenciesBMDnarrow$
+numberscurrenciesVEFnarrowBs
+numberscurrenciesVEFstandardVEF
+numberscurrenciesTZSstandardTZS
+numberscurrenciesBZDstandardBZD
+numberscurrenciesBZDnarrow$
+numberscurrenciesBYNstandardBYN
+numberscurrenciesBYNnarrowр.
+numberscurrenciesGHSstandardGHS
+numberscurrenciesBAMnarrowKM
+numberscurrenciesBAMstandardBAM
+numberscurrenciesLRDstandardLRD
+numberscurrenciesLRDnarrow$
+numberscurrenciesGIPstandardGIP
+numberscurrenciesGIPnarrow£
+numberscurrenciesSOSstandardSOS
+numberscurrenciesVNDstandard₫
+numberscurrenciesVNDnarrow₫
+numberscurrenciesGYDnarrow$
+numberscurrenciesGYDstandardGYD
+numberscurrenciesAMDstandardAMD
+numberscurrenciesMDLstandardMDL
+numberscurrenciesPKRstandardPKR
+numberscurrenciesPKRnarrowRs
+numberscurrenciesMYRstandardMYR
+numberscurrenciesMYRnarrowRM
+numberscurrenciesZMWnarrowZK
+numberscurrenciesZMWstandardZMW
+numberscurrenciesHUFstandardHUF
+numberscurrenciesHUFnarrowFt
+numberscurrenciesSYPstandardSYP
+numberscurrenciesSYPnarrow£
+numberscurrenciesSLLstandardSLL
+numberscurrenciesLYDstandardLYD
+numberscurrenciesNZDnarrow$
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesLVLstandardLVL
+numberscurrenciesMVRstandardMVR
+numberscurrenciesSTDstandardSTD
+numberscurrenciesCLPnarrow$
+numberscurrenciesCLPstandardCLP
+numberscurrenciesSSPstandardSSP
+numberscurrenciesSSPnarrow£
+numberscurrenciesHKDstandardHK$
+numberscurrenciesHKDnarrow$
+numberscurrenciesIRRstandardIRR
+numberscurrenciesHTGstandardHTG
+numberscurrenciesNGNnarrow₦
+numberscurrenciesNGNstandardNGN
+numberscurrenciesGNFnarrowFG
+numberscurrenciesGNFstandardGNF
+numberscurrenciesPGKstandardPGK
+numberscurrenciesZARstandardZAR
+numberscurrenciesZARnarrowR
+numberscurrenciesDZDstandardDZD
+numberscurrenciesUSDstandardUS$
+numberscurrenciesUSDnarrow$
+numberscurrenciesBIFstandardBIF
+numberscurrenciesUGXstandardUGX
+numberscurrenciesCHFstandardCHF
+numberscurrenciesCZKnarrowKč
+numberscurrenciesCZKstandardCZK
+numberscurrenciesKRWstandard₩
+numberscurrenciesKRWnarrow₩
+numberscurrenciesMNTstandardMNT
+numberscurrenciesMNTnarrow₮
+numberscurrenciesXOFstandardCFA
+numberscurrenciesSEKnarrowkr
+numberscurrenciesSEKstandardSEK
+numberscurrenciesTHBstandard฿
+numberscurrenciesTHBnarrow฿
+numberscurrenciesGBPstandard£
+numberscurrenciesGBPnarrow£
+numberscurrenciesJMDstandardJMD
+numberscurrenciesJMDnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesCUPnarrow$
+numberscurrenciesKMFnarrowCF
+numberscurrenciesKMFstandardKMF
+numberscurrenciesSZLstandardSZL
+numberscurrenciesANGstandardANG
+numberscurrenciesAFNstandardAFN
+numberscurrenciesKWDstandardKWD
+numberscurrenciesOMRstandardOMR
+numberscurrenciesSARstandardSAR
+numberscurrenciesMOPstandardMOP
+numberscurrenciesCADstandardCA$
+numberscurrenciesCADnarrow$
+numberscurrenciesAUDstandardA$
+numberscurrenciesAUDnarrow$
+numberscurrenciesBHDstandardBHD
+numberscurrenciesBDTnarrow৳
+numberscurrenciesBDTstandard৳
+numberscurrenciesKPWnarrow₩
+numberscurrenciesKPWstandardKPW
+numberscurrenciesCVEstandardCVE
+numberscurrenciesCRCnarrow₡
+numberscurrenciesCRCstandardCRC
+numberscurrenciesALLstandardALL
+numberscurrenciesKZTnarrow₸
+numberscurrenciesKZTstandardKZT
+numberscurrenciesPHPstandardPHP
+numberscurrenciesPHPnarrow₱
+numberscurrenciesTOPstandardTOP
+numberscurrenciesTOPnarrowT$
+numberscurrenciesVUVstandardVUV
+numberscurrenciesMKDstandardMKD
+numberscurrenciesUAHnarrow₴
+numberscurrenciesUAHstandardUAH
+numberscurrenciesBGNstandardBGN
+numberscurrenciesUYUnarrow$
+numberscurrenciesUYUstandardUYU
+numberscurrenciesBOBstandardBOB
+numberscurrenciesBOBnarrowBs
+numberscurrenciesTJSstandardTJS
+numberscurrenciesAWGstandardAWG
+numberscurrenciesTTDnarrow$
+numberscurrenciesTTDstandardTTD
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBNDstandardBND
+numberscurrenciesBNDnarrow$
+numberscurrenciesBBDstandardBBD
+numberscurrenciesBBDnarrow$
+numberscurrenciesMWKstandardMWK
+numberscurrenciesRONstandardRON
+numberscurrenciesSDGstandardSDG
+numberscurrenciesYERstandardYER
+numberscurrenciesWSTstandardWST
+numberscurrenciesGELstandardGEL
+numberscurrenciesGELvariant₾
+numberscurrenciesGELnarrow₾
+numberscurrenciesMADstandardMAD
+numberscurrenciesPENstandardPEN
+numberscurrenciesGMDstandardGMD
+numberscurrenciesJODstandardJOD
+numberscurrenciesISKnarrowkr
+numberscurrenciesISKstandardISK
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesRUBstandardRUB
+numberscurrenciesRUBnarrow₽
+numberscurrenciesTNDstandardTND
+numberscurrenciesETBstandardETB
+numberscurrenciesKESstandardKES
+numberscurrenciesKGSstandardKGS
+numberscurrenciesNPRstandardNPR
+numberscurrenciesNPRnarrowRs
+numberscurrenciesKYDstandardKYD
+numberscurrenciesKYDnarrow$
+numberscurrenciesSBDnarrow$
+numberscurrenciesSBDstandardSBD
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesXCDstandardEC$
+numberscurrenciesXCDnarrow$
+numberscurrenciesSHPnarrow£
+numberscurrenciesSHPstandardSHP
+numberscurrenciesMGAnarrowAr
+numberscurrenciesMGAstandardMGA
+numberscurrenciesNIOstandardNIO
+numberscurrenciesNIOnarrowC$
+numberscurrenciesPABstandardPAB
+numberscurrenciesFJDstandardFJD
+numberscurrenciesFJDnarrow$
+numberscurrenciesIDRnarrowRp
+numberscurrenciesIDRstandardIDR
+numberscurrenciesBWPnarrowP
+numberscurrenciesBWPstandardBWP
+numberscurrenciesMZNstandardMZN
+numberscurrenciesRWFnarrowRF
+numberscurrenciesRWFstandardRWF
+numberscurrenciesERNstandardERN
+numberscurrenciesAEDstandardAED
+numberscurrenciesBYRstandardBYR
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesGTQnarrowQ
+numberscurrenciesINRnarrow₹
+numberscurrenciesINRstandard₹
+numberscurrenciesSGDstandardSGD
+numberscurrenciesSGDnarrow$
+numberscurrenciesCOPstandardCOP
+numberscurrenciesCOPnarrow$
+numberscurrenciesSCRstandardSCR
+numberscurrenciesAZNstandardAZN
+numberscurrenciesCUCstandardCUC
+numberscurrenciesCUCnarrow$
+numberscurrenciesKHRstandardKHR
+numberscurrenciesKHRnarrow៛
+numberscurrenciesLTLstandardLTL
+numberscurrenciesMURnarrowRs
+numberscurrenciesMURstandardMUR
+numberscurrenciesPLNstandardPLN
+numberscurrenciesPLNnarrowzł
+numberscurrenciesSRDnarrow$
+numberscurrenciesSRDstandardSRD
+numberscurrenciesDJFstandardDJF
+numberscurrenciesDOPnarrow$
+numberscurrenciesDOPstandardDOP
+numberscurrenciesHNLstandardHNL
+numberscurrenciesHNLnarrowL
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesLAKnarrow₭
+numberscurrenciesLAKstandardLAK
+numberscurrenciesPYGstandardPYG
+numberscurrenciesPYGnarrow₲
+numbersmiscPatternslatnrange{0}–{1}
+numbersmiscPatternslatnatLeast{0}+
+numberscurrencyFormatslatnstandardstandard#,##,##0.00¤;(#,##,##0.00¤)
+numberscurrencyFormatscakmstandardstandard#,##,##0.00¤
+numbersscientificFormatslatnstandardstandard#E0
+numbersscientificFormatscakmstandardstandard#E0
+numberspercentFormatslatnstandardstandard#,##,##0%
+numberspercentFormatscakmstandardstandard#,##0%
+characterLabelspatternsall{0} — 𑄗𑄪𑄟𑄴
+characterLabelspatternsother{0} — 𑄃𑄧𑄚𑄳𑄠𑄧
+characterLabelspatternsextended{0} — 𑄓𑄋𑄧𑄢𑄴𑄘𑄨𑄊𑄮𑄣𑄴
+characterLabelspatternshistoric{0} — 𑄛𑄪𑄢𑄮𑄚𑄨𑄃𑄟𑄧𑄣𑄴
+characterLabelspatternscompatibility{0} — 𑄟𑄨𑄣𑄴𑄟𑄨𑄌𑄴
+characterLabelspatternscategory-list{0}: {1}
+characterLabelspatternsmiscellaneous{0} — 𑄚𑄚 𑄝𑄝𑄧𑄖𑄳𑄠
+characterLabelspatternsscripts𑄦𑄧𑄢𑄧𑄇𑄴 — {0}
+characterLabelspatternsstrokes{0} 𑄥𑄳𑄑𑄳𑄢𑄳𑄢𑄳𑄢𑄧𑄇𑄴
+characterLabelspatternsenclosed{0} — 𑄝𑄚𑄳𑄦𑄬
+characterLabelslabelssmall_form_variant𑄌𑄨𑄉𑄮𑄚𑄴 𑄜𑄧𑄢𑄧𑄟𑄴 𑄝𑄨𑄇𑄧𑄣𑄴𑄛𑄧
+characterLabelslabelsamerican_scripts𑄃𑄟𑄬𑄢𑄨𑄇𑄚𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelsplace𑄎𑄉
+characterLabelslabelsfood_drink𑄈𑄚 𑄃𑄳𑄃 𑄛𑄨𑄚𑄬
+characterLabelslabelsflag𑄙𑄧𑄏
+characterLabelslabelsformat_whitespace𑄜𑄧𑄢𑄴𑄟𑄳𑄠𑄖𑄴 𑄃𑄳𑄃 𑄦𑄮𑄠𑄭𑄖𑄴𑄃𑄬𑄥𑄴𑄛𑄬𑄌𑄴
+characterLabelslabelsplant𑄉𑄎𑄧𑄌𑄢
+characterLabelslabelstravel𑄝𑄬𑄢𑄚
+characterLabelslabelsdivination_symbols𑄃𑄧𑄚𑄪𑄟𑄚𑄴 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelskeycap𑄇𑄨𑄇𑄳𑄠𑄛𑄴
+characterLabelslabelslimited_use𑄃𑄧𑄎𑄬𑄃𑄧𑄌𑄴 𑄣𑄢𑄴𑄌𑄢𑄴
+characterLabelslabelsleftwards_arrows𑄝𑄋𑄬𑄘𑄨𑄟𑄪𑄇𑄴𑄈𑄬 𑄖𑄩𑄢𑄴
+characterLabelslabelswestern_asian_scripts𑄛𑄧𑄏𑄨𑄟𑄴 𑄃𑄬𑄥𑄨𑄠𑄢𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelssport𑄈𑄢
+characterLabelslabelsperson𑄟𑄚𑄪𑄌𑄴
+characterLabelslabelsanimals_nature𑄛𑄧𑄢𑄚𑄴𑄝𑄧𑄣 𑄦𑄬𑄟𑄚𑄴 𑄃𑄳𑄃 𑄎𑄢𑄴
+characterLabelslabelsemoji𑄃𑄨𑄟𑄮𑄎𑄨
+characterLabelslabelsfull_width_form_variant𑄛𑄪𑄢𑄮 𑄛𑄘𑄎𑄳𑄠 𑄜𑄧𑄢𑄧𑄟𑄴 𑄝𑄨𑄇𑄧𑄣𑄴𑄛𑄧
+characterLabelslabelsmodern_scripts𑄚𑄱 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelsvariant_forms𑄝𑄨𑄇𑄧𑄣𑄴𑄛𑄧 𑄜𑄧𑄢𑄧𑄟𑄴
+characterLabelslabelsweather𑄃𑄮𑄠𑄬𑄘𑄢𑄴
+characterLabelslabelsvocalic_jamo𑄉𑄭 𑄟𑄖𑄳𑄠𑄴 𑄦𑄧𑄢𑄧𑄉𑄧𑄢𑄴 𑄎𑄳𑄠𑄟𑄮
+characterLabelslabelsdash_connector𑄓𑄳𑄠𑄌𑄴/𑄎𑄮𑄢𑄣𑄉𑄬𑄠𑄬
+characterLabelslabelsrightwards_arrows𑄓𑄬𑄚𑄬𑄟𑄪𑄇𑄴𑄈𑄬 𑄖𑄩𑄢𑄴
+characterLabelslabelshanzi_traditional𑄦𑄚𑄴𑄎𑄨 (𑄢𑄨𑄘𑄨)
+characterLabelslabelsmale𑄟𑄧𑄢𑄧𑄖𑄴
+characterLabelslabelswhitespace𑄦𑄮𑄠𑄭𑄖𑄴𑄃𑄬𑄌𑄴𑄛𑄬𑄌𑄴
+characterLabelslabelssmileys_people𑄦𑄎𑄧𑄁 𑄦𑄎𑄧𑄁 𑄟𑄪 𑄟𑄚𑄪𑄌𑄴𑄎𑄧𑄚𑄴
+characterLabelslabelsafrican_scripts𑄃𑄜𑄳𑄢𑄨𑄇𑄚𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelsbox_drawing𑄝𑄇𑄴𑄥𑄪 𑄃𑄉𑄚
+characterLabelslabelsdingbats𑄓𑄨𑄁𑄝𑄳𑄠𑄖𑄴
+characterLabelslabelsformat𑄜𑄧𑄢𑄴𑄟𑄳𑄠𑄖𑄴
+characterLabelslabelshan_characters𑄦𑄚𑄴 𑄦𑄧𑄢𑄧𑄇𑄴𑄇𑄪𑄚𑄴
+characterLabelslabelshanzi_simplified𑄦𑄚𑄴𑄎𑄨 (𑄅𑄪𑄎𑄪 𑄅𑄪𑄏𑄫)
+characterLabelslabelsdigits𑄚𑄘
+characterLabelslabelspunctuation𑄎𑄨𑄢𑄬𑄚𑄨 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelsdownwards_upwards_arrows𑄖𑄧𑄣𑄬𑄟𑄪𑄇𑄴𑄈𑄬 𑄅𑄪𑄢𑄪𑄢𑄬𑄟𑄪𑄇𑄴𑄈𑄬 𑄖𑄩𑄢𑄴
+characterLabelslabelsletterlike_symbols𑄦𑄧𑄢𑄧𑄉𑄧 𑄘𑄮𑄇𑄴𑄇𑄳𑄠 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelstechnical_symbols𑄛𑄳𑄢𑄧𑄡𑄪𑄇𑄴𑄖𑄨𑄚𑄴 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelseuropean_scripts𑄃𑄨𑄅𑄪𑄢𑄮𑄛𑄨𑄠𑄧 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelsspacing𑄜𑄢𑄧𑄇𑄴
+characterLabelslabelsnature𑄎𑄢𑄴
+characterLabelslabelsother𑄃𑄧𑄚𑄳𑄠𑄧
+characterLabelslabelsbraille𑄝𑄳𑄢𑄳𑄆𑄬𑄣𑄴
+characterLabelslabelsobjects𑄃𑄧𑄛𑄴𑄎𑄬𑄇𑄴𑄑𑄴
+characterLabelslabelscurrency_symbols𑄑𑄬𑄋 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelsflags𑄙𑄧𑄏
+characterLabelslabelsideographic_desc_characters𑄌𑄨𑄖𑄳𑄢𑄧𑄣𑄨𑄛𑄨 𑄃𑄘𑄬𑄝𑄢𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelskanbun𑄇𑄚𑄴𑄝𑄚𑄴
+characterLabelslabelsjapanese_kana𑄎𑄛𑄚𑄨 𑄇𑄚
+characterLabelslabelsleftwards_rightwards_arrows𑄝𑄋𑄬𑄟𑄪𑄇𑄴𑄈𑄬 𑄓𑄬𑄚𑄮𑄟𑄪𑄇𑄴𑄈𑄬 𑄖𑄩𑄢𑄴
+characterLabelslabelsnonspacing𑄜𑄢𑄧𑄇𑄴𑄚𑄬𑄠𑄬
+characterLabelslabelstone_marks𑄑𑄮𑄚𑄴 𑄟𑄢𑄴𑄇𑄴
+characterLabelslabelsarrows𑄖𑄩𑄢𑄴𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelssoutheast_asian_scripts𑄘𑄧𑄉𑄨𑄚𑄴-𑄛𑄪𑄇𑄴 𑄃𑄬𑄥𑄨𑄠𑄢𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelsbuilding𑄝𑄨𑄣𑄴𑄓𑄨𑄁
+characterLabelslabelsactivities𑄇𑄌𑄴𑄇𑄟𑄴
+characterLabelslabelsdownwards_arrows𑄖𑄧𑄣𑄬𑄟𑄪𑄇𑄴𑄈𑄬 𑄖𑄩𑄢𑄴
+characterLabelslabelshan_radicals𑄦𑄚𑄴 𑄢𑄬𑄓𑄨𑄇𑄳𑄠𑄣𑄴
+characterLabelslabelsmiddle_eastern_scripts𑄟𑄧𑄖𑄴𑄘𑄳𑄠𑄧 𑄛𑄳𑄢𑄌𑄴𑄥𑄮𑄢𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelshanja𑄦𑄚𑄴𑄎
+characterLabelslabelssouth_asian_scripts𑄘𑄧𑄉𑄨𑄚𑄴 𑄃𑄬𑄥𑄨𑄠𑄢𑄴 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelshistoric_scripts𑄛𑄪𑄢𑄮𑄚𑄨𑄃𑄟𑄧𑄣𑄧 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelsbullets_stars𑄝𑄪𑄣𑄬𑄖𑄴/𑄖𑄢
+characterLabelslabelsmath_symbols𑄃𑄧𑄁𑄇𑄧𑄢𑄴 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelskanji𑄇𑄚𑄴𑄎𑄨
+characterLabelslabelsphonetic_alphabet𑄜𑄮𑄚𑄬𑄑𑄨𑄇𑄴 𑄦𑄧𑄢𑄧𑄇𑄴𑄇𑄪𑄚𑄴
+characterLabelslabelsnumbers𑄚𑄧𑄟𑄴𑄝𑄧𑄢𑄴
+characterLabelslabelsfemale𑄟𑄨𑄣𑄬
+characterLabelslabelsgeometric_shapes𑄎𑄳𑄠𑄟𑄨𑄖𑄨 𑄌𑄬𑄉𑄬𑄢
+characterLabelslabelssmiley𑄦𑄎𑄧𑄁 𑄦𑄎𑄧𑄁 𑄟𑄪
+characterLabelslabelseast_asian_scripts𑄛𑄪𑄇𑄴 𑄃𑄬𑄥𑄩𑄠𑄧 𑄦𑄧𑄢𑄧𑄇𑄴
+characterLabelslabelssign_standard_symbols𑄥𑄳𑄆𑄧 𑄟𑄚𑄧𑄇𑄴 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelshalf_width_form_variant𑄃𑄧𑄘𑄳𑄠𑄇𑄴 𑄛𑄘𑄎𑄳𑄠 𑄜𑄧𑄢𑄧𑄟𑄴 𑄝𑄨𑄇𑄧𑄣𑄴𑄛𑄧
+characterLabelslabelsmusical_symbols𑄉𑄚𑄧𑄢𑄴 𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelsheart𑄛𑄧𑄢𑄚𑄴
+characterLabelslabelsanimal𑄦𑄬𑄟𑄚𑄴
+characterLabelslabelspaired𑄎𑄮𑄢𑄘𑄳𑄠𑄬
+characterLabelslabelsmiscellaneous𑄚𑄚 𑄝𑄝𑄧𑄖𑄳𑄠
+characterLabelslabelsupwards_arrows𑄅𑄪𑄎𑄧𑄚𑄳𑄠𑄟𑄪𑄇𑄴𑄈𑄬 𑄖𑄩𑄢𑄴
+characterLabelslabelstravel_places𑄝𑄬𑄢𑄬𑄝𑄢𑄴 𑄎𑄉
+characterLabelslabelssymbols𑄌𑄨𑄚𑄴𑄚𑄱
+characterLabelslabelsbody𑄇𑄬𑄠𑄬
+characterLabelslabelspictographs𑄛𑄨𑄇𑄴𑄑𑄮𑄉𑄳𑄢𑄛𑄴
+characterLabelslabelsconsonantal_jamo𑄝𑄧𑄣𑄬𑄟𑄖𑄳𑄠 𑄦𑄧𑄢𑄧𑄉𑄧𑄢𑄴 𑄎𑄳𑄠𑄟𑄮
+characterLabelslabelsmodifier𑄟𑄮𑄓𑄨𑄜𑄠𑄢𑄴
+delimitersquotationStart“
+delimitersalternateQuotationEnd’
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+listPatternsunit2{0}, {1}
+listPatternsunitend{0}, {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsunitstart{0}, {1}
+listPatternsunit-narrowstart{0}, {1}
+listPatternsunit-narrowmiddle{0}, {1}
+listPatternsunit-narrowend{0}, {1}
+listPatternsunit-narrow2{0}, {1}
+listPatternsstandard-shortstart{0}, {1}
+listPatternsstandard-short2{0} 𑄃𑄳𑄃 {1}
+listPatternsstandard-shortend{0} 𑄃𑄳𑄃 {1}
+listPatternsstandard-shortmiddle{0}, {1}
+listPatternsstandardstart{0}, {1}
+listPatternsstandardend{0} 𑄃𑄳𑄃 {1}
+listPatternsstandard2{0} 𑄃𑄳𑄃 {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsunit-short2{0}, {1}
+listPatternsunit-shortend{0}, {1}
+listPatternsunit-shortstart{0}, {1}
+layoutlineOrdertop-to-bottom
+layoutcharacterOrderleft-to-right
+charactersexemplarCharactersstandard[\U00011100 \U00011101 \U00011102 𑄃 𑄄 𑄅 𑄆 𑄇 𑄈 𑄉 𑄊 𑄋 𑄌 𑄍 𑄎 𑄏 𑄐 𑄑 𑄒 𑄓 𑄔 𑄕 𑄖 𑄗 𑄘 𑄙 𑄚 𑄛 𑄜 𑄝 𑄞 𑄟 𑄠 𑄡 𑄢 𑄣 𑄤 𑄥 𑄦 \U00011127 \U00011128 \U00011129 \U0001112A \U0001112B \U0001112D \U0001112E \U0001112F \U00011130 \U00011131 \U00011132 \U00011133 \U00011134]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? 𑅃 . … 𑅁 𑅂 𑅀 ' ‘ ’ &quot; “ ” ( ) \[ \] § @ * / \&amp; # † ‡ ′ ″]
+charactersexemplarCharactersauxiliary[]
+charactersexemplarCharactersindex[𑄃 𑄄 𑄅 𑄆 𑄇 𑄈 𑄉 𑄊 𑄋 𑄌 𑄍 𑄎 𑄏 𑄐 𑄑 𑄒 𑄓 𑄔 𑄕 𑄖 𑄗 𑄘 𑄙 𑄚 𑄛 𑄜 𑄝 𑄞 𑄟 𑄠 𑄡 𑄢 𑄣 𑄤 𑄥 𑄦]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0০ 1১ 2২ 3৩ 4৪ 5৫ 6৬ 7৭ 8৮ 9৯]
+posixmessagesyesstr𑄃𑄳𑄦𑄨
+posixmessagesnostr𑄚
+localeDisplayNamesvariantsPINYIN𑄛𑄨𑄚𑄴𑄃𑄨𑄚𑄴 𑄟𑄮𑄟𑄚𑄭𑄎𑄬𑄥𑄧𑄚𑄴
+localeDisplayNamesvariantsWADEGILE𑄤𑄘𑄬-𑄉𑄨𑄣𑄬𑄌𑄴 𑄢𑄮𑄟𑄚𑄭𑄎𑄬𑄥𑄧𑄚𑄴
+localeDisplayNamesmeasurementSystemNamesmetric𑄟𑄬𑄑𑄳𑄢𑄨𑄇𑄴
+localeDisplayNamesmeasurementSystemNamesUK𑄃𑄨𑄅𑄪𑄇𑄬
+localeDisplayNamesmeasurementSystemNamesUS𑄃𑄨𑄅𑄪𑄃𑄬𑄌𑄴
+localeDisplayNamesterritoriesSE𑄥𑄭𑄪𑄓𑄬𑄚𑄴
+localeDisplayNamesterritoriesGY𑄉𑄨𑄠𑄚
+localeDisplayNamesterritoriesTJ𑄖𑄎𑄨𑄇𑄴𑄥𑄳𑄗𑄚𑄴
+localeDisplayNamesterritoriesNO𑄚𑄧𑄢𑄴𑄃𑄮𑄠𑄬
+localeDisplayNamesterritoriesZM𑄎𑄟𑄴𑄝𑄨𑄠
+localeDisplayNamesterritoriesTA𑄑𑄳𑄢𑄌𑄴𑄑𑄚𑄴 𑄓 𑄇𑄪𑄚𑄴𑄦
+localeDisplayNamesterritoriesCY𑄥𑄭𑄛𑄳𑄢𑄥𑄴
+localeDisplayNamesterritories155𑄛𑄧𑄎𑄨𑄟𑄴 𑄄𑄃𑄪𑄢𑄮𑄛𑄴
+localeDisplayNamesterritories013𑄟𑄧𑄖𑄴𑄙𑄳𑄠 𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesCH𑄥𑄭𑄪𑄎𑄢𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesSG𑄥𑄨𑄋𑄴𑄉𑄛𑄪𑄢𑄴
+localeDisplayNamesterritoriesCP𑄇𑄳𑄣𑄨𑄛𑄢𑄴𑄑𑄧𑄚𑄴 𑄃𑄭𑄣𑄳𑄠𑄚𑄳𑄓𑄴
+localeDisplayNamesterritoriesAM𑄃𑄢𑄴𑄟𑄬𑄚𑄨𑄠
+localeDisplayNamesterritoriesHU𑄦𑄧𑄋𑄴𑄉𑄬𑄢𑄨
+localeDisplayNamesterritoriesJO𑄎𑄧𑄢𑄴𑄓𑄧𑄚𑄴
+localeDisplayNamesterritoriesEG𑄟𑄨𑄥𑄧𑄢𑄴
+localeDisplayNamesterritoriesZW𑄎𑄨𑄟𑄴𑄝𑄝𑄪𑄠𑄬
+localeDisplayNamesterritoriesSN𑄥𑄬𑄚𑄬𑄉𑄣𑄴
+localeDisplayNamesterritoriesGA𑄉𑄳𑄠𑄝𑄧𑄚𑄴
+localeDisplayNamesterritoriesXK𑄇𑄧𑄥𑄮𑄞𑄮
+localeDisplayNamesterritoriesVC𑄥𑄬𑄚𑄴𑄑𑄴 𑄞𑄨𑄚𑄴𑄥𑄬𑄚𑄴𑄑𑄴 𑄃𑄮 𑄘𑄳𑄠 𑄉𑄳𑄢𑄬𑄚𑄓𑄨𑄚𑄴𑄥𑄴
+localeDisplayNamesterritoriesFO𑄜𑄳𑄠𑄢𑄧𑄃𑄮 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesGI𑄎𑄨𑄝𑄳𑄢𑄣𑄴𑄑𑄢𑄴
+localeDisplayNamesterritoriesMN𑄟𑄧𑄋𑄴𑄉𑄮𑄣𑄨𑄠
+localeDisplayNamesterritoriesKP𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄇𑄮𑄢𑄨𑄠
+localeDisplayNamesterritoriesCO𑄃𑄣𑄧𑄟𑄴𑄝𑄨𑄠
+localeDisplayNamesterritoriesPK𑄛𑄇𑄨𑄌𑄴𑄖𑄚𑄴
+localeDisplayNamesterritoriesMH𑄟𑄢𑄴𑄥𑄣𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesLA𑄣𑄃𑄮𑄌𑄴
+localeDisplayNamesterritoriesMD𑄟𑄮𑄣𑄴𑄘𑄞𑄨𑄠
+localeDisplayNamesterritories061𑄛𑄧𑄣𑄨𑄚𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesPW𑄛𑄣𑄃𑄪
+localeDisplayNamesterritoriesNF𑄚𑄨𑄢𑄴𑄜𑄮𑄇𑄴 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesEH𑄛𑄧𑄎𑄨𑄟𑄴 𑄥𑄦𑄢
+localeDisplayNamesterritories145𑄛𑄧𑄎𑄨𑄟𑄴 𑄃𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesAT𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄨𑄠
+localeDisplayNamesterritoriesSS𑄘𑄧𑄉𑄨𑄚𑄴 𑄥𑄪𑄘𑄚𑄴
+localeDisplayNamesterritoriesMV𑄟𑄣𑄴𑄘𑄨𑄛𑄴
+localeDisplayNamesterritoriesGQ𑄚𑄨𑄢𑄧𑄇𑄴𑄈𑄩𑄠𑄧 𑄉𑄨𑄚𑄨
+localeDisplayNamesterritoriesMQ𑄟𑄢𑄴𑄑𑄨𑄚𑄨𑄇𑄴
+localeDisplayNamesterritoriesHR𑄇𑄳𑄢𑄮𑄠𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesLU𑄣𑄪𑄇𑄴𑄥𑄬𑄟𑄴𑄝𑄢𑄴𑄉𑄧
+localeDisplayNamesterritoriesLK𑄥𑄳𑄢𑄨𑄣𑄧𑄁𑄇
+localeDisplayNamesterritoriesCK𑄇𑄪𑄇𑄪 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesKG𑄇𑄨𑄢𑄴𑄉𑄨𑄎𑄨𑄌𑄴𑄖𑄚𑄴
+localeDisplayNamesterritories057𑄟𑄭𑄇𑄳𑄢𑄮𑄚𑄬𑄥𑄨𑄠 𑄎𑄉
+localeDisplayNamesterritoriesSK𑄥𑄳𑄣𑄮𑄞𑄇𑄨𑄠
+localeDisplayNamesterritoriesYE𑄃𑄨𑄠𑄬𑄟𑄬𑄚𑄴
+localeDisplayNamesterritoriesSI𑄥𑄳𑄣𑄮𑄞𑄚𑄨𑄠
+localeDisplayNamesterritoriesFM𑄟𑄭𑄇𑄳𑄢𑄮𑄚𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesTV𑄑𑄪𑄞𑄣𑄪
+localeDisplayNamesterritoriesRU𑄢𑄥𑄨𑄠
+localeDisplayNamesterritoriesCG𑄇𑄧𑄋𑄴𑄉𑄮 (𑄛𑄳𑄢𑄎𑄖𑄚𑄴𑄖𑄳𑄢𑄧)
+localeDisplayNamesterritoriesCV𑄇𑄬𑄛𑄴𑄞𑄢𑄴𑄘𑄬
+localeDisplayNamesterritoriesGG𑄉𑄳𑄢𑄚𑄴𑄏𑄨
+localeDisplayNamesterritories150𑄄𑄃𑄪𑄢𑄮𑄛𑄴
+localeDisplayNamesterritoriesTR𑄖𑄪𑄢𑄧𑄌𑄴𑄇𑄧
+localeDisplayNamesterritoriesVI𑄟𑄢𑄴𑄇𑄨𑄚𑄴 𑄎𑄧𑄙𑄢𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄞𑄢𑄴𑄎𑄨𑄚𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesFK𑄜𑄧𑄇𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴 𑄃𑄭𑄣𑄳𑄠𑄚𑄴𑄓𑄴 (𑄄𑄥𑄴𑄣𑄳𑄠𑄌𑄴 𑄟𑄥𑄴𑄞𑄬𑄚𑄨𑄌𑄴)
+localeDisplayNamesterritoriesPF𑄜𑄧𑄢𑄥𑄩 𑄛𑄧𑄣𑄨𑄚𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesBL𑄥𑄬𑄚𑄴𑄑𑄴 𑄝𑄢𑄴𑄗𑄬𑄣𑄨𑄟𑄨
+localeDisplayNamesterritoriesCC𑄇𑄮𑄇𑄮𑄌𑄴 (𑄇𑄨𑄣𑄨𑄁) 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesGN𑄉𑄨𑄚𑄨
+localeDisplayNamesterritoriesMA𑄟𑄮𑄢𑄧𑄇𑄴𑄇𑄮
+localeDisplayNamesterritoriesVU𑄞𑄚𑄪𑄠𑄑𑄪
+localeDisplayNamesterritoriesNA𑄚𑄟𑄨𑄝𑄨𑄠
+localeDisplayNamesterritoriesDG𑄘𑄨𑄠𑄬𑄉𑄮 𑄉𑄢𑄴𑄥𑄨𑄠
+localeDisplayNamesterritoriesML𑄟𑄣𑄨
+localeDisplayNamesterritoriesGU𑄉𑄪𑄠𑄟𑄴
+localeDisplayNamesterritoriesLB𑄣𑄬𑄝𑄚𑄧𑄚𑄴
+localeDisplayNamesterritoriesLC𑄥𑄬𑄚𑄴𑄑𑄴 𑄣𑄪𑄥𑄨𑄠
+localeDisplayNamesterritoriesRW𑄢𑄪𑄠𑄚𑄴𑄓
+localeDisplayNamesterritoriesZA𑄘𑄧𑄉𑄨𑄚𑄴 𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesTN𑄖𑄨𑄃𑄪𑄚𑄨𑄥𑄨𑄠
+localeDisplayNamesterritoriesRS𑄥𑄢𑄴𑄝𑄨𑄠
+localeDisplayNamesterritories005𑄘𑄨𑄉𑄨𑄚𑄴 𑄃𑄟𑄬𑄢𑄨𑄇
+localeDisplayNamesterritoriesIT𑄄𑄖𑄣𑄨
+localeDisplayNamesterritoriesIE𑄃𑄠𑄢𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesLR𑄃𑄭𑄝𑄬𑄢𑄨𑄠
+localeDisplayNamesterritoriesLT𑄣𑄨𑄗𑄪𑄠𑄚𑄨𑄠
+localeDisplayNamesterritoriesMF𑄥𑄬𑄚𑄴𑄑𑄴 𑄟𑄢𑄴𑄑𑄨𑄚𑄴
+localeDisplayNamesterritoriesTO𑄑𑄮𑄋𑄴𑄉
+localeDisplayNamesterritoriesMT𑄟𑄣𑄴𑄑
+localeDisplayNamesterritories009𑄃𑄮𑄥𑄨𑄠𑄚𑄨𑄠
+localeDisplayNamesterritories154𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄄𑄃𑄪𑄢𑄮𑄛𑄴
+localeDisplayNamesterritoriesJP𑄎𑄛𑄚𑄴
+localeDisplayNamesterritoriesSR𑄥𑄪𑄢𑄨𑄚𑄟𑄴
+localeDisplayNamesterritoriesSX𑄥𑄨𑄚𑄴𑄑𑄴 𑄟𑄢𑄴𑄑𑄬𑄚𑄴
+localeDisplayNamesterritoriesBQ𑄇𑄳𑄠𑄢𑄨𑄝𑄨𑄠𑄚𑄴 𑄚𑄬𑄘𑄢𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄧𑄥𑄴
+localeDisplayNamesterritoriesRO𑄢𑄮𑄟𑄚𑄨𑄠
+localeDisplayNamesterritoriesGW𑄉𑄨𑄚𑄨-𑄝𑄨𑄥𑄃𑄪
+localeDisplayNamesterritoriesIQ𑄄𑄢𑄇𑄴
+localeDisplayNamesterritoriesCX𑄇𑄳𑄢𑄨𑄥𑄴𑄟𑄥𑄴 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesSH𑄥𑄬𑄚𑄴𑄑𑄴 𑄦𑄬𑄣𑄬𑄚
+localeDisplayNamesterritoriesMW𑄟𑄣𑄃𑄪𑄃𑄨
+localeDisplayNamesterritoriesGP𑄉𑄪𑄠𑄘𑄬𑄣𑄯𑄛𑄴
+localeDisplayNamesterritoriesHM𑄦𑄢𑄴𑄓𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠 𑄃𑄳𑄃 𑄟𑄳𑄠𑄇𑄴𑄓𑄮𑄚𑄴𑄓𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesSZ𑄥𑄮𑄠𑄎𑄨𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritories019𑄃𑄟𑄬𑄢𑄨𑄇𑄥𑄴
+localeDisplayNamesterritories143𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄃𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesWF𑄤𑄣𑄨𑄌𑄴 𑄃𑄮 𑄜𑄪𑄑𑄪𑄚
+localeDisplayNamesterritoriesTZ𑄖𑄚𑄴𑄎𑄚𑄨𑄠
+localeDisplayNamesterritoriesBO𑄝𑄧𑄣𑄨𑄞𑄨𑄠
+localeDisplayNamesterritories035𑄘𑄧𑄉𑄨𑄚𑄴 𑄛𑄪𑄇𑄴 𑄃𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesIS𑄃𑄭𑄥𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesNC𑄚𑄱 𑄇𑄳𑄠𑄣𑄬𑄓𑄮𑄚𑄨𑄠
+localeDisplayNamesterritoriesPM𑄥𑄬𑄚𑄴𑄑𑄴 𑄛𑄨𑄠𑄬𑄢𑄴 𑄃𑄮 𑄟𑄨𑄢𑄪𑄠𑄬𑄣𑄧𑄚𑄴
+localeDisplayNamesterritoriesNU𑄚𑄨𑄃𑄪𑄠𑄬
+localeDisplayNamesterritoriesMS𑄟𑄧𑄚𑄴𑄑𑄴𑄥𑄬𑄢𑄑𑄴
+localeDisplayNamesterritoriesCU𑄇𑄨𑄃𑄪𑄝
+localeDisplayNamesterritoriesCL𑄌𑄨𑄣𑄨
+localeDisplayNamesterritories014𑄛𑄪𑄇𑄴𑄘𑄩 𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesHK𑄦𑄧𑄁𑄇𑄧𑄁
+localeDisplayNamesterritoriesHT𑄦𑄭𑄖𑄨
+localeDisplayNamesterritoriesBA𑄝𑄧𑄥𑄴𑄚𑄨𑄠 𑄃𑄮 𑄦𑄢𑄴𑄎𑄬𑄉𑄮𑄞𑄨𑄚
+localeDisplayNamesterritoriesLV𑄣𑄖𑄴𑄞𑄨𑄠
+localeDisplayNamesterritoriesUM𑄎𑄧𑄙𑄢𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄦𑄭𑄇𑄪𑄢𑄬 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesES𑄥𑄳𑄛𑄬𑄚𑄴
+localeDisplayNamesterritoriesSA𑄥𑄯𑄘𑄨 𑄃𑄢𑄧𑄝𑄴
+localeDisplayNamesterritoriesKM𑄇𑄧𑄟𑄮𑄢𑄮𑄌𑄴
+localeDisplayNamesterritoriesBT𑄞𑄪𑄑𑄚𑄴
+localeDisplayNamesterritoriesIL𑄄𑄎𑄴𑄢𑄠𑄬𑄣𑄴
+localeDisplayNamesterritoriesEU𑄄𑄃𑄪𑄢𑄮𑄛𑄩𑄠𑄧 𑄄𑄃𑄪𑄚𑄨𑄠𑄧𑄚𑄴
+localeDisplayNamesterritoriesPT𑄛𑄧𑄢𑄴𑄖𑄪𑄉𑄣𑄴
+localeDisplayNamesterritoriesSO𑄥𑄮𑄟𑄣𑄨𑄠
+localeDisplayNamesterritoriesBS𑄝𑄦𑄟 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesSJ𑄥𑄣𑄴𑄝𑄢𑄴𑄓𑄴 𑄃𑄮 𑄎𑄚𑄴 𑄟𑄬𑄠𑄬𑄚𑄴
+localeDisplayNamesterritoriesNI𑄚𑄨𑄇𑄢𑄉𑄪𑄠
+localeDisplayNamesterritoriesDJ𑄎𑄨𑄝𑄪𑄖𑄨
+localeDisplayNamesterritories001𑄛𑄨𑄖𑄴𑄗𑄨𑄟𑄨
+localeDisplayNamesterritoriesKE𑄇𑄬𑄚𑄨𑄠
+localeDisplayNamesterritoriesGT𑄉𑄪𑄠𑄖𑄬𑄟𑄣
+localeDisplayNamesterritoriesKR𑄘𑄧𑄉𑄨𑄚𑄴 𑄇𑄮𑄢𑄨𑄠
+localeDisplayNamesterritoriesUY𑄅𑄪𑄢𑄪𑄉𑄪𑄠𑄬
+localeDisplayNamesterritoriesMU𑄟𑄧𑄢𑄨𑄥𑄥𑄴
+localeDisplayNamesterritories142𑄃𑄬𑄥𑄨𑄠
+localeDisplayNamesterritories039𑄘𑄧𑄉𑄨𑄚𑄴 𑄄𑄃𑄪𑄢𑄮𑄛𑄴
+localeDisplayNamesterritoriesFR𑄜𑄳𑄢𑄚𑄴𑄥𑄴
+localeDisplayNamesterritoriesUZ𑄅𑄪𑄎𑄴𑄝𑄬𑄇𑄨𑄌𑄴𑄖𑄚𑄴
+localeDisplayNamesterritoriesDE𑄎𑄢𑄴𑄟𑄚𑄨
+localeDisplayNamesterritoriesCM𑄇𑄳𑄠𑄟𑄬𑄢𑄪𑄚𑄴
+localeDisplayNamesterritoriesBJ𑄝𑄬𑄚𑄨𑄚𑄴
+localeDisplayNamesterritories151𑄛𑄪𑄉𑄬𑄘𑄨 𑄄𑄃𑄪𑄢𑄮𑄛𑄴
+localeDisplayNamesterritoriesUG𑄅𑄉𑄚𑄴𑄓
+localeDisplayNamesterritoriesBI𑄝𑄪𑄢𑄪𑄚𑄴𑄘𑄨
+localeDisplayNamesterritoriesKZ𑄇𑄎𑄈𑄌𑄴𑄖𑄚𑄴
+localeDisplayNamesterritoriesUN𑄃𑄨𑄃𑄪𑄃𑄬𑄚𑄴
+localeDisplayNamesterritoriesWS𑄥𑄟𑄮𑄠
+localeDisplayNamesterritoriesTK𑄑𑄮𑄇𑄬𑄣𑄃𑄪
+localeDisplayNamesterritoriesCF𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄃𑄜𑄳𑄢𑄨𑄇𑄢𑄴𑄛𑄳𑄢𑄎𑄖𑄧𑄚𑄴𑄖𑄳𑄢𑄧
+localeDisplayNamesterritoriesGF𑄜𑄧𑄢𑄥𑄩 𑄉𑄠𑄚
+localeDisplayNamesterritories034𑄘𑄧𑄉𑄨𑄚𑄬 𑄃𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesLY𑄣𑄨𑄝𑄨𑄠
+localeDisplayNamesterritoriesET𑄃𑄨𑄜𑄨𑄃𑄮𑄛𑄨𑄠
+localeDisplayNamesterritoriesZZ𑄃𑄨𑄌𑄨𑄚𑄴 𑄎𑄉
+localeDisplayNamesterritoriesBW𑄝𑄧𑄖𑄴𑄥𑄮𑄠𑄚
+localeDisplayNamesterritoriesGS𑄘𑄧𑄉𑄨𑄚𑄴 𑄎𑄧𑄢𑄴𑄎𑄨𑄠 𑄃𑄮 𑄘𑄧𑄉𑄨𑄚𑄴 𑄥𑄳𑄠𑄚𑄴𑄓𑄃𑄪𑄃𑄨𑄌𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesPH𑄜𑄨𑄣𑄨𑄛𑄭𑄚𑄴
+localeDisplayNamesterritoriesMO𑄟𑄳𑄠𑄇𑄃𑄮
+localeDisplayNamesterritoriesNE𑄚𑄭𑄎𑄢𑄴
+localeDisplayNamesterritoriesGM𑄉𑄟𑄴𑄝𑄨𑄠
+localeDisplayNamesterritoriesFI𑄜𑄨𑄚𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesRE𑄢𑄨𑄃𑄨𑄃𑄪𑄚𑄨𑄠𑄧𑄚𑄴
+localeDisplayNamesterritoriesTL𑄛𑄪𑄉𑄮 𑄖𑄨𑄟𑄪𑄢𑄴
+localeDisplayNamesterritoriesCW𑄇𑄨𑄃𑄪𑄢𑄥𑄃𑄮
+localeDisplayNamesterritoriesTW𑄖𑄭𑄤𑄚𑄴
+localeDisplayNamesterritoriesBD𑄝𑄁𑄣𑄘𑄬𑄌𑄴
+localeDisplayNamesterritoriesAD𑄃𑄚𑄴𑄓𑄮𑄢
+localeDisplayNamesterritoriesBG𑄝𑄪𑄣𑄴𑄉𑄬𑄢𑄨𑄠
+localeDisplayNamesterritoriesBM𑄝𑄢𑄴𑄟𑄪𑄓
+localeDisplayNamesterritoriesPS𑄜𑄨𑄣𑄨𑄌𑄴𑄖𑄨𑄚𑄴
+localeDisplayNamesterritoriesMK𑄟𑄬𑄥𑄨𑄓𑄮𑄚𑄠(FYROM)
+localeDisplayNamesterritoriesBR𑄝𑄳𑄢𑄎𑄨𑄣𑄴
+localeDisplayNamesterritories015𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesFJ𑄜𑄨𑄎𑄨
+localeDisplayNamesterritoriesOM𑄃𑄮𑄟𑄚𑄴
+localeDisplayNamesterritories054𑄟𑄳𑄠𑄣𑄬𑄚𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesSV𑄆𑄣𑄴 𑄥𑄣𑄴𑄞𑄬𑄘𑄧𑄢𑄴
+localeDisplayNamesterritoriesQA𑄇𑄖𑄢𑄴
+localeDisplayNamesterritoriesNG𑄚𑄭𑄎𑄬𑄢𑄨𑄠
+localeDisplayNamesterritoriesIO𑄝𑄳𑄢𑄨𑄑𑄨𑄌𑄴 𑄞𑄢𑄧𑄖𑄴 𑄟𑄧𑄦𑄥𑄉𑄧𑄢𑄨𑄠𑄧 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesTF𑄜𑄢𑄥𑄩 𑄘𑄧𑄉𑄨𑄚𑄧 𑄎𑄉
+localeDisplayNamesterritoriesDM𑄓𑄮𑄟𑄨𑄚𑄨𑄇
+localeDisplayNamesterritoriesTD𑄌𑄘𑄴
+localeDisplayNamesterritoriesAW𑄃𑄢𑄪𑄝
+localeDisplayNamesterritoriesMG𑄟𑄘𑄉𑄌𑄴𑄇𑄢𑄴
+localeDisplayNamesterritoriesUA𑄃𑄨𑄃𑄪𑄇𑄳𑄢𑄬𑄚𑄴
+localeDisplayNamesterritoriesMX𑄟𑄬𑄇𑄴𑄥𑄨𑄇𑄮
+localeDisplayNamesterritoriesDZ𑄃𑄢𑄴𑄎𑄬𑄢𑄨𑄠
+localeDisplayNamesterritoriesCR𑄇𑄮𑄥𑄳𑄑𑄢𑄨𑄇
+localeDisplayNamesterritoriesGH𑄊𑄚
+localeDisplayNamesterritoriesBF𑄝𑄪𑄢𑄴𑄇𑄨𑄚 𑄜𑄥𑄮
+localeDisplayNamesterritoriesMZ𑄟𑄮𑄎𑄟𑄴𑄝𑄨𑄇𑄴
+localeDisplayNamesterritoriesAG𑄆𑄚𑄴𑄖𑄨𑄉𑄱 𑄃𑄮 𑄝𑄢𑄴𑄟𑄪𑄓
+localeDisplayNamesterritoriesCZ𑄌𑄬𑄇𑄴 𑄛𑄳𑄢𑄎𑄖𑄧𑄚𑄴𑄖𑄳𑄢𑄧
+localeDisplayNamesterritories053𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄣𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesNP𑄚𑄬𑄛𑄣𑄴
+localeDisplayNamesterritoriesTC𑄖𑄪𑄢𑄴𑄇𑄧𑄌𑄴 𑄃𑄮 𑄇𑄭𑄇𑄮𑄌𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesQO𑄃𑄅𑄪𑄑𑄣𑄭𑄚𑄨𑄁 𑄃𑄮𑄥𑄚𑄨𑄠
+localeDisplayNamesterritories017𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesMC𑄟𑄮𑄚𑄇𑄮
+localeDisplayNamesterritoriesKI𑄇𑄨𑄢𑄨𑄝𑄖𑄨
+localeDisplayNamesterritoriesSB𑄥𑄧𑄣𑄮𑄟𑄚𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesEE𑄆𑄌𑄴𑄖𑄮𑄚𑄨𑄠
+localeDisplayNamesterritoriesAE𑄎𑄧𑄙 𑄃𑄢𑄧𑄝𑄴 𑄃𑄟𑄨𑄢𑄖𑄴
+localeDisplayNamesterritoriesTH𑄗𑄭𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesPR𑄛𑄪𑄠𑄬𑄢𑄴𑄖𑄮 𑄢𑄨𑄇𑄮
+localeDisplayNamesterritories011𑄛𑄧𑄏𑄨𑄟𑄴 𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesMP𑄅𑄪𑄖𑄴𑄖𑄮𑄉𑄎𑄢𑄴 𑄟𑄢𑄨𑄠𑄚 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesME𑄟𑄧𑄚𑄴𑄑𑄨𑄚𑄨𑄉𑄳𑄢𑄮
+localeDisplayNamesterritoriesAU𑄃𑄌𑄴𑄑𑄳𑄢𑄬𑄣𑄨𑄠
+localeDisplayNamesterritoriesAX𑄃𑄣𑄚𑄴𑄓𑄧 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesKH𑄇𑄧𑄟𑄴𑄝𑄮𑄓𑄨𑄠
+localeDisplayNamesterritoriesIM𑄃𑄭𑄣𑄴 𑄃𑄧𑄜𑄴 𑄟𑄳𑄠𑄚𑄴
+localeDisplayNamesterritoriesUS𑄃𑄨𑄃𑄪𑄃𑄬𑄌𑄴
+localeDisplayNamesterritoriesAR𑄃𑄢𑄴𑄎𑄬𑄚𑄴𑄑𑄨𑄚
+localeDisplayNamesterritories419𑄣𑄳𑄠𑄑𑄨𑄚𑄴 𑄃𑄟𑄬𑄢𑄨𑄇
+localeDisplayNamesterritoriesAS𑄃𑄟𑄬𑄢𑄨𑄇𑄚𑄴 𑄥𑄟𑄮𑄠
+localeDisplayNamesterritoriesTG𑄑𑄮𑄉𑄮
+localeDisplayNamesterritoriesPA𑄛𑄚𑄟
+localeDisplayNamesterritoriesPL𑄛𑄮𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesDO𑄓𑄮𑄟𑄨𑄚𑄨𑄇𑄚𑄴 𑄛𑄳𑄢𑄧𑄎𑄖𑄧𑄚𑄴𑄖𑄳𑄢𑄧
+localeDisplayNamesterritoriesAC𑄃𑄳𑄠𑄥𑄴𑄥𑄬𑄚𑄴𑄥𑄧𑄚𑄴 𑄃𑄭𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesAI𑄄𑄳𑄠𑄋𑄴𑄉𑄪𑄃𑄨𑄣
+localeDisplayNamesterritoriesGL𑄉𑄳𑄢𑄩𑄚𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesSY𑄥𑄨𑄢𑄨𑄠
+localeDisplayNamesterritoriesBN𑄝𑄳𑄢𑄪𑄚𑄬𑄭
+localeDisplayNamesterritoriesSL𑄥𑄨𑄠𑄬𑄢𑄣𑄨𑄃𑄮𑄚𑄴
+localeDisplayNamesterritoriesAZ𑄃𑄎𑄢𑄴𑄝𑄭𑄎𑄚𑄴
+localeDisplayNamesterritoriesGR𑄉𑄳𑄢𑄨𑄌𑄴
+localeDisplayNamesterritoriesLS𑄣𑄬𑄥𑄮𑄗𑄮
+localeDisplayNamesterritoriesTT𑄖𑄳𑄢𑄨𑄚𑄨𑄚𑄘𑄴 𑄃𑄮 𑄑𑄮𑄝𑄳𑄠𑄉𑄮
+localeDisplayNamesterritoriesSM𑄥𑄚𑄴 𑄟𑄢𑄨𑄚𑄮
+localeDisplayNamesterritoriesGE𑄎𑄧𑄢𑄴𑄎𑄨𑄠
+localeDisplayNamesterritoriesER𑄄𑄢𑄨𑄖𑄳𑄢𑄨𑄠
+localeDisplayNamesterritoriesEA𑄇𑄪𑄃𑄪𑄑 𑄃𑄳𑄃 𑄟𑄬𑄣𑄨𑄣
+localeDisplayNamesterritoriesBZ𑄝𑄬𑄣𑄨𑄎𑄴
+localeDisplayNamesterritories030𑄛𑄪𑄉𑄬𑄘𑄩 𑄃𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesKN𑄥𑄬𑄚𑄴𑄑𑄴 𑄇𑄨𑄑𑄴𑄥𑄴 𑄃𑄮 𑄚𑄬𑄞𑄨𑄌𑄴
+localeDisplayNamesterritoriesKY𑄇𑄬𑄟𑄳𑄠𑄚𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesIN𑄞𑄢𑄧𑄖𑄴
+localeDisplayNamesterritoriesVN𑄞𑄨𑄠𑄬𑄖𑄴𑄚𑄟𑄴
+localeDisplayNamesterritoriesPY𑄛𑄳𑄠𑄢𑄉𑄪𑄠𑄬
+localeDisplayNamesterritoriesNL𑄚𑄬𑄘𑄢𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴𑄥𑄴
+localeDisplayNamesterritoriesPN𑄛𑄨𑄇𑄴𑄇𑄬𑄠𑄢𑄴𑄚𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesGB𑄄𑄃𑄪𑄇𑄬
+localeDisplayNamesterritoriesMR𑄟𑄧𑄢𑄨𑄖𑄚𑄨𑄠
+localeDisplayNamesterritoriesHN𑄦𑄪𑄚𑄴𑄓𑄪𑄢𑄥𑄴
+localeDisplayNamesterritoriesVA𑄞𑄳𑄠𑄑𑄨𑄇𑄚𑄴 𑄥𑄨𑄑𑄨
+localeDisplayNamesterritories002𑄃𑄜𑄳𑄢𑄨𑄇
+localeDisplayNamesterritoriesTM𑄖𑄪𑄢𑄴𑄇𑄧𑄟𑄬𑄚𑄨𑄌𑄴𑄖𑄚𑄴
+localeDisplayNamesterritoriesAL𑄃𑄣𑄴𑄝𑄬𑄚𑄨𑄠
+localeDisplayNamesterritoriesKW𑄇𑄪𑄠𑄬𑄖𑄴
+localeDisplayNamesterritoriesPG𑄛𑄛𑄪𑄠 𑄚𑄨𑄃𑄪 𑄉𑄨𑄚𑄨
+localeDisplayNamesterritoriesCD𑄇𑄧𑄋𑄴𑄉𑄮(DRC)
+localeDisplayNamesterritoriesPE𑄛𑄬𑄢𑄪
+localeDisplayNamesterritoriesMY𑄟𑄣𑄴𑄠𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesGD𑄉𑄳𑄢𑄬𑄚𑄓
+localeDisplayNamesterritoriesVG𑄝𑄳𑄢𑄨𑄑𑄨𑄌𑄴 𑄞𑄢𑄴𑄎𑄨𑄚𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesST𑄥𑄃𑄮𑄑𑄟 𑄃𑄮 𑄛𑄳𑄢𑄨𑄚𑄴𑄥𑄨𑄛𑄨
+localeDisplayNamesterritoriesBE𑄝𑄬𑄣𑄴𑄎𑄨𑄠𑄟𑄴
+localeDisplayNamesterritoriesJM𑄎𑄟𑄭𑄇
+localeDisplayNamesterritoriesVE𑄞𑄬𑄚𑄬𑄎𑄪𑄠𑄬𑄣
+localeDisplayNamesterritoriesEC𑄄𑄇𑄪𑄠𑄬𑄓𑄧𑄢𑄴
+localeDisplayNamesterritoriesBY𑄝𑄬𑄣𑄢𑄪𑄌𑄴
+localeDisplayNamesterritories003𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄃𑄟𑄬𑄢𑄨𑄇
+localeDisplayNamesterritoriesID𑄄𑄚𑄴𑄘𑄮𑄚𑄬𑄥𑄨𑄠
+localeDisplayNamesterritoriesYT𑄟𑄠𑄮𑄖𑄴𑄖𑄬
+localeDisplayNamesterritoriesNZ𑄚𑄨𑄃𑄪𑄎𑄨𑄣𑄳𑄠𑄚𑄴𑄓𑄴
+localeDisplayNamesterritoriesSC𑄥𑄨𑄥𑄨𑄣𑄨
+localeDisplayNamesterritoriesCA𑄇𑄚𑄓
+localeDisplayNamesterritoriesIR𑄄𑄢𑄚𑄴
+localeDisplayNamesterritoriesJE𑄎𑄢𑄴𑄥𑄨
+localeDisplayNamesterritoriesBV𑄝𑄮𑄞𑄬𑄑𑄴 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesMM𑄟𑄠𑄚𑄴𑄟𑄢𑄴 (𑄝𑄢𑄴𑄟)
+localeDisplayNamesterritories021𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄎𑄉𑄢𑄴 𑄃𑄟𑄬𑄢𑄨𑄇
+localeDisplayNamesterritoriesAO𑄃𑄳𑄠𑄋𑄴𑄉𑄮𑄣
+localeDisplayNamesterritoriesLI𑄣𑄨𑄌𑄬𑄚𑄴𑄥𑄳𑄑𑄬𑄃𑄨𑄚𑄴
+localeDisplayNamesterritoriesBH𑄝𑄦𑄧𑄢𑄭𑄚𑄴
+localeDisplayNamesterritoriesNR𑄚𑄃𑄪𑄢𑄪
+localeDisplayNamesterritoriesSD𑄥𑄪𑄘𑄚𑄴
+localeDisplayNamesterritoriesCI𑄃𑄭𑄞𑄧𑄢𑄨
+localeDisplayNamesterritories029𑄇𑄳𑄠𑄢𑄝𑄨𑄠𑄚𑄴
+localeDisplayNamesterritoriesAF𑄃𑄛𑄴𑄉𑄚𑄨𑄌𑄴𑄖𑄚𑄴
+localeDisplayNamesterritoriesAQ𑄃𑄳𑄠𑄚𑄴𑄑𑄢𑄴𑄇𑄧𑄑𑄨𑄇
+localeDisplayNamesterritoriesBB𑄝𑄢𑄴𑄝𑄘𑄮𑄌𑄴
+localeDisplayNamesterritoriesIC𑄇𑄳𑄠𑄚𑄢𑄨 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄳𑄠
+localeDisplayNamesterritoriesDK𑄓𑄬𑄚𑄴𑄟𑄢𑄴𑄇𑄧
+localeDisplayNamesterritoriesCN𑄌𑄩𑄚𑄴
+localeDisplayNamesterritories018𑄘𑄧𑄉𑄨𑄚𑄴 𑄃𑄜𑄳𑄢𑄨𑄇 𑄎𑄉
+localeDisplayNamesscriptsVaii𑄞𑄭
+localeDisplayNamesscriptsCirt𑄇𑄨𑄢𑄴𑄑𑄧
+localeDisplayNamesscriptsLimb𑄣𑄨𑄟𑄴𑄝𑄪
+localeDisplayNamesscriptsOrya𑄃𑄮𑄢𑄨𑄠
+localeDisplayNamesscriptsPhli𑄈𑄧𑄘𑄨𑄖𑄧 𑄛𑄳𑄦𑄣𑄧𑄞𑄩
+localeDisplayNamesscriptsThaa𑄗𑄚
+localeDisplayNamesscriptsHrkt𑄎𑄛𑄚𑄨 𑄦𑄧𑄢𑄧𑄇𑄴
+localeDisplayNamesscriptsJpan𑄎𑄛𑄚𑄩
+localeDisplayNamesscriptsCyrl𑄥𑄨𑄢𑄨𑄣𑄨𑄇𑄴
+localeDisplayNamesscriptsLatf𑄜𑄳𑄢𑄇𑄴𑄑𑄪𑄢𑄴 𑄣𑄳𑄠𑄑𑄨𑄚𑄴
+localeDisplayNamesscriptsLatn𑄣𑄳𑄠𑄑𑄨𑄚𑄴
+localeDisplayNamesscriptsItal𑄛𑄪𑄢𑄮𑄚𑄩 𑄃𑄨𑄖𑄣𑄨
+localeDisplayNamesscriptsTagb𑄑𑄉𑄮𑄤𑄚
+localeDisplayNamesscriptsHani𑄦𑄳𑄠𑄚𑄴
+localeDisplayNamesscriptsKnda𑄇𑄚𑄢
+localeDisplayNamesscriptsUgar𑄅𑄪𑄉𑄢𑄨𑄑𑄨𑄇𑄴
+localeDisplayNamesscriptsBugi𑄝𑄪𑄉𑄨
+localeDisplayNamesscriptsBlis𑄝𑄳𑄣𑄨𑄌𑄴𑄛𑄳𑄢𑄧𑄖𑄩𑄇𑄴
+localeDisplayNamesscriptsTaml𑄖𑄟𑄨𑄣𑄴
+localeDisplayNamesscriptsHmng𑄜𑄦𑄃𑄮𑄟𑄧𑄋𑄴
+localeDisplayNamesscriptsZyyy𑄃𑄧𑄎𑄬𑄃𑄧𑄌𑄴
+localeDisplayNamesscriptsArmn𑄃𑄢𑄴𑄟𑄬𑄚𑄩𑄠𑄧
+localeDisplayNamesscriptsSylo𑄥𑄨𑄣𑄬𑄑𑄨 𑄚𑄉𑄧𑄢𑄨
+localeDisplayNamesscriptsGrek𑄉𑄳𑄢𑄨𑄇𑄴
+localeDisplayNamesscriptsMong𑄟𑄮𑄋𑄴𑄉𑄮𑄣𑄩𑄠𑄧
+localeDisplayNamesscriptsMymr𑄟𑄠𑄚𑄴𑄟𑄢𑄴
+localeDisplayNamesscriptsTeng𑄖𑄬𑄋𑄴𑄉𑄮𑄠𑄢𑄴
+localeDisplayNamesscriptsZmth𑄚𑄘𑄞𑄬𑄖𑄴 𑄌𑄨𑄚𑄴𑄦𑄧
+localeDisplayNamesscriptsLepc𑄣𑄬𑄛𑄴𑄌
+localeDisplayNamesscriptsTalu𑄚𑄱 𑄖𑄭 𑄣𑄪
+localeDisplayNamesscriptsShaw𑄥𑄞𑄨𑄠𑄚𑄴
+localeDisplayNamesscriptsGeok𑄎𑄧𑄢𑄴𑄎𑄨𑄠𑄧 𑄈𑄪𑄖𑄴𑄥𑄪𑄢𑄨
+localeDisplayNamesscriptsTibt𑄖𑄨𑄛𑄴𑄝𑄧𑄖𑄨
+localeDisplayNamesscriptsZsym𑄍𑄪𑄝𑄨𑄉𑄪𑄚𑄴
+localeDisplayNamesscriptsHebr𑄦𑄨𑄛𑄴𑄝𑄳𑄢𑄪
+localeDisplayNamesscriptsGoth𑄉𑄮𑄗𑄨𑄇𑄴
+localeDisplayNamesscriptsBopo𑄝𑄮𑄛𑄮𑄟𑄮𑄜𑄮
+localeDisplayNamesscriptsBali𑄝𑄣𑄩𑄠𑄧
+localeDisplayNamesscriptsLaoo𑄣𑄃𑄮
+localeDisplayNamesscriptsBatk𑄖𑄑𑄇𑄴
+localeDisplayNamesscriptsNkoo𑄃𑄬𑄚𑄴𑄇𑄮
+localeDisplayNamesscriptsMero𑄟𑄬𑄢𑄮𑄃𑄨𑄑𑄨𑄇𑄴
+localeDisplayNamesscriptsSyrj𑄛𑄧𑄏𑄨𑄟𑄴𑄎𑄉𑄢𑄴 𑄥𑄨𑄢𑄨𑄠𑄇𑄴
+localeDisplayNamesscriptsEgyd𑄟𑄨𑄥𑄧𑄢𑄩𑄠𑄧 𑄓𑄬𑄟𑄮𑄑𑄨𑄇𑄴
+localeDisplayNamesscriptsBrah𑄝𑄳𑄢𑄟𑄴𑄦𑄴𑄟𑄩
+localeDisplayNamesscriptsRjng𑄢𑄬𑄎𑄳𑄠𑄋𑄴𑄉𑄧
+localeDisplayNamesscriptsKali𑄇𑄠𑄦𑄧𑄣𑄨
+localeDisplayNamesscriptsHant𑄢𑄨𑄘𑄨𑄥𑄪𑄘𑄮𑄟𑄴 𑄦𑄳𑄠𑄚𑄴
+localeDisplayNamesscriptsDsrt𑄘𑄬𑄥𑄬𑄢𑄖𑄴
+localeDisplayNamesscriptsLinb𑄣𑄨𑄚𑄨𑄠𑄢𑄴 𑄝𑄨
+localeDisplayNamesscriptsMani𑄟𑄳𑄠𑄚𑄨𑄌𑄭𑄚𑄴
+localeDisplayNamesscriptsSinh𑄥𑄨𑄁𑄦𑄧𑄣𑄨
+localeDisplayNamesscriptsKhmr𑄈𑄬𑄟𑄬𑄢𑄴
+localeDisplayNamesscriptsGeor𑄎𑄧𑄢𑄴𑄎𑄨𑄠𑄚𑄴
+localeDisplayNamesscriptsOlck𑄃𑄮𑄣𑄴𑄌𑄨𑄇𑄨
+localeDisplayNamesscriptsSund𑄥𑄚𑄴𑄘𑄚𑄨𑄎𑄴
+localeDisplayNamesscriptsGlag𑄉𑄳𑄣𑄉𑄮𑄣𑄨𑄑𑄨𑄇𑄴
+localeDisplayNamesscriptsArab𑄜𑄢𑄴𑄥𑄨-𑄃𑄢𑄧𑄝𑄨
+localeDisplayNamesscriptsAvst𑄃𑄞𑄬𑄥𑄧𑄖𑄚𑄴
+localeDisplayNamesscriptsLana𑄣𑄚𑄳𑄦
+localeDisplayNamesscriptsHung𑄛𑄪𑄢𑄮𑄚𑄴 𑄦𑄋𑄴𑄉𑄬𑄢𑄨𑄠𑄧
+localeDisplayNamesscriptsThai𑄗𑄭
+localeDisplayNamesscriptsLatg𑄉𑄳𑄠𑄣𑄨𑄇𑄴 𑄣𑄳𑄠𑄑𑄨𑄚𑄴
+localeDisplayNamesscriptsLydi𑄣𑄭𑄓𑄨𑄠𑄚𑄴
+localeDisplayNamesscriptsMand𑄟𑄳𑄠𑄚𑄴𑄓𑄠𑄩𑄚𑄴
+localeDisplayNamesscriptsPhlp𑄥𑄧𑄣𑄴𑄑𑄢𑄴 𑄛𑄳𑄦𑄣𑄧𑄞𑄩
+localeDisplayNamesscriptsRoro𑄢𑄮𑄋𑄴𑄉𑄮𑄢𑄮𑄋𑄴𑄉𑄮
+localeDisplayNamesscriptsHano𑄦𑄳𑄠𑄚𑄪𑄚𑄪
+localeDisplayNamesscriptsMaya𑄟𑄠𑄚𑄴 𑄦𑄠𑄢𑄮𑄉𑄳𑄣𑄨𑄛𑄴
+localeDisplayNamesscriptsCyrs𑄛𑄪𑄢𑄮𑄚𑄨 𑄌𑄢𑄴𑄌𑄧 𑄥𑄳𑄣𑄞𑄮𑄚𑄨𑄇𑄴 𑄥𑄨𑄢𑄨𑄣𑄨𑄇𑄴
+localeDisplayNamesscriptsPhag𑄜𑄧𑄉𑄴𑄥𑄧-𑄛
+localeDisplayNamesscriptsJava𑄎𑄞𑄚𑄨𑄎𑄴
+localeDisplayNamesscriptsSyre𑄃𑄬𑄌𑄴𑄑𑄳𑄢𑄬𑄋𑄴𑄉𑄬𑄣𑄮 𑄥𑄨𑄢𑄨𑄠𑄇𑄴
+localeDisplayNamesscriptsGuru𑄉𑄪𑄢𑄪𑄟𑄪𑄈𑄨
+localeDisplayNamesscriptsCans𑄎𑄧𑄙 𑄇𑄚𑄓𑄨𑄠𑄚𑄴 𑄃𑄳𑄠𑄝𑄳𑄢𑄮𑄎𑄨𑄚𑄨𑄠𑄚𑄴 𑄥𑄨𑄣𑄬𑄝𑄨𑄇𑄴𑄥𑄧
+localeDisplayNamesscriptsKore𑄇𑄮𑄢𑄨𑄠𑄚𑄴
+localeDisplayNamesscriptsMoon𑄟𑄪𑄚𑄴
+localeDisplayNamesscriptsHang𑄦𑄋𑄴𑄉𑄪𑄣𑄴
+localeDisplayNamesscriptsSaur𑄥𑄯𑄢𑄌𑄴𑄑𑄳𑄢𑄧
+localeDisplayNamesscriptsBuhd𑄝𑄪𑄦𑄨𑄓𑄴
+localeDisplayNamesscriptsCakm𑄌𑄋𑄴𑄟𑄳𑄦
+localeDisplayNamesscriptsXsux𑄥𑄪𑄟𑄬𑄢𑄧-𑄃𑄇𑄳𑄇𑄘𑄩𑄠𑄧 𑄇𑄩𑄣𑄧𑄇𑄴𑄢𑄪𑄛𑄴
+localeDisplayNamesscriptsJamo𑄎𑄳𑄠𑄟𑄮
+localeDisplayNamesscriptsTavt𑄖𑄭 𑄞𑄨𑄠𑄬𑄖𑄴
+localeDisplayNamesscriptsHanb𑄦𑄳𑄠𑄚𑄴𑄝𑄨
+localeDisplayNamesscriptsZzzz𑄦𑄧𑄝𑄧𑄢𑄴𑄚𑄧𑄛𑄨𑄠𑄬 𑄦𑄧𑄢𑄧𑄇𑄴
+localeDisplayNamesscriptsZinh𑄇𑄭
+localeDisplayNamesscriptsSamr𑄥𑄧𑄟𑄬𑄢𑄨𑄑𑄧𑄚𑄴
+localeDisplayNamesscriptsRunr𑄢𑄪𑄚𑄨𑄇𑄴
+localeDisplayNamesscriptsGujr𑄉𑄪𑄎𑄴𑄢𑄑𑄨
+localeDisplayNamesscriptsKthi𑄇𑄭𑄗𑄨
+localeDisplayNamesscriptsSgnw𑄌𑄨𑄚𑄴𑄦𑄧 𑄣𑄨𑄈𑄧𑄚𑄴
+localeDisplayNamesscriptsVisp𑄘𑄬𑄉𑄧𑄎𑄭𑄘𑄳𑄠𑄬 𑄞𑄌𑄴
+localeDisplayNamesscriptsDeva𑄘𑄬𑄛𑄴𑄚𑄉𑄧𑄢𑄨
+localeDisplayNamesscriptsArmi𑄃𑄢𑄧𑄟𑄨
+localeDisplayNamesscriptsHira𑄦𑄨𑄢𑄉𑄚
+localeDisplayNamesscriptsEgyp𑄟𑄨𑄥𑄧𑄢𑄩𑄠𑄧 𑄦𑄠𑄢𑄮𑄉𑄳𑄣𑄨𑄛𑄴
+localeDisplayNamesscriptsTfng𑄖𑄨𑄜𑄨𑄚𑄉𑄴
+localeDisplayNamesscriptsInds𑄥𑄨𑄚𑄴𑄙𑄪
+localeDisplayNamesscriptsCher𑄌𑄬𑄇𑄮𑄇𑄨
+localeDisplayNamesscriptsMlym𑄟𑄣𑄠𑄣𑄟𑄴
+localeDisplayNamesscriptsPlrd𑄛𑄮𑄣𑄢𑄴𑄓𑄧 𑄙𑄧𑄚𑄨𑄇𑄴
+localeDisplayNamesscriptsKhar𑄈𑄢𑄮𑄌𑄴𑄒𑄩
+localeDisplayNamesscriptsCham𑄌𑄳𑄠𑄟𑄴
+localeDisplayNamesscriptsSyrn𑄛𑄪𑄇𑄴𑄎𑄉𑄧𑄢𑄴 𑄥𑄨𑄢𑄨𑄠𑄇𑄴
+localeDisplayNamesscriptsKana𑄇𑄑𑄇𑄚
+localeDisplayNamesscriptsEgyh𑄟𑄨𑄥𑄧𑄢𑄩𑄠𑄧 𑄦𑄠𑄴𑄢𑄬𑄑𑄨𑄇𑄴
+localeDisplayNamesscriptsPrti𑄛𑄢𑄴𑄗𑄨𑄠𑄧𑄚𑄴
+localeDisplayNamesscriptsXpeo𑄛𑄪𑄢𑄮𑄚𑄴 𑄜𑄢𑄴𑄥𑄨
+localeDisplayNamesscriptsCprt𑄥𑄭𑄛𑄳𑄢𑄮𑄠𑄬𑄖𑄴
+localeDisplayNamesscriptsLina𑄣𑄨𑄚𑄨𑄠𑄢𑄴 𑄆
+localeDisplayNamesscriptsOgam𑄃𑄮𑄊𑄟𑄴
+localeDisplayNamesscriptsPhnx𑄜𑄨𑄚𑄨𑄥𑄩𑄠𑄧
+localeDisplayNamesscriptsZsye𑄃𑄨𑄟𑄮𑄎𑄨
+localeDisplayNamesscriptsZxxx𑄚𑄧𑄣𑄬𑄇𑄴𑄈𑄳𑄠𑄬
+localeDisplayNamesscriptsHans𑄅𑄪𑄎𑄪𑄅𑄪𑄏𑄪 𑄦𑄳𑄠𑄚𑄴
+localeDisplayNamesscriptsOsma𑄃𑄮𑄥𑄟𑄚𑄨𑄠𑄧
+localeDisplayNamesscriptsBeng𑄝𑄁𑄣
+localeDisplayNamesscriptsBrai𑄝𑄳𑄢𑄳𑄆𑄬𑄣𑄴
+localeDisplayNamesscriptsCopt𑄇𑄮𑄛𑄴𑄑𑄨𑄇𑄴
+localeDisplayNamesscriptsCari𑄇𑄳𑄠𑄢𑄨𑄠𑄚𑄴
+localeDisplayNamesscriptsOrkh𑄃𑄧𑄢𑄴𑄈𑄮𑄚𑄴
+localeDisplayNamesscriptsPhlv𑄛𑄪𑄌𑄴𑄖𑄧𑄇𑄴 𑄛𑄳𑄦𑄣𑄧𑄞𑄩
+localeDisplayNamesscriptsMtei𑄟𑄳𑄆𑄬𑄑𑄳𑄆𑄬 𑄟𑄠𑄬𑄇𑄴
+localeDisplayNamesscriptsYiii𑄅𑄪𑄃𑄨
+localeDisplayNamesscriptsSyrc𑄥𑄨𑄢𑄨𑄠𑄇𑄴
+localeDisplayNamesscriptsTglg𑄑𑄉𑄣𑄧𑄉𑄴
+localeDisplayNamesscriptsTale𑄖𑄭𑄣𑄬
+localeDisplayNamesscriptsTelu𑄖𑄬𑄣𑄬𑄉𑄪
+localeDisplayNamesscriptsLyci𑄣𑄭𑄥𑄨𑄠𑄚𑄴
+localeDisplayNamesscriptsSara𑄥𑄢𑄖𑄨
+localeDisplayNamesscriptsEthi𑄃𑄨𑄗𑄨𑄃𑄮𑄛𑄨𑄠𑄧
+localeDisplayNamesscriptsPerm𑄛𑄪𑄢𑄮𑄚𑄴 𑄛𑄢𑄴𑄟𑄨𑄇𑄴
+localeDisplayNamescodePatternsterritory𑄎𑄉: {0}
+localeDisplayNamescodePatternsscript𑄦𑄧𑄢𑄧𑄇𑄴: {0}
+localeDisplayNamescodePatternslanguage𑄞𑄌𑄴: {0}
+localeDisplayNameslanguagessu𑄥𑄪𑄘𑄚𑄩
+localeDisplayNameslanguagesjmc𑄟𑄇𑄟𑄬
+localeDisplayNameslanguagestg𑄖𑄎𑄨𑄇𑄴
+localeDisplayNameslanguageskmb𑄇𑄨𑄟𑄴𑄝𑄪𑄚𑄴𑄘𑄪
+localeDisplayNameslanguagesmua𑄟𑄪𑄘𑄋𑄴𑄉𑄧
+localeDisplayNameslanguagesdum𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄓𑄌𑄴
+localeDisplayNameslanguagespa𑄛𑄚𑄴𑄎𑄝𑄩
+localeDisplayNameslanguageswuu𑄤𑄌𑄨𑄚
+localeDisplayNameslanguagestli𑄖𑄴𑄣𑄨𑄋𑄴𑄉𑄨𑄖𑄴
+localeDisplayNameslanguageshsnXiang 𑄌𑄨𑄚
+localeDisplayNameslanguageshai𑄦𑄭𑄓
+localeDisplayNameslanguagesgon𑄉𑄮𑄚𑄴𑄓𑄨
+localeDisplayNameslanguagesbla𑄥𑄨𑄇𑄴𑄥𑄨𑄇
+localeDisplayNameslanguagesfrr𑄅𑄖𑄴𑄗𑄧𑄢𑄴 𑄎𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄜𑄳𑄢𑄨𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesrw𑄇𑄨𑄚𑄴𑄠𑄢𑄮𑄠𑄚𑄴𑄓
+localeDisplayNameslanguagesnym𑄚𑄳𑄠𑄠𑄟𑄴𑄃𑄮𑄠𑄬𑄎𑄨
+localeDisplayNameslanguageschn𑄌𑄨𑄚𑄪𑄇𑄴 𑄎𑄢𑄴𑄉𑄧𑄚𑄴
+localeDisplayNameslanguagesmh𑄟𑄢𑄴𑄥𑄣𑄨𑄎𑄴
+localeDisplayNameslanguagessas𑄥𑄥𑄇𑄴
+localeDisplayNameslanguagesen_CA𑄇𑄚𑄓𑄩𑄠𑄧 𑄃𑄨𑄁𑄢𑄬𑄎𑄨
+localeDisplayNameslanguagesbi𑄝𑄨𑄥𑄴𑄣𑄟
+localeDisplayNameslanguagesdgr𑄘𑄮𑄉𑄳𑄢𑄨𑄝𑄴
+localeDisplayNameslanguagessah𑄥𑄈
+localeDisplayNameslanguagesfy𑄛𑄧𑄎𑄨𑄟𑄴 𑄜𑄳𑄢𑄨𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageswar𑄤𑄢𑄬
+localeDisplayNameslanguageswal𑄤𑄣𑄟𑄮
+localeDisplayNameslanguagesto𑄑𑄮𑄋𑄴𑄉𑄚𑄴
+localeDisplayNameslanguagessus𑄥𑄪𑄥𑄪
+localeDisplayNameslanguagesfr𑄜𑄧𑄢𑄥𑄨
+localeDisplayNameslanguagesbe𑄝𑄬𑄣𑄢𑄪𑄥𑄨𑄠𑄧
+localeDisplayNameslanguagesak𑄃𑄇𑄚𑄴
+localeDisplayNameslanguagesfr_CA𑄇𑄚𑄓𑄩𑄠𑄧 𑄜𑄧𑄢𑄥𑄨
+localeDisplayNameslanguagesfo𑄜𑄢𑄮𑄌𑄴
+localeDisplayNameslanguagesfon𑄜𑄧𑄚𑄴
+localeDisplayNameslanguagesdar𑄘𑄢𑄴𑄉𑄧𑄤
+localeDisplayNameslanguagesguz𑄉𑄪𑄥𑄩
+localeDisplayNameslanguagesml𑄟𑄣𑄠𑄣𑄟𑄴
+localeDisplayNameslanguagesksf𑄝𑄜𑄨𑄠
+localeDisplayNameslanguagessg𑄥𑄋𑄴𑄉𑄮
+localeDisplayNameslanguagesgaa𑄉𑄳𑄃
+localeDisplayNameslanguagesti𑄖𑄨𑄉𑄧𑄢𑄨𑄚𑄨𑄠
+localeDisplayNameslanguagesgot𑄉𑄧𑄗𑄨𑄇𑄴
+localeDisplayNameslanguagesdje𑄎𑄢𑄴𑄟
+localeDisplayNameslanguagesmni𑄟𑄚𑄨𑄛𑄪𑄢𑄩
+localeDisplayNameslanguageshr𑄇𑄳𑄢𑄮𑄠𑄬𑄥𑄩𑄠𑄧
+localeDisplayNameslanguagesban𑄝𑄣𑄨𑄚𑄩𑄠𑄧
+localeDisplayNameslanguagesmk𑄟𑄳𑄠𑄥𑄨𑄓𑄮𑄚𑄩𑄠𑄧
+localeDisplayNameslanguagesoj𑄃𑄮𑄎𑄨𑄝𑄧𑄤
+localeDisplayNameslanguageskha𑄈𑄥𑄨
+localeDisplayNameslanguagesnyn𑄚𑄳𑄠𑄠𑄋𑄴𑄇𑄮𑄣𑄬
+localeDisplayNameslanguagesjpr𑄎𑄪𑄘𑄬𑄃𑄮 𑄜𑄢𑄴𑄥𑄨
+localeDisplayNameslanguagesgba𑄝𑄠
+localeDisplayNameslanguagesse𑄅𑄖𑄴𑄖𑄧𑄢𑄴 𑄢𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄥𑄟𑄨
+localeDisplayNameslanguagesar𑄃𑄢𑄧𑄝𑄩
+localeDisplayNameslanguageskok𑄇𑄮𑄋𑄴𑄇𑄚𑄨
+localeDisplayNameslanguagesfi𑄜𑄨𑄚𑄨𑄌𑄴
+localeDisplayNameslanguagestem𑄑𑄭𑄟𑄴𑄚𑄬
+localeDisplayNameslanguagestiv𑄑𑄨𑄞𑄴
+localeDisplayNameslanguagesbug𑄝𑄪𑄉𑄨𑄚𑄨
+localeDisplayNameslanguagesky𑄇𑄨𑄢𑄴𑄉𑄨𑄌𑄴
+localeDisplayNameslanguageskln𑄇𑄣𑄬𑄚𑄴𑄎𑄨𑄚𑄴
+localeDisplayNameslanguagesar_001𑄚𑄱 𑄉𑄧𑄟𑄴 𑄃𑄢𑄧𑄝𑄩
+localeDisplayNameslanguagesdz𑄎𑄮𑄋𑄴𑄉
+localeDisplayNameslanguagesxal𑄇𑄣𑄴𑄟𑄳𑄆𑄧𑄇𑄴
+localeDisplayNameslanguagessrr𑄥𑄬𑄢𑄬𑄢𑄴
+localeDisplayNameslanguagesbg𑄝𑄪𑄣𑄴𑄉𑄬𑄢𑄨𑄠𑄧
+localeDisplayNameslanguagesde_AT𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄨𑄠𑄚𑄴 𑄎𑄢𑄴𑄟𑄚𑄴
+localeDisplayNameslanguageslv𑄣𑄖𑄴𑄞𑄩𑄠𑄧
+localeDisplayNameslanguagesuk𑄃𑄨𑄃𑄪𑄇𑄳𑄢𑄬𑄚𑄩𑄠𑄧
+localeDisplayNameslanguagesku𑄇𑄪𑄢𑄴𑄘𑄨𑄥𑄴
+localeDisplayNameslanguagesfrs𑄛𑄪𑄉𑄮 𑄜𑄳𑄢𑄨𑄥𑄨𑄠𑄧
+localeDisplayNameslanguagesgwi𑄉𑄧𑄃𑄮𑄃𑄨𑄌𑄴𑄃𑄨𑄚𑄴
+localeDisplayNameslanguagesae𑄃𑄝𑄬𑄌𑄴𑄖𑄩𑄠𑄧
+localeDisplayNameslanguagesbua𑄝𑄪𑄢𑄨𑄠𑄖𑄴
+localeDisplayNameslanguagesccp𑄌𑄋𑄴𑄟𑄳𑄦
+localeDisplayNameslanguagesdua𑄘𑄱𑄣
+localeDisplayNameslanguagestum𑄖𑄪𑄟𑄴𑄝𑄪𑄇
+localeDisplayNameslanguageswas𑄤𑄥𑄮
+localeDisplayNameslanguagessog𑄥𑄮𑄇𑄴𑄓𑄠𑄚𑄴
+localeDisplayNameslanguageskk𑄇𑄎𑄇𑄴
+localeDisplayNameslanguagessnk𑄥𑄮𑄚𑄨𑄋𑄴𑄇𑄬
+localeDisplayNameslanguagesbho𑄞𑄮𑄎𑄴𑄛𑄪𑄢𑄨
+localeDisplayNameslanguagesasa𑄃𑄥𑄪
+localeDisplayNameslanguagessaq𑄥𑄟𑄴𑄝𑄪𑄢𑄪
+localeDisplayNameslanguagespau𑄛𑄣𑄠𑄪𑄠𑄚𑄴
+localeDisplayNameslanguagessrn𑄥𑄳𑄢𑄚𑄚𑄴 𑄑𑄮𑄋𑄴𑄉𑄮
+localeDisplayNameslanguagesav𑄃𑄞𑄬𑄢𑄨𑄇𑄴
+localeDisplayNameslanguagesses𑄇𑄱𑄢𑄝𑄬𑄚𑄮 𑄥𑄬𑄚𑄳𑄚𑄨
+localeDisplayNameslanguagessd𑄥𑄨𑄚𑄴𑄙𑄨
+localeDisplayNameslanguageshe𑄦𑄨𑄛𑄴𑄝𑄳𑄢𑄪
+localeDisplayNameslanguageshu𑄦𑄁𑄉𑄬𑄢𑄩𑄠𑄧
+localeDisplayNameslanguagescv𑄌𑄪𑄝𑄥𑄴
+localeDisplayNameslanguagesnl𑄓𑄌𑄴
+localeDisplayNameslanguagesden𑄥𑄳𑄣𑄳𑄠𑄞𑄴
+localeDisplayNameslanguageszap𑄎𑄛𑄮𑄑𑄬𑄇𑄴
+localeDisplayNameslanguagessyc𑄛𑄪𑄢𑄮𑄚𑄴 𑄥𑄨𑄢𑄨𑄃𑄮
+localeDisplayNameslanguagestkl𑄑𑄮𑄇𑄬𑄣𑄃𑄪
+localeDisplayNameslanguagesswb𑄇𑄧𑄟𑄮𑄢𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesegy𑄛𑄪𑄢𑄨𑄚𑄩 𑄟𑄨𑄥𑄧𑄢𑄩𑄠𑄧
+localeDisplayNameslanguageslg𑄉𑄚𑄴𑄓
+localeDisplayNameslanguagessux𑄥𑄪𑄟𑄬𑄢𑄩𑄠𑄧
+localeDisplayNameslanguageszxx𑄞𑄏𑄧𑄢𑄴𑄘𑄮𑄇𑄳𑄠𑄬 𑄝𑄨𑄥𑄧𑄠𑄴 𑄚𑄳𑄄𑄬
+localeDisplayNameslanguagesza𑄏𑄪𑄠𑄋𑄴
+localeDisplayNameslanguagesgrc𑄛𑄪𑄢𑄮𑄚𑄴 𑄉𑄳𑄢𑄩𑄇𑄴
+localeDisplayNameslanguagessn𑄥𑄮𑄚
+localeDisplayNameslanguagesgrb𑄉𑄳𑄢𑄬𑄝𑄮
+localeDisplayNameslanguageslam𑄣𑄟𑄴𑄝
+localeDisplayNameslanguagesvot𑄞𑄮𑄑𑄨𑄇𑄴
+localeDisplayNameslanguagessid𑄥𑄨𑄓𑄟𑄮
+localeDisplayNameslanguagesio𑄃𑄨𑄓𑄮
+localeDisplayNameslanguagespon𑄛𑄮𑄚𑄴𑄦𑄧𑄛𑄳𑄆𑄬𑄠𑄚𑄴
+localeDisplayNameslanguagestwq𑄖𑄥𑄤𑄇𑄴
+localeDisplayNameslanguageselx𑄆𑄣𑄟𑄭𑄖𑄴
+localeDisplayNameslanguagesbs𑄝𑄧𑄥𑄴𑄚𑄩𑄠𑄚𑄴
+localeDisplayNameslanguagessdh𑄘𑄧𑄉𑄨𑄚𑄴 𑄇𑄪𑄢𑄴𑄘𑄨𑄌𑄴
+localeDisplayNameslanguagestsi𑄥𑄨𑄟𑄴𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageslb𑄣𑄪𑄇𑄴𑄥𑄬𑄟𑄴𑄝𑄢𑄴𑄉𑄩𑄠𑄧
+localeDisplayNameslanguageskkj𑄇𑄇𑄮
+localeDisplayNameslanguageskam𑄇𑄟𑄴𑄝
+localeDisplayNameslanguagesms𑄟𑄣𑄧𑄠𑄴
+localeDisplayNameslanguagespeo𑄛𑄪𑄢𑄮𑄚𑄴 𑄜𑄢𑄴𑄥𑄨
+localeDisplayNameslanguagescr𑄇𑄳𑄢𑄨
+localeDisplayNameslanguagestig𑄑𑄭𑄉𑄳𑄢𑄬
+localeDisplayNameslanguagesnds_NL𑄣𑄮𑄥𑄳𑄠𑄇𑄴𑄥𑄧𑄚𑄴
+localeDisplayNameslanguagesniu𑄚𑄨𑄃𑄪𑄠𑄚𑄴
+localeDisplayNameslanguagesscn𑄥𑄨𑄥𑄨𑄣𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesay𑄃𑄠𑄧𑄟𑄢
+localeDisplayNameslanguagesor𑄃𑄮𑄢𑄨𑄠
+localeDisplayNameslanguageswa𑄤𑄣𑄪𑄚𑄴
+localeDisplayNameslanguageses_419𑄣𑄳𑄠𑄑𑄨𑄚𑄴 𑄃𑄟𑄬𑄢𑄨𑄇𑄚𑄴 𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄌𑄴
+localeDisplayNameslanguagesbra𑄝𑄳𑄢𑄎𑄴
+localeDisplayNameslanguagesbyn𑄝𑄳𑄣𑄨𑄚𑄴
+localeDisplayNameslanguagespro𑄛𑄪𑄢𑄮𑄚𑄴 𑄛𑄳𑄢𑄮𑄞𑄬𑄚𑄴𑄥𑄣𑄴
+localeDisplayNameslanguageslua𑄣𑄪𑄝-𑄣𑄪𑄣𑄪𑄠
+localeDisplayNameslanguagesnzi𑄆𑄚𑄴𑄎𑄨𑄟
+localeDisplayNameslanguagests𑄥𑄧𑄋𑄴𑄉
+localeDisplayNameslanguagesia𑄃𑄨𑄚𑄴𑄑𑄢𑄴𑄣𑄨𑄁𑄉𑄪𑄠
+localeDisplayNameslanguagescop𑄇𑄧𑄛𑄴𑄑𑄨𑄇𑄴
+localeDisplayNameslanguageslus𑄟𑄨𑄎𑄮
+localeDisplayNameslanguagesfj𑄜𑄨𑄎𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesth𑄗𑄭
+localeDisplayNameslanguagesel𑄉𑄳𑄢𑄨𑄇𑄴
+localeDisplayNameslanguagesceb𑄌𑄬𑄝𑄪𑄠𑄚𑄮
+localeDisplayNameslanguagesnqo𑄆𑄚𑄴𑄇𑄮
+localeDisplayNameslanguagesnap𑄚𑄬𑄠𑄛𑄮𑄣𑄨𑄑𑄚𑄴
+localeDisplayNameslanguagesphn𑄜𑄮𑄚𑄨𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesrn𑄢𑄪𑄚𑄴𑄘𑄨
+localeDisplayNameslanguageskj𑄇𑄮𑄠𑄚𑄨𑄠𑄟
+localeDisplayNameslanguagesie𑄃𑄨𑄚𑄴𑄑𑄢𑄴𑄣𑄨𑄁𑄉𑄧
+localeDisplayNameslanguagesosa𑄃𑄮𑄥𑄬𑄌𑄴
+localeDisplayNameslanguagesro_MD𑄟𑄧𑄣𑄴𑄘𑄞𑄨𑄠𑄧
+localeDisplayNameslanguagesgn𑄉𑄪𑄠𑄢𑄚𑄨
+localeDisplayNameslanguageshz𑄦𑄬𑄢𑄬𑄢𑄮
+localeDisplayNameslanguagesfan𑄜𑄳𑄠𑄋𑄴𑄉𑄧
+localeDisplayNameslanguagesace𑄃𑄳𑄃𑄌𑄳𑄆𑄚𑄨𑄎𑄴
+localeDisplayNameslanguageslo𑄣𑄃𑄮
+localeDisplayNameslanguagesos𑄃𑄮𑄥𑄬𑄑𑄨𑄇𑄴
+localeDisplayNameslanguagesoc𑄃𑄧𑄇𑄴𑄥𑄨𑄑𑄚𑄴
+localeDisplayNameslanguagessba𑄚𑄳𑄠𑄉𑄟𑄴𑄝𑄬
+localeDisplayNameslanguagesks𑄇𑄌𑄴𑄟𑄨𑄢𑄨
+localeDisplayNameslanguagestt𑄖𑄖𑄢𑄴
+localeDisplayNameslanguagescsb𑄇𑄥𑄪𑄝𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageskos𑄇𑄮𑄥𑄳𑄢𑄭𑄚𑄴
+localeDisplayNameslanguagesnan𑄚𑄚𑄴
+localeDisplayNameslanguagesht𑄦𑄭𑄖𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesbr𑄝𑄳𑄢𑄬𑄑𑄧𑄚𑄴
+localeDisplayNameslanguageshmn𑄦𑄳𑄦𑄟𑄮𑄋𑄴
+localeDisplayNameslanguagesnwc𑄛𑄪𑄢𑄮𑄚𑄴 𑄚𑄬𑄃𑄮𑄠𑄢𑄩
+localeDisplayNameslanguagesach𑄃𑄇𑄮𑄣𑄨
+localeDisplayNameslanguagesxh𑄎𑄮𑄥
+localeDisplayNameslanguagescrs𑄥𑄬𑄥𑄬𑄣𑄧𑄤 𑄇𑄳𑄢𑄬𑄃𑄮𑄣𑄴 𑄜𑄳𑄢𑄬𑄐𑄴𑄌𑄧
+localeDisplayNameslanguagesnds𑄖𑄧𑄣𑄬 𑄎𑄢𑄴𑄟𑄚𑄨
+localeDisplayNameslanguagesgor𑄉𑄢𑄮𑄚𑄴𑄖𑄣𑄮
+localeDisplayNameslanguagespt𑄛𑄧𑄢𑄴𑄖𑄪𑄉𑄨𑄎𑄴
+localeDisplayNameslanguagesjrb𑄎𑄪𑄘𑄬𑄃𑄮 𑄃𑄢𑄧𑄝𑄨
+localeDisplayNameslanguagesnmg𑄇𑄱𑄥𑄨𑄃𑄮
+localeDisplayNameslanguagesota𑄃𑄧𑄑𑄮𑄟𑄚𑄴 𑄖𑄪𑄢𑄴𑄇𑄨
+localeDisplayNameslanguageskho𑄈𑄮𑄑𑄚𑄨𑄎𑄴
+localeDisplayNameslanguagesuz𑄃𑄪𑄎𑄴𑄝𑄬𑄇𑄩𑄠𑄧
+localeDisplayNameslanguageslad𑄣𑄓𑄨𑄚𑄮
+localeDisplayNameslanguagesom𑄃𑄧𑄢𑄮𑄟𑄮
+localeDisplayNameslanguagesst𑄘𑄧𑄉𑄨𑄚𑄴 𑄥𑄮𑄗𑄮
+localeDisplayNameslanguagesmr𑄟𑄢𑄒𑄨
+localeDisplayNameslanguagessbp𑄥𑄁𑄚𑄴𑄉𑄪
+localeDisplayNameslanguagesewo𑄄𑄃𑄮𑄚𑄴𑄓𑄮
+localeDisplayNameslanguageshi𑄦𑄨𑄚𑄴𑄓𑄨
+localeDisplayNameslanguagesbem𑄝𑄬𑄟𑄴𑄝
+localeDisplayNameslanguagesln𑄣𑄨𑄋𑄴𑄉𑄣
+localeDisplayNameslanguagespt_PT𑄃𑄨𑄃𑄪𑄢𑄮𑄛𑄬𑄢𑄴 𑄛𑄧𑄢𑄴𑄖𑄪𑄉𑄨𑄎𑄴
+localeDisplayNameslanguagesdzg𑄘𑄉𑄎
+localeDisplayNameslanguagesfur𑄜𑄳𑄢𑄨𑄃𑄪𑄣𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesyap𑄃𑄨𑄠𑄛𑄬𑄥𑄬
+localeDisplayNameslanguagesvun𑄞𑄪𑄚𑄴𑄏𑄮
+localeDisplayNameslanguagessk𑄥𑄳𑄣𑄮𑄞𑄇𑄴
+localeDisplayNameslanguagessq𑄃𑄣𑄴𑄝𑄬𑄚𑄩𑄠𑄧
+localeDisplayNameslanguagesiu𑄃𑄨𑄚𑄪𑄇𑄴𑄑𑄨𑄑𑄪𑄖𑄴
+localeDisplayNameslanguagesis𑄃𑄭𑄌𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄨𑄠𑄧
+localeDisplayNameslanguageseo𑄆𑄥𑄴𑄛𑄬𑄢𑄚𑄴𑄖𑄮
+localeDisplayNameslanguagestlh𑄇𑄳𑄣𑄨𑄋𑄴𑄉𑄧𑄚𑄴
+localeDisplayNameslanguageschb𑄌𑄨𑄛𑄴𑄌
+localeDisplayNameslanguagesta𑄖𑄟𑄨𑄣𑄴
+localeDisplayNameslanguagessco𑄆𑄌𑄴𑄇𑄧𑄖𑄴𑄥𑄴
+localeDisplayNameslanguageses_ES𑄄𑄅𑄢𑄮𑄛𑄩𑄠𑄧 𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄌𑄴
+localeDisplayNameslanguagessw𑄥𑄱𑄦𑄨𑄣𑄨
+localeDisplayNameslanguageschp𑄌𑄨𑄛𑄮𑄤𑄚𑄴
+localeDisplayNameslanguagestmh𑄖𑄟𑄥𑄬𑄇𑄴
+localeDisplayNameslanguageshsb𑄅𑄪𑄉𑄪𑄢𑄬 𑄥𑄮𑄢𑄴𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagester𑄖𑄬𑄢𑄬𑄚𑄮
+localeDisplayNameslanguageshaw𑄦𑄤𑄃𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageslun𑄣𑄪𑄚𑄴𑄓
+localeDisplayNameslanguagesmak𑄟𑄳𑄠𑄇𑄥𑄢𑄴
+localeDisplayNameslanguagesmin𑄟𑄨𑄚𑄋𑄴𑄇𑄝𑄃𑄪
+localeDisplayNameslanguagesik𑄃𑄨𑄚𑄪𑄛𑄨𑄠𑄇𑄴
+localeDisplayNameslanguagesarp𑄃𑄢𑄛𑄦𑄮
+localeDisplayNameslanguageschy𑄥𑄳𑄆𑄠𑄬𑄚𑄴
+localeDisplayNameslanguagesrof𑄢𑄧𑄟𑄴𑄝𑄮
+localeDisplayNameslanguagessel𑄥𑄬𑄣𑄴𑄇𑄪𑄛𑄴
+localeDisplayNameslanguagesgu𑄉𑄪𑄎𑄴𑄢𑄖𑄨
+localeDisplayNameslanguagesmgh𑄟𑄈𑄪𑄠-𑄟𑄬𑄖𑄴𑄖𑄮
+localeDisplayNameslanguagesmzn𑄟𑄎𑄚𑄴𑄘𑄬𑄢𑄚𑄨
+localeDisplayNameslanguagesgmh𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧-𑄅𑄪𑄉𑄪𑄢𑄬 𑄎𑄢𑄴𑄟𑄚𑄩
+localeDisplayNameslanguagesaf𑄃𑄜𑄳𑄢𑄨𑄇𑄚𑄴
+localeDisplayNameslanguagesga𑄃𑄭𑄢𑄨𑄌𑄴
+localeDisplayNameslanguageskv𑄇𑄮𑄟𑄨
+localeDisplayNameslanguagesksh𑄇𑄣𑄴𑄥𑄧
+localeDisplayNameslanguagesaa𑄃𑄜𑄢𑄴
+localeDisplayNameslanguagesakk𑄃𑄇𑄳𑄦𑄴𑄘𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagespag𑄛𑄁𑄉𑄥𑄨𑄚𑄚𑄴
+localeDisplayNameslanguageszgh𑄉𑄧𑄟𑄴𑄘𑄮𑄣𑄴 𑄟𑄧𑄢𑄧𑄇𑄧𑄧𑄱𑄚𑄴𑄖𑄟𑄎𑄨𑄉𑄖𑄴
+localeDisplayNameslanguagestpi𑄑𑄮𑄇𑄴 𑄛𑄨𑄥𑄨𑄚𑄴
+localeDisplayNameslanguageska𑄎𑄧𑄢𑄴𑄎𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesmdr𑄟𑄳𑄠𑄚𑄴𑄓𑄢𑄴
+localeDisplayNameslanguageschr𑄌𑄬𑄢𑄮𑄇𑄩
+localeDisplayNameslanguageshit𑄦𑄨𑄖𑄨𑄨𑄖𑄴
+localeDisplayNameslanguagesibb𑄃𑄨𑄝𑄨𑄝𑄨𑄠𑄧
+localeDisplayNameslanguagesebu𑄃𑄬𑄟𑄳𑄝𑄪𑄪
+localeDisplayNameslanguagesvi𑄞𑄨𑄠𑄬𑄖𑄴𑄚𑄟𑄩
+localeDisplayNameslanguagesshn𑄥𑄚𑄴
+localeDisplayNameslanguagesilo𑄃𑄨𑄣𑄮𑄇𑄮
+localeDisplayNameslanguagessh𑄥𑄢𑄴𑄝𑄮-𑄇𑄳𑄢𑄮𑄠𑄬𑄥𑄨𑄠𑄧
+localeDisplayNameslanguagesman𑄟𑄳𑄠𑄚𑄴𑄓𑄨𑄁𑄉𑄮
+localeDisplayNameslanguageskum𑄇𑄪𑄟𑄨𑄇𑄴
+localeDisplayNameslanguagesalt𑄓𑄧𑄉𑄨𑄚𑄴 𑄃𑄣𑄴𑄖𑄭
+localeDisplayNameslanguagescho𑄌𑄧𑄇𑄴𑄑𑄳𑄅𑄧𑄠𑄧
+localeDisplayNameslanguagestk𑄖𑄪𑄢𑄴𑄇𑄧𑄟𑄬𑄚𑄨
+localeDisplayNameslanguagesnd𑄅𑄖𑄴𑄖𑄧𑄢𑄴 𑄆𑄚𑄴𑄘𑄬𑄝𑄨𑄣𑄨
+localeDisplayNameslanguageskfo𑄇𑄮𑄢𑄮
+localeDisplayNameslanguagessv𑄥𑄭𑄪𑄓𑄨𑄥𑄴
+localeDisplayNameslanguagesja𑄎𑄛𑄚𑄨
+localeDisplayNameslanguageshil𑄦𑄨𑄣𑄨𑄉𑄳𑄠𑄠𑄧𑄚𑄮𑄚𑄴
+localeDisplayNameslanguagescu𑄌𑄢𑄴𑄌𑄴 𑄥𑄳𑄣𑄞𑄨𑄇𑄴
+localeDisplayNameslanguagesee𑄃𑄨𑄅𑄠𑄨
+localeDisplayNameslanguagesiba𑄃𑄨𑄝𑄚𑄴
+localeDisplayNameslanguagesyo𑄃𑄨𑄃𑄮𑄢𑄪𑄝
+localeDisplayNameslanguageswbp𑄤𑄢𑄴𑄣𑄴𑄛𑄨𑄢𑄨
+localeDisplayNameslanguagesdoi𑄓𑄮𑄉𑄧𑄢𑄨
+localeDisplayNameslanguagespi𑄛𑄣𑄨
+localeDisplayNameslanguagesrap𑄢𑄛𑄚𑄳𑄆𑄪
+localeDisplayNameslanguagespap𑄛𑄛𑄨𑄠𑄟𑄬𑄚𑄴𑄖𑄮
+localeDisplayNameslanguagesybb𑄠𑄮𑄟𑄴𑄝
+localeDisplayNameslanguagesgag𑄉𑄉𑄃𑄪𑄌𑄴
+localeDisplayNameslanguagessm𑄥𑄟𑄮𑄠𑄚𑄴
+localeDisplayNameslanguageskac𑄇𑄌𑄨𑄚𑄴
+localeDisplayNameslanguagesfil𑄜𑄨𑄣𑄨𑄛𑄨𑄚𑄮
+localeDisplayNameslanguagesen_GB𑄎𑄧𑄙𑄢𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄃𑄨𑄁𑄢𑄬𑄎𑄨
+localeDisplayNameslanguagesmwr𑄟𑄢𑄮𑄠𑄢𑄨
+localeDisplayNameslanguagesdav𑄖𑄳𑄆𑄖
+localeDisplayNameslanguageslez𑄣𑄬𑄎𑄴𑄊𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesii𑄥𑄨𑄥𑄪𑄠𑄚𑄴𑄠𑄨
+localeDisplayNameslanguagesast𑄃𑄌𑄴𑄖𑄪𑄢𑄨𑄠𑄧
+localeDisplayNameslanguageses𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄌𑄴
+localeDisplayNameslanguagesang𑄛𑄪𑄢𑄧𑄚𑄨 𑄃𑄟𑄧𑄣𑄧𑄢𑄴 𑄃𑄨𑄁𑄢𑄬𑄎𑄩
+localeDisplayNameslanguagesmul𑄝𑄣𑄧𑄇𑄴𑄇𑄚𑄨 𑄞𑄌𑄴
+localeDisplayNameslanguagesshi𑄖𑄌𑄬𑄣𑄴𑄦𑄨𑄖𑄴
+localeDisplayNameslanguageskl𑄇𑄳𑄠𑄣𑄣𑄴𑄣𑄨𑄥𑄪𑄖𑄴
+localeDisplayNameslanguagesdel𑄓𑄬𑄣𑄤𑄬𑄢𑄴
+localeDisplayNameslanguagesdyu𑄓𑄨𑄃𑄪𑄣
+localeDisplayNameslanguagesmn𑄟𑄧𑄁𑄉𑄮𑄣𑄨𑄠𑄧
+localeDisplayNameslanguagesnl_BE𑄜𑄳𑄣𑄬𑄟𑄨𑄌𑄴
+localeDisplayNameslanguagesnia𑄚𑄨𑄠𑄌𑄴
+localeDisplayNameslanguageszh𑄌𑄩𑄚
+localeDisplayNameslanguageskaa𑄇𑄢-𑄇𑄣𑄴𑄛𑄇𑄴
+localeDisplayNameslanguagesfr_CH𑄥𑄪𑄃𑄨𑄌𑄴 𑄜𑄧𑄢𑄥𑄨
+localeDisplayNameslanguagesca𑄇𑄖𑄣𑄚𑄴
+localeDisplayNameslanguagesdv𑄘𑄨𑄝𑄬𑄦𑄨
+localeDisplayNameslanguagesmad𑄟𑄘𑄪𑄢𑄬𑄥𑄬
+localeDisplayNameslanguagesrwk𑄢𑄤
+localeDisplayNameslanguagesuga𑄃𑄪𑄉𑄢𑄨𑄑𑄨𑄇𑄴
+localeDisplayNameslanguagestl𑄖𑄉𑄣𑄧𑄇𑄴
+localeDisplayNameslanguagesla𑄣𑄑𑄨𑄚𑄴
+localeDisplayNameslanguagesagq𑄃𑄬𑄊𑄟𑄴
+localeDisplayNameslanguageseu𑄝𑄌𑄴𑄇𑄧
+localeDisplayNameslanguagesrar𑄢𑄢𑄮𑄑𑄮𑄁𑄉𑄚𑄴
+localeDisplayNameslanguagesko𑄇𑄮𑄢𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageschg𑄌𑄉𑄖𑄳𑄆
+localeDisplayNameslanguagesmas𑄟𑄥𑄭
+localeDisplayNameslanguagesdyo𑄎𑄧𑄣-𑄜𑄧𑄚𑄩
+localeDisplayNameslanguagesqu𑄇𑄬𑄌𑄪𑄠
+localeDisplayNameslanguagessa𑄥𑄧𑄁𑄥𑄴𑄇𑄳𑄢𑄨𑄖𑄴
+localeDisplayNameslanguagesssy𑄥𑄦𑄮
+localeDisplayNameslanguagestyv𑄑𑄪𑄞𑄨𑄚𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagestvl𑄑𑄪𑄞𑄣𑄪
+localeDisplayNameslanguagesbrx𑄝𑄮𑄢𑄮
+localeDisplayNameslanguagesefi𑄆𑄜𑄨𑄇𑄴
+localeDisplayNameslanguageset𑄆𑄌𑄴𑄖𑄨𑄚𑄩𑄠𑄧
+localeDisplayNameslanguageslt𑄣𑄨𑄗𑄪𑄠𑄬𑄚𑄩𑄠𑄧
+localeDisplayNameslanguageskea𑄇𑄝𑄪𑄞𑄢𑄴𑄘𑄨𑄠𑄚𑄪
+localeDisplayNameslanguageshak𑄦𑄧𑄇𑄴
+localeDisplayNameslanguagesmyv𑄆𑄢𑄧𑄎𑄨𑄠
+localeDisplayNameslanguagesprg𑄛𑄴𑄢𑄪𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageskhq𑄇𑄮𑄠𑄧𑄢 𑄌𑄩𑄚𑄨
+localeDisplayNameslanguagesraj𑄢𑄎𑄴𑄥𑄳𑄦𑄚𑄨
+localeDisplayNameslanguageskrc𑄇𑄢𑄴𑄌𑄮-𑄝𑄣𑄴𑄇𑄢𑄴
+localeDisplayNameslanguagesha𑄦𑄃𑄪𑄥
+localeDisplayNameslanguagesho𑄦𑄪𑄢𑄨 𑄟𑄮𑄖𑄪
+localeDisplayNameslanguagesbin𑄝𑄨𑄚𑄨
+localeDisplayNameslanguagesaz𑄃𑄎𑄬𑄢𑄨
+localeDisplayNameslanguagesarc𑄃𑄢𑄟𑄳𑄆𑄇𑄴
+localeDisplayNameslanguagescch𑄃𑄖𑄴𑄥𑄟𑄴
+localeDisplayNameslanguagesmos𑄟𑄧𑄥𑄨
+localeDisplayNameslanguagesund𑄦𑄧𑄝𑄧𑄢𑄴 𑄚𑄧𑄛𑄬𑄠𑄬 𑄞𑄌𑄴
+localeDisplayNameslanguagesyao𑄃𑄨𑄠𑄃𑄮
+localeDisplayNameslanguagesug𑄃𑄪𑄃𑄨𑄊𑄪𑄢𑄴
+localeDisplayNameslanguageskcg𑄑𑄃𑄨𑄠𑄛𑄴
+localeDisplayNameslanguagesseh𑄥𑄬𑄚
+localeDisplayNameslanguagesady𑄃𑄘𑄬𑄉𑄬
+localeDisplayNameslanguagesudm𑄃𑄪𑄓𑄴𑄟𑄪𑄢𑄴𑄑𑄧
+localeDisplayNameslanguagesmai𑄟𑄳𑄆𑄧𑄗𑄨𑄣𑄨
+localeDisplayNameslanguagesmg𑄟𑄣𑄉𑄥𑄨
+localeDisplayNameslanguageskr𑄇𑄚𑄪𑄢𑄨
+localeDisplayNameslanguagesluo𑄣𑄪𑄠𑄮
+localeDisplayNameslanguagesps𑄛𑄪𑄌𑄴𑄖𑄮
+localeDisplayNameslanguagesnv𑄚𑄞𑄎𑄮
+localeDisplayNameslanguagesquc𑄇𑄳𑄦𑄨𑄌𑄬
+localeDisplayNameslanguageslag𑄣𑄋𑄴𑄉𑄨
+localeDisplayNameslanguagesbo𑄖𑄨𑄛𑄴𑄝𑄧𑄖𑄨
+localeDisplayNameslanguageslui𑄣𑄭𑄪𑄥𑄬𑄚𑄮
+localeDisplayNameslanguagescgg𑄌𑄨𑄉
+localeDisplayNameslanguagesnaq𑄚𑄟
+localeDisplayNameslanguagessms𑄥𑄳𑄇𑄧𑄣𑄳𑄑𑄧 𑄥𑄟𑄨
+localeDisplayNameslanguagestr𑄖𑄪𑄢𑄴𑄇𑄩
+localeDisplayNameslanguagesfat𑄜𑄚𑄴𑄖𑄨
+localeDisplayNameslanguagesmga𑄟𑄧𑄖𑄴𑄙𑄳𑄠 𑄃𑄭𑄢𑄨𑄌𑄴
+localeDisplayNameslanguagesvo𑄞𑄮𑄣𑄛𑄪𑄇𑄴
+localeDisplayNameslanguagesnnh𑄚𑄨𑄋𑄴𑄉𑄬𑄟𑄴𑄝𑄪𑄚𑄴
+localeDisplayNameslanguagesumb𑄃𑄪𑄟𑄴𑄝𑄪𑄚𑄴𑄘𑄪
+localeDisplayNameslanguagesli𑄣𑄨𑄟𑄴𑄝𑄪𑄢𑄴𑄉𑄨𑄌𑄴
+localeDisplayNameslanguagessuk𑄥𑄪𑄇𑄪𑄟
+localeDisplayNameslanguagesyav𑄠𑄋𑄴𑄉𑄧𑄝𑄬𑄚𑄴
+localeDisplayNameslanguagesfro𑄛𑄪𑄢𑄮𑄚𑄨 𑄜𑄧𑄢𑄥𑄨
+localeDisplayNameslanguageskaw𑄇𑄃𑄪𑄃𑄨
+localeDisplayNameslanguagescs𑄌𑄬𑄇𑄴
+localeDisplayNameslanguagesmus𑄇𑄳𑄢𑄨𑄇𑄴
+localeDisplayNameslanguagesno𑄚𑄧𑄢𑄴𑄃𑄮𑄠𑄬𑄎𑄩𑄠𑄧
+localeDisplayNameslanguagessat𑄥𑄀𑄃𑄮𑄖𑄣𑄨
+localeDisplayNameslanguageskab𑄇𑄝𑄭𑄣𑄬
+localeDisplayNameslanguagesas𑄃𑄥𑄟𑄨
+localeDisplayNameslanguagespam𑄛𑄟𑄴𑄛𑄋𑄴𑄉
+localeDisplayNameslanguagesnus𑄚𑄪𑄠𑄢𑄴
+localeDisplayNameslanguagessyr𑄥𑄨𑄢𑄨𑄠𑄇𑄴
+localeDisplayNameslanguagesfa𑄜𑄢𑄴𑄥𑄨
+localeDisplayNameslanguagestn𑄥𑄱𑄚
+localeDisplayNameslanguagesanp𑄃𑄋𑄳𑄉𑄨𑄇
+localeDisplayNameslanguagesne𑄚𑄬𑄛𑄣𑄨
+localeDisplayNameslanguagescrh𑄇𑄳𑄢𑄨𑄟𑄨𑄠𑄚𑄴 𑄖𑄪𑄢𑄴𑄇𑄨
+localeDisplayNameslanguagestrv𑄖𑄢𑄮𑄇𑄮
+localeDisplayNameslanguagesksb𑄥𑄟𑄴𑄝𑄣
+localeDisplayNameslanguagesgoh𑄛𑄪𑄢𑄮𑄚𑄴 𑄅𑄪𑄉𑄪𑄢𑄬 𑄎𑄢𑄴𑄟𑄚𑄩
+localeDisplayNameslanguagesrm𑄢𑄮𑄟𑄚𑄴𑄥𑄴
+localeDisplayNameslanguagessr𑄥𑄢𑄴𑄝𑄩𑄠𑄧
+localeDisplayNameslanguagesmgo𑄟𑄬𑄑
+localeDisplayNameslanguagesnn𑄚𑄧𑄢𑄴𑄃𑄮𑄠𑄬𑄎𑄩𑄠𑄚𑄴 𑄚𑄨𑄚𑄧𑄢𑄴𑄥𑄳𑄇𑄴
+localeDisplayNameslanguageszh_Hant𑄢𑄨𑄘𑄨𑄥𑄪𑄘𑄮𑄟𑄴 𑄌𑄩𑄚
+localeDisplayNameslanguagesjgo𑄉𑄮𑄟𑄴𑄝
+localeDisplayNameslanguageszen𑄎𑄬𑄚𑄉
+localeDisplayNameslanguagessl𑄥𑄳𑄣𑄮𑄞𑄬𑄚𑄩𑄠𑄧
+localeDisplayNameslanguagesru𑄢𑄪𑄌𑄴
+localeDisplayNameslanguagesnr𑄓𑄧𑄉𑄨𑄚𑄴 𑄆𑄚𑄴𑄓𑄬𑄝𑄬𑄣𑄬
+localeDisplayNameslanguagesgay𑄉𑄧𑄠𑄮
+localeDisplayNameslanguagespal𑄛𑄦𑄳𑄣𑄞𑄨
+localeDisplayNameslanguagesty𑄖𑄦𑄨𑄖𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesnyo𑄚𑄧𑄱𑄢𑄮
+localeDisplayNameslanguagesmnc𑄟𑄚𑄴𑄌𑄪
+localeDisplayNameslanguageszu𑄎𑄪𑄣𑄪
+localeDisplayNameslanguageste𑄖𑄬𑄣𑄬𑄉𑄪
+localeDisplayNameslanguagesmoh𑄟𑄮𑄦𑄃𑄮𑄇𑄴
+localeDisplayNameslanguagesnew𑄚𑄬𑄃𑄮𑄠𑄢𑄨
+localeDisplayNameslanguagesve𑄞𑄬𑄚𑄴𑄓
+localeDisplayNameslanguagesam𑄃𑄟𑄴𑄦𑄢𑄨𑄇𑄴
+localeDisplayNameslanguagesada𑄃𑄧𑄘𑄟𑄳𑄉𑄬
+localeDisplayNameslanguagesdsb𑄙𑄮𑄣𑄴𑄚𑄬𑄭𑄙𑄳𑄠𑄬 𑄥𑄮𑄢𑄴𑄝𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageslol𑄟𑄮𑄋𑄴𑄉𑄮
+localeDisplayNameslanguageslrc𑄅𑄪𑄖𑄴𑄖𑄮𑄢𑄴 𑄣𑄪𑄢𑄨
+localeDisplayNameslanguagespl𑄛𑄮𑄣𑄨𑄌𑄴
+localeDisplayNameslanguagesso𑄥𑄮𑄟𑄣𑄨
+localeDisplayNameslanguagesgv𑄟𑄳𑄠𑄇𑄴𑄥𑄧
+localeDisplayNameslanguagesbas𑄝𑄥
+localeDisplayNameslanguagesgil𑄉𑄨𑄣𑄴𑄝𑄢𑄴𑄑𑄨𑄎𑄴
+localeDisplayNameslanguagesloz𑄣𑄮𑄎𑄨
+localeDisplayNameslanguagessi𑄥𑄨𑄁𑄦𑄧𑄣𑄩
+localeDisplayNameslanguagesss𑄥𑄮𑄠𑄖𑄨
+localeDisplayNameslanguagesarw𑄃𑄢𑄤𑄇𑄴
+localeDisplayNameslanguagesde_CH𑄥𑄪𑄃𑄨𑄌𑄴 𑄦𑄭 𑄎𑄢𑄴𑄟𑄚𑄴
+localeDisplayNameslanguagesmi𑄟𑄃𑄮𑄢𑄨
+localeDisplayNameslanguagesro𑄢𑄮𑄟𑄚𑄩𑄠𑄧
+localeDisplayNameslanguagesba𑄝𑄌𑄴𑄇𑄨𑄢𑄴
+localeDisplayNameslanguagessma𑄘𑄧𑄉𑄨𑄚𑄴 𑄢𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄥𑄟𑄨
+localeDisplayNameslanguagesgd𑄃𑄨𑄌𑄴𑄇𑄧𑄖𑄴𑄥𑄧-𑄉𑄳𑄠𑄬𑄣𑄨𑄇𑄴
+localeDisplayNameslanguagesng𑄆𑄚𑄴𑄘𑄮𑄋𑄴𑄉
+localeDisplayNameslanguageswo𑄤𑄃𑄮𑄣𑄮𑄜𑄴
+localeDisplayNameslanguageschk𑄌𑄪𑄇𑄨
+localeDisplayNameslanguagesmdf𑄟𑄮𑄇𑄴𑄥
+localeDisplayNameslanguagessmj𑄣𑄪𑄣𑄬 𑄥𑄟𑄨
+localeDisplayNameslanguagesgez𑄉𑄩𑄎𑄴
+localeDisplayNameslanguageslah𑄣𑄚𑄴𑄓
+localeDisplayNameslanguagesgsw𑄥𑄪𑄃𑄨𑄌𑄴 𑄥𑄢𑄴𑄟𑄚𑄴
+localeDisplayNameslanguageskpe𑄇𑄴𑄛𑄬𑄣𑄳𑄣𑄬
+localeDisplayNameslanguagesfrm𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄜𑄧𑄢𑄥𑄨
+localeDisplayNameslanguagesen_AU𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄬𑄣𑄨𑄠𑄧 𑄃𑄨𑄁𑄢𑄬𑄎𑄨
+localeDisplayNameslanguageskm𑄈𑄧𑄟𑄬𑄢𑄴
+localeDisplayNameslanguagesvai𑄞𑄭
+localeDisplayNameslanguagesawa𑄃𑄤𑄙𑄨
+localeDisplayNameslanguagescy𑄃𑄮𑄠𑄬𑄣𑄧𑄌𑄴
+localeDisplayNameslanguagesbej𑄝𑄬𑄎
+localeDisplayNameslanguagesmic𑄟𑄨𑄇𑄟𑄳𑄠𑄇𑄴
+localeDisplayNameslanguagesnog𑄚𑄮𑄉𑄭
+localeDisplayNameslanguagessad𑄥𑄳𑄠𑄚𑄴𑄓𑄃𑄮𑄠𑄬
+localeDisplayNameslanguagescad𑄇𑄳𑄠𑄓𑄮
+localeDisplayNameslanguageszbl𑄃𑄉𑄬𑄠 𑄞𑄌𑄴
+localeDisplayNameslanguagesyi𑄠𑄨𑄖𑄴𑄘𑄨𑄥𑄴
+localeDisplayNameslanguageskde𑄟𑄇𑄮𑄚𑄴𑄘𑄬
+localeDisplayNameslanguagesbez𑄝𑄬𑄚
+localeDisplayNameslanguagesmer𑄟𑄬𑄢𑄪
+localeDisplayNameslanguagesrom𑄢𑄮𑄟𑄚𑄨
+localeDisplayNameslanguagesmen𑄟𑄬𑄚𑄴𑄓𑄬
+localeDisplayNameslanguagesna𑄚𑄃𑄪𑄢𑄪
+localeDisplayNameslanguagesch𑄌𑄟𑄮𑄢𑄮
+localeDisplayNameslanguagesbal𑄝𑄬𑄣𑄪𑄌𑄩
+localeDisplayNameslanguagesxog𑄥𑄮𑄉
+localeDisplayNameslanguageslkt𑄣𑄇𑄮𑄑
+localeDisplayNameslanguagesmag𑄟𑄉𑄦𑄨
+localeDisplayNameslanguagesmwl𑄟𑄨𑄢𑄚𑄴𑄓𑄨𑄎𑄴
+localeDisplayNameslanguagesmfe𑄟𑄢𑄨𑄥𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageshup𑄦𑄪𑄛
+localeDisplayNameslanguagescar𑄝𑄳𑄠𑄢𑄨𑄛𑄴
+localeDisplayNameslanguagesco𑄇𑄧𑄢𑄴𑄥𑄨𑄇𑄚𑄴
+localeDisplayNameslanguageseka𑄃𑄨𑄇𑄎𑄪𑄇𑄴
+localeDisplayNameslanguagessmn𑄃𑄨𑄚𑄢𑄨 𑄥𑄟𑄨
+localeDisplayNameslanguagesain𑄃𑄳𑄆𑄚𑄪
+localeDisplayNameslanguagesid𑄃𑄨𑄚𑄴𑄘𑄮𑄚𑄬𑄥𑄨𑄠𑄧
+localeDisplayNameslanguageses_MX𑄟𑄳𑄠𑄇𑄴𑄥𑄨𑄇𑄚𑄴 𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄌𑄴
+localeDisplayNameslanguagesab𑄃𑄝𑄴𑄈𑄎𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesde𑄎𑄢𑄴𑄟𑄚𑄴
+localeDisplayNameslanguagesafh𑄃𑄜𑄳𑄢𑄨𑄦𑄨𑄣𑄨
+localeDisplayNameslanguagessc𑄥𑄢𑄴𑄓𑄨𑄚𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesmt𑄟𑄧𑄣𑄴𑄑𑄨𑄠𑄧
+localeDisplayNameslanguagespcm𑄚𑄎𑄬𑄢𑄨𑄠𑄧 𑄛𑄨𑄎𑄨𑄚𑄴
+localeDisplayNameslanguageskrl𑄇𑄢𑄬𑄣𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagestw𑄑𑄮𑄠𑄭
+localeDisplayNameslanguagesgl𑄉𑄳𑄠𑄣𑄨𑄥𑄨𑄠𑄧
+localeDisplayNameslanguagesdak𑄓𑄇𑄮𑄑
+localeDisplayNameslanguagesnb𑄚𑄧𑄢𑄴𑄃𑄮𑄠𑄬𑄎𑄨𑄠𑄚𑄴 𑄝𑄮𑄇𑄴𑄟𑄣𑄴
+localeDisplayNameslanguagespt_BR𑄝𑄳𑄢𑄎𑄨𑄣𑄬𑄢𑄴 𑄛𑄧𑄢𑄴𑄖𑄪𑄉𑄨𑄎𑄴
+localeDisplayNameslanguagesrup𑄃𑄢𑄴𑄟𑄬𑄚𑄨𑄠𑄚𑄴
+localeDisplayNameslanguagesroot𑄥𑄨𑄠𑄮𑄢𑄴
+localeDisplayNameslanguagestzm𑄥𑄬𑄚𑄴𑄑𑄳𑄢𑄣𑄴 𑄃𑄣𑄴𑄖𑄌𑄴 𑄖𑄟𑄎𑄨𑄉𑄖𑄴
+localeDisplayNameslanguagessga𑄛𑄪𑄢𑄮𑄚𑄴 𑄃𑄭𑄢𑄨𑄌𑄴
+localeDisplayNameslanguageskw𑄇𑄧𑄢𑄴𑄚𑄨𑄌𑄴
+localeDisplayNameslanguageski𑄇𑄨𑄇𑄪𑄠𑄪
+localeDisplayNameslanguagesur𑄃𑄪𑄢𑄴𑄘𑄪
+localeDisplayNameslanguageslu𑄣𑄪𑄝-𑄇𑄑𑄋𑄴𑄉
+localeDisplayNameslanguagesjbo𑄣𑄮𑄌𑄴𑄝𑄚𑄴
+localeDisplayNameslanguagesig𑄃𑄨𑄉𑄴𑄝𑄮
+localeDisplayNameslanguagesjv𑄎𑄞𑄚𑄨𑄎𑄴
+localeDisplayNameslanguagesen𑄃𑄨𑄁𑄢𑄨𑄎𑄨
+localeDisplayNameslanguageskru𑄇𑄪𑄢𑄪𑄇𑄴
+localeDisplayNameslanguageszh_Hans𑄅𑄪𑄎𑄪𑄅𑄪𑄏𑄫 𑄌𑄩𑄚
+localeDisplayNameslanguagesarn𑄟𑄛𑄪𑄌𑄨
+localeDisplayNameslanguagesdin𑄓𑄨𑄁𑄇
+localeDisplayNameslanguagesnso𑄃𑄪𑄖𑄴𑄗𑄧𑄢𑄴 𑄢𑄬𑄌𑄴𑄎𑄮𑄢𑄴 𑄥𑄮𑄗𑄮
+localeDisplayNameslanguagesda𑄓𑄬𑄚𑄨𑄌𑄴
+localeDisplayNameslanguagestet𑄖𑄬𑄖𑄪𑄟𑄴
+localeDisplayNameslanguageszza𑄎𑄎
+localeDisplayNameslanguageskn𑄇𑄧𑄚𑄴𑄚𑄧𑄢𑄴
+localeDisplayNameslanguagesce𑄌𑄬𑄌𑄬𑄚𑄴
+localeDisplayNameslanguagesmy𑄝𑄧𑄢𑄴𑄟𑄨
+localeDisplayNameslanguageschm𑄟𑄢𑄨
+localeDisplayNameslanguageshy𑄃𑄢𑄴𑄟𑄬𑄚𑄨𑄠𑄧
+localeDisplayNameslanguageszun𑄎𑄪𑄚𑄨
+localeDisplayNameslanguagesenm𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄃𑄨𑄁𑄢𑄬𑄎𑄨
+localeDisplayNameslanguagessam𑄥𑄟𑄢𑄨𑄑𑄚𑄴 𑄃𑄢𑄟𑄨𑄇𑄴
+localeDisplayNameslanguageswae𑄤𑄣𑄧𑄥𑄬𑄢𑄴
+localeDisplayNameslanguagesny𑄚𑄠𑄚𑄴𑄎
+localeDisplayNameslanguagessw_CD𑄇𑄧𑄋𑄴𑄉𑄮 𑄥𑄱𑄦𑄨𑄣𑄨
+localeDisplayNameslanguagestog𑄚𑄠𑄥𑄑𑄮𑄋𑄴𑄉
+localeDisplayNameslanguageskoi𑄇𑄧𑄟𑄨-𑄛𑄢𑄧𑄟𑄨𑄃𑄇𑄴
+localeDisplayNameslanguageskbd𑄇𑄝𑄢𑄴𑄓𑄨𑄠𑄚𑄴
+localeDisplayNameslanguageskg𑄇𑄧𑄁𑄉𑄮
+localeDisplayNameslanguagesbn𑄝𑄁𑄣
+localeDisplayNameslanguagesinh𑄃𑄨𑄁𑄉𑄪𑄌𑄴
+localeDisplayNameslanguagesgan𑄉𑄧𑄚𑄴
+localeDisplayNameslanguagesbm𑄝𑄟𑄴𑄝𑄢
+localeDisplayNameslanguagesbgn𑄛𑄧𑄏𑄨𑄟𑄴 𑄝𑄣𑄮𑄌𑄨
+localeDisplayNameslanguagesit𑄃𑄨𑄖𑄣𑄩𑄠𑄧
+localeDisplayNameslanguagesen_US𑄃𑄨𑄅𑄪𑄃𑄬𑄌𑄴 𑄃𑄨𑄁𑄢𑄬𑄎𑄨
+localeDisplayNameslanguagesbik𑄝𑄨𑄇𑄮𑄣𑄴
+localeDisplayNameslanguagesan𑄃𑄢𑄴𑄉𑄮𑄚𑄨𑄎𑄴
+localeDisplayNameslanguagesteo𑄖𑄬𑄥𑄮
+localeDisplayNameslanguagesyue𑄇𑄳𑄠𑄚𑄴𑄑𑄮𑄚𑄩𑄎𑄴
+localeDisplayNameslanguageskut𑄇𑄪𑄑𑄬𑄚𑄭
+localeDisplayNameslanguageskaj𑄃𑄧𑄌𑄴𑄎𑄪
+localeDisplayNameslanguagesff𑄜𑄪𑄣𑄳𑄦
+localeDisplayNameslanguagesale𑄃𑄣𑄬𑄅𑄖𑄴
+localeDisplayNameslanguagesluy𑄣𑄭𑄪𑄠
+localeDisplayNameslanguagesckb𑄟𑄧𑄖𑄴𑄙𑄳𑄠𑄧 𑄇𑄪𑄢𑄴𑄘𑄨𑄌𑄴
+localeDisplayNameslanguagesnon𑄛𑄪𑄢𑄮𑄚𑄴 𑄚𑄧𑄢𑄴𑄥𑄧
+calendarsgenericdateFormatslongstandardd MMMM, y G
+calendarsgenericdateFormatsmediumstandardd MMM, y G
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM, y G
+calendarsgenericdateFormatsshortstandardd/M/y GGGGG
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatsyMMMMMMM–MMM y G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatsMEdME, d/M – E, d/M
+calendarsgenericintervalFormatsMEddE, d/M – E, d/M
+calendarsgenericintervalFormatsyyy–y G
+calendarsgenericintervalFormatsyMyM/y – M/y G
+calendarsgenericintervalFormatsyMMM/y – M/y G
+calendarsgenericintervalFormatsHvHHH–HH v
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatsyMMMMMMMMM–MMMM y G
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgenericintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgenericintervalFormatsyMMMEddE, d MMM – E, d MMM, y G
+calendarsgenericintervalFormatsyMMMEdME, d MMM – E, d MMM, y G
+calendarsgenericintervalFormatsyMMMEdyE, d MMM, y – E, d MMM, y G
+calendarsgenericintervalFormatsMMM–M
+calendarsgenericintervalFormatsddd–d
+calendarsgenericintervalFormatsHmmHH:mm–HH:mm
+calendarsgenericintervalFormatsHmHHH:mm–HH:mm
+calendarsgenericintervalFormatsyMMMddd–d MMM, y G
+calendarsgenericintervalFormatsyMMMdMd MMM – d MMM, y G
+calendarsgenericintervalFormatsyMMMdyd MMM, y – d MMM, y G
+calendarsgenericintervalFormatsyMEdyE, d/M/y – E, d/M/y G
+calendarsgenericintervalFormatsyMEdME, d/M/y – E, d/M/y G
+calendarsgenericintervalFormatsyMEddE, d/M/y – E, d/M/y G
+calendarsgenericintervalFormatsMMMMMMM – MMM
+calendarsgenericintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgenericintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgenericintervalFormatsMdMd/M – d/M
+calendarsgenericintervalFormatsMddd/M – d/M
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsHHHH–HH
+calendarsgenericintervalFormatsMMMdMd MMM – d MMM
+calendarsgenericintervalFormatsMMMddd–d MMM
+calendarsgenericintervalFormatsyMddd/M/y – d/M/y G
+calendarsgenericintervalFormatsyMdMd/M/y – d/M/y G
+calendarsgenericintervalFormatsyMdyd/M/y – d/M/y G
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsMMMEdE d MMM
+calendarsgenericavailableFormatsyyyyMMMdd MMM, y G
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsyyyyMMMEdE, d MMM, y G
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsMEdE, d-M
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatsMMMMEdE d MMMM
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatsyyyyMMMM-y G
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsGyMMMdd MMM, y G
+calendarsgenericavailableFormatsyyyyMMMMMMMM y G
+calendarsgenericavailableFormatsyyyyMEdE, d/M/y G
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsMMdddd-MM
+calendarsgenericavailableFormatsMdd/M
+calendarsgenericavailableFormatsHHH
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMM/y G
+calendarsgenericavailableFormatsGyMMMEdE, d MMM, y G
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdd E
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsyyyyMdd/M/y G
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsyMMMM-y
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsMEdE, d-M
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsywY 𑄃𑄬𑄢𑄴 𑄖𑄧𑄟𑄴 𑄥𑄛𑄴𑄖 w
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsGyMMMdd MMM, y G
+calendarsgregorianavailableFormatsMMMMEdE d MMMM
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsMMMEdE d MMM
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsyMMMEdE, d MMM, y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsGyMMMEdE, d MMM, y G
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsEdd E
+calendarsgregorianavailableFormatsMMMMWMMMM 𑄃𑄬𑄢𑄴 𑄠𑄴 𑄥𑄛𑄴𑄖 W
+calendarsgregorianavailableFormatsyMMMdd MMM, y
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsMMdddd-MM
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsyMEdE, d/M/y
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianeraseraAbbr0𑄈𑄳𑄢𑄨𑄌𑄴𑄑𑄧𑄛𑄫𑄢𑄴𑄝𑄛𑄴𑄘𑄧
+calendarsgregorianeraseraAbbr1𑄈𑄳𑄢𑄨𑄌𑄴𑄑𑄛𑄴𑄘𑄧
+calendarsgregorianeraseraNames1𑄈𑄳𑄢𑄨𑄌𑄴𑄑𑄛𑄴𑄘𑄧
+calendarsgregorianeraseraNames0𑄈𑄳𑄢𑄨𑄌𑄴𑄑𑄴𑄛𑄫𑄢𑄴𑄝𑄛𑄴𑄘𑄧
+calendarsgregorianmonthsstand-alonenarrow5𑄟𑄬
+calendarsgregorianmonthsstand-alonenarrow2𑄜𑄬
+calendarsgregorianmonthsstand-alonenarrow8𑄃
+calendarsgregorianmonthsstand-alonenarrow9𑄥𑄬
+calendarsgregorianmonthsstand-alonenarrow6𑄎𑄪𑄚𑄴
+calendarsgregorianmonthsstand-alonenarrow1𑄎
+calendarsgregorianmonthsstand-alonenarrow4𑄃𑄬
+calendarsgregorianmonthsstand-alonenarrow10𑄃𑄧
+calendarsgregorianmonthsstand-alonenarrow12𑄓𑄨
+calendarsgregorianmonthsstand-alonenarrow11𑄚𑄧
+calendarsgregorianmonthsstand-alonenarrow7𑄎𑄪
+calendarsgregorianmonthsstand-alonenarrow3𑄟
+calendarsgregorianmonthsstand-alonewide10𑄃𑄧𑄇𑄴𑄑𑄮𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-alonewide12𑄓𑄨𑄥𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-alonewide7𑄎𑄪𑄣𑄭
+calendarsgregorianmonthsstand-alonewide11𑄚𑄧𑄞𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-alonewide3𑄟𑄢𑄴𑄌𑄧
+calendarsgregorianmonthsstand-alonewide5𑄟𑄬
+calendarsgregorianmonthsstand-alonewide8𑄃𑄉𑄧𑄌𑄴𑄑𑄴
+calendarsgregorianmonthsstand-alonewide2𑄜𑄬𑄛𑄴𑄝𑄳𑄢𑄪𑄠𑄢𑄨
+calendarsgregorianmonthsstand-alonewide9𑄥𑄬𑄛𑄴𑄑𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-alonewide1𑄎𑄚𑄪𑄠𑄢𑄨
+calendarsgregorianmonthsstand-alonewide6𑄎𑄪𑄚𑄴
+calendarsgregorianmonthsstand-alonewide4𑄃𑄬𑄛𑄳𑄢𑄨𑄣𑄴
+calendarsgregorianmonthsstand-aloneabbreviated10𑄃𑄧𑄇𑄴𑄑𑄮𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-aloneabbreviated3𑄟𑄢𑄴𑄌𑄧
+calendarsgregorianmonthsstand-aloneabbreviated12𑄓𑄨𑄥𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-aloneabbreviated7𑄎𑄪𑄣𑄭
+calendarsgregorianmonthsstand-aloneabbreviated11𑄚𑄧𑄞𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsstand-aloneabbreviated8𑄃𑄉𑄧𑄌𑄴𑄑𑄴
+calendarsgregorianmonthsstand-aloneabbreviated2𑄜𑄬𑄛𑄴𑄝𑄳𑄢𑄪𑄠𑄢𑄨
+calendarsgregorianmonthsstand-aloneabbreviated5𑄟𑄬
+calendarsgregorianmonthsstand-aloneabbreviated1𑄎𑄚𑄪𑄠𑄢𑄨
+calendarsgregorianmonthsstand-aloneabbreviated6𑄎𑄪𑄚𑄴
+calendarsgregorianmonthsstand-aloneabbreviated4𑄃𑄬𑄛𑄳𑄢𑄨𑄣𑄴
+calendarsgregorianmonthsstand-aloneabbreviated9𑄥𑄬𑄛𑄴𑄑𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatabbreviated3𑄟𑄢𑄴𑄌𑄧
+calendarsgregorianmonthsformatabbreviated11𑄚𑄧𑄞𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatabbreviated12𑄓𑄨𑄥𑄬𑄟𑄴𑄝𑄢𑄴
+calendarsgregorianmonthsformatabbreviated7𑄎𑄪𑄣𑄭
+calendarsgregorianmonthsformatabbreviated10𑄃𑄧𑄇𑄴𑄑𑄮𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatabbreviated4𑄃𑄬𑄛𑄳𑄢𑄨𑄣𑄴
+calendarsgregorianmonthsformatabbreviated6𑄎𑄪𑄚𑄴
+calendarsgregorianmonthsformatabbreviated1𑄎𑄚𑄪
+calendarsgregorianmonthsformatabbreviated9𑄥𑄬𑄛𑄴𑄑𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatabbreviated2𑄜𑄬𑄛𑄴
+calendarsgregorianmonthsformatabbreviated8𑄃𑄉𑄧𑄌𑄴𑄑𑄴
+calendarsgregorianmonthsformatabbreviated5𑄟𑄬
+calendarsgregorianmonthsformatwide10𑄃𑄧𑄇𑄴𑄑𑄬𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatwide11𑄚𑄧𑄞𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatwide12𑄓𑄨𑄥𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatwide7𑄎𑄪𑄣𑄭
+calendarsgregorianmonthsformatwide3𑄟𑄢𑄴𑄌𑄧
+calendarsgregorianmonthsformatwide5𑄟𑄬
+calendarsgregorianmonthsformatwide8𑄃𑄉𑄧𑄌𑄴𑄑𑄴
+calendarsgregorianmonthsformatwide2𑄜𑄬𑄛𑄴𑄝𑄳𑄢𑄪𑄠𑄢𑄨
+calendarsgregorianmonthsformatwide9𑄥𑄬𑄛𑄴𑄑𑄬𑄟𑄴𑄝𑄧𑄢𑄴
+calendarsgregorianmonthsformatwide6𑄎𑄪𑄚𑄴
+calendarsgregorianmonthsformatwide4𑄃𑄬𑄛𑄳𑄢𑄨𑄣𑄴
+calendarsgregorianmonthsformatwide1𑄎𑄚𑄪𑄠𑄢𑄨
+calendarsgregorianmonthsformatnarrow12𑄓𑄨
+calendarsgregorianmonthsformatnarrow7𑄎𑄪
+calendarsgregorianmonthsformatnarrow11𑄚𑄧
+calendarsgregorianmonthsformatnarrow3𑄟
+calendarsgregorianmonthsformatnarrow10𑄃𑄧
+calendarsgregorianmonthsformatnarrow9𑄥𑄬
+calendarsgregorianmonthsformatnarrow4𑄃𑄬
+calendarsgregorianmonthsformatnarrow6𑄎𑄪𑄚𑄴
+calendarsgregorianmonthsformatnarrow1𑄎
+calendarsgregorianmonthsformatnarrow5𑄟𑄬
+calendarsgregorianmonthsformatnarrow2𑄜𑄬
+calendarsgregorianmonthsformatnarrow8𑄃
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregorianintervalFormatsyMMMdyd MMM, y – d MMM, y
+calendarsgregorianintervalFormatsyMMMddd–d MMM, y
+calendarsgregorianintervalFormatsyMMMdMd MMM – d MMM, y
+calendarsgregorianintervalFormatsyMMMEddE, d MMM – E, d MMM, y
+calendarsgregorianintervalFormatsyMMMEdME, d MMM – E, d MMM, y
+calendarsgregorianintervalFormatsyMMMEdyE, d MMM, y – E, d MMM, y
+calendarsgregorianintervalFormatsMMM–M
+calendarsgregorianintervalFormatsddd–d
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmHHH:mm–HH:mm
+calendarsgregorianintervalFormatsMMMdMd MMM – d MMM
+calendarsgregorianintervalFormatsMMMddd–d MMM
+calendarsgregorianintervalFormatsyMdMd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMddd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMdyd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMEdyE, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMEdME, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMEddE, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsMMMMMMM – MMM
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatsMdMd/M – d/M
+calendarsgregorianintervalFormatsMddd/M – d/M
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsHHHH–HH
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatsyMMM/y – M/y
+calendarsgregorianintervalFormatsyMyM/y – M/y
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsyMMMMMMM–MMM y
+calendarsgregorianintervalFormatsMEdME, d/M – E, d/M
+calendarsgregorianintervalFormatsMEddE, d/M – E, d/M
+calendarsgregorianintervalFormatsyMMMMMMMMM–MMMM y
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgregorianintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon2𑄝𑄬𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-alonenarrownight1𑄢𑄬𑄖𑄴
+calendarsgregoriandayPeriodsstand-alonenarrowevening1𑄥𑄎𑄧𑄚𑄳𑄠
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon1𑄘𑄨𑄝𑄪𑄎𑄳𑄠
+calendarsgregoriandayPeriodsstand-alonenarrowmorning2𑄝𑄬𑄚𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowmorning1𑄛𑄧𑄖𑄳𑄠𑄃𑄟𑄧𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-aloneabbreviatedevening1𑄥𑄎𑄧𑄚𑄳𑄠
+calendarsgregoriandayPeriodsstand-aloneabbreviatednight1𑄢𑄬𑄖𑄴
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon2𑄝𑄬𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning1𑄛𑄧𑄖𑄳𑄠𑄃𑄟𑄧𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning2𑄝𑄬𑄚𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon1𑄘𑄨𑄝𑄪𑄎𑄳𑄠
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-alonewideevening1𑄥𑄎𑄧𑄚𑄳𑄠
+calendarsgregoriandayPeriodsstand-alonewidenight1𑄢𑄬𑄖𑄴
+calendarsgregoriandayPeriodsstand-alonewideafternoon2𑄝𑄬𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-alonewideafternoon1𑄘𑄨𑄝𑄪𑄎𑄳𑄠
+calendarsgregoriandayPeriodsstand-alonewideamAM
+calendarsgregoriandayPeriodsstand-alonewidepmPM
+calendarsgregoriandayPeriodsstand-alonewidemorning1𑄛𑄧𑄖𑄳𑄠𑄃𑄟𑄧𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsstand-alonewidemorning2𑄝𑄬𑄚𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatabbreviatedafternoon2𑄝𑄬𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatabbreviatednight1𑄢𑄬𑄖𑄴
+calendarsgregoriandayPeriodsformatabbreviatedevening1𑄥𑄎𑄧𑄚𑄳𑄠
+calendarsgregoriandayPeriodsformatabbreviatedafternoon1𑄘𑄨𑄝𑄪𑄎𑄳𑄠
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandayPeriodsformatabbreviatedmorning2𑄝𑄬𑄚𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatabbreviatedmorning1𑄛𑄧𑄖𑄳𑄠𑄃𑄟𑄧𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwideafternoon1𑄘𑄨𑄝𑄪𑄎𑄳𑄠
+calendarsgregoriandayPeriodsformatwidemorning2𑄝𑄬𑄚𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandayPeriodsformatwidemorning1𑄛𑄧𑄖𑄳𑄠𑄃𑄟𑄧𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatwideafternoon2𑄝𑄬𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatwideevening1𑄥𑄎𑄧𑄚𑄳𑄠
+calendarsgregoriandayPeriodsformatwidenight1𑄢𑄬𑄖𑄴
+calendarsgregoriandayPeriodsformatnarrownight1𑄢𑄬𑄖𑄴
+calendarsgregoriandayPeriodsformatnarrowevening1𑄥𑄎𑄧𑄚𑄳𑄠
+calendarsgregoriandayPeriodsformatnarrowafternoon2𑄝𑄬𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatnarrowamAM
+calendarsgregoriandayPeriodsformatnarrowafternoon1𑄘𑄨𑄝𑄪𑄎𑄳𑄠
+calendarsgregoriandayPeriodsformatnarrowpmPM
+calendarsgregoriandayPeriodsformatnarrowmorning1𑄛𑄧𑄖𑄳𑄠𑄃𑄟𑄧𑄣𑄳𑄠𑄬
+calendarsgregoriandayPeriodsformatnarrowmorning2𑄝𑄬𑄚𑄳𑄠𑄬
+calendarsgregoriandaysformatabbreviatedsun𑄢𑄧𑄝𑄨
+calendarsgregoriandaysformatabbreviatedwed𑄝𑄪𑄖𑄴
+calendarsgregoriandaysformatabbreviatedmon𑄥𑄧𑄟𑄴
+calendarsgregoriandaysformatabbreviatedtue𑄟𑄧𑄁𑄉𑄧𑄣𑄴
+calendarsgregoriandaysformatabbreviatedfri𑄥𑄪𑄇𑄴𑄇𑄮𑄢𑄴
+calendarsgregoriandaysformatabbreviatedthu𑄝𑄳𑄢𑄨𑄥𑄪𑄛𑄴
+calendarsgregoriandaysformatabbreviatedsat𑄥𑄧𑄚𑄨
+calendarsgregoriandaysformatwidesun𑄢𑄧𑄝𑄨𑄝𑄢𑄴
+calendarsgregoriandaysformatwidewed𑄝𑄪𑄖𑄴𑄝𑄢𑄴
+calendarsgregoriandaysformatwidemon𑄥𑄧𑄟𑄴𑄝𑄢𑄴
+calendarsgregoriandaysformatwidetue𑄟𑄧𑄁𑄉𑄧𑄣𑄴𑄝𑄢𑄴
+calendarsgregoriandaysformatwidefri𑄥𑄪𑄇𑄴𑄇𑄮𑄢𑄴𑄝𑄢𑄴
+calendarsgregoriandaysformatwidethu𑄝𑄳𑄢𑄨𑄥𑄪𑄛𑄴𑄝𑄢𑄴
+calendarsgregoriandaysformatwidesat𑄥𑄧𑄚𑄨𑄝𑄢𑄴
+calendarsgregoriandaysformatnarrowtue𑄟𑄧
+calendarsgregoriandaysformatnarrowmon𑄥𑄧
+calendarsgregoriandaysformatnarrowsat𑄥𑄧
+calendarsgregoriandaysformatnarrowthu𑄝𑄳𑄢𑄨
+calendarsgregoriandaysformatnarrowfri𑄥𑄪
+calendarsgregoriandaysformatnarrowsun𑄢𑄧
+calendarsgregoriandaysformatnarrowwed𑄝𑄪
+calendarsgregoriandaysstand-alonenarrowtue𑄟𑄧
+calendarsgregoriandaysstand-alonenarrowmon𑄥𑄧
+calendarsgregoriandaysstand-alonenarrowthu𑄝𑄳𑄢𑄨
+calendarsgregoriandaysstand-alonenarrowsat𑄥𑄧
+calendarsgregoriandaysstand-alonenarrowfri𑄥𑄪
+calendarsgregoriandaysstand-alonenarrowsun𑄢𑄧
+calendarsgregoriandaysstand-alonenarrowwed𑄝𑄪
+calendarsgregoriandaysstand-aloneabbreviatedwed𑄝𑄪𑄖𑄴
+calendarsgregoriandaysstand-aloneabbreviatedsun𑄢𑄧𑄝𑄨
+calendarsgregoriandaysstand-aloneabbreviatedsat𑄥𑄧𑄚𑄨
+calendarsgregoriandaysstand-aloneabbreviatedthu𑄝𑄳𑄢𑄨𑄥𑄪𑄛𑄴
+calendarsgregoriandaysstand-aloneabbreviatedfri𑄥𑄪𑄇𑄴𑄇𑄮𑄢𑄴
+calendarsgregoriandaysstand-aloneabbreviatedtue𑄟𑄧𑄁𑄉𑄧𑄣𑄴
+calendarsgregoriandaysstand-aloneabbreviatedmon𑄥𑄧𑄟𑄴
+calendarsgregoriandaysstand-alonewidemon𑄥𑄧𑄟𑄴𑄝𑄢𑄴
+calendarsgregoriandaysstand-alonewidetue𑄟𑄧𑄁𑄉𑄧𑄣𑄴𑄝𑄢𑄴
+calendarsgregoriandaysstand-alonewidefri𑄥𑄪𑄇𑄴𑄇𑄮𑄢𑄴𑄝𑄢𑄴
+calendarsgregoriandaysstand-alonewidethu𑄝𑄳𑄢𑄨𑄥𑄪𑄛𑄴𑄝𑄢𑄴
+calendarsgregoriandaysstand-alonewidesat𑄥𑄧𑄚𑄨𑄝𑄢𑄴
+calendarsgregoriandaysstand-alonewidesun𑄢𑄧𑄝𑄨𑄝𑄢𑄴
+calendarsgregoriandaysstand-alonewidewed𑄝𑄪𑄖𑄴𑄝𑄢𑄴
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM, y
+calendarsgregoriandateFormatsshortstandardd/M/yy
+calendarsgregoriandateFormatsmediumstandardd MMM, y
+calendarsgregoriandateFormatslongstandardd MMMM, y
+calendarsgregorianquartersstand-alonenarrow1𑄷
+calendarsgregorianquartersstand-alonenarrow4𑄺
+calendarsgregorianquartersstand-alonenarrow2𑄸
+calendarsgregorianquartersstand-alonenarrow3𑄹
+calendarsgregorianquartersstand-aloneabbreviated1Q1
+calendarsgregorianquartersstand-aloneabbreviated4Q4
+calendarsgregorianquartersstand-aloneabbreviated2Q2
+calendarsgregorianquartersstand-aloneabbreviated3Q3
+calendarsgregorianquartersstand-alonewide3𑄖𑄨𑄚𑄴 𑄛𑄳𑄆𑄘𑄳𑄠𑄬 𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersstand-alonewide4𑄌𑄳𑄆𑄬𑄢𑄴 𑄛𑄳𑄆𑄘𑄳𑄠𑄬 𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersstand-alonewide1𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersstand-alonewide2𑄘𑄨 𑄛𑄳𑄆𑄘𑄳𑄠𑄬 𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersformatwide4𑄌𑄳𑄆𑄬𑄢𑄴 𑄛𑄳𑄆𑄘𑄳𑄠𑄬 𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersformatwide1𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersformatwide2𑄘𑄨 𑄛𑄳𑄆𑄘𑄳𑄠𑄬 𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersformatwide3𑄖𑄨𑄚𑄴 𑄛𑄳𑄆𑄘𑄳𑄠𑄬 𑄖𑄨𑄚𑄴𑄟𑄎𑄧𑄢𑄴
+calendarsgregorianquartersformatabbreviated2Q2
+calendarsgregorianquartersformatabbreviated4Q4
+calendarsgregorianquartersformatabbreviated1Q1
+calendarsgregorianquartersformatabbreviated3Q3
+calendarsgregorianquartersformatnarrow3𑄹
+calendarsgregorianquartersformatnarrow1𑄷
+calendarsgregorianquartersformatnarrow4𑄺
+calendarsgregorianquartersformatnarrow2𑄸
+calendarsindianeraseraAbbr0𑄥𑄣𑄴
+calendarsindianmonthsformatwide10𑄛𑄪𑄌𑄴
+calendarsindianmonthsformatwide7𑄃𑄏𑄨𑄚𑄴
+calendarsindianmonthsformatwide12𑄜𑄉𑄪𑄚𑄴
+calendarsindianmonthsformatwide11𑄟𑄇𑄴
+calendarsindianmonthsformatwide3𑄎𑄳𑄠𑄬𑄖𑄴
+calendarsindianmonthsformatwide5𑄥𑄉𑄮𑄚𑄴
+calendarsindianmonthsformatwide2𑄝𑄮𑄎𑄬𑄇𑄴
+calendarsindianmonthsformatwide8𑄇𑄘𑄨
+calendarsindianmonthsformatwide9𑄃𑄊𑄮𑄚𑄴
+calendarsindianmonthsformatwide6𑄞𑄘𑄧
+calendarsindianmonthsformatwide1𑄌𑄮𑄖𑄴
+calendarsindianmonthsformatwide4𑄃𑄏𑄢𑄴
+calendarsindianmonthsstand-alonenarrow8𑄾
+calendarsindianmonthsstand-alonenarrow2𑄸
+calendarsindianmonthsstand-alonenarrow5𑄻
+calendarsindianmonthsstand-alonenarrow6𑄼
+calendarsindianmonthsstand-alonenarrow4𑄺
+calendarsindianmonthsstand-alonenarrow1𑄷
+calendarsindianmonthsstand-alonenarrow9𑄿
+calendarsindianmonthsstand-alonenarrow10𑄷𑄶
+calendarsindianmonthsstand-alonenarrow3𑄹
+calendarsindianmonthsstand-alonenarrow11𑄷𑄷
+calendarsindianmonthsstand-alonenarrow12𑄷𑄸
+calendarsindianmonthsstand-alonenarrow7𑄽
+calendarsislamiceraseraAbbr0𑄡𑄪𑄇𑄴
+calendarsislamicmonthsformatwide5𑄎𑄧𑄟𑄘𑄨𑄅𑄣𑄴 𑄃𑄃𑄪𑄠𑄣𑄴
+calendarsislamicmonthsformatwide8𑄥𑄳𑄃𑄝𑄧𑄚𑄴
+calendarsislamicmonthsformatwide2𑄥𑄧𑄜𑄢𑄴
+calendarsislamicmonthsformatwide9𑄢𑄧𑄟𑄴𑄎𑄚𑄴
+calendarsislamicmonthsformatwide6𑄎𑄧𑄟𑄘𑄨𑄅𑄌𑄴 𑄥𑄚𑄨
+calendarsislamicmonthsformatwide4𑄢𑄧𑄝𑄨𑄅𑄥𑄴 𑄥𑄚𑄨
+calendarsislamicmonthsformatwide1𑄟𑄧𑄦𑄧𑄢𑄧𑄟𑄴
+calendarsislamicmonthsformatwide10𑄥𑄤𑄣𑄴
+calendarsislamicmonthsformatwide11𑄎𑄨𑄣𑄴𑄇𑄧𑄘𑄴
+calendarsislamicmonthsformatwide12𑄎𑄨𑄣𑄴𑄦𑄧𑄎𑄴𑄎𑄧
+calendarsislamicmonthsformatwide7𑄢𑄧𑄎𑄧𑄝𑄴
+calendarsislamicmonthsformatwide3𑄢𑄧𑄝𑄨𑄅𑄣𑄴 𑄃𑄃𑄪𑄠𑄣𑄴
+calendarsislamicmonthsstand-alonenarrow10𑄷𑄶
+calendarsislamicmonthsstand-alonenarrow3𑄹
+calendarsislamicmonthsstand-alonenarrow12𑄷𑄸
+calendarsislamicmonthsstand-alonenarrow7𑄽
+calendarsislamicmonthsstand-alonenarrow11𑄷𑄷
+calendarsislamicmonthsstand-alonenarrow2𑄸
+calendarsislamicmonthsstand-alonenarrow8𑄾
+calendarsislamicmonthsstand-alonenarrow5𑄻
+calendarsislamicmonthsstand-alonenarrow6𑄼
+calendarsislamicmonthsstand-alonenarrow1𑄷
+calendarsislamicmonthsstand-alonenarrow4𑄺
+calendarsislamicmonthsstand-alonenarrow9𑄿

@@ -1,0 +1,3086 @@
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitsnarrowcoordinateUnitwest{0}W
+unitsnarrowcoordinateUniteast{0}E
+unitsnarrowcoordinateUnitnorth{0}N
+unitsnarrowcoordinateUnitsouth{0}S
+unitsnarrowcoordinateUnitdisplayNameڈائریکشن
+unitsnarrowunitmass-ouncepatternone{0} ونس
+unitsnarrowunitmass-ouncepatternother{0} ونس
+unitsnarrowunitmass-ouncedisplayNameoz
+unitsnarrowunitmass-ounceperUnitPattern{0}/oz
+unitsnarrowunittemperature-celsiuspatternone{0}‎°
+unitsnarrowunittemperature-celsiuspatternother{0}‎°
+unitsnarrowunittemperature-celsiusdisplayName⁰C
+unitsnarrowunitpower-horsepowerpatternother{0}hp
+unitsnarrowunitpower-horsepowerpatternone{0}hp
+unitsnarrowunitlength-light-yearpatternother{0}ly
+unitsnarrowunitlength-light-yearpatternone{0}ly
+unitsnarrowunitlength-kilometerperUnitPattern{0} فی کلو میٹر
+unitsnarrowunitlength-kilometerdisplayNameکلو میٹر
+unitsnarrowunitlength-kilometerpatternone{0} کلو میٹر
+unitsnarrowunitlength-kilometerpatternother{0} کلو میٹر
+unitsnarrowunitlength-decimeterdisplayNameڈیسی میٹر
+unitsnarrowunitlength-decimeterpatternone{0} dm
+unitsnarrowunitlength-decimeterpatternother{0} dm
+unitsnarrowunitduration-weekpatternone{0} ہفتہ
+unitsnarrowunitduration-weekpatternother{0} ہفتے
+unitsnarrowunitduration-weekdisplayNameہفتہ
+unitsnarrowunitarea-square-milepatternother{0}mi²
+unitsnarrowunitarea-square-milepatternone{0}mi²
+unitsnarrowunitspeed-kilometer-per-hourpatternone{0}kph
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0}kph
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekm/hr
+unitsnarrowunitpower-wattpatternone{0} واٹ
+unitsnarrowunitpower-wattpatternother{0} واٹ
+unitsnarrowunitlength-miledisplayNameمیل
+unitsnarrowunitlength-milepatternother{0} میل
+unitsnarrowunitlength-milepatternone{0} میل
+unitsnarrowunitlength-footdisplayNameفیٹ
+unitsnarrowunitlength-footperUnitPattern{0} فی فیٹ
+unitsnarrowunitlength-footpatternother{0}′
+unitsnarrowunitlength-footpatternone{0}′
+unitsnarrowunitarea-square-meterpatternother{0} m²
+unitsnarrowunitarea-square-meterpatternone{0} m²
+unitsnarrowunitlength-millimeterpatternone{0} ملیمیٹر
+unitsnarrowunitlength-millimeterpatternother{0} ملیمیٹر
+unitsnarrowunitlength-millimeterdisplayNameملی میٹر
+unitsnarrowunitduration-monthdisplayNameمہینہ
+unitsnarrowunitduration-monthpatternone{0} مہینہ
+unitsnarrowunitduration-monthpatternother{0} مہینے
+unitsnarrowunitduration-yeardisplayNameسال
+unitsnarrowunitduration-yearpatternother{0} سال
+unitsnarrowunitduration-yearpatternone{0} سال
+unitsnarrowunitpower-kilowattpatternone{0}kW
+unitsnarrowunitpower-kilowattpatternother{0}kW
+unitsnarrowunitvolume-literpatternother{0} لیٹر
+unitsnarrowunitvolume-literpatternone{0} لیٹر
+unitsnarrowunitvolume-literdisplayNameلیٹر
+unitsnarrowunitangle-arc-secondpatternone{0}″
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunitduration-hourperUnitPattern{0} فی گھنٹہ
+unitsnarrowunitduration-hourdisplayNameگھنٹہ
+unitsnarrowunitduration-hourpatternone{0} گھنٹہ
+unitsnarrowunitduration-hourpatternother{0} گھنٹے
+unitsnarrowunitangle-arc-minutepatternother{0} منٹ
+unitsnarrowunitangle-arc-minutepatternone{0} منٹ
+unitsnarrowunittemperature-genericdisplayName°
+unitsnarrowunittemperature-genericpatternother{0}°
+unitsnarrowunittemperature-genericpatternone{0}°
+unitsnarrowunitmass-poundpatternother{0} پونڈ
+unitsnarrowunitmass-poundpatternone{0} پونڈ
+unitsnarrowunitpressure-pound-per-square-inchdisplayNamepsi
+unitsnarrowunitpressure-pound-per-square-inchpatternone{0} psi
+unitsnarrowunitpressure-pound-per-square-inchpatternother{0} psi
+unitsnarrowunitlength-centimeterdisplayNameسینٹی میٹر
+unitsnarrowunitlength-centimeterperUnitPattern{0} فی سینٹی میٹر
+unitsnarrowunitlength-centimeterpatternother{0}cm
+unitsnarrowunitlength-centimeterpatternone{0}cm
+unitsnarrowunitmass-grampatternother{0} گرام
+unitsnarrowunitmass-grampatternone{0} گرام
+unitsnarrowunitmass-gramperUnitPattern{0} فی گرام
+unitsnarrowunitmass-gramdisplayNameگرام
+unitsnarrowunitpressure-hectopascalpatternone{0}hPa
+unitsnarrowunitpressure-hectopascalpatternother{0}hPa
+unitsnarrowunitpressure-hectopascaldisplayNamehPa
+unitsnarrowunitduration-secondpatternone{0} سیکنڈ
+unitsnarrowunitduration-secondpatternother{0} سیکنڈ
+unitsnarrowunitduration-seconddisplayNameسیکنڈ
+unitsnarrowunitduration-secondperUnitPattern{0} فی سیکنڈ
+unitsnarrowunitconsumption-liter-per-100kilometerspatternone{0}L/100km
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0}L/100km
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNameلیٹر/100 کلو میٹر
+unitsnarrowunitacceleration-g-forcepatternone{0}g
+unitsnarrowunitacceleration-g-forcepatternother{0}g
+unitsnarrowunitarea-square-footpatternother{0}ft²
+unitsnarrowunitarea-square-footpatternone{0}ft²
+unitsnarrowunitarea-square-kilometerpatternone{0} km²
+unitsnarrowunitarea-square-kilometerpatternother{0} km²
+unitsnarrowunitvolume-cubic-milepatternone{0}mi³
+unitsnarrowunitvolume-cubic-milepatternother{0}mi³
+unitsnarrowunitvolume-cubic-miledisplayNamemi³
+unitsnarrowunitspeed-mile-per-hourpatternone{0}mph
+unitsnarrowunitspeed-mile-per-hourpatternother{0}mph
+unitsnarrowunitspeed-mile-per-hourdisplayNameمیل فی گھنٹہ
+unitsnarrowunittemperature-kelvinpatternother{0} K
+unitsnarrowunittemperature-kelvinpatternone{0} K
+unitsnarrowunittemperature-kelvindisplayNameK
+unitsnarrowunittemperature-fahrenheitdisplayName°F
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunittemperature-fahrenheitpatternone{0}‎°F
+unitsnarrowunitarea-acrepatternother{0} ایکڑ
+unitsnarrowunitarea-acrepatternone{0} ایکڑ
+unitsnarrowunitlength-picometerpatternone{0}pm
+unitsnarrowunitlength-picometerpatternother{0}pm
+unitsnarrowunitconcentr-percentpatternother{0}%
+unitsnarrowunitconcentr-percentpatternone{0}%
+unitsnarrowunitconcentr-percentdisplayName%
+unitsnarrowunitarea-hectarepatternother{0} ہیکٹر
+unitsnarrowunitarea-hectarepatternone{0} ہیکٹر
+unitsnarrowunitangle-degreepatternone{0} ڈگری
+unitsnarrowunitangle-degreepatternother{0} ڈگری
+unitsnarrowunitpressure-millibardisplayNamembar
+unitsnarrowunitpressure-millibarpatternother{0}mb
+unitsnarrowunitpressure-millibarpatternone{0}mb
+unitsnarrowunitmass-stonepatternone{0} st
+unitsnarrowunitmass-stonepatternother{0} st
+unitsnarrowunitmass-stonedisplayNamest
+unitsnarrowunitpressure-inch-hgdisplayName″ Hg
+unitsnarrowunitpressure-inch-hgpatternone{0} انچ مرکری
+unitsnarrowunitpressure-inch-hgpatternother{0} انچ مرکری
+unitsnarrowunitlength-yarddisplayNameگز
+unitsnarrowunitlength-yardpatternone{0} یارڈ
+unitsnarrowunitlength-yardpatternother{0} یارڈ
+unitsnarrowunitmass-kilogramdisplayNamekg
+unitsnarrowunitmass-kilogramperUnitPattern{0} فی کلو گرام
+unitsnarrowunitmass-kilogrampatternother{0}kg
+unitsnarrowunitmass-kilogrampatternone{0}kg
+unitsnarrowunitlength-meterpatternone{0} میٹر
+unitsnarrowunitlength-meterpatternother{0} میٹر
+unitsnarrowunitlength-meterdisplayNameمیٹر
+unitsnarrowunitlength-meterperUnitPattern{0} فی میٹر
+unitsnarrowunitduration-millisecondpatternother{0} ms
+unitsnarrowunitduration-millisecondpatternone{0} ms
+unitsnarrowunitduration-milliseconddisplayNameملی سیکنڈ
+unitsnarrowunitduration-minutepatternone{0} منٹ
+unitsnarrowunitduration-minutepatternother{0} منٹ
+unitsnarrowunitduration-minutedisplayNameمنٹ
+unitsnarrowunitduration-minuteperUnitPattern{0} فی منٹ
+unitsnarrowunitduration-dayperUnitPattern{0} فی دن
+unitsnarrowunitduration-daydisplayNameدن
+unitsnarrowunitduration-daypatternone{0} دن
+unitsnarrowunitduration-daypatternother{0} دن
+unitsnarrowunitvolume-cubic-kilometerpatternother{0}km³
+unitsnarrowunitvolume-cubic-kilometerpatternone{0}km³
+unitsnarrowunitvolume-cubic-kilometerdisplayNamekm³
+unitsnarrowunitspeed-meter-per-secondpatternother{0}m/s
+unitsnarrowunitspeed-meter-per-secondpatternone{0}m/s
+unitsnarrowunitspeed-meter-per-seconddisplayNameمیٹر فی سیکنڈ
+unitsnarrowunitlength-inchpatternother{0} انچ
+unitsnarrowunitlength-inchpatternone{0} انچ
+unitsnarrowunitlength-inchdisplayNameانچ
+unitsnarrowunitlength-inchperUnitPattern{0} فی انچ
+unitsnarrowunitpressure-millimeter-of-mercurydisplayNamemm Hg
+unitsnarrowunitpressure-millimeter-of-mercurypatternone{0} mm Hg
+unitsnarrowunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitslongunitdigital-kilobytepatternother{0} کلوبائٹس
+unitslongunitdigital-kilobytepatternone{0} کلوبائٹ
+unitslongunitdigital-kilobytedisplayNameکلوبائٹس
+unitslongunitvolume-deciliterdisplayNameڈیسی لیٹر
+unitslongunitvolume-deciliterpatternone{0} ڈیسی لیٹر
+unitslongunitvolume-deciliterpatternother{0} ڈیسی لیٹر
+unitslongunitduration-secondpatternother{0} سیکنڈ
+unitslongunitduration-secondpatternone{0} سیکنڈ
+unitslongunitduration-secondperUnitPattern{0} فی سیکنڈ
+unitslongunitduration-seconddisplayNameسیکنڈ
+unitslongunitarea-square-footdisplayNameمربع فٹ
+unitslongunitarea-square-footpatternone{0} مربع فٹ
+unitslongunitarea-square-footpatternother{0} مربع فٹ
+unitslongunitarea-square-centimeterpatternone{0} مربع سینٹی میٹر
+unitslongunitarea-square-centimeterpatternother{0} مربع سینٹی میٹر
+unitslongunitarea-square-centimeterperUnitPattern{0} فی مربع سینٹی میٹر
+unitslongunitarea-square-centimeterdisplayNameمربع سینٹی میٹر
+unitslongunitlength-astronomical-unitpatternone{0} ایسٹرونومیکل یونٹ
+unitslongunitlength-astronomical-unitpatternother{0} ایسٹرونومیکل یونٹس
+unitslongunitlength-astronomical-unitdisplayNameایسٹرونومیکل یونٹس
+unitslongunitvolume-milliliterdisplayNameملی لیٹر
+unitslongunitvolume-milliliterpatternother{0} ملی لیٹر
+unitslongunitvolume-milliliterpatternone{0} ملی لیٹر
+unitslongunitenergy-foodcaloriedisplayNameکیلوریز
+unitslongunitenergy-foodcaloriepatternother{0} کیلوریز
+unitslongunitenergy-foodcaloriepatternone{0} کیلوری
+unitslongunitpressure-hectopascalpatternone{0} ہیکٹو پاسکل
+unitslongunitpressure-hectopascalpatternother{0} ہیکٹو پاسکل
+unitslongunitpressure-hectopascaldisplayNameہیکٹو پاسکل
+unitslongunitvolume-megaliterpatternone{0} میگا لیٹر
+unitslongunitvolume-megaliterpatternother{0} میگا لیٹر
+unitslongunitvolume-megaliterdisplayNameمیگا لیٹر
+unitslongunitelectric-ohmpatternother{0} اوہم
+unitslongunitelectric-ohmpatternone{0} اوہم
+unitslongunitelectric-ohmdisplayNameاوہم
+unitslongunitconsumption-liter-per-100kilometersdisplayNameلیٹر فی 100 کلو میٹر
+unitslongunitconsumption-liter-per-100kilometerspatternother{0} لیٹر فی 100 کلو میٹر
+unitslongunitconsumption-liter-per-100kilometerspatternone{0} لیٹر فی 100 کلو میٹر
+unitslongunitacceleration-g-forcepatternone{0} جی-فورس
+unitslongunitacceleration-g-forcepatternother{0} جی-فورس
+unitslongunitacceleration-g-forcedisplayNameجی-فورس
+unitslongunitarea-square-kilometerperUnitPattern{0} فی مربع کلو میٹر
+unitslongunitarea-square-kilometerdisplayNameمربع کلو میٹر
+unitslongunitarea-square-kilometerpatternone{0} مربع کلو میٹر
+unitslongunitarea-square-kilometerpatternother{0} مربع کلو میٹر
+unitslongunitdigital-petabytedisplayNameپیٹا بائٹس
+unitslongunitdigital-petabytepatternone{0} پیٹا بائٹ
+unitslongunitdigital-petabytepatternother{0} پیٹا بائٹس
+unitslongunittemperature-kelvindisplayNameکیلون
+unitslongunittemperature-kelvinpatternother{0} کیلون
+unitslongunittemperature-kelvinpatternone{0} کیلون
+unitslongunitelectric-voltdisplayNameوولٹ
+unitslongunitelectric-voltpatternone{0} وولٹ
+unitslongunitelectric-voltpatternother{0} وولٹ
+unitslongunitlength-picometerpatternone{0} پیکو میٹر
+unitslongunitlength-picometerpatternother{0} پیکو میٹر
+unitslongunitlength-picometerdisplayNameپیکو میٹر
+unitslongunitlight-luxpatternother{0} lux
+unitslongunitlight-luxpatternone{0} lux
+unitslongunitlight-luxdisplayNamelux
+unitslongunitconcentr-permillepatternother{0} فی ہزار
+unitslongunitconcentr-permillepatternone{0} فی ہزار
+unitslongunitconcentr-permilledisplayNameفی ہزار
+unitslongunitduration-centurypatternother{0} صدیاں
+unitslongunitduration-centurypatternone{0} صدی
+unitslongunitduration-centurydisplayNameصدیاں
+unitslongunitvolume-cup-metricpatternother{0} میٹرک کپ
+unitslongunitvolume-cup-metricpatternone{0} میٹرک کپ
+unitslongunitvolume-cup-metricdisplayNameمیٹرک کپ
+unitslongunitconsumption-liter-per-kilometerdisplayNameلیٹر فی کلومیٹر
+unitslongunitconsumption-liter-per-kilometerpatternone{0} لیٹر فی کلومیٹر
+unitslongunitconsumption-liter-per-kilometerpatternother{0} لیٹر فی کلومیٹر
+unitslongunitvolume-cubic-milepatternother{0} کیوبک میل
+unitslongunitvolume-cubic-milepatternone{0} کیوبک میل
+unitslongunitvolume-cubic-miledisplayNameکیوبک میل
+unitslongunitarea-hectarepatternone{0} ہیکٹر
+unitslongunitarea-hectarepatternother{0} ہیکٹر
+unitslongunitarea-hectaredisplayNameہیکٹر
+unitslongunitmass-caratdisplayNameقیراط
+unitslongunitmass-caratpatternother{0} قیراط
+unitslongunitmass-caratpatternone{0} قیراط
+unitslongunitarea-acredisplayNameایکڑ
+unitslongunitarea-acrepatternone{0} ایکڑ
+unitslongunitarea-acrepatternother{0} ایکڑ
+unitslongunittemperature-fahrenheitdisplayNameڈگری فارن ہائیٹ
+unitslongunittemperature-fahrenheitpatternone{0} ڈگری فارن ہائیٹ
+unitslongunittemperature-fahrenheitpatternother{0} ڈگری فارن ہائیٹ
+unitslongunitspeed-mile-per-hourdisplayNameمیل فی گھنٹہ
+unitslongunitspeed-mile-per-hourpatternother{0} میل فی گھنٹہ
+unitslongunitspeed-mile-per-hourpatternone{0} میل فی گھنٹہ
+unitslongunitconcentr-percentdisplayNameفیصد
+unitslongunitconcentr-percentpatternother{0} فیصد
+unitslongunitconcentr-percentpatternone{0} فیصد
+unitslongunitangle-degreedisplayNameڈگری
+unitslongunitangle-degreepatternone{0} ڈگری
+unitslongunitangle-degreepatternother{0} ڈگری
+unitslongunitenergy-jouledisplayNameجول
+unitslongunitenergy-joulepatternone{0} جول
+unitslongunitenergy-joulepatternother{0} جول
+unitslongunitacceleration-meter-per-second-squareddisplayNameمیٹر فی مربع سیکنڈ
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} میٹر فی مربع سیکنڈ
+unitslongunitacceleration-meter-per-second-squaredpatternone{0} میٹر فی مربع سیکنڈ
+unitslongunitpower-milliwattpatternother{0} ملی واٹ
+unitslongunitpower-milliwattpatternone{0} ملی واٹ
+unitslongunitpower-milliwattdisplayNameملی واٹ
+unitslongunitlength-meterperUnitPattern{0} فی میٹر
+unitslongunitlength-meterdisplayNameمیٹر
+unitslongunitlength-meterpatternother{0} میٹر
+unitslongunitlength-meterpatternone{0} میٹر
+unitslongunitduration-minutepatternother{0} منٹ
+unitslongunitduration-minutepatternone{0} منٹ
+unitslongunitduration-minuteperUnitPattern{0} فی منٹ
+unitslongunitduration-minutedisplayNameمنٹ
+unitslongunitpressure-millibarpatternother{0} ملی بار
+unitslongunitpressure-millibarpatternone{0} ملی بار
+unitslongunitpressure-millibardisplayNameملی بار
+unitslongunitvolume-teaspoondisplayNameٹی سپون
+unitslongunitvolume-teaspoonpatternother{0} ٹی سپون
+unitslongunitvolume-teaspoonpatternone{0} ٹی سپون
+unitslongunitduration-dayperUnitPattern{0} فی دن
+unitslongunitduration-daydisplayNameدن
+unitslongunitduration-daypatternone{0} دن
+unitslongunitduration-daypatternother{0} دن
+unitslongunitlength-yardpatternone{0} یارڈ
+unitslongunitlength-yardpatternother{0} یارڈ
+unitslongunitlength-yarddisplayNameگز
+unitslongunitpressure-inch-hgpatternone{0} انچ مرکری
+unitslongunitpressure-inch-hgpatternother{0} انچ مرکری
+unitslongunitpressure-inch-hgdisplayNameانچ مرکری
+unitslongunitmass-kilogrampatternother{0} کلو گرام
+unitslongunitmass-kilogrampatternone{0} کلو گرام
+unitslongunitmass-kilogramdisplayNameکلو گرام
+unitslongunitmass-kilogramperUnitPattern{0} فی کلو گرام
+unitslongunitduration-millisecondpatternother{0} میل سیکنڈ
+unitslongunitduration-millisecondpatternone{0} ملی سیکنڈ
+unitslongunitduration-milliseconddisplayNameملی سیکنڈز
+unitslongunitvolume-centiliterdisplayNameسینٹی لیٹر
+unitslongunitvolume-centiliterpatternone{0} سینٹی لیٹر
+unitslongunitvolume-centiliterpatternother{0} سینٹی لیٹر
+unitslongunitmass-stonedisplayNameاسٹونز
+unitslongunitmass-stonepatternone{0} اسٹون
+unitslongunitmass-stonepatternother{0} اسٹونز
+unitslongunitvolume-cubic-yarddisplayNameکیوبک گز
+unitslongunitvolume-cubic-yardpatternother{0} کیوبک گز
+unitslongunitvolume-cubic-yardpatternone{0} کیوبک گز
+unitslongunitdigital-terabitdisplayNameٹیرابٹس
+unitslongunitdigital-terabitpatternone{0} ٹیرابٹ
+unitslongunitdigital-terabitpatternother{0} ٹیرابٹس
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} فی کیوبک سینٹی میٹر
+unitslongunitvolume-cubic-centimeterdisplayNameکیوبک سینٹی میٹر
+unitslongunitvolume-cubic-centimeterpatternone{0} کیوبک سینٹی میٹر
+unitslongunitvolume-cubic-centimeterpatternother{0} کیوبک سینٹی میٹر
+unitslongunitvolume-quartpatternother{0} کوارٹ
+unitslongunitvolume-quartpatternone{0} کوارٹ
+unitslongunitvolume-quartdisplayNameکوارٹ
+unitslongunitvolume-cubic-footpatternother{0} کیوبک فٹ
+unitslongunitvolume-cubic-footpatternone{0} کیوبک فیٹ
+unitslongunitvolume-cubic-footdisplayNameکیوبک فیٹ
+unitslongunitenergy-kilocaloriedisplayNameکلو کیلوریز
+unitslongunitenergy-kilocaloriepatternone{0} کلو کیلوری
+unitslongunitenergy-kilocaloriepatternother{0} کلو کیلوریز
+unitslongunitconsumption-mile-per-gallonpatternother{0} میل فی گیلن
+unitslongunitconsumption-mile-per-gallonpatternone{0} میل فی گیلن
+unitslongunitconsumption-mile-per-gallondisplayNameمیل فی گیلن
+unitslongunitlength-nanometerpatternother{0} نینو میٹر
+unitslongunitlength-nanometerpatternone{0} نینو میٹر
+unitslongunitlength-nanometerdisplayNameنینو میٹر
+unitslongunitmass-tonpatternother{0} ٹن
+unitslongunitmass-tonpatternone{0} ٹن
+unitslongunitmass-tondisplayNameٹن
+unitslongunitvolume-pintdisplayNameپائنٹ
+unitslongunitvolume-pintpatternother{0} پائنٹ
+unitslongunitvolume-pintpatternone{0} پائنٹ
+unitslongunitarea-square-inchpatternone{0} مربع انچ
+unitslongunitarea-square-inchpatternother{0} مربع انچ
+unitslongunitarea-square-inchperUnitPattern{0} فی مربع انچ
+unitslongunitarea-square-inchdisplayNameمربع انچ
+unitslongunitvolume-pint-metricpatternother{0} میٹرک پائنٹ
+unitslongunitvolume-pint-metricpatternone{0} میٹرک پائنٹ
+unitslongunitvolume-pint-metricdisplayNameمیٹرک پائنٹ
+unitslongunitduration-microseconddisplayNameمائیکرو سیکنڈز
+unitslongunitduration-microsecondpatternone{0} مائیکرو سیکنڈ
+unitslongunitduration-microsecondpatternother{0} مائیکرو سیکنڈز
+unitslongunitfrequency-hertzdisplayNameہرٹز
+unitslongunitfrequency-hertzpatternother{0} ہرٹز
+unitslongunitfrequency-hertzpatternone{0} ہرٹز
+unitslongunitenergy-kilowatt-hourpatternother{0} کلو واٹ آور
+unitslongunitenergy-kilowatt-hourpatternone{0} کلو واٹ آور
+unitslongunitenergy-kilowatt-hourdisplayNameکلو واٹ آور
+unitslongunitlength-inchpatternone{0} انچ
+unitslongunitlength-inchpatternother{0} انچ
+unitslongunitlength-inchperUnitPattern{0} فی انچ
+unitslongunitlength-inchdisplayNameانچ
+unitslongunitpressure-atmospheredisplayNameماحول
+unitslongunitpressure-atmospherepatternother{0} ماحول
+unitslongunitpressure-atmospherepatternone{0} ماحول
+unitslongunitvolume-cubic-kilometerdisplayNameکیوبک کلو میٹر
+unitslongunitvolume-cubic-kilometerpatternother{0} کیوبک کلو میٹر
+unitslongunitvolume-cubic-kilometerpatternone{0} کیوبک کلو میٹر
+unitslongunitelectric-amperepatternother{0} ایمپیئر
+unitslongunitelectric-amperepatternone{0} ایمپیئر
+unitslongunitelectric-amperedisplayNameایمپیئر
+unitslongunitdigital-bytedisplayNameبائٹ
+unitslongunitdigital-bytepatternother{0} بائٹس
+unitslongunitdigital-bytepatternone{0} بائٹ
+unitslongunitfrequency-kilohertzdisplayNameکلوہرٹز
+unitslongunitfrequency-kilohertzpatternother{0} کلوہرٹز
+unitslongunitfrequency-kilohertzpatternone{0} کلوہرٹز
+unitslongunitmass-microgrampatternother{0} مائکرو گرام
+unitslongunitmass-microgrampatternone{0} مائکرو گرام
+unitslongunitmass-microgramdisplayNameمائکرو گرام
+unitslongunitlength-micrometerpatternother{0} مائیکرو میٹر
+unitslongunitlength-micrometerpatternone{0} مائیکرو میٹر
+unitslongunitlength-micrometerdisplayNameمائیکرو میٹر
+unitslongunitpressure-millimeter-of-mercurydisplayNameملی میٹر مرکری
+unitslongunitpressure-millimeter-of-mercurypatternother{0} ملی میٹر مرکری
+unitslongunitpressure-millimeter-of-mercurypatternone{0} ملی میٹر مرکری
+unitslongunitmass-ounce-troydisplayNameٹرائے اونس
+unitslongunitmass-ounce-troypatternother{0} ٹرائے اونس
+unitslongunitmass-ounce-troypatternone{0} ٹرائے اونس
+unitslongunitspeed-meter-per-seconddisplayNameمیٹر فی سیکنڈ
+unitslongunitspeed-meter-per-secondpatternone{0} میٹر فی سیکنڈ
+unitslongunitspeed-meter-per-secondpatternother{0} میٹر فی سیکنڈ
+unitslongunitdigital-kilobitdisplayNameکلوبٹس
+unitslongunitdigital-kilobitpatternone{0} کلوبٹ
+unitslongunitdigital-kilobitpatternother{0} کلوبٹس
+unitslongunitarea-square-mileperUnitPattern{0} فی مربع میل
+unitslongunitarea-square-miledisplayNameمربع میل
+unitslongunitarea-square-milepatternother{0} مربع میل
+unitslongunitarea-square-milepatternone{0} مربع میل
+unitslongunitconcentr-millimole-per-literdisplayNameملی مولس فی لیٹر
+unitslongunitconcentr-millimole-per-literpatternother{0} ملی مول فی لیٹر
+unitslongunitconcentr-millimole-per-literpatternone{0} ملی مول فی لیٹر
+unitslongunitenergy-caloriedisplayNameکیلوریز
+unitslongunitenergy-caloriepatternother{0} کیلوریز
+unitslongunitenergy-caloriepatternone{0} کیلوری
+unitslongunitangle-radiandisplayNameریڈینس
+unitslongunitangle-radianpatternone{0} ریڈین
+unitslongunitangle-radianpatternother{0} ریڈینس
+unitslongunitpower-horsepowerpatternother{0} ہارس پاور
+unitslongunitpower-horsepowerpatternone{0} ہارس پاور
+unitslongunitpower-horsepowerdisplayNameہارس پاور
+unitslongunitlength-decimeterpatternother{0} ڈیسی میٹر
+unitslongunitlength-decimeterpatternone{0} ڈیسی میٹر
+unitslongunitlength-decimeterdisplayNameڈیسی میٹر
+unitslongunitvolume-hectoliterpatternone{0} ہیکٹو لیٹر
+unitslongunitvolume-hectoliterpatternother{0} ہیکٹو لیٹر
+unitslongunitvolume-hectoliterdisplayNameہیکٹو لیٹر
+unitslongunitlength-kilometerpatternother{0} کلو میٹر
+unitslongunitlength-kilometerpatternone{0} کلو میٹر
+unitslongunitlength-kilometerperUnitPattern{0} فی کلومیٹر
+unitslongunitlength-kilometerdisplayNameکلو میٹر
+unitslongunitlength-light-yeardisplayNameنوری سال
+unitslongunitlength-light-yearpatternone{0} نوری سال
+unitslongunitlength-light-yearpatternother{0} نوری سال
+unitslongunitdigital-terabytedisplayNameٹیرابائٹس
+unitslongunitdigital-terabytepatternone{0} ٹیرابائٹ
+unitslongunitdigital-terabytepatternother{0} ٹیرابائٹ
+unitslongunittemperature-celsiuspatternother{0} ڈگری سیلسیس
+unitslongunittemperature-celsiuspatternone{0} ڈگری سیلسیس
+unitslongunittemperature-celsiusdisplayNameڈگری سیلسیس
+unitslongunitdigital-gigabytepatternone{0} گیگابائٹ
+unitslongunitdigital-gigabytepatternother{0} گیگابائٹ
+unitslongunitdigital-gigabytedisplayNameگیگابائٹس
+unitslongunitangle-revolutionpatternone{0} rev
+unitslongunitangle-revolutionpatternother{0} گردش
+unitslongunitangle-revolutiondisplayNameگردش
+unitslongunitmass-metric-tonpatternone{0} میٹرک ٹن
+unitslongunitmass-metric-tonpatternother{0} میٹرک ٹن
+unitslongunitmass-metric-tondisplayNameمیٹرک ٹن
+unitslongunitduration-weekpatternother{0} ہفتے
+unitslongunitduration-weekpatternone{0} ہفتہ
+unitslongunitduration-weekdisplayNameہفتے
+unitslongunitduration-weekperUnitPattern{0} فی ہفتہ
+unitslongunitdigital-megabytedisplayNameميگابائٹس
+unitslongunitdigital-megabytepatternother{0} ميگابائٹس
+unitslongunitdigital-megabytepatternone{0} میگابائٹ
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNameمیل فی امپیریل گیلن
+unitslongunitconsumption-mile-per-gallon-imperialpatternother{0} میل فی امپیریل گیلن
+unitslongunitconsumption-mile-per-gallon-imperialpatternone{0} میل فی امپیریل گیلن
+unitslongunitenergy-kilojouledisplayNameکلو جول
+unitslongunitenergy-kilojoulepatternone{0} کلو جول
+unitslongunitenergy-kilojoulepatternother{0} کلو جول
+unitslongunitmass-ouncepatternother{0} اونس
+unitslongunitmass-ouncepatternone{0} اونس
+unitslongunitmass-ounceperUnitPattern{0} فی اونس
+unitslongunitmass-ouncedisplayNameاونس
+unitslongunitvolume-cuppatternone{0} کپ
+unitslongunitvolume-cuppatternother{0} کپ
+unitslongunitvolume-cupdisplayNameکپ
+unitslongunitspeed-kilometer-per-hourpatternone{0} کلومیٹر فی گھنٹہ
+unitslongunitspeed-kilometer-per-hourpatternother{0} کلومیٹر فی گھنٹہ
+unitslongunitspeed-kilometer-per-hourdisplayNameکلومیٹر فی گھنٹہ
+unitslongunitduration-monthperUnitPattern{0}/m
+unitslongunitduration-monthdisplayNameمہینے
+unitslongunitduration-monthpatternone{0} مہینہ
+unitslongunitduration-monthpatternother{0} مہینے
+unitslongunitelectric-milliamperedisplayNameملی ایمپیئر
+unitslongunitelectric-milliamperepatternother{0} ملی ایمپیئر
+unitslongunitelectric-milliamperepatternone{0} ملی ایمپیئر
+unitslongunitlength-millimeterpatternone{0} ملیمیٹر
+unitslongunitlength-millimeterpatternother{0} ملیمیٹر
+unitslongunitlength-millimeterdisplayNameملی میٹر
+unitslongunitlength-miledisplayNameمیل
+unitslongunitlength-milepatternone{0} میل
+unitslongunitlength-milepatternother{0} میل
+unitslongunitdigital-bitpatternone{0} بٹ
+unitslongunitdigital-bitpatternother{0} بٹس
+unitslongunitdigital-bitdisplayNameبٹس
+unitslongunitlength-pointdisplayNameپوائنٹس
+unitslongunitlength-pointpatternone{0} پوائنٹ
+unitslongunitlength-pointpatternother{0} پوائنٹس
+unitslongunitpower-wattpatternother{0} واٹ
+unitslongunitpower-wattpatternone{0} واٹ
+unitslongunitpower-wattdisplayNameواٹ
+unitslongunitlength-mile-scandinavianpatternone{0} اسکینڈی نیویائی میل
+unitslongunitlength-mile-scandinavianpatternother{0} اسکینڈی نیویائی میل
+unitslongunitlength-mile-scandinaviandisplayNameاسکینڈی نیویائی میل
+unitslongunitlength-nautical-milepatternone{0} بحری میل
+unitslongunitlength-nautical-milepatternother{0} بحری میل
+unitslongunitlength-nautical-miledisplayNameبحری میل
+unitslongunitspeed-knotdisplayNameناٹس
+unitslongunitspeed-knotpatternone{0} ناٹ
+unitslongunitspeed-knotpatternother{0} ناٹس
+unitslongunitduration-yearperUnitPatternفی سال {0}
+unitslongunitduration-yeardisplayNameسال
+unitslongunitduration-yearpatternone{0} سال
+unitslongunitduration-yearpatternother{0} سال
+unitslongunitdigital-megabitdisplayNameمیگابٹس
+unitslongunitdigital-megabitpatternone{0} میگابٹ
+unitslongunitdigital-megabitpatternother{0} میگابٹس
+unitslongunitconcentr-milligram-per-deciliterdisplayNameملی گرام فی ڈیسی لیٹر
+unitslongunitconcentr-milligram-per-deciliterpatternone{0} ملی گرام فی ڈیسی لیٹر
+unitslongunitconcentr-milligram-per-deciliterpatternother{0} ملی گرام فی ڈیسی لیٹر
+unitslongunitarea-square-meterperUnitPattern{0} فی مربع میٹر
+unitslongunitarea-square-meterdisplayNameمربع میٹر
+unitslongunitarea-square-meterpatternone{0} مربع میٹر
+unitslongunitarea-square-meterpatternother{0} مربع میٹر
+unitslongunitlength-footpatternother{0} فیٹ
+unitslongunitlength-footpatternone{0} فیٹ
+unitslongunitlength-footdisplayNameفیٹ
+unitslongunitlength-footperUnitPattern{0} فی فوٹ
+unitslongunitpower-gigawattpatternone{0} گیگا واٹ
+unitslongunitpower-gigawattpatternother{0} گیگا واٹ
+unitslongunitpower-gigawattdisplayNameگیگا واٹ
+unitslongunitmass-milligramdisplayNameملی گرام
+unitslongunitmass-milligrampatternother{0} ملی گرام
+unitslongunitmass-milligrampatternone{0} ملی گرام
+unitslongunitpower-kilowattpatternother{0} کلو واٹ
+unitslongunitpower-kilowattpatternone{0} کلو واٹ
+unitslongunitpower-kilowattdisplayNameکلو واٹ
+unitslongunitvolume-gallon-imperialperUnitPattern{0} فی امپیریل گیلن
+unitslongunitvolume-gallon-imperialdisplayNameامپیریل گیلن
+unitslongunitvolume-gallon-imperialpatternother{0} امپیریل گیلن
+unitslongunitvolume-gallon-imperialpatternone{0} امپیریل گیلن
+unitslongunitvolume-acre-footdisplayNameایکڑ فٹ
+unitslongunitvolume-acre-footpatternone{0} ایکڑ فٹ
+unitslongunitvolume-acre-footpatternother{0} ایکڑ فٹ
+unitslongunitangle-arc-seconddisplayNameآرک سیکنڈ
+unitslongunitangle-arc-secondpatternother{0} آرک سیکنڈ
+unitslongunitangle-arc-secondpatternone{0} آرک سیکنڈ
+unitslongunitvolume-literperUnitPattern{0} فی لیٹر
+unitslongunitvolume-literdisplayNameلیٹر
+unitslongunitvolume-literpatternone{0} لیٹر
+unitslongunitvolume-literpatternother{0} لیٹر
+unitslongunitpower-megawattdisplayNameمیگا واٹ
+unitslongunitpower-megawattpatternother{0} میگا واٹ
+unitslongunitpower-megawattpatternone{0} میگا واٹ
+unitslongunitvolume-cubic-meterpatternother{0} کیوبک میٹر
+unitslongunitvolume-cubic-meterpatternone{0} کیوبک میٹر
+unitslongunitvolume-cubic-meterdisplayNameکیوبک میٹر
+unitslongunitvolume-cubic-meterperUnitPattern{0} فی کیوبک میٹر
+unitslongunitangle-arc-minutepatternone{0} آرک منٹ
+unitslongunitangle-arc-minutepatternother{0} آرک منٹ
+unitslongunitangle-arc-minutedisplayNameآرک منٹ
+unitslongunitduration-nanosecondpatternother{0} نینو سیکنڈ
+unitslongunitduration-nanosecondpatternone{0} نینو سیکنڈ
+unitslongunitduration-nanoseconddisplayNameنینو سیکنڈز
+unitslongunitfrequency-megahertzpatternother{0} میگاہرٹز
+unitslongunitfrequency-megahertzpatternone{0} میگاہرٹز
+unitslongunitfrequency-megahertzdisplayNameمیگاہرٹز
+unitslongunitduration-hourpatternother{0} گھنٹے
+unitslongunitduration-hourpatternone{0} گھنٹہ
+unitslongunitduration-hourperUnitPattern{0} فی گھنٹہ
+unitslongunitduration-hourdisplayNameگھنٹے
+unitslongunitlength-centimeterpatternother{0} سینٹی میٹر
+unitslongunitlength-centimeterpatternone{0} سینٹی میٹر
+unitslongunitlength-centimeterdisplayNameسینٹی میٹر
+unitslongunitlength-centimeterperUnitPattern{0} فی سینٹی میٹر
+unitslongunitvolume-fluid-ouncepatternother{0} فلوئڈ اونس
+unitslongunitvolume-fluid-ouncepatternone{0} فلوئڈ اونس
+unitslongunitvolume-fluid-ouncedisplayNameفلوئڈ اونس
+unitslongunitmass-grampatternone{0} گرام
+unitslongunitmass-grampatternother{0} گرام
+unitslongunitmass-gramperUnitPattern{0} فی گرام
+unitslongunitmass-gramdisplayNameگرام
+unitslongunitlength-parsecpatternone{0} پارسیک
+unitslongunitlength-parsecpatternother{0} پارسیک
+unitslongunitlength-parsecdisplayNameپارسیک
+unitslongunitdigital-gigabitdisplayNameگیگابٹس
+unitslongunitdigital-gigabitpatternother{0} گیگابٹس
+unitslongunitdigital-gigabitpatternone{0} گیگابٹ
+unitslongunitvolume-cubic-inchdisplayNameکیوبک انچ
+unitslongunitvolume-cubic-inchpatternother{0} کیوبک انچ
+unitslongunitvolume-cubic-inchpatternone{0} کیوبک انچ
+unitslongunittemperature-genericpatternother{0}°
+unitslongunittemperature-genericpatternone{0}°
+unitslongunittemperature-genericdisplayName°
+unitslongunitconcentr-karatpatternone{0} قیراط
+unitslongunitconcentr-karatpatternother{0} قیراط
+unitslongunitconcentr-karatdisplayNameقیراط
+unitslongunitfrequency-gigahertzpatternone{0} گیگاہرٹز
+unitslongunitfrequency-gigahertzpatternother{0} گیگاہرٹز
+unitslongunitfrequency-gigahertzdisplayNameگیگاہرٹز
+unitslongunitvolume-tablespoondisplayNameٹیبل سپون
+unitslongunitvolume-tablespoonpatternone{0} ٹیبل سپون
+unitslongunitvolume-tablespoonpatternother{0} ٹیبل سپون
+unitslongunitarea-square-yarddisplayNameمربع گز
+unitslongunitarea-square-yardpatternone{0} مربع گز
+unitslongunitarea-square-yardpatternother{0} مربع گز
+unitslongunitpressure-pound-per-square-inchdisplayNameپاؤنڈز فی مربع انچ
+unitslongunitpressure-pound-per-square-inchpatternother{0} پاؤنڈز فی مربع انچ
+unitslongunitpressure-pound-per-square-inchpatternone{0} پاؤنڈ فی مربع انچ
+unitslongunitconcentr-part-per-millionpatternone{0} فی ملین حصے
+unitslongunitconcentr-part-per-millionpatternother{0} فی ملین حصے
+unitslongunitconcentr-part-per-milliondisplayNameفی ملین حصے
+unitslongunitvolume-gallonpatternother{0} گیلن
+unitslongunitvolume-gallonpatternone{0} گیلن
+unitslongunitvolume-gallonperUnitPattern{0} فی گیلن
+unitslongunitvolume-gallondisplayNameگیلن
+unitslongunitmass-poundpatternone{0} پاؤنڈ
+unitslongunitmass-poundpatternother{0} پاؤنڈ
+unitslongunitmass-pounddisplayNameپاؤنڈ
+unitslongunitmass-poundperUnitPattern{0} فی پاؤنڈ
+unitslongcoordinateUnitdisplayNameکارڈینل ڈائریکشن
+unitslongcoordinateUnitsouth{0} جنوب
+unitslongcoordinateUnitnorth{0} شمال
+unitslongcoordinateUnitwest{0} مغرب
+unitslongcoordinateUniteast{0} مشرق
+unitslongcompoundUnitperpattern{0} فی {1}
+unitsshortcompoundUnitperpattern{0}/{1}
+unitsshortunitvolume-cubic-inchdisplayNameکیوبک انچ
+unitsshortunitvolume-cubic-inchpatternother{0} in³
+unitsshortunitvolume-cubic-inchpatternone{0} in³
+unitsshortunitdigital-gigabitdisplayNameGbit
+unitsshortunitdigital-gigabitpatternother{0} Gb
+unitsshortunitdigital-gigabitpatternone{0} Gb
+unitsshortunittemperature-genericdisplayName°
+unitsshortunittemperature-genericpatternone{0}°
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunitconcentr-karatdisplayNameقیراط
+unitsshortunitconcentr-karatpatternone{0} kt
+unitsshortunitconcentr-karatpatternother{0} kt
+unitsshortunitlength-parsecpatternone{0} pc
+unitsshortunitlength-parsecpatternother{0} pc
+unitsshortunitlength-parsecdisplayNameپارسیک
+unitsshortunitvolume-fluid-ouncedisplayNamefl oz
+unitsshortunitvolume-fluid-ouncepatternother{0} fl oz
+unitsshortunitvolume-fluid-ouncepatternone{0} fl oz
+unitsshortunitlength-centimeterpatternother{0} سینٹی میٹر
+unitsshortunitlength-centimeterpatternone{0} سینٹی میٹر
+unitsshortunitlength-centimeterperUnitPattern{0}/cm
+unitsshortunitlength-centimeterdisplayNameسینٹی میٹر
+unitsshortunitmass-gramdisplayNameگرام
+unitsshortunitmass-gramperUnitPattern{0}/g
+unitsshortunitmass-grampatternother{0} g
+unitsshortunitmass-grampatternone{0} g
+unitsshortunitconcentr-part-per-millionpatternone{0} ppm
+unitsshortunitconcentr-part-per-millionpatternother{0} ppm
+unitsshortunitconcentr-part-per-milliondisplayNameحصے/ملین
+unitsshortunitvolume-gallonpatternone{0} gal
+unitsshortunitvolume-gallonpatternother{0} gal
+unitsshortunitvolume-gallonperUnitPattern{0}/gal
+unitsshortunitvolume-gallondisplayNamegal
+unitsshortunitmass-pounddisplayNameپاؤنڈ
+unitsshortunitmass-poundperUnitPattern{0}/lb
+unitsshortunitmass-poundpatternone{0} lb
+unitsshortunitmass-poundpatternother{0} lb
+unitsshortunitfrequency-gigahertzpatternone{0} GHz
+unitsshortunitfrequency-gigahertzpatternother{0} GHz
+unitsshortunitfrequency-gigahertzdisplayNameGHz
+unitsshortunitvolume-tablespoondisplayNametbsp
+unitsshortunitvolume-tablespoonpatternone{0} tbsp
+unitsshortunitvolume-tablespoonpatternother{0} tbsp
+unitsshortunitarea-square-yarddisplayNameمربع گز
+unitsshortunitarea-square-yardpatternother{0} yd²
+unitsshortunitarea-square-yardpatternone{0} yd²
+unitsshortunitpressure-pound-per-square-inchdisplayNamepsi
+unitsshortunitpressure-pound-per-square-inchpatternother{0} psi
+unitsshortunitpressure-pound-per-square-inchpatternone{0} psi
+unitsshortunitpower-megawattdisplayNameMW
+unitsshortunitpower-megawattpatternone{0} MW
+unitsshortunitpower-megawattpatternother{0} MW
+unitsshortunitvolume-literperUnitPattern{0} فی لیٹر
+unitsshortunitvolume-literdisplayNameلیٹر
+unitsshortunitvolume-literpatternone{0} لیٹر
+unitsshortunitvolume-literpatternother{0} لیٹر
+unitsshortunitvolume-cubic-meterpatternother{0} m³
+unitsshortunitvolume-cubic-meterpatternone{0} m³
+unitsshortunitvolume-cubic-meterdisplayNamem³
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/m³
+unitsshortunitvolume-gallon-imperialperUnitPattern{0}/gal Imp.
+unitsshortunitvolume-gallon-imperialdisplayNameImp. gal
+unitsshortunitvolume-gallon-imperialpatternone{0} gal Imp.
+unitsshortunitvolume-gallon-imperialpatternother{0} gal Imp.
+unitsshortunitvolume-acre-footpatternother{0} ac ft
+unitsshortunitvolume-acre-footpatternone{0} ac ft
+unitsshortunitvolume-acre-footdisplayNameایکڑ فٹ
+unitsshortunitangle-arc-seconddisplayNameآرک سیکنڈ
+unitsshortunitangle-arc-secondpatternone{0} آرک سیکنڈ
+unitsshortunitangle-arc-secondpatternother{0} آرک سیکنڈ
+unitsshortunitpower-kilowattpatternone{0} کلو واٹ
+unitsshortunitpower-kilowattpatternother{0} کلو واٹ
+unitsshortunitpower-kilowattdisplayNamekW
+unitsshortunitduration-hourdisplayNameگھنٹے
+unitsshortunitduration-hourperUnitPattern{0} فی گھنٹہ
+unitsshortunitduration-hourpatternother{0} گھنٹے
+unitsshortunitduration-hourpatternone{0} گھنٹہ
+unitsshortunitduration-nanoseconddisplayNameنینو سیکنڈز
+unitsshortunitduration-nanosecondpatternone{0} نینو سیکنڈ
+unitsshortunitduration-nanosecondpatternother{0} نینو سیکنڈ
+unitsshortunitangle-arc-minutedisplayNameآرک منٹ
+unitsshortunitangle-arc-minutepatternother{0} آرک منٹ
+unitsshortunitangle-arc-minutepatternone{0} آرک منٹ
+unitsshortunitfrequency-megahertzdisplayNameMHz
+unitsshortunitfrequency-megahertzpatternother{0} MHz
+unitsshortunitfrequency-megahertzpatternone{0} MHz
+unitsshortunitvolume-cupdisplayNameکپ
+unitsshortunitvolume-cuppatternother{0} c
+unitsshortunitvolume-cuppatternone{0} c
+unitsshortunitspeed-kilometer-per-hourpatternother{0} kph
+unitsshortunitspeed-kilometer-per-hourpatternone{0} kph
+unitsshortunitspeed-kilometer-per-hourdisplayNameکلومیٹر/گھنٹہ
+unitsshortunitduration-monthpatternother{0} مہینے
+unitsshortunitduration-monthpatternone{0} مہینہ
+unitsshortunitduration-monthperUnitPattern{0}/m
+unitsshortunitduration-monthdisplayNameمہینے
+unitsshortunitelectric-milliamperedisplayNamemilliamps
+unitsshortunitelectric-milliamperepatternone{0} mA
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitlength-millimeterpatternone{0} ملیمیٹر
+unitsshortunitlength-millimeterpatternother{0} ملیمیٹر
+unitsshortunitlength-millimeterdisplayNameملی میٹر
+unitsshortunitlength-miledisplayNameمیل
+unitsshortunitlength-milepatternone{0} میل
+unitsshortunitlength-milepatternother{0} میل
+unitsshortunitdigital-bitdisplayNamebit
+unitsshortunitdigital-bitpatternother{0} bit
+unitsshortunitdigital-bitpatternone{0} bit
+unitsshortunitlength-mile-scandinaviandisplayNamesmi
+unitsshortunitlength-mile-scandinavianpatternone{0} smi
+unitsshortunitlength-mile-scandinavianpatternother{0} smi
+unitsshortunitlength-pointdisplayNamept
+unitsshortunitlength-pointpatternother{0} pt
+unitsshortunitlength-pointpatternone{0} pt
+unitsshortunitpower-wattdisplayNameواٹ
+unitsshortunitpower-wattpatternother{0} واٹ
+unitsshortunitpower-wattpatternone{0} واٹ
+unitsshortunitduration-yeardisplayNameسال
+unitsshortunitduration-yearperUnitPattern{0}/y
+unitsshortunitduration-yearpatternone{0} سال
+unitsshortunitduration-yearpatternother{0} سال
+unitsshortunitdigital-megabitdisplayNameMb
+unitsshortunitdigital-megabitpatternother{0} Mb
+unitsshortunitdigital-megabitpatternone{0} Mb
+unitsshortunitarea-square-meterperUnitPattern{0}/m²
+unitsshortunitarea-square-meterdisplayNameمربع میٹر
+unitsshortunitarea-square-meterpatternone{0} m²
+unitsshortunitarea-square-meterpatternother{0} m²
+unitsshortunitlength-footdisplayNameفیٹ
+unitsshortunitlength-footperUnitPattern{0}/ft
+unitsshortunitlength-footpatternone{0} فیٹ
+unitsshortunitlength-footpatternother{0} فیٹ
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternone{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemg/dL
+unitsshortunitpower-gigawattdisplayNameGW
+unitsshortunitpower-gigawattpatternone{0} GW
+unitsshortunitpower-gigawattpatternother{0} GW
+unitsshortunitmass-milligrampatternother{0} mg
+unitsshortunitmass-milligrampatternone{0} mg
+unitsshortunitmass-milligramdisplayNamemg
+unitsshortunitlength-nautical-miledisplayNamenmi
+unitsshortunitlength-nautical-milepatternother{0} nmi
+unitsshortunitlength-nautical-milepatternone{0} nmi
+unitsshortunitspeed-knotpatternone{0} kn
+unitsshortunitspeed-knotpatternother{0} kn
+unitsshortunitspeed-knotdisplayNamekn
+unitsshortunitvolume-hectoliterdisplayNamehL
+unitsshortunitvolume-hectoliterpatternother{0} hL
+unitsshortunitvolume-hectoliterpatternone{0} hL
+unitsshortunitlength-kilometerperUnitPattern{0} فی کلو میٹر
+unitsshortunitlength-kilometerdisplayNameکلو میٹر
+unitsshortunitlength-kilometerpatternone{0} کلو میٹر
+unitsshortunitlength-kilometerpatternother{0} کلو میٹر
+unitsshortunitlength-decimeterdisplayNamedm
+unitsshortunitlength-decimeterpatternone{0} dm
+unitsshortunitlength-decimeterpatternother{0} dm
+unitsshortunitlength-light-yeardisplayNameنوری سال
+unitsshortunitlength-light-yearpatternone{0} ly
+unitsshortunitlength-light-yearpatternother{0} ly
+unitsshortunitconcentr-millimole-per-literpatternone{0} mmol/L
+unitsshortunitconcentr-millimole-per-literpatternother{0} mmol/L
+unitsshortunitconcentr-millimole-per-literdisplayNameملی مول/لیٹر
+unitsshortunitarea-square-milepatternother{0} sq mi
+unitsshortunitarea-square-milepatternone{0} sq mi
+unitsshortunitarea-square-miledisplayNameمربع میل
+unitsshortunitarea-square-mileperUnitPattern{0}/mi²
+unitsshortunitenergy-caloriedisplayNamecal
+unitsshortunitenergy-caloriepatternone{0} cal
+unitsshortunitenergy-caloriepatternother{0} cal
+unitsshortunitangle-radiandisplayNameریڈینس
+unitsshortunitangle-radianpatternone{0} rad
+unitsshortunitangle-radianpatternother{0} rad
+unitsshortunitpower-horsepowerdisplayNamehp
+unitsshortunitpower-horsepowerpatternother{0} hp
+unitsshortunitpower-horsepowerpatternone{0} hp
+unitsshortunitduration-weekpatternother{0} ہفتے
+unitsshortunitduration-weekpatternone{0} ہفتہ
+unitsshortunitduration-weekdisplayNameہفتے
+unitsshortunitduration-weekperUnitPattern{0} فی ہفتہ
+unitsshortunitdigital-megabytedisplayNameMByte
+unitsshortunitdigital-megabytepatternone{0} MB
+unitsshortunitdigital-megabytepatternother{0} MB
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} mpg Imp.
+unitsshortunitconsumption-mile-per-gallon-imperialpatternone{0} mpg Imp.
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNamemiles/gal Imp.
+unitsshortunitenergy-kilojoulepatternother{0} kJ
+unitsshortunitenergy-kilojoulepatternone{0} kJ
+unitsshortunitenergy-kilojouledisplayNamekJ
+unitsshortunitmass-ounceperUnitPattern{0}/oz
+unitsshortunitmass-ouncedisplayNameoz
+unitsshortunitmass-ouncepatternother{0} oz
+unitsshortunitmass-ouncepatternone{0} oz
+unitsshortunittemperature-celsiuspatternone{0}‎°C
+unitsshortunittemperature-celsiuspatternother{0}‎°C
+unitsshortunittemperature-celsiusdisplayNameڈگری سیلسیس
+unitsshortunitdigital-gigabytepatternone{0} GB
+unitsshortunitdigital-gigabytepatternother{0} GB
+unitsshortunitdigital-gigabytedisplayNameGB
+unitsshortunitdigital-terabytedisplayNameTB
+unitsshortunitdigital-terabytepatternone{0} TB
+unitsshortunitdigital-terabytepatternother{0} TB
+unitsshortunitangle-revolutiondisplayNamerev
+unitsshortunitangle-revolutionpatternother{0} rev
+unitsshortunitangle-revolutionpatternone{0} rev
+unitsshortunitmass-metric-tondisplayNamet
+unitsshortunitmass-metric-tonpatternother{0} t
+unitsshortunitmass-metric-tonpatternone{0} t
+unitsshortunitvolume-pintpatternother{0} pt
+unitsshortunitvolume-pintpatternone{0} pt
+unitsshortunitvolume-pintdisplayNamept
+unitsshortunitvolume-pint-metricdisplayNamempt
+unitsshortunitvolume-pint-metricpatternother{0} mpt
+unitsshortunitvolume-pint-metricpatternone{0} mpt
+unitsshortunitduration-microseconddisplayNameمائیکرو سیکنڈ
+unitsshortunitduration-microsecondpatternother{0} مائیکرو سیکنڈ
+unitsshortunitduration-microsecondpatternone{0} مائیکرو سیکنڈ
+unitsshortunitenergy-kilowatt-hourpatternother{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternone{0} kWh
+unitsshortunitenergy-kilowatt-hourdisplayNamekW-hour
+unitsshortunitarea-square-inchdisplayNameمربع انچ
+unitsshortunitarea-square-inchperUnitPattern{0}/in²
+unitsshortunitarea-square-inchpatternother{0} in²
+unitsshortunitarea-square-inchpatternone{0} in²
+unitsshortunitfrequency-hertzpatternone{0} Hz
+unitsshortunitfrequency-hertzpatternother{0} Hz
+unitsshortunitfrequency-hertzdisplayNameHz
+unitsshortunitlength-inchpatternother{0} in
+unitsshortunitlength-inchpatternone{0} انچ
+unitsshortunitlength-inchperUnitPattern{0}/in
+unitsshortunitlength-inchdisplayNameانچ
+unitsshortunitpressure-atmospheredisplayNameatm
+unitsshortunitpressure-atmospherepatternone{0} atm
+unitsshortunitpressure-atmospherepatternother{0} atm
+unitsshortunitvolume-cubic-centimeterpatternother{0} cm³
+unitsshortunitvolume-cubic-centimeterpatternone{0} cm³
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/cm³
+unitsshortunitvolume-cubic-centimeterdisplayNameکیوبک سینٹی میٹر
+unitsshortunitvolume-quartpatternother{0} qt
+unitsshortunitvolume-quartpatternone{0} qt
+unitsshortunitvolume-quartdisplayNameqts
+unitsshortunitvolume-cubic-footdisplayNameکیوبک فٹ
+unitsshortunitvolume-cubic-footpatternone{0} ft³
+unitsshortunitvolume-cubic-footpatternother{0} ft³
+unitsshortunitconsumption-mile-per-gallonpatternone{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatternother{0} mpg
+unitsshortunitconsumption-mile-per-gallondisplayNamempg
+unitsshortunitenergy-kilocaloriedisplayNamekcal
+unitsshortunitenergy-kilocaloriepatternother{0} kcal
+unitsshortunitenergy-kilocaloriepatternone{0} kcal
+unitsshortunitmass-tondisplayNameٹن
+unitsshortunitmass-tonpatternother{0} tn
+unitsshortunitmass-tonpatternone{0} tn
+unitsshortunitlength-nanometerdisplayNamenm
+unitsshortunitlength-nanometerpatternother{0} nm
+unitsshortunitlength-nanometerpatternone{0} nm
+unitsshortunitdigital-kilobitdisplayNamekbit
+unitsshortunitdigital-kilobitpatternother{0} kb
+unitsshortunitdigital-kilobitpatternone{0} kb
+unitsshortunitspeed-meter-per-seconddisplayNameمیٹر فی سیکنڈ
+unitsshortunitspeed-meter-per-secondpatternother{0} m/s
+unitsshortunitspeed-meter-per-secondpatternone{0} m/s
+unitsshortunitelectric-amperedisplayNameamps
+unitsshortunitelectric-amperepatternother{0} A
+unitsshortunitelectric-amperepatternone{0} A
+unitsshortunitvolume-cubic-kilometerpatternone{0} km³
+unitsshortunitvolume-cubic-kilometerpatternother{0} km³
+unitsshortunitvolume-cubic-kilometerdisplayNamekm³
+unitsshortunitdigital-bytedisplayNameبائٹ
+unitsshortunitdigital-bytepatternone{0} byte
+unitsshortunitdigital-bytepatternother{0} byte
+unitsshortunitfrequency-kilohertzpatternother{0} kHz
+unitsshortunitfrequency-kilohertzpatternone{0} kHz
+unitsshortunitfrequency-kilohertzdisplayNamekHz
+unitsshortunitlength-micrometerpatternone{0} µm
+unitsshortunitlength-micrometerpatternother{0} µm
+unitsshortunitlength-micrometerdisplayNameµm
+unitsshortunitmass-microgrampatternother{0} µg
+unitsshortunitmass-microgrampatternone{0} µg
+unitsshortunitmass-microgramdisplayNameµg
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternone{0} mm Hg
+unitsshortunitmass-ounce-troydisplayNameoz t
+unitsshortunitmass-ounce-troypatternother{0} oz t
+unitsshortunitmass-ounce-troypatternone{0} oz t
+unitsshortunitvolume-teaspoonpatternone{0} tsp
+unitsshortunitvolume-teaspoonpatternother{0} tsp
+unitsshortunitvolume-teaspoondisplayNametsp
+unitsshortunitduration-daypatternother{0} دن
+unitsshortunitduration-daypatternone{0} دن
+unitsshortunitduration-dayperUnitPattern{0} فی دن
+unitsshortunitduration-daydisplayNameدن
+unitsshortunitmass-kilogrampatternone{0} kg
+unitsshortunitmass-kilogrampatternother{0} kg
+unitsshortunitmass-kilogramperUnitPattern{0}/kg
+unitsshortunitmass-kilogramdisplayNamekg
+unitsshortunitlength-yarddisplayNameگز
+unitsshortunitlength-yardpatternone{0} یارڈ
+unitsshortunitlength-yardpatternother{0} یارڈ
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitpressure-inch-hgdisplayNameinHg
+unitsshortunitduration-minutedisplayNameمنٹ
+unitsshortunitduration-minuteperUnitPattern{0} فی منٹ
+unitsshortunitduration-minutepatternone{0} منٹ
+unitsshortunitduration-minutepatternother{0} منٹ
+unitsshortunitlength-meterperUnitPattern{0}/m
+unitsshortunitlength-meterdisplayNameمیٹر
+unitsshortunitlength-meterpatternother{0} میٹر
+unitsshortunitlength-meterpatternone{0} میٹر
+unitsshortunitpressure-millibardisplayNamembar
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitpressure-millibarpatternone{0} mbar
+unitsshortunitvolume-centiliterpatternother{0} cL
+unitsshortunitvolume-centiliterpatternone{0} cL
+unitsshortunitvolume-centiliterdisplayNameسینٹی لیٹر
+unitsshortunitdigital-terabitpatternother{0} Tb
+unitsshortunitdigital-terabitpatternone{0} Tb
+unitsshortunitdigital-terabitdisplayNameTbit
+unitsshortunitvolume-cubic-yarddisplayNameکیوبک گز
+unitsshortunitvolume-cubic-yardpatternother{0} yd³
+unitsshortunitvolume-cubic-yardpatternone{0} yd³
+unitsshortunitmass-stonepatternone{0} st
+unitsshortunitmass-stonepatternother{0} st
+unitsshortunitmass-stonedisplayNamest
+unitsshortunitduration-milliseconddisplayNameملی سیکنڈ
+unitsshortunitduration-millisecondpatternother{0} ملی سیکنڈ
+unitsshortunitduration-millisecondpatternone{0} ملی سیکنڈ
+unitsshortunitduration-centurydisplayNameصدی
+unitsshortunitduration-centurypatternother{0} صدیاں
+unitsshortunitduration-centurypatternone{0} صدی
+unitsshortunitelectric-voltdisplayNameوولٹ
+unitsshortunitelectric-voltpatternother{0} V
+unitsshortunitelectric-voltpatternone{0} V
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunittemperature-kelvinpatternone{0} K
+unitsshortunitdigital-petabytedisplayNameپی بائٹ
+unitsshortunitdigital-petabytepatternone{0} پی بی
+unitsshortunitdigital-petabytepatternother{0} پی بی
+unitsshortunitlength-picometerdisplayNameپیکو میٹر
+unitsshortunitlength-picometerpatternother{0} پیکو میٹر
+unitsshortunitlength-picometerpatternone{0} پیکو میٹر
+unitsshortunitconcentr-permilledisplayNameفی ہزار
+unitsshortunitconcentr-permillepatternother{0}‰
+unitsshortunitconcentr-permillepatternone{0}‰
+unitsshortunitlight-luxdisplayNamelux
+unitsshortunitlight-luxpatternone{0} lx
+unitsshortunitlight-luxpatternother{0} lx
+unitsshortunittemperature-fahrenheitpatternother{0}‎°F
+unitsshortunittemperature-fahrenheitpatternone{0}‎°F
+unitsshortunittemperature-fahrenheitdisplayNameڈگری فارن ہائیٹ
+unitsshortunitconcentr-percentdisplayNameفیصد
+unitsshortunitconcentr-percentpatternone{0}%
+unitsshortunitconcentr-percentpatternother{0}%
+unitsshortunitspeed-mile-per-hourdisplayNameمیل فی گھنٹہ
+unitsshortunitspeed-mile-per-hourpatternother{0} mph
+unitsshortunitspeed-mile-per-hourpatternone{0} mph
+unitsshortunitarea-acredisplayNameایکڑ
+unitsshortunitarea-acrepatternone{0} ایکڑ
+unitsshortunitarea-acrepatternother{0} ایکڑ
+unitsshortunitangle-degreepatternone{0} ڈگری
+unitsshortunitangle-degreepatternother{0} ڈگری
+unitsshortunitangle-degreedisplayNameڈگری
+unitsshortunitacceleration-meter-per-second-squareddisplayNamem/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} m/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternone{0} m/s²
+unitsshortunitenergy-joulepatternone{0} J
+unitsshortunitenergy-joulepatternother{0} J
+unitsshortunitenergy-jouledisplayNamejoule
+unitsshortunitpower-milliwattpatternone{0} mW
+unitsshortunitpower-milliwattpatternother{0} mW
+unitsshortunitpower-milliwattdisplayNamemW
+unitsshortunitvolume-cubic-miledisplayNameکیوبک میل
+unitsshortunitvolume-cubic-milepatternone{0} کیوبک میل
+unitsshortunitvolume-cubic-milepatternother{0} کیوبک میل
+unitsshortunitvolume-cup-metricdisplayNamemcup
+unitsshortunitvolume-cup-metricpatternother{0} mc
+unitsshortunitvolume-cup-metricpatternone{0} mc
+unitsshortunitconsumption-liter-per-kilometerdisplayNameL/km
+unitsshortunitconsumption-liter-per-kilometerpatternone{0} L/km
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} L/km
+unitsshortunitarea-hectaredisplayNameہیکٹر
+unitsshortunitarea-hectarepatternone{0} ہیکٹر
+unitsshortunitarea-hectarepatternother{0} ہیکٹر
+unitsshortunitmass-caratdisplayNameقیراط
+unitsshortunitmass-caratpatternother{0} CD
+unitsshortunitmass-caratpatternone{0} CD
+unitsshortunitvolume-milliliterdisplayNamemL
+unitsshortunitvolume-milliliterpatternother{0} mL
+unitsshortunitvolume-milliliterpatternone{0} mL
+unitsshortunitpressure-hectopascalpatternone{0} hPa
+unitsshortunitpressure-hectopascalpatternother{0} hPa
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitenergy-foodcaloriedisplayNameCal
+unitsshortunitenergy-foodcaloriepatternother{0} Cal
+unitsshortunitenergy-foodcaloriepatternone{0} Cal
+unitsshortunitdigital-kilobytepatternother{0} kB
+unitsshortunitdigital-kilobytepatternone{0} kB
+unitsshortunitdigital-kilobytedisplayNamekByte
+unitsshortunitvolume-deciliterdisplayNameڈیسی لیٹر
+unitsshortunitvolume-deciliterpatternother{0} dL
+unitsshortunitvolume-deciliterpatternone{0} dL
+unitsshortunitduration-secondpatternone{0} سیکنڈ
+unitsshortunitduration-secondpatternother{0} سیکنڈ
+unitsshortunitduration-seconddisplayNameسیکنڈ
+unitsshortunitduration-secondperUnitPattern{0} فی سیکنڈ
+unitsshortunitarea-square-footpatternother{0} sq ft
+unitsshortunitarea-square-footpatternone{0} sq ft
+unitsshortunitarea-square-footdisplayNameمربع فٹ
+unitsshortunitarea-square-centimeterpatternone{0} cm²
+unitsshortunitarea-square-centimeterpatternother{0} cm²
+unitsshortunitarea-square-centimeterperUnitPattern{0}/cm²
+unitsshortunitarea-square-centimeterdisplayNamecm²
+unitsshortunitlength-astronomical-unitpatternother{0} au
+unitsshortunitlength-astronomical-unitpatternone{0} au
+unitsshortunitlength-astronomical-unitdisplayNameau
+unitsshortunitvolume-megaliterpatternone{0} ML
+unitsshortunitvolume-megaliterpatternother{0} ML
+unitsshortunitvolume-megaliterdisplayNameML
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitelectric-ohmpatternone{0} Ω
+unitsshortunitelectric-ohmdisplayNameاوہم
+unitsshortunitconsumption-liter-per-100kilometersdisplayNameلیٹر/100 کلو میٹر
+unitsshortunitconsumption-liter-per-100kilometerspatternone{0} L/100km
+unitsshortunitconsumption-liter-per-100kilometerspatternother{0} L/100km
+unitsshortunitacceleration-g-forcedisplayNameجی-فورس
+unitsshortunitacceleration-g-forcepatternother{0} G
+unitsshortunitacceleration-g-forcepatternone{0} G
+unitsshortunitarea-square-kilometerperUnitPattern{0}/km²
+unitsshortunitarea-square-kilometerdisplayNamekm²
+unitsshortunitarea-square-kilometerpatternone{0} km²
+unitsshortunitarea-square-kilometerpatternother{0} km²
+unitsshortcoordinateUnitnorth{0}N
+unitsshortcoordinateUnitsouth{0}S
+unitsshortcoordinateUnitdisplayNameڈائریکشن
+unitsshortcoordinateUnitwest{0}W
+unitsshortcoordinateUniteast{0}E
+numberssymbolsarabextdecimal٫
+numberssymbolsarabextlist;
+numberssymbolsarabextminusSign‎-‎
+numberssymbolsarabextplusSign‎+‎
+numberssymbolsarabextsuperscriptingExponent×
+numberssymbolsarabextpercentSign%
+numberssymbolsarabextperMille‰
+numberssymbolsarabextnanNaN
+numberssymbolsarabextinfinity∞
+numberssymbolsarabextexponential×۱۰^
+numberssymbolsarabextgroup٬
+numberssymbolslatndecimal.
+numberssymbolslatnlist;
+numberssymbolslatnminusSign‎-
+numberssymbolslatntimeSeparator:
+numberssymbolslatnplusSign‎+
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnpercentSign%
+numberssymbolslatnperMille‰
+numberssymbolslatnnanNaN
+numberssymbolslatnexponentialE
+numberssymbolslatninfinity∞
+numberssymbolslatngroup,
+numbersotherNumberingSystemsnativearabext
+numbersminimumGroupingDigits1
+numberscurrenciesVEFnarrowBs
+numberscurrenciesVEFstandardVEF
+numberscurrenciesTZSstandardTZS
+numberscurrenciesBZDstandardBZD
+numberscurrenciesBZDnarrow$
+numberscurrenciesBYNstandardBYN
+numberscurrenciesBYNnarrowр.
+numberscurrenciesGHSstandardGHS
+numberscurrenciesBAMnarrowKM
+numberscurrenciesBAMstandardBAM
+numberscurrenciesGIPstandardGIP
+numberscurrenciesGIPnarrow£
+numberscurrenciesLRDstandardLRD
+numberscurrenciesLRDnarrow$
+numberscurrenciesBMDstandardBMD
+numberscurrenciesBMDnarrow$
+numberscurrenciesTWDnarrowNT$
+numberscurrenciesTWDstandardNT$
+numberscurrenciesZMWstandardZMW
+numberscurrenciesZMWnarrowZK
+numberscurrenciesSYPnarrow£
+numberscurrenciesSYPstandardSYP
+numberscurrenciesHUFnarrowFt
+numberscurrenciesHUFstandardHUF
+numberscurrenciesSLLstandardSLL
+numberscurrenciesLYDstandardLYD
+numberscurrenciesNZDnarrow$
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesVNDnarrow₫
+numberscurrenciesVNDstandard₫
+numberscurrenciesPKRnarrowRs
+numberscurrenciesPKRstandardRs
+numberscurrenciesSOSstandardSOS
+numberscurrenciesGYDstandardGYD
+numberscurrenciesGYDnarrow$
+numberscurrenciesAMDstandardAMD
+numberscurrenciesMYRnarrowRM
+numberscurrenciesMYRstandardMYR
+numberscurrenciesMDLstandardMDL
+numberscurrenciesRSDstandardRSD
+numberscurrenciesBRLstandardR$
+numberscurrenciesBRLnarrowR$
+numberscurrenciesILSnarrow₪
+numberscurrenciesILSstandard₪
+numberscurrenciesLBPnarrowL£
+numberscurrenciesLBPstandardLBP
+numberscurrenciesSTNstandardSTN
+numberscurrenciesSTNnarrowDb
+numberscurrenciesIQDstandardIQD
+numberscurrenciesHRKstandardHRK
+numberscurrenciesHRKnarrowkn
+numberscurrenciesMXNstandardMX$
+numberscurrenciesMXNnarrow$
+numberscurrenciesLKRnarrowRs
+numberscurrenciesLKRstandardLKR
+numberscurrenciesUZSstandardUZS
+numberscurrenciesFKPnarrow£
+numberscurrenciesFKPstandardFKP
+numberscurrenciesTMTstandardTMT
+numberscurrenciesEGPnarrowE£
+numberscurrenciesEGPstandardEGP
+numberscurrenciesEURnarrow€
+numberscurrenciesEURstandard€
+numberscurrenciesCDFstandardCDF
+numberscurrenciesBSDnarrow$
+numberscurrenciesBSDstandardBSD
+numberscurrenciesARSnarrow$
+numberscurrenciesARSstandardARS
+numberscurrenciesAOAstandardAOA
+numberscurrenciesAOAnarrowKz
+numberscurrenciesMROstandardMRO
+numberscurrenciesNOKstandardNOK
+numberscurrenciesNOKnarrowkr
+numberscurrenciesQARstandardQAR
+numberscurrenciesTRYnarrow₺
+numberscurrenciesTRYstandardTRY
+numberscurrenciesTRYvariantTL
+numberscurrenciesDKKstandardDKK
+numberscurrenciesDKKnarrowkr
+numberscurrenciesMMKnarrowK
+numberscurrenciesMMKstandardMMK
+numberscurrenciesNADnarrow$
+numberscurrenciesNADstandardNAD
+numberscurrenciesXOFstandardCFA
+numberscurrenciesSEKstandardSEK
+numberscurrenciesSEKnarrowkr
+numberscurrenciesTHBstandard฿
+numberscurrenciesTHBnarrow฿
+numberscurrenciesGBPstandard£
+numberscurrenciesGBPnarrow£
+numberscurrenciesJMDnarrow$
+numberscurrenciesJMDstandardJMD
+numberscurrenciesKMFnarrowCF
+numberscurrenciesKMFstandardKMF
+numberscurrenciesCUPnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesUGXstandardUGX
+numberscurrenciesCZKstandardCZK
+numberscurrenciesCZKnarrowKč
+numberscurrenciesCHFstandardCHF
+numberscurrenciesKRWstandard₩
+numberscurrenciesKRWnarrow₩
+numberscurrenciesMNTstandardMNT
+numberscurrenciesMNTnarrow₮
+numberscurrenciesCADstandardCA$
+numberscurrenciesCADnarrow$
+numberscurrenciesBHDstandardBHD
+numberscurrenciesAUDstandardA$
+numberscurrenciesAUDnarrow$
+numberscurrenciesBDTnarrow৳
+numberscurrenciesBDTstandardBDT
+numberscurrenciesKPWnarrow₩
+numberscurrenciesKPWstandardKPW
+numberscurrenciesSZLstandardSZL
+numberscurrenciesSARstandardSAR
+numberscurrenciesANGstandardANG
+numberscurrenciesKWDstandardKWD
+numberscurrenciesAFNstandardAFN
+numberscurrenciesMOPstandardMOP
+numberscurrenciesOMRstandardOMR
+numberscurrenciesCLPstandardCLP
+numberscurrenciesCLPnarrow$
+numberscurrenciesSTDstandardSTD
+numberscurrenciesSSPstandardSSP
+numberscurrenciesSSPnarrow£
+numberscurrenciesHTGstandardHTG
+numberscurrenciesHKDnarrow$
+numberscurrenciesHKDstandardHK$
+numberscurrenciesIRRstandardIRR
+numberscurrenciesNGNnarrow₦
+numberscurrenciesNGNstandardNGN
+numberscurrenciesLVLstandardLVL
+numberscurrenciesMVRstandardMVR
+numberscurrenciesZARnarrowR
+numberscurrenciesZARstandardZAR
+numberscurrenciesUSDstandard$
+numberscurrenciesUSDnarrow$
+numberscurrenciesDZDstandardDZD
+numberscurrenciesBIFstandardBIF
+numberscurrenciesGNFnarrowFG
+numberscurrenciesGNFstandardGNF
+numberscurrenciesPGKstandardPGK
+numberscurrenciesMRUstandardMRU
+numberscurrenciesTTDstandardTTD
+numberscurrenciesTTDnarrow$
+numberscurrenciesVESstandardVES
+numberscurrenciesRONnarrowlei
+numberscurrenciesRONstandardRON
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBNDnarrow$
+numberscurrenciesBNDstandardBND
+numberscurrenciesBBDnarrow$
+numberscurrenciesBBDstandardBBD
+numberscurrenciesMWKstandardMWK
+numberscurrenciesUYUnarrow$
+numberscurrenciesUYUstandardUYU
+numberscurrenciesBOBnarrowBs
+numberscurrenciesBOBstandardBOB
+numberscurrenciesTJSstandardTJS
+numberscurrenciesAWGstandardAWG
+numberscurrenciesRUBnarrow₽
+numberscurrenciesRUBstandardRUB
+numberscurrenciesISKstandardISK
+numberscurrenciesISKnarrowkr
+numberscurrenciesGMDstandardGMD
+numberscurrenciesJODstandardJOD
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesYERstandardYER
+numberscurrenciesWSTstandardWST
+numberscurrenciesPENstandardPEN
+numberscurrenciesSDGstandardSDG
+numberscurrenciesGELstandardGEL
+numberscurrenciesGELvariant₾
+numberscurrenciesGELnarrow₾
+numberscurrenciesMADstandardMAD
+numberscurrenciesKZTnarrow₸
+numberscurrenciesKZTstandardKZT
+numberscurrenciesPHPstandardPHP
+numberscurrenciesPHPnarrow₱
+numberscurrenciesCVEstandardCVE
+numberscurrenciesCRCnarrow₡
+numberscurrenciesCRCstandardCRC
+numberscurrenciesALLstandardALL
+numberscurrenciesBGNstandardBGN
+numberscurrenciesUAHstandardUAH
+numberscurrenciesUAHnarrow₴
+numberscurrenciesVUVstandardVUV
+numberscurrenciesTOPstandardTOP
+numberscurrenciesTOPnarrowT$
+numberscurrenciesMKDstandardMKD
+numberscurrenciesSCRstandardSCR
+numberscurrenciesCUCstandardCUC
+numberscurrenciesCUCnarrow$
+numberscurrenciesPLNnarrowzł
+numberscurrenciesPLNstandardPLN
+numberscurrenciesKHRnarrow៛
+numberscurrenciesKHRstandardKHR
+numberscurrenciesAZNstandardAZN
+numberscurrenciesLTLstandardLTL
+numberscurrenciesMURstandardMUR
+numberscurrenciesMURnarrowRs
+numberscurrenciesSGDstandardSGD
+numberscurrenciesSGDnarrow$
+numberscurrenciesCOPstandardCOP
+numberscurrenciesCOPnarrow$
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesLAKnarrow₭
+numberscurrenciesLAKstandardLAK
+numberscurrenciesPYGstandardPYG
+numberscurrenciesPYGnarrow₲
+numberscurrenciesSRDstandardSRD
+numberscurrenciesSRDnarrow$
+numberscurrenciesDJFstandardDJF
+numberscurrenciesHNLstandardHNL
+numberscurrenciesHNLnarrowL
+numberscurrenciesDOPstandardDOP
+numberscurrenciesDOPnarrow$
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesXCDstandardEC$
+numberscurrenciesXCDnarrow$
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesSHPnarrow£
+numberscurrenciesSHPstandardSHP
+numberscurrenciesMGAnarrowAr
+numberscurrenciesMGAstandardMGA
+numberscurrenciesPABstandardPAB
+numberscurrenciesNIOnarrowC$
+numberscurrenciesNIOstandardNIO
+numberscurrenciesETBstandardETB
+numberscurrenciesTNDstandardTND
+numberscurrenciesSBDstandardSBD
+numberscurrenciesSBDnarrow$
+numberscurrenciesCNHstandardCNH
+numberscurrenciesKGSstandardKGS
+numberscurrenciesKESstandardKES
+numberscurrenciesKYDstandardKYD
+numberscurrenciesKYDnarrow$
+numberscurrenciesNPRnarrowRs
+numberscurrenciesNPRstandardNPR
+numberscurrenciesERNstandardERN
+numberscurrenciesBYRstandardBYR
+numberscurrenciesAEDstandardAED
+numberscurrenciesGTQnarrowQ
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesINRstandard₹
+numberscurrenciesINRnarrow₹
+numberscurrenciesFJDnarrow$
+numberscurrenciesFJDstandardFJD
+numberscurrenciesRWFnarrowRF
+numberscurrenciesRWFstandardRWF
+numberscurrenciesBWPstandardBWP
+numberscurrenciesBWPnarrowP
+numberscurrenciesMZNstandardMZN
+numberscurrenciesIDRnarrowRp
+numberscurrenciesIDRstandardIDR
+numbersmiscPatternslatnatLeast≥{0}
+numbersmiscPatternslatnrange{0}–{1}
+numbersmiscPatternslatnapproximately~{0}
+numbersmiscPatternslatnatMost≤{0}
+numberspercentFormatslatnstandardstandard#,##0%
+numberspercentFormatsarabextstandardstandard#,##0%
+numberscurrencyFormatsarabextstandardstandard¤#,##0.00
+numberscurrencyFormatslatnstandardstandard¤#,##0.00;(¤#,##0.00)
+numberscurrencyFormatslatnshort100000000000¤ 0 کھرب
+numberscurrencyFormatslatnshort1000000000000¤0 ٹریلین
+numberscurrencyFormatslatnshort10000000000¤ 00 ارب
+numberscurrencyFormatslatnshort10000000000000¤ 00 ٹریلین
+numberscurrencyFormatslatnshort10000¤ 00 ہزار
+numberscurrencyFormatslatnshort100000000000000¤ 000 ٹریلین
+numberscurrencyFormatslatnshort100000000¤ 00 کروڑ
+numberscurrencyFormatslatnshort1000000000¤ 0 ارب
+numberscurrencyFormatslatnshort100000¤ 0 لاکھ
+numberscurrencyFormatslatnshort1000¤ 0 ہزار
+numberscurrencyFormatslatnshort10000000¤ 0 کروڑ
+numberscurrencyFormatslatnshort1000000¤ 00 لاکھ
+numbersscientificFormatslatnstandardstandard#E0
+numbersscientificFormatsarabextstandardstandard#E0
+numbersdefaultNumberingSystemstandardlatn
+numbersdecimalFormatsarabextstandardstandard#,##0.###
+numbersdecimalFormatslatnlong1000000000000 ارب
+numbersdecimalFormatslatnlong100000000000000 کھرب
+numbersdecimalFormatslatnlong1000000000000 کھرب
+numbersdecimalFormatslatnlong1000000000000000 ٹریلین
+numbersdecimalFormatslatnlong10000000000 ارب
+numbersdecimalFormatslatnlong10000000000 کروڑ
+numbersdecimalFormatslatnlong100000000000000000 ٹریلین
+numbersdecimalFormatslatnlong1000000 ہزار
+numbersdecimalFormatslatnlong100000000 کروڑ
+numbersdecimalFormatslatnlong100000000 لاکھ
+numbersdecimalFormatslatnlong10000 ہزار
+numbersdecimalFormatslatnlong1000000 لاکھ
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdecimalFormatslatnshort1000000000000 کھرب
+numbersdecimalFormatslatnshort100000000000000 کھرب
+numbersdecimalFormatslatnshort1000000000000 ارب
+numbersdecimalFormatslatnshort1000000000000000 ٹریلین
+numbersdecimalFormatslatnshort1000000 ہزار
+numbersdecimalFormatslatnshort100000000000000000 ٹریلین
+numbersdecimalFormatslatnshort10000000000 کروڑ
+numbersdecimalFormatslatnshort10000000000 ارب
+numbersdecimalFormatslatnshort1000000 لاکھ
+numbersdecimalFormatslatnshort10000 ہزار
+numbersdecimalFormatslatnshort100000000 کروڑ
+numbersdecimalFormatslatnshort100000000 لاکھ
+delimitersquotationEnd“
+delimitersalternateQuotationStart’
+delimitersquotationStart”
+delimitersalternateQuotationEnd‘
+typographicNamesaxisNamewghtموٹائی
+typographicNamesaxisNameitalترچھا
+typographicNamesaxisNameopszبصری سائز
+typographicNamesaxisNameslntجھکاؤ
+typographicNamesaxisNamewdthچوڑائی
+typographicNamesstyleNamewdth150wideزیادہ چوڑا
+typographicNamesstyleNamewdth150standardزیادہ کھولا ہوا
+typographicNamesstyleNamewdth150extendedزیادہ پھیلایا ہوا
+typographicNamesstyleNamewdth112.5wideنیم چوڑا
+typographicNamesstyleNamewdth112.5standardنیم کھولا ہوا
+typographicNamesstyleNamewdth112.5extendedنیم پھیلایا ہوا
+typographicNamesstyleNamewdth200wideانتہائی چوڑا
+typographicNamesstyleNamewdth200extendedانتہائی پھیلایا ہوا
+typographicNamesstyleNamewdth200standardانتہائی کھولا ہوا
+typographicNamesstyleNamewdth87.5standardنیم سکیڑا ہوا
+typographicNamesstyleNamewdth87.5compressedنیم دبایا ہوا
+typographicNamesstyleNamewdth87.5narrowنیم تنگ
+typographicNamesstyleNamewdth125wideچوڑا
+typographicNamesstyleNamewdth125extendedپھیلایا ہوا
+typographicNamesstyleNamewdth125standardکھولا ہوا
+typographicNamesstyleNamewdth75standardسکیڑا ہوا
+typographicNamesstyleNamewdth75compressedدبایا ہوا
+typographicNamesstyleNamewdth75narrowدبایا ہوا
+typographicNamesstyleNamewdth50narrowانتہائی تنگ
+typographicNamesstyleNamewdth50compressedانتہائی دبایا ہوا
+typographicNamesstyleNamewdth50standardانتہائی سکیڑا ہوا
+typographicNamesstyleNamewdth62.5narrowزیادہ تنگ
+typographicNamesstyleNamewdth62.5standardزیادہ سکیڑا ہوا
+typographicNamesstyleNamewdth62.5compressedزیادہ دبایا ہوا
+typographicNamesstyleNamewdth100standardنارمل
+typographicNamesstyleNameopsz72standardڈسپلے
+typographicNamesstyleNameopsz12standardمتن
+typographicNamesstyleNameopsz8standardکیپشن
+typographicNamesstyleNameopsz144standardپوسٹر
+typographicNamesstyleNameopsz18standardعنوانات
+typographicNamesstyleNameslnt24standardزیادہ جُھکا ہوا
+typographicNamesstyleNameslnt-12standardپیچھے کو جُھکا ہوا
+typographicNamesstyleNameslnt0standardسیدھا
+typographicNamesstyleNameslnt12standardجُھکا ہوا
+typographicNamesstyleNameital1standardخمیدہ
+typographicNamesstyleNamewght100standardپتلا
+typographicNamesstyleNamewght900heavyبھاری
+typographicNamesstyleNamewght900standardسیاہ
+typographicNamesstyleNamewght950ultraheavyانتہائی بھاری
+typographicNamesstyleNamewght950standardزیادہ سیاہ
+typographicNamesstyleNamewght950ultrablackانتہائی سیاہ
+typographicNamesstyleNamewght500standardمیڈیم
+typographicNamesstyleNamewght400standardریگولر
+typographicNamesstyleNamewght700standardبولڈ
+typographicNamesstyleNamewght300standardہلکا
+typographicNamesstyleNamewght200standardزیادہ پتلا
+typographicNamesstyleNamewght200ultraانتہائی پتلا
+typographicNamesstyleNamewght600demiنصف بولڈ
+typographicNamesstyleNamewght600standardنیم بولڈ
+typographicNamesstyleNamewght380standardکتاب
+typographicNamesstyleNamewght800standardزیادہ بولڈ
+typographicNamesstyleNamewght350standardنیم ہلکا
+typographicNamesfeatureNamelnumلائننگ نمبرز
+typographicNamesfeatureNamesmcpچھوٹے سائز میں بڑے حروف
+typographicNamesfeatureNamecpspبڑے حروف کے درمیان خالی جگہ
+typographicNamesfeatureNamedligاختیاری لگیچر
+typographicNamesfeatureNamezeroخط کشیدہ زیرو
+typographicNamesfeatureNamefracترچھی کسور
+typographicNamesfeatureNameordnآرڈینلز
+typographicNamesfeatureNameonumقدیم طرز کے ہندسے
+typographicNamesfeatureNameafrcعمودی کسور
+typographicNamesfeatureNamepnumتناسبی نمبرز
+typographicNamesfeatureNametnumٹیبیولر نمبرز
+characterLabelslabelsmiscellaneousمتفرق
+characterLabelslabelspairedجوڑی
+characterLabelslabelsanimalجانور
+characterLabelslabelsupwards_arrowsاوپر کی جانب تیر کا نشان
+characterLabelslabelssymbolsعلامات
+characterLabelslabelstravel_placesسفر اور مقامات
+characterLabelslabelspictographsپکٹوگراف
+characterLabelslabelsbodyجسم
+characterLabelslabelsconsonantal_jamoکونسونینٹل جامو
+characterLabelslabelsmodifierترمیم کار
+characterLabelslabelsfemaleعورت
+characterLabelslabelsnumbersاعداد
+characterLabelslabelsgeometric_shapesجیومیٹری کی اشکال
+characterLabelslabelssign_standard_symbolsنشان یا علامت
+characterLabelslabelssmileyمُسکراتا ہوا
+characterLabelslabelseast_asian_scriptsوسطی ایشیائی اسکرپٹس
+characterLabelslabelshalf_width_form_variantآدھی صورت کے متغیرات
+characterLabelslabelsmusical_symbolsموسیقی کی علامات
+characterLabelslabelsheartدل
+characterLabelslabelshistoric_scriptsتاریخی اسکرپٹ
+characterLabelslabelssouth_asian_scriptsجنوبی ایشیائی اسکرپٹس
+characterLabelslabelsbullets_starsبلیٹ یا اسٹار
+characterLabelslabelsmath_symbolsریاضی کی علامات
+characterLabelslabelskanjiکانجی
+characterLabelslabelsphonetic_alphabetصوتیاتی حروف
+characterLabelslabelstone_marksٹون مارکس
+characterLabelslabelsactivitiesسرگرمی
+characterLabelslabelssoutheast_asian_scriptsجنوب مشرقی ایشیائی اسکرپٹس
+characterLabelslabelsbuildingعمارت
+characterLabelslabelsarrowsتیر کے نشانات
+characterLabelslabelsdownwards_arrowsنیچے کی جانب تیر کا نشان
+characterLabelslabelshanjaہنجا
+characterLabelslabelshan_radicalsہین ریڈیکلز
+characterLabelslabelsmiddle_eastern_scriptsمشرقی وسطی اسکرپٹ
+characterLabelslabelsspacingفاصلہ بندی
+characterLabelslabelstechnical_symbolsتکنیکی علامات
+characterLabelslabelseuropean_scriptsیوروپی اسکرپٹس
+characterLabelslabelsnatureقدرت
+characterLabelslabelsotherدیگر
+characterLabelslabelsobjectsآبجیکٹس
+characterLabelslabelsbrailleبریل
+characterLabelslabelscurrency_symbolsکرنسی کی علامات
+characterLabelslabelsflagsپرچم
+characterLabelslabelsideographic_desc_charactersتصور نگاری نزولی حروف
+characterLabelslabelsjapanese_kanaچاپانی کانا
+characterLabelslabelskanbunکانبون
+characterLabelslabelsleftwards_rightwards_arrowsبائیں دائیں جانب تیر کا نشان
+characterLabelslabelsnonspacingغیر فاصلہ کاری
+characterLabelslabelswhitespaceخالی جگہ
+characterLabelslabelsbox_drawingڈرائنگ باکس
+characterLabelslabelssmileys_peopleاسمالیز اور لوگ
+characterLabelslabelsafrican_scriptsافریقی اسکرپٹس
+characterLabelslabelsformatفارمیٹ
+characterLabelslabelsdingbatsڈنگ بیٹ
+characterLabelslabelshan_charactersہین کیرکٹر
+characterLabelslabelshanzi_simplifiedہنزی (آسان کردہ)
+characterLabelslabelspunctuationرموز اوقاف
+characterLabelslabelsdigitsعدد
+characterLabelslabelsdownwards_upwards_arrowsنیچے اوپر کی جانب تیر کا نشان
+characterLabelslabelsletterlike_symbolsحروف کے جیسی علامات
+characterLabelslabelspersonشخص
+characterLabelslabelswestern_asian_scriptsمغربی ایشیائی اسکرپٹس
+characterLabelslabelssportکھیل
+characterLabelslabelsanimals_natureحیوانات و فطرت
+characterLabelslabelsemojiایموجی
+characterLabelslabelsfull_width_form_variantمکمل صورت کے متغیرات
+characterLabelslabelsmodern_scriptsجدید ترین اسکرپٹ
+characterLabelslabelsweatherموسم
+characterLabelslabelsdash_connectorڈیش یا کنکٹر
+characterLabelslabelsvocalic_jamoمصوتی جامو
+characterLabelslabelsvariant_formsمختلف صورتیں
+characterLabelslabelsrightwards_arrowsدائیں جانب تیر کا نشان
+characterLabelslabelshanzi_traditionalہنزی (روایتی)
+characterLabelslabelsmaleمرد
+characterLabelslabelssmall_form_variantچھوٹی صورت کے متغیرات
+characterLabelslabelsplaceجگہ
+characterLabelslabelsflagپرچم
+characterLabelslabelsfood_drinkغذا اور مشروب
+characterLabelslabelsformat_whitespaceفارمیٹ اور خالی جگہ
+characterLabelslabelsamerican_scriptsامریکی سکرپٹس
+characterLabelslabelstravelسفر
+characterLabelslabelsplantپلانٹ
+characterLabelslabelsdivination_symbolsغیب دانی کی علامات
+characterLabelslabelskeycapکی کیپ
+characterLabelslabelslimited_useمحدود استعمال
+characterLabelslabelsleftwards_arrowsبائیں جانب تیر کا نشان
+characterLabelspatternsall{0} — تمام
+characterLabelspatternsother{0} — دیگر
+characterLabelspatternsextended{0} — توسیعی
+characterLabelspatternscategory-list{0}: {1}
+characterLabelspatternscompatibility{0} — مطابقت
+characterLabelspatternshistoric{0} — تاریخی
+characterLabelspatternsscriptsاسکرپٹس — {0}
+characterLabelspatternsmiscellaneous{0} — متفرق
+characterLabelspatternsenclosed{0} — منسکہ
+characterLabelspatternsstrokes{0} اسٹروک
+listPatternsormiddle{0}، {1}
+listPatternsorend{0}، یا {1}
+listPatternsor2{0} یا {1}
+listPatternsorstart{0}، {1}
+listPatternsunitstart{0}, {1}
+listPatternsunitend{0}، اور {1}
+listPatternsunit2{0} اور {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsstandard-shortstart{0}، {1}
+listPatternsstandard-shortend{0}، اور {1}
+listPatternsstandard-short2{0} اور {1}
+listPatternsstandard-shortmiddle{0}، {1}
+listPatternsunit-narrow2{0} اور {1}
+listPatternsunit-narrowend{0}، اور {1}
+listPatternsunit-narrowmiddle{0}، {1}
+listPatternsunit-narrowstart{0}، {1}
+listPatternsunit-shortstart{0}، {1}
+listPatternsunit-shortmiddle{0}، {1}
+listPatternsunit-shortend{0}، اور {1}
+listPatternsunit-short2{0} اور {1}
+listPatternsstandardmiddle{0}، {1}
+listPatternsstandardend{0}، اور {1}
+listPatternsstandard2{0} اور {1}
+listPatternsstandardstart{0}، {1}
+layoutcharacterOrderright-to-left
+charactersexemplarCharacterspunctuation[، ؍ ٫ ٬ ؛ \: ؟ . ۔ ( ) \[ \]]
+charactersexemplarCharactersstandard[ا أ آ ب پ ت ٹ ث ج چ ح خ د ڈ ذ ر ڑ ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن ں و ؤ ہ ۂ ھ ء ی ئ ے ة ه]
+charactersexemplarCharactersindex[ا ب پ ت ٹ ث ج چ ح خ د ڈ ذ ر ڑ ز ژ س ش ص ض ط ظ ع غ ف ق ک گ ل م ن و ہ ھ ء ی ے]
+charactersexemplarCharactersauxiliary[؀؁؂؃\u200C\u200D\u200E\u200F \u064B \u064C \u064D \u064E \u064F \u0650 \u0651 \u0652 \u0654 \u0656 \u0657 \u0658 \u0670 ۃ ٻ ٺ ټ ٽ ي]
+charactersexemplarCharactersnumbers[\u200E \- , ٫ ٬ . % ‰ + 0۰ 1۱ 2۲ 3۳ 4۴ 5۵ 6۶ 7۷ 8۸ 9۹]
+charactersellipsisword-initial… {0}
+charactersellipsisword-final{0} …
+charactersellipsismedial{0}…{1}
+charactersellipsisinitial…{0}
+charactersellipsisword-medial{0} … {1}
+charactersellipsisfinal{0}…
+posixmessagesnostrنہیں:نہیں
+posixmessagesyesstrہاں:ہاں
+localeDisplayNamesmeasurementSystemNamesmetricمیٹرک
+localeDisplayNamesmeasurementSystemNamesUKسلطنت متحدہ
+localeDisplayNamesmeasurementSystemNamesUSریاستہائے متحدہ
+localeDisplayNamescharactersparseLenientsdatelenient-[\--/]
+localeDisplayNamescharactersparseLenientsdatelenient:[\:∶]
+localeDisplayNamescharactersparseLenientsgenerallenient.[.․。︒﹒．｡]
+localeDisplayNamescharactersparseLenientsgenerallenient$[\$﹩＄$]
+localeDisplayNamescharactersparseLenientsgenerallenient£[£₤]
+localeDisplayNamescharactersparseLenientsgenerallenient₹[₨₹{Rp}{Rs}]
+localeDisplayNamescharactersparseLenientsnumberlenient-[\-‒⁻₋−➖﹣－]
+localeDisplayNamescharactersparseLenientsnumberlenient,[,،٫、︐︑﹐﹑，､]
+localeDisplayNamescharactersparseLenientsnumberlenient+[+⁺₊➕﬩﹢＋]
+localeDisplayNamescharactersparseLenientsnumberstricter.[.․﹒．｡]
+localeDisplayNamescharactersparseLenientsnumberstricter,[,٫︐﹐，]
+localeDisplayNamesterritoriesYTمایوٹ
+localeDisplayNamesterritoriesCAکینیڈا
+localeDisplayNamesterritoriesSCسشلیز
+localeDisplayNamesterritoriesNZنیوزی لینڈ
+localeDisplayNamesterritoriesIRایران
+localeDisplayNamesterritoriesJEجرسی
+localeDisplayNamesterritoriesBVبؤویٹ آئلینڈ
+localeDisplayNamesterritoriesMMمیانمار (برما)
+localeDisplayNamesterritoriesBHبحرین
+localeDisplayNamesterritoriesAOانگولا
+localeDisplayNamesterritories021شمالی امریکہ کا علاقہ
+localeDisplayNamesterritoriesLIلیشٹنسٹائن
+localeDisplayNamesterritoriesNRنؤرو
+localeDisplayNamesterritoriesSDسوڈان
+localeDisplayNamesterritoriesICکینری آئلینڈز
+localeDisplayNamesterritoriesCIآئیوری کوسٹ
+localeDisplayNamesterritoriesBBبارباڈوس
+localeDisplayNamesterritories029کریبیائی
+localeDisplayNamesterritoriesAFافغانستان
+localeDisplayNamesterritoriesAQانٹارکٹیکا
+localeDisplayNamesterritoriesCNچین
+localeDisplayNamesterritoriesDKڈنمارک
+localeDisplayNamesterritories018جنوبی افریقہ کے علاقہ
+localeDisplayNamesterritoriesCDکانگو (DRC)
+localeDisplayNamesterritoriesPGپاپوآ نیو گنی
+localeDisplayNamesterritoriesPEپیرو
+localeDisplayNamesterritoriesMYملائشیا
+localeDisplayNamesterritoriesSTساؤ ٹوم اور پرنسپے
+localeDisplayNamesterritoriesVGبرٹش ورجن آئلینڈز
+localeDisplayNamesterritoriesGDگریناڈا
+localeDisplayNamesterritoriesJMجمائیکا
+localeDisplayNamesterritoriesBEبیلجیم
+localeDisplayNamesterritoriesIDانڈونیشیا
+localeDisplayNamesterritoriesVEوینزوئیلا
+localeDisplayNamesterritoriesECایکواڈور
+localeDisplayNamesterritoriesBYبیلاروس
+localeDisplayNamesterritories003شمالی امریکہ
+localeDisplayNamesterritoriesSYشام
+localeDisplayNamesterritoriesGRیونان
+localeDisplayNamesterritoriesSLسیرالیون
+localeDisplayNamesterritoriesBNبرونائی
+localeDisplayNamesterritoriesAZآذربائیجان
+localeDisplayNamesterritoriesLSلیسوتھو
+localeDisplayNamesterritoriesSMسان مارینو
+localeDisplayNamesterritoriesTTترینیداد اور ٹوباگو
+localeDisplayNamesterritoriesINبھارت
+localeDisplayNamesterritoriesGEجارجیا
+localeDisplayNamesterritoriesERاریٹیریا
+localeDisplayNamesterritoriesEAسیئوٹا اور میلیلا
+localeDisplayNamesterritoriesBZبیلائز
+localeDisplayNamesterritories030مشرقی ایشیا
+localeDisplayNamesterritoriesKNسینٹ کٹس اور نیویس
+localeDisplayNamesterritoriesKYکیمین آئلینڈز
+localeDisplayNamesterritoriesPNپٹکائرن جزائر
+localeDisplayNamesterritoriesVNویتنام
+localeDisplayNamesterritoriesPYپیراگوئے
+localeDisplayNamesterritoriesMRموریطانیہ
+localeDisplayNamesterritoriesNLنیدر لینڈز
+localeDisplayNamesterritoriesGBیو کے
+localeDisplayNamesterritoriesHNہونڈاروس
+localeDisplayNamesterritoriesTMترکمانستان
+localeDisplayNamesterritoriesVAویٹیکن سٹی
+localeDisplayNamesterritories002افریقہ
+localeDisplayNamesterritoriesKWکویت
+localeDisplayNamesterritoriesALالبانیہ
+localeDisplayNamesterritoriesUSامریکا
+localeDisplayNamesterritories202ذیلی صحارن افریقہ
+localeDisplayNamesterritoriesARارجنٹینا
+localeDisplayNamesterritories419لاطینی امریکہ
+localeDisplayNamesterritoriesASامریکی ساموآ
+localeDisplayNamesterritoriesPLپولینڈ
+localeDisplayNamesterritoriesTGٹوگو
+localeDisplayNamesterritoriesGLگرین لینڈ
+localeDisplayNamesterritoriesPAپانامہ
+localeDisplayNamesterritoriesDOجمہوریہ ڈومينيکن
+localeDisplayNamesterritoriesACاسینشن آئلینڈ
+localeDisplayNamesterritoriesAIانگوئیلا
+localeDisplayNamesterritoriesTCترکس اور کیکاؤس جزائر
+localeDisplayNamesterritoriesQOبیرونی اوشیانیا
+localeDisplayNamesterritories017وسطی افریقہ
+localeDisplayNamesterritoriesNPنیپال
+localeDisplayNamesterritoriesMCموناکو
+localeDisplayNamesterritoriesKIکریباتی
+localeDisplayNamesterritoriesSBسولومن آئلینڈز
+localeDisplayNamesterritoriesEEاسٹونیا
+localeDisplayNamesterritoriesAEمتحدہ عرب امارات
+localeDisplayNamesterritoriesTHتھائی لینڈ
+localeDisplayNamesterritoriesPRپیورٹو ریکو
+localeDisplayNamesterritoriesMPشمالی ماریانا آئلینڈز
+localeDisplayNamesterritories011مغربی افریقہ
+localeDisplayNamesterritoriesMEمونٹے نیگرو
+localeDisplayNamesterritoriesIMآئل آف مین
+localeDisplayNamesterritoriesEZیوروزون
+localeDisplayNamesterritoriesAUآسٹریلیا
+localeDisplayNamesterritoriesAXآلینڈ آئلینڈز
+localeDisplayNamesterritoriesKHکمبوڈیا
+localeDisplayNamesterritoriesNGنائجیریا
+localeDisplayNamesterritoriesIOبرطانوی بحر ہند کا علاقہ
+localeDisplayNamesterritoriesTDچاڈ
+localeDisplayNamesterritoriesTFفرانسیسی جنوبی خطے
+localeDisplayNamesterritoriesDMڈومنیکا
+localeDisplayNamesterritoriesAWاروبا
+localeDisplayNamesterritoriesUAیوکرین
+localeDisplayNamesterritoriesMXمیکسیکو
+localeDisplayNamesterritoriesGHگھانا
+localeDisplayNamesterritoriesMGمڈغاسکر
+localeDisplayNamesterritoriesDZالجیریا
+localeDisplayNamesterritoriesBFبرکینا فاسو
+localeDisplayNamesterritoriesCRکوسٹا ریکا
+localeDisplayNamesterritoriesMZموزمبیق
+localeDisplayNamesterritoriesCZچیک جمہوریہ
+localeDisplayNamesterritories053آسٹریلیشیا
+localeDisplayNamesterritoriesAGانٹیگوا اور باربودا
+localeDisplayNamesterritoriesCWکیوراکاؤ
+localeDisplayNamesterritoriesTWتائیوان
+localeDisplayNamesterritoriesBGبلغاریہ
+localeDisplayNamesterritoriesBDبنگلہ دیش
+localeDisplayNamesterritoriesADانڈورا
+localeDisplayNamesterritoriesMKمقدونیہ (FYROM)
+localeDisplayNamesterritoriesPSفلسطین
+localeDisplayNamesterritoriesBRبرازیل
+localeDisplayNamesterritoriesBMبرمودا
+localeDisplayNamesterritories015شمالی افریقہ
+localeDisplayNamesterritoriesOMعمان
+localeDisplayNamesterritoriesFJفجی
+localeDisplayNamesterritoriesSVال سلواڈور
+localeDisplayNamesterritories054مالینیشیا
+localeDisplayNamesterritoriesQAقطر
+localeDisplayNamesterritoriesWSساموآ
+localeDisplayNamesterritoriesTKٹوکیلاؤ
+localeDisplayNamesterritoriesUNاقوام متحدہ
+localeDisplayNamesterritoriesGFفرینچ گیانا
+localeDisplayNamesterritoriesCFوسط افریقی جمہوریہ
+localeDisplayNamesterritories034جنوبی ایشیا
+localeDisplayNamesterritoriesLYلیبیا
+localeDisplayNamesterritoriesGSجنوبی جارجیا اور جنوبی سینڈوچ جزائر
+localeDisplayNamesterritoriesZZنامعلوم علاقہ
+localeDisplayNamesterritoriesETایتھوپیا
+localeDisplayNamesterritoriesBWبوتسوانا
+localeDisplayNamesterritoriesPHفلپائن
+localeDisplayNamesterritoriesNEنائجر
+localeDisplayNamesterritoriesFIفن لینڈ
+localeDisplayNamesterritoriesMOمکاؤ
+localeDisplayNamesterritoriesGMگیمبیا
+localeDisplayNamesterritoriesREری یونین
+localeDisplayNamesterritoriesTLمشرقی تیمور
+localeDisplayNamesterritoriesUYیوروگوئے
+localeDisplayNamesterritoriesMUماریشس
+localeDisplayNamesterritories039جنوبی یورپ
+localeDisplayNamesterritories142ایشیا
+localeDisplayNamesterritoriesFRفرانس
+localeDisplayNamesterritoriesUZازبکستان
+localeDisplayNamesterritoriesDEجرمنی
+localeDisplayNamesterritoriesCMکیمرون
+localeDisplayNamesterritoriesBJبینن
+localeDisplayNamesterritories151مشرقی یورپ
+localeDisplayNamesterritoriesBIبرونڈی
+localeDisplayNamesterritoriesUGیوگنڈا
+localeDisplayNamesterritoriesKZقزاخستان
+localeDisplayNamesterritoriesESہسپانیہ
+localeDisplayNamesterritoriesUMامریکہ سے باہر کے چھوٹے جزائز
+localeDisplayNamesterritoriesSAسعودی عرب
+localeDisplayNamesterritoriesKMکوموروس
+localeDisplayNamesterritoriesILاسرائیل
+localeDisplayNamesterritoriesBTبھوٹان
+localeDisplayNamesterritoriesEUیوروپی یونین
+localeDisplayNamesterritoriesPTپرتگال
+localeDisplayNamesterritoriesNIنکاراگووا
+localeDisplayNamesterritoriesSOصومالیہ
+localeDisplayNamesterritoriesSJسوالبرڈ اور جان ماین
+localeDisplayNamesterritoriesGTگواٹے مالا
+localeDisplayNamesterritoriesDJجبوتی
+localeDisplayNamesterritoriesBSبہاماس
+localeDisplayNamesterritories001دنیا
+localeDisplayNamesterritoriesKRجنوبی کوریا
+localeDisplayNamesterritoriesKEکینیا
+localeDisplayNamesterritoriesHMہیرڈ جزیرہ و میکڈولینڈ جزائر
+localeDisplayNamesterritoriesSHسینٹ ہیلینا
+localeDisplayNamesterritoriesMWملاوی
+localeDisplayNamesterritoriesGPگواڈیلوپ
+localeDisplayNamesterritoriesCXجزیرہ کرسمس
+localeDisplayNamesterritories019امیریکاز
+localeDisplayNamesterritoriesSZسوازی لینڈ
+localeDisplayNamesterritories143وسطی ایشیا
+localeDisplayNamesterritoriesWFویلیز اور فیوٹیونا
+localeDisplayNamesterritoriesTZتنزانیہ
+localeDisplayNamesterritoriesBOبولیویا
+localeDisplayNamesterritoriesISآئس لینڈ
+localeDisplayNamesterritories035جنوب مشرقی ایشیا
+localeDisplayNamesterritoriesHTہیٹی
+localeDisplayNamesterritoriesPMسینٹ پیئر اور میکلیئون
+localeDisplayNamesterritoriesNUنیئو
+localeDisplayNamesterritoriesNCنیو کلیڈونیا
+localeDisplayNamesterritoriesMSمونٹسیراٹ
+localeDisplayNamesterritoriesHKہانگ کانگ
+localeDisplayNamesterritoriesCLچلی
+localeDisplayNamesterritoriesCUکیوبا
+localeDisplayNamesterritoriesBAبوسنیا اور ہرزیگووینا
+localeDisplayNamesterritories014مشرقی افریقہ
+localeDisplayNamesterritoriesLVلٹویا
+localeDisplayNamesterritoriesVUوینوآٹو
+localeDisplayNamesterritoriesMLمالی
+localeDisplayNamesterritoriesNAنامیبیا
+localeDisplayNamesterritoriesGUگوام
+localeDisplayNamesterritoriesDGڈائجو گارسیا
+localeDisplayNamesterritoriesLBلبنان
+localeDisplayNamesterritoriesLCسینٹ لوسیا
+localeDisplayNamesterritoriesRWروانڈا
+localeDisplayNamesterritoriesZAجنوبی افریقہ
+localeDisplayNamesterritoriesTNتونس
+localeDisplayNamesterritoriesIEآئرلینڈ
+localeDisplayNamesterritoriesRSسربیا
+localeDisplayNamesterritoriesITاٹلی
+localeDisplayNamesterritories005جنوبی امریکہ
+localeDisplayNamesterritoriesLRلائبیریا
+localeDisplayNamesterritoriesMFسینٹ مارٹن
+localeDisplayNamesterritoriesLTلیتھونیا
+localeDisplayNamesterritoriesTOٹونگا
+localeDisplayNamesterritories009اوشیانیا
+localeDisplayNamesterritoriesMTمالٹا
+localeDisplayNamesterritories154شمالی یورپ
+localeDisplayNamesterritoriesJPجاپان
+localeDisplayNamesterritoriesROرومانیہ
+localeDisplayNamesterritoriesSXسنٹ مارٹن
+localeDisplayNamesterritoriesSRسورینام
+localeDisplayNamesterritoriesGWگنی بساؤ
+localeDisplayNamesterritoriesBQکریبیائی نیدرلینڈز
+localeDisplayNamesterritoriesIQعراق
+localeDisplayNamesterritoriesTVٹووالو
+localeDisplayNamesterritoriesFMمائکرونیشیا
+localeDisplayNamesterritoriesRUروس
+localeDisplayNamesterritoriesCGکانگو (جمہوریہ)
+localeDisplayNamesterritoriesGGگوئرنسی
+localeDisplayNamesterritoriesCVکیپ ورڈی
+localeDisplayNamesterritories150یورپ
+localeDisplayNamesterritoriesVIامریکی ورجن آئلینڈز
+localeDisplayNamesterritoriesPFفرانسیسی پولینیشیا
+localeDisplayNamesterritoriesTRترکی
+localeDisplayNamesterritoriesFKفاکلینڈ جزائر (مالویناس)
+localeDisplayNamesterritoriesBLسینٹ برتھلیمی
+localeDisplayNamesterritoriesGNگنی
+localeDisplayNamesterritoriesCCکوکوس (کیلنگ) جزائر
+localeDisplayNamesterritoriesMAمراکش
+localeDisplayNamesterritoriesEHمغربی صحارا
+localeDisplayNamesterritoriesPWپلاؤ
+localeDisplayNamesterritoriesNFنارفوک آئلینڈ
+localeDisplayNamesterritories145مغربی ایشیا
+localeDisplayNamesterritories061پولینیشیا
+localeDisplayNamesterritoriesATآسٹریا
+localeDisplayNamesterritoriesMVمالدیپ
+localeDisplayNamesterritoriesSSجنوبی سوڈان
+localeDisplayNamesterritoriesMQمارٹینک
+localeDisplayNamesterritoriesGQاستوائی گیانا
+localeDisplayNamesterritoriesHRکروشیا
+localeDisplayNamesterritoriesLUلکسمبرگ
+localeDisplayNamesterritoriesLKسری لنکا
+localeDisplayNamesterritories057مائکرونیشیائی علاقہ
+localeDisplayNamesterritoriesKGکرغزستان
+localeDisplayNamesterritoriesCKکک آئلینڈز
+localeDisplayNamesterritoriesYEیمن
+localeDisplayNamesterritoriesSKسلوواکیہ
+localeDisplayNamesterritoriesSIسلووینیا
+localeDisplayNamesterritoriesSNسینیگل
+localeDisplayNamesterritoriesZWزمبابوے
+localeDisplayNamesterritoriesEGمصر
+localeDisplayNamesterritoriesVCسینٹ ونسنٹ اور گرینیڈائنز
+localeDisplayNamesterritoriesXKکوسووو
+localeDisplayNamesterritoriesGAگیبون
+localeDisplayNamesterritoriesGIجبل الطارق
+localeDisplayNamesterritoriesFOجزائر فارو
+localeDisplayNamesterritoriesMNمنگولیا
+localeDisplayNamesterritoriesKPشمالی کوریا
+localeDisplayNamesterritoriesCOکولمبیا
+localeDisplayNamesterritoriesPKپاکستان
+localeDisplayNamesterritoriesLAلاؤس
+localeDisplayNamesterritoriesMHمارشل آئلینڈز
+localeDisplayNamesterritoriesMDمالدووا
+localeDisplayNamesterritoriesSEسویڈن
+localeDisplayNamesterritoriesGYگیانا
+localeDisplayNamesterritoriesTJتاجکستان
+localeDisplayNamesterritoriesTAٹرسٹن ڈا کیونہا
+localeDisplayNamesterritoriesZMزامبیا
+localeDisplayNamesterritoriesCYقبرص
+localeDisplayNamesterritoriesNOناروے
+localeDisplayNamesterritories155مغربی یورپ
+localeDisplayNamesterritories013وسطی امریکہ
+localeDisplayNamesterritoriesHUہنگری
+localeDisplayNamesterritoriesSGسنگاپور
+localeDisplayNamesterritoriesCPکلپرٹن آئلینڈ
+localeDisplayNamesterritoriesCHسوئٹزر لینڈ
+localeDisplayNamesterritoriesAMآرمینیا
+localeDisplayNamesterritoriesJOاردن
+localeDisplayNamescodePatternsterritoryخطہ:{0}
+localeDisplayNamescodePatternsscriptرسم الخط:{0}
+localeDisplayNamescodePatternslanguageزبان:{0}
+localeDisplayNamesscriptsHiraہیراگینا
+localeDisplayNamesscriptsZzzzنامعلوم رسم الخط
+localeDisplayNamesscriptsJamoجامو
+localeDisplayNamesscriptsDevaدیوناگری
+localeDisplayNamesscriptsHanbہینب
+localeDisplayNamesscriptsGujrگجراتی
+localeDisplayNamesscriptsKoreکوریائی
+localeDisplayNamesscriptsThaiتھائی
+localeDisplayNamesscriptsHangہنگول
+localeDisplayNamesscriptsGuruگرمکھی
+localeDisplayNamesscriptsZxxxغیر تحریر شدہ
+localeDisplayNamesscriptsTeluتیلگو
+localeDisplayNamesscriptsZsyeایموجی
+localeDisplayNamesscriptsEthiایتھوپیائی
+localeDisplayNamesscriptsHansآسان ہان
+localeDisplayNamesscriptsBraiبریل
+localeDisplayNamesscriptsBengبنگالی
+localeDisplayNamesscriptsMlymملیالم
+localeDisplayNamesscriptsKanaکٹاکانا
+localeDisplayNamesscriptsZyyyعام
+localeDisplayNamesscriptsTamlتمل
+localeDisplayNamesscriptsArmnآرمینیائی
+localeDisplayNamesscriptsOryaاڑیہ
+localeDisplayNamesscriptsThaaتھانا
+localeDisplayNamesscriptsLatnلاطینی
+localeDisplayNamesscriptsKndaکنڑ
+localeDisplayNamesscriptsHaniہان
+localeDisplayNamesscriptsJpanجاپانی
+localeDisplayNamesscriptsHrktجاپانی سیلابریز
+localeDisplayNamesscriptsCyrlسیریلک
+localeDisplayNamesscriptsSinhسنہالا
+localeDisplayNamesscriptsKhmrخمیر
+localeDisplayNamesscriptsArabفارسی عربی
+localeDisplayNamesscriptsHantروایتی ہان
+localeDisplayNamesscriptsGeorجارجیائی
+localeDisplayNamesscriptsZmthریاضی کی علامتیں
+localeDisplayNamesscriptsZsymعلامات
+localeDisplayNamesscriptsTibtتبتی
+localeDisplayNamesscriptsMymrمیانمار
+localeDisplayNamesscriptsMongمنگولیائی
+localeDisplayNamesscriptsLaooلاؤ
+localeDisplayNamesscriptsHebrعبرانی
+localeDisplayNamesscriptsGrekیونانی
+localeDisplayNamesscriptsBopoبوپوموفو
+localeDisplayNameslanguagesxogسوگا
+localeDisplayNameslanguagesmwlمیرانڈیز
+localeDisplayNameslanguagesekaایکاجوی
+localeDisplayNameslanguagesmfeموریسیین
+localeDisplayNameslanguagescoکوراسیکن
+localeDisplayNameslanguageslktلاکوٹا
+localeDisplayNameslanguageshupہیوپا
+localeDisplayNameslanguagesmagمگاہی
+localeDisplayNameslanguagesyiیدش
+localeDisplayNameslanguagesbezبینا
+localeDisplayNameslanguagesnaناؤرو
+localeDisplayNameslanguageschچیمارو
+localeDisplayNameslanguageskdeماکونده
+localeDisplayNameslanguagesmenمیندے
+localeDisplayNameslanguagesmerمیرو
+localeDisplayNameslanguagesnogنوگائی
+localeDisplayNameslanguagessadسنڈاوے
+localeDisplayNameslanguagesmicمکمیک
+localeDisplayNameslanguagesen_AUآسٹریلیائی انگریزی
+localeDisplayNameslanguagesvaiوائی
+localeDisplayNameslanguagesawaاوادھی
+localeDisplayNameslanguageskmخمیر
+localeDisplayNameslanguageskpeکیپیلّے
+localeDisplayNameslanguagescyویلش
+localeDisplayNameslanguageschkچوکیز
+localeDisplayNameslanguageswoوولوف
+localeDisplayNameslanguagessmjلول سامی
+localeDisplayNameslanguagesgezگیز
+localeDisplayNameslanguagesmdfموکشا
+localeDisplayNameslanguagesgswسوئس جرمن
+localeDisplayNameslanguagesssسواتی
+localeDisplayNameslanguagesroرومینین
+localeDisplayNameslanguagessmaجنوبی سامی
+localeDisplayNameslanguagessiسنہالا
+localeDisplayNameslanguagesngنڈونگا
+localeDisplayNameslanguagesmiماؤری
+localeDisplayNameslanguagesde_CHسوئس ہائی جرمن
+localeDisplayNameslanguagesbaباشکیر
+localeDisplayNameslanguagesgdسکاٹش گیلک
+localeDisplayNameslanguagessoصومالی
+localeDisplayNameslanguagesveوینڈا
+localeDisplayNameslanguagesplپولش
+localeDisplayNameslanguagesdsbذیلی سربیائی
+localeDisplayNameslanguagesadaادانگمے
+localeDisplayNameslanguagesamامہاری
+localeDisplayNameslanguagesgilگلبرتیز
+localeDisplayNameslanguagesgvمینکس
+localeDisplayNameslanguageslozلوزی
+localeDisplayNameslanguageslrcشمالی لری
+localeDisplayNameslanguagesbasباسا
+localeDisplayNameslanguageszuزولو
+localeDisplayNameslanguagestyتاہیتی
+localeDisplayNameslanguagesteتیلگو
+localeDisplayNameslanguagesmohموہاک
+localeDisplayNameslanguagesnewنیواری
+localeDisplayNameslanguagesffفولہ
+localeDisplayNameslanguagesyueکینٹونیز
+localeDisplayNameslanguagesteoتیسو
+localeDisplayNameslanguagesen_USامریکی انگریزی
+localeDisplayNameslanguagesckbسینٹرل کردش
+localeDisplayNameslanguagesaleالیوت
+localeDisplayNameslanguagesanاراگونیز
+localeDisplayNameslanguagesitاطالوی
+localeDisplayNameslanguageskajجے جو
+localeDisplayNameslanguagesluyلویا
+localeDisplayNameslanguagesbgnمغربی بلوچی
+localeDisplayNameslanguageswaeوالسر
+localeDisplayNameslanguagessw_CDکانگو سواحلی
+localeDisplayNameslanguagesnyنیانجا
+localeDisplayNameslanguagesbmبمبارا
+localeDisplayNameslanguagesbnبنگالی
+localeDisplayNameslanguagesgangan
+localeDisplayNameslanguagesinhانگوش
+localeDisplayNameslanguageskgکانگو
+localeDisplayNameslanguageskoiکومی پرمیاک
+localeDisplayNameslanguageskbdکبارڈین
+localeDisplayNameslanguageslouلوزیانا کریول
+localeDisplayNameslanguageszzaزازا
+localeDisplayNameslanguageszunزونی
+localeDisplayNameslanguagesceچیچن
+localeDisplayNameslanguagestetٹیٹم
+localeDisplayNameslanguagesmyبرمی
+localeDisplayNameslanguageshyآرمینیائی
+localeDisplayNameslanguageschmماری
+localeDisplayNameslanguagesknکنّاڈا
+localeDisplayNameslanguageszh_Hansچینی (آسان کردہ)
+localeDisplayNameslanguagesnsoشمالی سوتھو
+localeDisplayNameslanguagesenانگریزی
+localeDisplayNameslanguagesdaڈینش
+localeDisplayNameslanguagesarnماپوچے
+localeDisplayNameslanguagesfrcکاجن فرانسیسی
+localeDisplayNameslanguagesigاِگبو
+localeDisplayNameslanguagesjvجاوی
+localeDisplayNameslanguageskruکوروکھ
+localeDisplayNameslanguagesurاردو
+localeDisplayNameslanguageskiکیکویو
+localeDisplayNameslanguagesjboلوجبان
+localeDisplayNameslanguagesluلبا-کاتانجا
+localeDisplayNameslanguagesrupارومانی
+localeDisplayNameslanguagestzmسینٹرل ایٹلس ٹمازائٹ
+localeDisplayNameslanguagesrootروٹ
+localeDisplayNameslanguagespt_BRبرازیلی پرتگالی
+localeDisplayNameslanguageskwکورنش
+localeDisplayNameslanguagesdakڈاکوٹا
+localeDisplayNameslanguagestwتوی
+localeDisplayNameslanguagesnbنارویجین بوکمل
+localeDisplayNameslanguagesglگالیشیائی
+localeDisplayNameslanguageskrlکیرلین
+localeDisplayNameslanguagesabابقازیان
+localeDisplayNameslanguagessmnاناری سامی
+localeDisplayNameslanguagesscسردینین
+localeDisplayNameslanguagespcmنائجیریائی پڈگن
+localeDisplayNameslanguagesmtمالٹی
+localeDisplayNameslanguageses_MXمیکسیکن ہسپانوی
+localeDisplayNameslanguagesdeجرمن
+localeDisplayNameslanguagesidانڈونیثیائی
+localeDisplayNameslanguagesainاینو
+localeDisplayNameslanguagesprgپارسی
+localeDisplayNameslanguageskeaکابويرديانو
+localeDisplayNameslanguagesmyvارزیا
+localeDisplayNameslanguageshakhak
+localeDisplayNameslanguageskhqکويرا شيني
+localeDisplayNameslanguagestyvتووینین
+localeDisplayNameslanguagesssyساہو
+localeDisplayNameslanguagestvlتووالو
+localeDisplayNameslanguagesefiایفِک
+localeDisplayNameslanguagesetاسٹونین
+localeDisplayNameslanguagesbrxبوڈو
+localeDisplayNameslanguagesltلیتھوینین
+localeDisplayNameslanguagesquکویچوآ
+localeDisplayNameslanguagestlٹیگا لوگ
+localeDisplayNameslanguagessaسنسکرت
+localeDisplayNameslanguagesrarراروتونگان
+localeDisplayNameslanguageseuباسکی
+localeDisplayNameslanguagesdyoجولا فونيا
+localeDisplayNameslanguagesagqاغم
+localeDisplayNameslanguageskoکوریائی
+localeDisplayNameslanguageslaلاطینی
+localeDisplayNameslanguagesmasمسائی
+localeDisplayNameslanguageszhچینی
+localeDisplayNameslanguagesshiتشلحيت
+localeDisplayNameslanguagesdvڈیویہی
+localeDisplayNameslanguagesrwkروا
+localeDisplayNameslanguagesnl_BEفلیمِش
+localeDisplayNameslanguagesniaنیاس
+localeDisplayNameslanguagesmnمنگولین
+localeDisplayNameslanguagesfr_CHسوئس فرینچ
+localeDisplayNameslanguagescaکیٹالان
+localeDisplayNameslanguagesklکالاليست
+localeDisplayNameslanguagesmadمدورسی
+localeDisplayNameslanguagesesہسپانوی
+localeDisplayNameslanguagesmulمتعدد زبانیں
+localeDisplayNameslanguagesastاسٹوریائی
+localeDisplayNameslanguageslezلیزگیان
+localeDisplayNameslanguagesiiسچوان ای
+localeDisplayNameslanguagesfilفلیپینو
+localeDisplayNameslanguagesybbیمبا
+localeDisplayNameslanguagessmساموآن
+localeDisplayNameslanguagesen_GBانگریزی (یو کے)
+localeDisplayNameslanguagesdavتائتا
+localeDisplayNameslanguagesgagغاغاوز
+localeDisplayNameslanguageskacکاچن
+localeDisplayNameslanguagesyoیوروبا
+localeDisplayNameslanguageseeایو
+localeDisplayNameslanguageswbpوارلپیری
+localeDisplayNameslanguagesrapرپانوی
+localeDisplayNameslanguagespapپاپیامینٹو
+localeDisplayNameslanguagescuچرچ سلاوک
+localeDisplayNameslanguageshilہالیگینون
+localeDisplayNameslanguagesibaایبان
+localeDisplayNameslanguagesjaجاپانی
+localeDisplayNameslanguagessvسویڈش
+localeDisplayNameslanguagestkترکمان
+localeDisplayNameslanguageschoچاکٹاؤ
+localeDisplayNameslanguagesndشمالی دبیل
+localeDisplayNameslanguageskfoکورو
+localeDisplayNameslanguagesjgoنگومبا
+localeDisplayNameslanguageszh_Hantروایتی چینی
+localeDisplayNameslanguagesslسلووینیائی
+localeDisplayNameslanguagesruروسی
+localeDisplayNameslanguagesnrجنوبی نڈیبیلی
+localeDisplayNameslanguagestrvٹوروکو
+localeDisplayNameslanguagesaz_Arabآزربائیجانی (عربی)
+localeDisplayNameslanguagessrسربین
+localeDisplayNameslanguagesrmرومانش
+localeDisplayNameslanguagesnnنارویجین نینورسک
+localeDisplayNameslanguagesmgoمیٹا
+localeDisplayNameslanguagesksbشامبالا
+localeDisplayNameslanguagessyrسریانی
+localeDisplayNameslanguagestnسوانا
+localeDisplayNameslanguagesnusنویر
+localeDisplayNameslanguagesneنیپالی
+localeDisplayNameslanguagesfaفارسی
+localeDisplayNameslanguagesanpانگیکا
+localeDisplayNameslanguagesmusکریک
+localeDisplayNameslanguagessatسنتالی
+localeDisplayNameslanguagespamپامپنگا
+localeDisplayNameslanguagesnoنارویجین
+localeDisplayNameslanguagescsچیک
+localeDisplayNameslanguageskabقبائلی
+localeDisplayNameslanguagesasآسامی
+localeDisplayNameslanguagesvoوولاپوک
+localeDisplayNameslanguagesyavیانگبین
+localeDisplayNameslanguagessukسکوما
+localeDisplayNameslanguagesumbاومبوندو
+localeDisplayNameslanguagesliلیمبرگش
+localeDisplayNameslanguagesnnhنگیمبون
+localeDisplayNameslanguagestrترکی
+localeDisplayNameslanguagessmsسکولٹ سامی
+localeDisplayNameslanguagesnaqناما
+localeDisplayNameslanguagesboتبتی
+localeDisplayNameslanguageslagلانگی
+localeDisplayNameslanguagescggچیگا
+localeDisplayNameslanguagesqucکيشی
+localeDisplayNameslanguagesudmادمورت
+localeDisplayNameslanguagesmgملاگاسی
+localeDisplayNameslanguagespsپشتو
+localeDisplayNameslanguagesnvنواجو
+localeDisplayNameslanguagesadyادیگھے
+localeDisplayNameslanguageskrکنوری
+localeDisplayNameslanguagesmaiمیتھیلی
+localeDisplayNameslanguagesluoلو
+localeDisplayNameslanguagesundنامعلوم زبان
+localeDisplayNameslanguagesazازیری
+localeDisplayNameslanguagesugیوئگہر
+localeDisplayNameslanguagessehسینا
+localeDisplayNameslanguagesmosموسی
+localeDisplayNameslanguagesbinبینی
+localeDisplayNameslanguageshaہؤسا
+localeDisplayNameslanguageskrcکراچے بالکر
+localeDisplayNameslanguageskcgتیاپ
+localeDisplayNameslanguagesmrمراٹهی
+localeDisplayNameslanguagesuzازبیک
+localeDisplayNameslanguagesstجنوبی سوتھو
+localeDisplayNameslanguagessbpسانگو
+localeDisplayNameslanguagesomاورومو
+localeDisplayNameslanguagesladلیڈینو
+localeDisplayNameslanguagesgorگورانٹالو
+localeDisplayNameslanguagesxhژوسا
+localeDisplayNameslanguagesptپُرتگالی
+localeDisplayNameslanguagesnmgکوايسو
+localeDisplayNameslanguagesndsادنی جرمن
+localeDisplayNameslanguagescrsسیسلوا کریولے فرانسیسی
+localeDisplayNameslanguagesachاکولی
+localeDisplayNameslanguagesbrبریٹن
+localeDisplayNameslanguageshtہیتی
+localeDisplayNameslanguageshmnہمانگ
+localeDisplayNameslanguagesttتاتار
+localeDisplayNameslanguagesksکشمیری
+localeDisplayNameslanguagesnannan
+localeDisplayNameslanguagesosاوسیٹک
+localeDisplayNameslanguagessbaنگامبے
+localeDisplayNameslanguagesro_MDمالدووا
+localeDisplayNameslanguagesocآکسیٹان
+localeDisplayNameslanguagesaceاچائینیز
+localeDisplayNameslanguagesgnگُارانی
+localeDisplayNameslanguageshzہریرو
+localeDisplayNameslanguageskjکونیاما
+localeDisplayNameslanguagesloلاؤ
+localeDisplayNameslanguagesnapنیاپولیٹن
+localeDisplayNameslanguagesthتھائی
+localeDisplayNameslanguagesrnرونڈی
+localeDisplayNameslanguagesnqoاینکو
+localeDisplayNameslanguagesfjفجی
+localeDisplayNameslanguageselیونانی
+localeDisplayNameslanguagescebسیبوآنو
+localeDisplayNameslanguagesluaلیوبا لولوآ
+localeDisplayNameslanguagestsزونگا
+localeDisplayNameslanguagesiaبین لسانیات
+localeDisplayNameslanguageslusمیزو
+localeDisplayNameslanguageswaوالون
+localeDisplayNameslanguagesorاڑیہ
+localeDisplayNameslanguageses_419لاطینی امریکی ہسپانوی
+localeDisplayNameslanguagesbynبلین
+localeDisplayNameslanguagesayایمارا
+localeDisplayNameslanguagesviویتنامی
+localeDisplayNameslanguagesiloایلوکو
+localeDisplayNameslanguagesshnشان
+localeDisplayNameslanguagesshسربو-کروئیشین
+localeDisplayNameslanguagesaltجنوبی الٹائی
+localeDisplayNameslanguageskumکومیک
+localeDisplayNameslanguagesebuامبو
+localeDisplayNameslanguageszghاسٹینڈرڈ مراقشی تمازیقی
+localeDisplayNameslanguagestpiٹوک پِسِن
+localeDisplayNameslanguageschrچیروکی
+localeDisplayNameslanguagesibbابی بیو
+localeDisplayNameslanguageskaجارجیائی
+localeDisplayNameslanguagespagپنگاسنان
+localeDisplayNameslanguagesgaآئیرِش
+localeDisplayNameslanguagesaaافار
+localeDisplayNameslanguageskshکولوگنیائی
+localeDisplayNameslanguageskvکومی
+localeDisplayNameslanguagesmghماخاوا-ميتو
+localeDisplayNameslanguagesmznمزندرانی
+localeDisplayNameslanguagesafافریقی
+localeDisplayNameslanguagesguگجراتی
+localeDisplayNameslanguagesrofرومبو
+localeDisplayNameslanguageschyچینّے
+localeDisplayNameslanguagesminمنانگکباؤ
+localeDisplayNameslanguageshawہوائی
+localeDisplayNameslanguageshsbاپر سربیائی
+localeDisplayNameslanguagesarpاراپاہو
+localeDisplayNameslanguageslunلونڈا
+localeDisplayNameslanguagesmakمکاسر
+localeDisplayNameslanguagesswسواحلی
+localeDisplayNameslanguageses_ESیورپی ہسپانوی
+localeDisplayNameslanguagessqالبانی
+localeDisplayNameslanguagestlhکلنگن
+localeDisplayNameslanguagestaتمل
+localeDisplayNameslanguagesskسلوواک
+localeDisplayNameslanguagesscoسکاٹ
+localeDisplayNameslanguageseoایسپرانٹو
+localeDisplayNameslanguagesiuاینُکٹیٹٹ
+localeDisplayNameslanguagesisآئس لینڈک
+localeDisplayNameslanguagesewoایوانڈو
+localeDisplayNameslanguagesvunونجو
+localeDisplayNameslanguagespt_PTیورپی پرتگالی
+localeDisplayNameslanguagesdzgدزاگا
+localeDisplayNameslanguagesbemبیمبا
+localeDisplayNameslanguageshiہندی
+localeDisplayNameslanguagesfurفریولیائی
+localeDisplayNameslanguageslnلِنگَلا
+localeDisplayNameslanguagesarعربی
+localeDisplayNameslanguagesseشمالی سامی
+localeDisplayNameslanguagesnynنینکول
+localeDisplayNameslanguageskhaکھاسی
+localeDisplayNameslanguagestiٹگرینیا
+localeDisplayNameslanguagesmkمقدونیائی
+localeDisplayNameslanguagesmniمنی پوری
+localeDisplayNameslanguagesdjeزرما
+localeDisplayNameslanguageshrکراتی
+localeDisplayNameslanguagesbanبالینیز
+localeDisplayNameslanguagessgساںغو
+localeDisplayNameslanguagesmlمالایالم
+localeDisplayNameslanguagesgaaگا
+localeDisplayNameslanguagesguzگسی
+localeDisplayNameslanguagesksfبافيا
+localeDisplayNameslanguageswarوارے
+localeDisplayNameslanguagestoٹونگن
+localeDisplayNameslanguageswalوولایتا
+localeDisplayNameslanguagesfrفرانسیسی
+localeDisplayNameslanguagesfonفون
+localeDisplayNameslanguagesfoفیروئیز
+localeDisplayNameslanguagesakاکان
+localeDisplayNameslanguagesdarدرگوا
+localeDisplayNameslanguagesbeبیلاروسی
+localeDisplayNameslanguagesfr_CAکینیڈین فرانسیسی
+localeDisplayNameslanguagesfyمغربی فریسیئن
+localeDisplayNameslanguagessahساکھا
+localeDisplayNameslanguagesen_CAکینیڈین انگریزی
+localeDisplayNameslanguagesdgrدوگریب
+localeDisplayNameslanguagesbiبسلاما
+localeDisplayNameslanguagesrwکینیاروانڈا
+localeDisplayNameslanguageswuuwuu
+localeDisplayNameslanguageshsnhsn
+localeDisplayNameslanguagesmhمارشلیز
+localeDisplayNameslanguagesblaسکسیکا
+localeDisplayNameslanguagestgتاجک
+localeDisplayNameslanguagessuسنڈانیز
+localeDisplayNameslanguagespaپنجابی
+localeDisplayNameslanguagesjmcماشیم
+localeDisplayNameslanguagesmuaمنڈانگ
+localeDisplayNameslanguageskmbکیمبونڈو
+localeDisplayNameslanguagestigٹگرے
+localeDisplayNameslanguagesnds_NLادنی سیکسن
+localeDisplayNameslanguagesscnسیسیلین
+localeDisplayNameslanguagesniuنیویائی
+localeDisplayNameslanguagesmsمالے
+localeDisplayNameslanguageskamکامبا
+localeDisplayNameslanguageslbلکسمبرگیش
+localeDisplayNameslanguageskkjکاکو
+localeDisplayNameslanguagesbsبوسنیائی
+localeDisplayNameslanguagestwqتاساواق
+localeDisplayNameslanguagessdhجنوبی کرد
+localeDisplayNameslanguagesioایڈو
+localeDisplayNameslanguageszxxکوئی لسانی مواد نہیں
+localeDisplayNameslanguageslgگینڈا
+localeDisplayNameslanguagesswbکوموریائی
+localeDisplayNameslanguagessnشونا
+localeDisplayNameslanguagessesکويرابورو سينی
+localeDisplayNameslanguagessdسندھی
+localeDisplayNameslanguagesnlڈچ
+localeDisplayNameslanguagescvچوواش
+localeDisplayNameslanguagesavاواری
+localeDisplayNameslanguageshuہنگیرین
+localeDisplayNameslanguagesheعبرانی
+localeDisplayNameslanguagessaqسامبورو
+localeDisplayNameslanguagessrnسرانن ٹونگو
+localeDisplayNameslanguagessnkسوننکے
+localeDisplayNameslanguagespauپالاون
+localeDisplayNameslanguagesasaآسو
+localeDisplayNameslanguageskkقزاخ
+localeDisplayNameslanguagesbhoبھوجپوری
+localeDisplayNameslanguagestumٹمبوکا
+localeDisplayNameslanguagesukیوکرینیائی
+localeDisplayNameslanguagesduaدوالا
+localeDisplayNameslanguagesgwiگوئچ ان
+localeDisplayNameslanguageskuکردش
+localeDisplayNameslanguagesdzژونگکھا
+localeDisplayNameslanguagesxalکالمیک
+localeDisplayNameslanguagesar_001ماڈرن اسٹینڈرڈ عربی
+localeDisplayNameslanguagesde_ATآسٹریائی جرمن
+localeDisplayNameslanguagesbgبلغاری
+localeDisplayNameslanguagesklnکالينجين
+localeDisplayNameslanguageskyکرغیزی
+localeDisplayNameslanguageslvلیٹوین
+localeDisplayNameslanguagestemٹمنے
+localeDisplayNameslanguagesfiفینیش
+localeDisplayNameslanguageskokکونکنی
+localeDisplayNameslanguagesbugبگینیز
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}،{1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+calendarsethiopiceraseraAbbr0دور0
+calendarsethiopiceraseraAbbr1دور1
+calendarsethiopiceraseraNames0دور0
+calendarsethiopiceraseraNames1دور1
+calendarsethiopiceraseraNarrow1دور1
+calendarsethiopiceraseraNarrow0دور0
+calendarsethiopicmonthsstand-aloneabbreviated10سینے
+calendarsethiopicmonthsstand-aloneabbreviated7میگابت
+calendarsethiopicmonthsstand-aloneabbreviated12نیہاسے
+calendarsethiopicmonthsstand-aloneabbreviated11ہیملے
+calendarsethiopicmonthsstand-aloneabbreviated3ہیدر
+calendarsethiopicmonthsstand-aloneabbreviated5تیر
+calendarsethiopicmonthsstand-aloneabbreviated13پیگیومین
+calendarsethiopicmonthsstand-aloneabbreviated2تیکیمت
+calendarsethiopicmonthsstand-aloneabbreviated8میازیا
+calendarsethiopicmonthsstand-aloneabbreviated9گیمبوٹ
+calendarsethiopicmonthsstand-aloneabbreviated6یکاتیت
+calendarsethiopicmonthsstand-aloneabbreviated1مسکرم
+calendarsethiopicmonthsstand-aloneabbreviated4تہساس
+calendarsethiopicmonthsstand-alonewide10سینے
+calendarsethiopicmonthsstand-alonewide3ہیدر
+calendarsethiopicmonthsstand-alonewide11ہیملے
+calendarsethiopicmonthsstand-alonewide12نیہاسے
+calendarsethiopicmonthsstand-alonewide7میگابت
+calendarsethiopicmonthsstand-alonewide13پیگیومین
+calendarsethiopicmonthsstand-alonewide2تیکیمت
+calendarsethiopicmonthsstand-alonewide8میازیا
+calendarsethiopicmonthsstand-alonewide5تیر
+calendarsethiopicmonthsstand-alonewide6یکاتیت
+calendarsethiopicmonthsstand-alonewide1مسکرم
+calendarsethiopicmonthsstand-alonewide4تہساس
+calendarsethiopicmonthsstand-alonewide9گیمبوٹ
+calendarsethiopicmonthsformatabbreviated10سینے
+calendarsethiopicmonthsformatabbreviated3ہیدر
+calendarsethiopicmonthsformatabbreviated11ہیملے
+calendarsethiopicmonthsformatabbreviated12نیہاسے
+calendarsethiopicmonthsformatabbreviated7میگابت
+calendarsethiopicmonthsformatabbreviated8میازیا
+calendarsethiopicmonthsformatabbreviated13پیگیومین
+calendarsethiopicmonthsformatabbreviated2تیکیمت
+calendarsethiopicmonthsformatabbreviated5تیر
+calendarsethiopicmonthsformatabbreviated1مسکرم
+calendarsethiopicmonthsformatabbreviated6یکاتیت
+calendarsethiopicmonthsformatabbreviated4تہساس
+calendarsethiopicmonthsformatabbreviated9گیمبوٹ
+calendarsethiopicmonthsformatwide10سینے
+calendarsethiopicmonthsformatwide3ہیدر
+calendarsethiopicmonthsformatwide12نیہاسے
+calendarsethiopicmonthsformatwide7میگابت
+calendarsethiopicmonthsformatwide11ہیملے
+calendarsethiopicmonthsformatwide13پیگیومین
+calendarsethiopicmonthsformatwide8میازیا
+calendarsethiopicmonthsformatwide2تیکیمت
+calendarsethiopicmonthsformatwide5تیر
+calendarsethiopicmonthsformatwide1مسکرم
+calendarsethiopicmonthsformatwide6یکاتیت
+calendarsethiopicmonthsformatwide4تہساس
+calendarsethiopicmonthsformatwide9گیمبوٹ
+calendarsgenericavailableFormatsyyyyMMMdd MMM، y G
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsEBhmsE h:mm:ss B
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatsMMMEdE، d MMM
+calendarsgenericavailableFormatsBhmh:mm B
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsGyMMMdd MMM، y G
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsMEdE، d/M
+calendarsgenericavailableFormatsyyyyMMMEdE، d MMM، y G
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMM/y G
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsyyyyMMMMMMMM y G
+calendarsgenericavailableFormatsyyyyMEdE، d/M/y G
+calendarsgenericavailableFormatsMdd/M
+calendarsgenericavailableFormatsHHH
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsyyyyMdd/M/y G
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsEBhmE h:mm B
+calendarsgenericavailableFormatsBhmsh:mm:ss B
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsGyMMMEdE، d MMM، y G
+calendarsgenericavailableFormatsEdd E
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsBhh B
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatsyMMMMMMM–MMM y G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatsMEdME، d/M – E، d/M
+calendarsgenericintervalFormatsMEddE، d/M – E، d/M
+calendarsgenericintervalFormatsyMyM/y – M/y G
+calendarsgenericintervalFormatsyMMM/y – M/y G
+calendarsgenericintervalFormatsyyy–y G
+calendarsgenericintervalFormatsHvHHH–HH v
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatsMMMEdME، d MMM – E، d MMM
+calendarsgenericintervalFormatsMMMEddE، d MMM – E، d MMM
+calendarsgenericintervalFormatsyMMMMMMMMM–MMMM y G
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsyMMMEdyE، d MMM، y – E، d MMM، y G
+calendarsgenericintervalFormatsyMMMEddE، d MMM – E، d MMM، y G
+calendarsgenericintervalFormatsyMMMEdME، d MMM – E، d MMM، y G
+calendarsgenericintervalFormatsMMM–M
+calendarsgenericintervalFormatsHmmHH:mm–HH:mm
+calendarsgenericintervalFormatsHmHHH:mm–HH:mm
+calendarsgenericintervalFormatsddd–d
+calendarsgenericintervalFormatsyMMMdyd MMM، y – d MMM، y G
+calendarsgenericintervalFormatsyMMMdMd MMM – d MMM، y G
+calendarsgenericintervalFormatsyMMMddd–d MMM، y G
+calendarsgenericintervalFormatsyMEddE، d/M/y – E، d/M/y G
+calendarsgenericintervalFormatsyMEdME، d/M/y – E، d/M/y G
+calendarsgenericintervalFormatsyMEdyE، d/M/y – E، d/M/y G
+calendarsgenericintervalFormatsMdMd/M – d/M
+calendarsgenericintervalFormatsMddd/M – d/M
+calendarsgenericintervalFormatsMMMMMMM–MMM
+calendarsgenericintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgenericintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatsHHHH–HH
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsMMMddd–d MMM
+calendarsgenericintervalFormatsMMMdMd MMM – d MMM
+calendarsgenericintervalFormatsyMdMd/M/y – d/M/y G
+calendarsgenericintervalFormatsyMddd/M/y – d/M/y G
+calendarsgenericintervalFormatsyMdyd/M/y – d/M/y G
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateFormatslongstandardd MMMM، y G
+calendarsgenericdateFormatsmediumstandardd MMM، y G
+calendarsgenericdateFormatsshortstandardd/M/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE، d MMMM، y G
+calendarscopticmonthsformatwide10پاؤنا
+calendarscopticmonthsformatwide3ہیٹر
+calendarscopticmonthsformatwide12میسرا
+calendarscopticmonthsformatwide7برمہات
+calendarscopticmonthsformatwide11ایپپ
+calendarscopticmonthsformatwide13ناسی
+calendarscopticmonthsformatwide2بابا
+calendarscopticmonthsformatwide8برموڈا
+calendarscopticmonthsformatwide5توبا
+calendarscopticmonthsformatwide1ٹاؤٹ
+calendarscopticmonthsformatwide6امشیر
+calendarscopticmonthsformatwide4کیاہک
+calendarscopticmonthsformatwide9بشانس
+calendarscopticmonthsformatabbreviated5توبا
+calendarscopticmonthsformatabbreviated8برموڈا
+calendarscopticmonthsformatabbreviated13ناسی
+calendarscopticmonthsformatabbreviated2بابا
+calendarscopticmonthsformatabbreviated9بشانس
+calendarscopticmonthsformatabbreviated1ٹاؤٹ
+calendarscopticmonthsformatabbreviated6امشیر
+calendarscopticmonthsformatabbreviated4کیاہک
+calendarscopticmonthsformatabbreviated10پاؤنا
+calendarscopticmonthsformatabbreviated12میسرا
+calendarscopticmonthsformatabbreviated11ایپپ
+calendarscopticmonthsformatabbreviated7برمہات
+calendarscopticmonthsformatabbreviated3ہیٹر
+calendarscopticmonthsstand-aloneabbreviated9بشانس
+calendarscopticmonthsstand-aloneabbreviated6امشیر
+calendarscopticmonthsstand-aloneabbreviated1ٹاؤٹ
+calendarscopticmonthsstand-aloneabbreviated4کیاہک
+calendarscopticmonthsstand-aloneabbreviated5توبا
+calendarscopticmonthsstand-aloneabbreviated13ناسی
+calendarscopticmonthsstand-aloneabbreviated8برموڈا
+calendarscopticmonthsstand-aloneabbreviated2بابا
+calendarscopticmonthsstand-aloneabbreviated12میسرا
+calendarscopticmonthsstand-aloneabbreviated7برمہات
+calendarscopticmonthsstand-aloneabbreviated11ایپپ
+calendarscopticmonthsstand-aloneabbreviated3ہیٹر
+calendarscopticmonthsstand-aloneabbreviated10پاؤنا
+calendarscopticmonthsstand-alonewide12میسرا
+calendarscopticmonthsstand-alonewide11ایپپ
+calendarscopticmonthsstand-alonewide7برمہات
+calendarscopticmonthsstand-alonewide3ہیٹر
+calendarscopticmonthsstand-alonewide10پاؤنا
+calendarscopticmonthsstand-alonewide9بشانس
+calendarscopticmonthsstand-alonewide1ٹاؤٹ
+calendarscopticmonthsstand-alonewide6امشیر
+calendarscopticmonthsstand-alonewide4کیاہک
+calendarscopticmonthsstand-alonewide5توبا
+calendarscopticmonthsstand-alonewide13ناسی
+calendarscopticmonthsstand-alonewide2بابا
+calendarscopticmonthsstand-alonewide8برموڈا
+calendarscopticeraseraAbbr1دور1
+calendarscopticeraseraAbbr0دور0
+calendarscopticeraseraNames1دور1
+calendarscopticeraseraNames0دور0
+calendarscopticeraseraNarrow0دور0
+calendarscopticeraseraNarrow1دور1
+calendarsbuddhisteraseraAbbr0BE
+calendarsbuddhisteraseraNames0BE
+calendarsbuddhisteraseraNarrow0BE
+calendarspersianmonthsformatwide10ڈے
+calendarspersianmonthsformatwide7مہر
+calendarspersianmonthsformatwide12اسفند
+calendarspersianmonthsformatwide11بہمن
+calendarspersianmonthsformatwide3خداداد
+calendarspersianmonthsformatwide5مرداد
+calendarspersianmonthsformatwide8ابان
+calendarspersianmonthsformatwide2آرڈبائش
+calendarspersianmonthsformatwide9آزر
+calendarspersianmonthsformatwide4تیر
+calendarspersianmonthsformatwide6شہریوار
+calendarspersianmonthsformatwide1فروردن
+calendarspersianmonthsformatabbreviated10ڈے
+calendarspersianmonthsformatabbreviated3خداداد
+calendarspersianmonthsformatabbreviated12اسفند
+calendarspersianmonthsformatabbreviated7مہر
+calendarspersianmonthsformatabbreviated11بہمن
+calendarspersianmonthsformatabbreviated2آرڈبائش
+calendarspersianmonthsformatabbreviated8ابان
+calendarspersianmonthsformatabbreviated5مرداد
+calendarspersianmonthsformatabbreviated1فروردن
+calendarspersianmonthsformatabbreviated6شہریوار
+calendarspersianmonthsformatabbreviated4تیر
+calendarspersianmonthsformatabbreviated9آزر
+calendarspersianmonthsstand-alonewide5مرداد
+calendarspersianmonthsstand-alonewide8ابان
+calendarspersianmonthsstand-alonewide2آرڈبائش
+calendarspersianmonthsstand-alonewide9آزر
+calendarspersianmonthsstand-alonewide6شہریوار
+calendarspersianmonthsstand-alonewide1فروردن
+calendarspersianmonthsstand-alonewide4تیر
+calendarspersianmonthsstand-alonewide10ڈے
+calendarspersianmonthsstand-alonewide11بہمن
+calendarspersianmonthsstand-alonewide12اسفند
+calendarspersianmonthsstand-alonewide7مہر
+calendarspersianmonthsstand-alonewide3خداداد
+calendarspersianmonthsstand-aloneabbreviated10ڈے
+calendarspersianmonthsstand-aloneabbreviated3خداداد
+calendarspersianmonthsstand-aloneabbreviated7مہر
+calendarspersianmonthsstand-aloneabbreviated12اسفند
+calendarspersianmonthsstand-aloneabbreviated11بہمن
+calendarspersianmonthsstand-aloneabbreviated8ابان
+calendarspersianmonthsstand-aloneabbreviated2آرڈبائش
+calendarspersianmonthsstand-aloneabbreviated5مرداد
+calendarspersianmonthsstand-aloneabbreviated1فروردن
+calendarspersianmonthsstand-aloneabbreviated6شہریوار
+calendarspersianmonthsstand-aloneabbreviated4تیر
+calendarspersianmonthsstand-aloneabbreviated9آزر
+calendarspersianeraseraAbbr0AP
+calendarspersianeraseraNames0AP
+calendarspersianeraseraNarrow0AP
+calendarsislamicmonthsstand-aloneabbreviated2صفر
+calendarsislamicmonthsstand-aloneabbreviated8شعبان
+calendarsislamicmonthsstand-aloneabbreviated5جمادی الاوّل
+calendarsislamicmonthsstand-aloneabbreviated6جمادی الثّانی
+calendarsislamicmonthsstand-aloneabbreviated1محرم
+calendarsislamicmonthsstand-aloneabbreviated4ربیع الثّانی
+calendarsislamicmonthsstand-aloneabbreviated9رمضان
+calendarsislamicmonthsstand-aloneabbreviated10شوال
+calendarsislamicmonthsstand-aloneabbreviated3ربیع الاوّل
+calendarsislamicmonthsstand-aloneabbreviated12ذوالحجۃ
+calendarsislamicmonthsstand-aloneabbreviated7رجب
+calendarsislamicmonthsstand-aloneabbreviated11ذوالقعدۃ
+calendarsislamicmonthsstand-alonewide7رجب
+calendarsislamicmonthsstand-alonewide12ذوالحجۃ
+calendarsislamicmonthsstand-alonewide11ذوالقعدۃ
+calendarsislamicmonthsstand-alonewide3ر بیع الاول
+calendarsislamicmonthsstand-alonewide10شوال
+calendarsislamicmonthsstand-alonewide9رمضان
+calendarsislamicmonthsstand-alonewide4ر بیع الثانی
+calendarsislamicmonthsstand-alonewide6جمادی الثانی
+calendarsislamicmonthsstand-alonewide1محرم
+calendarsislamicmonthsstand-alonewide5جمادی الاول
+calendarsislamicmonthsstand-alonewide8شعبان
+calendarsislamicmonthsstand-alonewide2صفر
+calendarsislamicmonthsformatwide12ذوالحجۃ
+calendarsislamicmonthsformatwide11ذوالقعدۃ
+calendarsislamicmonthsformatwide7رجب
+calendarsislamicmonthsformatwide3ر بیع الاول
+calendarsislamicmonthsformatwide10شوال
+calendarsislamicmonthsformatwide9رمضان
+calendarsislamicmonthsformatwide6جمادی الثانی
+calendarsislamicmonthsformatwide1محرم
+calendarsislamicmonthsformatwide4ر بیع الثانی
+calendarsislamicmonthsformatwide5جمادی الاول
+calendarsislamicmonthsformatwide2صفر
+calendarsislamicmonthsformatwide8شعبان
+calendarsislamicmonthsformatabbreviated5جمادی الاوّل
+calendarsislamicmonthsformatabbreviated2صفر
+calendarsislamicmonthsformatabbreviated8شعبان
+calendarsislamicmonthsformatabbreviated9رمضان
+calendarsislamicmonthsformatabbreviated4ربیع الثّانی
+calendarsislamicmonthsformatabbreviated6جمادی الثّانی
+calendarsislamicmonthsformatabbreviated1محرم
+calendarsislamicmonthsformatabbreviated10شوال
+calendarsislamicmonthsformatabbreviated7رجب
+calendarsislamicmonthsformatabbreviated12ذوالحجۃ
+calendarsislamicmonthsformatabbreviated11ذوالقعدۃ
+calendarsislamicmonthsformatabbreviated3ربیع الاوّل
+calendarsislamiceraseraAbbr0ہجری
+calendarsislamiceraseraNarrow0ہجری
+calendarsislamiceraseraNames0ہجری
+calendarsroceraseraNarrow1جمہوریہ چین
+calendarsroceraseraNarrow0قبل از جمہوریہ چین
+calendarsroceraseraNames0قبل از جمہوریہ چین
+calendarsroceraseraNames1جمہوریہ چین
+calendarsroceraseraAbbr1جمہوریہ چین
+calendarsroceraseraAbbr0قبل از جمہوریہ چین
+calendarshebreweraseraNames0AM
+calendarshebreweraseraNarrow0AM
+calendarshebreweraseraAbbr0AM
+calendarshebrewmonthsstand-aloneabbreviated3کسلیو
+calendarshebrewmonthsstand-aloneabbreviated12او
+calendarshebrewmonthsstand-aloneabbreviated11تموز
+calendarshebrewmonthsstand-aloneabbreviated7آدر دوّم
+calendarshebrewmonthsstand-aloneabbreviated10سیون
+calendarshebrewmonthsstand-aloneabbreviated4تیویت
+calendarshebrewmonthsstand-aloneabbreviated6آدر اوّل
+calendarshebrewmonthsstand-aloneabbreviated1ٹشری
+calendarshebrewmonthsstand-aloneabbreviated9ایئر
+calendarshebrewmonthsstand-aloneabbreviated13ای لول
+calendarshebrewmonthsstand-aloneabbreviated8نسان
+calendarshebrewmonthsstand-aloneabbreviated2هےشوان
+calendarshebrewmonthsstand-aloneabbreviated5شیوت
+calendarshebrewmonthsstand-alonewide10سیون
+calendarshebrewmonthsstand-alonewide12او
+calendarshebrewmonthsstand-alonewide11تموز
+calendarshebrewmonthsstand-alonewide7آدر دوّم
+calendarshebrewmonthsstand-alonewide3کسلیو
+calendarshebrewmonthsstand-alonewide5شیوت
+calendarshebrewmonthsstand-alonewide13ای لول
+calendarshebrewmonthsstand-alonewide8نسان
+calendarshebrewmonthsstand-alonewide2هےشوان
+calendarshebrewmonthsstand-alonewide9ایئر
+calendarshebrewmonthsstand-alonewide6آدر اوّل
+calendarshebrewmonthsstand-alonewide4تیویت
+calendarshebrewmonthsstand-alonewide1ٹشری
+calendarshebrewmonthsformatwide8نسان
+calendarshebrewmonthsformatwide13ای لول
+calendarshebrewmonthsformatwide2هےشوان
+calendarshebrewmonthsformatwide5شیوت
+calendarshebrewmonthsformatwide6آدر اوّل
+calendarshebrewmonthsformatwide4تیویت
+calendarshebrewmonthsformatwide1ٹشری
+calendarshebrewmonthsformatwide9ایئر
+calendarshebrewmonthsformatwide10سیون
+calendarshebrewmonthsformatwide3کسلیو
+calendarshebrewmonthsformatwide12او
+calendarshebrewmonthsformatwide11تموز
+calendarshebrewmonthsformatwide7آدر دوّم
+calendarshebrewmonthsformatabbreviated3کسلیو
+calendarshebrewmonthsformatabbreviated7آدر دوّم
+calendarshebrewmonthsformatabbreviated12او
+calendarshebrewmonthsformatabbreviated11تموز
+calendarshebrewmonthsformatabbreviated10سیون
+calendarshebrewmonthsformatabbreviated6آدر اوّل
+calendarshebrewmonthsformatabbreviated4تیویت
+calendarshebrewmonthsformatabbreviated1ٹشری
+calendarshebrewmonthsformatabbreviated9ایئر
+calendarshebrewmonthsformatabbreviated8نسان
+calendarshebrewmonthsformatabbreviated13ای لول
+calendarshebrewmonthsformatabbreviated2هےشوان
+calendarshebrewmonthsformatabbreviated5شیوت
+calendarsindianmonthsformatabbreviated9اگراہانا
+calendarsindianmonthsformatabbreviated4اسدھا
+calendarsindianmonthsformatabbreviated6بھدرا
+calendarsindianmonthsformatabbreviated1چتررا
+calendarsindianmonthsformatabbreviated5سراؤنا
+calendarsindianmonthsformatabbreviated8کارتیکا
+calendarsindianmonthsformatabbreviated2ویساکھا
+calendarsindianmonthsformatabbreviated12پھالگنا
+calendarsindianmonthsformatabbreviated11میگا
+calendarsindianmonthsformatabbreviated7اسوینا
+calendarsindianmonthsformatabbreviated3جیہائشہ
+calendarsindianmonthsformatabbreviated10پوسا
+calendarsindianmonthsformatwide5سراؤنا
+calendarsindianmonthsformatwide8کارتیکا
+calendarsindianmonthsformatwide2ویساکھا
+calendarsindianmonthsformatwide9اگراہانا
+calendarsindianmonthsformatwide1چتررا
+calendarsindianmonthsformatwide6بھدرا
+calendarsindianmonthsformatwide4اسدھا
+calendarsindianmonthsformatwide10پوسا
+calendarsindianmonthsformatwide11میگا
+calendarsindianmonthsformatwide12پھالگنا
+calendarsindianmonthsformatwide7اسوینا
+calendarsindianmonthsformatwide3جیہائشہ
+calendarsindianmonthsstand-aloneabbreviated7اسوینا
+calendarsindianmonthsstand-aloneabbreviated12پھالگنا
+calendarsindianmonthsstand-aloneabbreviated11میگا
+calendarsindianmonthsstand-aloneabbreviated3جیہائشہ
+calendarsindianmonthsstand-aloneabbreviated10پوسا
+calendarsindianmonthsstand-aloneabbreviated9اگراہانا
+calendarsindianmonthsstand-aloneabbreviated6بھدرا
+calendarsindianmonthsstand-aloneabbreviated1چتررا
+calendarsindianmonthsstand-aloneabbreviated4اسدھا
+calendarsindianmonthsstand-aloneabbreviated5سراؤنا
+calendarsindianmonthsstand-aloneabbreviated8کارتیکا
+calendarsindianmonthsstand-aloneabbreviated2ویساکھا
+calendarsindianmonthsstand-alonewide1چتررا
+calendarsindianmonthsstand-alonewide6بھدرا
+calendarsindianmonthsstand-alonewide4اسدھا
+calendarsindianmonthsstand-alonewide9اگراہانا
+calendarsindianmonthsstand-alonewide2ویساکھا
+calendarsindianmonthsstand-alonewide8کارتیکا
+calendarsindianmonthsstand-alonewide5سراؤنا
+calendarsindianmonthsstand-alonewide3جیہائشہ
+calendarsindianmonthsstand-alonewide7اسوینا
+calendarsindianmonthsstand-alonewide12پھالگنا
+calendarsindianmonthsstand-alonewide11میگا
+calendarsindianmonthsstand-alonewide10پوسا
+calendarsindianeraseraNarrow0ساکا
+calendarsindianeraseraNames0ساکا
+calendarsindianeraseraAbbr0ساکا
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsMMMEdE، d MMM
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsBhmh:mm B
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEBhmsE h:mm:ss B
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsMEdE، d/M
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsywY کا w ہفتہ
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyMMMdd MMM، y G
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsyMEdE، d/M/y
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsyMMMEdE، d MMM، y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsEdd E
+calendarsgregorianavailableFormatsGyMMMEdE، d MMM، y G
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsBhh B
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsyMMMdd MMM، y
+calendarsgregorianavailableFormatsMMMMWMMMM کا ہفتہ W
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsEBhmE h:mm B
+calendarsgregorianavailableFormatsBhmsh:mm:ss B
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianmonthsstand-alonenarrow8A
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow6J
+calendarsgregorianmonthsstand-alonenarrow1J
+calendarsgregorianmonthsstand-alonenarrow4A
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow10O
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow12D
+calendarsgregorianmonthsstand-alonenarrow7J
+calendarsgregorianmonthsstand-alonewide9ستمبر
+calendarsgregorianmonthsstand-alonewide1جنوری
+calendarsgregorianmonthsstand-alonewide6جون
+calendarsgregorianmonthsstand-alonewide4اپریل
+calendarsgregorianmonthsstand-alonewide5مئی
+calendarsgregorianmonthsstand-alonewide8اگست
+calendarsgregorianmonthsstand-alonewide2فروری
+calendarsgregorianmonthsstand-alonewide11نومبر
+calendarsgregorianmonthsstand-alonewide12دسمبر
+calendarsgregorianmonthsstand-alonewide7جولائی
+calendarsgregorianmonthsstand-alonewide3مارچ
+calendarsgregorianmonthsstand-alonewide10اکتوبر
+calendarsgregorianmonthsstand-aloneabbreviated6جون
+calendarsgregorianmonthsstand-aloneabbreviated4اپریل
+calendarsgregorianmonthsstand-aloneabbreviated1جنوری
+calendarsgregorianmonthsstand-aloneabbreviated9ستمبر
+calendarsgregorianmonthsstand-aloneabbreviated2فروری
+calendarsgregorianmonthsstand-aloneabbreviated8اگست
+calendarsgregorianmonthsstand-aloneabbreviated5مئی
+calendarsgregorianmonthsstand-aloneabbreviated3مارچ
+calendarsgregorianmonthsstand-aloneabbreviated11نومبر
+calendarsgregorianmonthsstand-aloneabbreviated12دسمبر
+calendarsgregorianmonthsstand-aloneabbreviated7جولائی
+calendarsgregorianmonthsstand-aloneabbreviated10اکتوبر
+calendarsgregorianmonthsformatabbreviated3مارچ
+calendarsgregorianmonthsformatabbreviated12دسمبر
+calendarsgregorianmonthsformatabbreviated11نومبر
+calendarsgregorianmonthsformatabbreviated7جولائی
+calendarsgregorianmonthsformatabbreviated10اکتوبر
+calendarsgregorianmonthsformatabbreviated6جون
+calendarsgregorianmonthsformatabbreviated4اپریل
+calendarsgregorianmonthsformatabbreviated1جنوری
+calendarsgregorianmonthsformatabbreviated9ستمبر
+calendarsgregorianmonthsformatabbreviated2فروری
+calendarsgregorianmonthsformatabbreviated8اگست
+calendarsgregorianmonthsformatabbreviated5مئی
+calendarsgregorianmonthsformatwide8اگست
+calendarsgregorianmonthsformatwide2فروری
+calendarsgregorianmonthsformatwide5مئی
+calendarsgregorianmonthsformatwide1جنوری
+calendarsgregorianmonthsformatwide6جون
+calendarsgregorianmonthsformatwide4اپریل
+calendarsgregorianmonthsformatwide9ستمبر
+calendarsgregorianmonthsformatwide10اکتوبر
+calendarsgregorianmonthsformatwide3مارچ
+calendarsgregorianmonthsformatwide12دسمبر
+calendarsgregorianmonthsformatwide11نومبر
+calendarsgregorianmonthsformatwide7جولائی
+calendarsgregorianmonthsformatnarrow5M
+calendarsgregorianmonthsformatnarrow8A
+calendarsgregorianmonthsformatnarrow2F
+calendarsgregorianmonthsformatnarrow9S
+calendarsgregorianmonthsformatnarrow6J
+calendarsgregorianmonthsformatnarrow4A
+calendarsgregorianmonthsformatnarrow1J
+calendarsgregorianmonthsformatnarrow10O
+calendarsgregorianmonthsformatnarrow7J
+calendarsgregorianmonthsformatnarrow12D
+calendarsgregorianmonthsformatnarrow11N
+calendarsgregorianmonthsformatnarrow3M
+calendarsgregorianeraseraNames0عام دور سے قبل
+calendarsgregorianeraseraNames1عام دور
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregorianeraseraAbbr1CE
+calendarsgregoriantimeFormatsfullstandardh:mm:ss a zzzz
+calendarsgregoriantimeFormatsshortstandardh:mm a
+calendarsgregoriantimeFormatslongstandardh:mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardh:mm:ss a
+calendarsgregorianintervalFormatsyMEddE، d/M/y – E، d/M/y
+calendarsgregorianintervalFormatsyMEdME، d/M/y – E، d/M/y
+calendarsgregorianintervalFormatsyMEdyE، d/M/y – E، d/M/y
+calendarsgregorianintervalFormatsMddd/M – d/M
+calendarsgregorianintervalFormatsMdMd/M – d/M
+calendarsgregorianintervalFormatsMMMMMMM–MMM
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHHHH–HH
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsMMMdMd MMM – d MMM
+calendarsgregorianintervalFormatsMMMddd–d MMM
+calendarsgregorianintervalFormatsyMdMd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMddd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMdyd/M/y – d/M/y
+calendarsgregorianintervalFormatsddd–d
+calendarsgregorianintervalFormatsyMMMEddE، d MMM – E، d MMM، y
+calendarsgregorianintervalFormatsyMMMEdME، d MMM – E، d MMM، y
+calendarsgregorianintervalFormatsyMMMEdyE، d MMM، y – E، d MMM، y
+calendarsgregorianintervalFormatsMMM–M
+calendarsgregorianintervalFormatsHmHHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsyMMMddd–d MMM y
+calendarsgregorianintervalFormatsyMMMdMd MMM – d MMM، y
+calendarsgregorianintervalFormatsyMMMdyd MMM، y – d MMM، y
+calendarsgregorianintervalFormatsMMMEdME، d MMM – E، d MMM
+calendarsgregorianintervalFormatsMMMEddE، d MMM – E، d MMM
+calendarsgregorianintervalFormatsyMMMMMMMMM–MMMM y
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsyMMMMMMM–MMM y
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatsMEdME، d/M – E، d/M
+calendarsgregorianintervalFormatsMEddE، d/M – E، d/M
+calendarsgregorianintervalFormatsyMMM/y – M/y
+calendarsgregorianintervalFormatsyMyM/y – M/y
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowmorning1صبح
+calendarsgregoriandayPeriodsstand-alonenarrowmidnightآدھی رات
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon1دوپہر
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsstand-alonenarrownight1رات
+calendarsgregoriandayPeriodsstand-alonenarrowevening1شام
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon2سہ پہر
+calendarsgregoriandayPeriodsstand-alonewidemorning1صبح
+calendarsgregoriandayPeriodsstand-alonewidepmPM
+calendarsgregoriandayPeriodsstand-alonewideamAM
+calendarsgregoriandayPeriodsstand-alonewideafternoon1دوپہر
+calendarsgregoriandayPeriodsstand-alonewidemidnightآدھی رات
+calendarsgregoriandayPeriodsstand-alonewideafternoon2سہ پہر
+calendarsgregoriandayPeriodsstand-alonewidenight1رات
+calendarsgregoriandayPeriodsstand-alonewideevening1شام
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon1دوپہر
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmidnightآدھی رات
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning1صبح
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedevening1شام
+calendarsgregoriandayPeriodsstand-aloneabbreviatednight1رات
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon2سہ پہر
+calendarsgregoriandayPeriodsformatabbreviatedevening1شام
+calendarsgregoriandayPeriodsformatabbreviatednight1رات
+calendarsgregoriandayPeriodsformatabbreviatedafternoon2سہ پہر
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandayPeriodsformatabbreviatedafternoon1دوپہر
+calendarsgregoriandayPeriodsformatabbreviatedmidnightآدھی رات
+calendarsgregoriandayPeriodsformatabbreviatedmorning1صبح
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandayPeriodsformatwidemorning1صبح میں
+calendarsgregoriandayPeriodsformatwideafternoon1دوپہر میں
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwidemidnightآدھی رات
+calendarsgregoriandayPeriodsformatwideevening1شام میں
+calendarsgregoriandayPeriodsformatwidenight1رات میں
+calendarsgregoriandayPeriodsformatwideafternoon2سہ پہر
+calendarsgregoriandayPeriodsformatnarrowevening1شام
+calendarsgregoriandayPeriodsformatnarrownight1رات
+calendarsgregoriandayPeriodsformatnarrowafternoon2سہ پہر
+calendarsgregoriandayPeriodsformatnarrowafternoon1دوپہر
+calendarsgregoriandayPeriodsformatnarrowmidnightآدھی رات
+calendarsgregoriandayPeriodsformatnarrowama
+calendarsgregoriandayPeriodsformatnarrowpmp
+calendarsgregoriandayPeriodsformatnarrowmorning1صبح
+calendarsgregoriandaysformatabbreviatedfriجمعہ
+calendarsgregoriandaysformatabbreviatedsatہفتہ
+calendarsgregoriandaysformatabbreviatedthuجمعرات
+calendarsgregoriandaysformatabbreviatedmonپیر
+calendarsgregoriandaysformatabbreviatedtueمنگل
+calendarsgregoriandaysformatabbreviatedwedبدھ
+calendarsgregoriandaysformatabbreviatedsunاتوار
+calendarsgregoriandaysformatwidemonپیر
+calendarsgregoriandaysformatwidetueمنگل
+calendarsgregoriandaysformatwidefriجمعہ
+calendarsgregoriandaysformatwidesatہفتہ
+calendarsgregoriandaysformatwidethuجمعرات
+calendarsgregoriandaysformatwidesunاتوار
+calendarsgregoriandaysformatwidewedبدھ
+calendarsgregoriandaysformatnarrowwedW
+calendarsgregoriandaysformatnarrowsunS
+calendarsgregoriandaysformatnarrowsatS
+calendarsgregoriandaysformatnarrowthuT
+calendarsgregoriandaysformatnarrowfriF
+calendarsgregoriandaysformatnarrowtueT
+calendarsgregoriandaysformatnarrowmonM
+calendarsgregoriandaysformatshortwedبدھ
+calendarsgregoriandaysformatshortsunاتوار
+calendarsgregoriandaysformatshortfriجمعہ
+calendarsgregoriandaysformatshortthuجمعرات
+calendarsgregoriandaysformatshortsatہفتہ
+calendarsgregoriandaysformatshortmonپیر
+calendarsgregoriandaysformatshorttueمنگل
+calendarsgregoriandaysstand-alonewidewedبدھ
+calendarsgregoriandaysstand-alonewidesunاتوار
+calendarsgregoriandaysstand-alonewidethuجمعرات
+calendarsgregoriandaysstand-alonewidesatہفتہ
+calendarsgregoriandaysstand-alonewidefriجمعہ
+calendarsgregoriandaysstand-alonewidetueمنگل
+calendarsgregoriandaysstand-alonewidemonپیر
+calendarsgregoriandaysstand-aloneabbreviatedfriجمعہ
+calendarsgregoriandaysstand-aloneabbreviatedthuجمعرات
+calendarsgregoriandaysstand-aloneabbreviatedsatہفتہ
+calendarsgregoriandaysstand-aloneabbreviatedmonپیر
+calendarsgregoriandaysstand-aloneabbreviatedtueمنگل
+calendarsgregoriandaysstand-aloneabbreviatedwedبدھ
+calendarsgregoriandaysstand-aloneabbreviatedsunاتوار
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowwedW
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowtueT
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-alonenarrowthuT
+calendarsgregoriandaysstand-aloneshortthuجمعرات
+calendarsgregoriandaysstand-aloneshortsatہفتہ
+calendarsgregoriandaysstand-aloneshortfriجمعہ
+calendarsgregoriandaysstand-aloneshorttueمنگل
+calendarsgregoriandaysstand-aloneshortmonپیر
+calendarsgregoriandaysstand-aloneshortwedبدھ
+calendarsgregoriandaysstand-aloneshortsunاتوار
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregoriandateFormatsmediumstandardd MMM، y
+calendarsgregoriandateFormatslongstandardd MMMM، y
+calendarsgregoriandateFormatsfullstandardEEEE، d MMMM، y
+calendarsgregoriandateFormatsshortstandardd/M/yy
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatabbreviated4چوتهی سہ ماہی
+calendarsgregorianquartersformatabbreviated1پہلی سہ ماہی
+calendarsgregorianquartersformatabbreviated2دوسری سہ ماہی
+calendarsgregorianquartersformatabbreviated3تیسری سہ ماہی
+calendarsgregorianquartersformatwide3تیسری سہ ماہی
+calendarsgregorianquartersformatwide1پہلی سہ ماہی
+calendarsgregorianquartersformatwide4چوتهی سہ ماہی
+calendarsgregorianquartersformatwide2دوسری سہ ماہی
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-aloneabbreviated2دوسری سہ ماہی
+calendarsgregorianquartersstand-aloneabbreviated4چوتهی سہ ماہی
+calendarsgregorianquartersstand-aloneabbreviated1پہلی سہ ماہی
+calendarsgregorianquartersstand-aloneabbreviated3تیسری سہ ماہی
+calendarsgregorianquartersstand-alonewide2دوسری سہ ماہی
+calendarsgregorianquartersstand-alonewide1پہلی سہ ماہی
+calendarsgregorianquartersstand-alonewide4چوتهی سہ ماہی
+calendarsgregorianquartersstand-alonewide3تیسری سہ ماہی

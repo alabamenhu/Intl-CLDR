@@ -1,0 +1,415 @@
+numberscurrencyFormatslatnshort10000000M¤
+numberscurrencyFormatslatnshort100000000K¤
+numberscurrencyFormatslatnshort1000000K¤
+numberscurrencyFormatslatnshort100000000000M¤
+numberscurrencyFormatslatnshort10000000000G¤
+numberscurrencyFormatslatnshort100000000000000G¤
+numberscurrencyFormatslatnshort10000K¤
+numberscurrencyFormatslatnshort10000000000000T¤
+numberscurrencyFormatslatnshort100000000000000000T¤
+numberscurrencyFormatslatnshort1000000000000G¤
+numberscurrencyFormatslatnshort1000000000000000T¤
+numberscurrencyFormatslatnshort1000000000M¤
+numberscurrencyFormatslatnstandardstandard#,##0.00¤
+numberssymbolslatngroup 
+numberssymbolslatndecimal,
+delimitersalternateQuotationEnd”
+delimitersquotationEnd»
+delimitersquotationStart«
+delimitersalternateQuotationStart„
+charactersexemplarCharactersstandard[a b c d ḍ e ɛ f g {gʷ} ɣ h ḥ i j k {kʷ} l m n q r ṛ s ṣ t ṭ u w x y z]
+charactersexemplarCharactersauxiliary[o p v]
+charactersexemplarCharactersindex[A B C D Ḍ E Ɛ F G {Gʷ} Ɣ H Ḥ I J K {Kʷ} L M N Q R Ṛ S Ṣ T Ṭ U W X Y Z]
+charactersexemplarCharactersnumbers[ \- , % ‰ + 0 1 2 3 4 5 6 7 8 9]
+posixmessagesnostruhu:u
+posixmessagesyesstryyih:y
+calendarsgregoriandayPeriodsformatabbreviatedpmtadggʷat
+calendarsgregoriandayPeriodsformatabbreviatedamtifawt
+calendarsgregoriandayPeriodsformatwidepmtadggʷat
+calendarsgregoriandayPeriodsformatwideamtifawt
+calendarsgregorianmonthsstand-alonenarrow7y
+calendarsgregorianmonthsstand-alonenarrow9c
+calendarsgregorianmonthsstand-alonenarrow6y
+calendarsgregorianmonthsstand-alonenarrow12d
+calendarsgregorianmonthsstand-alonenarrow5m
+calendarsgregorianmonthsstand-alonenarrow10k
+calendarsgregorianmonthsstand-alonenarrow2b
+calendarsgregorianmonthsstand-alonenarrow8ɣ
+calendarsgregorianmonthsstand-alonenarrow11n
+calendarsgregorianmonthsstand-alonenarrow1i
+calendarsgregorianmonthsstand-alonenarrow4i
+calendarsgregorianmonthsstand-alonenarrow3m
+calendarsgregorianmonthsformatwide9cutanbir
+calendarsgregorianmonthsformatwide7yulyuz
+calendarsgregorianmonthsformatwide12dujanbir
+calendarsgregorianmonthsformatwide6yunyu
+calendarsgregorianmonthsformatwide8ɣuct
+calendarsgregorianmonthsformatwide2bṛayṛ
+calendarsgregorianmonthsformatwide5mayyu
+calendarsgregorianmonthsformatwide10ktubr
+calendarsgregorianmonthsformatwide3maṛṣ
+calendarsgregorianmonthsformatwide4ibrir
+calendarsgregorianmonthsformatwide1innayr
+calendarsgregorianmonthsformatwide11nuwanbir
+calendarsgregorianmonthsformatabbreviated4ibr
+calendarsgregorianmonthsformatabbreviated3maṛ
+calendarsgregorianmonthsformatabbreviated1inn
+calendarsgregorianmonthsformatabbreviated11nuw
+calendarsgregorianmonthsformatabbreviated10ktu
+calendarsgregorianmonthsformatabbreviated2bṛa
+calendarsgregorianmonthsformatabbreviated5may
+calendarsgregorianmonthsformatabbreviated8ɣuc
+calendarsgregorianmonthsformatabbreviated12duj
+calendarsgregorianmonthsformatabbreviated6yun
+calendarsgregorianmonthsformatabbreviated9cut
+calendarsgregorianmonthsformatabbreviated7yul
+calendarsgregorianappendItemsQuarter{0} ({2}: {1})
+calendarsgregorianappendItemsDay-Of-Week{0} {1}
+calendarsgregorianappendItemsYear{1} {0}
+calendarsgregorianappendItemsEra{1} {0}
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianappendItemsMonth{0} ({2}: {1})
+calendarsgregorianappendItemsDay{0} ({2}: {1})
+calendarsgregorianappendItemsWeek{0} ({2}: {1})
+calendarsgregorianappendItemsSecond{0} ({2}: {1})
+calendarsgregorianappendItemsHour{0} ({2}: {1})
+calendarsgregorianappendItemsMinute{0} ({2}: {1})
+calendarsgregorianeraseraAbbr1dfɛ
+calendarsgregorianeraseraAbbr0daɛ
+calendarsgregorianeraseraNames1dffir n ɛisa
+calendarsgregorianeraseraNames0dat n ɛisa
+calendarsgregorianquartersformatwide4akṛaḍyur 4
+calendarsgregorianquartersformatwide3akṛaḍyur 3
+calendarsgregorianquartersformatwide1akṛaḍyur 1
+calendarsgregorianquartersformatwide2akṛaḍyur 2
+calendarsgregorianquartersformatabbreviated4ak 4
+calendarsgregorianquartersformatabbreviated3ak 3
+calendarsgregorianquartersformatabbreviated1ak 1
+calendarsgregorianquartersformatabbreviated2ak 2
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM, y
+calendarsgregoriandateFormatsshortstandardd/M/y
+calendarsgregoriandateFormatsfullstandardEEEE d MMMM y
+calendarsgregoriandaysformatabbreviatedsunasa
+calendarsgregoriandaysformatabbreviatedtueasi
+calendarsgregoriandaysformatabbreviatedthuakw
+calendarsgregoriandaysformatabbreviatedfriasim
+calendarsgregoriandaysformatabbreviatedmonayn
+calendarsgregoriandaysformatabbreviatedwedakṛ
+calendarsgregoriandaysformatabbreviatedsatasiḍ
+calendarsgregoriandaysformatwidesunasamas
+calendarsgregoriandaysformatwidetueasinas
+calendarsgregoriandaysformatwidethuakwas
+calendarsgregoriandaysformatwidefriasimwas
+calendarsgregoriandaysformatwidemonaynas
+calendarsgregoriandaysformatwidesatasiḍyas
+calendarsgregoriandaysformatwidewedakṛas
+calendarsgregorianavailableFormatsyMMMEdE d MMM y
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsyMEdE d/M/y
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsMMMMMM
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsMM
+calendarsgregorianavailableFormatsmsm:ss
+calendarsgregorianavailableFormatsMMdddd/MM
+calendarsgregorianavailableFormatsMMMEdE d MMM
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsMMdd/MM
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsMMMMEdE d MMMM
+calendarsgenericavailableFormatsMMMMEdE d MMMM
+calendarsgenericavailableFormatsyMMMMMM y
+calendarsgenericavailableFormatsMMdd/MM
+calendarsgenericavailableFormatsyQQQQQQQQ y
+calendarsgenericavailableFormatsyMMMMMMMM y
+calendarsgenericavailableFormatsyy
+calendarsgenericavailableFormatsMMMEdE d MMM
+calendarsgenericavailableFormatsMMdddd/MM
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsMM
+calendarsgenericavailableFormatsmsm:ss
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsMMMMMM
+calendarsgenericavailableFormatsyQQQQQQ y
+calendarsgenericavailableFormatsMdd/M
+calendarsgenericavailableFormatsyMEdE d/M/y
+calendarsgenericavailableFormatsyMM/y
+calendarsgenericavailableFormatsyMMMEdE d MMM y
+calendarsgenericdateFormatsmediumstandardd MMM, y G
+calendarsgenericdateFormatsfullstandardEEEE d MMMM y G
+calendarsgenericdateFormatsshortstandardd/M/y GGGGG
+calendarsgenericdateFormatslongstandardd MMMM y G
+localeDisplayNamesterritoriesKGkirɣizistan
+localeDisplayNamesterritoriesNInikaragwa
+localeDisplayNamesterritoriesVAawank n fatikan
+localeDisplayNamesterritoriesEGmiṣṛ
+localeDisplayNamesterritoriesTOṭunga
+localeDisplayNamesterritoriesNAnamibya
+localeDisplayNamesterritoriesTVtufalu
+localeDisplayNamesterritoriesSAssaɛudiya
+localeDisplayNamesterritoriesRWrwanda
+localeDisplayNamesterritoriesPMsanbyir d miklun
+localeDisplayNamesterritoriesBHbḥrayn
+localeDisplayNamesterritoriesAIangila
+localeDisplayNamesterritoriesMSmunsirat
+localeDisplayNamesterritoriesIEirlanda
+localeDisplayNamesterritoriesMMmyanmar
+localeDisplayNamesterritoriesMTmalṭa
+localeDisplayNamesterritoriesFMmikrunizya
+localeDisplayNamesterritoriesVItigzirin timgad n iwunak munnin
+localeDisplayNamesterritoriesQAqatar
+localeDisplayNamesterritoriesBGblɣara
+localeDisplayNamesterritoriesKIkiribati
+localeDisplayNamesterritoriesGHɣana
+localeDisplayNamesterritoriesBAbusna d hirsik
+localeDisplayNamesterritoriesMWmalawi
+localeDisplayNamesterritoriesROrumanya
+localeDisplayNamesterritoriesUGuɣanda
+localeDisplayNamesterritoriesCUkuba
+localeDisplayNamesterritoriesZWzimbabwi
+localeDisplayNamesterritoriesSNssinigal
+localeDisplayNamesterritoriesJPlyaban
+localeDisplayNamesterritoriesNGnijirya
+localeDisplayNamesterritoriesKHkambudya
+localeDisplayNamesterritoriesWSsamwa
+localeDisplayNamesterritoriesAElimarat
+localeDisplayNamesterritoriesREriyunyun
+localeDisplayNamesterritoriesNCkalidunya tamaynut
+localeDisplayNamesterritoriesCGkungu
+localeDisplayNamesterritoriesPNbitkayrn
+localeDisplayNamesterritoriesTDtcad
+localeDisplayNamesterritoriesDZdzayr
+localeDisplayNamesterritoriesGTgwatimala
+localeDisplayNamesterritoriesAMarminya
+localeDisplayNamesterritoriesHUhnɣarya
+localeDisplayNamesterritoriesWFwalis d futuna
+localeDisplayNamesterritoriesTMturkmanstan
+localeDisplayNamesterritoriesBZbiliz
+localeDisplayNamesterritoriesSHsantilin
+localeDisplayNamesterritoriesHRkrwatya
+localeDisplayNamesterritoriesLYlibya
+localeDisplayNamesterritoriesGPgwadalub
+localeDisplayNamesterritoriesSYsurya
+localeDisplayNamesterritoriesSDssudan
+localeDisplayNamesterritoriesBFburkina fasu
+localeDisplayNamesterritoriesCKtigzirin n kuk
+localeDisplayNamesterritoriesOMɛuman
+localeDisplayNamesterritoriesSLssiralyun
+localeDisplayNamesterritoriesAWaruba
+localeDisplayNamesterritoriesNLhulanda
+localeDisplayNamesterritoriesJMjamayka
+localeDisplayNamesterritoriesPLbulunya
+localeDisplayNamesterritoriesLBlubnan
+localeDisplayNamesterritoriesBRbrazil
+localeDisplayNamesterritoriesMXmiksik
+localeDisplayNamesterritoriesBDbangladic
+localeDisplayNamesterritoriesIOtamnaḍt tanglizit n ugaru ahindi
+localeDisplayNamesterritoriesIQlɛiraq
+localeDisplayNamesterritoriesJOlurdun
+localeDisplayNamesterritoriesPHfilibbin
+localeDisplayNamesterritoriesVGtigzirin timgad n nngliz
+localeDisplayNamesterritoriesYTmayuṭ
+localeDisplayNamesterritoriesCHswisra
+localeDisplayNamesterritoriesGEjurjya
+localeDisplayNamesterritoriesTLtimur n lqblt
+localeDisplayNamesterritoriesMNmnɣulya
+localeDisplayNamesterritoriesATnnmsa
+localeDisplayNamesterritoriesERiritirya
+localeDisplayNamesterritoriesGLgriland
+localeDisplayNamesterritoriesPYbaragway
+localeDisplayNamesterritoriesARarjantin
+localeDisplayNamesterritoriesBMbrmuda
+localeDisplayNamesterritoriesPEbiru
+localeDisplayNamesterritoriesNFtigzirin n nurfulk
+localeDisplayNamesterritoriesPSagmmaḍ n tagut d ɣzza
+localeDisplayNamesterritoriesBYbilarusya
+localeDisplayNamesterritoriesNRnawru
+localeDisplayNamesterritoriesCDtagdudant tadimukratit n Kongo
+localeDisplayNamesterritoriesVNfitnam
+localeDisplayNamesterritoriesAZadrabijan
+localeDisplayNamesterritoriesITiṭalya
+localeDisplayNamesterritoriesDKdanmark
+localeDisplayNamesterritoriesDJdjibuti
+localeDisplayNamesterritoriesSBtigzirin n saluman
+localeDisplayNamesterritoriesUZuzbakistan
+localeDisplayNamesterritoriesLTlitwanya
+localeDisplayNamesterritoriesKPkurya n iẓẓlmḍ
+localeDisplayNamesterritoriesMHtigzirin n marcal
+localeDisplayNamesterritoriesFIfillanda
+localeDisplayNamesterritoriesLRlibirya
+localeDisplayNamesterritoriesVUfanwaṭu
+localeDisplayNamesterritoriesSRsurinam
+localeDisplayNamesterritoriesCYqubrus
+localeDisplayNamesterritoriesCFtagdudant tanammast n ifriqya
+localeDisplayNamesterritoriesTHṭayland
+localeDisplayNamesterritoriesKMcumur
+localeDisplayNamesterritoriesTCtigzirin n turkya d kayk
+localeDisplayNamesterritoriesBEbljika
+localeDisplayNamesterritoriesGNɣinya
+localeDisplayNamesterritoriesLUluksanburg
+localeDisplayNamesterritoriesKRkurya n iffus
+localeDisplayNamesterritoriesGWɣinya bisaw
+localeDisplayNamesterritoriesTRturkya
+localeDisplayNamesterritoriesMDmuldufya
+localeDisplayNamesterritoriesNZnyuzilanda
+localeDisplayNamesterritoriesPRburtu riku
+localeDisplayNamesterritoriesCIkut difwar
+localeDisplayNamesterritoriesNUniwi
+localeDisplayNamesterritoriesINlhind
+localeDisplayNamesterritoriesKNsankris d nifis
+localeDisplayNamesterritoriesVEfinzwila
+localeDisplayNamesterritoriesTTtrinidad d ṭubagu
+localeDisplayNamesterritoriesLAlaws
+localeDisplayNamesterritoriesFRfransa
+localeDisplayNamesterritoriesCMkamirun
+localeDisplayNamesterritoriesDMduminik
+localeDisplayNamesterritoriesADandura
+localeDisplayNamesterritoriesSEsswid
+localeDisplayNamesterritoriesSCssicil
+localeDisplayNamesterritoriesSGsnɣafura
+localeDisplayNamesterritoriesFKtigzirin n malawi
+localeDisplayNamesterritoriesHNhunduras
+localeDisplayNamesterritoriesBNbruni
+localeDisplayNamesterritoriesDEalmanya
+localeDisplayNamesterritoriesNOnnrwij
+localeDisplayNamesterritoriesGQɣinya n ikwadur
+localeDisplayNamesterritoriesTKṭuklaw
+localeDisplayNamesterritoriesILisrayil
+localeDisplayNamesterritoriesCVtigzirin n kabbirdi
+localeDisplayNamesterritoriesAOangula
+localeDisplayNamesterritoriesGMgambya
+localeDisplayNamesterritoriesBObulibya
+localeDisplayNamesterritoriesEEistunya
+localeDisplayNamesterritoriesMCmunaku
+localeDisplayNamesterritoriesBTbhutan
+localeDisplayNamesterritoriesGFgwiyan tafransist
+localeDisplayNamesterritoriesSZswazilanda
+localeDisplayNamesterritoriesBJbinin
+localeDisplayNamesterritoriesALalbanya
+localeDisplayNamesterritoriesHThayti
+localeDisplayNamesterritoriesESsbanya
+localeDisplayNamesterritoriesGDɣrnaṭa
+localeDisplayNamesterritoriesZAafriqya n iffus
+localeDisplayNamesterritoriesBBbarbad
+localeDisplayNamesterritoriesKZkazaxstan
+localeDisplayNamesterritoriesBWbutswana
+localeDisplayNamesterritoriesGAgabun
+localeDisplayNamesterritoriesTNtuns
+localeDisplayNamesterritoriesAFafɣanistan
+localeDisplayNamesterritoriesMQmartinik
+localeDisplayNamesterritoriesMPtigzirin n maryan n iẓẓlmḍ
+localeDisplayNamesterritoriesGYgwiyana
+localeDisplayNamesterritoriesMGmadaɣacqar
+localeDisplayNamesterritoriesCZtagdudant tatcikit
+localeDisplayNamesterritoriesMKmasidunya
+localeDisplayNamesterritoriesAUustralya
+localeDisplayNamesterritoriesVCsanfansan d grinadin
+localeDisplayNamesterritoriesGIadrar n ṭaṛiq
+localeDisplayNamesterritoriesGRlyunan
+localeDisplayNamesterritoriesZMzambya
+localeDisplayNamesterritoriesSOṣṣumal
+localeDisplayNamesterritoriesPAbanama
+localeDisplayNamesterritoriesMUmuris
+localeDisplayNamesterritoriesNEnnijir
+localeDisplayNamesterritoriesNPnibal
+localeDisplayNamesterritoriesKEkinya
+localeDisplayNamesterritoriesMYmalizya
+localeDisplayNamesterritoriesSMsanmarinu
+localeDisplayNamesterritoriesBIburundi
+localeDisplayNamesterritoriesMLmali
+localeDisplayNamesterritoriesLKsrilanka
+localeDisplayNamesterritoriesKYtigzirin n kayman
+localeDisplayNamesterritoriesUYurugway
+localeDisplayNamesterritoriesPGbabwa ɣinya tamaynut
+localeDisplayNamesterritoriesPWbalaw
+localeDisplayNamesterritoriesTGṭugu
+localeDisplayNamesterritoriesSTsawṭumi d bransib
+localeDisplayNamesterritoriesMRmuṛiṭanya
+localeDisplayNamesterritoriesUAukranya
+localeDisplayNamesterritoriesTZṭanẓanya
+localeDisplayNamesterritoriesSKslufakya
+localeDisplayNamesterritoriesETityubya
+localeDisplayNamesterritoriesCRkusta rika
+localeDisplayNamesterritoriesFJfidji
+localeDisplayNamesterritoriesTJtadjakistan
+localeDisplayNamesterritoriesMZmuznbiq
+localeDisplayNamesterritoriesCLccili
+localeDisplayNamesterritoriesLSliṣuṭu
+localeDisplayNamesterritoriesMAlmɣrib
+localeDisplayNamesterritoriesCAkanada
+localeDisplayNamesterritoriesBSbahamas
+localeDisplayNamesterritoriesASsamwa tamirikanit
+localeDisplayNamesterritoriesMVmaldif
+localeDisplayNamesterritoriesLIlikinctayn
+localeDisplayNamesterritoriesISisland
+localeDisplayNamesterritoriesPFbulinizya tafransist
+localeDisplayNamesterritoriesRUrusya
+localeDisplayNamesterritoriesUSiwunak munnin n mirikan
+localeDisplayNamesterritoriesPTbṛṭqiz
+localeDisplayNamesterritoriesTWṭaywan
+localeDisplayNamesterritoriesKWlkwit
+localeDisplayNamesterritoriesYEyaman
+localeDisplayNamesterritoriesIDandunisya
+localeDisplayNamesterritoriesGUgwam
+localeDisplayNamesterritoriesSVsalfadur
+localeDisplayNamesterritoriesLVlatfya
+localeDisplayNamesterritoriesSIslufinya
+localeDisplayNamesterritoriesLCsantlusi
+localeDisplayNamesterritoriesPKbakistan
+localeDisplayNamesterritoriesGBtagldit imunn
+localeDisplayNamesterritoriesAGantiga d brbuda
+localeDisplayNamesterritoriesECikwadur
+localeDisplayNamesterritoriesDOtagdudant taduminikt
+localeDisplayNamesterritoriesCOculumbya
+localeDisplayNamesterritoriesCNccinwa
+localeDisplayNamesterritoriesIRiran
+localeDisplayNameslanguageshuTahnɣarit
+localeDisplayNameslanguagesfaTafursit
+localeDisplayNameslanguagesarTaɛrabt
+localeDisplayNameslanguagesmsTamalawit
+localeDisplayNameslanguagessoTasumalit
+localeDisplayNameslanguageszhTacinwit
+localeDisplayNameslanguagesjvTajavanit
+localeDisplayNameslanguagesamTamharit
+localeDisplayNameslanguagesneTanibalit
+localeDisplayNameslanguagesesTasbnyulit
+localeDisplayNameslanguagesukTukranit
+localeDisplayNameslanguagestrTaturkit
+localeDisplayNameslanguagesviTafitnamit
+localeDisplayNameslanguagesshiTashelḥiyt
+localeDisplayNameslanguagesbgTablɣarit
+localeDisplayNameslanguagesbeTabilarust
+localeDisplayNameslanguagescsTatcikit
+localeDisplayNameslanguagestaTatamilt
+localeDisplayNameslanguageshiTahindit
+localeDisplayNameslanguagesfrTafransist
+localeDisplayNameslanguagesyoTayrubat
+localeDisplayNameslanguageskmTaxmirt
+localeDisplayNameslanguageselTagrigit
+localeDisplayNameslanguagespaTabnjabit
+localeDisplayNameslanguagesroTarumanit
+localeDisplayNameslanguagesplTabulunit
+localeDisplayNameslanguagesptTabṛṭqizt
+localeDisplayNameslanguagesidTandunisit
+localeDisplayNameslanguagesenTanglizt
+localeDisplayNameslanguageskoTakurit
+localeDisplayNameslanguagesitTaṭalyant
+localeDisplayNameslanguageszuTazulut
+localeDisplayNameslanguagesbnTabnɣalit
+localeDisplayNameslanguagesnlTahulandit
+localeDisplayNameslanguagesrwTaruwandit
+localeDisplayNameslanguagesjaTajabbunit
+localeDisplayNameslanguagesurTurdut
+localeDisplayNameslanguagesakTakant
+localeDisplayNameslanguageshaTahawsat
+localeDisplayNameslanguagesdeTalimant
+localeDisplayNameslanguagesruTarusit
+localeDisplayNameslanguagesmyTabirmanit
+localeDisplayNameslanguagessvTaswidit
+localeDisplayNameslanguagesthTataylandit
+localeDisplayNameslanguagesigTigbut

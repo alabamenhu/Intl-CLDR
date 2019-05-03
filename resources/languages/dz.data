@@ -1,0 +1,920 @@
+numbersdefaultNumberingSystemstandardtibt
+numbersdecimalFormatslatnlong100000000000དུང་ཕྱུར་སྟོང 0
+numbersdecimalFormatslatnlong1000000000000དུང་ཕྱུར་ཁྲི་ 0
+numbersdecimalFormatslatnlong10000000000དུང་ཕྱུར་བརྒྱ་ 0
+numbersdecimalFormatslatnlong10000000000000དུང་ཕྱུར་འབུམ་ 0
+numbersdecimalFormatslatnlong10000ཁྲི་ཕྲག 0
+numbersdecimalFormatslatnlong100000000000000དུང་ཕྱུར་ས་ཡ་ 0
+numbersdecimalFormatslatnlong100000000དུང་ཕྱུར་ 0
+numbersdecimalFormatslatnlong1000000000དུང་ཕྱུར་ 00
+numbersdecimalFormatslatnlong100000འབུམ་ཕྲག 0
+numbersdecimalFormatslatnlong1000སྟོང་ཕྲག 0
+numbersdecimalFormatslatnlong10000000བྱེ་བ་ 0
+numbersdecimalFormatslatnlong1000000ས་ཡ་ 0
+numbersdecimalFormatslatnstandardstandard#,##,##0.###
+numberssymbolstibtperMille‰
+numberssymbolstibtpercentSign%
+numberssymbolstibtinfinityགྲངས་མེད
+numberssymbolstibtnanཨང་མད
+numberssymbolstibtexponentialE
+numberssymbolstibtgroup,
+numberssymbolstibtlist;
+numberssymbolstibtdecimal.
+numberssymbolstibtminusSign-
+numberssymbolstibtplusSign+
+numberssymbolslatngroup,
+numberssymbolslatninfinity∞
+numberssymbolslatnnanNaN
+numberssymbolslatnexponentialE
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolslatnplusSign+
+numberssymbolslatnminusSign-
+numberssymbolslatnlist;
+numberssymbolslatndecimal.
+numbersotherNumberingSystemsnativetibt
+numberscurrenciesUSDstandardUS$
+numberscurrenciesHKDstandardHK$
+numberscurrenciesCADstandardCA$
+numberscurrenciesTHBstandardTH฿
+numberscurrenciesKRWstandardKR₩
+numberscurrenciesGBPstandard£
+numberscurrenciesAUDstandardAU$
+numberscurrenciesBRLstandardR$
+numberscurrenciesMXNstandardMX$
+numberscurrenciesILSstandardILS
+numberscurrenciesEURstandard€
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesTWDstandardNT$
+numberscurrenciesINRstandard₹
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesXAFstandardXAF
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesBTNstandardNu.
+numberscurrencyFormatslatnstandardstandard¤#,##,##0.00
+numberscurrencyFormatslatnshort100000000¤000M
+numberscurrencyFormatslatnshort1000000000¤0G
+numberscurrencyFormatslatnshort100000000000000¤000T
+numberscurrencyFormatslatnshort10000¤00K
+numberscurrencyFormatslatnshort10000000¤00M
+numberscurrencyFormatslatnshort1000000¤0M
+numberscurrencyFormatslatnshort1000¤0K
+numberscurrencyFormatslatnshort100000¤000K
+numberscurrencyFormatslatnshort1000000000000¤0T
+numberscurrencyFormatslatnshort10000000000¤00G
+numberscurrencyFormatslatnshort100000000000¤000G
+numberscurrencyFormatslatnshort10000000000000¤00T
+numberspercentFormatslatnstandardstandard#,##,##0 %
+numbersscientificFormatslatnstandardstandard#E0
+delimitersalternateQuotationEnd’
+delimitersquotationStart“
+delimitersquotationEnd”
+delimitersalternateQuotationStart‘
+unitsshortunitduration-hourdisplayNameཆུ་ཚོད་
+unitsshortunitduration-monthdisplayNameཟླཝ་
+unitsshortunitduration-yeardisplayNameལོ་འཁོར་
+unitsshortunitduration-weekdisplayNameབངུན་ཕྲག་
+unitsshortunitduration-daydisplayNameཉིན་ཞག་
+unitsshortunitduration-minutedisplayNameསྐར་མ་
+unitsshortunitduration-seconddisplayNameསྐར་ཆ་
+unitslongunitduration-secondpatternotherསྐར་ཆ་ {0}
+unitslongunitduration-seconddisplayNameསྐར་ཆ་
+unitslongunitduration-daydisplayNameཉིན་ཞག་
+unitslongunitduration-daypatternotherཉིན་ཞག་ {0}
+unitslongunitduration-minutedisplayNameསྐར་མ་
+unitslongunitduration-minutepatternotherསྐར་མ་ {0}
+unitslongunitduration-monthpatternotherཟླཝ་ {0}
+unitslongunitduration-monthdisplayNameཟླཝ་
+unitslongunitduration-yearpatternotherལོ་འཁོར་ {0}
+unitslongunitduration-yeardisplayNameལོ་འཁོར་
+unitslongunitduration-weekpatternotherབངུན་ཕྲག་ {0}
+unitslongunitduration-weekdisplayNameབངུན་ཕྲག་
+unitslongunitduration-hourpatternotherཆུ་ཚོད་ {0}
+unitslongunitduration-hourdisplayNameཆུ་ཚོད་
+charactersexemplarCharactersstandard[ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཏ ཐ ད ན པ ཕ བ མ ཙ ཚ ཛ ཝ ཞ ཟ འ ཡ ར ལ ཤ ས ཧ ཨ \u0F72 \u0F74 \u0F7A \u0F7C \u0F90 \u0F91 \u0F92 \u0F94 \u0F97 \u0F99 \u0F9F \u0FA0 \u0FA1 \u0FA3 \u0FA4 \u0FA5 \u0FA6 \u0FA8 \u0FA9 \u0FAA \u0FAB \u0FAD \u0FB1 \u0FB2 \u0FB3 \u0FB5 \u0FB6 \u0FB7]
+charactersexemplarCharacterspunctuation[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” ( ) \[ \] ༼ ༽ § @ * / \&amp; # † ‡ ༄ ༅ ༆ ༈ ༉ ༊ ࿐ ࿑ ༒ ࿒ ࿓ ࿔ ༶ ྾ ྿ ༌ ། ༎ ༏ ༐ ༑ ༔ ༴]
+charactersexemplarCharactersindex[ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཏ ཐ ད ན པ ཕ བ མ ཙ ཚ ཛ ཝ ཞ ཟ འ ཡ ར ལ ཤ ས ཧ ཨ]
+charactersexemplarCharactersauxiliary[\u0F84 ཊ ཋ ཌ ཎ \u0F7E ཥ \u0F80 \u0F7B \u0F7D \u0F9A \u0F9B \u0F9C \u0F9E \u0FBA \u0FBB \u0FBC]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0༠ 1༡ 2༢ 3༣ 4༤ 5༥ 6༦ 7༧ 8༨ 9༩]
+charactersellipsisfinal{0}་་་་
+charactersellipsisinitial་་་་{0}
+charactersellipsismedial{0}་་་་་་ {1}
+posixmessagesnostrམེན་:མ
+posixmessagesyesstrཨིན་:ཨ
+localeDisplayNamescodePatternslanguageཁ་སྐད་: {0}
+localeDisplayNamescodePatternsscriptཡིག་གཟུགས་: {0}
+localeDisplayNamescodePatternsterritory{0}
+localeDisplayNamesscriptsGuruགུ་རུ་མུ་ཁ་ཡིག་གུ
+localeDisplayNamesscriptsThaiཐཱའི་ཡིག་གུ
+localeDisplayNamesscriptsKoreཀོ་རི་ཡཱན་ཡིག་གུ
+localeDisplayNamesscriptsHangཧཱན་གུལ་ཡིག་གུ
+localeDisplayNamesscriptsZzzzངོ་མ་ཤེས་པའི་ཡི་གུ
+localeDisplayNamesscriptsGujrགུ་ཇ་ར་ཏི་ཡིག་གུ
+localeDisplayNamesscriptsZinhསྔར་རྒྱུན
+localeDisplayNamesscriptsHiraཇ་པཱན་གྱི་ཧི་ར་ག་ན་ཡིག་གུ
+localeDisplayNamesscriptsDevaདེ་ཝ་ན་ག་རི་ཡིག་གུ
+localeDisplayNamesscriptsMlymམ་ལ་ཡ་ལམ་ཡིག་གུ
+localeDisplayNamesscriptsKanaཇ་པཱན་གྱི་ཀ་ཏ་ཀ་ན་ཡིག་གུ
+localeDisplayNamesscriptsZxxxཡིག་ཐོག་མ་བཀོདཔ
+localeDisplayNamesscriptsHansརྒྱ་ཡིག་ ལུགས་གསར་
+localeDisplayNamesscriptsTeluཏེ་ལུ་གུ་ཡིག་གུ
+localeDisplayNamesscriptsBengབངྒ་ལ་ཡིག་གུ
+localeDisplayNamesscriptsEthiཨི་ཐི་ཡོ་པིཀ྄་ཡིག་གུ
+localeDisplayNamesscriptsBraiའབུར་ཡིག
+localeDisplayNamesscriptsOryaཨོ་རི་ཡ་ཡིག་གུ
+localeDisplayNamesscriptsThaaཐཱ་ན་ཡིག་གུ
+localeDisplayNamesscriptsLimbལིམ་བུ
+localeDisplayNamesscriptsKndaཀ་ན་ཌ་ཡིག་གུ
+localeDisplayNamesscriptsLatnལེ་ཊིན་ཡིག་གུ
+localeDisplayNamesscriptsJpanཇ་པཱན་ཡིག་གུ
+localeDisplayNamesscriptsCyrlསིརིལ་ལིཀ་ཡིག་གུ
+localeDisplayNamesscriptsHaniརྒྱ་ནག་ཡིག་གུ
+localeDisplayNamesscriptsArmnཨར་མི་ནི་ཡཱན་ཡིག་གུ
+localeDisplayNamesscriptsZyyyསྤྱིཡིག
+localeDisplayNamesscriptsTamlཏ་མིལ་ཡིག་གུ
+localeDisplayNamesscriptsZsymམཚན་རྟགས
+localeDisplayNamesscriptsMymrབར་མིས་ཡིག་གུ
+localeDisplayNamesscriptsTibtང་བཅས་ཀྱི་ཡིག་གུ
+localeDisplayNamesscriptsMongསོག་པོའི་ཡིག་གུ
+localeDisplayNamesscriptsLaooལའོ་ཡིག་གུ
+localeDisplayNamesscriptsGrekགྲིཀ་ཡིག་གུ
+localeDisplayNamesscriptsHebrཧེ་བྲུ་ཡིག་གུ
+localeDisplayNamesscriptsBopoབོ་པོ་མོ་ཕཱོ་ཡིག་གུ
+localeDisplayNamesscriptsKhmrཁེ་མེར་ཡིག་གུ
+localeDisplayNamesscriptsSinhསིན་ཧ་ལ་རིག་གུ
+localeDisplayNamesscriptsArabཨེ་ར་བིཀ་ཡིག་གུ
+localeDisplayNamesscriptsHantལུགས་རྙིང་ རྒྱ་ཡིག
+localeDisplayNamesscriptsGeorཇཽ་ཇི་ཡཱན་ཡིག་གུ
+localeDisplayNameslanguageszhརྒྱ་མི་ཁ
+localeDisplayNameslanguagesfr_CHསུ་ཡིས་ཕྲནཅ་ཁ
+localeDisplayNameslanguageseuབཱསཀ་ཁ
+localeDisplayNameslanguagescaཀེ་ཊ་ལཱན་ཁ
+localeDisplayNameslanguageskoཀོ་རི་ཡཱན་ཁ
+localeDisplayNameslanguageslaལེ་ཊིན་ཁ
+localeDisplayNameslanguagesdvདི་བེ་ཧི་ཁ
+localeDisplayNameslanguagesmnསོག་པོའི་ཁ
+localeDisplayNameslanguagesquཀྭེ་ཆུ་ཨ་ཁ
+localeDisplayNameslanguagesnl_BEཕྷེལེ་མིཤ་ཁ
+localeDisplayNameslanguagessaསཾསྐྲྀཏ་ཁ
+localeDisplayNameslanguagesetཨེས་ཊོ་ནི་ཡཱན་ཁ
+localeDisplayNameslanguagesltལི་ཐུ་ཝེ་ནི་ཡཱན་ཁ
+localeDisplayNameslanguagesjaཇཱ་པཱ་ནིས་ཁ
+localeDisplayNameslanguagesyoཡོ་རུ་བ་ཁ
+localeDisplayNameslanguagestkཊཱརཀ་མེན་ཁ
+localeDisplayNameslanguagessvསུའི་ཌིཤ་ཁ
+localeDisplayNameslanguagespiཔ་ལི
+localeDisplayNameslanguageskfoཀོ་རོ་ཁ
+localeDisplayNameslanguagesfilཕི་ལི་པི་ནོ་ཁ
+localeDisplayNameslanguagesesཨིས་པེ་ནིཤ་ཁ
+localeDisplayNameslanguageskacཀ་ཆིན་ཁ
+localeDisplayNameslanguagesen_GBབྲི་ཊིཤ་ཨིང་ལིཤ་ཁ
+localeDisplayNameslanguagescsཅེཀ་ཁ
+localeDisplayNameslanguagesfaཔར་ཤི་ཡཱན་ཁ
+localeDisplayNameslanguagesneནེ་པཱལི་ཁ
+localeDisplayNameslanguagesnoནོར་ཝི་ཇི་ཡན་ཁ
+localeDisplayNameslanguagesasཨ་ས་མིས་ཁ
+localeDisplayNameslanguageszh_Hantསྔ་དུས་ཀྱི་རྒྱ་མི་ཁ
+localeDisplayNameslanguagesnnནོར་ཝེ་ཇི་ཡཱན་ནོརསཀ་ཁ
+localeDisplayNameslanguagessrསཱར་བྷི་ཡཱན་ཁ
+localeDisplayNameslanguagesrmརོ་མེ་ནིཤ་ཁ
+localeDisplayNameslanguagesslསུ་ལོ་བི་ནི་ཡཱན་ཁ
+localeDisplayNameslanguagesruཨུ་རུ་སུའི་ཁ
+localeDisplayNameslanguagesundཁ་ངོ་མ་ཤེསཔ
+localeDisplayNameslanguagesugཝི་གུར་ཁ
+localeDisplayNameslanguageshaཧཝ་ས་ཁ
+localeDisplayNameslanguagesazཨ་ཛར་བྷའི་ཇཱན་ཁ
+localeDisplayNameslanguagesmgམ་ལ་ག་སི་ཁ
+localeDisplayNameslanguagespsཔཱཤ་ཏོ་ཁ
+localeDisplayNameslanguagesboབོད་ཁ
+localeDisplayNameslanguagestrཊཱར་ཀིཤ་ཁ
+localeDisplayNameslanguagescyཝེལཤ་ཁ
+localeDisplayNameslanguagesen_AUཨཱོས་ཊྲེ་ལི་ཡཱན་ཨིང་ལིཤ་ཁ
+localeDisplayNameslanguageskmཁེ་མེར་ཁ
+localeDisplayNameslanguageszuཟུ་ལུ་ཁ
+localeDisplayNameslanguagesteཏེ་ལུ་གུ་ཁ
+localeDisplayNameslanguagesmncམན་ཇུ་ཁ
+localeDisplayNameslanguagesamཨམ་ཧ་རིཀ་ཁ
+localeDisplayNameslanguagesplཔོ་ལིཤ་ཁ
+localeDisplayNameslanguagesnewནི་ཝ་རི
+localeDisplayNameslanguagessoསོ་མ་ལི་ཁ
+localeDisplayNameslanguagesgswསུ་ཡིས་ཇཱར་མཱན་ཁ
+localeDisplayNameslanguageswoཝོ་ལོཕ་ཁ
+localeDisplayNameslanguagesde_CHསུ་ཡིས་གི་མཐོ་སའི་ཇཱར་མཱན་ཁ
+localeDisplayNameslanguagesmiམ་ཨོ་རི་ཁ
+localeDisplayNameslanguagessiསིང་ཧ་ལ་ཁ
+localeDisplayNameslanguagesroརོ་མེ་ནི་ཡཱན་ཁ
+localeDisplayNameslanguageshyཨར་མི་ནི་ཡཱན་ཁ
+localeDisplayNameslanguageszh_Hansརྒྱ་མི་ཁ་འཇམ་སངམ
+localeDisplayNameslanguagesenཨིང་ལིཤ་ཁ
+localeDisplayNameslanguagesdaཌེ་ནིཤ་ཁ
+localeDisplayNameslanguagesigཨིག་བོ་ཁ
+localeDisplayNameslanguagesjvཇཱ་བ་ནིས་ཁ
+localeDisplayNameslanguagesmyབར་མིས་ཁ
+localeDisplayNameslanguagesknཀ་ན་ཌ་ཁ
+localeDisplayNameslanguagesen_USཡུ་ཨེས་ཨིང་ལིཤ་ཁ
+localeDisplayNameslanguagesbnབངྒ་ལ་ཁ
+localeDisplayNameslanguagesitཨི་ཊ་ལི་ཡཱན་ཁ
+localeDisplayNameslanguagesidཨིན་ཌོ་ནེ་ཤི་ཡཱན་ཁ
+localeDisplayNameslanguagesglགལ་ཨིས་ཨི་ཡན་ཁ
+localeDisplayNameslanguagesdeཇཱར་མཱན་ཁ
+localeDisplayNameslanguagesdakད་ཀོ་ཏ་ཁ
+localeDisplayNameslanguagesabཨཱབ་ཁ་ཟི་ཡ་ཁ
+localeDisplayNameslanguagesmtམཱལ་ཊ་ཁ
+localeDisplayNameslanguagesnbནོར་ཝེ་ཇི་ཡཱན་བོཀ་མཱལ་ཁ
+localeDisplayNameslanguagesurཨུར་དུ་ཁ
+localeDisplayNameslanguagespt_BRབྲ་ཛི་ལི་ཡཱན་པོར་ཅུ་གིས་ཁ
+localeDisplayNameslanguagestiཏིག་རི་ཉ་ཁ
+localeDisplayNameslanguageshrཀྲོ་ཨེ་ཤི་ཡཱན་ཁ
+localeDisplayNameslanguagesmkམ་སེ་ཌོ་ནི་ཡཱན་ཁ
+localeDisplayNameslanguagesmniམ་ནི་པུ་རི
+localeDisplayNameslanguagesmlམ་ལ་ཡ་ལམ་ཁ
+localeDisplayNameslanguagesarཨེ་ར་བིཀ་ཁ
+localeDisplayNameslanguagestgཏ་ཇིཀ་ཁ
+localeDisplayNameslanguagessuསཱུན་ད་ནིས་ཁ
+localeDisplayNameslanguagespaཔཱན་ཇ་བི་ཁ
+localeDisplayNameslanguagesfyནུབ་ཕྼི་སི་ཡན་ཁ
+localeDisplayNameslanguagestoཊོང་གྷན་ཁ
+localeDisplayNameslanguagesfrཕྲནཅ་ཁ
+localeDisplayNameslanguagesfr_CAཀེ་ན་ཌི་ཡཱན་ཕྲནཅ་ཁ
+localeDisplayNameslanguagesfoཕཱ་རོ་ཨིས་ཁ
+localeDisplayNameslanguagesen_CAཀེ་ན་ཌི་ཡཱན་ཨིང་ལིཤ་ཁ
+localeDisplayNameslanguagesbeབེལ་ཨ་རུས་ཁ
+localeDisplayNameslanguageszxxསྐད་རིག་ནང་དོན་མེདཔ
+localeDisplayNameslanguageshuཧཱང་གྷ་རི་ཡཱན་ཁ
+localeDisplayNameslanguagesheཧེ་བྲུ་ཁ
+localeDisplayNameslanguagesgrcགིརིཀ, སྔ་དུས་ཀྱི (༡༤༥༣)
+localeDisplayNameslanguagesegyཨི་ཇིཔ་ཤཱན (སྔ་དུས་ཀྱི)
+localeDisplayNameslanguagesnlཌཆ་ཁ
+localeDisplayNameslanguagessdསིན་དཱི་ཁ
+localeDisplayNameslanguagesbsབྷོས་ནི་ཡཱན་ཁ
+localeDisplayNameslanguageslbལག་ཛམ་བོརྒ་ཁ
+localeDisplayNameslanguagesmsམ་ལེ་ཁ
+localeDisplayNameslanguagesdzརྫོང་ཁ
+localeDisplayNameslanguagesfiཕི་ནིཤ་ཁ
+localeDisplayNameslanguagesbgབཱལ་གེ་རི་ཡཱན་ཁ
+localeDisplayNameslanguagesde_ATཨཱོས་ཊྲི་ཡཱན་ཇཱར་མཱན་ཁ
+localeDisplayNameslanguageskyཀིར་གིས་ཁ
+localeDisplayNameslanguageslvལཊ་བི་ཡཱན་ཁ
+localeDisplayNameslanguagesukཡུ་ཀེ་རེ་ནི་ཡཱན་ཁ
+localeDisplayNameslanguageskuཀར་ཌིཤ་ཁ
+localeDisplayNameslanguageskkཀ་ཛགས་ཁ
+localeDisplayNameslanguagesksཀཱཤ་མི་རི་ཁ
+localeDisplayNameslanguagesttཊ་ཊར་ཁ
+localeDisplayNameslanguageshtཧེ་ཏི་ཡཱན་ཁ
+localeDisplayNameslanguagesmrམ་ར་ཐི་ཁ
+localeDisplayNameslanguagesxhཞོ་ས་ཁ
+localeDisplayNameslanguagesuzཨུས་བེཀ་ཁ
+localeDisplayNameslanguagesptཔོར་ཅུ་གིས་ཁ
+localeDisplayNameslanguageses_419ལེ་ཊིན་ཨ་མེ་རི་ཀཱན་གི་ཨིས་པེ་ནིཤ་ཁ
+localeDisplayNameslanguagesorཨོ་རི་ཡ་ཁ
+localeDisplayNameslanguagesthཐཱའི་ཁ
+localeDisplayNameslanguagesgnགུ་ཝ་ར་ནི་ཁ
+localeDisplayNameslanguageselགྲིཀ་ཁ
+localeDisplayNameslanguagesfjཕི་ཇི་ཡཱན་ཁ
+localeDisplayNameslanguagesloལཱ་ཝོས་ཁ
+localeDisplayNameslanguagesguགུ་ཇ་ར་ཏི་ཁ
+localeDisplayNameslanguagesgaཨཱའི་རིཤ་ཁ
+localeDisplayNameslanguagesafཨཕ་རི་ཀཱནས་ཁ
+localeDisplayNameslanguagesaaཨ་ཕར་ཁ
+localeDisplayNameslanguageskaཇཽ་ཇི་ཡཱན་ཁ
+localeDisplayNameslanguagesviབེཊ་ནཱ་མིས་ཁ
+localeDisplayNameslanguagesshnཤཱན་ཁ
+localeDisplayNameslanguageshiཧིན་དི་ཁ
+localeDisplayNameslanguagestaཏ་མིལ་ཁ
+localeDisplayNameslanguagessqཨཱལ་བེ་ནི་ཡཱན་ཁ
+localeDisplayNameslanguageseoཨེས་པ་རཱན་ཏོ་ཁ
+localeDisplayNameslanguagesisཨ་ཡིས་ལེན་ཌིཀ་ཁ
+localeDisplayNameslanguagespt_PTཨི་བེ་རི་ཡཱན་པོར་ཅུ་གིས་ཁ
+localeDisplayNameslanguagesskསུ་ལོ་བཱཀ་ཁ
+localeDisplayNameslanguagesswསྭཱ་ཧི་ལི་ཁ
+localeDisplayNameslanguageshawཧ་ཝ་ཡིའི་ཁ
+localeDisplayNameslanguageses_ESཡུ་རོབ་ཀྱི་ཨིས་པེ་ནིཤ་ཁ
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}།: {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}་, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0}། ({1}།)
+localeDisplayNamesterritoriesWSས་མོ་ཨ
+localeDisplayNamesterritoriesTKཏོ་ཀེ་ལའུ་ མཚོ་གླིང
+localeDisplayNamesterritoriesCFསེན་ཊལ་ ཨཕ་རི་ཀཱན་ རི་པབ་ལིཀ
+localeDisplayNamesterritories034ལྷོའི་ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesGFགུའི་ཡ་ན་ ཕྲནས྄་མངའ་ཁོངས
+localeDisplayNamesterritoriesLYལི་བི་ཡ
+localeDisplayNamesterritoriesZZངོ་མ་ཤེས་པའི་ལུང་ཕྱོགས
+localeDisplayNamesterritoriesETཨི་ཐི་ཡོ་པི་ཡ
+localeDisplayNamesterritoriesBWབྷོཙ་ཝ་ན
+localeDisplayNamesterritoriesGSསཱའུཐ་ཇཽར་ཇཱ་ དང་ སཱའུཐ་སེནཌ྄་ཝིཅ་གླིང་ཚོམ
+localeDisplayNamesterritoriesMOམཀ་ཨའུ
+localeDisplayNamesterritoriesPHཕི་ལི་པིནས
+localeDisplayNamesterritoriesNEནཱའི་ཇཱ
+localeDisplayNamesterritoriesGMགྷེམ་བི་ཡ
+localeDisplayNamesterritoriesFIཕིན་ལེནཌ
+localeDisplayNamesterritoriesREརེ་ཡུ་ནི་ཡོན
+localeDisplayNamesterritoriesTLཤར་ཕྱོགས་ཏི་་མོར
+localeDisplayNamesterritoriesCWཀྱཱུར་ར་ཀོ
+localeDisplayNamesterritoriesTWཊཱའི་ཝཱན
+localeDisplayNamesterritoriesADཨཱན་དོ་ར
+localeDisplayNamesterritoriesBGབུལ་ག་རི་ཡ
+localeDisplayNamesterritoriesBDབངྒ་ལ་དེཤ
+localeDisplayNamesterritoriesPSཔེ་ལིསི་ཊི་ནི་ཡན་ཊེ་རི་ཐོ་རི
+localeDisplayNamesterritoriesMKམ་སེ་ཌོ་ནི་ཡ་ (ཡུ་གོ་སླཱ་བི་ཡ)
+localeDisplayNamesterritories015བྱང་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesBRབྲ་ཛིལ
+localeDisplayNamesterritoriesBMབར་མུ་ཌ
+localeDisplayNamesterritoriesFJཕི་ཇི
+localeDisplayNamesterritoriesOMཨོ་མཱན
+localeDisplayNamesterritoriesQAཀ་ཊར
+localeDisplayNamesterritoriesSVཨེལ་སལ་བ་ཌོར
+localeDisplayNamesterritories054མེ་ལ་ནི་ཤི་ཡ
+localeDisplayNamesterritoriesIOབྲི་ཊིཤ་རྒྱ་གར་གྱི་རྒྱ་མཚོ་ས་ཁོངས
+localeDisplayNamesterritoriesNGནཱའི་ཇི་རི་ཡ
+localeDisplayNamesterritoriesDMཌོ་མི་ནི་ཀ
+localeDisplayNamesterritoriesTFཕྲནཅ་གི་ལྷོ་ཕྱོགས་མངའ་ཁོངས
+localeDisplayNamesterritoriesTDཅཱཌ
+localeDisplayNamesterritoriesAWཨ་རུ་བཱ
+localeDisplayNamesterritoriesUAཡུ་ཀརེན
+localeDisplayNamesterritoriesMGམ་དཱ་གེས་ཀར
+localeDisplayNamesterritoriesMXམེཀ་སི་ཀོ
+localeDisplayNamesterritoriesDZཨཱལ་ཇི་རི་ཡ
+localeDisplayNamesterritoriesCRཀོས་ཊ་རི་ཀ
+localeDisplayNamesterritoriesBFབྷར་ཀི་ན་ ཕེ་སོ
+localeDisplayNamesterritoriesGHགྷ་ན
+localeDisplayNamesterritoriesMZམོ་ཛམ་བྷིཀ
+localeDisplayNamesterritoriesCZཅེཀ་ རི་པབ་ལིཀ
+localeDisplayNamesterritoriesAGཨན་ཊི་གུ་ཝ་ ཨེནཌ་ བྷར་བྷུ་ཌ
+localeDisplayNamesterritories053ཨཱོས་ཊྲེལ་ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesNPབལ་ཡུལ
+localeDisplayNamesterritoriesTCཏུརྐས྄་ ཨེནཌ་ ཀ་ཀོས་གླིང་ཚོམ
+localeDisplayNamesterritoriesQOཨོཤི་ཡཱན་ན་གྱི་མཐའ་མཚམས
+localeDisplayNamesterritories017སྦུག་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesKIཀི་རི་བ་ཏི་མཚོ་གླིང
+localeDisplayNamesterritoriesMCམོ་ན་ཀོ
+localeDisplayNamesterritoriesEEཨེས་ཊོ་ནི་ཡ
+localeDisplayNamesterritoriesSBསོ་ལོ་མོན་ གླིང་ཚོམ
+localeDisplayNamesterritoriesAEཡུ་ནཱའི་ཊེཌ་ ཨ་རབ་ ཨེ་མེ་རེཊས
+localeDisplayNamesterritoriesTHཐཱའི་ལེནཌ
+localeDisplayNamesterritoriesPRཔུ་འེར་ཊོ་རི་ཁོ
+localeDisplayNamesterritories011ནུབ་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesMPབྱང་ཕྱོགས་ཀྱི་མ་ར་ཡ་ན་གླིང་ཚོམ
+localeDisplayNamesterritoriesMEམོན་ཊི་ནེག་རོ
+localeDisplayNamesterritoriesAUཨཱོས་ཊྲེལ་ལི་ཡ
+localeDisplayNamesterritoriesAXཨ་ལནཌ་གླིང་ཚོམ
+localeDisplayNamesterritoriesKHཀམ་བྷོ་ཌི་ཡ
+localeDisplayNamesterritoriesIMཨ་ཡུལ་ ཨོཕ་ མཱན
+localeDisplayNamesterritoriesUSཡུ་ཨེས་ཨེ
+localeDisplayNamesterritoriesARཨར་ཇེན་ཊི་ན
+localeDisplayNamesterritories419ལེ་ཊིནཨ་མི་རི་ཀ
+localeDisplayNamesterritoriesASས་མོ་ཨ་ཡུ་ཨེས་ཨེ་མངའ་ཁོངས
+localeDisplayNamesterritoriesTGཊོ་གྷོ
+localeDisplayNamesterritoriesPAཔ་ན་མ
+localeDisplayNamesterritoriesPLཔོ་ལེནཌ
+localeDisplayNamesterritoriesDOཌོ་མི་ནི་ཀཱན་ རི་པབ་ལིཀ
+localeDisplayNamesterritoriesACཨེ་སེན་ཤུན་ཚོ་གླིང༌
+localeDisplayNamesterritoriesAIཨང་གི་ལ
+localeDisplayNamesterritoriesGLགིརཱིན་ལནཌ྄
+localeDisplayNamesterritoriesSLསི་ར་ ལི་འོན
+localeDisplayNamesterritoriesSYསི་རི་ཡ
+localeDisplayNamesterritoriesBNབྷྲུ་ནའི
+localeDisplayNamesterritoriesAZཨ་ཛར་བྷའི་ཇཱན
+localeDisplayNamesterritoriesGRགིརིས྄
+localeDisplayNamesterritoriesLSལཻ་སོ་ཐོ
+localeDisplayNamesterritoriesGEཇཽར་ཇཱ
+localeDisplayNamesterritoriesTTཊི་ནི་ཌཱཌ་ ཨེནཌ་ ཊོ་བྷེ་གྷོ
+localeDisplayNamesterritoriesSMསཱན་མ་རི་ནོ
+localeDisplayNamesterritoriesERཨེ་རི་ཊྲེ་ཡ
+localeDisplayNamesterritoriesEAསེ་ཨུ་ཏ་ ཨེནཌ་ མེལ་ལི་ལ
+localeDisplayNamesterritoriesBZབྷེ་ལིཛ
+localeDisplayNamesterritories030ཤར་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesINརྒྱ་གར
+localeDisplayNamesterritoriesKYཁེ་མེན་གླིང་ཚོམ
+localeDisplayNamesterritoriesKNསེནཊ་ ཀིཊས་ དང་ ནེ་བིས
+localeDisplayNamesterritoriesVNབེཊ་ནཱམ
+localeDisplayNamesterritoriesPYཔ་ར་གུ་ཝའི
+localeDisplayNamesterritoriesNLནེ་དར་ལནཌས྄
+localeDisplayNamesterritoriesPNཔིཊ་ཀེ་ཡེརན་གླིང་ཚོམ
+localeDisplayNamesterritoriesGBཡུ་ནཱའི་ཊེཌ་ ཀིང་ཌམ
+localeDisplayNamesterritoriesMRམོ་རི་ཊེ་ནི་ཡ
+localeDisplayNamesterritoriesHNཧཱན་ཌུ་རཱས྄
+localeDisplayNamesterritories002ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesVAབ་ཊི་ཀཱན་ སི་ཊི
+localeDisplayNamesterritoriesTMཊཱརཀ་མེནའི་སཏཱན
+localeDisplayNamesterritoriesALཨཱལ་བེ་ནི་ཡ
+localeDisplayNamesterritoriesKWཀུ་ཝེཊ
+localeDisplayNamesterritoriesPGཔ་པུ་ ནིའུ་གི་ནི
+localeDisplayNamesterritoriesPEཔེ་རུ
+localeDisplayNamesterritoriesCDཌེ་མོ་ཀེརེ་ཊིཀ་ རི་པབ་ལིཀ་ ཨོཕ་ ཀོང་གྷོ
+localeDisplayNamesterritoriesMYམ་ལེ་ཤི་ཡ
+localeDisplayNamesterritoriesVGཝརཇིན་གླིང་ཚོམ་ བྲཱི་ཊིཤ་མངའ་ཁོངས
+localeDisplayNamesterritoriesSTསཝ་ ཊོ་མེ་ ཨེནཌ་ པྲྀན་སི་པེ
+localeDisplayNamesterritoriesGDགྲྀ་ན་ཌ
+localeDisplayNamesterritoriesBEབྷེལ་ཇམ
+localeDisplayNamesterritoriesJMཇཱ་མཻ་ཀ
+localeDisplayNamesterritoriesECཨེ་ཁྭ་ཌོར
+localeDisplayNamesterritoriesVEབེ་ནི་ཛུ་ཝེ་ལ
+localeDisplayNamesterritories003བྱང་ཨ་མི་རི་ཀ
+localeDisplayNamesterritoriesBYབེལ་ཨ་རུ་སུ
+localeDisplayNamesterritoriesIDཨིན་ཌོ་ནེ་ཤི་ཡ
+localeDisplayNamesterritoriesYTམེ་ཡོཊ
+localeDisplayNamesterritoriesSCསེ་ཤཱལས
+localeDisplayNamesterritoriesCAཀེ་ན་ཌ
+localeDisplayNamesterritoriesNZནིའུ་ཛི་ལེནཌ
+localeDisplayNamesterritoriesIRཨི་རཱན
+localeDisplayNamesterritoriesJEཇེར་སི
+localeDisplayNamesterritoriesMMམི་ཡཱན་མར་ (བྷར་མ)
+localeDisplayNamesterritoriesBVབོའུ་ཝེཊ་མཚོ་གླིང
+localeDisplayNamesterritoriesAOཨང་གྷོ་ལ
+localeDisplayNamesterritories021བྱང་ཕྱོགས་ཀྱི་ཨ་མི་རི་ཀ
+localeDisplayNamesterritoriesBHབྷ་རེན
+localeDisplayNamesterritoriesLIལིཀ་ཏནས་ཏ་ཡིན
+localeDisplayNamesterritoriesNRནའུ་རུ་
+localeDisplayNamesterritoriesSDསུ་ཌཱན
+localeDisplayNamesterritoriesCIཨི་ཝོ་རི་ཀོསཊ
+localeDisplayNamesterritories029ཀེ་རི་བི་ཡེན
+localeDisplayNamesterritoriesAFཨཕ་གྷ་ནི་སཏཱན
+localeDisplayNamesterritoriesAQའཛམ་གླིང་ལྷོ་མཐའི་ཁྱགས་གླིང
+localeDisplayNamesterritoriesICཀ་ནེ་རི་གླིང་ཚོམ
+localeDisplayNamesterritoriesBBབྷར་བེ་ཌོས
+localeDisplayNamesterritoriesDKཌེན་མཱཀ
+localeDisplayNamesterritoriesCNརྒྱ་ནག
+localeDisplayNamesterritories018ལྷོའི་ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesGYགྷ་ཡ་ན
+localeDisplayNamesterritoriesSEསུའི་ཌེན
+localeDisplayNamesterritoriesTJཏ་ཇིག་གི་སཏཱན
+localeDisplayNamesterritoriesZMཛམ་བྷི་ཡ
+localeDisplayNamesterritoriesNOནོར་ཝེ
+localeDisplayNamesterritoriesTAཏྲིས་ཏན་ད་ཀུན་ཧ
+localeDisplayNamesterritoriesCYསཱའི་པྲས
+localeDisplayNamesterritories013བར་ཕྱོགས་ཨ་མི་རི་ཀ
+localeDisplayNamesterritories155ནུབ་ཕྱོགས་ཀྱི་ཡུ་རོབ
+localeDisplayNamesterritoriesSGསིང་ག་པོར
+localeDisplayNamesterritoriesCPཀི་ལི་པེར་ཊོན་མཚོ་གླིང་
+localeDisplayNamesterritoriesCHསུ་ཝིཊ་ཛར་ལེནཌ
+localeDisplayNamesterritoriesAMཨར་མི་ནི་ཡ
+localeDisplayNamesterritoriesHUཧཱང་གྷ་རི
+localeDisplayNamesterritoriesJOཇོར་ཌན
+localeDisplayNamesterritoriesZWཛིམ་བྷབ་ཝེ
+localeDisplayNamesterritoriesSNསེ་ནི་གྷལ
+localeDisplayNamesterritoriesEGཨི་ཇིབཊ
+localeDisplayNamesterritoriesGAགྷ་བྷོན
+localeDisplayNamesterritoriesVCསེནཊ་ཝིན་སེནཌ྄ ཨེནཌ་ གི་རེ་ན་དིནས྄
+localeDisplayNamesterritoriesFOཕཱའེ་རོ་གླིང་ཚོམ
+localeDisplayNamesterritoriesGIཇིབ་རཱལ་ཊར
+localeDisplayNamesterritoriesKPབྱང་ ཀོ་རི་ཡ
+localeDisplayNamesterritoriesMNསོག་པོ་ཡུལ
+localeDisplayNamesterritoriesCOཀོ་ལོམ་བྷི་ཡ
+localeDisplayNamesterritoriesPKཔ་ཀི་སཏཱན
+localeDisplayNamesterritoriesMHམར་ཤེལ་གླིང་ཚོམ
+localeDisplayNamesterritoriesMDམོལ་དོ་བཱ
+localeDisplayNamesterritoriesLAལཱ་ཝོས
+localeDisplayNamesterritoriesEHནུབ་ཕྱོགས་ ས་ཧཱ་ར
+localeDisplayNamesterritoriesPWཔ་ལའུ
+localeDisplayNamesterritoriesNFནོར་ཕོལཀ་མཚོ་གླིང༌
+localeDisplayNamesterritories061པོ་ལི་ནི་ཤི་ཡ
+localeDisplayNamesterritories145ནུབ་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesATཨཱོས་ཊྲི་ཡ
+localeDisplayNamesterritoriesSSསཱའུཐ་ སུ་ཌཱན
+localeDisplayNamesterritoriesMVམཱལ་དིབས
+localeDisplayNamesterritoriesGQཨེ་ཀུ་ཊོ་རེལ་ གི་ནི
+localeDisplayNamesterritoriesMQམཱར་ཊི་ནིཀ
+localeDisplayNamesterritoriesHRཀྲོ་ཨེ་ཤ
+localeDisplayNamesterritoriesLKཤྲཱི་ལང་ཀ
+localeDisplayNamesterritoriesLUལག་ཛམ་བོརྒ
+localeDisplayNamesterritories057ལུང་ཕྱོགས་མའི་ཀྲོ་ནི་ཤི་ཡ
+localeDisplayNamesterritoriesCKཀུག་གླིང་ཚོམ
+localeDisplayNamesterritoriesKGཀིར་གིས་སཏཱན
+localeDisplayNamesterritoriesSKསུ་ལོ་བཱ་ཀི་ཡ
+localeDisplayNamesterritoriesYEཡེ་མེན
+localeDisplayNamesterritoriesSIསུ་ལོ་བི་ནི་ཡ
+localeDisplayNamesterritoriesFMམའི་ཀྲོ་ནི་ཤི་ཡ
+localeDisplayNamesterritoriesTVཏུ་ཝ་ལུ
+localeDisplayNamesterritoriesRUཨུ་རུ་སུ
+localeDisplayNamesterritoriesCGརི་པབ་ལིཀ་ ཨོཕ་ ཀོང་གྷོ
+localeDisplayNamesterritoriesCVཀེཔ་བཱཌ
+localeDisplayNamesterritoriesGGགུ་ཨེརྣ་སི
+localeDisplayNamesterritories150ཡུ་རོབ
+localeDisplayNamesterritoriesVIཝརཇིན་གླིང་ཚོམ་ ཡུ་ཨེས་ཨེ་མངའ་ཁོངས
+localeDisplayNamesterritoriesTRཊཱར་ཀི
+localeDisplayNamesterritoriesPFཕྲཱནས྄་ཀྱི་པོ་ལི་ནི་ཤི་ཡ
+localeDisplayNamesterritoriesFKཕལྐ་ལནྜ་གླིང་ཚོམ (ཨིས་ལཱས་མལ་བི་ཎཱས)
+localeDisplayNamesterritoriesBLསེནཊ་ བར་ཐོ་ལོམ་མིའུ
+localeDisplayNamesterritoriesCCཀོ་ཀོས་གླིང་ཚོམ
+localeDisplayNamesterritoriesGNགྷི་ནི
+localeDisplayNamesterritoriesMAམོ་རོ་ཀོ
+localeDisplayNamesterritoriesVUཝ་ནུ་ཨ་ཏུ
+localeDisplayNamesterritoriesNAན་མི་བི་ཡ
+localeDisplayNamesterritoriesDGཌི་ཡེ་གོ་གར་སིའོ
+localeDisplayNamesterritoriesMLམཱ་ལི
+localeDisplayNamesterritoriesGUགུ་འམ་ མཚོ་གླིང
+localeDisplayNamesterritoriesLBལེ་བ་ནོན
+localeDisplayNamesterritoriesLCསེནཊ་ ལུ་སི་ཡ
+localeDisplayNamesterritoriesRSསཱར་བྷི་ཡ
+localeDisplayNamesterritoriesZAསཱའུཐ་ ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesTNཊུ་ནི་ཤི་ཡ
+localeDisplayNamesterritoriesRWརུ་ཝན་ཌ
+localeDisplayNamesterritories005ལྷོ་ཨ་མི་རི་ཀ
+localeDisplayNamesterritoriesIEཨཱ་ཡ་ལེནཌ
+localeDisplayNamesterritoriesITཨི་ཊ་ལི
+localeDisplayNamesterritoriesLTལི་ཐུ་ཝེ་ནི་ཡ
+localeDisplayNamesterritoriesMFསེནཊ་ མཱར་ཊིན
+localeDisplayNamesterritoriesLRལཱའི་བེ་རི་ཡ
+localeDisplayNamesterritoriesTOཊོང་གྷ
+localeDisplayNamesterritoriesMTམཱལ་ཊ
+localeDisplayNamesterritories009ཨོཤི་ཡཱན་ན
+localeDisplayNamesterritories154བྱང་ཕྱོགས་ཀྱི་ཡུ་རོབ
+localeDisplayNamesterritoriesJPཇ་པཱན
+localeDisplayNamesterritoriesSXསིནཊ་ མཱར་ཊེན
+localeDisplayNamesterritoriesSRསུ་རི་ནཱམ
+localeDisplayNamesterritoriesBQཀེ་རི་བི་ཡེན་ནེ་དར་ལནཌས྄
+localeDisplayNamesterritoriesROརོ་མེ་ནི་ཡ
+localeDisplayNamesterritoriesIQཨི་རཱཀ
+localeDisplayNamesterritoriesGWགྷི་ནི་ བྷི་སཱའུ
+localeDisplayNamesterritoriesCXཁི་རིསྟ་མེས་མཚོ་གླིང
+localeDisplayNamesterritoriesSHསེནཊ་ ཧེ་ལི་ན
+localeDisplayNamesterritoriesMWམ་ལ་ཝི
+localeDisplayNamesterritoriesGPགོ་ཌེ་ལུ་པེ
+localeDisplayNamesterritoriesHMཧཱརཌ་མཚོ་གླིང་ དང་ མེཀ་ཌོ་ནལཌ྄་གླིང་ཚོམ
+localeDisplayNamesterritoriesSZསུ་ཝ་ཛི་ལེནཌ
+localeDisplayNamesterritories019ཨ་མི་རི་ཀ་ཚུ
+localeDisplayNamesterritories143སྦུག་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesBOབྷེ་ལི་བི་ཡ
+localeDisplayNamesterritoriesWFཝལ་ལིས྄་ ཨེནཌ་ ཕུ་ཏུ་ན་
+localeDisplayNamesterritoriesTZཊཱན་ཛཱ་ནི་ཡ
+localeDisplayNamesterritories035ལྷོ་ཤར་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesISཨཱའིས་ལེནཌ
+localeDisplayNamesterritoriesPMསིནཊ་པི་ཡེར་ ཨེནཌ་ མིཀོ་ལེན
+localeDisplayNamesterritoriesCUཀིའུ་བྷ
+localeDisplayNamesterritoriesNUནི་ཨུ་ཨཻ
+localeDisplayNamesterritoriesNCནིའུ་ཀ་ལི་དོ་ནི་ཡ
+localeDisplayNamesterritoriesMSམོན་ས་རཊ
+localeDisplayNamesterritoriesCLཅི་ལི
+localeDisplayNamesterritories014ཤར་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ
+localeDisplayNamesterritoriesHKཧོང་ཀོང
+localeDisplayNamesterritoriesHTཧེ་ཊི
+localeDisplayNamesterritoriesBAབྷོས་ནི་ཡ་ ཨེནཌ་ ཧར་ཛི་གྷོ་བི་ན
+localeDisplayNamesterritoriesLVལཊ་བི་ཡ
+localeDisplayNamesterritoriesUMཡུ་ཨེས་གྱི་མཐའ་མཚམས་མཚོ་གླིང་
+localeDisplayNamesterritoriesESཨིས་པེན
+localeDisplayNamesterritoriesSAསཱཝ་དི་ ཨ་རེ་བྷི་ཡ
+localeDisplayNamesterritoriesKMཀོ་མོ་རོས
+localeDisplayNamesterritoriesBTའབྲུག
+localeDisplayNamesterritoriesILཨིས་ར་ཡེལ
+localeDisplayNamesterritoriesPTཔོར་ཅུ་གཱལ
+localeDisplayNamesterritoriesEUཡུ་རོབ་གཅིག་བསྡོམས་ཚོགས་པ
+localeDisplayNamesterritoriesSJསྭཱལ་བྷརྡ་ ཨེནཌ་ ཇཱན་མ་ཡེན
+localeDisplayNamesterritoriesSOསོ་མ་ལི་ཡ
+localeDisplayNamesterritoriesNIནི་ཀྲ་ཝ་ག
+localeDisplayNamesterritoriesDJཇི་བྷུ་ཊི
+localeDisplayNamesterritoriesBSབྷ་ཧ་མས྄
+localeDisplayNamesterritories001འཛམ་གླིང༌
+localeDisplayNamesterritoriesKEཀེན་ཡ
+localeDisplayNamesterritoriesGTགྷོ་ཊ་མ་ལ
+localeDisplayNamesterritoriesKRལྷོ་ ཀོ་རི་ཡ
+localeDisplayNamesterritoriesUYཡུ་རུ་གུ་ཝའི
+localeDisplayNamesterritoriesMUམོ་རི་ཤཱས
+localeDisplayNamesterritories039ལྷོའི་ཡུ་རོབ
+localeDisplayNamesterritories142ཨེ་ཤི་ཡ
+localeDisplayNamesterritoriesUZཨུས་བེག་གི་སཏཱན
+localeDisplayNamesterritoriesDEཇཱར་མ་ནི
+localeDisplayNamesterritoriesFRཕྲཱནས
+localeDisplayNamesterritoriesCMཀེ་མ་རུན
+localeDisplayNamesterritoriesBJབྷེ་ནིན
+localeDisplayNamesterritories151ཤར་ཕྱོགས་ཀྱི་ཡུ་རོབ
+localeDisplayNamesterritoriesUGཡུ་གྷན་ཌ
+localeDisplayNamesterritoriesBIབྷུ་རུན་ཌི
+localeDisplayNamesterritoriesKZཀ་ཛགས་སཏཱན
+localeDisplayNamesmeasurementSystemNamesUSཨ་མི་རི་ཀཱན་ བརྩི་ལུགས
+localeDisplayNamesmeasurementSystemNamesmetricམེ་ཊྲིཀ་བརྩི་ལུགས
+localeDisplayNamesmeasurementSystemNamesUKབྲི་ཊིཤ་ བརྩི་ལུགས
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh–h a v
+calendarsgregorianintervalFormatsyMMy-MM – MM
+calendarsgregorianintervalFormatsyMyy-MM – y-MM
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatsHvHHH–HH v
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm–h:mm a
+calendarsgregorianintervalFormatsyMMMyy-MM – y-MM
+calendarsgregorianintervalFormatsyMMMMསྤྱི་ཟླ་MMM/MMM, y
+calendarsgregorianintervalFormatshhh–h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsMEdME, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dd
+calendarsgregorianintervalFormatsMEddE, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dd
+calendarsgregorianintervalFormatsyMMMMMy-སྤྱི་ཟླ་MM – MM
+calendarsgregorianintervalFormatsyMMMMyy-MM – y-MM
+calendarsgregorianintervalFormatsMMMEddE, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་d
+calendarsgregorianintervalFormatsMMMEdME, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་d
+calendarsgregorianintervalFormatsyMMMdMy-MM-dd – MM-d
+calendarsgregorianintervalFormatsyMMMddy-MM-d – d
+calendarsgregorianintervalFormatsyMMMdyy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsddd–d
+calendarsgregorianintervalFormatsyMMMEdyE, y-MM-dd – E, y-MM-dd
+calendarsgregorianintervalFormatsyMMMEdME, y-MM-dd – E, y-MM-dd
+calendarsgregorianintervalFormatsyMMMEddE, y-MM-dd – E, y-MM-dd
+calendarsgregorianintervalFormatsMMསྤྱི་ཟླ་M–M
+calendarsgregorianintervalFormatsHmHHH:mm–HH:mm
+calendarsgregorianintervalFormatsHmmHH:mm–HH:mm
+calendarsgregorianintervalFormatsMMMdMསྤྱི་ཟླ་MM ཚེས་d–ཟླ་MM ཚེས་d
+calendarsgregorianintervalFormatsMMMddསྤྱི་ཟླ་MM ཚེས་d–d
+calendarsgregorianintervalFormatsyMddy-MM-dd – dd
+calendarsgregorianintervalFormatsyMdMy-MM-dd – MM-dd
+calendarsgregorianintervalFormatsyMdyy-MM-dd – y-MM-dd
+calendarsgregorianintervalFormatsyMEdME, y-MM-dd – E, y-MM-dd
+calendarsgregorianintervalFormatsyMEddE, y-MM-dd – E, y-MM-dd
+calendarsgregorianintervalFormatsyMEdyE, y-MM-dd – E, y-MM-dd
+calendarsgregorianintervalFormatsMMMMསྤྱི་LLL–LLL
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm–h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm–h:mm a v
+calendarsgregorianintervalFormatsMdMསྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dd
+calendarsgregorianintervalFormatsMddསྤྱི་ཟླ་M ཚེས་dd/dd
+calendarsgregorianintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgregorianintervalFormatsHHHH–HH
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsyMy-M
+calendarsgregorianavailableFormatsGyG y
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyMMMdG y MMM d
+calendarsgregorianavailableFormatshཆུ་ཚོད་h a
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsyMMMy སྤྱི་ཟླ་MMM
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsMEdE, M-d
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsMMMEdE, སྤྱི་LLL ཚེ་d
+calendarsgregorianavailableFormatsyMMMdy MMM d
+calendarsgregorianavailableFormatsyMMMEdགཟའ་E, ལོy ཟླ་MMM ཚེ་d
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsGyMMMEdགཟའ་E, G ལོy ཟླ་MMM ཚེ་d
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsGyMMMG y སྤྱི་ཟླ་MMM
+calendarsgregorianavailableFormatsEdd E
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsyMdy-M-d
+calendarsgregorianavailableFormatsMMMdསྤྱི་LLL ཚེ་d
+calendarsgregorianavailableFormatsyMEdE, y-M-d
+calendarsgregorianavailableFormatsyQQQQy QQQQ
+calendarsgregorianavailableFormatsMdM-d
+calendarsgregorianavailableFormatsMMMསྤྱི་LLL
+calendarsgregorianavailableFormatsHཆུ་ཚོད་HH
+calendarsgregorianmonthsstand-alonewide12སྤྱི་ཟླ་བཅུ་གཉིས་པ་
+calendarsgregorianmonthsstand-alonewide7སྤྱི་ཟླ་བདུན་པ་
+calendarsgregorianmonthsstand-alonewide11སྤྱི་ཟླ་བཅུ་གཅིག་པ་
+calendarsgregorianmonthsstand-alonewide3སྤྱི་ཟླ་གསུམ་པ་
+calendarsgregorianmonthsstand-alonewide10སྤྱི་ཟླ་བཅུ་པ་
+calendarsgregorianmonthsstand-alonewide9སྤྱི་ཟླ་དགུ་པ་
+calendarsgregorianmonthsstand-alonewide1སྤྱི་ཟླ་དངཔ་
+calendarsgregorianmonthsstand-alonewide6སྤྱི་ཟླ་དྲུག་པ
+calendarsgregorianmonthsstand-alonewide4སྤྱི་ཟླ་བཞི་པ
+calendarsgregorianmonthsstand-alonewide5སྤྱི་ཟླ་ལྔ་པ་
+calendarsgregorianmonthsstand-alonewide8སྤྱི་ཟླ་བརྒྱད་པ་
+calendarsgregorianmonthsstand-alonewide2སྤྱི་ཟླ་གཉིས་པ་
+calendarsgregorianmonthsstand-aloneabbreviated10ཟླ་༡༠
+calendarsgregorianmonthsstand-aloneabbreviated3ཟླ་༣
+calendarsgregorianmonthsstand-aloneabbreviated12ཟླ་༡༢
+calendarsgregorianmonthsstand-aloneabbreviated7ཟླ་༧
+calendarsgregorianmonthsstand-aloneabbreviated11ཟླ་༡༡
+calendarsgregorianmonthsstand-aloneabbreviated8ཟླ་༨
+calendarsgregorianmonthsstand-aloneabbreviated2ཟླ་༢
+calendarsgregorianmonthsstand-aloneabbreviated5ཟླ་༥
+calendarsgregorianmonthsstand-aloneabbreviated6ཟླ་༦
+calendarsgregorianmonthsstand-aloneabbreviated1ཟླ་༡
+calendarsgregorianmonthsstand-aloneabbreviated4ཟླ་༤
+calendarsgregorianmonthsstand-aloneabbreviated9ཟླ་༩
+calendarsgregorianmonthsstand-alonenarrow6༦
+calendarsgregorianmonthsstand-alonenarrow4༤
+calendarsgregorianmonthsstand-alonenarrow1༡
+calendarsgregorianmonthsstand-alonenarrow9༩
+calendarsgregorianmonthsstand-alonenarrow2༢
+calendarsgregorianmonthsstand-alonenarrow8༨
+calendarsgregorianmonthsstand-alonenarrow5༥
+calendarsgregorianmonthsstand-alonenarrow3༣
+calendarsgregorianmonthsstand-alonenarrow12༡༢
+calendarsgregorianmonthsstand-alonenarrow7༧
+calendarsgregorianmonthsstand-alonenarrow11༡༡
+calendarsgregorianmonthsstand-alonenarrow10༡༠
+calendarsgregorianmonthsformatnarrow10༡༠
+calendarsgregorianmonthsformatnarrow12༡༢
+calendarsgregorianmonthsformatnarrow7༧
+calendarsgregorianmonthsformatnarrow11༡༡
+calendarsgregorianmonthsformatnarrow3༣
+calendarsgregorianmonthsformatnarrow5༥
+calendarsgregorianmonthsformatnarrow2༢
+calendarsgregorianmonthsformatnarrow8༨
+calendarsgregorianmonthsformatnarrow99
+calendarsgregorianmonthsformatnarrow6༦
+calendarsgregorianmonthsformatnarrow44
+calendarsgregorianmonthsformatnarrow1༡
+calendarsgregorianmonthsformatabbreviated10༡༠
+calendarsgregorianmonthsformatabbreviated1212
+calendarsgregorianmonthsformatabbreviated7༧
+calendarsgregorianmonthsformatabbreviated11༡༡
+calendarsgregorianmonthsformatabbreviated3༣
+calendarsgregorianmonthsformatabbreviated5༥
+calendarsgregorianmonthsformatabbreviated8༨
+calendarsgregorianmonthsformatabbreviated2༢
+calendarsgregorianmonthsformatabbreviated9༩
+calendarsgregorianmonthsformatabbreviated6༦
+calendarsgregorianmonthsformatabbreviated4༤
+calendarsgregorianmonthsformatabbreviated1༡
+calendarsgregorianmonthsformatwide10ཟླ་བཅུ་པ་
+calendarsgregorianmonthsformatwide11ཟླ་བཅུ་གཅིག་པ་
+calendarsgregorianmonthsformatwide12ཟླ་བཅུ་གཉིས་པ་
+calendarsgregorianmonthsformatwide7ཟླ་བདུན་པ་
+calendarsgregorianmonthsformatwide3ཟླ་གསུམ་པ་
+calendarsgregorianmonthsformatwide5ཟླ་ལྔ་པ་
+calendarsgregorianmonthsformatwide8ཟླ་བརྒྱད་པ་
+calendarsgregorianmonthsformatwide2ཟླ་གཉིས་པ་
+calendarsgregorianmonthsformatwide9ཟླ་དགུ་པ་
+calendarsgregorianmonthsformatwide1ཟླ་དངཔ་
+calendarsgregorianmonthsformatwide6ཟླ་དྲུག་པ
+calendarsgregorianmonthsformatwide4ཟླ་བཞི་པ་
+calendarsgregorianeraseraAbbr1CE
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregoriantimeFormatslongstandardཆུ་ཚོད་ h སྐར་མ་ mm:ss a z
+calendarsgregoriantimeFormatsmediumstandardཆུ་ཚོད་h:mm:ss a
+calendarsgregoriantimeFormatsshortstandardཆུ་ཚོད་ h སྐར་མ་ mm a
+calendarsgregoriantimeFormatsfullstandardཆུ་ཚོད་ h སྐར་མ་ mm:ss a zzzz
+calendarsgregoriandateFormatsshortstandardy-MM-dd
+calendarsgregoriandateFormatsfullstandardEEEE, སྤྱི་ལོ་y MMMM ཚེས་dd
+calendarsgregoriandateFormatslongstandardསྤྱི་ལོ་y MMMM ཚེས་ dd
+calendarsgregoriandateFormatsmediumstandardསྤྱི་ལོ་y ཟླ་MMM ཚེས་dd
+calendarsgregorianquartersstand-alonenarrow2༢
+calendarsgregorianquartersstand-alonenarrow1༡
+calendarsgregorianquartersstand-alonenarrow4༤
+calendarsgregorianquartersstand-alonenarrow3༣
+calendarsgregorianquartersstand-aloneabbreviated3བཞི་དཔྱ་༣
+calendarsgregorianquartersstand-aloneabbreviated4བཞི་དཔྱ་༤
+calendarsgregorianquartersstand-aloneabbreviated1བཞི་དཔྱ་༡
+calendarsgregorianquartersstand-aloneabbreviated2བཞི་དཔྱ་༢
+calendarsgregorianquartersstand-alonewide2བཞི་དཔྱ་གཉིས་པ་
+calendarsgregorianquartersstand-alonewide1བཞི་དཔྱ་དང་པ་
+calendarsgregorianquartersstand-alonewide4བཞི་དཔྱ་བཞི་པ་
+calendarsgregorianquartersstand-alonewide3བཞི་དཔྱ་གསུམ་པ་
+calendarsgregorianquartersformatabbreviated2བཞི་དཔྱ་༢
+calendarsgregorianquartersformatabbreviated1བཞི་དཔྱ་༡
+calendarsgregorianquartersformatabbreviated4བཞི་དཔྱ་༤
+calendarsgregorianquartersformatabbreviated3བཞི་དཔྱ་༣
+calendarsgregorianquartersformatwide4བཞི་དཔྱ་བཞི་པ་
+calendarsgregorianquartersformatwide1བཞི་དཔྱ་དང་པ་
+calendarsgregorianquartersformatwide2བཞི་དཔྱ་གཉིས་པ་
+calendarsgregorianquartersformatwide3བཞི་དཔྱ་གསུམ་པ་
+calendarsgregorianquartersformatnarrow3༣
+calendarsgregorianquartersformatnarrow1༡
+calendarsgregorianquartersformatnarrow4༤
+calendarsgregorianquartersformatnarrow2༢
+calendarsgregoriandayPeriodsformatnarrowpmཕྱི་ཆ་
+calendarsgregoriandayPeriodsformatnarrowamསྔ་ཆ་
+calendarsgregoriandayPeriodsformatabbreviatedamསྔ་ཆ་
+calendarsgregoriandayPeriodsformatabbreviatedpmཕྱི་ཆ་
+calendarsgregoriandayPeriodsformatwideamསྔ་ཆ་
+calendarsgregoriandayPeriodsformatwidepmཕྱི་ཆ་
+calendarsgregoriandaysformatshorttueལྷག་
+calendarsgregoriandaysformatshortmonམིར་
+calendarsgregoriandaysformatshortthuསངས་
+calendarsgregoriandaysformatshortsatཉི་
+calendarsgregoriandaysformatshortfriསྤེན་
+calendarsgregoriandaysformatshortsunཟླ་
+calendarsgregoriandaysformatshortwedཕུར་
+calendarsgregoriandaysformatnarrowwedཕུར
+calendarsgregoriandaysformatnarrowsunཟླ
+calendarsgregoriandaysformatnarrowfriསྤེན
+calendarsgregoriandaysformatnarrowsatཉི
+calendarsgregoriandaysformatnarrowthuསངྶ
+calendarsgregoriandaysformatnarrowmonམིར
+calendarsgregoriandaysformatnarrowtueལྷག
+calendarsgregoriandaysformatwidesunགཟའ་ཟླ་བ་
+calendarsgregoriandaysformatwidewedགཟའ་ཕུར་བུ་
+calendarsgregoriandaysformatwidetueགཟའ་ལྷག་པ་
+calendarsgregoriandaysformatwidemonགཟའ་མིག་དམར་
+calendarsgregoriandaysformatwidesatགཟའ་ཉི་མ་
+calendarsgregoriandaysformatwidethuགཟའ་པ་སངས་
+calendarsgregoriandaysformatwidefriགཟའ་སྤེན་པ་
+calendarsgregoriandaysformatabbreviatedwedཕུར་
+calendarsgregoriandaysformatabbreviatedsunཟླ་
+calendarsgregoriandaysformatabbreviatedfriསྤེན་
+calendarsgregoriandaysformatabbreviatedsatཉི་
+calendarsgregoriandaysformatabbreviatedthuསངས་
+calendarsgregoriandaysformatabbreviatedmonམིར་
+calendarsgregoriandaysformatabbreviatedtueལྷག་
+calendarsgregoriandaysstand-aloneshortthuསངས་
+calendarsgregoriandaysstand-aloneshortsatཉི་
+calendarsgregoriandaysstand-aloneshortfriསྤེན་
+calendarsgregoriandaysstand-aloneshorttueལྷག་
+calendarsgregoriandaysstand-aloneshortmonམིར་
+calendarsgregoriandaysstand-aloneshortwedཕུར་
+calendarsgregoriandaysstand-aloneshortsunཟླ་
+calendarsgregoriandaysstand-alonewidetueགཟའ་ལྷག་པ་
+calendarsgregoriandaysstand-alonewidemonགཟའ་མིག་དམར་
+calendarsgregoriandaysstand-alonewidethuགཟའ་པ་སངས་
+calendarsgregoriandaysstand-alonewidesatགཟའ་ཉི་མ་
+calendarsgregoriandaysstand-alonewidefriགཟའ་སྤེན་པ་
+calendarsgregoriandaysstand-alonewidesunགཟའ་ཟླ་བ་
+calendarsgregoriandaysstand-alonewidewedགཟའ་ཕུར་བུ་
+calendarsgregoriandaysstand-aloneabbreviatedwedཕུར་
+calendarsgregoriandaysstand-aloneabbreviatedsunཟླ་
+calendarsgregoriandaysstand-aloneabbreviatedsatཉི་
+calendarsgregoriandaysstand-aloneabbreviatedthuསངས་
+calendarsgregoriandaysstand-aloneabbreviatedfriསྤེན་
+calendarsgregoriandaysstand-aloneabbreviatedtueལྷག་
+calendarsgregoriandaysstand-aloneabbreviatedmonམིར་
+calendarsgregoriandaysstand-alonenarrowfriསྤེན
+calendarsgregoriandaysstand-alonenarrowsatཉི
+calendarsgregoriandaysstand-alonenarrowthuསངྶ
+calendarsgregoriandaysstand-alonenarrowmonམིར
+calendarsgregoriandaysstand-alonenarrowtueལྷག
+calendarsgregoriandaysstand-alonenarrowwedཕུར
+calendarsgregoriandaysstand-alonenarrowsunཟླ
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgenericdateFormatsmediumstandardG སྤྱི་ལོ་y ཟླ་MMM ཚེས་dd
+calendarsgenericdateFormatslongstandardG སྤྱི་ལོ་y MMMM ཚེས་ dd
+calendarsgenericdateFormatsfullstandardEEEE, G སྤྱི་ལོ་y MMMM ཚེས་dd
+calendarsgenericdateFormatsshortstandardGGGGG y-MM-dd
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericintervalFormatsMMMEdME, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་d
+calendarsgenericintervalFormatsMMMEddE, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་d
+calendarsgenericintervalFormatsyMMMMyG y-MM – y-MM
+calendarsgenericintervalFormatsyMMMMMG y-སྤྱི་ཟླ་MM – MM
+calendarsgenericintervalFormatsyMMMyG y-MM – y-MM
+calendarsgenericintervalFormatsyMMMMསྤྱི་ཟླ་MMM/MMM, y
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatshhh–h a
+calendarsgenericintervalFormatsMEddE, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dd
+calendarsgenericintervalFormatsMEdME, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dd
+calendarsgenericintervalFormatsyMMG y-MM – MM
+calendarsgenericintervalFormatsyMyG y-MM – y-MM
+calendarsgenericintervalFormatshmhh:mm–h:mm a
+calendarsgenericintervalFormatshmmh:mm–h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatsyyG y–y
+calendarsgenericintervalFormatsHvHHH–HH v
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatshvhh–h a v
+calendarsgenericintervalFormatsyMEdyE, y-MM-dd – E, y-MM-dd
+calendarsgenericintervalFormatsyMEdME, y-MM-dd – E, y-MM-dd
+calendarsgenericintervalFormatsyMEddE, y-MM-dd – E, y-MM-dd
+calendarsgenericintervalFormatsMMMMསྤྱི་LLL–LLL
+calendarsgenericintervalFormatsMddསྤྱི་ཟླ་M ཚེས་dd/dd
+calendarsgenericintervalFormatsMdMསྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dd
+calendarsgenericintervalFormatshmvhh:mm–h:mm a v
+calendarsgenericintervalFormatshmvmh:mm–h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatsHmvHHH:mm–HH:mm v
+calendarsgenericintervalFormatsHmvmHH:mm–HH:mm v
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsHHHH–HH
+calendarsgenericintervalFormatsyMdyG y-MM-dd – y-MM-dd
+calendarsgenericintervalFormatsyMdMG y-MM-dd – MM-dd
+calendarsgenericintervalFormatsyMddG y-MM-dd – dd
+calendarsgenericintervalFormatsMMMddསྤྱི་ཟླ་MM ཚེས་d–d
+calendarsgenericintervalFormatsMMMdMསྤྱི་ཟླ་MM ཚེས་d–ཟླ་MM ཚེས་d
+calendarsgenericintervalFormatsMMསྤྱི་ཟླ་M–M
+calendarsgenericintervalFormatsyMMMEdyE, y-MM-dd – E, y-MM-dd
+calendarsgenericintervalFormatsyMMMEdME, y-MM-dd – E, y-MM-dd
+calendarsgenericintervalFormatsyMMMEddE, y-MM-dd – E, y-MM-dd
+calendarsgenericintervalFormatsHmmHH:mm–HH:mm
+calendarsgenericintervalFormatsHmHHH:mm–HH:mm
+calendarsgenericintervalFormatsddd–d
+calendarsgenericintervalFormatsyMMMddG y-MM-d – d
+calendarsgenericintervalFormatsyMMMdMG y-MM-dd – MM-d
+calendarsgenericintervalFormatsyMMMdyG y-MM-dd – y-MM-dd
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsGyMMMEdགཟའ་E, G ལོy ཟླ་MMM ཚེ་d
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsGyMMMG y སྤྱི་ཟླ་MMM
+calendarsgenericavailableFormatsEdd E
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsyyyyMdG y-M-d
+calendarsgenericavailableFormatsyyyyMMMG y སྤྱི་ཟླ་MMM
+calendarsgenericavailableFormatsHཆུ་ཚོད་HH
+calendarsgenericavailableFormatsyyyyMEdE, G y-M-d
+calendarsgenericavailableFormatsMMMསྤྱི་LLL
+calendarsgenericavailableFormatsMdM-d
+calendarsgenericavailableFormatsyyyyMG y-M
+calendarsgenericavailableFormatsMMMdསྤྱི་LLL ཚེ་d
+calendarsgenericavailableFormatshཆུ་ཚོད་h a
+calendarsgenericavailableFormatsyyyyMMMEdགཟའ་E, G ལོy ཟླ་MMM ཚེ་d
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsMEdE, M-d
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatsyyyyQQQG y QQQ
+calendarsgenericavailableFormatsyG y
+calendarsgenericavailableFormatsGyMMMdG y MMM d
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsGyG y
+calendarsgenericavailableFormatsMMMEdE, སྤྱི་LLL ཚེ་d
+calendarsgenericavailableFormatsyyyyG y
+calendarsgenericavailableFormatsyyyyQQQQG y QQQQ
+calendarsgenericavailableFormatsyyyyMMMdG y MMM d
+listPatternsstandardmiddle{0} དང་ {1}
+listPatternsstandard2{0} དང་ {1}
+listPatternsstandardend{0} དང་ {1}
+listPatternsstandardstart{0} དང་ {1}

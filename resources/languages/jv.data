@@ -1,0 +1,1662 @@
+unitsnarrowcoordinateUniteast{0} wetan
+unitsnarrowcoordinateUnitwest{0} kulon
+unitsnarrowcoordinateUnitnorth{0} lor
+unitsnarrowcoordinateUnitdisplayNamearah
+unitsnarrowcoordinateUnitsouth{0} kidul
+unitsnarrowunitduration-monthdisplayNamesasi
+unitsnarrowunitduration-monthpatternother{0} sasi
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekm/jam
+unitsnarrowunitspeed-kilometer-per-hourpatternother{0} km/jam
+unitsnarrowunitlength-millimeterpatternother{0} mm
+unitsnarrowunitlength-millimeterdisplayNamemm
+unitsnarrowunitduration-yearpatternother{0} taun
+unitsnarrowunitduration-yeardisplayNametaun
+unitsnarrowunitduration-weekpatternother{0} pekan
+unitsnarrowunitduration-weekdisplayNamepekan
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunitlength-kilometerpatternother{0} km
+unitsnarrowunitlength-kilometerdisplayNamekm
+unitsnarrowunitmass-gramdisplayNamegram
+unitsnarrowunitmass-grampatternother{0} g
+unitsnarrowunitlength-centimeterpatternother{0} cm
+unitsnarrowunitlength-centimeterdisplayNamecm
+unitsnarrowunitvolume-literdisplayNameliter
+unitsnarrowunitvolume-literpatternother{0} L
+unitsnarrowunitduration-hourdisplayNamejam
+unitsnarrowunitduration-hourpatternother{0}j
+unitsnarrowunitconcentr-percentdisplayName%
+unitsnarrowunitconcentr-percentpatternother{0}%
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNameL/100 km
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0} L/100 km
+unitsnarrowunitduration-seconddisplayNamedtk
+unitsnarrowunitduration-secondpatternother{0} dtk
+unitsnarrowunitmass-kilogrampatternother{0} kg
+unitsnarrowunitmass-kilogramdisplayNamekg
+unitsnarrowunitlength-meterpatternother{0} m
+unitsnarrowunitlength-meterdisplayNamem
+unitsnarrowunitduration-daydisplayNamedino
+unitsnarrowunitduration-daypatternother{0} dino
+unitsnarrowunitduration-millisecondpatternother{0} md
+unitsnarrowunitduration-milliseconddisplayNamemd
+unitsnarrowunitduration-minutepatternother{0} mnt
+unitsnarrowunitduration-minutedisplayNamemnt
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitslongunitduration-yearpatternother{0} taun
+unitslongunitduration-yearperUnitPattern{0} saben taun
+unitslongunitduration-yeardisplayNametaun
+unitslongunitdigital-megabitpatternother{0} megabit
+unitslongunitdigital-megabitdisplayNamemegabit
+unitslongunitconcentr-milligram-per-deciliterdisplayNamemiligram saben desiliter
+unitslongunitconcentr-milligram-per-deciliterpatternother{0} miligram saben desiliter
+unitslongunitarea-square-meterdisplayNamemeter persegi
+unitslongunitarea-square-meterperUnitPattern{0} saben meter persegi
+unitslongunitarea-square-meterpatternother{0} meter persegi
+unitslongunitlength-footdisplayNamekaki
+unitslongunitlength-footperUnitPattern{0} saben kaki
+unitslongunitlength-footpatternother{0} kaki
+unitslongunitpower-gigawattdisplayNamegigawatt
+unitslongunitpower-gigawattpatternother{0} gigawatt
+unitslongunitmass-milligramdisplayNamemiligram
+unitslongunitmass-milligrampatternother{0} miligram
+unitslongunitlength-nautical-milepatternother{0} mil segoro
+unitslongunitlength-nautical-miledisplayNamemil segoro
+unitslongunitspeed-knotpatternother{0} knot
+unitslongunitspeed-knotdisplayNameknot
+unitslongunitelectric-milliamperepatternother{0} miliamper
+unitslongunitelectric-milliamperedisplayNamemiliamper
+unitslongunitvolume-cupdisplayNamekup
+unitslongunitvolume-cuppatternother{0} kup
+unitslongunitspeed-kilometer-per-hourdisplayNamekilometer saben jam
+unitslongunitspeed-kilometer-per-hourpatternother{0} kilometer saben jam
+unitslongunitduration-monthdisplayNamesasi
+unitslongunitduration-monthperUnitPattern{0} saben sasi
+unitslongunitduration-monthpatternother{0} sasi
+unitslongunitdigital-bitpatternother{0} bit
+unitslongunitdigital-bitdisplayNamebit
+unitslongunitlength-millimeterpatternother{0} milimeter
+unitslongunitlength-millimeterdisplayNamemilimeter
+unitslongunitlength-mile-scandinaviandisplayNamemil-skandinavia
+unitslongunitlength-mile-scandinavianpatternother{0} mil-skandinavia
+unitslongunitlength-milepatternother{0} mil
+unitslongunitlength-miledisplayNamemil
+unitslongunitpower-wattdisplayNamewatt
+unitslongunitpower-wattpatternother{0} watt
+unitslongunitlength-pointdisplayNamepoin
+unitslongunitlength-pointpatternother{0} poin
+unitslongunitduration-weekpatternother{0} pekan
+unitslongunitduration-weekdisplayNamepekan
+unitslongunitduration-weekperUnitPattern{0} saben pekan
+unitslongunitdigital-megabytedisplayNamemegabite
+unitslongunitdigital-megabytepatternother{0} megabite
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNamemil saben galon inggris
+unitslongunitconsumption-mile-per-gallon-imperialpatternother{0} mil saben galon inggris
+unitslongunitenergy-kilojouledisplayNamekilojol
+unitslongunitenergy-kilojoulepatternother{0} kilojol
+unitslongunitmass-ouncepatternother{0} ons
+unitslongunitmass-ounceperUnitPattern{0} saben ons
+unitslongunitmass-ouncedisplayNameons
+unitslongunitdigital-gigabytepatternother{0} gigabite
+unitslongunitdigital-gigabytedisplayNamegigabite
+unitslongunittemperature-celsiusdisplayNamederajat celsius
+unitslongunittemperature-celsiuspatternother{0} derajat celsius
+unitslongunitdigital-terabytedisplayNameterabite
+unitslongunitdigital-terabytepatternother{0} terabite
+unitslongunitmass-metric-tondisplayNamemetrik ton
+unitslongunitmass-metric-tonpatternother{0} metrik ton
+unitslongunitangle-revolutiondisplayNamerevolusi
+unitslongunitangle-revolutionpatternother{0} revolusi
+unitslongunitlength-kilometerdisplayNamekilometer
+unitslongunitlength-kilometerperUnitPattern{0} saben kilometer
+unitslongunitlength-kilometerpatternother{0} kilometer
+unitslongunitvolume-hectoliterdisplayNamehektoliter
+unitslongunitvolume-hectoliterpatternother{0} hektoliter
+unitslongunitlength-light-yeardisplayNametaun cahya
+unitslongunitlength-light-yearpatternother{0} taun cahya
+unitslongunitlength-decimeterdisplayNamedesimeter
+unitslongunitlength-decimeterpatternother{0} desimeter
+unitslongunitarea-square-mileperUnitPattern{0} saben mil persegi
+unitslongunitarea-square-miledisplayNamemil persegi
+unitslongunitarea-square-milepatternother{0} mil persegi
+unitslongunitconcentr-millimole-per-literdisplayNamemilimol saben liter
+unitslongunitconcentr-millimole-per-literpatternother{0} milimol saben liter
+unitslongunitenergy-caloriedisplayNamekalori
+unitslongunitenergy-caloriepatternother{0} kalori
+unitslongunitangle-radianpatternother{0} radian
+unitslongunitangle-radiandisplayNameradian
+unitslongunitpower-horsepowerdisplayNametenogo jaran
+unitslongunitpower-horsepowerpatternother{0} tenogo jaran
+unitslongunitvolume-gallonpatternother{0} galon
+unitslongunitvolume-gallondisplayNamegalon
+unitslongunitvolume-gallonperUnitPattern{0} saben galon
+unitslongunitconcentr-part-per-millionpatternother{0} bagean saben yuta
+unitslongunitconcentr-part-per-milliondisplayNamebagean saben yuta
+unitslongunitmass-poundpatternother{0} pon
+unitslongunitmass-pounddisplayNamepon
+unitslongunitmass-poundperUnitPattern{0} saben pon
+unitslongunitarea-square-yarddisplayNameyard persegi
+unitslongunitarea-square-yardpatternother{0} yard persegi
+unitslongunitvolume-tablespoondisplayNamesendok mangan
+unitslongunitvolume-tablespoonpatternother{0} sendok mangan
+unitslongunitfrequency-gigahertzdisplayNamegigahet
+unitslongunitfrequency-gigahertzpatternother{0} gigahet
+unitslongunitpressure-pound-per-square-inchdisplayNamepon saben inci kuadrat
+unitslongunitpressure-pound-per-square-inchpatternother{0} pon saben inci kuadrat
+unitslongunitdigital-gigabitpatternother{0} gigabit
+unitslongunitdigital-gigabitdisplayNamegigabit
+unitslongunitvolume-cubic-inchdisplayNameinci kubik
+unitslongunitvolume-cubic-inchpatternother{0} inci kubik
+unitslongunittemperature-genericdisplayName°
+unitslongunittemperature-genericpatternother{0}°
+unitslongunitconcentr-karatpatternother{0} karat
+unitslongunitconcentr-karatdisplayNamekarat
+unitslongunitlength-parsecdisplayNameparsek
+unitslongunitlength-parsecpatternother{0} parsek
+unitslongunitvolume-fluid-ouncedisplayNameons banyu
+unitslongunitvolume-fluid-ouncepatternother{0} ons banyu
+unitslongunitmass-gramperUnitPattern{0} saben gram
+unitslongunitmass-gramdisplayNamegram
+unitslongunitmass-grampatternother{0} gram
+unitslongunitlength-centimeterpatternother{0} sentimeter
+unitslongunitlength-centimeterdisplayNamesentimeter
+unitslongunitlength-centimeterperUnitPattern{0} saben sentimeter
+unitslongunitduration-hourpatternother{0} jam
+unitslongunitduration-hourperUnitPattern{0} saben jam
+unitslongunitduration-hourdisplayNamejam
+unitslongunitduration-nanosecondpatternother{0} nanodetik
+unitslongunitduration-nanoseconddisplayNamenanodetik
+unitslongunitangle-arc-minutepatternother{0} menit saka busur
+unitslongunitangle-arc-minutedisplayNamemenit saka busur
+unitslongunitfrequency-megahertzpatternother{0} megahet
+unitslongunitfrequency-megahertzdisplayNamemegahet
+unitslongunitvolume-literdisplayNameliter
+unitslongunitvolume-literperUnitPattern{0} saben liter
+unitslongunitvolume-literpatternother{0} liter
+unitslongunitpower-megawattdisplayNamemegawatt
+unitslongunitpower-megawattpatternother{0} megawatt
+unitslongunitvolume-cubic-meterdisplayNamemeter kubik
+unitslongunitvolume-cubic-meterperUnitPattern{0} saben meter kubik
+unitslongunitvolume-cubic-meterpatternother{0} meter kubik
+unitslongunitvolume-gallon-imperialpatternother{0} galon inggris
+unitslongunitvolume-gallon-imperialdisplayNamegalon inggris
+unitslongunitvolume-gallon-imperialperUnitPattern{0} saben galon inggris
+unitslongunitvolume-acre-footpatternother{0} are-kaki
+unitslongunitvolume-acre-footdisplayNameare-kaki
+unitslongunitangle-arc-seconddisplayNamedetik saka busur
+unitslongunitangle-arc-secondpatternother{0} detik saka busur
+unitslongunitpower-kilowattpatternother{0} kilowatt
+unitslongunitpower-kilowattdisplayNamekilowatt
+unitslongunittemperature-fahrenheitdisplayNamederajat Fahrenhet
+unitslongunittemperature-fahrenheitpatternother{0} derajat Fahrenhet
+unitslongunitspeed-mile-per-hourdisplayNamemil saben jam
+unitslongunitspeed-mile-per-hourpatternother{0} mil saben jam
+unitslongunitconcentr-percentdisplayNamepersen
+unitslongunitconcentr-percentpatternother{0} persen
+unitslongunitangle-degreedisplayNamederajat
+unitslongunitangle-degreepatternother{0} derajat
+unitslongunitarea-acredisplayNameare
+unitslongunitarea-acrepatternother{0} are
+unitslongunitacceleration-meter-per-second-squaredpatternother{0} meter saben detik kuadrat
+unitslongunitacceleration-meter-per-second-squareddisplayNamemeter saben detik kuadrat
+unitslongunitenergy-jouledisplayNamejol
+unitslongunitenergy-joulepatternother{0} jol
+unitslongunitpower-milliwattdisplayNamemiliwatt
+unitslongunitpower-milliwattpatternother{0} miliwatt
+unitslongunitvolume-cup-metricpatternother{0} metrik kup
+unitslongunitvolume-cup-metricdisplayNamemetrik kup
+unitslongunitconsumption-liter-per-kilometerpatternother{0} liter saben kilometer
+unitslongunitconsumption-liter-per-kilometerdisplayNameliter saben kilometer
+unitslongunitvolume-cubic-milepatternother{0} mil kubik
+unitslongunitvolume-cubic-miledisplayNamemil kubik
+unitslongunitarea-hectarepatternother{0} hektar
+unitslongunitarea-hectaredisplayNamehektar
+unitslongunitmass-caratdisplayNamekarat
+unitslongunitmass-caratpatternother{0} karat
+unitslongunitduration-centurydisplayNameabad
+unitslongunitduration-centurypatternother{0} abad
+unitslongunittemperature-kelvinpatternother{0} kelvin
+unitslongunittemperature-kelvindisplayNamekelvin
+unitslongunitdigital-petabytedisplayNamepetabite
+unitslongunitdigital-petabytepatternother{0} petabite
+unitslongunitelectric-voltpatternother{0} volt
+unitslongunitelectric-voltdisplayNamevolt
+unitslongunitlength-picometerdisplayNamepikometer
+unitslongunitlength-picometerpatternother{0} pikometer
+unitslongunitlight-luxpatternother{0} luk
+unitslongunitlight-luxdisplayNameluk
+unitslongunitconcentr-permillepatternother{0} permil
+unitslongunitconcentr-permilledisplayNamepermil
+unitslongunitelectric-ohmpatternother{0} ohm
+unitslongunitelectric-ohmdisplayNameohm
+unitslongunitvolume-megaliterdisplayNamemegaliter
+unitslongunitvolume-megaliterpatternother{0} megaliter
+unitslongunitconsumption-liter-per-100kilometersdisplayNameliter saben 100 kilometer
+unitslongunitconsumption-liter-per-100kilometerspatternother{0} liter saben 100 kilometer
+unitslongunitarea-square-kilometerpatternother{0} kilometer persegi
+unitslongunitarea-square-kilometerperUnitPattern{0} saben kilometer persegi
+unitslongunitarea-square-kilometerdisplayNamekilometer persegi
+unitslongunitacceleration-g-forcedisplayNametenaga-g
+unitslongunitacceleration-g-forcepatternother{0} tenaga-g
+unitslongunitvolume-milliliterdisplayNamemililiter
+unitslongunitvolume-milliliterpatternother{0} mililiter
+unitslongunitenergy-foodcaloriedisplayNameKalori
+unitslongunitenergy-foodcaloriepatternother{0} Kalori
+unitslongunitpressure-hectopascalpatternother{0} hektopaskal
+unitslongunitpressure-hectopascaldisplayNamehektopaskal
+unitslongunitvolume-deciliterdisplayNamedesiliter
+unitslongunitvolume-deciliterpatternother{0} desiliter
+unitslongunitdigital-kilobytepatternother{0} kilobite
+unitslongunitdigital-kilobytedisplayNamekilobite
+unitslongunitduration-secondpatternother{0} detik
+unitslongunitduration-seconddisplayNamedetik
+unitslongunitduration-secondperUnitPattern{0} saben detik
+unitslongunitarea-square-footdisplayNamekaki persegi
+unitslongunitarea-square-footpatternother{0} kaki persegi
+unitslongunitarea-square-centimeterdisplayNamesentimeter persegi
+unitslongunitarea-square-centimeterperUnitPattern{0} saben sentimeter persegi
+unitslongunitarea-square-centimeterpatternother{0} sentimeter persegi
+unitslongunitlength-astronomical-unitpatternother{0} unit astronomi
+unitslongunitlength-astronomical-unitdisplayNameunit astronomi
+unitslongunitspeed-meter-per-seconddisplayNamemeter saben detik
+unitslongunitspeed-meter-per-secondpatternother{0} meter saben detik
+unitslongunitdigital-kilobitdisplayNamekilobit
+unitslongunitdigital-kilobitpatternother{0} kilobit
+unitslongunitvolume-cubic-kilometerpatternother{0} kilometer kubik
+unitslongunitvolume-cubic-kilometerdisplayNamekilometer kubik
+unitslongunitelectric-amperedisplayNameamper
+unitslongunitelectric-amperepatternother{0} amper
+unitslongunitdigital-bytedisplayNamebite
+unitslongunitdigital-bytepatternother{0} bite
+unitslongunitfrequency-kilohertzdisplayNamekilohet
+unitslongunitfrequency-kilohertzpatternother{0} kilohet
+unitslongunitlength-micrometerpatternother{0} mikrometer
+unitslongunitlength-micrometerdisplayNamemikrometer
+unitslongunitmass-ounce-troydisplayNametroy ons
+unitslongunitmass-ounce-troypatternother{0} troy ons
+unitslongunitmass-microgrampatternother{0} mikrogram
+unitslongunitmass-microgramdisplayNamemikrogram
+unitslongunitpressure-millimeter-of-mercurypatternother{0} milimeter saka raksa
+unitslongunitpressure-millimeter-of-mercurydisplayNamemilimeter saka raksa
+unitslongunitvolume-pintdisplayNamepin
+unitslongunitvolume-pintpatternother{0} pin
+unitslongunitduration-microsecondpatternother{0} mikrodetik
+unitslongunitduration-microseconddisplayNamemikrodetik
+unitslongunitvolume-pint-metricpatternother{0} metrik pin
+unitslongunitvolume-pint-metricdisplayNamemetrik pin
+unitslongunitarea-square-inchperUnitPattern{0} saben inci persegi
+unitslongunitarea-square-inchdisplayNameinci persegi
+unitslongunitarea-square-inchpatternother{0} inci persegi
+unitslongunitenergy-kilowatt-hourdisplayNamekilowatt-jam
+unitslongunitenergy-kilowatt-hourpatternother{0} kilowatt-jam
+unitslongunitlength-inchpatternother{0} inci
+unitslongunitlength-inchperUnitPattern{0} saben inci
+unitslongunitlength-inchdisplayNameinci
+unitslongunitfrequency-hertzdisplayNamehet
+unitslongunitfrequency-hertzpatternother{0} het
+unitslongunitpressure-atmospheredisplayNameatmosfer
+unitslongunitpressure-atmospherepatternother{0} atmosfer
+unitslongunitvolume-quartpatternother{0} seprapat galon
+unitslongunitvolume-quartdisplayNameseprapat galon
+unitslongunitvolume-cubic-footdisplayNamekaki kubik
+unitslongunitvolume-cubic-footpatternother{0} kaki kubik
+unitslongunitconsumption-mile-per-gallonpatternother{0} mil saben galon
+unitslongunitconsumption-mile-per-gallondisplayNamemil saben galon
+unitslongunitvolume-cubic-centimeterpatternother{0} sentimeter kubik
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} saben sentimeter kubik
+unitslongunitvolume-cubic-centimeterdisplayNamesentimeter kubik
+unitslongunitenergy-kilocaloriepatternother{0} kilokalori
+unitslongunitenergy-kilocaloriedisplayNamekilokalori
+unitslongunitlength-nanometerpatternother{0} nanometer
+unitslongunitlength-nanometerdisplayNamenanometer
+unitslongunitmass-tonpatternother{0} ton
+unitslongunitmass-tondisplayNameton
+unitslongunitvolume-centiliterdisplayNamesentiliter
+unitslongunitvolume-centiliterpatternother{0} sentiliter
+unitslongunitdigital-terabitdisplayNameterabit
+unitslongunitdigital-terabitpatternother{0} terabit
+unitslongunitvolume-cubic-yardpatternother{0} yard kubik
+unitslongunitvolume-cubic-yarddisplayNameyard kubik
+unitslongunitduration-milliseconddisplayNamemilidetik
+unitslongunitduration-millisecondpatternother{0} milidetik
+unitslongunitvolume-teaspoonpatternother{0} sendok teh
+unitslongunitvolume-teaspoondisplayNamesendok teh
+unitslongunitduration-daypatternother{0} dino
+unitslongunitduration-dayperUnitPattern{0} saben dino
+unitslongunitduration-daydisplayNamedino
+unitslongunitlength-yardpatternother{0} yard
+unitslongunitlength-yarddisplayNameyard
+unitslongunitpressure-inch-hgpatternother{0} inci saka raksa
+unitslongunitpressure-inch-hgdisplayNameinci saka raksa
+unitslongunitmass-kilogramdisplayNamekilogram
+unitslongunitmass-kilogramperUnitPattern{0} saben kilogram
+unitslongunitmass-kilogrampatternother{0} kilogram
+unitslongunitduration-minuteperUnitPattern{0} saben menit
+unitslongunitduration-minutedisplayNamemenit
+unitslongunitduration-minutepatternother{0} menit
+unitslongunitlength-meterpatternother{0} meter
+unitslongunitlength-meterdisplayNamemeter
+unitslongunitlength-meterperUnitPattern{0} saben meter
+unitslongunitpressure-millibardisplayNamemilibar
+unitslongunitpressure-millibarpatternother{0} milibar
+unitslongcoordinateUnitwest{0} kulon
+unitslongcoordinateUniteast{0} wetan
+unitslongcoordinateUnitnorth{0} lor
+unitslongcoordinateUnitsouth{0} kidul
+unitslongcoordinateUnitdisplayNamearah kardinal
+unitslongcompoundUnitperpattern{0} saben {1}
+unitsshortunitduration-centurydisplayNameabad
+unitsshortunitduration-centurypatternother{0} abad
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunitelectric-voltpatternother{0} V
+unitsshortunitelectric-voltdisplayNamevolt
+unitsshortunitdigital-petabytedisplayNamePBite
+unitsshortunitdigital-petabytepatternother{0} PB
+unitsshortunitlength-picometerpatternother{0} pm
+unitsshortunitlength-picometerdisplayNamepm
+unitsshortunitlight-luxpatternother{0} luk
+unitsshortunitlight-luxdisplayNameluk
+unitsshortunitconcentr-permilledisplayNamepermil
+unitsshortunitconcentr-permillepatternother{0}‰
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunittemperature-fahrenheitdisplayName°F
+unitsshortunitconcentr-percentpatternother{0}%
+unitsshortunitconcentr-percentdisplayNamepersen
+unitsshortunitspeed-mile-per-hourpatternother{0} mil/jam
+unitsshortunitspeed-mile-per-hourdisplayNamemil/jam
+unitsshortunitarea-acredisplayNameare
+unitsshortunitarea-acrepatternother{0} are
+unitsshortunitangle-degreedisplayNamederajat
+unitsshortunitangle-degreepatternother{0}°
+unitsshortunitacceleration-meter-per-second-squaredpatternother{0} meter/detik²
+unitsshortunitacceleration-meter-per-second-squareddisplayNamemeter/detik²
+unitsshortunitenergy-jouledisplayNamejol
+unitsshortunitenergy-joulepatternother{0} J
+unitsshortunitpower-milliwattdisplayNamemW
+unitsshortunitpower-milliwattpatternother{0} mW
+unitsshortunitvolume-cubic-milepatternother{0} mil³
+unitsshortunitvolume-cubic-miledisplayNamemil³
+unitsshortunitvolume-cup-metricdisplayNamemetrik kup
+unitsshortunitvolume-cup-metricpatternother{0} metrik kup
+unitsshortunitconsumption-liter-per-kilometerpatternother{0} L/km
+unitsshortunitconsumption-liter-per-kilometerdisplayNameliter/km
+unitsshortunitarea-hectaredisplayNamehektar
+unitsshortunitarea-hectarepatternother{0} ha
+unitsshortunitmass-caratdisplayNamekarat
+unitsshortunitmass-caratpatternother{0} karat
+unitsshortunitvolume-milliliterdisplayNamemL
+unitsshortunitvolume-milliliterpatternother{0} mL
+unitsshortunitenergy-foodcaloriedisplayNameKal
+unitsshortunitenergy-foodcaloriepatternother{0} Kal
+unitsshortunitpressure-hectopascalpatternother{0} hPa
+unitsshortunitpressure-hectopascaldisplayNamehPa
+unitsshortunitvolume-deciliterpatternother{0} dL
+unitsshortunitvolume-deciliterdisplayNamedL
+unitsshortunitduration-secondpatternother{0} dtk
+unitsshortunitduration-secondperUnitPattern{0}/dtk
+unitsshortunitduration-seconddisplayNamedtk
+unitsshortunitdigital-kilobytepatternother{0} kB
+unitsshortunitdigital-kilobytedisplayNamekBite
+unitsshortunitarea-square-footpatternother{0} kaki persegi
+unitsshortunitarea-square-footdisplayNamekaki persegi
+unitsshortunitarea-square-centimeterperUnitPattern{0}/cm²
+unitsshortunitarea-square-centimeterdisplayNamecm²
+unitsshortunitarea-square-centimeterpatternother{0} cm²
+unitsshortunitlength-astronomical-unitpatternother{0} ua
+unitsshortunitlength-astronomical-unitdisplayNameua
+unitsshortunitelectric-ohmdisplayNameohm
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitvolume-megaliterpatternother{0} ML
+unitsshortunitvolume-megaliterdisplayNameML
+unitsshortunitconsumption-liter-per-100kilometerspatternother{0} L/100 km
+unitsshortunitconsumption-liter-per-100kilometersdisplayNameL/100 km
+unitsshortunitarea-square-kilometerpatternother{0} km²
+unitsshortunitarea-square-kilometerdisplayNamekm²
+unitsshortunitarea-square-kilometerperUnitPattern{0}/km²
+unitsshortunitacceleration-g-forcepatternother{0} G
+unitsshortunitacceleration-g-forcedisplayNametenaga-g
+unitsshortunitduration-microseconddisplayNameμdtk
+unitsshortunitduration-microsecondpatternother{0} μd
+unitsshortunitvolume-pintdisplayNamepin
+unitsshortunitvolume-pintpatternother{0} pin
+unitsshortunitvolume-pint-metricdisplayNamemetrik pin
+unitsshortunitvolume-pint-metricpatternother{0} metrik pin
+unitsshortunitarea-square-inchperUnitPattern{0}/inci²
+unitsshortunitarea-square-inchdisplayNameinci²
+unitsshortunitarea-square-inchpatternother{0} inci²
+unitsshortunitfrequency-hertzpatternother{0} Hz
+unitsshortunitfrequency-hertzdisplayNameHz
+unitsshortunitlength-inchperUnitPattern{0}/in
+unitsshortunitlength-inchdisplayNameinci
+unitsshortunitlength-inchpatternother{0} in
+unitsshortunitenergy-kilowatt-hourdisplayNamekW-jam
+unitsshortunitenergy-kilowatt-hourpatternother{0} kW-jam
+unitsshortunitpressure-atmospheredisplayNameatm
+unitsshortunitpressure-atmospherepatternother{0} atm
+unitsshortunitvolume-quartpatternother{0} seprapat galon
+unitsshortunitvolume-quartdisplayNameseprapat galon
+unitsshortunitvolume-cubic-centimeterdisplayNamecm³
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/cm³
+unitsshortunitvolume-cubic-centimeterpatternother{0} cm³
+unitsshortunitvolume-cubic-footdisplayNamekaki³
+unitsshortunitvolume-cubic-footpatternother{0} kaki³
+unitsshortunitenergy-kilocaloriepatternother{0} kkal
+unitsshortunitenergy-kilocaloriedisplayNamekkal
+unitsshortunitconsumption-mile-per-gallondisplayNamemil/galon
+unitsshortunitconsumption-mile-per-gallonpatternother{0} mpg
+unitsshortunitlength-nanometerpatternother{0} nm
+unitsshortunitlength-nanometerdisplayNamenm
+unitsshortunitmass-tondisplayNameton
+unitsshortunitmass-tonpatternother{0} ton
+unitsshortunitspeed-meter-per-seconddisplayNamemeter/dtk
+unitsshortunitspeed-meter-per-secondpatternother{0} m/dtk
+unitsshortunitdigital-kilobitpatternother{0} kb
+unitsshortunitdigital-kilobitdisplayNamekbit
+unitsshortunitelectric-amperedisplayNameamper
+unitsshortunitelectric-amperepatternother{0} A
+unitsshortunitvolume-cubic-kilometerpatternother{0} km³
+unitsshortunitvolume-cubic-kilometerdisplayNamekm³
+unitsshortunitdigital-bytedisplayNamebite
+unitsshortunitdigital-bytepatternother{0} bite
+unitsshortunitfrequency-kilohertzdisplayNamekHz
+unitsshortunitfrequency-kilohertzpatternother{0} kHz
+unitsshortunitlength-micrometerpatternother{0} µm
+unitsshortunitlength-micrometerdisplayNameµmeter
+unitsshortunitmass-ounce-troydisplayNametroy ons
+unitsshortunitmass-ounce-troypatternother{0} troy ons
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitsshortunitmass-microgrampatternother{0} mikrogram
+unitsshortunitmass-microgramdisplayNamemikrogram
+unitsshortunitvolume-teaspoonpatternother{0} sdk teh
+unitsshortunitvolume-teaspoondisplayNamesdk teh
+unitsshortunitduration-daypatternother{0} dino
+unitsshortunitduration-dayperUnitPattern{0}/dino
+unitsshortunitduration-daydisplayNamedino
+unitsshortunitlength-yarddisplayNameyard
+unitsshortunitlength-yardpatternother{0} yard
+unitsshortunitmass-kilogramperUnitPattern{0}/kg
+unitsshortunitmass-kilogramdisplayNamekg
+unitsshortunitmass-kilogrampatternother{0} kg
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitpressure-inch-hgdisplayNameinHg
+unitsshortunitduration-minutepatternother{0} mnt
+unitsshortunitduration-minutedisplayNamemnt
+unitsshortunitduration-minuteperUnitPattern{0}/mnt
+unitsshortunitlength-meterpatternother{0} m
+unitsshortunitlength-meterperUnitPattern{0}/m
+unitsshortunitlength-meterdisplayNamem
+unitsshortunitpressure-millibarpatternother{0} mbar
+unitsshortunitpressure-millibardisplayNamembar
+unitsshortunitvolume-centiliterdisplayNamesentiliter
+unitsshortunitvolume-centiliterpatternother{0} sentiliter
+unitsshortunitvolume-cubic-yarddisplayNameyard³
+unitsshortunitvolume-cubic-yardpatternother{0} yard³
+unitsshortunitdigital-terabitdisplayNameTbit
+unitsshortunitdigital-terabitpatternother{0} Tb
+unitsshortunitduration-millisecondpatternother{0} md
+unitsshortunitduration-milliseconddisplayNamemilidtk
+unitsshortunitspeed-kilometer-per-hourpatternother{0} km/jam
+unitsshortunitspeed-kilometer-per-hourdisplayNamekm/jam
+unitsshortunitvolume-cupdisplayNamekup
+unitsshortunitvolume-cuppatternother{0} kup
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitelectric-milliamperedisplayNamemiliamper
+unitsshortunitduration-monthdisplayNamesasi
+unitsshortunitduration-monthperUnitPattern{0}/sasi
+unitsshortunitduration-monthpatternother{0} sasi
+unitsshortunitlength-millimeterdisplayNamemm
+unitsshortunitlength-millimeterpatternother{0} mm
+unitsshortunitdigital-bitpatternother{0} bit
+unitsshortunitdigital-bitdisplayNamebit
+unitsshortunitlength-miledisplayNamemil
+unitsshortunitlength-milepatternother{0} mil
+unitsshortunitlength-pointpatternother{0} p
+unitsshortunitlength-pointdisplayNamepoin
+unitsshortunitlength-mile-scandinaviandisplayNamemil-skandinavia
+unitsshortunitlength-mile-scandinavianpatternother{0} mil-skandinavia
+unitsshortunitpower-wattpatternother{0} W
+unitsshortunitpower-wattdisplayNamewatt
+unitsshortunitduration-yeardisplayNametaun
+unitsshortunitduration-yearperUnitPattern{0}/taun
+unitsshortunitduration-yearpatternother{0} taun
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemg/dL
+unitsshortunitdigital-megabitdisplayNameMbit
+unitsshortunitdigital-megabitpatternother{0} Mb
+unitsshortunitarea-square-meterpatternother{0} m²
+unitsshortunitarea-square-meterdisplayNamem²
+unitsshortunitarea-square-meterperUnitPattern{0}/m²
+unitsshortunitlength-footdisplayNamekaki
+unitsshortunitlength-footperUnitPattern{0}/kaki
+unitsshortunitlength-footpatternother{0} kaki
+unitsshortunitpower-gigawattpatternother{0} GW
+unitsshortunitpower-gigawattdisplayNameGW
+unitsshortunitmass-milligramdisplayNamemg
+unitsshortunitmass-milligrampatternother{0} mg
+unitsshortunitlength-nautical-miledisplayNamemil segoro
+unitsshortunitlength-nautical-milepatternother{0} mil segoro
+unitsshortunitspeed-knotpatternother{0} knot
+unitsshortunitspeed-knotdisplayNameknot
+unitsshortunitlength-decimeterdisplayNamedm
+unitsshortunitlength-decimeterpatternother{0} dm
+unitsshortunitvolume-hectoliterpatternother{0} hL
+unitsshortunitvolume-hectoliterdisplayNamehL
+unitsshortunitlength-light-yeardisplayNametaun cahya
+unitsshortunitlength-light-yearpatternother{0} tc
+unitsshortunitlength-kilometerperUnitPattern{0}/km
+unitsshortunitlength-kilometerdisplayNamekm
+unitsshortunitlength-kilometerpatternother{0} km
+unitsshortunitarea-square-milepatternother{0} mil²
+unitsshortunitarea-square-miledisplayNamemil²
+unitsshortunitarea-square-mileperUnitPattern{0}/mil²
+unitsshortunitconcentr-millimole-per-literdisplayNamemmol/L
+unitsshortunitconcentr-millimole-per-literpatternother{0} mmol/L
+unitsshortunitenergy-caloriedisplayNamekal
+unitsshortunitenergy-caloriepatternother{0} kal
+unitsshortunitangle-radiandisplayNamerad
+unitsshortunitangle-radianpatternother{0} rad
+unitsshortunitpower-horsepowerpatternother{0} tenogo jaran
+unitsshortunitpower-horsepowerdisplayNametenogo jaran
+unitsshortunitduration-weekperUnitPattern{0}/pekan
+unitsshortunitduration-weekdisplayNamepekan
+unitsshortunitduration-weekpatternother{0} pekan
+unitsshortunitdigital-megabytepatternother{0} MB
+unitsshortunitdigital-megabytedisplayNameMBite
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNamemil/galon inggris
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} mpg inggris
+unitsshortunitenergy-kilojoulepatternother{0} kJ
+unitsshortunitenergy-kilojouledisplayNamekilojol
+unitsshortunitmass-ounceperUnitPattern{0}/ons
+unitsshortunitmass-ouncedisplayNameons
+unitsshortunitmass-ouncepatternother{0} ons
+unitsshortunitdigital-gigabytepatternother{0} GB
+unitsshortunitdigital-gigabytedisplayNameGBite
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunittemperature-celsiusdisplayName°C
+unitsshortunitdigital-terabytepatternother{0} TB
+unitsshortunitdigital-terabytedisplayNameTBite
+unitsshortunitangle-revolutionpatternother{0} rev
+unitsshortunitangle-revolutiondisplayNamerev
+unitsshortunitmass-metric-tonpatternother{0} metrik ton
+unitsshortunitmass-metric-tondisplayNamemetrik ton
+unitsshortunittemperature-genericdisplayName°
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunitvolume-cubic-inchdisplayNameinci³
+unitsshortunitvolume-cubic-inchpatternother{0} inci³
+unitsshortunitdigital-gigabitdisplayNameGbit
+unitsshortunitdigital-gigabitpatternother{0} Gb
+unitsshortunitconcentr-karatpatternother{0} kt
+unitsshortunitconcentr-karatdisplayNamekarat
+unitsshortunitlength-centimeterperUnitPattern{0}/cm
+unitsshortunitlength-centimeterdisplayNamecm
+unitsshortunitlength-centimeterpatternother{0} cm
+unitsshortunitvolume-fluid-ouncepatternother{0} ons banyu
+unitsshortunitvolume-fluid-ouncedisplayNameons banyu
+unitsshortunitmass-grampatternother{0} g
+unitsshortunitmass-gramdisplayNamegram
+unitsshortunitmass-gramperUnitPattern{0}/g
+unitsshortunitlength-parsecpatternother{0} ps
+unitsshortunitlength-parsecdisplayNameparsek
+unitsshortunitconcentr-part-per-millionpatternother{0} bagean saben yuta
+unitsshortunitconcentr-part-per-milliondisplayNamebagean/yuta
+unitsshortunitvolume-gallonpatternother{0} galon
+unitsshortunitvolume-gallonperUnitPattern{0}/galon
+unitsshortunitvolume-gallondisplayNamegalon
+unitsshortunitmass-poundperUnitPattern{0}/pon
+unitsshortunitmass-pounddisplayNamepon
+unitsshortunitmass-poundpatternother{0} pon
+unitsshortunitarea-square-yardpatternother{0} yard²
+unitsshortunitarea-square-yarddisplayNameyard²
+unitsshortunitvolume-tablespoonpatternother{0} sdk mgn
+unitsshortunitvolume-tablespoondisplayNamesdk mgn
+unitsshortunitfrequency-gigahertzpatternother{0} GHz
+unitsshortunitfrequency-gigahertzdisplayNameGHz
+unitsshortunitpressure-pound-per-square-inchdisplayNamepsi
+unitsshortunitpressure-pound-per-square-inchpatternother{0} psi
+unitsshortunitvolume-literpatternother{0} L
+unitsshortunitvolume-literdisplayNameliter
+unitsshortunitvolume-literperUnitPattern{0}/L
+unitsshortunitvolume-cubic-meterpatternother{0} m³
+unitsshortunitvolume-cubic-meterdisplayNamem³
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/m³
+unitsshortunitpower-megawattpatternother{0} MW
+unitsshortunitpower-megawattdisplayNameMW
+unitsshortunitvolume-acre-footdisplayNameare-kaki
+unitsshortunitvolume-acre-footpatternother{0} are-kaki
+unitsshortunitvolume-gallon-imperialpatternother{0} galon inggris
+unitsshortunitvolume-gallon-imperialperUnitPattern{0}/galon inggris
+unitsshortunitvolume-gallon-imperialdisplayNamegalon inggris
+unitsshortunitangle-arc-secondpatternother{0} detik saka busur
+unitsshortunitangle-arc-seconddisplayNamedetik saka busur
+unitsshortunitpower-kilowattpatternother{0} kW
+unitsshortunitpower-kilowattdisplayNamekW
+unitsshortunitduration-hourpatternother{0} jam
+unitsshortunitduration-hourdisplayNamejam
+unitsshortunitduration-hourperUnitPattern{0}/jam
+unitsshortunitduration-nanoseconddisplayNamenanodtk
+unitsshortunitduration-nanosecondpatternother{0} nd
+unitsshortunitangle-arc-minutedisplayNamemenit saka busur
+unitsshortunitangle-arc-minutepatternother{0} menit saka busur
+unitsshortunitfrequency-megahertzpatternother{0} MHz
+unitsshortunitfrequency-megahertzdisplayNameMHz
+unitsshortcoordinateUnitdisplayNamearah
+unitsshortcoordinateUnitsouth{0} kidul
+unitsshortcoordinateUnitnorth{0} lor
+unitsshortcoordinateUnitwest{0} kulon
+unitsshortcoordinateUniteast{0} wetan
+unitsshortcompoundUnitperpattern{0}/{1}
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+delimitersquotationStart“
+delimitersalternateQuotationEnd’
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdefaultNumberingSystemstandardlatn
+numbersmiscPatternslatnrange{0} – {1}
+numbersmiscPatternslatnatLeast≥{0}
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesXCDstandardEC$
+numberscurrenciesXCDnarrow$
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesCNYnarrow¥
+numberscurrenciesSHPnarrow£
+numberscurrenciesSHPstandardSHP
+numberscurrenciesMGAstandardMGA
+numberscurrenciesMGAnarrowAr
+numberscurrenciesNIOnarrowC$
+numberscurrenciesNIOstandardNIO
+numberscurrenciesPABstandardPAB
+numberscurrenciesTNDstandardTND
+numberscurrenciesETBstandardETB
+numberscurrenciesSBDnarrow$
+numberscurrenciesSBDstandardSBD
+numberscurrenciesCNHstandardCNH
+numberscurrenciesKESstandardKES
+numberscurrenciesKGSstandardKGS
+numberscurrenciesKYDstandardKYD
+numberscurrenciesKYDnarrow$
+numberscurrenciesNPRnarrowRs
+numberscurrenciesNPRstandardNPR
+numberscurrenciesERNstandardERN
+numberscurrenciesGTQnarrowQ
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesINRnarrow₹
+numberscurrenciesINRstandard₹
+numberscurrenciesAEDstandardAED
+numberscurrenciesRWFnarrowRF
+numberscurrenciesRWFstandardRWF
+numberscurrenciesFJDstandardFJD
+numberscurrenciesFJDnarrow$
+numberscurrenciesBWPstandardBWP
+numberscurrenciesBWPnarrowP
+numberscurrenciesIDRnarrowRp
+numberscurrenciesIDRstandardRp
+numberscurrenciesMZNstandardMZN
+numberscurrenciesCUCnarrow$
+numberscurrenciesCUCstandardCUC
+numberscurrenciesSCRstandardSCR
+numberscurrenciesPLNnarrowzł
+numberscurrenciesPLNstandardPLN
+numberscurrenciesAZNstandardAZN
+numberscurrenciesKHRstandardKHR
+numberscurrenciesKHRnarrow៛
+numberscurrenciesMURnarrowRs
+numberscurrenciesMURstandardMUR
+numberscurrenciesCOPnarrow$
+numberscurrenciesCOPstandardCOP
+numberscurrenciesSGDnarrow$
+numberscurrenciesSGDstandardSGD
+numberscurrenciesPYGnarrow₲
+numberscurrenciesPYGstandardPYG
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesLAKstandardLAK
+numberscurrenciesLAKnarrow₭
+numberscurrenciesDOPnarrow$
+numberscurrenciesDOPstandardDOP
+numberscurrenciesSRDstandardSRD
+numberscurrenciesSRDnarrow$
+numberscurrenciesDJFstandardDJF
+numberscurrenciesHNLnarrowL
+numberscurrenciesHNLstandardHNL
+numberscurrenciesKZTnarrow₸
+numberscurrenciesKZTstandardKZT
+numberscurrenciesPHPstandardPHP
+numberscurrenciesPHPnarrow₱
+numberscurrenciesCVEstandardCVE
+numberscurrenciesCRCstandardCRC
+numberscurrenciesCRCnarrow₡
+numberscurrenciesALLstandardALL
+numberscurrenciesUAHnarrow₴
+numberscurrenciesUAHstandardUAH
+numberscurrenciesBGNstandardBGN
+numberscurrenciesVUVstandardVUV
+numberscurrenciesTOPnarrowT$
+numberscurrenciesTOPstandardTOP
+numberscurrenciesMKDstandardMKD
+numberscurrenciesRONnarrowlei
+numberscurrenciesRONstandardRON
+numberscurrenciesVESstandardVES
+numberscurrenciesTTDstandardTTD
+numberscurrenciesTTDnarrow$
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBNDnarrow$
+numberscurrenciesBNDstandardBND
+numberscurrenciesBBDstandardBBD
+numberscurrenciesBBDnarrow$
+numberscurrenciesMWKstandardMWK
+numberscurrenciesUYUnarrow$
+numberscurrenciesUYUstandardUYU
+numberscurrenciesAWGstandardAWG
+numberscurrenciesTJSstandardTJS
+numberscurrenciesBOBstandardBOB
+numberscurrenciesBOBnarrowBs
+numberscurrenciesGMDstandardGMD
+numberscurrenciesRUBnarrow₽
+numberscurrenciesRUBstandardRUB
+numberscurrenciesISKstandardISK
+numberscurrenciesISKnarrowkr
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesJPYnarrow¥
+numberscurrenciesJODstandardJOD
+numberscurrenciesYERstandardYER
+numberscurrenciesWSTstandardWST
+numberscurrenciesSDGstandardSDG
+numberscurrenciesPENstandardPEN
+numberscurrenciesGELnarrow₾
+numberscurrenciesGELstandardGEL
+numberscurrenciesMADstandardMAD
+numberscurrenciesSSPstandardSSP
+numberscurrenciesSSPnarrow£
+numberscurrenciesHKDnarrow$
+numberscurrenciesHKDstandardHK$
+numberscurrenciesHTGstandardHTG
+numberscurrenciesIRRstandardIRR
+numberscurrenciesNGNstandardNGN
+numberscurrenciesNGNnarrow₦
+numberscurrenciesCLPnarrow$
+numberscurrenciesCLPstandardCLP
+numberscurrenciesMVRstandardMVR
+numberscurrenciesUSDnarrow$
+numberscurrenciesUSDstandardUS$
+numberscurrenciesZARstandardZAR
+numberscurrenciesZARnarrowR
+numberscurrenciesDZDstandardDZD
+numberscurrenciesBIFstandardBIF
+numberscurrenciesPGKstandardPGK
+numberscurrenciesMRUstandardMRU
+numberscurrenciesGNFnarrowFG
+numberscurrenciesGNFstandardGNF
+numberscurrenciesTHBnarrow฿
+numberscurrenciesTHBstandardTHB
+numberscurrenciesXOFstandardCFA
+numberscurrenciesSEKnarrowkr
+numberscurrenciesSEKstandardSEK
+numberscurrenciesGBPnarrow£
+numberscurrenciesGBPstandard£
+numberscurrenciesJMDstandardJMD
+numberscurrenciesJMDnarrow$
+numberscurrenciesCUPnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesKMFnarrowCF
+numberscurrenciesKMFstandardKMF
+numberscurrenciesCZKnarrowKč
+numberscurrenciesCZKstandardCZK
+numberscurrenciesUGXstandardUGX
+numberscurrenciesCHFstandardCHF
+numberscurrenciesKRWnarrow₩
+numberscurrenciesKRWstandard₩
+numberscurrenciesMNTstandardMNT
+numberscurrenciesMNTnarrow₮
+numberscurrenciesCADnarrow$
+numberscurrenciesCADstandardCA$
+numberscurrenciesBHDstandardBHD
+numberscurrenciesBDTnarrow৳
+numberscurrenciesBDTstandardBDT
+numberscurrenciesAUDnarrow$
+numberscurrenciesAUDstandardA$
+numberscurrenciesKPWstandardKPW
+numberscurrenciesKPWnarrow₩
+numberscurrenciesANGstandardANG
+numberscurrenciesSZLstandardSZL
+numberscurrenciesSARstandardSAR
+numberscurrenciesKWDstandardKWD
+numberscurrenciesAFNstandardAFN
+numberscurrenciesMOPstandardMOP
+numberscurrenciesOMRstandardOMR
+numberscurrenciesRSDstandardRSD
+numberscurrenciesBRLstandardR$
+numberscurrenciesBRLnarrowR$
+numberscurrenciesILSnarrow₪
+numberscurrenciesILSstandard₪
+numberscurrenciesLBPstandardLBP
+numberscurrenciesLBPnarrowL£
+numberscurrenciesHRKnarrowkn
+numberscurrenciesHRKstandardHRK
+numberscurrenciesSTNnarrowDb
+numberscurrenciesSTNstandardSTN
+numberscurrenciesIQDstandardIQD
+numberscurrenciesLKRnarrowRs
+numberscurrenciesLKRstandardLKR
+numberscurrenciesMXNstandardMX$
+numberscurrenciesMXNnarrow$
+numberscurrenciesTMTstandardTMT
+numberscurrenciesUZSstandardUZS
+numberscurrenciesFKPnarrow£
+numberscurrenciesFKPstandardFKP
+numberscurrenciesEGPnarrowE£
+numberscurrenciesEGPstandardEGP
+numberscurrenciesEURstandard€
+numberscurrenciesEURnarrow€
+numberscurrenciesBSDstandardBSD
+numberscurrenciesBSDnarrow$
+numberscurrenciesCDFstandardCDF
+numberscurrenciesARSnarrow$
+numberscurrenciesARSstandardARS
+numberscurrenciesAOAnarrowKz
+numberscurrenciesAOAstandardAOA
+numberscurrenciesMROstandardMRO
+numberscurrenciesNOKstandardNOK
+numberscurrenciesNOKnarrowkr
+numberscurrenciesTRYnarrow₺
+numberscurrenciesTRYvariantTL
+numberscurrenciesTRYstandardTRY
+numberscurrenciesDKKnarrowkr
+numberscurrenciesDKKstandardDKK
+numberscurrenciesQARstandardQAR
+numberscurrenciesMMKnarrowK
+numberscurrenciesMMKstandardMMK
+numberscurrenciesNADnarrow$
+numberscurrenciesNADstandardNAD
+numberscurrenciesVEFstandardVEF
+numberscurrenciesVEFnarrowBs
+numberscurrenciesBZDnarrow$
+numberscurrenciesBZDstandardBZD
+numberscurrenciesTZSstandardTZS
+numberscurrenciesBYNnarrowр.
+numberscurrenciesBYNstandardBYN
+numberscurrenciesBAMstandardBAM
+numberscurrenciesBAMnarrowKM
+numberscurrenciesGHSstandardGHS
+numberscurrenciesGIPnarrow£
+numberscurrenciesGIPstandardGIP
+numberscurrenciesLRDnarrow$
+numberscurrenciesLRDstandardLRD
+numberscurrenciesBMDnarrow$
+numberscurrenciesBMDstandardBMD
+numberscurrenciesTWDstandardNT$
+numberscurrenciesTWDnarrow$
+numberscurrenciesZMWnarrowZK
+numberscurrenciesZMWstandardZMW
+numberscurrenciesHUFnarrowFt
+numberscurrenciesHUFstandardHUF
+numberscurrenciesSYPstandardSYP
+numberscurrenciesSYPnarrow£
+numberscurrenciesSLLstandardSLL
+numberscurrenciesLYDstandardLYD
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesNZDnarrow$
+numberscurrenciesSOSstandardSOS
+numberscurrenciesVNDstandard₫
+numberscurrenciesVNDnarrow₫
+numberscurrenciesGYDnarrow$
+numberscurrenciesGYDstandardGYD
+numberscurrenciesPKRnarrowRs
+numberscurrenciesPKRstandardPKR
+numberscurrenciesAMDstandardAMD
+numberscurrenciesMYRnarrowRM
+numberscurrenciesMYRstandardMYR
+numberscurrenciesMDLstandardMDL
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numbersscientificFormatslatnstandardstandard#E0
+numberspercentFormatslatnstandardstandard#,##0%
+numberssymbolslatnperMille‰
+numberssymbolslatnpercentSign%
+numberssymbolslatngroup.
+numberssymbolslatnnanNaN
+numberssymbolslatninfinity∞
+numberssymbolslatnexponentialE
+numberssymbolslatnminusSign-
+numberssymbolslatndecimal,
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnplusSign+
+numbersminimumGroupingDigits1
+numbersotherNumberingSystemsnativejava
+layoutlineOrdertop-to-bottom
+layoutcharacterOrderleft-to-right
+listPatternsunit-short2{0}, {1}
+listPatternsunit-shortend{0}, {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsunit-shortstart{0}, {1}
+listPatternsstandardstart{0}, {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandard2{0} lan {1}
+listPatternsstandardend{0}, lan {1}
+listPatternsunit-narrowend{0} {1}
+listPatternsunit-narrow2{0} {1}
+listPatternsunit-narrowmiddle{0} {1}
+listPatternsunit-narrowstart{0} {1}
+listPatternsstandard-shortstart{0}, {1}
+listPatternsstandard-short2{0} lan {1}
+listPatternsstandard-shortend{0}, lan {1}
+listPatternsstandard-shortmiddle{0}, {1}
+listPatternsorend{0}, utowo {1}
+listPatternsor2{0} utowo {1}
+listPatternsormiddle{0}, {1}
+listPatternsorstart{0}, {1}
+listPatternsunitend{0}, {1}
+listPatternsunit2{0}, {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsunitstart{0}, {1}
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMMM - y GGGGG
+calendarsgenericavailableFormatsyyyyMEdE, dd - MM - y GGGGG
+calendarsgenericavailableFormatsyyyyMMMMMMMM y G
+calendarsgenericavailableFormatsHHH
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsMddd/MM
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsyyyyMddd - MM - y GGGGG
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsGyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsEdE, d
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsyyyyMMMdd MMM y G
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericavailableFormatsMMMEdE, d MMM
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsGyMMMdd MMM y G
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsMEdE, dd/MM
+calendarsgenericavailableFormatsyyyyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatshh a
+calendarsgenericintervalFormatsyMMMdyd MMM y – d MMM y G
+calendarsgenericintervalFormatsyMMMddd – d MMM y G
+calendarsgenericintervalFormatsyMMMdMd MMM – d MMM y G
+calendarsgenericintervalFormatsddd – d
+calendarsgenericintervalFormatsyMMMEdyE, d MMM y – E, d MMM y G
+calendarsgenericintervalFormatsyMMMEddE, d MMM – E, d MMM y G
+calendarsgenericintervalFormatsyMMMEdME, d MMM – E, d MMM y G
+calendarsgenericintervalFormatsMMMM – MM
+calendarsgenericintervalFormatsMMMdMd MMM – d MMM
+calendarsgenericintervalFormatsMMMddd – d MMM
+calendarsgenericintervalFormatsyMdydd-MM-y – dd-MM-y GGGGG
+calendarsgenericintervalFormatsyMdddd-MM-y – dd-MM-y GGGGG
+calendarsgenericintervalFormatsyMdMdd-MM-y – dd-MM-y GGGGG
+calendarsgenericintervalFormatsMMMMLLL – LLL
+calendarsgenericintervalFormatsyMEddE, dd-MM-y – E, dd-MM-y GGGGG
+calendarsgenericintervalFormatsyMEdME, dd-MM-y – E, dd-MM-y GGGGG
+calendarsgenericintervalFormatsyMEdyE, dd-MM-y – E, dd-MM-y GGGGG
+calendarsgenericintervalFormatsMdMdd/MM – dd/MM
+calendarsgenericintervalFormatsMdddd/MM – dd/MM
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsyyy – y G
+calendarsgenericintervalFormatsyMMMM-y – MM-y GGGGG
+calendarsgenericintervalFormatsyMyMM-y – MM-y GGGGG
+calendarsgenericintervalFormatsyMMMMMMM – MMM y G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatsMEddE, dd/MM – E, dd/MM
+calendarsgenericintervalFormatsMEdME, dd/MM – E, dd/MM
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsyMMMMMMMMM – MMMM y G
+calendarsgenericintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgenericintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM y G
+calendarsgenericdateFormatsshortstandarddd-MM-y GGGGG
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgregoriandateFormatsshortstandarddd-MM-y
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM y
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgregorianquartersstand-alonewide1triwulan kaping pisan
+calendarsgregorianquartersstand-alonewide4triwulan kaping papat
+calendarsgregorianquartersstand-alonewide2triwulan kaping loro
+calendarsgregorianquartersstand-alonewide3triwulan kaping telu
+calendarsgregorianquartersstand-aloneabbreviated3TW3
+calendarsgregorianquartersstand-aloneabbreviated2TW2
+calendarsgregorianquartersstand-aloneabbreviated4TW4
+calendarsgregorianquartersstand-aloneabbreviated1TW1
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatwide3triwulan kaping telu
+calendarsgregorianquartersformatwide1triwulan kaping pisan
+calendarsgregorianquartersformatwide4triwulan kaping papat
+calendarsgregorianquartersformatwide2triwulan kaping loro
+calendarsgregorianquartersformatabbreviated3TW3
+calendarsgregorianquartersformatabbreviated4TW4
+calendarsgregorianquartersformatabbreviated1TW1
+calendarsgregorianquartersformatabbreviated2TW2
+calendarsgregoriandayPeriodsstand-alonenarrowpmWengi
+calendarsgregoriandayPeriodsstand-alonenarrowamIsuk
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamIsuk
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmWengi
+calendarsgregoriandayPeriodsstand-alonewideamIsuk
+calendarsgregoriandayPeriodsstand-alonewidepmWengi
+calendarsgregoriandayPeriodsformatabbreviatedamIsuk
+calendarsgregoriandayPeriodsformatabbreviatedpmWengi
+calendarsgregoriandayPeriodsformatwidepmWengi
+calendarsgregoriandayPeriodsformatwideamIsuk
+calendarsgregoriandayPeriodsformatnarrowamIsuk
+calendarsgregoriandayPeriodsformatnarrowpmWengi
+calendarsgregoriandaysformatwidefriJumat
+calendarsgregoriandaysformatwidethuKamis
+calendarsgregoriandaysformatwidesatSabtu
+calendarsgregoriandaysformatwidemonSenin
+calendarsgregoriandaysformatwidetueSelasa
+calendarsgregoriandaysformatwidewedRabu
+calendarsgregoriandaysformatwidesunAhad
+calendarsgregoriandaysformatabbreviatedwedRab
+calendarsgregoriandaysformatabbreviatedsunAhd
+calendarsgregoriandaysformatabbreviatedsatSab
+calendarsgregoriandaysformatabbreviatedthuKam
+calendarsgregoriandaysformatabbreviatedfriJum
+calendarsgregoriandaysformatabbreviatedtueSel
+calendarsgregoriandaysformatabbreviatedmonSen
+calendarsgregoriandaysformatnarrowsunA
+calendarsgregoriandaysformatnarrowwedR
+calendarsgregoriandaysformatnarrowmonS
+calendarsgregoriandaysformatnarrowtueS
+calendarsgregoriandaysformatnarrowfriJ
+calendarsgregoriandaysformatnarrowthuK
+calendarsgregoriandaysformatnarrowsatS
+calendarsgregoriandaysformatshortfriJum
+calendarsgregoriandaysformatshortthuKam
+calendarsgregoriandaysformatshortsatSab
+calendarsgregoriandaysformatshortmonSen
+calendarsgregoriandaysformatshorttueSel
+calendarsgregoriandaysformatshortwedRab
+calendarsgregoriandaysformatshortsunAhd
+calendarsgregoriandaysstand-aloneshortfriJum
+calendarsgregoriandaysstand-aloneshortsatSab
+calendarsgregoriandaysstand-aloneshortthuKam
+calendarsgregoriandaysstand-aloneshortmonSen
+calendarsgregoriandaysstand-aloneshorttueSel
+calendarsgregoriandaysstand-aloneshortwedRab
+calendarsgregoriandaysstand-aloneshortsunAhd
+calendarsgregoriandaysstand-alonenarrowwedR
+calendarsgregoriandaysstand-alonenarrowsunA
+calendarsgregoriandaysstand-alonenarrowfriJ
+calendarsgregoriandaysstand-alonenarrowthuK
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-alonenarrowmonS
+calendarsgregoriandaysstand-alonenarrowtueS
+calendarsgregoriandaysstand-aloneabbreviatedmonSen
+calendarsgregoriandaysstand-aloneabbreviatedtueSel
+calendarsgregoriandaysstand-aloneabbreviatedfriJum
+calendarsgregoriandaysstand-aloneabbreviatedthuKam
+calendarsgregoriandaysstand-aloneabbreviatedsatSab
+calendarsgregoriandaysstand-aloneabbreviatedsunAhd
+calendarsgregoriandaysstand-aloneabbreviatedwedRab
+calendarsgregoriandaysstand-alonewidesunAhad
+calendarsgregoriandaysstand-alonewidewedRabu
+calendarsgregoriandaysstand-alonewidemonSenin
+calendarsgregoriandaysstand-alonewidetueSelasa
+calendarsgregoriandaysstand-alonewidefriJumat
+calendarsgregoriandaysstand-alonewidesatSabtu
+calendarsgregoriandaysstand-alonewidethuKamis
+calendarsgregoriandateTimeFormatsmedium{1}, {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsshort{1}, {0}
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregorianintervalFormatsMMMM – MM
+calendarsgregorianintervalFormatsyMMMEdyE, d MMM y – E, d MMM y
+calendarsgregorianintervalFormatsyMMMEdME, d MMM – E, d MMM y
+calendarsgregorianintervalFormatsyMMMEddE, d MMM – E, d MMM y
+calendarsgregorianintervalFormatsddd – d
+calendarsgregorianintervalFormatsHmmHH:mm – HH:mm
+calendarsgregorianintervalFormatsHmHHH:mm – HH:mm
+calendarsgregorianintervalFormatsyMMMdMd MMM – d MMM y
+calendarsgregorianintervalFormatsyMMMddd – d MMM y
+calendarsgregorianintervalFormatsyMMMdyd MMM y – d MMM y
+calendarsgregorianintervalFormatsyMEdyE, dd-MM-y – E, dd-MM-y
+calendarsgregorianintervalFormatsyMEddE, dd-MM-y – E, dd-MM-y
+calendarsgregorianintervalFormatsyMEdME, dd-MM-y – E, dd-MM-y
+calendarsgregorianintervalFormatsMMMMLLL–LLL
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatsMdMdd/MM – dd/MM
+calendarsgregorianintervalFormatsMdddd/MM – dd/MM
+calendarsgregorianintervalFormatsHmvmHH:mm – HH:mm v
+calendarsgregorianintervalFormatsHmvHHH:mm – HH:mm v
+calendarsgregorianintervalFormatshmvmh:mm – h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvhh:mm – h:mm a v
+calendarsgregorianintervalFormatsHHHH – HH
+calendarsgregorianintervalFormatsyMdMdd-MM-y – dd-MM-y
+calendarsgregorianintervalFormatsyMdddd-MM-y – dd-MM-y
+calendarsgregorianintervalFormatsyMdydd-MM-y – dd-MM-y
+calendarsgregorianintervalFormatsMMMdMd MMM – d MMM
+calendarsgregorianintervalFormatsMMMddMMM d–d
+calendarsgregorianintervalFormatshhh – h a
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatsyMMMMMMM – MMM y
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsMEdME, dd/MM – E, dd/MM
+calendarsgregorianintervalFormatsMEddE, dd/MM – E, dd/MM
+calendarsgregorianintervalFormatsyMMMM-y – MM-y
+calendarsgregorianintervalFormatsyMyMM-y – MM-y
+calendarsgregorianintervalFormatsyyy – y
+calendarsgregorianintervalFormatsHvHHH – HH v
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm – h:mm a
+calendarsgregorianintervalFormatshmhh:mm – h:mm a
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh – h a v
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsyMMMMMMMMM – MMMM y
+calendarsgregorianintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgregorianintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatsMMMEdE, d MMM
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsyw'pekan' w 'saka' Y
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsyMMM-y
+calendarsgregorianavailableFormatsGyMMMdd MMM y G
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsyQQQQQQ y
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsMEdE dd/MM
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyMddd-MM-y
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsMddd/MM
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatsyMEdE, dd-MM-y
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsyMMMdd MMM y
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsMMMMW'pekan' W 'saka' MMMM
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsGyMMMEdE, d MMM y G
+calendarsgregorianavailableFormatsyMMMEdE, d MMM y
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsEdE, d
+calendarsgregorianeraseraNames1Era Umum
+calendarsgregorianeraseraNames0Sakdurunge Era Umum
+calendarsgregorianeraseraAbbr1EU
+calendarsgregorianeraseraAbbr0SEU
+calendarsgregorianmonthsformatabbreviated10Okt
+calendarsgregorianmonthsformatabbreviated12Des
+calendarsgregorianmonthsformatabbreviated7Jul
+calendarsgregorianmonthsformatabbreviated11Nov
+calendarsgregorianmonthsformatabbreviated3Mar
+calendarsgregorianmonthsformatabbreviated5Mei
+calendarsgregorianmonthsformatabbreviated8Agt
+calendarsgregorianmonthsformatabbreviated2Feb
+calendarsgregorianmonthsformatabbreviated9Sep
+calendarsgregorianmonthsformatabbreviated6Jun
+calendarsgregorianmonthsformatabbreviated4Apr
+calendarsgregorianmonthsformatabbreviated1Jan
+calendarsgregorianmonthsformatwide4April
+calendarsgregorianmonthsformatwide6Juni
+calendarsgregorianmonthsformatwide1Januari
+calendarsgregorianmonthsformatwide9September
+calendarsgregorianmonthsformatwide8Agustus
+calendarsgregorianmonthsformatwide2Februari
+calendarsgregorianmonthsformatwide5Mei
+calendarsgregorianmonthsformatwide3Maret
+calendarsgregorianmonthsformatwide7Juli
+calendarsgregorianmonthsformatwide12Desember
+calendarsgregorianmonthsformatwide11November
+calendarsgregorianmonthsformatwide10Oktober
+calendarsgregorianmonthsformatnarrow8A
+calendarsgregorianmonthsformatnarrow2F
+calendarsgregorianmonthsformatnarrow5M
+calendarsgregorianmonthsformatnarrow6J
+calendarsgregorianmonthsformatnarrow4A
+calendarsgregorianmonthsformatnarrow1J
+calendarsgregorianmonthsformatnarrow9S
+calendarsgregorianmonthsformatnarrow10O
+calendarsgregorianmonthsformatnarrow3M
+calendarsgregorianmonthsformatnarrow7J
+calendarsgregorianmonthsformatnarrow12D
+calendarsgregorianmonthsformatnarrow11N
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow8A
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow1J
+calendarsgregorianmonthsstand-alonenarrow6J
+calendarsgregorianmonthsstand-alonenarrow4A
+calendarsgregorianmonthsstand-alonenarrow10O
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow12D
+calendarsgregorianmonthsstand-alonenarrow7J
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonewide10Oktober
+calendarsgregorianmonthsstand-alonewide3Maret
+calendarsgregorianmonthsstand-alonewide7Juli
+calendarsgregorianmonthsstand-alonewide12Desember
+calendarsgregorianmonthsstand-alonewide11November
+calendarsgregorianmonthsstand-alonewide2Februari
+calendarsgregorianmonthsstand-alonewide8Agustus
+calendarsgregorianmonthsstand-alonewide5Mei
+calendarsgregorianmonthsstand-alonewide6Juni
+calendarsgregorianmonthsstand-alonewide4April
+calendarsgregorianmonthsstand-alonewide1Januari
+calendarsgregorianmonthsstand-alonewide9September
+calendarsgregorianmonthsstand-aloneabbreviated8Agt
+calendarsgregorianmonthsstand-aloneabbreviated2Feb
+calendarsgregorianmonthsstand-aloneabbreviated5Mei
+calendarsgregorianmonthsstand-aloneabbreviated4Apr
+calendarsgregorianmonthsstand-aloneabbreviated6Jun
+calendarsgregorianmonthsstand-aloneabbreviated1Jan
+calendarsgregorianmonthsstand-aloneabbreviated9Sep
+calendarsgregorianmonthsstand-aloneabbreviated10Okt
+calendarsgregorianmonthsstand-aloneabbreviated3Mar
+calendarsgregorianmonthsstand-aloneabbreviated11Nov
+calendarsgregorianmonthsstand-aloneabbreviated12Des
+calendarsgregorianmonthsstand-aloneabbreviated7Jul
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+localeDisplayNameslanguagestrTurki
+localeDisplayNameslanguageszh_HantTyonghwa (Tradisional)
+localeDisplayNameslanguagesundBasa Ora Dikenali
+localeDisplayNameslanguagesruRusia
+localeDisplayNameslanguageskoKorea
+localeDisplayNameslanguageszhTyonghwa
+localeDisplayNameslanguagesnl_BEFlemis
+localeDisplayNameslanguagesen_GBInggris (Britania)
+localeDisplayNameslanguagesjaJepang
+localeDisplayNameslanguagesesSpanyol
+localeDisplayNameslanguagesjvJawa
+localeDisplayNameslanguageszh_HansTyonghwa (Gampang)
+localeDisplayNameslanguageses_MXSpanyol (Meksiko)
+localeDisplayNameslanguagesitItalia
+localeDisplayNameslanguagesidIndonesia
+localeDisplayNameslanguagesen_USInggris (AS)
+localeDisplayNameslanguagesenInggris
+localeDisplayNameslanguagesdeJérman
+localeDisplayNameslanguagesbnBengali
+localeDisplayNameslanguagesplPolandia
+localeDisplayNameslanguagescoKorsika
+localeDisplayNameslanguagesbsbs
+localeDisplayNameslanguagesnlWalanda
+localeDisplayNameslanguagesar_001Arab Standar Anyar
+localeDisplayNameslanguagesbanban
+localeDisplayNameslanguagesfrPrancis
+localeDisplayNameslanguagesbebe
+localeDisplayNameslanguagesarArab
+localeDisplayNameslanguageses_ESSpanyol (Eropah)
+localeDisplayNameslanguageshiIndia
+localeDisplayNameslanguagesafaf
+localeDisplayNameslanguagesthThailand
+localeDisplayNameslanguagesptPortugis
+localeDisplayNameslanguageses_419Spanyol (Amerika Latin)
+localeDisplayNamesscriptsHantHan Tradhisional
+localeDisplayNamesscriptsArabArab
+localeDisplayNamesscriptsLatnLatin
+localeDisplayNamesscriptsJpanJepang
+localeDisplayNamesscriptsCyrlSirilik
+localeDisplayNamesscriptsHaniHan
+localeDisplayNamesscriptsHansHan Prasaja
+localeDisplayNamesscriptsZxxxOra Ketulis
+localeDisplayNamesscriptsZzzzSkrip Ora Dikenali
+localeDisplayNamesscriptsKoreKorea
+localeDisplayNamescodePatternslanguageBasa: {0}
+localeDisplayNamescodePatternsscriptSkrip: {0}
+localeDisplayNamescodePatternsterritoryDaerah: {0}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNamescharactersparseLenientsgenerallenient.[.․。︒﹒．｡]
+localeDisplayNamescharactersparseLenientsgenerallenient£[£₤]
+localeDisplayNamescharactersparseLenientsgenerallenient$[\$﹩＄$]
+localeDisplayNamescharactersparseLenientsgenerallenient₹[₨₹{Rp}{Rs}]
+localeDisplayNamescharactersparseLenientsdatelenient-[\--/]
+localeDisplayNamescharactersparseLenientsdatelenient:[\:∶]
+localeDisplayNamescharactersparseLenientsnumberstricter,[,٫︐﹐，]
+localeDisplayNamescharactersparseLenientsnumberstricter.[.․﹒．｡]
+localeDisplayNamescharactersparseLenientsnumberlenient,[,،٫、︐︑﹐﹑，､]
+localeDisplayNamescharactersparseLenientsnumberlenient+[+⁺₊➕﬩﹢＋]
+localeDisplayNamescharactersparseLenientsnumberlenient-[\-‒⁻₋−➖﹣－]
+localeDisplayNamesterritoriesSDSudan
+localeDisplayNamesterritoriesICKapuloan Kanari
+localeDisplayNamesterritoriesNRNauru
+localeDisplayNamesterritoriesCIPasisir Gadhing
+localeDisplayNamesterritoriesBBBarbadhos
+localeDisplayNamesterritoriesAFAfganistan
+localeDisplayNamesterritories029Karibia
+localeDisplayNamesterritoriesAQAntartika
+localeDisplayNamesterritoriesDKDhènemarken
+localeDisplayNamesterritoriesCNTyongkok
+localeDisplayNamesterritories018Afrika Sisih Kidul
+localeDisplayNamesterritoriesYTMayotte
+localeDisplayNamesterritoriesSCSésèl
+localeDisplayNamesterritoriesNZNiu Sélan
+localeDisplayNamesterritoriesCAKanada
+localeDisplayNamesterritoriesIRIran
+localeDisplayNamesterritoriesJEJersey
+localeDisplayNamesterritoriesMMMyanmar (Burma)
+localeDisplayNamesterritoriesBHBahrain
+localeDisplayNamesterritoriesBVPulo Bovèt
+localeDisplayNamesterritories021Amérika Sisih Lor
+localeDisplayNamesterritoriesAOAngola
+localeDisplayNamesterritoriesLILiktenstén
+localeDisplayNamesterritoriesGDGrénada
+localeDisplayNamesterritoriesVGKapuloan Virgin Britania
+localeDisplayNamesterritoriesSTSao Tomé lan Principé
+localeDisplayNamesterritoriesBEBèlgi
+localeDisplayNamesterritoriesJMJamaika
+localeDisplayNamesterritoriesIDIndonésia
+localeDisplayNamesterritoriesVEVénésuéla
+localeDisplayNamesterritoriesECÉkuadhor
+localeDisplayNamesterritories003Amérika Lèr
+localeDisplayNamesterritoriesBYBélarus
+localeDisplayNamesterritoriesPGPapua Nugini
+localeDisplayNamesterritoriesMYMalaysia
+localeDisplayNamesterritoriesPEPeru
+localeDisplayNamesterritoriesCDRépublik Dhémokratik Kongo
+localeDisplayNamesterritoriesVNViètnam
+localeDisplayNamesterritoriesNLWalanda
+localeDisplayNamesterritoriesPYParaguay
+localeDisplayNamesterritoriesPNKapuloan Pitcairn
+localeDisplayNamesterritoriesHNHonduras
+localeDisplayNamesterritoriesMRMauritania
+localeDisplayNamesterritoriesGBKM
+localeDisplayNamesterritoriesVAKutho Vatikan
+localeDisplayNamesterritories002Afrika
+localeDisplayNamesterritoriesTMTurkménistan
+localeDisplayNamesterritoriesKWKuwait
+localeDisplayNamesterritoriesALAlbani
+localeDisplayNamesterritoriesGRGrikenlan
+localeDisplayNamesterritoriesSYSuriah
+localeDisplayNamesterritoriesSLSiéra Léoné
+localeDisplayNamesterritoriesBNBrunéi
+localeDisplayNamesterritoriesAZAzerbaijan
+localeDisplayNamesterritoriesLSLésotho
+localeDisplayNamesterritoriesINIndhi
+localeDisplayNamesterritoriesTTTrinidad lan Tobago
+localeDisplayNamesterritoriesSMSan Marino
+localeDisplayNamesterritoriesGEGéorgia
+localeDisplayNamesterritoriesERÉritréa
+localeDisplayNamesterritoriesBZBélisé
+localeDisplayNamesterritoriesEASéuta lan Melila
+localeDisplayNamesterritories030Asia Wétan
+localeDisplayNamesterritoriesKNSaint Kits lan Nèvis
+localeDisplayNamesterritoriesKYKapuloan Kéman
+localeDisplayNamesterritories419Amérika Latin
+localeDisplayNamesterritoriesASSamoa Amerika
+localeDisplayNamesterritoriesGLGrinland
+localeDisplayNamesterritoriesTGTogo
+localeDisplayNamesterritoriesPLPolen
+localeDisplayNamesterritoriesPAPanama
+localeDisplayNamesterritoriesDORépublik Dominika
+localeDisplayNamesterritoriesACPulo Ascension
+localeDisplayNamesterritoriesAIAnguilla
+localeDisplayNamesterritoriesUSAS
+localeDisplayNamesterritories202Afrika Kidule Sahara
+localeDisplayNamesterritoriesARArgèntina
+localeDisplayNamesterritoriesTHTanah Thai
+localeDisplayNamesterritoriesPRPuèrto Riko
+localeDisplayNamesterritoriesMPKapuloan Mariana Lor
+localeDisplayNamesterritories011Afrika Kulon
+localeDisplayNamesterritoriesMEMontenégro
+localeDisplayNamesterritoriesEZZona Éuro
+localeDisplayNamesterritoriesIMPulo Man
+localeDisplayNamesterritoriesAUOstrali
+localeDisplayNamesterritoriesKHKamboja
+localeDisplayNamesterritoriesAXKapuloan Alan
+localeDisplayNamesterritoriesQOOseania Paling Njaba
+localeDisplayNamesterritoriesTCTurks lan Kapuloan Kaikos
+localeDisplayNamesterritories017Afrika Sisih Tengah
+localeDisplayNamesterritoriesNPNépal
+localeDisplayNamesterritoriesMCMonako
+localeDisplayNamesterritoriesKIKiribati
+localeDisplayNamesterritoriesSBKapuloan Suleman
+localeDisplayNamesterritoriesEEÉstonia
+localeDisplayNamesterritoriesAEUni Émirat Arab
+localeDisplayNamesterritoriesUAUkrania
+localeDisplayNamesterritoriesMGMadagaskar
+localeDisplayNamesterritoriesMXMèksiko
+localeDisplayNamesterritoriesGHGhana
+localeDisplayNamesterritoriesDZAljasair
+localeDisplayNamesterritoriesCRKosta Rika
+localeDisplayNamesterritoriesBFBurkina Faso
+localeDisplayNamesterritories053Australasia
+localeDisplayNamesterritoriesMZMosambik
+localeDisplayNamesterritoriesCZRépublik Céko
+localeDisplayNamesterritoriesAGAntigua lan Barbuda
+localeDisplayNamesterritoriesIOWilayah Inggris nang Segoro Hindia
+localeDisplayNamesterritoriesNGNigéria
+localeDisplayNamesterritoriesTFWilayah Prancis nang Kutub Kidul
+localeDisplayNamesterritoriesDMDominika
+localeDisplayNamesterritoriesTDChad
+localeDisplayNamesterritoriesAWAruba
+localeDisplayNamesterritoriesFJFiji
+localeDisplayNamesterritoriesOMOman
+localeDisplayNamesterritories054Melanesia
+localeDisplayNamesterritoriesSVÈl Salvador
+localeDisplayNamesterritoriesQAKatar
+localeDisplayNamesterritoriesCWKurasao
+localeDisplayNamesterritoriesTWTaiwan
+localeDisplayNamesterritoriesBDBanggaladésa
+localeDisplayNamesterritoriesBGBulgari
+localeDisplayNamesterritoriesADAndora
+localeDisplayNamesterritoriesPSPalèstina
+localeDisplayNamesterritoriesBRBrasil
+localeDisplayNamesterritoriesMKRépublik Makédonia Lor
+localeDisplayNamesterritoriesBMBermuda
+localeDisplayNamesterritories015Afrika Lèr
+localeDisplayNamesterritoriesPHPilipina
+localeDisplayNamesterritoriesNENigér
+localeDisplayNamesterritoriesMOMacau
+localeDisplayNamesterritoriesGMGambia
+localeDisplayNamesterritoriesFIFinlan
+localeDisplayNamesterritoriesRERéunion
+localeDisplayNamesterritoriesTLTimor Wétan
+localeDisplayNamesterritoriesGFGuyana Prancis
+localeDisplayNamesterritoriesWSSamoa
+localeDisplayNamesterritoriesUNPasarékatan Bangsa-Bangsa
+localeDisplayNamesterritoriesTKTokelau
+localeDisplayNamesterritoriesCFRépublik Afrika Tengah
+localeDisplayNamesterritoriesLYLibya
+localeDisplayNamesterritories034Asia Kidul
+localeDisplayNamesterritoriesGSGeorgia Kidul lan Kapuloan Sandwich Kidul
+localeDisplayNamesterritoriesZZDaerah Ora Dikenali
+localeDisplayNamesterritoriesETÉtiopia
+localeDisplayNamesterritoriesBWBotswana
+localeDisplayNamesterritoriesCMKamerun
+localeDisplayNamesterritoriesUZUsbèkistan
+localeDisplayNamesterritoriesFRPrancis
+localeDisplayNamesterritoriesDEJérman
+localeDisplayNamesterritoriesBJBénin
+localeDisplayNamesterritories151Éropah Wétan
+localeDisplayNamesterritoriesUGUganda
+localeDisplayNamesterritoriesBIBurundi
+localeDisplayNamesterritoriesKZKasakstan
+localeDisplayNamesterritoriesMUMauritius
+localeDisplayNamesterritoriesUYUruguay
+localeDisplayNamesterritories039Éropah Kidul
+localeDisplayNamesterritories142Asia
+localeDisplayNamesterritoriesEUUni Éropah
+localeDisplayNamesterritoriesPTPortugal
+localeDisplayNamesterritoriesSOSomalia
+localeDisplayNamesterritoriesNINikaragua
+localeDisplayNamesterritoriesSJSvalbard lan Jan Mayen
+localeDisplayNamesterritoriesGTGuatémala
+localeDisplayNamesterritoriesDJJibuti
+localeDisplayNamesterritories001Donya
+localeDisplayNamesterritoriesKEKénya
+localeDisplayNamesterritoriesKRKoréa Kidul
+localeDisplayNamesterritoriesBSBahamas
+localeDisplayNamesterritoriesUMKapuloan A.S. Paling Njobo
+localeDisplayNamesterritoriesSAArab Saudi
+localeDisplayNamesterritoriesESSepanyol
+localeDisplayNamesterritoriesKMKomoro
+localeDisplayNamesterritoriesILIsraèl
+localeDisplayNamesterritoriesBTBhutan
+localeDisplayNamesterritoriesWFWallis lan Futuna
+localeDisplayNamesterritoriesBOBolivia
+localeDisplayNamesterritoriesTZTansania
+localeDisplayNamesterritoriesISÈslan
+localeDisplayNamesterritories035Asia Kidul-wétan
+localeDisplayNamesterritoriesMSMonsérat
+localeDisplayNamesterritoriesPMSaint Pièr lan Mikuélon
+localeDisplayNamesterritoriesNUNiue
+localeDisplayNamesterritoriesNCKalédonia Anyar
+localeDisplayNamesterritoriesHTHaiti
+localeDisplayNamesterritoriesHKHong Kong
+localeDisplayNamesterritoriesCUKuba
+localeDisplayNamesterritoriesCLCilé
+localeDisplayNamesterritoriesBABosnia lan Hèrségovina
+localeDisplayNamesterritories014Afrika Wétan
+localeDisplayNamesterritoriesLVLatvia
+localeDisplayNamesterritoriesSHSaint Héléna
+localeDisplayNamesterritoriesHMKapuloan Heard lan McDonald
+localeDisplayNamesterritoriesMWMalawi
+localeDisplayNamesterritoriesCXPulo Natal
+localeDisplayNamesterritoriesGPGuadélup
+localeDisplayNamesterritoriesSZSwasiland
+localeDisplayNamesterritories019Amérika
+localeDisplayNamesterritories143Asia Tengah
+localeDisplayNamesterritories009Oséania
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNamesterritoriesMTMalta
+localeDisplayNamesterritories154Éropah Lèr
+localeDisplayNamesterritoriesJPJepang
+localeDisplayNamesterritoriesSXSint Martén
+localeDisplayNamesterritoriesSRSuriname
+localeDisplayNamesterritoriesRORuméni
+localeDisplayNamesterritoriesGWGini-Bisau
+localeDisplayNamesterritoriesBQKaribia Walanda
+localeDisplayNamesterritoriesIQIrak
+localeDisplayNamesterritoriesVUVanuatu
+localeDisplayNamesterritoriesNANamibia
+localeDisplayNamesterritoriesGUGuam
+localeDisplayNamesterritoriesMLMali
+localeDisplayNamesterritoriesDGDiego Garcia
+localeDisplayNamesterritoriesLBLibanon
+localeDisplayNamesterritoriesLCSanta Lusia
+localeDisplayNamesterritoriesZAAfrika Kidul
+localeDisplayNamesterritoriesTNTunisia
+localeDisplayNamesterritoriesRWRwanda
+localeDisplayNamesterritoriesIERépublik Irlan
+localeDisplayNamesterritoriesRSSèrbi
+localeDisplayNamesterritories005Amérika Kidul
+localeDisplayNamesterritoriesITItali
+localeDisplayNamesterritoriesLTLitowen
+localeDisplayNamesterritoriesLRLibèria
+localeDisplayNamesterritoriesMFSanta Martin
+localeDisplayNamesterritoriesVIKapuloan Virgin Amérika
+localeDisplayNamesterritoriesTRTurki
+localeDisplayNamesterritoriesPFPolinesia Prancis
+localeDisplayNamesterritoriesFKKapuloan Falkland (Islas Malvinas)
+localeDisplayNamesterritoriesBLSaint Barthélémi
+localeDisplayNamesterritoriesGNGini
+localeDisplayNamesterritoriesCCKapuloan Cocos (Keeling)
+localeDisplayNamesterritoriesMAMaroko
+localeDisplayNamesterritoriesTVTuvalu
+localeDisplayNamesterritoriesRURusia
+localeDisplayNamesterritoriesFMFéderasi Mikronésia
+localeDisplayNamesterritoriesCGRépublik Kongo
+localeDisplayNamesterritoriesGGGuernsei
+localeDisplayNamesterritoriesCVPongol Verdé
+localeDisplayNamesterritories150Éropah
+localeDisplayNamesterritories057Daerah Mikronesia
+localeDisplayNamesterritoriesKGKirgistan
+localeDisplayNamesterritoriesCKKapuloan Cook
+localeDisplayNamesterritoriesSKSlowak
+localeDisplayNamesterritoriesYEYaman
+localeDisplayNamesterritoriesSISlovénia
+localeDisplayNamesterritoriesEHSahara Kulon
+localeDisplayNamesterritoriesPWPalau
+localeDisplayNamesterritoriesNFPulo Norfolk
+localeDisplayNamesterritories145Asia Kulon
+localeDisplayNamesterritories061Polinesia
+localeDisplayNamesterritoriesATOstenrik
+localeDisplayNamesterritoriesHRKroasia
+localeDisplayNamesterritoriesSSSudan Kidul
+localeDisplayNamesterritoriesMVMaladéwa
+localeDisplayNamesterritoriesMQMartinik
+localeDisplayNamesterritoriesGQGuinéa Katulistiwa
+localeDisplayNamesterritoriesLULuksemburg
+localeDisplayNamesterritoriesLKSri Lanka
+localeDisplayNamesterritoriesKPKoréa Lèr
+localeDisplayNamesterritoriesMNMongolia
+localeDisplayNamesterritoriesCOKolombia
+localeDisplayNamesterritoriesPKPakistan
+localeDisplayNamesterritoriesLALaos
+localeDisplayNamesterritoriesMHKapuloan Marshall
+localeDisplayNamesterritoriesMDMoldova
+localeDisplayNamesterritoriesSNSénégal
+localeDisplayNamesterritoriesZWSimbabwe
+localeDisplayNamesterritoriesEGMesir
+localeDisplayNamesterritoriesGIGibraltar
+localeDisplayNamesterritoriesXKKosovo
+localeDisplayNamesterritoriesVCSaint Vinsen lan Grénadin
+localeDisplayNamesterritoriesFOKapuloan Faro
+localeDisplayNamesterritoriesGAGabon
+localeDisplayNamesterritoriesTATristan da Cunha
+localeDisplayNamesterritoriesZMSambia
+localeDisplayNamesterritoriesNONurwègen
+localeDisplayNamesterritoriesCYSiprus
+localeDisplayNamesterritories155Éropah Kulon
+localeDisplayNamesterritories013Amérika Tengah
+localeDisplayNamesterritoriesHUHonggari
+localeDisplayNamesterritoriesSGSingapura
+localeDisplayNamesterritoriesCHSwitserlan
+localeDisplayNamesterritoriesCPPulo Clipperton
+localeDisplayNamesterritoriesAMArménia
+localeDisplayNamesterritoriesJOYordania
+localeDisplayNamesterritoriesGYGuyana
+localeDisplayNamesterritoriesSESwèdhen
+localeDisplayNamesterritoriesTJTajikistan
+localeDisplayNamesmeasurementSystemNamesUKBR
+localeDisplayNamesmeasurementSystemNamesmetricMetrik
+localeDisplayNamesmeasurementSystemNamesUSAS
+posixmessagesnostrora
+posixmessagesyesstryoh
+charactersellipsismedial{0}…{1}
+charactersellipsisword-final{0} …
+charactersellipsisword-initial… {0}
+charactersellipsisfinal{0}…
+charactersellipsisword-medial{0} … {1}
+charactersellipsisinitial…{0}
+charactersexemplarCharactersindex[A Â Å B C D E É È Ê G H I Ì J K L M N O Ò P R S T U Ù W Y]
+charactersexemplarCharactersauxiliary[f q v x z]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]
+charactersexemplarCharacterspunctuation[\- , ; \: ! ? . ( ) \[ \] \{ \}]
+charactersexemplarCharactersstandard[a â å b c d e é è ê g h i ì j k l m n o ò p r s t u ù w y]

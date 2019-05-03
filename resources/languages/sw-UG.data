@@ -1,0 +1,2717 @@
+calendarsgenericintervalFormatsyMEdyE, d/M/y – E, d/M/y G
+calendarsgenericintervalFormatsyMEdME, d/M/y – E, d/M/y G
+calendarsgenericintervalFormatsyMEddE, d/M/y – E, d/M/y G
+calendarsgenericintervalFormatsMMM – M
+calendarsgenericintervalFormatsMMMEddE, d MMM – E, d MMM
+calendarsgenericintervalFormatsMMMEdME, d MMM – E, d MMM
+calendarsgenericintervalFormatsyMMMMyMMMM y – MMMM y G
+calendarsgenericintervalFormatsyMMMMMMMMM–MMMM y G
+calendarsgenericintervalFormatsyyy – y G
+calendarsgenericintervalFormatsyMyM/y – M/y G
+calendarsgenericintervalFormatsyMMM/y – M/y G
+calendarsgenericintervalFormatsMMMMMMM – MMM
+calendarsgenericintervalFormatsHmvmHH:mm – HH:mm v
+calendarsgenericintervalFormatsHmvHHH:mm – HH:mm v
+calendarsgenericintervalFormatsMMMdMd MMM – d MMM
+calendarsgenericintervalFormatsMMMddd – d MMM
+calendarsgenericintervalFormatsyMMMdMd MMM – d MMM y G
+calendarsgenericintervalFormatsyMMMdyd MMM y – d MMM y G
+calendarsgenericintervalFormatsyMMMddd – d MMM y G
+calendarsgenericintervalFormatsyMMMMMMM – MMM y G
+calendarsgenericintervalFormatsyMMMyMMM y – MMM y G
+calendarsgenericintervalFormatshmvmh:mm – h:mm a v
+calendarsgenericintervalFormatshmvah:mm a – h:mm a v
+calendarsgenericintervalFormatshmvhh:mm – h:mm a v
+calendarsgenericintervalFormatshhh – h a
+calendarsgenericintervalFormatshah a – h a
+calendarsgenericintervalFormatsHvHHH – HH v
+calendarsgenericintervalFormatsddd – d
+calendarsgenericintervalFormatsstandardstandard{0} – {1}
+calendarsgenericintervalFormatsHmmHH:mm – HH:mm
+calendarsgenericintervalFormatsHmHHH:mm – HH:mm
+calendarsgenericintervalFormatsHHHH – HH
+calendarsgenericintervalFormatsMddd/M – d/M
+calendarsgenericintervalFormatsMdMd/M – d/M
+calendarsgenericintervalFormatshmmh:mm – h:mm a
+calendarsgenericintervalFormatshmhh:mm – h:mm a
+calendarsgenericintervalFormatshmah:mm a – h:mm a
+calendarsgenericintervalFormatsyMMMEddE, d MMM – E, d MMM y G
+calendarsgenericintervalFormatsyMMMEdyE, d MMM y – E, d MMM y
+calendarsgenericintervalFormatsyMMMEdME, d MMM – E, d MMM y
+calendarsgenericintervalFormatshvah a – h a v
+calendarsgenericintervalFormatshvhh – h a v
+calendarsgenericintervalFormatsMEddE, d/M – E, d/M
+calendarsgenericintervalFormatsMEdME, d/M – E, d/M
+calendarsgenericintervalFormatsyMdyd/M/y – d/M/y G
+calendarsgenericintervalFormatsyMdMd/M/y – d/M/y G
+calendarsgenericintervalFormatsyMddd/M/y – d/M/y G
+calendarsgenericavailableFormatsBhmh:mm B
+calendarsgenericavailableFormatshmsh:mm:ss a
+calendarsgenericavailableFormatsyyyyMEdE, d/M/y G
+calendarsgenericavailableFormatsBhmsh:mm:ss B
+calendarsgenericavailableFormatsMMMMdd MMMM
+calendarsgenericavailableFormatsMEdE, d/M
+calendarsgenericavailableFormatsGyMMMEdE, d MMM y G
+calendarsgenericavailableFormatsyyyyQQQQQQ y G
+calendarsgenericavailableFormatsEBhmsE h:mm:ss B
+calendarsgenericavailableFormatsdd
+calendarsgenericavailableFormatsGyMMMdd MMM y G
+calendarsgenericavailableFormatsBhh B
+calendarsgenericavailableFormatshh a
+calendarsgenericavailableFormatsEdE d
+calendarsgenericavailableFormatsyyyyMMMEdE, d MMM y G
+calendarsgenericavailableFormatshmh:mm a
+calendarsgenericavailableFormatsyyyyMM/y G
+calendarsgenericavailableFormatsyyyyMMMdd MMM y G
+calendarsgenericavailableFormatsEHmE HH:mm
+calendarsgenericavailableFormatsEhmE h:mm a
+calendarsgenericavailableFormatsMdd-M
+calendarsgenericavailableFormatsEHmsE HH:mm:ss
+calendarsgenericavailableFormatsHHH
+calendarsgenericavailableFormatsHmHH:mm
+calendarsgenericavailableFormatsEhmsE h:mm:ss a
+calendarsgenericavailableFormatsEccc
+calendarsgenericavailableFormatsMMMMEdE, d MMMM
+calendarsgenericavailableFormatsyyyyMMMMMM y G
+calendarsgenericavailableFormatsHmsHH:mm:ss
+calendarsgenericavailableFormatsyyyyQQQQQQQQ y G
+calendarsgenericavailableFormatsGyMMMMMM y G
+calendarsgenericavailableFormatsyy G
+calendarsgenericavailableFormatsEBhmE h:mm B
+calendarsgenericavailableFormatsML
+calendarsgenericavailableFormatsMMMEdE, d MMM
+calendarsgenericavailableFormatsGyy G
+calendarsgenericavailableFormatsyyyyMMMMMMMM y G
+calendarsgenericavailableFormatsMMMLLL
+calendarsgenericavailableFormatsmsmm:ss
+calendarsgenericavailableFormatsMMMdd MMM
+calendarsgenericavailableFormatsyyyyMdd/M/y G
+calendarsgenericavailableFormatsyyyyy G
+calendarsgenericdateFormatsshortstandarddd/MM/y GGGGG
+calendarsgenericdateFormatsfullstandardEEEE, d MMMM y G
+calendarsgenericdateFormatslongstandardd MMMM y G
+calendarsgenericdateFormatsmediumstandardd MMM y G
+calendarsgenericdateTimeFormatsfull{1} {0}
+calendarsgenericdateTimeFormatsshort{1} {0}
+calendarsgenericdateTimeFormatslong{1} {0}
+calendarsgenericdateTimeFormatsmedium{1} {0}
+calendarsgregorianintervalFormatshmvhh:mm – h:mm a v
+calendarsgregorianintervalFormatshmvah:mm a – h:mm a v
+calendarsgregorianintervalFormatshmvmh:mm – h:mm a v
+calendarsgregorianintervalFormatsyMMMyMMM y – MMM y
+calendarsgregorianintervalFormatsyMMMMMMM – MMM y
+calendarsgregorianintervalFormatsMMMEdMMMM d, E – MMM d, E
+calendarsgregorianintervalFormatsMMMEddMMM d, E – MMM d, E
+calendarsgregorianintervalFormatsMMM – M
+calendarsgregorianintervalFormatsyyy–y
+calendarsgregorianintervalFormatsyMEdME, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMEdyE, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMEddE, d/M/y – E, d/M/y
+calendarsgregorianintervalFormatsyMMMMMMMMM–MMMM y
+calendarsgregorianintervalFormatsyMMMMyMMMM y – MMMM y
+calendarsgregorianintervalFormatsMMMMLLL–LLL
+calendarsgregorianintervalFormatsMMMddMMM d–d
+calendarsgregorianintervalFormatsMMMdMMMM d – MMM d
+calendarsgregorianintervalFormatsyMMMdyMMM d y – MMM d y
+calendarsgregorianintervalFormatsyMMMdMMMM d – d, y
+calendarsgregorianintervalFormatsyMMMddMMM d – d, y
+calendarsgregorianintervalFormatsHmvHHH:mm – HH:mm v
+calendarsgregorianintervalFormatsHmvmHH:mm – HH:mm v
+calendarsgregorianintervalFormatsyMMM/y – M/y
+calendarsgregorianintervalFormatsyMyM/y – M/y
+calendarsgregorianintervalFormatsyMdMd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMdyd/M/y – d/M/y
+calendarsgregorianintervalFormatsyMddd/M/y – d/M/y
+calendarsgregorianintervalFormatsMEdME, d/M – E, d/M
+calendarsgregorianintervalFormatsMEddE, d/M – E, d/M
+calendarsgregorianintervalFormatshvah a – h a v
+calendarsgregorianintervalFormatshvhh – h a v
+calendarsgregorianintervalFormatsHvHHH – HH v
+calendarsgregorianintervalFormatsddd – d
+calendarsgregorianintervalFormatshah a – h a
+calendarsgregorianintervalFormatshhh – h a
+calendarsgregorianintervalFormatsstandardstandard{0} – {1}
+calendarsgregorianintervalFormatshmhh:mm–h:mm a
+calendarsgregorianintervalFormatshmah:mm a – h:mm a
+calendarsgregorianintervalFormatshmmh:mm – h:mm a
+calendarsgregorianintervalFormatsHHHH – HH
+calendarsgregorianintervalFormatsMdMd/M – d/M
+calendarsgregorianintervalFormatsMddd/M – d/M
+calendarsgregorianintervalFormatsHmmHH:mm – HH:mm
+calendarsgregorianintervalFormatsHmHHH:mm – HH:mm
+calendarsgregorianintervalFormatsyMMMEddE, MMM d – E, MMM d y
+calendarsgregorianintervalFormatsyMMMEdME, MMM d– E, MMM d y
+calendarsgregorianintervalFormatsyMMMEdyE, MMM d y – E, MMM d y
+calendarsgregorianeraseraNames0BCE
+calendarsgregorianeraseraNames1CE
+calendarsgregorianeraseraAbbr0BCE
+calendarsgregorianeraseraAbbr1CE
+calendarsgregorianquartersformatabbreviated1Robo ya 1
+calendarsgregorianquartersformatabbreviated4Robo ya 4
+calendarsgregorianquartersformatabbreviated2Robo ya 2
+calendarsgregorianquartersformatabbreviated3Robo ya 3
+calendarsgregorianquartersformatwide1Robo ya 1
+calendarsgregorianquartersformatwide4Robo ya 4
+calendarsgregorianquartersformatwide2Robo ya 2
+calendarsgregorianquartersformatwide3Robo ya 3
+calendarsgregorianquartersformatnarrow44
+calendarsgregorianquartersformatnarrow11
+calendarsgregorianquartersformatnarrow22
+calendarsgregorianquartersformatnarrow33
+calendarsgregorianquartersstand-aloneabbreviated2Robo ya 2
+calendarsgregorianquartersstand-aloneabbreviated1Robo ya 1
+calendarsgregorianquartersstand-aloneabbreviated4Robo ya 4
+calendarsgregorianquartersstand-aloneabbreviated3Robo ya 3
+calendarsgregorianquartersstand-alonewide3Robo ya 3
+calendarsgregorianquartersstand-alonewide1Robo ya 1
+calendarsgregorianquartersstand-alonewide4Robo ya 4
+calendarsgregorianquartersstand-alonewide2Robo ya 2
+calendarsgregorianquartersstand-alonenarrow22
+calendarsgregorianquartersstand-alonenarrow11
+calendarsgregorianquartersstand-alonenarrow44
+calendarsgregorianquartersstand-alonenarrow33
+calendarsgregoriantimeFormatslongstandardHH:mm:ss z
+calendarsgregoriantimeFormatsshortstandardHH:mm
+calendarsgregoriantimeFormatsfullstandardHH:mm:ss zzzz
+calendarsgregoriantimeFormatsmediumstandardHH:mm:ss
+calendarsgregoriandateFormatsmediumstandardd MMM y
+calendarsgregoriandateFormatsshortstandarddd/MM/y
+calendarsgregoriandateFormatsfullstandardEEEE, d MMMM y
+calendarsgregoriandateFormatslongstandardd MMMM y
+calendarsgregoriandateTimeFormatsfull{1} {0}
+calendarsgregoriandateTimeFormatsshort{1} {0}
+calendarsgregoriandateTimeFormatslong{1} {0}
+calendarsgregoriandateTimeFormatsmedium{1} {0}
+calendarsgregorianmonthsstand-alonenarrow2F
+calendarsgregorianmonthsstand-alonenarrow8A
+calendarsgregorianmonthsstand-alonenarrow6J
+calendarsgregorianmonthsstand-alonenarrow1J
+calendarsgregorianmonthsstand-alonenarrow4A
+calendarsgregorianmonthsstand-alonenarrow9S
+calendarsgregorianmonthsstand-alonenarrow3M
+calendarsgregorianmonthsstand-alonenarrow5M
+calendarsgregorianmonthsstand-alonenarrow10O
+calendarsgregorianmonthsstand-alonenarrow11N
+calendarsgregorianmonthsstand-alonenarrow7J
+calendarsgregorianmonthsstand-alonenarrow12D
+calendarsgregorianmonthsstand-alonewide6Juni
+calendarsgregorianmonthsstand-alonewide9Septemba
+calendarsgregorianmonthsstand-alonewide1Januari
+calendarsgregorianmonthsstand-alonewide4Aprili
+calendarsgregorianmonthsstand-alonewide8Agosti
+calendarsgregorianmonthsstand-alonewide2Februari
+calendarsgregorianmonthsstand-alonewide12Desemba
+calendarsgregorianmonthsstand-alonewide7Julai
+calendarsgregorianmonthsstand-alonewide3Machi
+calendarsgregorianmonthsstand-alonewide5Mei
+calendarsgregorianmonthsstand-alonewide10Oktoba
+calendarsgregorianmonthsstand-alonewide11Novemba
+calendarsgregorianmonthsstand-aloneabbreviated12Des
+calendarsgregorianmonthsstand-aloneabbreviated7Jul
+calendarsgregorianmonthsstand-aloneabbreviated3Mac
+calendarsgregorianmonthsstand-aloneabbreviated5Mei
+calendarsgregorianmonthsstand-aloneabbreviated10Okt
+calendarsgregorianmonthsstand-aloneabbreviated11Nov
+calendarsgregorianmonthsstand-aloneabbreviated6Jun
+calendarsgregorianmonthsstand-aloneabbreviated1Jan
+calendarsgregorianmonthsstand-aloneabbreviated9Sep
+calendarsgregorianmonthsstand-aloneabbreviated4Apr
+calendarsgregorianmonthsstand-aloneabbreviated2Feb
+calendarsgregorianmonthsstand-aloneabbreviated8Ago
+calendarsgregorianmonthsformatabbreviated8Ago
+calendarsgregorianmonthsformatabbreviated2Feb
+calendarsgregorianmonthsformatabbreviated6Jun
+calendarsgregorianmonthsformatabbreviated4Apr
+calendarsgregorianmonthsformatabbreviated9Sep
+calendarsgregorianmonthsformatabbreviated1Jan
+calendarsgregorianmonthsformatabbreviated3Mac
+calendarsgregorianmonthsformatabbreviated5Mei
+calendarsgregorianmonthsformatabbreviated10Okt
+calendarsgregorianmonthsformatabbreviated11Nov
+calendarsgregorianmonthsformatabbreviated12Des
+calendarsgregorianmonthsformatabbreviated7Jul
+calendarsgregorianmonthsformatwide1Januari
+calendarsgregorianmonthsformatwide4Aprili
+calendarsgregorianmonthsformatwide9Septemba
+calendarsgregorianmonthsformatwide6Juni
+calendarsgregorianmonthsformatwide8Agosti
+calendarsgregorianmonthsformatwide2Februari
+calendarsgregorianmonthsformatwide12Desemba
+calendarsgregorianmonthsformatwide7Julai
+calendarsgregorianmonthsformatwide10Oktoba
+calendarsgregorianmonthsformatwide11Novemba
+calendarsgregorianmonthsformatwide5Mei
+calendarsgregorianmonthsformatwide3Machi
+calendarsgregorianmonthsformatnarrow6J
+calendarsgregorianmonthsformatnarrow4A
+calendarsgregorianmonthsformatnarrow1J
+calendarsgregorianmonthsformatnarrow9S
+calendarsgregorianmonthsformatnarrow2F
+calendarsgregorianmonthsformatnarrow8A
+calendarsgregorianmonthsformatnarrow12D
+calendarsgregorianmonthsformatnarrow7J
+calendarsgregorianmonthsformatnarrow3M
+calendarsgregorianmonthsformatnarrow10O
+calendarsgregorianmonthsformatnarrow11N
+calendarsgregorianmonthsformatnarrow5M
+calendarsgregorianappendItemsTimezone{0} {1}
+calendarsgregoriandayPeriodsstand-aloneabbreviatednoonsaa sita za mchana
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmidnightsaa sita za usiku
+calendarsgregoriandayPeriodsstand-aloneabbreviatedafternoon1alasiri
+calendarsgregoriandayPeriodsstand-aloneabbreviatedevening1jioni
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning2asubuhi
+calendarsgregoriandayPeriodsstand-aloneabbreviatedamAM
+calendarsgregoriandayPeriodsstand-aloneabbreviatednight1usiku
+calendarsgregoriandayPeriodsstand-aloneabbreviatedpmPM
+calendarsgregoriandayPeriodsstand-aloneabbreviatedmorning1alfajiri
+calendarsgregoriandayPeriodsstand-alonenarrownoonsaa sita za mchana
+calendarsgregoriandayPeriodsstand-alonenarrowmidnightsaa sita za usiku
+calendarsgregoriandayPeriodsstand-alonenarrowafternoon1mchana
+calendarsgregoriandayPeriodsstand-alonenarrowevening1jioni
+calendarsgregoriandayPeriodsstand-alonenarrowamAM
+calendarsgregoriandayPeriodsstand-alonenarrowmorning2asubuhi
+calendarsgregoriandayPeriodsstand-alonenarrownight1usiku
+calendarsgregoriandayPeriodsstand-alonenarrowpmPM
+calendarsgregoriandayPeriodsstand-alonenarrowmorning1alfajiri
+calendarsgregoriandayPeriodsstand-alonewidepmPM
+calendarsgregoriandayPeriodsstand-alonewidenight1usiku
+calendarsgregoriandayPeriodsstand-alonewidemorning1alfajiri
+calendarsgregoriandayPeriodsstand-alonewidenoonsaa sita za mchana
+calendarsgregoriandayPeriodsstand-alonewidemidnightsaa sita za usiku
+calendarsgregoriandayPeriodsstand-alonewideafternoon1mchana
+calendarsgregoriandayPeriodsstand-alonewideevening1jioni
+calendarsgregoriandayPeriodsstand-alonewideamAM
+calendarsgregoriandayPeriodsstand-alonewidemorning2asubuhi
+calendarsgregoriandayPeriodsformatwidepmPM
+calendarsgregoriandayPeriodsformatwidenight1usiku
+calendarsgregoriandayPeriodsformatwidemorning1alfajiri
+calendarsgregoriandayPeriodsformatwidenoonsaa sita za mchana
+calendarsgregoriandayPeriodsformatwidemidnightsaa sita za usiku
+calendarsgregoriandayPeriodsformatwideevening1jioni
+calendarsgregoriandayPeriodsformatwideafternoon1mchana
+calendarsgregoriandayPeriodsformatwideamAM
+calendarsgregoriandayPeriodsformatwidemorning2asubuhi
+calendarsgregoriandayPeriodsformatnarrowafternoon1mchana
+calendarsgregoriandayPeriodsformatnarrowevening1jioni
+calendarsgregoriandayPeriodsformatnarrownoonmchana
+calendarsgregoriandayPeriodsformatnarrowmidnightusiku
+calendarsgregoriandayPeriodsformatnarrowamam
+calendarsgregoriandayPeriodsformatnarrowmorning2asubuhi
+calendarsgregoriandayPeriodsformatnarrownight1usiku
+calendarsgregoriandayPeriodsformatnarrowpmpm
+calendarsgregoriandayPeriodsformatnarrowmorning1alfajiri
+calendarsgregoriandayPeriodsformatabbreviatednoonsaa sita za mchana
+calendarsgregoriandayPeriodsformatabbreviatedmidnightsaa sita za usiku
+calendarsgregoriandayPeriodsformatabbreviatedevening1jioni
+calendarsgregoriandayPeriodsformatabbreviatedafternoon1mchana
+calendarsgregoriandayPeriodsformatabbreviatedamAM
+calendarsgregoriandayPeriodsformatabbreviatedmorning2asubuhi
+calendarsgregoriandayPeriodsformatabbreviatednight1usiku
+calendarsgregoriandayPeriodsformatabbreviatedpmPM
+calendarsgregoriandayPeriodsformatabbreviatedmorning1alfajiri
+calendarsgregoriandaysformatshortsunJumapili
+calendarsgregoriandaysformatshortmonJumatatu
+calendarsgregoriandaysformatshortthuAlhamisi
+calendarsgregoriandaysformatshortsatJumamosi
+calendarsgregoriandaysformatshorttueJumanne
+calendarsgregoriandaysformatshortwedJumatano
+calendarsgregoriandaysformatshortfriIjumaa
+calendarsgregoriandaysformatabbreviatedsatJumamosi
+calendarsgregoriandaysformatabbreviatedsunJumapili
+calendarsgregoriandaysformatabbreviatedmonJumatatu
+calendarsgregoriandaysformatabbreviatedthuAlhamisi
+calendarsgregoriandaysformatabbreviatedfriIjumaa
+calendarsgregoriandaysformatabbreviatedwedJumatano
+calendarsgregoriandaysformatabbreviatedtueJumanne
+calendarsgregoriandaysformatnarrowfriF
+calendarsgregoriandaysformatnarrowtueT
+calendarsgregoriandaysformatnarrowwedW
+calendarsgregoriandaysformatnarrowmonM
+calendarsgregoriandaysformatnarrowsatS
+calendarsgregoriandaysformatnarrowsunS
+calendarsgregoriandaysformatnarrowthuT
+calendarsgregoriandaysformatwidemonJumatatu
+calendarsgregoriandaysformatwidesatJumamosi
+calendarsgregoriandaysformatwidesunJumapili
+calendarsgregoriandaysformatwidethuAlhamisi
+calendarsgregoriandaysformatwidetueJumanne
+calendarsgregoriandaysformatwidefriIjumaa
+calendarsgregoriandaysformatwidewedJumatano
+calendarsgregoriandaysstand-alonewidemonJumatatu
+calendarsgregoriandaysstand-alonewidethuAlhamisi
+calendarsgregoriandaysstand-alonewidesunJumapili
+calendarsgregoriandaysstand-alonewidesatJumamosi
+calendarsgregoriandaysstand-alonewidewedJumatano
+calendarsgregoriandaysstand-alonewidetueJumanne
+calendarsgregoriandaysstand-alonewidefriIjumaa
+calendarsgregoriandaysstand-alonenarrowwedW
+calendarsgregoriandaysstand-alonenarrowtueT
+calendarsgregoriandaysstand-alonenarrowfriF
+calendarsgregoriandaysstand-alonenarrowsunS
+calendarsgregoriandaysstand-alonenarrowthuT
+calendarsgregoriandaysstand-alonenarrowmonM
+calendarsgregoriandaysstand-alonenarrowsatS
+calendarsgregoriandaysstand-aloneabbreviatedfriIjumaa
+calendarsgregoriandaysstand-aloneabbreviatedwedJumatano
+calendarsgregoriandaysstand-aloneabbreviatedtueJumanne
+calendarsgregoriandaysstand-aloneabbreviatedthuAlhamisi
+calendarsgregoriandaysstand-aloneabbreviatedsunJumapili
+calendarsgregoriandaysstand-aloneabbreviatedsatJumamosi
+calendarsgregoriandaysstand-aloneabbreviatedmonJumatatu
+calendarsgregoriandaysstand-aloneshortmonJumatatu
+calendarsgregoriandaysstand-aloneshortsunJumapili
+calendarsgregoriandaysstand-aloneshortthuAlhamisi
+calendarsgregoriandaysstand-aloneshortsatJumamosi
+calendarsgregoriandaysstand-aloneshorttueJumanne
+calendarsgregoriandaysstand-aloneshortfriIjumaa
+calendarsgregoriandaysstand-aloneshortwedJumatano
+calendarsgregorianavailableFormatsdd
+calendarsgregorianavailableFormatsBhh B
+calendarsgregorianavailableFormatsEBhmsE h:mm:ss B
+calendarsgregorianavailableFormatsGyMMMdd MMM y G
+calendarsgregorianavailableFormatsEdE d
+calendarsgregorianavailableFormatsGyMMMEdE, MMM d, y G
+calendarsgregorianavailableFormatshh a
+calendarsgregorianavailableFormatsEhmE h:mm a
+calendarsgregorianavailableFormatsEHmE HH:mm
+calendarsgregorianavailableFormatsEhmsE h:mm:ss a
+calendarsgregorianavailableFormatsEHmsE HH:mm:ss
+calendarsgregorianavailableFormatshmh:mm a
+calendarsgregorianavailableFormatsHHH
+calendarsgregorianavailableFormatsHmHH:mm
+calendarsgregorianavailableFormatsMdd/M
+calendarsgregorianavailableFormatsyMMMEdE, MMM d, y
+calendarsgregorianavailableFormatsBhmsh:mm:ss B
+calendarsgregorianavailableFormatsMMMMdd MMMM
+calendarsgregorianavailableFormatsBhmh:mm B
+calendarsgregorianavailableFormatshmsh:mm:ss a
+calendarsgregorianavailableFormatsyQQQQQQQQ y
+calendarsgregorianavailableFormatshmsvh:mm:ss a v
+calendarsgregorianavailableFormatsMEdE, d/M
+calendarsgregorianavailableFormatsyMdd/M/y
+calendarsgregorianavailableFormatsEBhmE h:mm B
+calendarsgregorianavailableFormatsGyMMMMMM y G
+calendarsgregorianavailableFormatsHmsvHH:mm:ss v
+calendarsgregorianavailableFormatsMMMEdE, d MMM
+calendarsgregorianavailableFormatsyy
+calendarsgregorianavailableFormatsyMEdE, d/M/y
+calendarsgregorianavailableFormatsyMMMMMMMM y
+calendarsgregorianavailableFormatsyQQQy QQQ
+calendarsgregorianavailableFormatsML
+calendarsgregorianavailableFormatsmsmm:ss
+calendarsgregorianavailableFormatsGyy G
+calendarsgregorianavailableFormatsHmvHH:mm v
+calendarsgregorianavailableFormatsMMMLLL
+calendarsgregorianavailableFormatsMMMdd MMM
+calendarsgregorianavailableFormatsyMM/y
+calendarsgregorianavailableFormatsyMMMdd MMM y
+calendarsgregorianavailableFormatsyw'wiki' w 'ya' Y
+calendarsgregorianavailableFormatsEccc
+calendarsgregorianavailableFormatsHmsHH:mm:ss
+calendarsgregorianavailableFormatshmvh:mm a v
+calendarsgregorianavailableFormatsMMMMEdE, d MMMM
+calendarsgregorianavailableFormatsyMMMMMM y
+calendarsgregorianavailableFormatsMMMMW'wiki' W 'ya' MMM
+delimitersalternateQuotationEnd’
+delimitersalternateQuotationStart‘
+delimitersquotationEnd”
+delimitersquotationStart“
+posixmessagesnostrHapana:H
+posixmessagesyesstrNdiyo:N
+numbersdefaultNumberingSystemstandardlatn
+numbersmiscPatternslatnatMost≤{0}
+numbersmiscPatternslatnapproximately~{0}
+numbersmiscPatternslatnatLeast{0}+
+numbersmiscPatternslatnrange{0}–{1}
+numbersotherNumberingSystemsnativelatn
+numbersdecimalFormatslatnstandardstandard#,##0.###
+numbersdecimalFormatslatnlong100000000000bilioni 000;bilioni -000
+numbersdecimalFormatslatnlong10000000milioni 00;milioni -00
+numbersdecimalFormatslatnlong10000000000bilioni 00;bilioni -00
+numbersdecimalFormatslatnlong100000elfu 000;elfu -000
+numbersdecimalFormatslatnlong10000000000000trilioni 00;trilioni -00
+numbersdecimalFormatslatnlong100000000milioni 000;milioni -000
+numbersdecimalFormatslatnlong1000000000bilioni 0;bilioni -0
+numbersdecimalFormatslatnlong1000000milioni 0;milioni -0
+numbersdecimalFormatslatnlong10000elfu 00;elfu -00
+numbersdecimalFormatslatnlong1000elfu 0;elfu -0
+numbersdecimalFormatslatnlong100000000000000trilioni 000;trilioni -000
+numbersdecimalFormatslatnlong1000000000000trilioni 0;trilioni -0
+numbersdecimalFormatslatnshort100000000000000B;-000B
+numbersdecimalFormatslatnshort1000000000M
+numbersdecimalFormatslatnshort1000000000000B;-00B
+numbersdecimalFormatslatnshort100000elfu 000;elfu -000
+numbersdecimalFormatslatnshort100000000000M
+numbersdecimalFormatslatnshort10000000M
+numbersdecimalFormatslatnshort1000000000000000T
+numbersdecimalFormatslatnshort10000000000B;-0B
+numbersdecimalFormatslatnshort100000000000000000T
+numbersdecimalFormatslatnshort10000elfu 00;elfu -00
+numbersdecimalFormatslatnshort1000elfu 0;elfu -0
+numbersdecimalFormatslatnshort10000000000000T
+numberscurrencyFormatslatnshort1000000000000¤ 0T
+numberscurrencyFormatslatnshort10000¤ elfu00;¤elfu -00
+numberscurrencyFormatslatnshort100000000000000¤ 000T;¤-000T
+numberscurrencyFormatslatnshort1000¤ elfu0
+numberscurrencyFormatslatnshort1000000¤ 0M
+numberscurrencyFormatslatnshort100000¤ laki000;¤laki -000
+numberscurrencyFormatslatnshort100000000¤ 000M
+numberscurrencyFormatslatnshort10000000000000¤ 00T
+numberscurrencyFormatslatnshort1000000000¤ 0B;¤-0B
+numberscurrencyFormatslatnshort10000000000¤ 00B;¤-00B
+numberscurrencyFormatslatnshort10000000¤ 00M;¤-00M
+numberscurrencyFormatslatnshort100000000000¤ 000B;¤-000B
+numberscurrencyFormatslatnstandardstandard¤ #,##0.00
+numberscurrenciesBRLnarrowR$
+numberscurrenciesBRLstandardR$
+numberscurrenciesKRWstandard₩
+numberscurrenciesKRWnarrow₩
+numberscurrenciesXCDstandardEC$
+numberscurrenciesXCDnarrow$
+numberscurrenciesLYDstandardLYD
+numberscurrenciesMADstandardMAD
+numberscurrenciesCVEstandardCVE
+numberscurrenciesBWPstandardBWP
+numberscurrenciesBWPnarrowP
+numberscurrenciesNADstandardNAD
+numberscurrenciesNADnarrow$
+numberscurrenciesLBPnarrowL£
+numberscurrenciesLBPstandardLBP
+numberscurrenciesOMRstandardOMR
+numberscurrenciesMKDstandardMKD
+numberscurrenciesBBDstandardBBD
+numberscurrenciesBBDnarrow$
+numberscurrenciesGELstandardGEL
+numberscurrenciesGELnarrow₾
+numberscurrenciesGELvariant₾
+numberscurrenciesSRDnarrow$
+numberscurrenciesSRDstandardSRD
+numberscurrenciesEGPstandardEGP
+numberscurrenciesEGPnarrowE£
+numberscurrenciesXAFstandardFCFA
+numberscurrenciesEURstandard€
+numberscurrenciesEURnarrow€
+numberscurrenciesCHFstandardCHF
+numberscurrenciesPKRstandardPKR
+numberscurrenciesPKRnarrowRs
+numberscurrenciesAUDstandardA$
+numberscurrenciesAUDnarrow$
+numberscurrenciesCOPstandardCOP
+numberscurrenciesCOPnarrow$
+numberscurrenciesSTNnarrowDb
+numberscurrenciesSTNstandardSTN
+numberscurrenciesSTDstandardSTD
+numberscurrenciesGTQnarrowQ
+numberscurrenciesGTQstandardGTQ
+numberscurrenciesSOSstandardSOS
+numberscurrenciesHKDnarrow$
+numberscurrenciesHKDstandardHK$
+numberscurrenciesVEFnarrowBs
+numberscurrenciesVEFstandardVEF
+numberscurrenciesKHRnarrow៛
+numberscurrenciesKHRstandardKHR
+numberscurrenciesNPRstandardNPR
+numberscurrenciesNPRnarrowRs
+numberscurrenciesBHDstandardBHD
+numberscurrenciesSGDnarrow$
+numberscurrenciesSGDstandardSGD
+numberscurrenciesSYPnarrow£
+numberscurrenciesSYPstandardSYP
+numberscurrenciesGYDnarrow$
+numberscurrenciesGYDstandardGYD
+numberscurrenciesHRKnarrowkn
+numberscurrenciesHRKstandardHRK
+numberscurrenciesMVRstandardMVR
+numberscurrenciesBNDnarrow$
+numberscurrenciesBNDstandardBND
+numberscurrenciesRSDstandardRSD
+numberscurrenciesPABstandardPAB
+numberscurrenciesBIFstandardBIF
+numberscurrenciesSCRstandardSCR
+numberscurrenciesTWDstandardNT$
+numberscurrenciesTWDnarrowNT$
+numberscurrenciesZMWstandardZMW
+numberscurrenciesZMWnarrowZK
+numberscurrenciesQARstandardQAR
+numberscurrenciesCADstandardCA$
+numberscurrenciesCADnarrow$
+numberscurrenciesCUCstandardCUC
+numberscurrenciesCUCnarrow$
+numberscurrenciesNIOstandardNIO
+numberscurrenciesNIOnarrowC$
+numberscurrenciesANGstandardANG
+numberscurrenciesXOFstandardCFA
+numberscurrenciesUGXstandardUSh
+numberscurrenciesBMDnarrow$
+numberscurrenciesBMDstandardBMD
+numberscurrenciesAEDstandardAED
+numberscurrenciesKWDstandardKWD
+numberscurrenciesGMDstandardGMD
+numberscurrenciesKPWnarrow₩
+numberscurrenciesKPWstandardKPW
+numberscurrenciesCNHstandardCNH
+numberscurrenciesBAMnarrowKM
+numberscurrenciesBAMstandardBAM
+numberscurrenciesGHSstandardGHS
+numberscurrenciesCNYnarrow¥
+numberscurrenciesCNYstandardCN¥
+numberscurrenciesGBPnarrow£
+numberscurrenciesGBPstandard£
+numberscurrenciesKGSstandardKGS
+numberscurrenciesTTDnarrow$
+numberscurrenciesTTDstandardTTD
+numberscurrenciesSHPnarrow£
+numberscurrenciesSHPstandardSHP
+numberscurrenciesCRCnarrow₡
+numberscurrenciesCRCstandardCRC
+numberscurrenciesVNDnarrow₫
+numberscurrenciesVNDstandard₫
+numberscurrenciesMYRnarrowRM
+numberscurrenciesMYRstandardMYR
+numberscurrenciesETBstandardETB
+numberscurrenciesMNTstandardMNT
+numberscurrenciesMNTnarrow₮
+numberscurrenciesFJDnarrow$
+numberscurrenciesFJDstandardFJD
+numberscurrenciesILSstandard₪
+numberscurrenciesILSnarrow₪
+numberscurrenciesMGAstandardMGA
+numberscurrenciesMGAnarrowAr
+numberscurrenciesAMDstandardAMD
+numberscurrenciesTOPstandardTOP
+numberscurrenciesTOPnarrowT$
+numberscurrenciesBOBnarrowBs
+numberscurrenciesBOBstandardBOB
+numberscurrenciesBYNstandardBYN
+numberscurrenciesBYNnarrowр.
+numberscurrenciesLAKstandardLAK
+numberscurrenciesLAKnarrow₭
+numberscurrenciesAWGstandardAWG
+numberscurrenciesALLstandardALL
+numberscurrenciesDZDstandardDZD
+numberscurrenciesPLNstandardPLN
+numberscurrenciesPLNnarrowzł
+numberscurrenciesDKKstandardDKK
+numberscurrenciesDKKnarrowkr
+numberscurrenciesUZSstandardUZS
+numberscurrenciesTNDstandardTND
+numberscurrenciesYERstandardYER
+numberscurrenciesHUFstandardHUF
+numberscurrenciesHUFnarrowFt
+numberscurrenciesBZDstandardBZD
+numberscurrenciesBZDnarrow$
+numberscurrenciesAZNstandardAZN
+numberscurrenciesMWKstandardMWK
+numberscurrenciesKYDnarrow$
+numberscurrenciesKYDstandardKYD
+numberscurrenciesDJFstandardDJF
+numberscurrenciesGNFnarrowFG
+numberscurrenciesGNFstandardGNF
+numberscurrenciesTRYstandardTRY
+numberscurrenciesTRYnarrow₺
+numberscurrenciesTRYvariantTL
+numberscurrenciesSSPnarrow£
+numberscurrenciesSSPstandardSSP
+numberscurrenciesSZLstandardSZL
+numberscurrenciesDOPnarrow$
+numberscurrenciesDOPstandardDOP
+numberscurrenciesZARnarrowR
+numberscurrenciesZARstandardZAR
+numberscurrenciesHNLnarrowL
+numberscurrenciesHNLstandardHNL
+numberscurrenciesCZKnarrowKč
+numberscurrenciesCZKstandardCZK
+numberscurrenciesRUBstandardRUB
+numberscurrenciesRUBnarrow₽
+numberscurrenciesNOKnarrowkr
+numberscurrenciesNOKstandardNOK
+numberscurrenciesTJSstandardTJS
+numberscurrenciesARSstandardARS
+numberscurrenciesARSnarrow$
+numberscurrenciesMZNstandardMZN
+numberscurrenciesLRDstandardLRD
+numberscurrenciesLRDnarrow$
+numberscurrenciesKESstandardKsh
+numberscurrenciesBSDstandardBSD
+numberscurrenciesBSDnarrow$
+numberscurrenciesNZDstandardNZ$
+numberscurrenciesNZDnarrow$
+numberscurrenciesMDLstandardMDL
+numberscurrenciesNGNnarrow₦
+numberscurrenciesNGNstandardNGN
+numberscurrenciesPGKstandardPGK
+numberscurrenciesIDRnarrowRp
+numberscurrenciesIDRstandardIDR
+numberscurrenciesVUVstandardVUV
+numberscurrenciesPYGnarrow₲
+numberscurrenciesPYGstandardPYG
+numberscurrenciesSBDnarrow$
+numberscurrenciesSBDstandardSBD
+numberscurrenciesPHPstandardPHP
+numberscurrenciesPHPnarrow₱
+numberscurrenciesIQDstandardIQD
+numberscurrenciesISKstandardISK
+numberscurrenciesISKnarrowkr
+numberscurrenciesERNstandardERN
+numberscurrenciesAFNstandardAFN
+numberscurrenciesSEKnarrowkr
+numberscurrenciesSEKstandardSEK
+numberscurrenciesWSTstandardWST
+numberscurrenciesINRstandard₹
+numberscurrenciesINRnarrow₹
+numberscurrenciesUSDstandardUS$
+numberscurrenciesUSDnarrow$
+numberscurrenciesUAHstandardUAH
+numberscurrenciesUAHnarrow₴
+numberscurrenciesPENstandardPEN
+numberscurrenciesCLPstandardCLP
+numberscurrenciesCLPnarrow$
+numberscurrenciesMURstandardMUR
+numberscurrenciesMURnarrowRs
+numberscurrenciesRONstandardRON
+numberscurrenciesRONnarrowlei
+numberscurrenciesCUPnarrow$
+numberscurrenciesCUPstandardCUP
+numberscurrenciesTMTstandardTMT
+numberscurrenciesSLLstandardSLL
+numberscurrenciesMMKnarrowK
+numberscurrenciesMMKstandardMMK
+numberscurrenciesMROstandardMRO
+numberscurrenciesLKRstandardLKR
+numberscurrenciesLKRnarrowRs
+numberscurrenciesGIPnarrow£
+numberscurrenciesGIPstandardGIP
+numberscurrenciesJPYnarrow¥
+numberscurrenciesJPYstandardJP¥
+numberscurrenciesVESstandardVES
+numberscurrenciesBYRstandardBYR
+numberscurrenciesMOPstandardMOP
+numberscurrenciesKMFstandardKMF
+numberscurrenciesKMFnarrowCF
+numberscurrenciesJODstandardJOD
+numberscurrenciesLVLstandardLVL
+numberscurrenciesMXNnarrow$
+numberscurrenciesMXNstandardMX$
+numberscurrenciesRWFstandardRWF
+numberscurrenciesRWFnarrowRF
+numberscurrenciesBTNstandardBTN
+numberscurrenciesBGNstandardBGN
+numberscurrenciesFKPstandardFKP
+numberscurrenciesFKPnarrow£
+numberscurrenciesSDGstandardSDG
+numberscurrenciesXPFstandardCFPF
+numberscurrenciesMRUstandardMRU
+numberscurrenciesHTGstandardHTG
+numberscurrenciesAOAnarrowKz
+numberscurrenciesAOAstandardAOA
+numberscurrenciesJMDstandardJMD
+numberscurrenciesJMDnarrow$
+numberscurrenciesLTLstandardLTL
+numberscurrenciesCDFstandardCDF
+numberscurrenciesKZTstandardKZT
+numberscurrenciesKZTnarrow₸
+numberscurrenciesIRRstandardIRR
+numberscurrenciesBDTnarrow৳
+numberscurrenciesBDTstandardBDT
+numberscurrenciesSARstandardSAR
+numberscurrenciesTHBstandard฿
+numberscurrenciesTHBnarrow฿
+numberscurrenciesTZSstandardTSh
+numberscurrenciesUYUstandardUYU
+numberscurrenciesUYUnarrow$
+numbersminimumGroupingDigits1
+numberssymbolslatnlist;
+numberssymbolslatndecimal.
+numberssymbolslatnnanNaN
+numberssymbolslatnperMille‰
+numberssymbolslatntimeSeparator:
+numberssymbolslatnminusSign-
+numberssymbolslatngroup,
+numberssymbolslatnexponentialE
+numberssymbolslatnplusSign+
+numberssymbolslatninfinity∞
+numberssymbolslatnsuperscriptingExponent×
+numberssymbolslatnpercentSign%
+numberspercentFormatslatnstandardstandard#,##0%
+numbersscientificFormatslatnstandardstandard#E0
+listPatternsunit-shortend{0} na {1}
+listPatternsunit-shortstart{0}, {1}
+listPatternsunit-shortmiddle{0}, {1}
+listPatternsunit-short2{0} na {1}
+listPatternsstandardend{0} na {1}
+listPatternsstandardmiddle{0}, {1}
+listPatternsstandardstart{0}, {1}
+listPatternsstandard2{0} na {1}
+listPatternsorend{0} au {1}
+listPatternsormiddle{0}, {1}
+listPatternsorstart{0}, {1}
+listPatternsor2{0} au {1}
+listPatternsunit2{0} na {1}
+listPatternsunitstart{0}, {1}
+listPatternsunitmiddle{0}, {1}
+listPatternsunitend{0} na {1}
+listPatternsunit-narrowmiddle{0}, {1}
+listPatternsunit-narrowstart{0}, {1}
+listPatternsunit-narrowend{0} na {1}
+listPatternsunit-narrow2{0} na {1}
+listPatternsstandard-short2{0} na {1}
+listPatternsstandard-shortmiddle{0}, {1}
+listPatternsstandard-shortstart{0}, {1}
+listPatternsstandard-shortend{0} na {1}
+unitslongcompoundUnitperpattern{0} kwa kila {1}
+unitslongunitvolume-cubic-kilometerpatternotherkilomita {0} za ujazo
+unitslongunitvolume-cubic-kilometerpatternonekilomita {0} ya ujazo
+unitslongunitvolume-cubic-kilometerdisplayNamekilomita za ujazo
+unitslongunitvolume-pintpatternonepainti {0}
+unitslongunitvolume-pintpatternotherpainti {0}
+unitslongunitvolume-pintdisplayNamepainti
+unitslongunitvolume-cubic-meterperUnitPattern{0} kwa kila mita ya ujazo
+unitslongunitvolume-cubic-meterpatternonemita {0} ya ujazo
+unitslongunitvolume-cubic-meterpatternothermita {0} za ujazo
+unitslongunitvolume-cubic-meterdisplayNamemita za ujazo
+unitslongunitvolume-gallon-imperialperUnitPattern{0}/gal Imp.
+unitslongunitvolume-gallon-imperialpatternother{0} gal Imp.
+unitslongunitvolume-gallon-imperialpatternone{0} gal Imp.
+unitslongunitvolume-gallon-imperialdisplayNameImp. gal
+unitslongunitduration-centurydisplayNamekarne
+unitslongunitduration-centurypatternotherkarne {0}
+unitslongunitduration-centurypatternonekarne {0}
+unitslongunitduration-monthdisplayNamemiezi
+unitslongunitduration-monthpatternonemwezi {0}
+unitslongunitduration-monthpatternothermiezi {0}
+unitslongunitduration-monthperUnitPattern{0} kwa mwezi
+unitslongunitduration-seconddisplayNamesekunde
+unitslongunitduration-secondpatternothersekunde {0}
+unitslongunitduration-secondpatternonesekunde {0}
+unitslongunitduration-secondperUnitPattern{0} kwa kila sekunde
+unitslongunitduration-minuteperUnitPattern{0} kwa kila dakika
+unitslongunitduration-minutepatternonedakika {0}
+unitslongunitduration-minutepatternotherdakika {0}
+unitslongunitduration-minutedisplayNamedakika
+unitslongunitelectric-amperedisplayNameampea
+unitslongunitelectric-amperepatternoneampea {0}
+unitslongunitelectric-amperepatternotherampea {0}
+unitslongunitpressure-pound-per-square-inchpatternonepauni {0} kwa kila inchi mraba
+unitslongunitpressure-pound-per-square-inchpatternotherpauni {0} kwa kila inchi mraba
+unitslongunitpressure-pound-per-square-inchdisplayNamepauni kwa kila inchi mraba
+unitslongunitlength-parsecpatternother{0} kila sekunde
+unitslongunitlength-parsecpatternone{0} kila sekunde
+unitslongunitlength-parsecdisplayNamekila sekunde
+unitslongunitconsumption-mile-per-gallon-imperialdisplayNamemaili kwa kila galoni la Uingereza
+unitslongunitconsumption-mile-per-gallon-imperialpatternonemaili {0} kwa kila galoni la Uingereza
+unitslongunitconsumption-mile-per-gallon-imperialpatternothermaili {0} kwa kila galoni la Uingereza
+unitslongunitfrequency-kilohertzdisplayNamekilohezi
+unitslongunitfrequency-kilohertzpatternotherkilohezi {0}
+unitslongunitfrequency-kilohertzpatternonekilohezi {0}
+unitslongunitlength-millimeterpatternothermilimita {0}
+unitslongunitlength-millimeterpatternonemilimita {0}
+unitslongunitlength-millimeterdisplayNamemilimita
+unitslongunitduration-daypatternothersiku {0}
+unitslongunitduration-daypatternonesiku {0}
+unitslongunitduration-daydisplayNamesiku
+unitslongunitduration-dayperUnitPattern{0} kwa siku
+unitslongunitvolume-milliliterdisplayNamemililita
+unitslongunitvolume-milliliterpatternothermililita {0}
+unitslongunitvolume-milliliterpatternonemililita {0}
+unitslongunitdigital-terabytepatternoneterabaiti {0}
+unitslongunitdigital-terabytepatternotherterabaiti {0}
+unitslongunitdigital-terabytedisplayNameterabaiti
+unitslongunitvolume-gallonperUnitPattern{0} kwa kila galoni
+unitslongunitvolume-gallonpatternothergaloni {0}
+unitslongunitvolume-gallonpatternonegaloni {0}
+unitslongunitvolume-gallondisplayNamegaloni
+unitslongunitpower-megawattpatternothermegawati {0}
+unitslongunitpower-megawattpatternonemegawati {0}
+unitslongunitpower-megawattdisplayNamemegawati
+unitslongunitlength-kilometerperUnitPattern{0} kwa kila kilomita
+unitslongunitlength-kilometerdisplayNamekilomita
+unitslongunitlength-kilometerpatternonekilomita {0}
+unitslongunitlength-kilometerpatternotherkilomita {0}
+unitslongunitelectric-ohmpatternone{0} Ω
+unitslongunitelectric-ohmpatternother{0} Ω
+unitslongunitelectric-ohmdisplayNameohm
+unitslongunitangle-radiandisplayNameradiani
+unitslongunitangle-radianpatternotherradiani {0}
+unitslongunitangle-radianpatternoneradiani {0}
+unitslongunitpower-wattpatternotherwati {0}
+unitslongunitpower-wattpatternonewati {0}
+unitslongunitpower-wattdisplayNamewati
+unitslongunitfrequency-hertzpatternonehezi {0}
+unitslongunitfrequency-hertzpatternotherhezi {0}
+unitslongunitfrequency-hertzdisplayNamehezi
+unitslongunitvolume-quartdisplayNamekwati
+unitslongunitvolume-quartpatternotherkwati {0}
+unitslongunitvolume-quartpatternonekwati {0}
+unitslongunitenergy-kilowatt-hourdisplayNamekilowati kwa saa
+unitslongunitenergy-kilowatt-hourpatternotherkilowati {0} kwa saa
+unitslongunitenergy-kilowatt-hourpatternonekilowati {0} kwa saa
+unitslongunitconcentr-permillepatternother{0} kwa kila elfu
+unitslongunitconcentr-permillepatternone{0} kwa kila elfu
+unitslongunitconcentr-permilledisplayNamekwa elfu
+unitslongunitduration-microseconddisplayNamemikrosekunde
+unitslongunitduration-microsecondpatternothermikrosekunde {0}
+unitslongunitduration-microsecondpatternonemikrosekunde {0}
+unitslongunitpressure-millibardisplayNamekipimo cha milibari
+unitslongunitpressure-millibarpatternotherkipimo cha milibari {0}
+unitslongunitpressure-millibarpatternonekipimo cha milibari {0}
+unitslongunitconcentr-percentpatternoneasilimia {0}
+unitslongunitconcentr-percentpatternotherasilimia {0}
+unitslongunitconcentr-percentdisplayNameasilimia
+unitslongunitelectric-voltdisplayNamevolti
+unitslongunitelectric-voltpatternonevolti {0}
+unitslongunitelectric-voltpatternothervolti {0}
+unitslongunitdigital-megabytedisplayNamemegabaiti
+unitslongunitdigital-megabytepatternothermegabaiti {0}
+unitslongunitdigital-megabytepatternonemegabaiti {0}
+unitslongunitarea-square-inchpatternoneinchi {0} ya mraba
+unitslongunitarea-square-inchpatternotherinchi {0} za mraba
+unitslongunitarea-square-inchdisplayNameinchi za mraba
+unitslongunitarea-square-inchperUnitPattern{0} kwa kila inchi mraba
+unitslongunitvolume-cubic-footdisplayNamefuti za ujazo
+unitslongunitvolume-cubic-footpatternonefuti {0} ya ujazo
+unitslongunitvolume-cubic-footpatternotherfuti {0} za ujazo
+unitslongunitmass-kilogramdisplayNamekilogramu
+unitslongunitmass-kilogrampatternotherkilogramu {0}
+unitslongunitmass-kilogrampatternonekilogramu {0}
+unitslongunitmass-kilogramperUnitPattern{0} kwa kila kilogramu
+unitslongunitspeed-kilometer-per-hourdisplayNamekilomita kwa saa
+unitslongunitspeed-kilometer-per-hourpatternotherkilomita {0} kwa saa
+unitslongunitspeed-kilometer-per-hourpatternonekilomita {0} kwa saa
+unitslongunitarea-hectarepatternotherhekta {0}
+unitslongunitarea-hectarepatternonehekta {0}
+unitslongunitarea-hectaredisplayNamehekta
+unitslongunitlength-milepatternothermaili {0}
+unitslongunitlength-milepatternonemaili {0}
+unitslongunitlength-miledisplayNamemaili
+unitslongunitfrequency-megahertzdisplayNamemegahezi
+unitslongunitfrequency-megahertzpatternonemegahezi {0}
+unitslongunitfrequency-megahertzpatternothermegahezi {0}
+unitslongunitmass-microgramdisplayNamemikrogramu
+unitslongunitmass-microgrampatternothermikrogramu {0}
+unitslongunitmass-microgrampatternonemikrogramu {0}
+unitslongunitlength-yardpatternotheryadi {0}
+unitslongunitlength-yardpatternoneyadi {0}
+unitslongunitlength-yarddisplayNameyadi
+unitslongunitvolume-fluid-ouncepatternoneaunsi {0} ya ujazo
+unitslongunitvolume-fluid-ouncepatternotheraunsi {0} za ujazo
+unitslongunitvolume-fluid-ouncedisplayNameaunsi za ujazo
+unitslongunitconcentr-karatdisplayNamekarati
+unitslongunitconcentr-karatpatternonekarati {0}
+unitslongunitconcentr-karatpatternotherkarati {0}
+unitslongunitduration-millisecondpatternothermillisekunde {0}
+unitslongunitduration-millisecondpatternonemillisekunde {0}
+unitslongunitduration-milliseconddisplayNamemillisekunde
+unitslongunittemperature-genericpatternone{0}°
+unitslongunittemperature-genericpatternother{0}°
+unitslongunittemperature-genericdisplayName°
+unitslongunitduration-nanoseconddisplayNamenanosekunde
+unitslongunitduration-nanosecondpatternonenanosekunde {0}
+unitslongunitduration-nanosecondpatternothernanosekunde {0}
+unitslongunitlength-inchpatternoneinchi {0}
+unitslongunitlength-inchpatternotherinchi {0}
+unitslongunitlength-inchdisplayNameinchi
+unitslongunitlength-inchperUnitPattern{0} kwa kila inchi
+unitslongunitenergy-caloriedisplayNamekalori
+unitslongunitenergy-caloriepatternonekalori {0}
+unitslongunitenergy-caloriepatternotherkalori {0}
+unitslongunittemperature-fahrenheitpatternonenyuzi za farenheiti {0}
+unitslongunittemperature-fahrenheitpatternothernyuzi za farenheiti {0}
+unitslongunittemperature-fahrenheitdisplayNamenyuzi za farenheiti
+unitslongunitlength-centimeterpatternonesentimita {0}
+unitslongunitlength-centimeterpatternothersentimita {0}
+unitslongunitlength-centimeterdisplayNamesentimita
+unitslongunitlength-centimeterperUnitPattern{0} kwa kila sentimita
+unitslongunitlength-light-yearpatternonemiaka ya mwanga {0}
+unitslongunitlength-light-yearpatternothermiaka ya mwanga {0}
+unitslongunitlength-light-yeardisplayNamemiaka ya mwanga
+unitslongunitvolume-cup-metricdisplayNamevikombe vya mizani
+unitslongunitvolume-cup-metricpatternonekikombe {0} cha mizani
+unitslongunitvolume-cup-metricpatternothervikombe {0} vya mizani
+unitslongunitpower-milliwattpatternonemiliwati {0}
+unitslongunitpower-milliwattpatternothermiliwati {0}
+unitslongunitpower-milliwattdisplayNamemiliwati
+unitslongunitelectric-milliamperepatternonemiliampea {0}
+unitslongunitelectric-milliamperepatternothermiliampea {0}
+unitslongunitelectric-milliamperedisplayNamemiliampea
+unitslongunitpressure-millimeter-of-mercurydisplayNamemilimita za zebaki
+unitslongunitpressure-millimeter-of-mercurypatternonemilimita {0} ya zebaki
+unitslongunitpressure-millimeter-of-mercurypatternothermilimita {0} za zebaki
+unitslongunitvolume-literperUnitPattern{0} kwa kila lita
+unitslongunitvolume-literdisplayNamelita
+unitslongunitvolume-literpatternotherlita {0}
+unitslongunitvolume-literpatternonelita {0}
+unitslongunitlength-pointdisplayNamepointi
+unitslongunitlength-pointpatternotherpointi {0}
+unitslongunitlength-pointpatternonepointi {0}
+unitslongunitconsumption-mile-per-gallondisplayNamemaili kwa kila galoni
+unitslongunitconsumption-mile-per-gallonpatternonemaili {0} kwa kila galoni
+unitslongunitconsumption-mile-per-gallonpatternothermaili {0} kwa kila galoni
+unitslongunitarea-acredisplayNameekari
+unitslongunitarea-acrepatternotherekari {0}
+unitslongunitarea-acrepatternoneekari {0}
+unitslongunitmass-metric-tondisplayNametani mita
+unitslongunitmass-metric-tonpatternothertani mita {0}
+unitslongunitmass-metric-tonpatternonetani mita {0}
+unitslongunitlength-meterpatternothermita {0}
+unitslongunitlength-meterpatternonemita {0}
+unitslongunitlength-meterdisplayNamemita
+unitslongunitlength-meterperUnitPattern{0} kwa kila mita
+unitslongunitlength-footpatternonefuti {0}
+unitslongunitlength-footpatternotherfuti {0}
+unitslongunitlength-footdisplayNamefuti
+unitslongunitlength-footperUnitPattern{0} kwa kila futi
+unitslongunitenergy-foodcaloriedisplayNamekalori
+unitslongunitenergy-foodcaloriepatternonekalori {0}
+unitslongunitenergy-foodcaloriepatternotherkalori {0}
+unitslongunitpower-horsepowerpatternotherkipimo cha hospawa {0}
+unitslongunitpower-horsepowerpatternonekipimo cha hospawa {0}
+unitslongunitpower-horsepowerdisplayNamekipimo cha hospawa
+unitslongunitpressure-hectopascalpatternonehektopaskali {0}
+unitslongunitpressure-hectopascalpatternotherhektopaskali {0}
+unitslongunitpressure-hectopascaldisplayNamehektopaskali
+unitslongunitvolume-teaspoonpatternothervijiko {0} vidogo
+unitslongunitvolume-teaspoonpatternonekijiko {0} kidogo
+unitslongunitvolume-teaspoondisplayNamevijiko vidogo
+unitslongunitduration-hourperUnitPattern{0} kwa saa
+unitslongunitduration-hourpatternonesaa {0}
+unitslongunitduration-hourpatternothersaa {0}
+unitslongunitduration-hourdisplayNamesaa
+unitslongunitmass-gramperUnitPattern{0} kwa kila gramu
+unitslongunitmass-grampatternonegramu {0}
+unitslongunitmass-grampatternothergramu {0}
+unitslongunitmass-gramdisplayNamegramu
+unitslongunitlength-picometerpatternonepikomita {0}
+unitslongunitlength-picometerpatternotherpikomita {0}
+unitslongunitlength-picometerdisplayNamepikomita
+unitslongunitlength-decimeterpatternonedesimita {0}
+unitslongunitlength-decimeterpatternotherdesimita {0}
+unitslongunitlength-decimeterdisplayNamedesimita
+unitslongunitenergy-kilojoulepatternotherkilojuli {0}
+unitslongunitenergy-kilojoulepatternonekilojuli {0}
+unitslongunitenergy-kilojouledisplayNamekilojuli
+unitslongunitconsumption-liter-per-100kilometersdisplayNamelita kwa kilomita 100
+unitslongunitconsumption-liter-per-100kilometerspatternotherlita {0} kwa kilomita 100
+unitslongunitconsumption-liter-per-100kilometerspatternonelita {0} kwa kilomita 100
+unitslongunitmass-poundperUnitPattern{0} kwa kila ratili
+unitslongunitmass-pounddisplayNameratili
+unitslongunitmass-poundpatternoneratili {0}
+unitslongunitmass-poundpatternotherratili {0}
+unitslongunitenergy-joulepatternonejouli {0}
+unitslongunitenergy-joulepatternotherjouli {0}
+unitslongunitenergy-jouledisplayNamejouli
+unitslongunitlength-nanometerdisplayNamenanomita
+unitslongunitlength-nanometerpatternonenanomita {0}
+unitslongunitlength-nanometerpatternothernanomita {0}
+unitslongunitpressure-inch-hgpatternoneinchi {0} ya zebaki
+unitslongunitpressure-inch-hgpatternotherinchi {0} za zebaki
+unitslongunitpressure-inch-hgdisplayNameinchi za zebaki
+unitslongunitmass-milligrampatternonemiligramu {0}
+unitslongunitmass-milligrampatternothermiligramu {0}
+unitslongunitmass-milligramdisplayNamemiligramu
+unitslongunitvolume-acre-footpatternotherekari futi {0}
+unitslongunitvolume-acre-footpatternoneekari futi {0}
+unitslongunitvolume-acre-footdisplayNameekari futi
+unitslongunitmass-caratdisplayNamekarati
+unitslongunitmass-caratpatternonekarati {0}
+unitslongunitmass-caratpatternotherkarati {0}
+unitslongunitarea-square-kilometerdisplayNamekilomita za mraba
+unitslongunitarea-square-kilometerpatternonekilomita {0} ya mraba
+unitslongunitarea-square-kilometerpatternotherkilomita {0} za mraba
+unitslongunitarea-square-kilometerperUnitPattern{0} kwa kila kilomita mraba
+unitslongunitdigital-megabitpatternothermegabiti {0}
+unitslongunitdigital-megabitpatternonemegabiti {0}
+unitslongunitdigital-megabitdisplayNamemegabiti
+unitslongunitdigital-terabitpatternotherterabiti {0}
+unitslongunitdigital-terabitpatternoneterabiti {0}
+unitslongunitdigital-terabitdisplayNameterabiti
+unitslongunitangle-revolutiondisplayNamemzunguko
+unitslongunitangle-revolutionpatternothermizunguko {0}
+unitslongunitangle-revolutionpatternonemzunguko {0}
+unitslongunitvolume-hectoliterdisplayNamehektolita
+unitslongunitvolume-hectoliterpatternotherhektolita {0}
+unitslongunitvolume-hectoliterpatternonehektolita {0}
+unitslongunitspeed-meter-per-seconddisplayNamemita kwa kila sekunde
+unitslongunitspeed-meter-per-secondpatternonemita {0} kwa sekunde
+unitslongunitspeed-meter-per-secondpatternothermita {0} kwa sekunde
+unitslongunitdigital-bitdisplayNamebiti
+unitslongunitdigital-bitpatternotherbiti {0}
+unitslongunitdigital-bitpatternonebiti {0}
+unitslongunitvolume-pint-metricpatternotherpainti {0} za mizani
+unitslongunitvolume-pint-metricpatternonepainti {0} ya mizani
+unitslongunitvolume-pint-metricdisplayNamepainti za mizani
+unitslongunitlength-micrometerdisplayNamemikromita
+unitslongunitlength-micrometerpatternothermikromita {0}
+unitslongunitlength-micrometerpatternonemikromita {0}
+unitslongunitspeed-knotpatternothernoti {0}
+unitslongunitspeed-knotpatternonenoti {0}
+unitslongunitspeed-knotdisplayNamenoti
+unitslongunitpower-kilowattpatternotherkilowati {0}
+unitslongunitpower-kilowattpatternonekilowati {0}
+unitslongunitpower-kilowattdisplayNamekilowati
+unitslongunitlength-mile-scandinavianpatternonemaili ya skandinavia
+unitslongunitlength-mile-scandinavianpatternother{0} smi
+unitslongunitlength-mile-scandinaviandisplayNamemaili ya skandinavia
+unitslongunitangle-arc-seconddisplayNamesekunde
+unitslongunitangle-arc-secondpatternothersekunde {0}
+unitslongunitangle-arc-secondpatternonesekunde {0}
+unitslongunitvolume-centiliterdisplayNamesentilita
+unitslongunitvolume-centiliterpatternonesentilita {0}
+unitslongunitvolume-centiliterpatternothersentilita {0}
+unitslongunitvolume-tablespoondisplayNamevijiko vikubwa
+unitslongunitvolume-tablespoonpatternothervijiko {0} vikubwa
+unitslongunitvolume-tablespoonpatternonekijiko {0} kikubwa
+unitslongunitarea-square-mileperUnitPattern{0} kwa kila maili mraba
+unitslongunitarea-square-miledisplayNamemaili za mraba
+unitslongunitarea-square-milepatternonemaili {0} ya mraba
+unitslongunitarea-square-milepatternothermaili {0} za mraba
+unitslongunitarea-square-centimeterpatternonesentimita mraba {0}
+unitslongunitarea-square-centimeterpatternothersentimita mraba {0}
+unitslongunitarea-square-centimeterdisplayNamesentimita mraba
+unitslongunitarea-square-centimeterperUnitPattern{0} kwa kila sentimita mraba
+unitslongunitarea-square-footpatternotherfuti {0} za mraba
+unitslongunitarea-square-footpatternonefuti {0} ya mraba
+unitslongunitarea-square-footdisplayNamefuti za mraba
+unitslongunitarea-square-yardpatternoneyadi {0} ya mraba
+unitslongunitarea-square-yardpatternotheryadi {0} za mraba
+unitslongunitarea-square-yarddisplayNameyadi za mraba
+unitslongunitenergy-kilocaloriepatternonekilokalori {0}
+unitslongunitenergy-kilocaloriepatternotherkilokalori {0}
+unitslongunitenergy-kilocaloriedisplayNamekilokalori
+unitslongunittemperature-kelvindisplayNamekelvini
+unitslongunittemperature-kelvinpatternotherkelvini {0}
+unitslongunittemperature-kelvinpatternonekelvini {0}
+unitslongunitmass-tonpatternothertani {0}
+unitslongunitmass-tonpatternonetani {0}
+unitslongunitmass-tondisplayNametani
+unitslongunitlength-nautical-miledisplayNamemaili za kibaharia
+unitslongunitlength-nautical-milepatternonemaili {0} ya kibaharia
+unitslongunitlength-nautical-milepatternothermaili {0} za kibaharia
+unitslongunittemperature-celsiusdisplayNamenyuzi
+unitslongunittemperature-celsiuspatternothernyuzi {0}
+unitslongunittemperature-celsiuspatternonenyuzi {0}
+unitslongunitpressure-atmospherepatternotherkanieneo {0}
+unitslongunitpressure-atmospherepatternonekanieneo {0}
+unitslongunitpressure-atmospheredisplayNamekanieneo ya hewa
+unitslongunitmass-ounceperUnitPattern{0} kwa kila aunsi
+unitslongunitmass-ouncepatternotheraunsi {0}
+unitslongunitmass-ouncepatternoneaunsi {0}
+unitslongunitmass-ouncedisplayNameaunsi
+unitslongunitduration-weekpatternonewiki {0}
+unitslongunitduration-weekpatternotherwiki {0}
+unitslongunitduration-weekdisplayNamewiki
+unitslongunitduration-weekperUnitPattern{0} kwa wiki
+unitslongunitdigital-kilobytedisplayNamekilobaiti
+unitslongunitdigital-kilobytepatternonekilobaiti {0}
+unitslongunitdigital-kilobytepatternotherkilobaiti {0}
+unitslongunitdigital-petabytedisplayNamepetabaiti
+unitslongunitdigital-petabytepatternonepetabaiti {0}
+unitslongunitdigital-petabytepatternotherpetabaiti {0}
+unitslongunitangle-arc-minutepatternotherdakika {0}
+unitslongunitangle-arc-minutepatternonedakika {0}
+unitslongunitangle-arc-minutedisplayNamedakika
+unitslongunitdigital-gigabitdisplayNamegigabiti
+unitslongunitdigital-gigabitpatternothergigabiti {0}
+unitslongunitdigital-gigabitpatternonegigabiti {0}
+unitslongunitvolume-deciliterdisplayNamedesilita
+unitslongunitvolume-deciliterpatternotherdesilita {0}
+unitslongunitvolume-deciliterpatternonedesilita {0}
+unitslongunitconsumption-liter-per-kilometerpatternotherlita {0} kwa kilomita
+unitslongunitconsumption-liter-per-kilometerpatternonelita {0} kwa kilomita
+unitslongunitconsumption-liter-per-kilometerdisplayNamelita kwa kila kilomita
+unitslongunitangle-degreepatternotherdigrii {0}
+unitslongunitangle-degreepatternonedigrii {0}
+unitslongunitangle-degreedisplayNamedigrii
+unitslongunitspeed-mile-per-hourpatternothermaili {0} kwa saa
+unitslongunitspeed-mile-per-hourpatternonemaili {0} kwa saa
+unitslongunitspeed-mile-per-hourdisplayNamemaili kwa kila saa
+unitslongunitconcentr-millimole-per-literpatternothermilimoli {0} kwa kila lita
+unitslongunitconcentr-millimole-per-literpatternonemilimoli {0} kwa kila lita
+unitslongunitconcentr-millimole-per-literdisplayNamemilimoli kwa kila lita
+unitslongunitvolume-cubic-yardpatternotheryadi {0} za ujazo
+unitslongunitvolume-cubic-yardpatternoneyadi {0} ya ujazo
+unitslongunitvolume-cubic-yarddisplayNameyadi za ujazo
+unitslongunitpower-gigawattpatternothergigawati {0}
+unitslongunitpower-gigawattpatternonegigawati {0}
+unitslongunitpower-gigawattdisplayNamegigawati
+unitslongunitlength-astronomical-unitpatternothervipimo {0} vya astronomia
+unitslongunitlength-astronomical-unitpatternonekipimo {0} cha astronomia
+unitslongunitlength-astronomical-unitdisplayNamevipimo vya astronomia
+unitslongunitvolume-cubic-miledisplayNamemaili za ujazo
+unitslongunitvolume-cubic-milepatternothermaili {0} za ujazo
+unitslongunitvolume-cubic-milepatternonemaili {0} ya ujazo
+unitslongunitconcentr-part-per-milliondisplayNameppm
+unitslongunitconcentr-part-per-millionpatternoneppm {0}
+unitslongunitconcentr-part-per-millionpatternotherppm {0}
+unitslongunitdigital-bytepatternonebaiti {0}
+unitslongunitdigital-bytepatternotherbaiti {0}
+unitslongunitdigital-bytedisplayNamebaiti
+unitslongunitdigital-kilobitdisplayNamekilobiti
+unitslongunitdigital-kilobitpatternotherkilobiti {0}
+unitslongunitdigital-kilobitpatternonekilobiti {0}
+unitslongunitmass-ounce-troypatternonetola aunsi {0}
+unitslongunitmass-ounce-troypatternothertola aunsi {0}
+unitslongunitmass-ounce-troydisplayNametola aunsi
+unitslongunitvolume-cuppatternothervikombe {0}
+unitslongunitvolume-cuppatternonekikombe {0}
+unitslongunitvolume-cupdisplayNamevikombe
+unitslongunitconcentr-milligram-per-deciliterpatternothermiligramu {0} kwa kila desilita
+unitslongunitconcentr-milligram-per-deciliterpatternonemiligramu kwa kila desilita
+unitslongunitconcentr-milligram-per-deciliterdisplayNamemiligramu kwa kila desilita
+unitslongunitdigital-gigabytepatternonegigabaiti {0}
+unitslongunitdigital-gigabytepatternothergigabaiti {0}
+unitslongunitdigital-gigabytedisplayNamegigabaiti
+unitslongunitarea-square-meterpatternothermita {0} za mraba
+unitslongunitarea-square-meterpatternonemita {0} ya mraba
+unitslongunitarea-square-meterdisplayNamemita za mraba
+unitslongunitarea-square-meterperUnitPattern{0} kwa kila mita mraba
+unitslongunitvolume-cubic-inchdisplayNameinchi za ujazo
+unitslongunitvolume-cubic-inchpatternoneinchi {0} ya ujazo
+unitslongunitvolume-cubic-inchpatternotherinchi {0} za ujazo
+unitslongunitacceleration-meter-per-second-squareddisplayNamemita kwa kila sekunde mraba
+unitslongunitacceleration-meter-per-second-squaredpatternothermita {0} kwa kila sekunde mraba
+unitslongunitacceleration-meter-per-second-squaredpatternonemita {0} kwa kila sekunde mraba
+unitslongunitacceleration-g-forcepatternonemvuto wa graviti {0}
+unitslongunitacceleration-g-forcepatternothermvuto wa graviti {0}
+unitslongunitacceleration-g-forcedisplayNamemvuto wa graviti
+unitslongunitlight-luxpatternonelux {0}
+unitslongunitlight-luxpatternotherlux {0}
+unitslongunitlight-luxdisplayNamelux
+unitslongunitvolume-cubic-centimeterdisplayNamesentimita za ujazo
+unitslongunitvolume-cubic-centimeterpatternothersentimita {0} za ujazo
+unitslongunitvolume-cubic-centimeterpatternonesentimita {0} ya ujazo
+unitslongunitvolume-cubic-centimeterperUnitPattern{0} kwa kila sentimita ya ujazo
+unitslongunitduration-yearperUnitPattern{0} kwa mwaka
+unitslongunitduration-yeardisplayNamemiaka
+unitslongunitduration-yearpatternonemwaka {0}
+unitslongunitduration-yearpatternothermiaka {0}
+unitslongunitvolume-megaliterdisplayNamemegalita
+unitslongunitvolume-megaliterpatternothermegalita {0}
+unitslongunitvolume-megaliterpatternonemegalita {0}
+unitslongunitfrequency-gigahertzdisplayNamegigahezi
+unitslongunitfrequency-gigahertzpatternonegigahezi {0}
+unitslongunitfrequency-gigahertzpatternothergigahezi {0}
+unitslongcoordinateUnitdisplayNamesehemu kuu za dira
+unitslongcoordinateUnitsouth{0} Kusini
+unitslongcoordinateUnitwest{0} Magharibi
+unitslongcoordinateUniteast{0} Mashariki
+unitslongcoordinateUnitnorth{0} Kaskazini
+unitsshortunittemperature-kelvindisplayNameK
+unitsshortunittemperature-kelvinpatternone{0} K
+unitsshortunittemperature-kelvinpatternother{0} K
+unitsshortunitmass-tonpatternonetani {0}
+unitsshortunitmass-tonpatternothertani {0}
+unitsshortunitmass-tondisplayNametani
+unitsshortunitarea-square-centimeterpatternonecm² {0}
+unitsshortunitarea-square-centimeterpatternothercm² {0}
+unitsshortunitarea-square-centimeterdisplayNamesentimita mraba
+unitsshortunitarea-square-centimeterperUnitPattern{0}/cm²
+unitsshortunitlength-nautical-miledisplayNamemaili za kibaharia
+unitsshortunitlength-nautical-milepatternothermaili {0} za kibaharia
+unitsshortunitlength-nautical-milepatternonemaili {0} ya kibaharia
+unitsshortunitarea-square-footpatternotherft² {0}
+unitsshortunitarea-square-footpatternoneft² {0}
+unitsshortunitarea-square-footdisplayNamefuti za mraba
+unitsshortunitenergy-kilocaloriepatternonekilokalori {0}
+unitsshortunitenergy-kilocaloriepatternotherkilokalori {0}
+unitsshortunitenergy-kilocaloriedisplayNamekilokalori
+unitsshortunitarea-square-yarddisplayNameyadi za mraba
+unitsshortunitarea-square-yardpatternoneyadi {0} ya mraba
+unitsshortunitarea-square-yardpatternotheryadi {0} za mraba
+unitsshortunittemperature-celsiusdisplayNamenyuzi
+unitsshortunittemperature-celsiuspatternone{0}°C
+unitsshortunittemperature-celsiuspatternother{0}°C
+unitsshortunitpressure-atmospherepatternoneatm {0}
+unitsshortunitpressure-atmospherepatternotheratm {0}
+unitsshortunitpressure-atmospheredisplayNameatm
+unitsshortunitduration-weekdisplayNamewiki
+unitsshortunitduration-weekpatternotherwiki {0}
+unitsshortunitduration-weekpatternonewiki {0}
+unitsshortunitduration-weekperUnitPattern{0} kwa wiki
+unitsshortunitmass-ouncepatternoneaunsi {0}
+unitsshortunitmass-ouncepatternotheraunsi {0}
+unitsshortunitmass-ouncedisplayNameaunsi
+unitsshortunitmass-ounceperUnitPattern{0}/oz
+unitsshortunitdigital-kilobytepatternonekilobaiti {0}
+unitsshortunitdigital-kilobytepatternotherkilobaiti {0}
+unitsshortunitdigital-kilobytedisplayNamekilobaiti
+unitsshortunitdigital-petabytepatternonePB {0}
+unitsshortunitdigital-petabytepatternotherPB {0}
+unitsshortunitdigital-petabytedisplayNamepetabaiti
+unitsshortunitangle-arc-minutedisplayNamedakika
+unitsshortunitangle-arc-minutepatternotherdakika {0}
+unitsshortunitangle-arc-minutepatternonedakika {0}
+unitsshortunitdigital-gigabitdisplayNamegigabiti
+unitsshortunitdigital-gigabitpatternothergigabiti {0}
+unitsshortunitdigital-gigabitpatternonegigabiti {0}
+unitsshortunitconsumption-liter-per-kilometerpatternotherlita {0} kwa kilomita
+unitsshortunitconsumption-liter-per-kilometerpatternonelita {0} kwa kilomita
+unitsshortunitconsumption-liter-per-kilometerdisplayNamelita kwa kila kilomita
+unitsshortunitconcentr-millimole-per-literdisplayNamemilimoli kwa kila lita
+unitsshortunitconcentr-millimole-per-literpatternonemmol {0}/lita
+unitsshortunitconcentr-millimole-per-literpatternothermmol {0}/L
+unitsshortunitangle-degreepatternonedigrii {0}
+unitsshortunitangle-degreepatternotherdigrii {0}
+unitsshortunitangle-degreedisplayNamedigrii
+unitsshortunitspeed-mile-per-hourdisplayNamemaili kwa kila saa
+unitsshortunitspeed-mile-per-hourpatternone{0} mph
+unitsshortunitspeed-mile-per-hourpatternother{0} mph
+unitsshortunitvolume-cubic-yardpatternoneyd³ {0}
+unitsshortunitvolume-cubic-yardpatternotheryd³ {0}
+unitsshortunitvolume-cubic-yarddisplayNameyadi za ujazo
+unitsshortunitvolume-deciliterpatternotherdesilita {0}
+unitsshortunitvolume-deciliterpatternonedesilita {0}
+unitsshortunitvolume-deciliterdisplayNamedesilita
+unitsshortunitdigital-kilobitdisplayNamekilobiti
+unitsshortunitdigital-kilobitpatternonekilobiti {0}
+unitsshortunitdigital-kilobitpatternotherkilobiti {0}
+unitsshortunitdigital-bytedisplayNamebaiti
+unitsshortunitdigital-bytepatternonebaiti {0}
+unitsshortunitdigital-bytepatternotherbaiti {0}
+unitsshortunitconcentr-part-per-millionpatternoneppm {0}
+unitsshortunitconcentr-part-per-millionpatternotherppm {0}
+unitsshortunitconcentr-part-per-milliondisplayNameppm
+unitsshortunitlength-astronomical-unitpatternotherau {0}
+unitsshortunitlength-astronomical-unitpatternoneau {0}
+unitsshortunitlength-astronomical-unitdisplayNamevipimo vya astronomia
+unitsshortunitvolume-cubic-milepatternonemi³ {0}
+unitsshortunitvolume-cubic-milepatternothermi³ {0}
+unitsshortunitvolume-cubic-miledisplayNamemaili za ujazo
+unitsshortunitpower-gigawattdisplayNamegigawati
+unitsshortunitpower-gigawattpatternonegigawati {0}
+unitsshortunitpower-gigawattpatternothergigawati {0}
+unitsshortunitmass-ounce-troydisplayNametola aunsi
+unitsshortunitmass-ounce-troypatternothertola aunsi {0}
+unitsshortunitmass-ounce-troypatternonetola aunsi {0}
+unitsshortunitvolume-cupdisplayNamevikombe
+unitsshortunitvolume-cuppatternothervikombe {0}
+unitsshortunitvolume-cuppatternonekikombe {0}
+unitsshortunitacceleration-meter-per-second-squaredpatternonem {0}/s²
+unitsshortunitacceleration-meter-per-second-squaredpatternotherm {0}/s²
+unitsshortunitacceleration-meter-per-second-squareddisplayNamemita kwa kila sekunde mraba
+unitsshortunitarea-square-meterperUnitPattern{0}/m²
+unitsshortunitarea-square-meterdisplayNamemita za mraba
+unitsshortunitarea-square-meterpatternonemita {0} ya mraba
+unitsshortunitarea-square-meterpatternotherm² {0}
+unitsshortunitconcentr-milligram-per-deciliterdisplayNamemg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternone{0} mg/dL
+unitsshortunitconcentr-milligram-per-deciliterpatternother{0} mg/dL
+unitsshortunitdigital-gigabytepatternotherGB {0}
+unitsshortunitdigital-gigabytepatternoneGB {0}
+unitsshortunitdigital-gigabytedisplayNameGB
+unitsshortunitvolume-cubic-inchdisplayNameinchi za ujazo
+unitsshortunitvolume-cubic-inchpatternonein³ {0}
+unitsshortunitvolume-cubic-inchpatternotherin³ {0}
+unitsshortunitvolume-cubic-centimeterdisplayNamesentimita za ujazo
+unitsshortunitvolume-cubic-centimeterpatternothercm³ {0}
+unitsshortunitvolume-cubic-centimeterpatternonecm³ {0}
+unitsshortunitvolume-cubic-centimeterperUnitPattern{0}/cm³
+unitsshortunitvolume-megaliterdisplayNamemegalita
+unitsshortunitvolume-megaliterpatternothermegalita {0}
+unitsshortunitvolume-megaliterpatternonemegalita {0}
+unitsshortunitlight-luxdisplayNamelux
+unitsshortunitlight-luxpatternonelx {0}
+unitsshortunitlight-luxpatternotherlx {0}
+unitsshortunitacceleration-g-forcepatternoneG {0}
+unitsshortunitacceleration-g-forcepatternotherG {0}
+unitsshortunitacceleration-g-forcedisplayNamemvuto wa graviti
+unitsshortunitfrequency-gigahertzpatternonegigahezi {0}
+unitsshortunitfrequency-gigahertzpatternothergigahezi {0}
+unitsshortunitfrequency-gigahertzdisplayNamegigahezi
+unitsshortunitduration-yeardisplayNamemiaka
+unitsshortunitduration-yearpatternonemwaka {0}
+unitsshortunitduration-yearpatternothermiaka {0}
+unitsshortunitduration-yearperUnitPattern{0} kwa mwaka
+unitsshortunitlength-footpatternotherfuti {0}
+unitsshortunitlength-footpatternonefuti {0}
+unitsshortunitlength-footdisplayNamefuti
+unitsshortunitlength-footperUnitPattern{0} kwa kila futi
+unitsshortunitmass-metric-tonpatternonetani mita {0}
+unitsshortunitmass-metric-tonpatternothertani mita {0}
+unitsshortunitmass-metric-tondisplayNametani mita
+unitsshortunitenergy-foodcaloriedisplayNamekalori
+unitsshortunitenergy-foodcaloriepatternotherkalori {0}
+unitsshortunitenergy-foodcaloriepatternonekalori {0}
+unitsshortunitarea-acrepatternoneekari {0}
+unitsshortunitarea-acrepatternotherekari {0}
+unitsshortunitarea-acredisplayNameekari
+unitsshortunitlength-meterperUnitPattern{0} kwa kila mita
+unitsshortunitlength-meterpatternothermita {0}
+unitsshortunitlength-meterpatternonemita {0}
+unitsshortunitlength-meterdisplayNamemita
+unitsshortunitpower-horsepowerpatternother{0} hp
+unitsshortunitpower-horsepowerpatternone{0} hp
+unitsshortunitpower-horsepowerdisplayNamekipimo cha hospawa
+unitsshortunitpressure-hectopascalpatternonehPa {0}
+unitsshortunitpressure-hectopascalpatternotherhPa {0}
+unitsshortunitpressure-hectopascaldisplayNamehektopaskali
+unitsshortunitvolume-teaspoondisplayNamevijiko vidogo
+unitsshortunitvolume-teaspoonpatternonekijiko {0} kidogo
+unitsshortunitvolume-teaspoonpatternothervijiko {0} vidogo
+unitsshortunitmass-gramperUnitPattern{0} kwa kila gramu
+unitsshortunitmass-grampatternothergramu {0}
+unitsshortunitmass-grampatternonegramu {0}
+unitsshortunitmass-gramdisplayNamegramu
+unitsshortunitduration-hourpatternonesaa {0}
+unitsshortunitduration-hourpatternothersaa {0}
+unitsshortunitduration-hourdisplayNamesaa
+unitsshortunitduration-hourperUnitPattern{0} kwa saa
+unitsshortunitlength-picometerdisplayNamepikomita
+unitsshortunitlength-picometerpatternotherpikomita {0}
+unitsshortunitlength-picometerpatternonepikomita {0}
+unitsshortunitenergy-kilojouledisplayNamekilojuli
+unitsshortunitenergy-kilojoulepatternonekilojuli {0}
+unitsshortunitenergy-kilojoulepatternotherkilojuli {0}
+unitsshortunitconsumption-liter-per-100kilometerspatternotherlita {0}/km100
+unitsshortunitconsumption-liter-per-100kilometerspatternonelita {0} kwa kilomita 100
+unitsshortunitconsumption-liter-per-100kilometersdisplayNamelita kwa kilomita 100
+unitsshortunitlength-decimeterdisplayNamedesimita
+unitsshortunitlength-decimeterpatternotherdesimita {0}
+unitsshortunitlength-decimeterpatternonedesimita {0}
+unitsshortunitmass-pounddisplayNameratili
+unitsshortunitmass-poundpatternoneratili {0}
+unitsshortunitmass-poundpatternotherratili {0}
+unitsshortunitmass-poundperUnitPattern{0}/lb
+unitsshortunitenergy-jouledisplayNamejouli
+unitsshortunitenergy-joulepatternotherjouli {0}
+unitsshortunitenergy-joulepatternonejouli {0}
+unitsshortunitlength-nanometerdisplayNamenanomita
+unitsshortunitlength-nanometerpatternonenanomita {0}
+unitsshortunitlength-nanometerpatternothernanomita {0}
+unitsshortunitmass-milligrampatternonemg {0}
+unitsshortunitmass-milligrampatternothermg {0}
+unitsshortunitmass-milligramdisplayNamemiligramu
+unitsshortunitpressure-inch-hgpatternother{0} inHg
+unitsshortunitpressure-inch-hgpatternone{0} inHg
+unitsshortunitpressure-inch-hgdisplayNameinchi za zebaki
+unitsshortunitmass-caratdisplayNamekarati
+unitsshortunitmass-caratpatternonekarati {0}
+unitsshortunitmass-caratpatternotherkarati {0}
+unitsshortunitdigital-megabitpatternothermegabiti {0}
+unitsshortunitdigital-megabitpatternonemegabiti {0}
+unitsshortunitdigital-megabitdisplayNameMb
+unitsshortunitarea-square-kilometerdisplayNamekilomita za mraba
+unitsshortunitarea-square-kilometerpatternonekm² {0}
+unitsshortunitarea-square-kilometerpatternotherkm² {0}
+unitsshortunitarea-square-kilometerperUnitPattern{0}/km²
+unitsshortunitdigital-terabitdisplayNameterabiti
+unitsshortunitdigital-terabitpatternotherterabiti {0}
+unitsshortunitdigital-terabitpatternoneterabiti {0}
+unitsshortunitvolume-acre-footdisplayNameekari futi
+unitsshortunitvolume-acre-footpatternoneekari futi {0}
+unitsshortunitvolume-acre-footpatternotherekari futi {0}
+unitsshortunitvolume-pint-metricpatternonempt {0}
+unitsshortunitvolume-pint-metricpatternothermpt {0}
+unitsshortunitvolume-pint-metricdisplayNamepainti za mizani
+unitsshortunitvolume-hectoliterpatternotherhektolita {0}
+unitsshortunitvolume-hectoliterpatternonehektolita {0}
+unitsshortunitvolume-hectoliterdisplayNamehektolita
+unitsshortunitspeed-meter-per-secondpatternother{0} m/s
+unitsshortunitspeed-meter-per-secondpatternone{0} m/s
+unitsshortunitspeed-meter-per-seconddisplayNamemita kwa kila sekunde
+unitsshortunitangle-revolutiondisplayNamemzunguko
+unitsshortunitangle-revolutionpatternonemzunguko {0}
+unitsshortunitangle-revolutionpatternothermizunguko {0}
+unitsshortunitdigital-bitdisplayNamebiti
+unitsshortunitdigital-bitpatternonebiti {0}
+unitsshortunitdigital-bitpatternotherbiti {0}
+unitsshortunitspeed-knotdisplayNamenoti
+unitsshortunitspeed-knotpatternothernoti {0}
+unitsshortunitspeed-knotpatternonenoti {0}
+unitsshortunitpower-kilowattdisplayNamekilowati
+unitsshortunitpower-kilowattpatternotherkilowati {0}
+unitsshortunitpower-kilowattpatternonekilowati {0}
+unitsshortunitlength-micrometerpatternonemikromita {0}
+unitsshortunitlength-micrometerpatternothermikromita {0}
+unitsshortunitlength-micrometerdisplayNamemikromita
+unitsshortunitlength-mile-scandinavianpatternother{0} smi
+unitsshortunitlength-mile-scandinavianpatternone{0} smi
+unitsshortunitlength-mile-scandinaviandisplayNamesmi
+unitsshortunitvolume-centiliterdisplayNamesentilita
+unitsshortunitvolume-centiliterpatternonesentilita {0}
+unitsshortunitvolume-centiliterpatternothersentilita {0}
+unitsshortunitangle-arc-secondpatternothersekunde {0}
+unitsshortunitangle-arc-secondpatternonesekunde {0}
+unitsshortunitangle-arc-seconddisplayNamesekunde
+unitsshortunitarea-square-mileperUnitPattern{0}/mi²
+unitsshortunitarea-square-milepatternonemaili {0} ya mraba
+unitsshortunitarea-square-milepatternothermaili {0} za mraba
+unitsshortunitarea-square-miledisplayNamemaili za mraba
+unitsshortunitvolume-tablespoonpatternothervijiko {0} vikubwa
+unitsshortunitvolume-tablespoonpatternonekijiko {0} kikubwa
+unitsshortunitvolume-tablespoondisplayNamevijiko vikubwa
+unitsshortunitpressure-millibarpatternonembar {0}
+unitsshortunitpressure-millibarpatternothermbar {0}
+unitsshortunitpressure-millibardisplayNamekipimo cha milibari
+unitsshortunitdigital-megabytedisplayNameMB
+unitsshortunitdigital-megabytepatternotherMB {0}
+unitsshortunitdigital-megabytepatternoneMB {0}
+unitsshortunitarea-square-inchperUnitPattern{0}/in²
+unitsshortunitarea-square-inchdisplayNameinchi za mraba
+unitsshortunitarea-square-inchpatternonein² {0}
+unitsshortunitarea-square-inchpatternotherin² {0}
+unitsshortunitelectric-voltpatternothervolti {0}
+unitsshortunitelectric-voltpatternonevolti {0}
+unitsshortunitelectric-voltdisplayNamevolti
+unitsshortunitconcentr-percentdisplayNameasilimia
+unitsshortunitconcentr-percentpatternotherasilimia {0}
+unitsshortunitconcentr-percentpatternoneasilimia {0}
+unitsshortunitlength-miledisplayNamemaili
+unitsshortunitlength-milepatternonemaili {0}
+unitsshortunitlength-milepatternothermaili {0}
+unitsshortunitspeed-kilometer-per-hourpatternotherkm {0}/saa
+unitsshortunitspeed-kilometer-per-hourpatternonekm {0}/saa
+unitsshortunitspeed-kilometer-per-hourdisplayNamekilomita kwa saa
+unitsshortunitvolume-cubic-footdisplayNamefuti za ujazo
+unitsshortunitvolume-cubic-footpatternoneft³ {0}
+unitsshortunitvolume-cubic-footpatternotherft³ {0}
+unitsshortunitarea-hectarepatternonehekta {0}
+unitsshortunitarea-hectarepatternotherhekta {0}
+unitsshortunitarea-hectaredisplayNamehekta
+unitsshortunitmass-kilogramperUnitPattern{0}/kg
+unitsshortunitmass-kilogramdisplayNamekilogramu
+unitsshortunitmass-kilogrampatternotherkg {0}
+unitsshortunitmass-kilogrampatternonekg {0}
+unitsshortunitfrequency-megahertzpatternonemegahezi {0}
+unitsshortunitfrequency-megahertzpatternothermegahezi {0}
+unitsshortunitfrequency-megahertzdisplayNamemegahezi
+unitsshortunitlength-yarddisplayNameyadi
+unitsshortunitlength-yardpatternoneyadi {0}
+unitsshortunitlength-yardpatternotheryadi {0}
+unitsshortunitmass-microgramdisplayNamemikrogramu
+unitsshortunitmass-microgrampatternothermikrogramu {0}
+unitsshortunitmass-microgrampatternonemikrogramu {0}
+unitsshortunitduration-milliseconddisplayNamemillisekunde
+unitsshortunitduration-millisecondpatternothermillisekunde {0}
+unitsshortunitduration-millisecondpatternonemillisekunde {0}
+unitsshortunitconcentr-karatpatternotherkarati {0}
+unitsshortunitconcentr-karatpatternonekarati {0}
+unitsshortunitconcentr-karatdisplayNamekarati
+unitsshortunitvolume-fluid-ouncedisplayNameaunsi za ujazo
+unitsshortunitvolume-fluid-ouncepatternonefl oz {0}
+unitsshortunitvolume-fluid-ouncepatternotherfl oz {0}
+unitsshortunittemperature-genericpatternone{0}°
+unitsshortunittemperature-genericpatternother{0}°
+unitsshortunittemperature-genericdisplayName°
+unitsshortunitduration-nanosecondpatternothernanosekunde {0}
+unitsshortunitduration-nanosecondpatternonenanosekunde {0}
+unitsshortunitduration-nanoseconddisplayNamenanosekunde
+unitsshortunitlength-inchperUnitPattern{0} kwa kila inchi
+unitsshortunitlength-inchpatternotherinchi {0}
+unitsshortunitlength-inchpatternoneinchi {0}
+unitsshortunitlength-inchdisplayNameinchi
+unitsshortunitenergy-caloriedisplayNamekalori
+unitsshortunitenergy-caloriepatternonekalori {0}
+unitsshortunitenergy-caloriepatternotherkalori {0}
+unitsshortunittemperature-fahrenheitdisplayNamenyuzi za farenheiti
+unitsshortunittemperature-fahrenheitpatternone{0}°F
+unitsshortunittemperature-fahrenheitpatternother{0}°F
+unitsshortunitlength-centimeterdisplayNamesentimita
+unitsshortunitlength-centimeterpatternonesentimita {0}
+unitsshortunitlength-centimeterpatternothersentimita {0}
+unitsshortunitlength-centimeterperUnitPattern{0} kwa kila sentimita
+unitsshortunitlength-light-yearpatternotherly {0}
+unitsshortunitlength-light-yearpatternonely {0}
+unitsshortunitlength-light-yeardisplayNamemiaka ya mwanga
+unitsshortunitvolume-cup-metricdisplayNamevikombe vya mizani
+unitsshortunitvolume-cup-metricpatternonemc {0}
+unitsshortunitvolume-cup-metricpatternothervikombe {0} vya mizani
+unitsshortunitpower-milliwattdisplayNamemiliwati
+unitsshortunitpower-milliwattpatternothermiliwati {0}
+unitsshortunitpower-milliwattpatternonemiliwati {0}
+unitsshortunitlength-pointpatternotherpointi {0}
+unitsshortunitlength-pointpatternonepointi {0}
+unitsshortunitlength-pointdisplayNamepointi
+unitsshortunitpressure-millimeter-of-mercurypatternother{0} mm Hg
+unitsshortunitpressure-millimeter-of-mercurypatternonemilimita {0} ya zebaki
+unitsshortunitpressure-millimeter-of-mercurydisplayNamemilimita za zebaki
+unitsshortunitelectric-milliamperepatternone{0} mA
+unitsshortunitelectric-milliamperepatternother{0} mA
+unitsshortunitelectric-milliamperedisplayNamemiliampea
+unitsshortunitvolume-literperUnitPattern{0} kwa kila lita
+unitsshortunitvolume-literpatternotherlita {0}
+unitsshortunitvolume-literpatternonelita {0}
+unitsshortunitvolume-literdisplayNamelita
+unitsshortunitconsumption-mile-per-gallonpatternone{0} mpg
+unitsshortunitconsumption-mile-per-gallonpatternother{0} mpg
+unitsshortunitconsumption-mile-per-gallondisplayNamemaili kwa kila galoni
+unitsshortunitvolume-pintdisplayNamepainti
+unitsshortunitvolume-pintpatternonepainti {0}
+unitsshortunitvolume-pintpatternotherpainti {0}
+unitsshortunitvolume-cubic-kilometerpatternonekm³ {0}
+unitsshortunitvolume-cubic-kilometerpatternotherkm³ {0}
+unitsshortunitvolume-cubic-kilometerdisplayNamekilomita za ujazo
+unitsshortunitvolume-cubic-meterdisplayNamemita za ujazo
+unitsshortunitvolume-cubic-meterpatternonem³ {0}
+unitsshortunitvolume-cubic-meterpatternothermita {0} za ujazo
+unitsshortunitvolume-cubic-meterperUnitPattern{0}/m³
+unitsshortunitvolume-gallon-imperialperUnitPattern{0}/gal Imp.
+unitsshortunitvolume-gallon-imperialpatternone{0} gal Imp.
+unitsshortunitvolume-gallon-imperialpatternother{0} gal Imp.
+unitsshortunitvolume-gallon-imperialdisplayNameImp. gal
+unitsshortunitduration-centurydisplayNamekarne
+unitsshortunitduration-centurypatternotherkarne {0}
+unitsshortunitduration-centurypatternonekarne {0}
+unitsshortunitduration-monthperUnitPattern{0} kwa mwezi
+unitsshortunitduration-monthpatternonemwezi {0}
+unitsshortunitduration-monthpatternothermiezi {0}
+unitsshortunitduration-monthdisplayNamemiezi
+unitsshortunitelectric-amperepatternoneampea {0}
+unitsshortunitelectric-amperepatternotherampea {0}
+unitsshortunitelectric-amperedisplayNameampea
+unitsshortunitduration-minuteperUnitPattern{0} kwa kila dakika
+unitsshortunitduration-minutedisplayNamedakika
+unitsshortunitduration-minutepatternonedakika {0}
+unitsshortunitduration-minutepatternotherdakika {0}
+unitsshortunitduration-secondpatternothersekunde {0}
+unitsshortunitduration-secondpatternonesekunde {0}
+unitsshortunitduration-seconddisplayNamesekunde
+unitsshortunitduration-secondperUnitPattern{0} kwa kila sekunde
+unitsshortunitlength-parsecpatternone{0} pc
+unitsshortunitlength-parsecpatternother{0} pc
+unitsshortunitlength-parsecdisplayNamekila sekunde
+unitsshortunitlength-millimeterdisplayNamemilimita
+unitsshortunitlength-millimeterpatternonemilimita {0}
+unitsshortunitlength-millimeterpatternothermilimita {0}
+unitsshortunitpressure-pound-per-square-inchdisplayNamepauni kwa kila inchi mraba
+unitsshortunitpressure-pound-per-square-inchpatternotherpsi {0}
+unitsshortunitpressure-pound-per-square-inchpatternonepsi {0}
+unitsshortunitfrequency-kilohertzdisplayNamekilohezi
+unitsshortunitfrequency-kilohertzpatternotherkilohezi {0}
+unitsshortunitfrequency-kilohertzpatternonekilohezi {0}
+unitsshortunitconsumption-mile-per-gallon-imperialdisplayNamempg Imp.
+unitsshortunitconsumption-mile-per-gallon-imperialpatternother{0} mpg Imp.
+unitsshortunitconsumption-mile-per-gallon-imperialpatternone{0} mpg Imp.
+unitsshortunitduration-daydisplayNamesiku
+unitsshortunitduration-daypatternonesiku {0}
+unitsshortunitduration-daypatternothersiku {0}
+unitsshortunitduration-dayperUnitPattern{0} kwa siku
+unitsshortunitdigital-terabytedisplayNameterabaiti
+unitsshortunitdigital-terabytepatternotherterabaiti {0}
+unitsshortunitdigital-terabytepatternoneterabaiti {0}
+unitsshortunitvolume-milliliterdisplayNamemililita
+unitsshortunitvolume-milliliterpatternonemililita {0}
+unitsshortunitvolume-milliliterpatternothermililita {0}
+unitsshortunitvolume-gallonperUnitPattern{0}/gal
+unitsshortunitvolume-gallondisplayNamegaloni
+unitsshortunitvolume-gallonpatternothergaloni {0}
+unitsshortunitvolume-gallonpatternonegaloni {0}
+unitsshortunitpower-megawattdisplayNamemegawati
+unitsshortunitpower-megawattpatternothermegawati {0}
+unitsshortunitpower-megawattpatternonemegawati {0}
+unitsshortunitelectric-ohmpatternone{0} Ω
+unitsshortunitelectric-ohmpatternother{0} Ω
+unitsshortunitelectric-ohmdisplayNameohm
+unitsshortunitlength-kilometerperUnitPattern{0} kwa kila kilomita
+unitsshortunitlength-kilometerpatternonekm {0}
+unitsshortunitlength-kilometerpatternotherkm {0}
+unitsshortunitlength-kilometerdisplayNamekilomita
+unitsshortunitangle-radianpatternoneradiani {0}
+unitsshortunitangle-radianpatternotherradiani {0}
+unitsshortunitangle-radiandisplayNameradiani
+unitsshortunitpower-wattdisplayNamewati
+unitsshortunitpower-wattpatternotherwati {0}
+unitsshortunitpower-wattpatternonewati {0}
+unitsshortunitfrequency-hertzdisplayNamehezi
+unitsshortunitfrequency-hertzpatternonehezi {0}
+unitsshortunitfrequency-hertzpatternotherhezi {0}
+unitsshortunitvolume-quartpatternonekwati {0}
+unitsshortunitvolume-quartpatternotherkwati {0}
+unitsshortunitvolume-quartdisplayNamekwati
+unitsshortunitenergy-kilowatt-hourdisplayNamekilowati kwa saa
+unitsshortunitenergy-kilowatt-hourpatternother{0} kWh
+unitsshortunitenergy-kilowatt-hourpatternone{0} kWh
+unitsshortunitduration-microseconddisplayNamemikrosekunde
+unitsshortunitduration-microsecondpatternothermikrosekunde {0}
+unitsshortunitduration-microsecondpatternonemikrosekunde {0}
+unitsshortunitconcentr-permilledisplayNamekwa elfu
+unitsshortunitconcentr-permillepatternother{0} kwa elfu
+unitsshortunitconcentr-permillepatternone{0} kwa elfu
+unitsshortcompoundUnitperpattern{0}/{1}
+unitsshortcoordinateUnitdisplayNamemwelekeo
+unitsshortcoordinateUnitnorth{0} Kaskazini
+unitsshortcoordinateUniteast{0} Mashariki
+unitsshortcoordinateUnitsouth{0} Kusini
+unitsshortcoordinateUnitwest{0} Magharibi
+unitsnarrowunitduration-monthpatternonemwezi {0}
+unitsnarrowunitduration-monthpatternothermiezi {0}
+unitsnarrowunitduration-monthdisplayNamemwezi
+unitsnarrowunitduration-secondpatternonesekunde {0}
+unitsnarrowunitduration-secondpatternothersekunde {0}
+unitsnarrowunitduration-seconddisplayNamesekunde
+unitsnarrowunitduration-minutepatternotherdakika {0}
+unitsnarrowunitduration-minutepatternonedakika {0}
+unitsnarrowunitduration-minutedisplayNamedakika
+unitsnarrowunitvolume-cubic-kilometerpatternotherkm³ {0}
+unitsnarrowunitvolume-cubic-kilometerpatternonekm³ {0}
+unitsnarrowunitlength-kilometerpatternonekm {0}
+unitsnarrowunitlength-kilometerpatternotherkm {0}
+unitsnarrowunitlength-kilometerdisplayNamekm
+unitsnarrowunitpower-wattdisplayNamewati
+unitsnarrowunitpower-wattpatternoneWati {0}
+unitsnarrowunitpower-wattpatternotherWati {0}
+unitsnarrowunitlength-millimeterpatternone{0} mm
+unitsnarrowunitlength-millimeterpatternother{0} mm
+unitsnarrowunitlength-millimeterdisplayNamemilimita
+unitsnarrowunitduration-daypatternonesiku {0}
+unitsnarrowunitduration-daypatternothersiku {0}
+unitsnarrowunitduration-daydisplayNamesiku
+unitsnarrowunitduration-milliseconddisplayNamemillisekunde
+unitsnarrowunitduration-millisecondpatternotherms {0}
+unitsnarrowunitduration-millisecondpatternonems {0}
+unitsnarrowunitlength-yardpatternoneYadi {0}
+unitsnarrowunitlength-yardpatternotherYadi {0}
+unitsnarrowunitlength-inchpatternoneInchi {0}
+unitsnarrowunitlength-inchpatternotherInchi {0}
+unitsnarrowunitlength-inchdisplayNameInchi
+unitsnarrowunitarea-hectarepatternoneha {0}
+unitsnarrowunitarea-hectarepatternotherha {0}
+unitsnarrowunitelectric-voltdisplayNamevolti
+unitsnarrowunitconcentr-percentdisplayNameasilimia
+unitsnarrowunitconcentr-percentpatternotherasilimia {0}
+unitsnarrowunitconcentr-percentpatternoneasilimia {0}
+unitsnarrowunitlength-milepatternoneMaili {0}
+unitsnarrowunitlength-milepatternotherMaili {0}
+unitsnarrowunitmass-kilogramdisplayNamekilogramu
+unitsnarrowunitmass-kilogrampatternotherkg {0}
+unitsnarrowunitmass-kilogrampatternonekg {0}
+unitsnarrowunitpressure-millibarpatternothermbar {0}
+unitsnarrowunitpressure-millibarpatternonembar {0}
+unitsnarrowunitspeed-kilometer-per-hourpatternotherkm {0}/saa
+unitsnarrowunitspeed-kilometer-per-hourpatternonekm {0}/saa
+unitsnarrowunitspeed-kilometer-per-hourdisplayNamekilomita kwa saa
+unitsnarrowunitvolume-literdisplayNamelita
+unitsnarrowunitvolume-literpatternonelita {0}
+unitsnarrowunitvolume-literpatternotherlita {0}
+unitsnarrowunitlength-light-yearpatternotherly {0}
+unitsnarrowunitlength-light-yearpatternonely {0}
+unitsnarrowunittemperature-fahrenheitpatternother{0}°F
+unitsnarrowunittemperature-fahrenheitpatternone{0}°F
+unitsnarrowunitlength-centimeterpatternother{0} cm
+unitsnarrowunitlength-centimeterpatternone{0} cm
+unitsnarrowunitlength-centimeterdisplayNamesentimita
+unitsnarrowunitmass-grampatternothergramu {0}
+unitsnarrowunitmass-grampatternonegramu {0}
+unitsnarrowunitmass-gramdisplayNamegramu
+unitsnarrowunitlength-picometerpatternonepm {0}
+unitsnarrowunitlength-picometerpatternotherpm {0}
+unitsnarrowunitconsumption-liter-per-100kilometersdisplayNamelita kwa kilomita 100
+unitsnarrowunitconsumption-liter-per-100kilometerspatternother{0}L/100km
+unitsnarrowunitconsumption-liter-per-100kilometerspatternone{0}L/100km
+unitsnarrowunitduration-hourdisplayNamesaa
+unitsnarrowunitduration-hourpatternonesaa {0}
+unitsnarrowunitduration-hourpatternothersaa {0}
+unitsnarrowunitpressure-hectopascalpatternotherhPa {0}
+unitsnarrowunitpressure-hectopascalpatternonehPa {0}
+unitsnarrowunitlength-footpatternotherFuti {0}
+unitsnarrowunitlength-footpatternoneFuti {0}
+unitsnarrowunitpower-horsepowerpatternonehp {0}
+unitsnarrowunitpower-horsepowerpatternotherhp {0}
+unitsnarrowunitarea-acrepatternotherEkari {0}
+unitsnarrowunitarea-acrepatternoneEkari {0}
+unitsnarrowunitlength-meterpatternonemita {0}
+unitsnarrowunitlength-meterpatternothermita {0}
+unitsnarrowunitlength-meterdisplayNamemita
+unitsnarrowunitpower-kilowattpatternotherkW {0}
+unitsnarrowunitpower-kilowattpatternonekW {0}
+unitsnarrowunitarea-square-milepatternonemi² {0}
+unitsnarrowunitarea-square-milepatternothermi² {0}
+unitsnarrowunitangle-arc-secondpatternone{0}″
+unitsnarrowunitangle-arc-secondpatternother{0}″
+unitsnarrowunitspeed-meter-per-secondpatternotherm {0}/s
+unitsnarrowunitspeed-meter-per-secondpatternonem {0}/s
+unitsnarrowunitpressure-inch-hgpatternother{0} inHg
+unitsnarrowunitpressure-inch-hgpatternone{0} inHg
+unitsnarrowunitmass-poundpatternoneRatili {0}
+unitsnarrowunitmass-poundpatternotherRatili {0}
+unitsnarrowunitarea-square-kilometerpatternotherkm² {0}
+unitsnarrowunitarea-square-kilometerpatternonekm² {0}
+unitsnarrowunitangle-degreepatternone{0}°
+unitsnarrowunitangle-degreepatternother{0}°
+unitsnarrowunitduration-weekdisplayNamewiki
+unitsnarrowunitduration-weekpatternonewiki {0}
+unitsnarrowunitduration-weekpatternotherwiki {0}
+unitsnarrowunitmass-ouncepatternotherAunsi {0}
+unitsnarrowunitmass-ouncepatternoneAunsi {0}
+unitsnarrowunitangle-arc-minutepatternother{0}′
+unitsnarrowunitangle-arc-minutepatternone{0}′
+unitsnarrowunittemperature-celsiusdisplayName°C
+unitsnarrowunittemperature-celsiuspatternother{0}°C
+unitsnarrowunittemperature-celsiuspatternone{0}°C
+unitsnarrowunitspeed-mile-per-hourpatternonemi {0}/saa
+unitsnarrowunitspeed-mile-per-hourpatternothermi {0}/saa
+unitsnarrowunitarea-square-footpatternotherft² {0}
+unitsnarrowunitarea-square-footpatternoneft² {0}
+unitsnarrowunitarea-square-meterpatternonem² {0}
+unitsnarrowunitarea-square-meterpatternotherm² {0}
+unitsnarrowunitduration-yeardisplayNamemwaka
+unitsnarrowunitduration-yearpatternonemwaka {0}
+unitsnarrowunitduration-yearpatternothermiaka {0}
+unitsnarrowunitacceleration-g-forcepatternoneG {0}
+unitsnarrowunitacceleration-g-forcepatternotherG {0}
+unitsnarrowunitvolume-cubic-milepatternothermi³ {0}
+unitsnarrowunitvolume-cubic-milepatternonemi³ {0}
+unitsnarrowcompoundUnitperpattern{0}/{1}
+unitsnarrowcoordinateUnitdisplayNamemwelekeo
+unitsnarrowcoordinateUnitwest{0} Magharibi
+unitsnarrowcoordinateUnitsouth{0} Kusini
+unitsnarrowcoordinateUniteast{0} Mashariki
+unitsnarrowcoordinateUnitnorth{0} Kaskazini
+typographicNamesfeatureNamefracvipande mshazari
+typographicNamesfeatureNamepnumnambari zenye uwiano
+typographicNamesfeatureNamelnumnambari zinazolingana kwenye mstari
+typographicNamesfeatureNametnumnambari zenye mpangilio
+typographicNamesfeatureNamedligherufi zilizounganishwa (za hiari)
+typographicNamesfeatureNamesmcpherufi kubwa ndogo
+typographicNamesfeatureNameonumnambari zisizolingana kwenye mstari
+typographicNamesfeatureNamezerosifuri iliyokatwa kati
+typographicNamesfeatureNameafrcvipande wima
+typographicNamesfeatureNamecpspnafasi kati ya herufi kubwa
+typographicNamesfeatureNameordnnambari za mpango
+typographicNamesstyleNameital1standardmwandiko ulioviringwa
+typographicNamesstyleNamewdth112.5standardyaliyopanuliwa kidogo
+typographicNamesstyleNamewdth112.5widemapana kidogo
+typographicNamesstyleNamewdth112.5extendedyaliyovutwa kidogo
+typographicNamesstyleNamewdth150extendedyaliyovutwa sana
+typographicNamesstyleNamewdth150standardyaliyopanuliwa sana
+typographicNamesstyleNamewdth150widemapana sana
+typographicNamesstyleNamewdth200standardyaliyopanuliwa zaidi
+typographicNamesstyleNamewdth200widemapana zaidi
+typographicNamesstyleNamewdth200extendedyaliyovutwa zaidi
+typographicNamesstyleNamewdth125extendedyaliyovutwa
+typographicNamesstyleNamewdth125widepana
+typographicNamesstyleNamewdth125standardyaliyopanuliwa
+typographicNamesstyleNamewdth87.5compressedyaliyoshikamana kidogo
+typographicNamesstyleNamewdth87.5standardyaliyofupishwa kidogo
+typographicNamesstyleNamewdth87.5narrownyembamba kidogo
+typographicNamesstyleNamewdth62.5compressedyaliyoshikamana sana
+typographicNamesstyleNamewdth62.5narrownyembamba sana
+typographicNamesstyleNamewdth62.5standardyaliyofupishwa sana
+typographicNamesstyleNamewdth75compressedyaliyoshikamana
+typographicNamesstyleNamewdth75narrowyaliyoshikamana
+typographicNamesstyleNamewdth75standardyaliyofupishwa
+typographicNamesstyleNamewdth50narrownyembamba zaidi
+typographicNamesstyleNamewdth50standardyaliyofupishwa zaidi
+typographicNamesstyleNamewdth50compressedyaliyoshikana zaidi
+typographicNamesstyleNamewdth100standardkawaida
+typographicNamesstyleNameopsz8standardmanukuu
+typographicNamesstyleNameopsz72standardskrini | mwonekano
+typographicNamesstyleNameopsz12standardmaandishi
+typographicNamesstyleNameopsz144standardbango
+typographicNamesstyleNameopsz18standardyanayoinama
+typographicNamesstyleNamewght380standardkitabu
+typographicNamesstyleNamewght700standardmazito
+typographicNamesstyleNamewght400standardkawaida
+typographicNamesstyleNamewght200ultramepesi zaidi
+typographicNamesstyleNamewght200standardmepesi sana
+typographicNamesstyleNamewght500standardwastani
+typographicNamesstyleNamewght350standardmepesi kidogo
+typographicNamesstyleNamewght900heavynzito
+typographicNamesstyleNamewght900standardnyeusi
+typographicNamesstyleNamewght800standardmazito sana
+typographicNamesstyleNamewght950standardnyeusi sana
+typographicNamesstyleNamewght950ultraheavynzito zaidi
+typographicNamesstyleNamewght950ultrablacknyeusi zaidi
+typographicNamesstyleNamewght600standardmazito kidogo
+typographicNamesstyleNamewght600demimazito kiasi
+typographicNamesstyleNamewght300standardmepesi
+typographicNamesstyleNamewght100standardnyembamba
+typographicNamesstyleNameslnt0standardyaliyosimama
+typographicNamesstyleNameslnt24standardyaliyoinama zaidi
+typographicNamesstyleNameslnt-12standardyanayoinama nyuma
+typographicNamesstyleNameslnt12standardyaliyoinama
+typographicNamesaxisNamewghtuzito
+typographicNamesaxisNameopszukubwa unaofaa
+typographicNamesaxisNameslntmwinamo
+typographicNamesaxisNameitalitaliki
+typographicNamesaxisNamewdthupana
+characterLabelslabelsweatherhali ya hewa
+characterLabelslabelsbodymwili
+characterLabelslabelsanimals_naturewanyama au ulimwengu
+characterLabelslabelsphonetic_alphabetabjadi za fonetiki
+characterLabelslabelsfood_drinkvyakula na vinywaji
+characterLabelslabelssymbolsalama
+characterLabelslabelssign_standard_symbolsishara au alama
+characterLabelslabelseuropean_scriptshati za Ulaya
+characterLabelslabelsdownwards_arrowsmishale inayoelekea chini
+characterLabelslabelshanzi_simplifiedhanzi (iliyosanifishwa)
+characterLabelslabelskeycapkitufe
+characterLabelslabelsemojiemoji
+characterLabelslabelspairedimeoanishwa
+characterLabelslabelsarrowsmishale
+characterLabelslabelsideographic_desc_charactersherufi za maelezo ya idiografia
+characterLabelslabelsupwards_arrowsmishale inayoelekea juu
+characterLabelslabelspersonmtu
+characterLabelslabelsgeometric_shapesmaumbo ya jiometri
+characterLabelslabelsdivination_symbolsalama za kugawa
+characterLabelslabelsmiscellaneousanuwai
+characterLabelslabelsamerican_scriptshati za Marekani
+characterLabelslabelskanjiherufi za kijapani (kanji)
+characterLabelslabelsmusical_symbolsalama za muziki
+characterLabelslabelsvariant_formsmaumbo mbalimbali
+characterLabelslabelsbox_drawingmchoro wa kisanduku
+characterLabelslabelsdownwards_upwards_arrowsmishale ya kuwili
+characterLabelslabelspunctuationuakifishaji
+characterLabelslabelsmath_symbolsalama za hesabu
+characterLabelslabelsactivitiesshughuli
+characterLabelslabelstravelkusafiri
+characterLabelslabelseast_asian_scriptshati za mashariki ya Asia
+characterLabelslabelsmodifierkibadilisha hati
+characterLabelslabelsmiddle_eastern_scriptshati za mashariki ya kati
+characterLabelslabelsafrican_scriptshati za Afrika
+characterLabelslabelsnonspacingbila nafasi
+characterLabelslabelspictographspicha
+characterLabelslabelsvocalic_jamovibambo vya jamo vya sauti
+characterLabelslabelsflagsbendera
+characterLabelslabelshanjahanja
+characterLabelslabelshalf_width_form_variantsehemu za fomu ya upana nusu
+characterLabelslabelssoutheast_asian_scriptshati za kusini mashariki mwa Asia
+characterLabelslabelscurrency_symbolsalama za sarafu
+characterLabelslabelssouth_asian_scriptshati za kusini mwa Asia
+characterLabelslabelsleftwards_rightwards_arrowsmishale inayoelekea kulia na kushoto
+characterLabelslabelsletterlike_symbolsalama zinazofanana na herufi
+characterLabelslabelsbraillenukta vinundu
+characterLabelslabelsbullets_starsnukta au nyota
+characterLabelslabelshan_radicalsherufi za Han
+characterLabelslabelsjapanese_kanaherufi za kijapani (kana)
+characterLabelslabelskanbunherufi za kanbun
+characterLabelslabelshan_charactersvibambo vya Han
+characterLabelslabelssportmichezo
+characterLabelslabelssmall_form_variantaina za fomu ndogo
+characterLabelslabelsfemalemwanamke
+characterLabelslabelsheartmoyo
+characterLabelslabelsconsonantal_jamoalama za konsonanti
+characterLabelslabelsrightwards_arrowsmishale inayoelekea kulia
+characterLabelslabelsspacingkuacha nafasi
+characterLabelslabelsbuildingjengo
+characterLabelslabelsanimalmnyama
+characterLabelslabelsformatmuundo
+characterLabelslabelsdigitstarakimu
+characterLabelslabelshistoric_scriptshati za kihistoria
+characterLabelslabelsfull_width_form_variantsehemu za fomu ya upana kamili
+characterLabelslabelslimited_usematumizi finyu
+characterLabelslabelsnumbersnambari
+characterLabelslabelsnatureasili
+characterLabelslabelsothernyingine
+characterLabelslabelswhitespacesehemu wazi
+characterLabelslabelsmalemwanamume
+characterLabelslabelssmileys_peopletabasamu au mtu
+characterLabelslabelstone_marksalama za toni
+characterLabelslabelstravel_placessafari au maeneo
+characterLabelslabelsdash_connectorkistari au dashi
+characterLabelslabelsplacemahali
+characterLabelslabelsdingbatsdingibati
+characterLabelslabelswestern_asian_scriptshati za magharibi mwa Asia
+characterLabelslabelsplantmmea
+characterLabelslabelsformat_whitespacemiundo na sehemu wazi
+characterLabelslabelshanzi_traditionalhanzi (ya jadi)
+characterLabelslabelsflagbendera
+characterLabelslabelsleftwards_arrowsmishale inayoelekea kushoto
+characterLabelslabelsmodern_scriptshati za kisasa
+characterLabelslabelsobjectsvitu
+characterLabelslabelssmileytabasamu
+characterLabelslabelstechnical_symbolsalama za kiufundi
+characterLabelspatternsenclosed{0} — finyu
+characterLabelspatternshistoric{0} — ya kihistoria
+characterLabelspatternsstrokesmishazari {0}
+characterLabelspatternsscriptshati — {0}
+characterLabelspatternscompatibility{0} — uwiano
+characterLabelspatternsmiscellaneous{0} — ziada
+characterLabelspatternsextended{0} — pana
+characterLabelspatternscategory-list{0}: {1}
+characterLabelspatternsall{0} — zote
+characterLabelspatternsother{0} — nyingine
+localeDisplayNamescodePatternsterritoryEneo: {0}
+localeDisplayNamescodePatternslanguageLugha: {0}
+localeDisplayNamescodePatternsscriptHati: {0}
+localeDisplayNamesmeasurementSystemNamesUKUingereza
+localeDisplayNamesmeasurementSystemNamesmetricMfumo wa Mita
+localeDisplayNamesmeasurementSystemNamesUSMarekani
+localeDisplayNameslocaleDisplayPatternlocaleKeyTypePattern{0}: {1}
+localeDisplayNameslocaleDisplayPatternlocaleSeparator{0}, {1}
+localeDisplayNameslocaleDisplayPatternlocalePattern{0} ({1})
+localeDisplayNamesterritoriesNENiger
+localeDisplayNamesterritoriesLRLiberia
+localeDisplayNamesterritoriesLCSt. Lucia
+localeDisplayNamesterritoriesLALaos
+localeDisplayNamesterritoriesCPKisiwa cha Clipperton
+localeDisplayNamesterritoriesGIGibraltar
+localeDisplayNamesterritoriesXKKosovo
+localeDisplayNamesterritoriesGYGuyana
+localeDisplayNamesterritoriesPMSantapierre na Miquelon
+localeDisplayNamesterritoriesMLMali
+localeDisplayNamesterritoriesKNSt. Kitts na Nevis
+localeDisplayNamesterritoriesDOJamhuri ya Dominika
+localeDisplayNamesterritoriesGQGuinea ya Ikweta
+localeDisplayNamesterritoriesBMBermuda
+localeDisplayNamesterritoriesRWRwanda
+localeDisplayNamesterritoriesMSMontserrat
+localeDisplayNamesterritoriesAMArmenia
+localeDisplayNamesterritoriesSKSlovakia
+localeDisplayNamesterritoriesCLChile
+localeDisplayNamesterritoriesMFSt. Martin
+localeDisplayNamesterritoriesITItalia
+localeDisplayNamesterritoriesCHUswisi
+localeDisplayNamesterritoriesADAndorra
+localeDisplayNamesterritoriesECEcuador
+localeDisplayNamesterritoriesSISlovenia
+localeDisplayNamesterritoriesTHTailandi
+localeDisplayNamesterritoriesTKTokelau
+localeDisplayNamesterritoriesSEUswidi
+localeDisplayNamesterritoriesZWZimbabwe
+localeDisplayNamesterritoriesZAAfrika Kusini
+localeDisplayNamesterritories039Ulaya ya Kusini
+localeDisplayNamesterritoriesFOVisiwa vya Faroe
+localeDisplayNamesterritoriesHRCroatia
+localeDisplayNamesterritoriesBOBolivia
+localeDisplayNamesterritoriesGSVisiwa vya Georgia Kusini na Sandwich Kusini
+localeDisplayNamesterritories015Afrika ya Kaskazini
+localeDisplayNamesterritoriesBZBelize
+localeDisplayNamesterritoriesBYBelarus
+localeDisplayNamesterritoriesCDKongo (DRC)
+localeDisplayNamesterritoriesPWPalau
+localeDisplayNamesterritoriesEGMisri
+localeDisplayNamesterritoriesVAMji wa Vatican
+localeDisplayNamesterritoriesMMMyanmar (Burma)
+localeDisplayNamesterritoriesMVMaldives
+localeDisplayNamesterritoriesKMKomoro
+localeDisplayNamesterritoriesKWKuwait
+localeDisplayNamesterritoriesUZUzibekistani
+localeDisplayNamesterritories019Amerika
+localeDisplayNamesterritoriesHKHong Kong
+localeDisplayNamesterritoriesASSamoa ya Marekani
+localeDisplayNamesterritoriesNUNiue
+localeDisplayNamesterritoriesSVEl Salvador
+localeDisplayNamesterritoriesSYSyria
+localeDisplayNamesterritoriesSNSenegali
+localeDisplayNamesterritoriesMPVisiwa vya Mariana vya Kaskazini
+localeDisplayNamesterritoriesCAKanada
+localeDisplayNamesterritoriesCIIvory Coast
+localeDisplayNamesterritoriesTMTurkmenistan
+localeDisplayNamesterritoriesMZMsumbiji
+localeDisplayNamesterritoriesHUHungaria
+localeDisplayNamesterritoriesTNTunisia
+localeDisplayNamesterritoriesQAQatar
+localeDisplayNamesterritories030Asia ya Mashariki
+localeDisplayNamesterritoriesEHSahara Magharibi
+localeDisplayNamesterritories003Amerika Kaskazini
+localeDisplayNamesterritories061Polynesia
+localeDisplayNamesterritories011Afrika ya Magharibi
+localeDisplayNamesterritoriesCMKameruni
+localeDisplayNamesterritoriesEZEZ
+localeDisplayNamesterritoriesKEKenya
+localeDisplayNamesterritoriesKYVisiwa vya Cayman
+localeDisplayNamesterritoriesJOJordan
+localeDisplayNamesterritories151Ulaya ya Mashariki
+localeDisplayNamesterritoriesBEUbelgiji
+localeDisplayNamesterritoriesNONorway
+localeDisplayNamesterritoriesAQAntaktiki
+localeDisplayNamesterritoriesBBBabadosi
+localeDisplayNamesterritoriesUYUruguay
+localeDisplayNamesterritoriesBVKisiwa cha Bouvet
+localeDisplayNamesterritoriesMHVisiwa vya Marshall
+localeDisplayNamesterritoriesFRUfaransa
+localeDisplayNamesterritoriesGUGuam
+localeDisplayNamesterritoriesEUUmoja wa Ulaya
+localeDisplayNamesterritories054Melanesia
+localeDisplayNamesterritoriesGHGhana
+localeDisplayNamesterritoriesETEthiopia
+localeDisplayNamesterritories150Ulaya
+localeDisplayNamesterritoriesGGGuernsey
+localeDisplayNamesterritoriesPNVisiwa vya Pitcairn
+localeDisplayNamesterritoriesSSSudan Kusini
+localeDisplayNamesterritories142Asia
+localeDisplayNamesterritoriesSRSuriname
+localeDisplayNamesterritoriesMXMeksiko
+localeDisplayNamesterritoriesSLSiera Leoni
+localeDisplayNamesterritories029Karibiani
+localeDisplayNamesterritoriesBDBangladeshi
+localeDisplayNamesterritoriesVUVanuatu
+localeDisplayNamesterritoriesSDSudan
+localeDisplayNamesterritoriesDGDiego Garcia
+localeDisplayNamesterritoriesYEYemeni
+localeDisplayNamesterritoriesKGKirigizistani
+localeDisplayNamesterritoriesMYMalesia
+localeDisplayNamesterritoriesGLGreenland
+localeDisplayNamesterritoriesAWAruba
+localeDisplayNamesterritoriesNRNauru
+localeDisplayNamesterritories035Asia ya Kusini Mashariki
+localeDisplayNamesterritoriesPGPapua New Guinea
+localeDisplayNamesterritoriesGMGambia
+localeDisplayNamesterritoriesIMKisiwa cha Man
+localeDisplayNamesterritories014Afrika ya Mashariki
+localeDisplayNamesterritoriesPHUfilipino
+localeDisplayNamesterritoriesRSSerbia
+localeDisplayNamesterritoriesBNBrunei
+localeDisplayNamesterritoriesNLUholanzi
+localeDisplayNamesterritoriesISAisilandi
+localeDisplayNamesterritoriesAIAnguilla
+localeDisplayNamesterritoriesSTSão Tomé na Príncipe
+localeDisplayNamesterritoriesTVTuvalu
+localeDisplayNamesterritoriesNPNepal
+localeDisplayNamesterritoriesAXVisiwa vya Aland
+localeDisplayNamesterritoriesILIsraeli
+localeDisplayNamesterritories154Ulaya ya Kaskazini
+localeDisplayNamesterritories053Australasia
+localeDisplayNamesterritoriesBRBrazil
+localeDisplayNamesterritoriesSHSt. Helena
+localeDisplayNamesterritoriesIEAyalandi
+localeDisplayNamesterritoriesJEJersey
+localeDisplayNamesterritoriesJMJamaika
+localeDisplayNamesterritoriesPAPanama
+localeDisplayNamesterritoriesIRIran
+localeDisplayNamesterritories005Amerika Kusini
+localeDisplayNamesterritoriesREReunion
+localeDisplayNamesterritoriesBQUholanzi ya Karibiani
+localeDisplayNamesterritoriesUGUganda
+localeDisplayNamesterritories202Afrika Kusine mwa Jangwa la Sahara
+localeDisplayNamesterritoriesAGAntigua na Barbuda
+localeDisplayNamesterritoriesCVCape Verde
+localeDisplayNamesterritoriesMNMongolia
+localeDisplayNamesterritoriesGTGuatemala
+localeDisplayNamesterritoriesAZAzerbaijani
+localeDisplayNamesterritoriesDKDenmark
+localeDisplayNamesterritoriesTTTrinidad na Tobago
+localeDisplayNamesterritoriesGPGuadeloupe
+localeDisplayNamesterritoriesAOAngola
+localeDisplayNamesterritoriesPLPoland
+localeDisplayNamesterritoriesBJBenin
+localeDisplayNamesterritoriesGBUfalme wa Muungano
+localeDisplayNamesterritoriesBFBukinafaso
+localeDisplayNamesterritoriesARAjentina
+localeDisplayNamesterritoriesTFHimaya za Kusini za Kifaranza
+localeDisplayNamesterritoriesLSLesoto
+localeDisplayNamesterritoriesMUMorisi
+localeDisplayNamesterritoriesMEMontenegro
+localeDisplayNamesterritoriesMGMadagaska
+localeDisplayNamesterritoriesEACeuta na Melilla
+localeDisplayNamesterritoriesATAustria
+localeDisplayNamesterritoriesNANamibia
+localeDisplayNamesterritoriesLKSri Lanka
+localeDisplayNamesterritoriesVNVietnam
+localeDisplayNamesterritoriesZZEneo lisilojulikana
+localeDisplayNamesterritoriesGAGabon
+localeDisplayNamesterritoriesMQMartinique
+localeDisplayNamesterritoriesPTUreno
+localeDisplayNamesterritoriesVGVisiwa vya Virgin, Uingereza
+localeDisplayNamesterritoriesSXSint Maarten
+localeDisplayNamesterritoriesTATristan da Cunha
+localeDisplayNamesterritoriesWSSamoa
+localeDisplayNamesterritoriesGFGuiana ya Ufaransa
+localeDisplayNamesterritoriesTGTogo
+localeDisplayNamesterritoriesTDChad
+localeDisplayNamesterritoriesDZAljeria
+localeDisplayNamesterritories419Amerika ya Kilatini
+localeDisplayNamesterritoriesTWTaiwan
+localeDisplayNamesterritoriesVEVenezuela
+localeDisplayNamesterritoriesINIndia
+localeDisplayNamesterritoriesDJJibuti
+localeDisplayNamesterritoriesCNUchina
+localeDisplayNamesterritoriesPKPakistani
+localeDisplayNamesterritoriesCWCuracao
+localeDisplayNamesterritoriesKIKiribati
+localeDisplayNamesterritoriesCOKolombia
+localeDisplayNamesterritoriesMTMalta
+localeDisplayNamesterritoriesESUhispania
+localeDisplayNamesterritoriesIQIraki
+localeDisplayNamesterritoriesHMKisiwa cha Heard na Visiwa vya McDonald
+localeDisplayNamesterritoriesAUAustralia
+localeDisplayNamesterritoriesBTBhutan
+localeDisplayNamesterritoriesBSBahama
+localeDisplayNamesterritoriesQOOceania ya Nje
+localeDisplayNamesterritoriesSZUswazi
+localeDisplayNamesterritoriesUNUmoja wa Mataifa
+localeDisplayNamesterritoriesYTMayotte
+localeDisplayNamesterritoriesVIVisiwa vya Virgin, Marekani
+localeDisplayNamesterritoriesFMMicronesia
+localeDisplayNamesterritories057Eneo la Mikronesia
+localeDisplayNamesterritories034Asia ya Kusini
+localeDisplayNamesterritoriesCKVisiwa vya Cook
+localeDisplayNamesterritoriesUMVisiwa Vidogo vya Nje vya Marekani
+localeDisplayNamesterritoriesCGJamhuri ya Kongo
+localeDisplayNamesterritoriesRORomania
+localeDisplayNamesterritoriesKPKorea Kaskazini
+localeDisplayNamesterritories013Amerika ya Kati
+localeDisplayNamesterritoriesIDIndonesia
+localeDisplayNamesterritoriesMOMacau
+localeDisplayNamesterritories155Ulaya ya Magharibi
+localeDisplayNamesterritoriesBIBurundi
+localeDisplayNamesterritoriesNZNyuzilandi
+localeDisplayNamesterritoriesTOTonga
+localeDisplayNamesterritoriesKHKambodia
+localeDisplayNamesterritories145Asia ya Magharibi
+localeDisplayNamesterritoriesNCNew Caledonia
+localeDisplayNamesterritoriesPSPalestina
+localeDisplayNamesterritoriesLULuxembourg
+localeDisplayNamesterritoriesSOSomalia
+localeDisplayNamesterritoriesSGSingapore
+localeDisplayNamesterritoriesPEPeru
+localeDisplayNamesterritoriesTLTimor ya Mashariki
+localeDisplayNamesterritoriesLBLebanon
+localeDisplayNamesterritories002Afrika
+localeDisplayNamesterritoriesBABosnia na Hezegovina
+localeDisplayNamesterritoriesCUCuba
+localeDisplayNamesterritoriesOMOman
+localeDisplayNamesterritoriesSJSvalbard na Jan Mayen
+localeDisplayNamesterritoriesBLSt. Barthelemy
+localeDisplayNamesterritoriesFIUfini
+localeDisplayNamesterritoriesAEFalme za Kiarabu
+localeDisplayNamesterritoriesLTLithuania
+localeDisplayNamesterritoriesCXKisiwa cha Krismasi
+localeDisplayNamesterritoriesEEEstonia
+localeDisplayNamesterritoriesMWMalawi
+localeDisplayNamesterritoriesNINikaragwa
+localeDisplayNamesterritoriesKRKorea Kusini
+localeDisplayNamesterritoriesAFAfghanistan
+localeDisplayNamesterritoriesUSUS
+localeDisplayNamesterritories018Afrika ya Kusini
+localeDisplayNamesterritoriesLYLibya
+localeDisplayNamesterritoriesMKMacedonia (FYROM)
+localeDisplayNamesterritoriesHTHaiti
+localeDisplayNamesterritoriesJPJapani
+localeDisplayNamesterritoriesMCMonaco
+localeDisplayNamesterritoriesACKisiwa cha Ascension
+localeDisplayNamesterritoriesFJFiji
+localeDisplayNamesterritoriesPRPuerto Rico
+localeDisplayNamesterritoriesTZTanzania
+localeDisplayNamesterritories143Asia ya Kati
+localeDisplayNamesterritoriesTCVisiwa vya Turks na Caicos
+localeDisplayNamesterritories009Oceania
+localeDisplayNamesterritoriesCFJamhuri ya Afrika ya Kati
+localeDisplayNamesterritoriesGDGrenada
+localeDisplayNamesterritoriesMRMoritania
+localeDisplayNamesterritoriesCRKostarika
+localeDisplayNamesterritoriesTRUturuki
+localeDisplayNamesterritoriesTJTajikistani
+localeDisplayNamesterritoriesCZJamhuri ya Cheki
+localeDisplayNamesterritories001Dunia
+localeDisplayNamesterritoriesFKVisiwa vya Falkland (Islas Malvinas)
+localeDisplayNamesterritoriesNFKisiwa cha Norfolk
+localeDisplayNamesterritories017Afrika ya Kati
+localeDisplayNamesterritories021Amerika ya Kaskazini
+localeDisplayNamesterritoriesRUUrusi
+localeDisplayNamesterritoriesBWBotswana
+localeDisplayNamesterritoriesSASaudia
+localeDisplayNamesterritoriesSMSan Marino
+localeDisplayNamesterritoriesZMZambia
+localeDisplayNamesterritoriesPYParaguay
+localeDisplayNamesterritoriesHNHonduras
+localeDisplayNamesterritoriesIOEneo la Uingereza katika Bahari Hindi
+localeDisplayNamesterritoriesGEJojia
+localeDisplayNamesterritoriesPFPolynesia ya Ufaransa
+localeDisplayNamesterritoriesLILiechtenstein
+localeDisplayNamesterritoriesSCUshelisheli
+localeDisplayNamesterritoriesCCVisiwa vya Cocos (Keeling)
+localeDisplayNamesterritoriesDEUjerumani
+localeDisplayNamesterritoriesSBVisiwa vya Solomon
+localeDisplayNamesterritoriesMDMoldova
+localeDisplayNamesterritoriesALAlbania
+localeDisplayNamesterritoriesLVLatvia
+localeDisplayNamesterritoriesMAMorocco
+localeDisplayNamesterritoriesUAUkraine
+localeDisplayNamesterritoriesEREritrea
+localeDisplayNamesterritoriesDMDominika
+localeDisplayNamesterritoriesGWGinebisau
+localeDisplayNamesterritoriesBGBulgaria
+localeDisplayNamesterritoriesWFWallis na Futuna
+localeDisplayNamesterritoriesCYCyprus
+localeDisplayNamesterritoriesBHBahareni
+localeDisplayNamesterritoriesVCSt. Vincent na Grenadines
+localeDisplayNamesterritoriesNGNigeria
+localeDisplayNamesterritoriesGRUgiriki
+localeDisplayNamesterritoriesGNGine
+localeDisplayNamesterritoriesICVisiwa vya Kanari
+localeDisplayNamesterritoriesKZKazakistani
+localeDisplayNamesscriptsHantKihan cha Jadi
+localeDisplayNamesscriptsTamlKitamil
+localeDisplayNamesscriptsMlymKimalayalam
+localeDisplayNamesscriptsJamoJamo
+localeDisplayNamesscriptsKanaKikatakana
+localeDisplayNamesscriptsLaooKilaosi
+localeDisplayNamesscriptsEthiKiethiopia
+localeDisplayNamesscriptsHebrKiebrania
+localeDisplayNamesscriptsBraiBraille
+localeDisplayNamesscriptsKoreKikorea
+localeDisplayNamesscriptsThaiKithai
+localeDisplayNamesscriptsCyrlKisiriliki
+localeDisplayNamesscriptsHanbHanb
+localeDisplayNamesscriptsGujrKigujarati
+localeDisplayNamesscriptsLatnKilatini
+localeDisplayNamesscriptsMongKimongolia
+localeDisplayNamesscriptsThaaKithaana
+localeDisplayNamesscriptsOryaKioriya
+localeDisplayNamesscriptsZxxxHaijaandikwa
+localeDisplayNamesscriptsTibtKitibeti
+localeDisplayNamesscriptsMymrMyama
+localeDisplayNamesscriptsTeluKitelugu
+localeDisplayNamesscriptsHiraHiragana
+localeDisplayNamesscriptsZzzzHati isiyojulikana
+localeDisplayNamesscriptsDevaKidevanagari
+localeDisplayNamesscriptsHansKihan Rahisi
+localeDisplayNamesscriptsJpanKijapani
+localeDisplayNamesscriptsGeorKijojia
+localeDisplayNamesscriptsZsyeEmoji
+localeDisplayNamesscriptsGuruKigurmukhi
+localeDisplayNamesscriptsBopoKibopomofo
+localeDisplayNamesscriptsKhmrKikambodia
+localeDisplayNamesscriptsBengKibengali
+localeDisplayNamesscriptsSinhKisinhala
+localeDisplayNamesscriptsZsymAlama
+localeDisplayNamesscriptsKndaKikannada
+localeDisplayNamesscriptsArmnKiarmenia
+localeDisplayNamesscriptsZyyyKawaida
+localeDisplayNamesscriptsHaniKihan
+localeDisplayNamesscriptsArabKiajemi/Kiarabu
+localeDisplayNamesscriptsZmthHati za kihisabati
+localeDisplayNamesscriptsHangKihangul
+localeDisplayNamesscriptsHrktHati za Kijapani
+localeDisplayNamesscriptsGrekKigiriki
+localeDisplayNamescharactersparseLenientsdatelenient-[\--/]
+localeDisplayNamescharactersparseLenientsdatelenient:[\:∶]
+localeDisplayNamescharactersparseLenientsgenerallenient£[£₤]
+localeDisplayNamescharactersparseLenientsgenerallenient$[\$﹩＄$]
+localeDisplayNamescharactersparseLenientsgenerallenient.[.․。︒﹒．｡]
+localeDisplayNamescharactersparseLenientsgenerallenient₹[₨₹{Rp}{Rs}]
+localeDisplayNamescharactersparseLenientsnumberstricter.[.․﹒．｡]
+localeDisplayNamescharactersparseLenientsnumberstricter,[,٫︐﹐，]
+localeDisplayNamescharactersparseLenientsnumberlenient,[,،٫、︐︑﹐﹑，､]
+localeDisplayNamescharactersparseLenientsnumberlenient-[\-‒⁻₋−➖﹣－]
+localeDisplayNamescharactersparseLenientsnumberlenient+[+⁺₊➕﬩﹢＋]
+localeDisplayNameslanguagesshnKishan
+localeDisplayNameslanguagestetKitetum
+localeDisplayNameslanguagessmKisamoa
+localeDisplayNameslanguagesisKiisilandi
+localeDisplayNameslanguagesbyvKimedumba
+localeDisplayNameslanguageskkKikazakh
+localeDisplayNameslanguageslezKilezighian
+localeDisplayNameslanguagesnusKinuer
+localeDisplayNameslanguageszh_HantKichina cha Jadi
+localeDisplayNameslanguageskacKachin
+localeDisplayNameslanguagesdjeKizarma
+localeDisplayNameslanguagessiKisinhala
+localeDisplayNameslanguagesmyvKierzya
+localeDisplayNameslanguagesfr_CAKifaransa (Canada)
+localeDisplayNameslanguagesgaKiayalandi
+localeDisplayNameslanguagesfonKifon
+localeDisplayNameslanguagesdavKitaita
+localeDisplayNameslanguagesheKiebrania
+localeDisplayNameslanguagesmuaKimundang
+localeDisplayNameslanguagesndsKisaksoni
+localeDisplayNameslanguagesaaKiafar
+localeDisplayNameslanguagessmnKisami cha Inari
+localeDisplayNameslanguagesrmKiromanshi
+localeDisplayNameslanguageskdeKimakonde
+localeDisplayNameslanguageskmbKimbundu
+localeDisplayNameslanguagesmiKimaori
+localeDisplayNameslanguageskuKikurdi
+localeDisplayNameslanguagesibaKiiban
+localeDisplayNameslanguagesmusKikriki
+localeDisplayNameslanguagesbfdKibafut
+localeDisplayNameslanguagesibbKiibibio
+localeDisplayNameslanguagesnyoKinyoro
+localeDisplayNameslanguageskabKikabylia
+localeDisplayNameslanguagessnkKisoninke
+localeDisplayNameslanguagesfurKifriulian
+localeDisplayNameslanguagesdsbKisobia cha Chini
+localeDisplayNameslanguagesksKikashmiri
+localeDisplayNameslanguagestyKitahiti
+localeDisplayNameslanguagesstKisotho
+localeDisplayNameslanguagesro_MDKimoldova cha Romania
+localeDisplayNameslanguagesbejKibeja
+localeDisplayNameslanguageswaeKiwalser
+localeDisplayNameslanguagesadaKiadangme
+localeDisplayNameslanguagesgnKiguarani
+localeDisplayNameslanguageskruKurukh
+localeDisplayNameslanguageszunKizuni
+localeDisplayNameslanguagespauKipalau
+localeDisplayNameslanguagesnaqKinama
+localeDisplayNameslanguageshzKiherero
+localeDisplayNameslanguagesmdfLugha ya Moksha
+localeDisplayNameslanguageskblKikanembu
+localeDisplayNameslanguagesguKigujarati
+localeDisplayNameslanguagesbsKibosnia
+localeDisplayNameslanguagesbaxKibamun
+localeDisplayNameslanguagesfiKifini
+localeDisplayNameslanguageslamLamba
+localeDisplayNameslanguagesbrxKibodo
+localeDisplayNameslanguagestemKitemne
+localeDisplayNameslanguagesmsKimalei
+localeDisplayNameslanguagescebKichebuano
+localeDisplayNameslanguagestwqKitasawaq
+localeDisplayNameslanguageshrKikroeshia
+localeDisplayNameslanguagesroKiromania
+localeDisplayNameslanguagesneKinepali
+localeDisplayNameslanguagesxhKixhosa
+localeDisplayNameslanguagesklKikalaallisut
+localeDisplayNameslanguagessbaKingambay
+localeDisplayNameslanguagesblaKisiksika
+localeDisplayNameslanguagesnewKinewari
+localeDisplayNameslanguagesnyKinyanja
+localeDisplayNameslanguagessatKisantali
+localeDisplayNameslanguagescyKiwelisi
+localeDisplayNameslanguagesbezKibena
+localeDisplayNameslanguagescrsKrioli ya Shelisheli
+localeDisplayNameslanguagesjgoKingomba
+localeDisplayNameslanguagesnqoN’Ko
+localeDisplayNameslanguagessdhKikurdi cha Kusini
+localeDisplayNameslanguagestnKitswana
+localeDisplayNameslanguagesielugha ya kisayansi
+localeDisplayNameslanguagesdyuKijula
+localeDisplayNameslanguageszxxHakuna maudhui ya lugha
+localeDisplayNameslanguagessbpKisangu
+localeDisplayNameslanguageskumKumyk
+localeDisplayNameslanguageskmKikambodia
+localeDisplayNameslanguagesluaKiluba-Lulua
+localeDisplayNameslanguagesplKipolandi
+localeDisplayNameslanguagesjmcKimachame
+localeDisplayNameslanguagesrofKirombo
+localeDisplayNameslanguagessnKishona
+localeDisplayNameslanguagesshKiserbia-kroeshia
+localeDisplayNameslanguagesslKislovenia
+localeDisplayNameslanguageslusKimizo
+localeDisplayNameslanguagesckbKikurdi cha Sorani
+localeDisplayNameslanguagesbkmKikom
+localeDisplayNameslanguagesfrsKifrisia cha Mashariki
+localeDisplayNameslanguagessukKisukuma
+localeDisplayNameslanguagessyrLugha ya Syriac
+localeDisplayNameslanguageskbdKikabardian
+localeDisplayNameslanguagesinhKiingush
+localeDisplayNameslanguagestrKituruki
+localeDisplayNameslanguagesssyKisaho
+localeDisplayNameslanguagessadKisandawe
+localeDisplayNameslanguagesegyKimisri
+localeDisplayNameslanguagesafKiafrikana
+localeDisplayNameslanguagesgwiGwichʼin
+localeDisplayNameslanguagesbasKibasaa
+localeDisplayNameslanguagesgbaKigbaya
+localeDisplayNameslanguagesmicMi’kmaq
+localeDisplayNameslanguagesnogKinogai
+localeDisplayNameslanguageslktKilakota
+localeDisplayNameslanguagestiKitigrinya
+localeDisplayNameslanguageshsbKisobia cha Ukanda wa Juu
+localeDisplayNameslanguagesnnKinorwe cha Nynorsk
+localeDisplayNameslanguagesudmKiudmurt
+localeDisplayNameslanguagesgrcKiyunani
+localeDisplayNameslanguagessrKiserbia
+localeDisplayNameslanguagesyaoKiyao
+localeDisplayNameslanguagesdyoKijola-Fonyi
+localeDisplayNameslanguageschmKimari
+localeDisplayNameslanguagesloKilaosi
+localeDisplayNameslanguagesbrKibretoni
+localeDisplayNameslanguagesarpKiarapaho
+localeDisplayNameslanguageslrcKiluri cha Kaskazini
+localeDisplayNameslanguagesltKilithuania
+localeDisplayNameslanguagessoKisomali
+localeDisplayNameslanguageskoiKikomi-Permyak
+localeDisplayNameslanguagesbbjKighomala
+localeDisplayNameslanguagesaltKialtai
+localeDisplayNameslanguagesbynKiblin
+localeDisplayNameslanguageslaKilatini
+localeDisplayNameslanguagesquKikechua
+localeDisplayNameslanguagesar_001Kiarabu sanifu
+localeDisplayNameslanguageslozKilozi
+localeDisplayNameslanguagesmafKimafa
+localeDisplayNameslanguagesdvKidivehi
+localeDisplayNameslanguagesshuKiarabu cha Chad
+localeDisplayNameslanguagessmjKisami cha Lule
+localeDisplayNameslanguagestyvKituva
+localeDisplayNameslanguageschoKichoktao
+localeDisplayNameslanguagesbemKibemba
+localeDisplayNameslanguagesamKiamhari
+localeDisplayNameslanguagesmosKimoore
+localeDisplayNameslanguagesdarKidaragwa
+localeDisplayNameslanguageskajKijju
+localeDisplayNameslanguagestkKiturukimeni
+localeDisplayNameslanguagesyavKiyangben
+localeDisplayNameslanguagesmgoKimeta
+localeDisplayNameslanguagesanpKiangika
+localeDisplayNameslanguagesurKiurdu
+localeDisplayNameslanguageslunKilunda
+localeDisplayNameslanguageshuKihungaria
+localeDisplayNameslanguageskgKikongo
+localeDisplayNameslanguageshmnKihmong
+localeDisplayNameslanguagesmakKimakasar
+localeDisplayNameslanguagesshiKitachelhit
+localeDisplayNameslanguageskkjLugha ya Kako
+localeDisplayNameslanguagesprgKiprussia
+localeDisplayNameslanguageszzaKizaza
+localeDisplayNameslanguagesnoKinorwe
+localeDisplayNameslanguagesvunKivunjo
+localeDisplayNameslanguagesveKivenda
+localeDisplayNameslanguagescsKicheki
+localeDisplayNameslanguagesbmKibambara
+localeDisplayNameslanguageskrKikanuri
+localeDisplayNameslanguagesen_CAKiingereza (Canada)
+localeDisplayNameslanguagesioKiido
+localeDisplayNameslanguagesmadKimadura
+localeDisplayNameslanguageschyKicheyeni
+localeDisplayNameslanguagessamKiaramu cha Wasamaria
+localeDisplayNameslanguagesdzgKidazaga
+localeDisplayNameslanguagespamKipampanga
+localeDisplayNameslanguagesceKichechenia
+localeDisplayNameslanguagescvKichuvash
+localeDisplayNameslanguagesbumKibulu
+localeDisplayNameslanguagesbaKibashkiri
+localeDisplayNameslanguagesakKiakani
+localeDisplayNameslanguagessmsKisami cha Skolt
+localeDisplayNameslanguagesttKitatari
+localeDisplayNameslanguagessmaKisami cha Kusini
+localeDisplayNameslanguagesgagKigagauz
+localeDisplayNameslanguagesdzKizongkha
+localeDisplayNameslanguagesawaKiawadhi
+localeDisplayNameslanguagesdgrKidogrib
+localeDisplayNameslanguageskshKicologne
+localeDisplayNameslanguagesiuKiinuktituti
+localeDisplayNameslanguagesmyKiburma
+localeDisplayNameslanguageskaKijojia
+localeDisplayNameslanguagessgKisango
+localeDisplayNameslanguagesastKiasturia
+localeDisplayNameslanguagesidKiindonesia
+localeDisplayNameslanguagesrarKirarotonga
+localeDisplayNameslanguageslnKilingala
+localeDisplayNameslanguagesfroKifaransa cha Kale
+localeDisplayNameslanguagesxogKisoga
+localeDisplayNameslanguagestumKitumbuka
+localeDisplayNameslanguagesyueKikantoni
+localeDisplayNameslanguagesmerKimeru
+localeDisplayNameslanguageskamKikamba
+localeDisplayNameslanguagesrupKiaromania
+localeDisplayNameslanguagesteKitelugu
+localeDisplayNameslanguagesgaaGa
+localeDisplayNameslanguagesfoKifaroe
+localeDisplayNameslanguagesluoKijaluo
+localeDisplayNameslanguagesekaKiekajuk
+localeDisplayNameslanguagesvaiKivai
+localeDisplayNameslanguagesugKiuyghur
+localeDisplayNameslanguagesiiKiyi cha Sichuan
+localeDisplayNameslanguagesigKiigbo
+localeDisplayNameslanguageswaKiwaloon
+localeDisplayNameslanguageselKigiriki
+localeDisplayNameslanguagesen_USKiingereza (US)
+localeDisplayNameslanguagesebuKiembu
+localeDisplayNameslanguageskfoKikoro
+localeDisplayNameslanguageslvKilatvia
+localeDisplayNameslanguagesanKiaragoni
+localeDisplayNameslanguagesnapKinapoli
+localeDisplayNameslanguageskyKikyrgyz
+localeDisplayNameslanguagesjvKijava
+localeDisplayNameslanguagestgKitajiki
+localeDisplayNameslanguagesayKiaymara
+localeDisplayNameslanguageskrlKarjala
+localeDisplayNameslanguagesksfKibafia
+localeDisplayNameslanguagesaleKialeut
+localeDisplayNameslanguagesliLimburgish
+localeDisplayNameslanguagestzmKitamazighati cha Atlasi ya Kati
+localeDisplayNameslanguagesdaKidenmaki
+localeDisplayNameslanguagestpiKitokpisin
+localeDisplayNameslanguagessahKisakha
+localeDisplayNameslanguagesmwlKimirandi
+localeDisplayNameslanguagesmkKimacedonia
+localeDisplayNameslanguagespaKipunjabi
+localeDisplayNameslanguagesksbKisambaa
+localeDisplayNameslanguageskjKikwanyama
+localeDisplayNameslanguageskoKikorea
+localeDisplayNameslanguagesniuKiniuea
+localeDisplayNameslanguagestrvKitaroko
+localeDisplayNameslanguagesjaKijapani
+localeDisplayNameslanguagesgdKigaeli cha Uskoti
+localeDisplayNameslanguagesfrrKifrisia cha Kaskazini
+localeDisplayNameslanguagesmohLugha ya Mohawk
+localeDisplayNameslanguagesybbKiyemba
+localeDisplayNameslanguageskcgKityap
+localeDisplayNameslanguagessesKoyraboro Senni
+localeDisplayNameslanguagescuKislovakia cha Kanisa
+localeDisplayNameslanguagestigKitigre
+localeDisplayNameslanguagesomKioromo
+localeDisplayNameslanguageszuKizulu
+localeDisplayNameslanguagesptKireno
+localeDisplayNameslanguagesrootKiroot
+localeDisplayNameslanguagesenKiingereza
+localeDisplayNameslanguagesukKiukraini
+localeDisplayNameslanguageswoKiwolofu
+localeDisplayNameslanguagesnl_BEKiflemi
+localeDisplayNameslanguagesundLugha Isiyojulikana
+localeDisplayNameslanguagesviKivietinamu
+localeDisplayNameslanguagesmulLugha Nyingi
+localeDisplayNameslanguagesgorKigorontalo
+localeDisplayNameslanguagesbanKibali
+localeDisplayNameslanguagesgvKimanx
+localeDisplayNameslanguagesewoKiewondo
+localeDisplayNameslanguagesngKindonga
+localeDisplayNameslanguagesnziKinzema
+localeDisplayNameslanguageshilKihiligaynon
+localeDisplayNameslanguagesmrKimarathi
+localeDisplayNameslanguagesesKihispania
+localeDisplayNameslanguageskiKikikuyu
+localeDisplayNameslanguageszh_HansKichina (Kilichorahisishwa)
+localeDisplayNameslanguagestlhKiklingoni
+localeDisplayNameslanguagessdKisindhi
+localeDisplayNameslanguagesnvKinavajo
+localeDisplayNameslanguagescoKikosikani
+localeDisplayNameslanguagesboKitibeti
+localeDisplayNameslanguagesdeKijerumani
+localeDisplayNameslanguagesagqKiaghem
+localeDisplayNameslanguagesklnKikalenjin
+localeDisplayNameslanguagespcmPijini ya Nigeria
+localeDisplayNameslanguagestaKitamili
+localeDisplayNameslanguagesitKiitaliano
+localeDisplayNameslanguageszhKichina
+localeDisplayNameslanguageswbpKiwarlpiri
+localeDisplayNameslanguagesuzKiuzbeki
+localeDisplayNameslanguagesorKioriya
+localeDisplayNameslanguagesainKiainu
+localeDisplayNameslanguagesmlKimalayalamu
+localeDisplayNameslanguageshitKihiti
+localeDisplayNameslanguageskpeKikpelle
+localeDisplayNameslanguagesbeKibelarusi
+localeDisplayNameslanguageskvKikomi
+localeDisplayNameslanguageshyKiarmenia
+localeDisplayNameslanguagesefiKiefik
+localeDisplayNameslanguageskokKikonkani
+localeDisplayNameslanguagesrnKirundi
+localeDisplayNameslanguagesfyKifrisia cha Magharibi
+localeDisplayNameslanguageschKichamorro
+localeDisplayNameslanguagesarcKiaramu
+localeDisplayNameslanguagescggKichiga
+localeDisplayNameslanguageshiKihindi
+localeDisplayNameslanguageswarKiwaray
+localeDisplayNameslanguagesetKiestonia
+localeDisplayNameslanguageskhqKoyra Chiini
+localeDisplayNameslanguageshaKihausa
+localeDisplayNameslanguagesmgKimalagasi
+localeDisplayNameslanguageslbKilasembagi
+localeDisplayNameslanguagesiloKiilocano
+localeDisplayNameslanguagestoKitonga
+localeDisplayNameslanguagesbnKibengali
+localeDisplayNameslanguagestwTwi
+localeDisplayNameslanguagessqKialbania
+localeDisplayNameslanguagespsKipushto
+localeDisplayNameslanguagesrwkLugha ya Rwa
+localeDisplayNameslanguageshawKihawai
+localeDisplayNameslanguagesdakKidakota
+localeDisplayNameslanguagesaceKiacheni
+localeDisplayNameslanguagesbgnKibalochi cha Magharibi
+localeDisplayNameslanguagesscoKiskoti
+localeDisplayNameslanguagesarqKiarabu cha Algeria
+localeDisplayNameslanguagesmnKimongolia
+localeDisplayNameslanguageshtKihaiti
+localeDisplayNameslanguagesmdeKimaba
+localeDisplayNameslanguagesbhoKibhojpuri
+localeDisplayNameslanguagesladKiladino
+localeDisplayNameslanguagesscnKisicilia
+localeDisplayNameslanguageses_419Kihispania (Amerika ya Latini)
+localeDisplayNameslanguagestsKitsonga
+localeDisplayNameslanguagesteoKiteso
+localeDisplayNameslanguagesmaiKimaithili
+localeDisplayNameslanguagesniaKiniasi
+localeDisplayNameslanguageses_ESKihispania (Ulaya)
+localeDisplayNameslanguagesmenKimende
+localeDisplayNameslanguagesnlKiholanzi
+localeDisplayNameslanguagesnmgKikwasio
+localeDisplayNameslanguagesfrKifaransa
+localeDisplayNameslanguagesbiKibislama
+localeDisplayNameslanguagesmhKimashale
+localeDisplayNameslanguagesnrKindebele
+localeDisplayNameslanguagesnaKinauru
+localeDisplayNameslanguagespt_PTKireno (Ulaya)
+localeDisplayNameslanguagesgswKijerumani cha Uswisi
+localeDisplayNameslanguagesvoKivolapuk
+localeDisplayNameslanguagesasaKiasu
+localeDisplayNameslanguagesmghKimakhuwa-Meetto
+localeDisplayNameslanguagessehKisena
+localeDisplayNameslanguagesffKifulani
+localeDisplayNameslanguagessaqKisamburu
+localeDisplayNameslanguagesfaKiajemi
+localeDisplayNameslanguagesmasKimaasai
+localeDisplayNameslanguagesnymKinyamwezi
+localeDisplayNameslanguageskeaKikabuverdianu
+localeDisplayNameslanguagesyoKiyoruba
+localeDisplayNameslanguagesmniKimanipuri
+localeDisplayNameslanguagessusKisusu
+localeDisplayNameslanguagespagKipangasinan
+localeDisplayNameslanguagesxalKikalmyk
+localeDisplayNameslanguagesangKiingereza cha Kale
+localeDisplayNameslanguagespapKipapiamento
+localeDisplayNameslanguagesbgKibulgaria
+localeDisplayNameslanguagesssKiswati
+localeDisplayNameslanguagesthKithai
+localeDisplayNameslanguagesnbKinorwe cha Bokmal
+localeDisplayNameslanguageskrcKikarachay-Balkar
+localeDisplayNameslanguagesarzKiarabu cha Misri
+localeDisplayNameslanguageslgKiganda
+localeDisplayNameslanguageslolKimongo
+localeDisplayNameslanguagesluyKiluhya
+localeDisplayNameslanguageswalKiwolaytta
+localeDisplayNameslanguagesmznKimazanderani
+localeDisplayNameslanguagesachKiakoli
+localeDisplayNameslanguagesglKigalisi
+localeDisplayNameslanguagessuKisunda
+localeDisplayNameslanguagesmfeKimoriseni
+localeDisplayNameslanguagesnwcKinewari cha kale
+localeDisplayNameslanguagessaKisanskriti
+localeDisplayNameslanguagesscKisardinia
+localeDisplayNameslanguagesnynKinyankole
+localeDisplayNameslanguagesumbUmbundu
+localeDisplayNameslanguagesruKirusi
+localeDisplayNameslanguagesnsoKisotho cha Kaskazini
+localeDisplayNameslanguagesguzKikisii
+localeDisplayNameslanguagestvlKituvalu
+localeDisplayNameslanguagesmtKimalta
+localeDisplayNameslanguagesen_GBKiingereza (UK)
+localeDisplayNameslanguageskhaKikhasi
+localeDisplayNameslanguageschrKicherokee
+localeDisplayNameslanguagesiaKiintalingua
+localeDisplayNameslanguageshupHupa
+localeDisplayNameslanguagesarKiarabu
+localeDisplayNameslanguageszghKiberber Sanifu cha Moroko
+localeDisplayNameslanguagesluKiluba-Katanga
+localeDisplayNameslanguagesarnKimapuche
+localeDisplayNameslanguagesqucKʼicheʼ
+localeDisplayNameslanguagesosKiosetia
+localeDisplayNameslanguagesskKislovakia
+localeDisplayNameslanguagesnnhLugha ya Ngiemboon
+localeDisplayNameslanguagesndKindebele cha Kaskazini
+localeDisplayNameslanguageseoKiesperanto
+localeDisplayNameslanguagesknKikannada
+localeDisplayNameslanguagescaKikatalani
+localeDisplayNameslanguagesrwKinyarwanda
+localeDisplayNameslanguagesgezKige’ez
+localeDisplayNameslanguagesasKiassam
+localeDisplayNameslanguagesjboLojban
+localeDisplayNameslanguageslagKirangi
+localeDisplayNameslanguagesminKiminangkabau
+localeDisplayNameslanguagesrapKirapanui
+localeDisplayNameslanguagesyiKiyiddi
+localeDisplayNameslanguagesswbShikomor
+localeDisplayNameslanguagesazKiazeri
+localeDisplayNameslanguageseuKibaski
+localeDisplayNameslanguagesmagKimagahi
+localeDisplayNameslanguagespeoKiajemi cha Kale
+localeDisplayNameslanguagesabKiabkhazi
+localeDisplayNameslanguagesocKiokitani
+localeDisplayNameslanguagesswKiswahili
+localeDisplayNameslanguageseeKiewe
+localeDisplayNameslanguagessrnLugha ya Sranan Tongo
+localeDisplayNameslanguageschkKichukisi
+localeDisplayNameslanguagessvKiswidi
+localeDisplayNameslanguagescopKikhufti
+localeDisplayNameslanguagesavKiavari
+localeDisplayNameslanguageskwKikorni
+localeDisplayNameslanguagesbugKibugini
+localeDisplayNameslanguagesseKisami cha Kaskazini
+localeDisplayNameslanguagesfjKifiji
+localeDisplayNameslanguagesfilKifilipino
+localeDisplayNameslanguagesbinKibini
+localeDisplayNameslanguagesadyKiadyghe
+localeDisplayNameslanguagesgilKikiribati
+localeDisplayNameslanguagesduaKiduala
+charactersellipsisword-medial{0} … {1}
+charactersellipsismedial{0}…{1}
+charactersellipsisinitial…{0}
+charactersellipsisword-initial… {0}
+charactersellipsisfinal{0}…
+charactersellipsisword-final{0} …
+charactersexemplarCharactersstandard[a b {ch} d e f g h i j k l m n o p r s t u v w y z]
+charactersexemplarCharacterspunctuation[\- , ; \: ! ? . ' &quot; ( ) \[ \] \{ \}]
+charactersexemplarCharactersindex[A B C D E F G H I J K L M N O P R S T U V W Y Z]
+charactersexemplarCharactersauxiliary[c q x]
+charactersexemplarCharactersnumbers[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]

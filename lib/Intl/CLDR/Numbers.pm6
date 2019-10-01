@@ -432,90 +432,22 @@ multi sub significant-digits($number,$minimum = 1,$maximum = ∞) {
 
 
 
-# I am not currently sure how to best implement the prefix / suffix aspect.
-# I could have a scientific / percent / decimal prefix object with positive /
-# negative variation, as well as the same for suffix, and then verify that
-# the prefix used matches the number results (e.g. scientific has exponent,
-# decimal doesn't have percentage, etc)
-role NumberFinder is export {
-  token localized-number {
-    #<LOCALIZED-NUMBER-prefix>
-    <LOCALIZED-BASE-NUMBER>
-    <LOCALIZED-EXPONENT>?
-    #<LOCALIZED-NUMBER-suffix>
-    {
-      my $result = $<LOCALIZED-BASE-NUMBER>.made;
-      if $<LOCALIZED-EXPONENT> {
-        $result *= (10 ** $<LOCALIZED-EXPONENT>.made)
-      }
-      make $result;
-    }
-  }
-  token LOCALIZED-BASE-NUMBER {
-		<LOCALIZED-INTEGER>
-		[
-			<{"'" ~ %*symbols<.>.subst("'","\'") ~ "'"}>
-			<LOCALIZED-FRACTION>
-		]?
-		[ <LOCALIZED-EXPONENT> ]?
-		{
-			my $result = $<LOCALIZED-INTEGER>.made;
-			if $<LOCALIZED-FRACTION> {
-        my $fraction = $<LOCALIZED-FRACTION>.made;
-				$result += $fraction == 0
-					?? 0
-					!! $fraction * (10 ** (0 - $fraction.log10.ceiling))
-			}
-			if $<LOCALIZED-EXPONENT> {
-				$result *= (10 ** $<LOCALIZED-EXPONENT>.made)
-			}
-			make $result;
-		}
-  }
-  token LOCALIZED-PREFIX { <{"'" ~ %*symbols<prefix>.subst("'","\'") ~ "'"}> }
-  token LOCALIZED-SUFFIX { <{"'" ~ %*symbols<suffix>.subst("'","\'") ~ "'"}> }
-  token LOCALIZED-INTEGER {
-    [
-		|| <{"<[" ~ %*symbols<digits>.join ~ "]>"}>
-		|| <{"'" ~ %*symbols<,>.subst("'","\'") ~ "'"}>
-		]*
-		{
-			my %h = (%*symbols<digits><> Z 0..9).flat.Hash;
-			make $/.Str.split(%*symbols<,>).join.comb.map({ %h{$_} }).join.Int
-		}
-  }
-  token LOCALIZED-FRACTION   {
-  	[
-  	|| <{"<[" ~ %*symbols<digits>.join ~ "]>"}>
-  	|| <{"'" ~ %*symbols<,>.subst("'","\'") ~ "'"}>
-  	]+
-		{
-			my %h = (%*symbols<digits><> Z 0..9).flat.Hash;
-			make $/.Str.split(%*symbols<,>).join.comb.map({ %h{$_} }).join.Int
-		}
-  }
-  token LOCALIZED-EXPONENT   { 
-		<{"'" ~ %*symbols<E>.subst("'","\'") ~ "'"}>
-		(
-			[
-			| <{"'" ~ %*symbols<+>.subst("'","\'") ~ "'"}>
-			| <{"'" ~ %*symbols<->.subst("'","\'") ~ "'"}>
-			]?
-		)
-		(
-			<{"<[" ~ %*symbols<digits>.join ~ "]>"}>+
-		)
-		{
-			my %h = (%*symbols<digits><> Z 0..9).flat.Hash;
-			make $1.Str.split(%*symbols<,>).join.comb.map({ %h{$_} }).join.Int * ($0 eq '-' ?? -1 !! 1)
-		}
-	}
-}
-
 sub number-finder-symbols($language, $system) is export {
   my %symbols = get-numeric-symbols($language, :$system).symbols;
   my @digits = %decimal-systems{$system};
   %symbols<digits> = @digits;
   %symbols<to-number> = (@digits Z 0..9).flat.Hash;
   return %symbols;
+}
+
+sub get-digits($language) is export {
+    get-decimal-system(get-default-number-system $language);
+}
+
+sub get-decimal-system($system) is export {
+    with %decimal-systems{$system} {
+        .return
+    }
+    warn "Requested system “$system” does not exist.  Using default (0-9).";
+    %decimal-systems<Latn>;
 }

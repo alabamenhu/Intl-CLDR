@@ -9,13 +9,14 @@ use Intl::CLDR::Classes::Base;
 # Data for root (which is probably the most complex with aliasing)
 #   is loaded in the BEGIN block.
 # All other languages are loaded upon request.
- # These separators are used to avoid clashing with any
+# These separators are used to avoid clashing with any
 
 # This hash is not protected
 my %data; # := CLDR-Item.new;
 
 sub cldr-data-for-lang($tag) is export {
-  # Inmediately return premade if it exists
+
+  # Inmediately return if it already has been loaded or requested
   return %data{$tag} if %data{$tag}:exists;
   say "Requesting main CLDR data for $tag";
 
@@ -37,11 +38,15 @@ sub cldr-data-for-lang($tag) is export {
     }
     @subtags.pop;
   }
-  # If no subtags were left, there is no CLDR data for the language,
-  # so we set the resolved language to the default 'root'
+
+  # If no subtags were left after peeling, there is no CLDR data for the language.
+  # The data for 'root' is used instead.
   my $language = @subtags ?? @subtags.join('-') !! 'root';
 
+  # If the loaded data doesn't match the request tag, bind the two together 
+  # so that future requests can be made instantaneously.
   %data{$tag} := %data{$language} if $tag ne $language;
+
   %data{$tag}
 }
 

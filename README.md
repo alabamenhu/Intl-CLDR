@@ -1,8 +1,13 @@
 # CLDR for Perl 6
 
-An attempt to bring in the data from CLDR into Perl 6.  Support is extremely
-early, and currently only brings in support for one bit of CLDR data:
-list formatting.   To use:
+An attempt to bring in the data from CLDR into Perl 6 and much of the functionality
+of ICU as well.  The current module structure should be considered highly experimental.
+Pre-1.0 I will aim to keep method names, etc, available with similar interfaces, but the
+module used to import them may change.  It's best to add version information to your use statement.
+
+The plan is to eventually spin off most of the ICU-like functionality into their own modules
+directly in the `Intl::` namespace, leaving Intl::CLDR exclusively for accessing the more-or-less
+raw CLDR data.
 
 ## Lists
 
@@ -121,37 +126,35 @@ There are also few different options for the formatting:
 While formatting should be fine when using default options, if you try to get
 fancy, things may currently break until I can better handle certain edge cases.
 
-Lastly, there is some preliminary support for localized number mining.  While
+Lastly, there is support for localized number mining.  While
 we all have used `\d+` to try to find numbers, now you can use a localized
 number token in your grammars.  Here's a quick example:
 
 ```perl6
-use Intl::CLDR::Numbers;
-grammar CleanupNoise does NumberFinder {
-  token TOP (%*symbols) {             # ⬅︎ this exactly named dynamic variable required
-    <noise> <localized-number> <noise>
-    { make $<localized-number>.made } # ⬅︎ best if placed in an action class
-  }
-  token noise { <[a..zA..Z]>* }
+grammar CleanupNoise {
+  use Intl::CLDR::Numbers::Finder;  # ⬅ imports the token <local-number>
+  token TOP   { <noise> <local-number> <noise> }
+  token noise { <[a..zA..Z]>*? }
 }
-my %symbols = number-finder-symbols('en','latn'); # ⬅︎ insert favorite language and system
+
+class CleanupNoiseActions {
+  use Intl::CLDR::Numbers::Finder;
+  also does Local-Numbers;  # ⬅ mixes in the method local-number();
+  token TOP { make <local-number>.made }
+}
 say CleanupNoise.parse("asdasd1.2345E3ewreyrhhb", :args(\(%symbols))).made
 # ↪︎ 1234.5  (it extracted 1.2345E3, or 1.2345 x 10³)
 ```
 
-This is unfortunately not as straightforward as formatting numbers, but it's
-not too bad.  When you create your grammar, give it the NumberFinder role (**warning**:
-name may change).  This allows you to use the `<localized-number>` token.
-The role is ignorant of the locale data (obtained through `number-finder-symbols($language,$decimal-system)`),
-though, and it gets this through the
-dynamic variable **`%*symbols`**.  The easiest way is to pass it along with
-whatever other variables your `TOP` method needs, but in the signature declare it
-as dynamic.  The `.made` for the `<localized-number>` token contains a number value.
-In the future, I may attach additional information (for example, if it was exponential,
-number of digits if zero-padded, etc) through mixins.  
+The <local-number> will default to the language obtained via UserLanguage.  If you'd
+like to override the language chosen, you can simply pass the language to the
+token, that is, `<local-number("ar")>"` to extract numbers in Arabic documents.
 
-I'm happy and open to suggestions on ways to more cleanly integrate the number
-searching into regexes/grammars.
+If you attach the actions via the mixed in role, the `.made` will be the value of the
+number (generally Int or Rat).  In the future, I may attach additional information
+(for example, if it was exponential, number of digits if zero-padded, etc) through mixins,
+but for now if you want that information, you can create your own `local-number($/)` method.
+The `Match` it receives should be fairly easy to understand.
 
 ## NumberSystems
 
@@ -197,7 +200,22 @@ frequently in medieval times.
    4999 if `:additive<all>`).  Because there were many ways of doing this,
    there are probably more options than necessary.  Defaults to False.
 
+## Genders
+
+CLDR contains some data about the way that languages combine genders.  This data
+is only for combining *people* and not arbitrary objects.  To use, there are
+three enum values, `Male`, `Female`, and `Other`.  Pass a list of these enums to
+`group-gender`, followed by an appropriate language tag.  Currently requires a
+language tag to be passed.  The result is the gender (in plural) that should be used
+with the group.  (`Other` is the CLDR terminology, in many languages it might be
+referred to as *neuter*)
+
+
+
 # Version History
+  * 0.4.1
+    * Greatly improved support for a <local-number> token.
+    * Added support for Genders (only people, as that's what CLDR data has).
   * 0.4.0
     * Initial support for importing all CLDR data into a single repository in `Intl::CLDR`
       * DateTime formatting currently uses it.

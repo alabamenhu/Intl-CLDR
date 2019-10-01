@@ -5,8 +5,8 @@ my %calendar-data;
    %calendar-data<root> := BEGIN { cldr-data-for-lang("root")<calendars>};
 
 grammar DateTimePattern {
-	      token TOP                  {     <element>+     }
-	proto token element              {         *          }
+        token TOP                  {     <element>+     }
+  proto token element              {         *          }
         token element:sym<literal> {      <text>+       }
         token element:sym<replace> { (<[a..zA..Z]>) $0* }
   proto token text                 {         *          }
@@ -29,6 +29,9 @@ class DateTimePatternAction {
 my @days = <null sun mon tue wed thu fri sat>;
 sub time-pattern-replace ($datetime, @pattern, $language, $calendar) {
   # This implements ICU's DateFormatSymbols::initializeData  but also formats at the same time.
+  # Right now I'm using a giant when block.  That's not very fast currently.
+  # Focus is to have things accurate and readable first.
+
   # these are the possible capitalization values { "day-format-except-narrow", DateFormatSymbols::kCapContextUsageDayFormat },
   # these are the possible capitalization values { "day-narrow",     DateFormatSymbols::kCapContextUsageDayNarrow },
   # these are the possible capitalization values { "day-standalone-except-narrow", DateFormatSymbols::kCapContextUsageDayStandalone },
@@ -67,7 +70,7 @@ sub time-pattern-replace ($datetime, @pattern, $language, $calendar) {
         when 'c',     6 { %c<days><stand-alone><short>{  @days[$datetime.day-of-week]} }
         when 'd',     1 {                                    ~  $datetime.day }
         when 'd',     2 { ($datetime.day <  10 ?? '0' !! '') ~  $datetime.day }
-        when 'D',     2 {                                                                                        ~ $datetime.day-of-year }
+        when 'D',     1 {                                                                                        ~ $datetime.day-of-year }
         when 'D',     2 {                                              ($datetime.day-of-year < 10 ?? '0' !! '') ~ $datetime.day-of-year }
         when 'D',     3 { ($datetime.day-of-year < 100 ?? '0' !! '') ~ ($datetime.day-of-year < 10 ?? '0' !! '') ~ $datetime.day-of-year }
         when 'E',  1..3 { %c<days><format><abbreviated>{ @days[$datetime.day-of-week]} }
@@ -140,7 +143,7 @@ sub time-pattern-replace ($datetime, @pattern, $language, $calendar) {
       # when 'Z',  1..3 { short non location, fall back to xxxx }
       # when 'Z',     4 { short non location, fall back to OOOO }
       # when 'Z',     5 { short non location, fall back to XXXXX }
-        default { say "Unknown replacement value {$_[0]} (type {$_[1]})" }
+        default { say "Unknown or unimplemented replacement value {$_[0]} (type {$_[1]})" }
       }) // '' # and if anything bombs, nothing TODO use the last-resort values (normally numeric)
     }
   }

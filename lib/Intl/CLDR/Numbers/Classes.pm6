@@ -36,7 +36,7 @@ class SymbolSet is export {
     '.' => $!decimal,   '-' => $!minus-sign,   'E' => $!exponential,
     '+' => $!plus-sign, '%' => $!percent-sign, '‰' => $!per-mille,
     ',' => $!group,     '¤' => '¤', # This technically shouldn't be here, TODO rework to remove
-    '∞' => $!infinity,  ':' => $!time-separator, nan => $!nan,
+    '∞' => $!infinity,  ':' => $!time-separator, 'nan' => $!nan,
     "×" => $!superscripting-exponent
     )
   }
@@ -48,7 +48,7 @@ class LazyFormat is export {
   has %!negative;
   has %!positive;
   method new (Str $pattern) { self.bless(:$pattern) }
-  method format() {
+  method format {
     unless $!formatted {
       $!formatted = True;
       my %format = parse-pattern($.pattern);

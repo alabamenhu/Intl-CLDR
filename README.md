@@ -137,12 +137,12 @@ grammar CleanupNoise {
   token noise { <[a..zA..Z]>*? }
 }
 
-class CleanupNoiseActions {
+class CNActions {
   use Intl::CLDR::Numbers::Finder;
-  also does Local-Numbers;  # ⬅ mixes in the method local-number();
+  also does Local-Numbers;   # ⬅ mixes in the method local-number();
   token TOP { make <local-number>.made }
 }
-say CleanupNoise.parse("asdasd1.2345E3ewreyrhhb", :args(\(%symbols))).made
+say CleanupNoise.parse("asdasd1.2345E3ewreyrhhb", :actions(CNActions).made
 # ↪︎ 1234.5  (it extracted 1.2345E3, or 1.2345 x 10³)
 ```
 

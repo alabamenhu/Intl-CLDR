@@ -8,7 +8,7 @@
   ],
   "auth": "github:alabamenhu",
   "depends": [
-    "Intl::BCP47",
+    "Intl::LanguageTag",
     "Intl::UserLanguage"
   ],
   "build-depends": [],
@@ -28,11 +28,13 @@
     "Intl::CLDR::Numbers::Finder": "lib/Intl/CLDR/Numbers/Finder.pm6",
     "Intl::CLDR::Numbers::PatternParser": "lib/Intl/CLDR/Numbers/PatternParser.pm6",
     "Intl::CLDR::Plurals": "lib/Intl/CLDR/Plurals.pm6",
-    "Intl::CLDR::Plurals::Classes": "lib/Intl/CLDR/Plurals/Classes.pm6"
+    "Intl::CLDR::Plurals::Classes": "lib/Intl/CLDR/Plurals/Classes.pm6",
+    "Intl::Format::DateTime": "lib/Intl/Format/DateTime.pm6"
   },
   "resources": [
     "languages/root.data",
     "languages/en.data",
+    "languages/ast.data",
     "ListFormatting.data",
     "NumberFormatting.data",
     "NumberPatterns.data",

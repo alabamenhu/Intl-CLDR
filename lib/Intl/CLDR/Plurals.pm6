@@ -1,6 +1,6 @@
 unit module Plurals;
 use Intl::CLDR::Plurals::Classes;
-use Intl::BCP47;
+use Intl::LanguageTag;
 
 my %checkers = BEGIN {
   my %data = ();

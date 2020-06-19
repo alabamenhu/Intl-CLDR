@@ -1,4 +1,3 @@
-use lib '../../../';
 use Intl::CLDR;
 
 my %calendar-data;

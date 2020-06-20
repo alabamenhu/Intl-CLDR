@@ -46,7 +46,7 @@ sub format-number(
     :%symbols     = get-numeric-symbols($language, :$system).symbols,
     # If specified, pattern overrides whatever may be obtained otherwise.
     # because it can be a Str or a pattern object (lazy or direct) of some sort.
-    :$pattern is copy = False
+    :$pattern? is copy
     ) is export {
 
   without $pattern {

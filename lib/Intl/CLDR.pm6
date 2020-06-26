@@ -1,6 +1,4 @@
-#unit module CLDR;
-#use lib '../../';
-use Intl::CLDR::Immutability;
+unit module CLDR;
 use Intl::CLDR::Classes::Base;
 # To mirror Go's implementation: https://godoc.org/golang.org/x/text/unicode/cldr
 #
@@ -14,20 +12,20 @@ use Intl::CLDR::Classes::Base;
 # This hash is not protected
 my %data; # := CLDR-Item.new;
 
-sub cldr-data-for-lang($tag) is export {
+sub cldr-data-for-lang(Str() $tag) is export {
 
   # Inmediately return if it already has been loaded or requested
   return %data{$tag} if %data{$tag}:exists;
-  say "Requesting main CLDR data for $tag";
+  #say "Requesting main CLDR data for $tag";
 
   # TODO Some better logic needs to be placed here for peeling off subtags.  That may best go into
   # the BCP47 module instead (for example, if given en-Latn-UK only en will be loaded, but Latn is
   # assumed for en.)
   my @subtags = $tag.split('-');
-  say "  Subtags: ", @subtags;
+  #say "  Subtags: ", @subtags;
   while @subtags {
     my $language = @subtags.join('-');
-    last if %data{$language}:exists;
+    last with %data{$language};
     try {
       quietly { # The .extension test will generate a warning
         if %?RESOURCES{"languages/{$language}.data"}.extension { # this is the quick way to test to see if the file exists
@@ -51,7 +49,7 @@ sub cldr-data-for-lang($tag) is export {
 }
 
 sub load-data($tag) {
-  say "CLDR: Loading data for $tag";
+  #say "CLDR: Loading data for $tag";
 
   my \sep   = 31.chr;
   my \sep2  = 30.chr;

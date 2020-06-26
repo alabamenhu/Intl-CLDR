@@ -1,4 +1,3 @@
-use lib '../../../';
 use Intl::CLDR;
 
 my %calendar-data;
@@ -13,17 +12,19 @@ grammar DateTimePattern {
         token text:sym<apostrophe> {        \'\'        }
         token text:sym<literal>    {   <-[a..zA..Z']>+  }
         token text:sym<quoted>     {         \'           # apostrophes only allowed
-                                    ( <-[']>+ || \'\' )+  # if doubled, action reduces it
+                                    [ <-[']>+ || \'\' ]+  # if doubled, action reduces it
                                              \'         } # down to one
 }
 
 class DateTimePatternAction {
   method TOP                  ($/) { make $<element>.map: *.made }
-  method element:sym<literal> ($/) { make %(type => 'literal', text => $<text>.map(*.made).join) }
+  method element:sym<literal> ($/) {
+      make %(type => 'literal', text => $<text>.map(*.made).join)
+  }
   method element:sym<replace> ($/) { make %(type => 'replace', style => $/.Str.chars, code => $0)}
   method text:sym<apostrophe> ($/) { make "'" }
   method text:sym<literal>    ($/) { make $/.Str }
-  method text:sym<quoted>     ($/) { make $0.map({ $_.Str eq "''" ?? "'" !! $_.Str }).join };
+  method text:sym<quoted>     ($/) { make $/.Str.substr(1, *-1).subst("''","'") };
 }
 
 my @days = <null sun mon tue wed thu fri sat>;
@@ -138,25 +139,67 @@ sub time-pattern-replace ($datetime, @pattern, $language, $calendar) {
         when 'Y',     1 { $datetime.week-year }
         when 'Y',     2 { $datetime.week-year.Str.substr(*-2,2) }
         when 'Y', * > 3 { '0' x ($_[1] - $datetime.week-year.Str.chars ) ~ $datetime.week-year }
+        when 'z'|'Z'|'O', * { '' }
       # when 'z',  1..3 { short non location, fall back to O }
       # when 'z',     4 { short non location, fall back to OOOO }
       # when 'Z',  1..3 { short non location, fall back to xxxx }
       # when 'Z',     4 { short non location, fall back to OOOO }
       # when 'Z',     5 { short non location, fall back to XXXXX }
-        default { say "Unknown or unimplemented replacement value {$_[0]} (type {$_[1]})" }
+        default { say "Unknown or unimplemented replacement value {$_[0]} (type {$_[1]})"; Nil }
       }) // '' # and if anything bombs, nothing TODO use the last-resort values (normally numeric)
     }
   }
 }
 
-sub language($language) {
+sub language(Str() $language) {
   ##say "Getting calendar data for $language ", %calendar-data{$language}:exists ?? '(loaded)' !! '(unloaded)';
-  unless %calendar-data{$language}:exists {
-    %calendar-data{$language} := cldr-data-for-lang($language)<calendars>;
+  .return with %calendar-data{$language};
+
+  # current language requested does not exist, so we track it down.
+  my @subtags = $language.split: '-';
+  my $calendar;
+  my $alt-lang;
+  while @subtags {
+    $alt-lang = @subtags.join('-');
+    last if $calendar := cldr-data-for-lang(@subtags.join('-'))<calendars>;
+    @subtags.pop;
   }
-  %calendar-data{$language}
+  %calendar-data{$alt-lang} := $calendar;
+  %calendar-data{$language} := $calendar;
 }
 
-sub format-time ($time, :$calendar = 'gregorian', :$length = 'medium', :$alt = 'standard') {
-  say %calendar-data{$calendar}<timeFormats>{$length};
+use Intl::UserLanguage;
+sub format-time (DateTime() $time, :$language = user-language, :$calendar = 'gregorian', :$length = 'medium', :$alt = 'standard') is export {
+  my $pattern =  language($language){$calendar}<timeFormats>{$length}{$alt};
+  time-pattern-replace($time, DateTimePattern.parse($pattern, :actions(DateTimePatternAction)).made, $language, $calendar)
+}
+
+multi sub format-date(DateTime() $date, :$language = user-language, :$calendar = 'gregorian', :$length = 'medium', :$alt = 'standard') is export {
+  my $pattern =  language($language){$calendar}<dateFormats>{$length}{$alt};
+  time-pattern-replace($date, DateTimePattern.parse($pattern, :actions(DateTimePatternAction)).made, $language, $calendar)
+}
+
+#multi sub format-date(Date $date, |c) {
+#    samewith DateTime.new(:$date), c
+#}
+
+sub format-datetime(DateTime() $datetime, :$language = user-language, :$calendar = 'gregorian', :$length = 'medium', :$alt = 'standard') is export {
+    my $combo-pattern := language($language){$calendar}<dateTimeFormats>{$length}.subst("'","", :g);
+                                                                                 # ^^ HOTFIX: TODO: parse this string correctly
+    my $time-pattern  := language($language){$calendar}<timeFormats>{$length}{$alt};
+    my $date-pattern  := language($language){$calendar}<dateFormats>{$length}{$alt};
+    my $date = time-pattern-replace
+            $datetime,
+            DateTimePattern.parse($date-pattern, :actions(DateTimePatternAction)).made,
+            $language,
+            $calendar;
+    my $time = time-pattern-replace
+            $datetime,
+            DateTimePattern.parse($time-pattern, :actions(DateTimePatternAction)).made,
+            $language,
+            $calendar;
+    $combo-pattern.subst:
+        / '{' (0|1) '}' /,               # {0} and {1} are the replacement tokens
+        { ~$0 eq '0' ?? $time !! $date }, # 0 = time in CLDR formats
+        :g;
 }

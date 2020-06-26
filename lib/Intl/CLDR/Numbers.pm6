@@ -5,6 +5,7 @@ use Intl::UserLanguage;
 use Intl::CLDR::Numbers::PatternParser;
 
 
+# All of these are basically used to cache data
 my @patterns;
 my @symbols;
 my %default-systems;
@@ -12,6 +13,7 @@ my %numeric-systems;
 my %decimal-systems;
 my %pattern-db;
 
+# This data will only change once per update to CLDR, so compile-time spares us much work
 BEGIN {
   @patterns = %?RESOURCES<NumberPatterns.data>.lines.map({LazyFormat.new($_)});
   @symbols  = %?RESOURCES<NumericSymbols.data>.lines.map({ SymbolSet.new($_)});
@@ -26,44 +28,54 @@ BEGIN {
   }
 }
 
-
+# TODO There shouldn't be a need to use "is copy".  Let's get rid of this
+# The type/format oddity is because 'type' makes the most sense to the average user,
+#   but internally is used for a different purpose.
 sub format-number(
-    $number is copy,
-    # The following are the general format types in order of precedence.
-    :$engineering = False,
-    :$scientific  = $engineering, # engineering requires exponential
-    :$percent     = False,
-    :$short       = False,
-    :$long        = False,
-    # Default to the user's top language unless otherwise passed.
-    :$language    = INIT {user-language},
-    # Rarely, if ever, used, could/should be obtained from -u tag as well
-    :$system      = get-default-number-system($language),
-    # Generally called only via localization modules
-    :$count       = 'other',
-    # These could be specified by the user, and should eventually be exposed
-    # in a more transparent way.
-    :%symbols     = get-numeric-symbols($language, :$system).symbols,
-    # If specified, pattern overrides whatever may be obtained otherwise.
-    # because it can be a Str or a pattern object (lazy or direct) of some sort.
-    :$pattern is copy = False
+    $number is copy,                                        #= The number to be formatted
+    :type(:$format) = 'decimal',                            #= Number format style, defaults to 'decimal' (can be 'percent', 'scientific' or 'engineering')
+    :$length        = 'standard',                           #= Number format length, defaults to 'standard' (can be 'long' or 'short')
+    :$language      = INIT {user-language},                 #= Language for formatting, defaults to user-language.
+    :$system        = get-default-number-system($language), #= Decimal system for formatting. Rarely used, TODO: check -u tag as well
+    :$count         = 'other',                              #= The grammatical count for formatting. Defaults to 'other' and overridden only by localization frameworks
+    :%symbols       = get-numeric-symbols($language, :$system).symbols, #= The symbols, such as decimal points, used in formatting.
+    :$pattern? is copy,
+
+    # DEPRECATED - general format types in order of precedence
+    :$engineering? = False,
+    :$scientific?  = $engineering, # engineering requires exponential
+    :$percent?     = False,
+    :$short?       = False,
+    :$long?        = False,
+
     ) is export {
 
+  # Check if any deprecated parameters are used.
+  # Deprecated as of 2020-06-20.  Suggested permanent removal: 2021-06-01
+  if $engineering || $scientific || $percent {
+      once warn "The named parameters :engineering, :scientific, :decimal, and :percent are deprecated.\n"
+              ~ "Please specify using the named parameter :type instead (e.g. :type<percent>)";
+      $format  = ('engineering' if $engineering)
+              // ('scientific'  if $scientific)
+              // 'percent';
+  }
+
+  if $short || $long {
+      once warn "The named parameters :short and :long are deprecated.\n"
+              ~ "Please specify using the named parameter :length instead (e.g. :length<long>)";
+      $length = $short ?? 'short' !! 'long'
+  }
+
+
+  # This is complex enough I moved it outside of the signature
   without $pattern {
-    $pattern = get-number-pattern(
-      $language, :$system, :$count,
-      :length($scientific || $percent || (!$short && !$long)
-                ?? 'standard'
-                !! $long ?? 'long' !! 'short' ),
-      :format($scientific
-                ?? 'scientific'
-                !! $percent ?? 'percent' !! 'decimal' ),
-      :type(  ($long || $short)
-                ?? $number > 1000
-                    ?? 10 ** ($number.abs.log10.ceiling - 1) # lowest 10+
-                    !! 1000 # 1, 10, 100 will error
-                !! 'standard' )
-    );
+    $pattern = get-number-pattern $language,
+                    :$system, :$count, :$length, :$format,
+                    :type( $length ne 'standard'
+                              ?? $number > 1000
+                                  ?? 10 ** ($number.abs.log10.ceiling - 1) # lowest 10+
+                                  !! 1000 # 1, 10, 100 will error
+                              !! 'standard' );
   }
 
   my %pattern; # will be guaranteed to be an accessible pattern
@@ -111,13 +123,13 @@ sub get-number-pattern(
   :$type   = 'standard',
   :$format = 'decimal'
 ) is export {
-  return %pattern-db{$language}{$format}{$system}{$length}{$type}{$count}
-      if %pattern-db{$language}{$format}{$system}{$length}{$type}{$count}:exists;
+  .return with %pattern-db{$language}{$format}{$system}{$length}{$type}{$count};
+      #if %pattern-db{$language}{$format}{$system}{$length}{$type}{$count}:exists;
+
   # If a requested combination reaches this point, there is a high probability
-  # that it will be requested again.  So (1) we attempt to determine the pattern
-  # that best matches the request, and (2) bind the result to the requested
-  # combination's value, to shortcircuit the process in the future with minimal
-  # extra overhead.
+  # that it will be requested again.  So we
+  #   (1) we attempt to determine the pattern that best matches the request and
+  #   (2) bind the result to the requested combination's value because look up is costly
 
   # I'm sure there's a way to simplify this selection process, but...
   my @subtags = $language.split('-');
@@ -138,14 +150,15 @@ sub get-number-pattern(
       }
     }
 
+    # This is a cheap way of saying that decimal is the backup
     my @formats-to-try = $format eq 'decimal' ?? ($format,'decimal') !! ($format,);
 
     FORMAT:
     for @formats-to-try -> $alt-format {
 
       my @systems-to-try = $system eq get-default-number-system($language)
-                            ?? ($system,)
-                            !! ($system,get-default-number-system($language));
+                            ?? ($system,'latn')
+                            !! ($system,get-default-number-system($language),'latn');
 
 
       SYSTEM:
@@ -228,47 +241,49 @@ sub load-patterns($language) {
 multi sub get-numeric-symbols( 'root', :$system = "latn") is export {
   %numeric-systems<root>{$system}
 }
-multi sub get-numeric-symbols(Str() $language, :$system = "") is export  {
-  # TODO if the language tag includes a -u subtag that indicates numeric system
-  # then :$system should be ignored.
+multi sub get-numeric-symbols(Str() $language, :$system = "") is export {
+    # TODO if the language tag includes a -u subtag that indicates numeric system
+    # then :$system should be ignored.
 
-  return %numeric-systems{$language}{$system}
-      if (%numeric-systems{$language}:exists)
-      && (%numeric-systems{$language}{$system}:exists);
+    return %numeric-systems{$language}{$system}
+    if (%numeric-systems{$language}:exists)
+            && (%numeric-systems{$language}{$system}:exists);
 
-  # If a requested combination reaches this point, there is a high probability
-  # that it will be requested again.  So (1) we attempt to determine the system
-  # that should be used, and (2) bind the result to the requested combination's
-  # value, to shortcircuit the process in the future with minimal extra
-  # overhead. This is particular necessary if a code like 'es-Hebr-ES-x-foo'
-  # requests symbols for 'arab'.  We check in the following order:
-  #    1. es-Hebr-ES-x-foo exists? NO,  remove a subtag
-  #    2. es-Hebr-ES-x     exists? NO,  remove a subtag
-  #    3. es-Hebr-ES       exists? NO,  remove a subtag
-  #    4. es-Hebr          exists? NO,  remove a subtag
-  #    5. es               exists? YES, check with system
-  #    6. es + arab        exists? NO,  check the default (es+latn)
-  #    7. es + latn        exists? YES  use.
-  #    8. root + latn      (if es+latn did not exist)
+    # If a requested combination reaches this point, there is a high probability
+    # that it will be requested again.  So (1) we attempt to determine the system
+    # that should be used, and (2) bind the result to the requested combination's
+    # value, to shortcircuit the process in the future with minimal extra
+    # overhead. This is particular necessary if a code like 'es-Hebr-ES-x-foo'
+    # requests symbols for 'arab'.  We check in the following order:
+    #    1. es-Hebr-ES-x-foo exists? NO,  remove a subtag
+    #    2. es-Hebr-ES-x     exists? NO,  remove a subtag
+    #    3. es-Hebr-ES       exists? NO,  remove a subtag
+    #    4. es-Hebr          exists? NO,  remove a subtag
+    #    5. es               exists? YES, check with system
+    #    6. es + arab        exists? NO,  check the default (es+latn)
+    #    7. es + latn        exists? YES  use.
+    #    8. root + latn      (if es+latn did not exist)
 
-  my @subtags = $language.split(':');
+    my @subtags = $language.split(':');
 
-  while @subtags {
-    last if %numeric-systems{@subtags.join(':')}:exists;
-    @subtags.pop;
-  }
+    while @subtags {
+        last if %numeric-systems{@subtags.join(':')}:exists;
+        @subtags.pop;
+    }
 
-  my $alt-language = @subtags ?? @subtags.join(':') !! 'root';
-  my $alt-system;
+    my $alt-language = @subtags ?? @subtags.join(':') !! 'root';
+    my $alt-system;
 
-  if %numeric-systems{$language}{$system}:exists {
-    my $alt-system = $system;
-  } else {
-    $alt-system = 'latn' unless $alt-system = get-default-number-system($alt-language);
-  }
+    if %numeric-systems{$alt-language}{$system}:exists {
+        my $alt-system = $system;
+    } else {
+        $alt-system = 'latn' unless $alt-system = get-default-number-system($alt-language);
+    }
 
-  # Bind to the best match and return implicitly
-  %numeric-systems{$language}{$system} := %numeric-systems{$alt-language}{$alt-system};
+    # Bind to the best match and return implicitly
+    %numeric-systems{$language}{$system} := (%numeric-systems{$alt-language}{$alt-system}
+                                         || %numeric-systems<root>{$alt-system}
+                                         || %numeric-systems<root><latn>);
 }
 
 sub get-default-number-system($language)  is export  {

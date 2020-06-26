@@ -1,5 +1,4 @@
 unit module Classes;
-use Intl::CLDR::Numbers::PatternParser;
 
 class SymbolSet is export {
   has Str $.decimal;
@@ -31,8 +30,9 @@ class SymbolSet is export {
       :time-separator(@s[11])
     )
   }
+
   method symbols   {
-    return %(
+    return Map.new(
     '.' => $!decimal,   '-' => $!minus-sign,   'E' => $!exponential,
     '+' => $!plus-sign, '%' => $!percent-sign, '‰' => $!per-mille,
     ',' => $!group,     '¤' => '¤', # This technically shouldn't be here, TODO rework to remove
@@ -40,6 +40,23 @@ class SymbolSet is export {
     "×" => $!superscripting-exponent
     )
   }
+}
+
+class FormatPattern {
+    has Int  $.maximum-integer-digits;
+    has Int  $.maximum-fraction-digits;
+    has Int  $.maximum-significant-digits;
+    has Int  $.minimum-integer-digits;
+    has Int  $.minimum-fraction-digits;
+    has Int  $.minimum-significant-digits;
+    has Int  $.minimum-exponent-digits;
+    has str  $.pad-character;
+    has Int  $.grouping-size;
+    has Int  $.secondary-grouping-size;
+    has Int  $.fraction-grouping-size;
+    has Int  $.prefix;
+    has Int  $.suffix;
+    has Bool $.use-plus-sign;
 }
 
 class LazyFormat is export {
@@ -50,11 +67,15 @@ class LazyFormat is export {
   method new (Str $pattern) { self.bless(:$pattern) }
   method format {
     unless $!formatted {
+      use Intl::CLDR::Numbers::PatternParser;
+
       $!formatted = True;
-      my %format = parse-pattern($.pattern);
+      my %format = parse-pattern $!pattern;
       %!positive = %format<positive>;
       %!negative = %format<negative>;
     }
-    return %(positive => %!positive.deepmap(*.clone), negative => %!negative.deepmap(*.clone));
+
+    #return %(positive => %!positive.deepmap(*.clone), negative => %!negative.deepmap(*.clone));
+    return %(positive => %!positive.clone, negative => %!negative.clone);
   }
 }

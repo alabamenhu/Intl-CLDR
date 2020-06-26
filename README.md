@@ -1,6 +1,6 @@
-# CLDR for Perl 6
+# CLDR for Raku (née Perl 6)
 
-An attempt to bring in the data from CLDR into Perl 6 and much of the functionality
+An attempt to bring in the data from CLDR into Raku and much of the functionality
 of ICU as well.  The current module structure should be considered highly experimental.
 Pre-1.0 I will aim to keep method names, etc, available with similar interfaces, but the
 module used to import them may change.  It's best to add version information to your use statement.
@@ -9,12 +9,22 @@ The plan is to eventually spin off most of the ICU-like functionality into their
 directly in the `Intl::` namespace, leaving Intl::CLDR exclusively for accessing the more-or-less
 raw CLDR data.
 
+## CLDR data notes
+
+I am currently aiming to have the CLDR database (accessible via `cldr-data-for-lang`) to be 'smarter'. 
+Historically, it was just multileveled hashes within hashes.
+The advantage of converting it to using attributes are much faster than hash lookups, and by having specialized objects, I can provide fairly explicit fallback instructions.
+For both backwards compatibility and usability (no one likes `$foo."$bar"` over `$foo{$bar}`) you can use both styles of references.
+
+Some CLDR data is not immediately usable.
+I welcome suggestions as to the best ways to provide access to it (for example, preexpanding sequences like `[a-d]` into `abcd`, or simply providing a sub that does the work, or some combination thereof).
+
 ## Lists
 
 ```perl6
     use Intl::CLDR::Lists;
-    say format-list(<apple orange banana>);           # apple, orange, and banana
-    say format-list(<apple orange banana> :type<or>); # apple, orange, or banana
+    say format-list <apple orange banana>;           # apple, orange, and banana
+    say format-list <apple orange banana>, :type<or>; # apple, orange, or banana
 ```
 
 There are nine types of lists defined in CLDR (example from `en`):
@@ -132,13 +142,13 @@ number token in your grammars.  Here's a quick example:
 
 ```perl6
 grammar CleanupNoise {
-  use Intl::CLDR::Numbers::Finder;  # ⬅ imports the token <local-number>
+  use Number;  # ⬅ imports the token <local-number>
   token TOP   { <noise> <local-number> <noise> }
   token noise { <[a..zA..Z]>*? }
 }
 
 class CNActions {
-  use Intl::CLDR::Numbers::Finder;
+  use Number;
   also does Local-Numbers;   # ⬅ mixes in the method local-number();
   token TOP { make <local-number>.made }
 }
@@ -213,6 +223,9 @@ referred to as *neuter*)
 
 
 # Version History
+  * 0.4.2
+    * Added some new tokens <local-alpha>, etc.
+    * Initial support for format-date and others.
   * 0.4.1
     * Greatly improved support for a <local-number> token.
     * Added support for Genders (only people, as that's what CLDR data has).

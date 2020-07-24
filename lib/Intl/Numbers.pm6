@@ -80,7 +80,7 @@ sub format-number(
 
   my %pattern; # will be guaranteed to be an accessible pattern
   if $pattern.isa(Str) {
-    %pattern = parse-pattern($pattern);
+        %pattern = parse-pattern($pattern);
   } elsif $pattern.isa(LazyFormat) {
     %pattern := $pattern.format;
   } else {

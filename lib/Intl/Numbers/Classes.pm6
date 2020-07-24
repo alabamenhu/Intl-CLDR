@@ -1,18 +1,18 @@
 unit module Classes;
 
 class SymbolSet is export {
-  has Str $.decimal;
-  has Str $.group;
-  has Str $.list;
-  has Str $.percent-sign;
-  has Str $.plus-sign;
-  has Str $.minus-sign;
-  has Str $.exponential;
-  has Str $.superscripting-exponent;
-  has Str $.per-mille;
-  has Str $.infinity;
-  has Str $.nan;
-  has Str $.time-separator;
+  has str $.decimal;
+  has str $.group;
+  has str $.list;
+  has str $.percent-sign;
+  has str $.plus-sign;
+  has str $.minus-sign;
+  has str $.exponential;
+  has str $.superscripting-exponent;
+  has str $.per-mille;
+  has str $.infinity;
+  has str $.nan;
+  has str $.time-separator;
   multi method new (Str $text) { samewith $text.split(31.chr) }
   multi method new (@s) {
     self.bless(
@@ -67,7 +67,7 @@ class LazyFormat is export {
   method new (Str $pattern) { self.bless(:$pattern) }
   method format {
     unless $!formatted {
-      use Intl::CLDR::Numbers::PatternParser;
+      use Intl::Numbers::PatternParser;
 
       $!formatted = True;
       my %format = parse-pattern $!pattern;

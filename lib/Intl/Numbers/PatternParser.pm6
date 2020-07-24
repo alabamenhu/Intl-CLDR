@@ -11,7 +11,8 @@ grammar Pattern {
                         || <prefix>? '#' <suffix>? <?{ $<prefix> || $<suffix> }> # need at least one
                        }
   token pattern {
-    <padding>? # Note the pad spec can only match once.
+    # TODO: padding may only be indicated *once*
+    <padding>?
     <prefix>?
     <padding>?
     <number>

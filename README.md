@@ -87,7 +87,7 @@ be used upon outside of localization frameworks.
 Easy to use number formatter.  
 
 ```perl6
-use Intl::CLDR::Numbers;
+use Intl::Numbers;
 format-decimal($number);
 ```
 
@@ -173,7 +173,7 @@ because they *technically* are not defined in CLDR, just referenced.  There is
 no generalized method of converting numbers yet, but I imagine the syntax will
 be something like
 ```perl6
-use Intl::CLDR::Numbers;
+use Intl::Numbers;
 format-number(63, :system<ge'ez>); # ፷፫
 format-number(35, :system<roman>); # XXXV
 ```

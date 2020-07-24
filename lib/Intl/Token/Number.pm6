@@ -4,7 +4,7 @@
 
 # Need to manually export to properly wrap the token
 sub EXPORT {
-    use Intl::CLDR::Numbers;
+    use Intl::Numbers;
 
     my token negative { $( $*symbols.minus-sign   ) }
     my token positive { $( $*symbols.plus-sign    ) }

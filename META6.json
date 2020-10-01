@@ -26,6 +26,7 @@
     "Intl::CLDR::Plurals::Classes": "lib/Intl/CLDR/Plurals/Classes.pm6",
     "Intl::Format::DateTime": "lib/Intl/Format/DateTime.pm6",
     "Intl::Numbers": "lib/Intl/Numbers.pm6",
+    "Intl::CLDR::Numbers::Classes": "lib/Intl/Numbers/Classes.pm6",
     "Intl::Numbers::Classes": "lib/Intl/Numbers/Classes.pm6",
     "Intl::Numbers::Enums": "lib/Intl/Numbers/Enums.pm6",
     "Intl::Numbers::NumberFinder": "lib/Intl/Token/Number.pm6",

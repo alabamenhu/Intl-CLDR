@@ -1,7 +1,7 @@
 {
   "name": "Intl::CLDR",
   "description": "A module for all the international stuff you could ever need in Perl 6, via the Unicode CLDR",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "perl": "6.*",
   "authors": [
     "Matthew ‘Matéu’ Stephen STUCKWISCH <mateu@softastur.com>"

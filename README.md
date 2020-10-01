@@ -223,6 +223,9 @@ referred to as *neuter*)
 
 
 # Version History
+  * 0.4.3
+    * Fixed install issues
+    * Significant work towards fast attribute access (works on Calendar items)
   * 0.4.2
     * Added some new tokens <local-alpha>, etc.
     * Initial support for format-date and others.

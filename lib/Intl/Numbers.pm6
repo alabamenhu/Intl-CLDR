@@ -1,8 +1,8 @@
 unit module Numbers;
-use Intl::CLDR::Numbers::Classes;
-use Intl::CLDR::Numbers::Enums;
+use Intl::Numbers::Classes;
+use Intl::Numbers::Enums;
 use Intl::UserLanguage;
-use Intl::CLDR::Numbers::PatternParser;
+use Intl::Numbers::PatternParser;
 
 
 # All of these are basically used to cache data

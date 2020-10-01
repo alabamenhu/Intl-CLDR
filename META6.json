@@ -32,6 +32,7 @@
     "Intl::CLDR::Numbers::Enums": "lib/Intl/Numbers/Enums.pm6",
     "Intl::Numbers::NumberFinder": "lib/Intl/Token/Number.pm6",
     "Intl::Numbers::PatternParser": "lib/Intl/Numbers/PatternParser.pm6",
+    "Intl::CLDR::Numbers::PatternParser": "lib/Intl/Numbers/PatternParser.pm6",
     "Intl::Token::Alpha": "lib/Intl/Token/Alpha.pm6",
     "Intl::Token::Number": "lib/Intl/Token/Number.pm6",
     "Intl::Token::Punct": "lib/Intl/Token/Punct.pm6"

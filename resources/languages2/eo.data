@@ -1,0 +1,1095 @@
+”quotationEnddelimiters
+’alternateQuotationEnddelimiters
+“quotationStartdelimiters
+‘alternateQuotationStartdelimiters
+ne:nnostrmessagesposix
+jes:jyesstrmessagesposix
+centra indonezia tempostandardlongIndonesia_CentralmetazonetimeZoneNamesdates
+israela tempogenericlongIsraelmetazonetimeZoneNamesdates
+israela norma tempostandardlongIsraelmetazonetimeZoneNamesdates
+israela somera tempodaylightlongIsraelmetazonetimeZoneNamesdates
+okcidenta indonezia tempostandardlongIndonesia_WesternmetazonetimeZoneNamesdates
+orienta indonezia tempostandardlongIndonesia_EasternmetazonetimeZoneNamesdates
+universala tempo kunordigitastandardlongGMTmetazonetimeZoneNamesdates
+centra nord-amerika somera tempodaylightlongAmerica_CentralmetazonetimeZoneNamesdates
+centra nord-amerika tempogenericlongAmerica_CentralmetazonetimeZoneNamesdates
+centra nord-amerika norma tempostandardlongAmerica_CentralmetazonetimeZoneNamesdates
+atlantika nord-amerika norma tempostandardlongAtlanticmetazonetimeZoneNamesdates
+atlantika nord-amerika tempogenericlongAtlanticmetazonetimeZoneNamesdates
+atlantika nord-amerika somera tempodaylightlongAtlanticmetazonetimeZoneNamesdates
+hindoĉina tempostandardlongIndochinametazonetimeZoneNamesdates
+orienta eŭropa norma tempostandardlongEurope_EasternmetazonetimeZoneNamesdates
+orienta eŭropa tempogenericlongEurope_EasternmetazonetimeZoneNamesdates
+orienta eŭropa somera tempodaylightlongEurope_EasternmetazonetimeZoneNamesdates
+pacifika nord-amerika norma tempostandardlongAmerica_PacificmetazonetimeZoneNamesdates
+pacifika nord-amerika tempogenericlongAmerica_PacificmetazonetimeZoneNamesdates
+pacifika nord-amerika somera tempodaylightlongAmerica_PacificmetazonetimeZoneNamesdates
+araba tempogenericlongArabianmetazonetimeZoneNamesdates
+araba norma tempostandardlongArabianmetazonetimeZoneNamesdates
+araba somera tempodaylightlongArabianmetazonetimeZoneNamesdates
+orienta afrika tempostandardlongAfrica_EasternmetazonetimeZoneNamesdates
+okcidenta afrika somera tempodaylightlongAfrica_WesternmetazonetimeZoneNamesdates
+okcidenta afrika norma tempostandardlongAfrica_WesternmetazonetimeZoneNamesdates
+okcidenta afrika tempogenericlongAfrica_WesternmetazonetimeZoneNamesdates
+barata tempostandardlongIndiametazonetimeZoneNamesdates
+japana somera tempodaylightlongJapanmetazonetimeZoneNamesdates
+japana tempogenericlongJapanmetazonetimeZoneNamesdates
+japana norma tempostandardlongJapanmetazonetimeZoneNamesdates
+centra aŭstralia tempogenericlongAustralia_CentralmetazonetimeZoneNamesdates
+centra aŭstralia norma tempostandardlongAustralia_CentralmetazonetimeZoneNamesdates
+centra aŭstralia somera tempodaylightlongAustralia_CentralmetazonetimeZoneNamesdates
+okcidenta eŭropa norma tempostandardlongEurope_WesternmetazonetimeZoneNamesdates
+okcidenta eŭropa tempogenericlongEurope_WesternmetazonetimeZoneNamesdates
+okcidenta eŭropa somera tempodaylightlongEurope_WesternmetazonetimeZoneNamesdates
+orienta nord-amerika somera tempodaylightlongAmerica_EasternmetazonetimeZoneNamesdates
+orienta nord-amerika tempogenericlongAmerica_EasternmetazonetimeZoneNamesdates
+orienta nord-amerika norma tempostandardlongAmerica_EasternmetazonetimeZoneNamesdates
+centra afrika tempostandardlongAfrica_CentralmetazonetimeZoneNamesdates
+suda afrika tempostandardlongAfrica_SouthernmetazonetimeZoneNamesdates
+moskva tempogenericlongMoscowmetazonetimeZoneNamesdates
+moskva norma tempostandardlongMoscowmetazonetimeZoneNamesdates
+moskva somera tempodaylightlongMoscowmetazonetimeZoneNamesdates
+centrokcidenta aŭstralia somera tempodaylightlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+centrokcidenta aŭstralia tempogenericlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+centrokcidenta aŭstralia norma tempostandardlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+centra eŭropa somera tempodaylightlongEurope_CentralmetazonetimeZoneNamesdates
+centra eŭropa tempogenericlongEurope_CentralmetazonetimeZoneNamesdates
+centra eŭropa norma tempostandardlongEurope_CentralmetazonetimeZoneNamesdates
+korea norma tempostandardlongKoreametazonetimeZoneNamesdates
+korea tempogenericlongKoreametazonetimeZoneNamesdates
+korea somera tempodaylightlongKoreametazonetimeZoneNamesdates
+ĉina somera tempodaylightlongChinametazonetimeZoneNamesdates
+ĉina tempogenericlongChinametazonetimeZoneNamesdates
+ĉina norma tempostandardlongChinametazonetimeZoneNamesdates
+okcidenta aŭstralia somera tempodaylightlongAustralia_WesternmetazonetimeZoneNamesdates
+okcidenta aŭstralia norma tempostandardlongAustralia_WesternmetazonetimeZoneNamesdates
+okcidenta aŭstralia tempogenericlongAustralia_WesternmetazonetimeZoneNamesdates
+monta nord-amerika tempogenericlongAmerica_MountainmetazonetimeZoneNamesdates
+monta nord-amerika norma tempostandardlongAmerica_MountainmetazonetimeZoneNamesdates
+monta nord-amerika somera tempodaylightlongAmerica_MountainmetazonetimeZoneNamesdates
+orienta aŭstralia somera tempodaylightlongAustralia_EasternmetazonetimeZoneNamesdates
+orienta aŭstralia norma tempostandardlongAustralia_EasternmetazonetimeZoneNamesdates
+orienta aŭstralia tempogenericlongAustralia_EasternmetazonetimeZoneNamesdates
+nekonata urboexemplarCityEtc/UnknownzonetimeZoneNamesdates
+tempo de {0}genericregionFormattimeZoneNamesdates
+norma tempo de {0}standardregionFormattimeZoneNamesdates
+somera tempo de {0}daylightregionFormattimeZoneNamesdates
+{1} ({0})hourFormattimeZoneNamesdates
+{0}…finalellipsischaracters
+{0}…{1}medialellipsischaracters
+…{0}initialellipsischaracters
+[  , % ‰ + − 0 1 2 3 4 5 6 7 8 9]numbersexemplarCharacterscharacters
+[q w x y]auxiliaryexemplarCharacterscharacters
+[A B C Ĉ D E F G Ĝ H Ĥ I J Ĵ K L M N O P R S Ŝ T U Ŭ V Z]indexexemplarCharacterscharacters
+[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” ( ) \[ \] \{ \} /]punctuationexemplarCharacterscharacters
+[a b c ĉ d e f g ĝ h ĥ i j ĵ k l m n o p r s ŝ t u ŭ v z]standardexemplarCharacterscharacters
+GGGGG y-MM-ddstandardshortdateFormatsgenericcalendars
+EEEE, d-'a' 'de' MMMM y GstandardfulldateFormatsgenericcalendars
+G y-MMMM-ddstandardlongdateFormatsgenericcalendars
+G y-MMM-ddstandardmediumdateFormatsgenericcalendars
+G y–yyyintervalFormatsgenericcalendars
+E, d-'a' 'de' MMM – E, d-'a' 'de' MMM y GMyMMMEdintervalFormatsgenericcalendars
+E, d-'a' - E, d-'a' 'de' MMM y GdyMMMEdintervalFormatsgenericcalendars
+E, d-'a' 'de' MMM y – E, d-'a' 'de' MMM y GyyMMMEdintervalFormatsgenericcalendars
+HH–HH vHHvintervalFormatsgenericcalendars
+E, MM-dd – E, MM-ddMMEdintervalFormatsgenericcalendars
+E, MM-dd – E, MM-dddMEdintervalFormatsgenericcalendars
+G y-MM-dd – y-MM-dddyMdintervalFormatsgenericcalendars
+G y-MM-dd – y-MM-ddMyMdintervalFormatsgenericcalendars
+G y-MM-dd – y-MM-ddyyMdintervalFormatsgenericcalendars
+MM-dd – MM-dddMdintervalFormatsgenericcalendars
+MM-dd – MM-ddMMdintervalFormatsgenericcalendars
+G y-MMM-dd – y-MMM-ddMyMMMdintervalFormatsgenericcalendars
+G y-MMM-dd – y-MMM-dddyMMMdintervalFormatsgenericcalendars
+G y-MMM-dd – y-MMM-ddyyMMMdintervalFormatsgenericcalendars
+MMM–MMMMMMMintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-ddyyMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-dddyMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-ddMyMEdintervalFormatsgenericcalendars
+h–h a vhhvintervalFormatsgenericcalendars
+HH:mm–HH:mmHHmintervalFormatsgenericcalendars
+HH:mm–HH:mmmHmintervalFormatsgenericcalendars
+G y-MM – y-MMMyMintervalFormatsgenericcalendars
+G y-MM – y-MMyyMintervalFormatsgenericcalendars
+E, MMM-dd – E, MMM-ddMMMMEdintervalFormatsgenericcalendars
+E, MMM-dd – E, MMM-dddMMMEdintervalFormatsgenericcalendars
+HH–HHHHintervalFormatsgenericcalendars
+MMM-dd – MMM-dddMMMdintervalFormatsgenericcalendars
+MMM-dd – MMM-ddMMMMdintervalFormatsgenericcalendars
+M–MMMintervalFormatsgenericcalendars
+{0} – {1}standardstandardintervalFormatsgenericcalendars
+h:mm–h:mm amhmintervalFormatsgenericcalendars
+h:mm–h:mm ahhmintervalFormatsgenericcalendars
+d–dddintervalFormatsgenericcalendars
+G y-MMM – y-MMMyyMMMintervalFormatsgenericcalendars
+G y-MMM – y-MMMMyMMMintervalFormatsgenericcalendars
+HH:mm–HH:mm vHHmvintervalFormatsgenericcalendars
+HH:mm–HH:mm vmHmvintervalFormatsgenericcalendars
+h–h ahhintervalFormatsgenericcalendars
+h:mm–h:mm a vhhmvintervalFormatsgenericcalendars
+h:mm–h:mm a vmhmvintervalFormatsgenericcalendars
+y-MMM-ddstandardmediumdateFormatsgregoriancalendars
+y-MMMM-ddstandardlongdateFormatsgregoriancalendars
+EEEE, d-'a' 'de' MMMM ystandardfulldateFormatsgregoriancalendars
+yy-MM-ddstandardshortdateFormatsgregoriancalendars
+h:mm–h:mm a vhhmvintervalFormatsgregoriancalendars
+h:mm–h:mm a vmhmvintervalFormatsgregoriancalendars
+HH:mm–HH:mm vmHmvintervalFormatsgregoriancalendars
+HH:mm–HH:mm vHHmvintervalFormatsgregoriancalendars
+y-MMM – y-MMMyyMMMintervalFormatsgregoriancalendars
+y-MMM – y-MMMMyMMMintervalFormatsgregoriancalendars
+h–h ahhintervalFormatsgregoriancalendars
+h:mm–h:mm ahhmintervalFormatsgregoriancalendars
+h:mm–h:mm amhmintervalFormatsgregoriancalendars
+{0} – {1}standardstandardintervalFormatsgregoriancalendars
+d–dddintervalFormatsgregoriancalendars
+y-MM – y-MMMyMintervalFormatsgregoriancalendars
+y-MM – y-MMyyMintervalFormatsgregoriancalendars
+MMM-dd – MMM-ddMMMMdintervalFormatsgregoriancalendars
+MMM-dd – MMM-dddMMMdintervalFormatsgregoriancalendars
+E, MMM-dd – E, MMM-ddMMMMEdintervalFormatsgregoriancalendars
+E, MMM-dd – E, MMM-dddMMMEdintervalFormatsgregoriancalendars
+M–MMMintervalFormatsgregoriancalendars
+HH–HHHHintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-dddyMEdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-ddMyMEdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-ddyyMEdintervalFormatsgregoriancalendars
+HH:mm–HH:mmmHmintervalFormatsgregoriancalendars
+HH:mm–HH:mmHHmintervalFormatsgregoriancalendars
+MMM–MMMMMMMintervalFormatsgregoriancalendars
+h–h a vhhvintervalFormatsgregoriancalendars
+y-MMM-dd – y-MMM-ddyyMMMdintervalFormatsgregoriancalendars
+y-MMM-dd – y-MMM-dddyMMMdintervalFormatsgregoriancalendars
+y-MMM-dd – y-MMM-ddMyMMMdintervalFormatsgregoriancalendars
+E, MM-dd – E, MM-ddMMEdintervalFormatsgregoriancalendars
+E, MM-dd – E, MM-dddMEdintervalFormatsgregoriancalendars
+y-MM-dd – y-MM-ddMyMdintervalFormatsgregoriancalendars
+y-MM-dd – y-MM-dddyMdintervalFormatsgregoriancalendars
+y-MM-dd – y-MM-ddyyMdintervalFormatsgregoriancalendars
+MM-dd – MM-ddMMdintervalFormatsgregoriancalendars
+MM-dd – MM-dddMdintervalFormatsgregoriancalendars
+E, d-'a' 'de' MMM y – E, d-'a' 'de' MMM yyyMMMEdintervalFormatsgregoriancalendars
+E, d-'a' - E, d-'a' 'de' MMM ydyMMMEdintervalFormatsgregoriancalendars
+E, d-'a' 'de' MMM – E, d-'a' 'de' MMM yMyMMMEdintervalFormatsgregoriancalendars
+y–yyyintervalFormatsgregoriancalendars
+HH–HH vHHvintervalFormatsgregoriancalendars
+H-'a' 'horo' 'kaj' m:ss zzzzstandardfulltimeFormatsgregoriancalendars
+HH:mmstandardshorttimeFormatsgregoriancalendars
+HH:mm:ssstandardmediumtimeFormatsgregoriancalendars
+HH:mm:ss zstandardlongtimeFormatsgregoriancalendars
+maj5abbreviatedformatmonthsgregoriancalendars
+jan1abbreviatedformatmonthsgregoriancalendars
+nov11abbreviatedformatmonthsgregoriancalendars
+jun6abbreviatedformatmonthsgregoriancalendars
+apr4abbreviatedformatmonthsgregoriancalendars
+mar3abbreviatedformatmonthsgregoriancalendars
+sep9abbreviatedformatmonthsgregoriancalendars
+aŭg8abbreviatedformatmonthsgregoriancalendars
+jul7abbreviatedformatmonthsgregoriancalendars
+dec12abbreviatedformatmonthsgregoriancalendars
+okt10abbreviatedformatmonthsgregoriancalendars
+feb2abbreviatedformatmonthsgregoriancalendars
+februaro2wideformatmonthsgregoriancalendars
+decembro12wideformatmonthsgregoriancalendars
+oktobro10wideformatmonthsgregoriancalendars
+julio7wideformatmonthsgregoriancalendars
+septembro9wideformatmonthsgregoriancalendars
+aŭgusto8wideformatmonthsgregoriancalendars
+marto3wideformatmonthsgregoriancalendars
+aprilo4wideformatmonthsgregoriancalendars
+junio6wideformatmonthsgregoriancalendars
+novembro11wideformatmonthsgregoriancalendars
+majo5wideformatmonthsgregoriancalendars
+januaro1wideformatmonthsgregoriancalendars
+D12narrowstand-alonemonthsgregoriancalendars
+F2narrowstand-alonemonthsgregoriancalendars
+O10narrowstand-alonemonthsgregoriancalendars
+J7narrowstand-alonemonthsgregoriancalendars
+A8narrowstand-alonemonthsgregoriancalendars
+S9narrowstand-alonemonthsgregoriancalendars
+A4narrowstand-alonemonthsgregoriancalendars
+M3narrowstand-alonemonthsgregoriancalendars
+J6narrowstand-alonemonthsgregoriancalendars
+N11narrowstand-alonemonthsgregoriancalendars
+J1narrowstand-alonemonthsgregoriancalendars
+M5narrowstand-alonemonthsgregoriancalendars
+januaro1widestand-alonemonthsgregoriancalendars
+majo5widestand-alonemonthsgregoriancalendars
+junio6widestand-alonemonthsgregoriancalendars
+novembro11widestand-alonemonthsgregoriancalendars
+marto3widestand-alonemonthsgregoriancalendars
+aprilo4widestand-alonemonthsgregoriancalendars
+oktobro10widestand-alonemonthsgregoriancalendars
+decembro12widestand-alonemonthsgregoriancalendars
+februaro2widestand-alonemonthsgregoriancalendars
+julio7widestand-alonemonthsgregoriancalendars
+aŭgusto8widestand-alonemonthsgregoriancalendars
+septembro9widestand-alonemonthsgregoriancalendars
+1-a kvaronjaro1wideformatquartersgregoriancalendars
+2-a kvaronjaro2wideformatquartersgregoriancalendars
+3-a kvaronjaro3wideformatquartersgregoriancalendars
+4-a kvaronjaro4wideformatquartersgregoriancalendars
+K11abbreviatedformatquartersgregoriancalendars
+K22abbreviatedformatquartersgregoriancalendars
+K33abbreviatedformatquartersgregoriancalendars
+K44abbreviatedformatquartersgregoriancalendars
+1-a kvaronjaro1widestand-alonequartersgregoriancalendars
+4-a kvaronjaro4widestand-alonequartersgregoriancalendars
+3-a kvaronjaro3widestand-alonequartersgregoriancalendars
+2-a kvaronjaro2widestand-alonequartersgregoriancalendars
+11narrowstand-alonequartersgregoriancalendars
+44narrowstand-alonequartersgregoriancalendars
+33narrowstand-alonequartersgregoriancalendars
+22narrowstand-alonequartersgregoriancalendars
+ptmpmabbreviatedformatdayPeriodsgregoriancalendars
+atmamabbreviatedformatdayPeriodsgregoriancalendars
+aamnarrowformatdayPeriodsgregoriancalendars
+ppmnarrowformatdayPeriodsgregoriancalendars
+atmamwideformatdayPeriodsgregoriancalendars
+ptmpmwideformatdayPeriodsgregoriancalendars
+a.K.E.0eraAbbrerasgregoriancalendars
+K.E.1eraAbbrerasgregoriancalendars
+aKE0eraNarrowerasgregoriancalendars
+KE1eraNarrowerasgregoriancalendars
+antaŭ Komuna Erao0eraNameserasgregoriancalendars
+Komuna Erao1eraNameserasgregoriancalendars
+sabatosatwidestand-alonedaysgregoriancalendars
+ĵaŭdothuwidestand-alonedaysgregoriancalendars
+dimanĉosunwidestand-alonedaysgregoriancalendars
+lundomonwidestand-alonedaysgregoriancalendars
+merkredowedwidestand-alonedaysgregoriancalendars
+mardotuewidestand-alonedaysgregoriancalendars
+vendredofriwidestand-alonedaysgregoriancalendars
+Mwednarrowstand-alonedaysgregoriancalendars
+Mtuenarrowstand-alonedaysgregoriancalendars
+Vfrinarrowstand-alonedaysgregoriancalendars
+Ĵthunarrowstand-alonedaysgregoriancalendars
+Ssatnarrowstand-alonedaysgregoriancalendars
+Dsunnarrowstand-alonedaysgregoriancalendars
+Lmonnarrowstand-alonedaysgregoriancalendars
+matueabbreviatedformatdaysgregoriancalendars
+vefriabbreviatedformatdaysgregoriancalendars
+mewedabbreviatedformatdaysgregoriancalendars
+disunabbreviatedformatdaysgregoriancalendars
+sasatabbreviatedformatdaysgregoriancalendars
+ĵathuabbreviatedformatdaysgregoriancalendars
+lumonabbreviatedformatdaysgregoriancalendars
+lundomonwideformatdaysgregoriancalendars
+sabatosatwideformatdaysgregoriancalendars
+ĵaŭdothuwideformatdaysgregoriancalendars
+dimanĉosunwideformatdaysgregoriancalendars
+merkredowedwideformatdaysgregoriancalendars
+vendredofriwideformatdaysgregoriancalendars
+mardotuewideformatdaysgregoriancalendars
+QQQQ yyQQQQavailableFormatsgregoriancalendars
+E 'la' d-'an' 'de' MMMMMMEdavailableFormatsgregoriancalendars
+d MMMMMMdavailableFormatsgregoriancalendars
+ddavailableFormatsgregoriancalendars
+MMM yyMMMavailableFormatsgregoriancalendars
+yyavailableFormatsgregoriancalendars
+E 'la' d-'an' 'de' MMM yyMMMEdavailableFormatsgregoriancalendars
+QQQ yyQQQavailableFormatsgregoriancalendars
+E dEdavailableFormatsgregoriancalendars
+d MMM yyMMMdavailableFormatsgregoriancalendars
+{0} kaj {1}endstandardlistPatterns
+{0}, {1}startstandardlistPatterns
+{0}, {1}middlestandardlistPatterns
+{0} kaj {1}2standardlistPatterns
+¤ 000T100000000000000shortlatncurrencyFormatsnumbers
+¤ 000M100000000shortlatncurrencyFormatsnumbers
+¤ 0G1000000000shortlatncurrencyFormatsnumbers
+¤ 0M1000000shortlatncurrencyFormatsnumbers
+¤ 00T10000000000000shortlatncurrencyFormatsnumbers
+¤ 0T1000000000000shortlatncurrencyFormatsnumbers
+¤ 0K1000shortlatncurrencyFormatsnumbers
+¤ 00G10000000000shortlatncurrencyFormatsnumbers
+¤ 000G100000000000shortlatncurrencyFormatsnumbers
+¤ 00M10000000shortlatncurrencyFormatsnumbers
+¤ 00K10000shortlatncurrencyFormatsnumbers
+¤ 000K100000shortlatncurrencyFormatsnumbers
+latnnativeotherNumberingSystemsnumbers
+{0}–{1}rangelatnmiscPatternsnumbers
+#,##0%standardstandardlatnpercentFormatsnumbers
+#,##0.###standardstandardlatndecimalFormatsnumbers
+PLNstandardPLNcurrenciesnumbers
+₩narrowKRWcurrenciesnumbers
+₩standardKRWcurrenciesnumbers
+$narrowHKDcurrenciesnumbers
+HK$standardHKDcurrenciesnumbers
+¥narrowCNYcurrenciesnumbers
+CN¥standardCNYcurrenciesnumbers
+SEKstandardSEKcurrenciesnumbers
+IDRstandardIDRcurrenciesnumbers
+SARstandardSARcurrenciesnumbers
+CA$standardCADcurrenciesnumbers
+$narrowCADcurrenciesnumbers
+NOKstandardNOKcurrenciesnumbers
+₺narrowTRYcurrenciesnumbers
+₺standardTRYcurrenciesnumbers
+£narrowGBPcurrenciesnumbers
+£standardGBPcurrenciesnumbers
+MX$standardMXNcurrenciesnumbers
+$narrowMXNcurrenciesnumbers
+₹narrowINRcurrenciesnumbers
+₹standardINRcurrenciesnumbers
+R$narrowBRLcurrenciesnumbers
+R$standardBRLcurrenciesnumbers
+CHFstandardCHFcurrenciesnumbers
+RUBstandardRUBcurrenciesnumbers
+ZARstandardZARcurrenciesnumbers
+NT$narrowTWDcurrenciesnumbers
+NT$standardTWDcurrenciesnumbers
+฿standardTHBcurrenciesnumbers
+€standardEURcurrenciesnumbers
+€narrowEURcurrenciesnumbers
+$narrowUSDcurrenciesnumbers
+US$standardUSDcurrenciesnumbers
+AU$standardAUDcurrenciesnumbers
+$narrowAUDcurrenciesnumbers
+JP¥standardJPYcurrenciesnumbers
+¥narrowJPYcurrenciesnumbers
+DKKstandardDKKcurrenciesnumbers
+−minusSignlatnsymbolsnumbers
+∞infinitylatnsymbolsnumbers
+ grouplatnsymbolsnumbers
++plusSignlatnsymbolsnumbers
+‰perMillelatnsymbolsnumbers
+,decimallatnsymbolsnumbers
+%percentSignlatnsymbolsnumbers
+latnstandarddefaultNumberingSystemnumbers
+britaUKmeasurementSystemNameslocaleDisplayNames
+metrametricmeasurementSystemNameslocaleDisplayNames
+usonaUSmeasurementSystemNameslocaleDisplayNames
+Skribsistemo: {0}scriptcodePatternslocaleDisplayNames
+Regiono: {0}territorycodePatternslocaleDisplayNames
+Lingvo: {0}languagecodePatternslocaleDisplayNames
+{0}, {1}localeSeparatorlocaleDisplayPatternlocaleDisplayNames
+{0}: {1}localeKeyTypePatternlocaleDisplayPatternlocaleDisplayNames
+{0} ({1})localePatternlocaleDisplayPatternlocaleDisplayNames
+nekonata skribsistemoZzzzscriptslocaleDisplayNames
+arabaArabscriptslocaleDisplayNames
+simpligita ĉinaHansscriptslocaleDisplayNames
+neskribataZxxxscriptslocaleDisplayNames
+cirilaCyrlscriptslocaleDisplayNames
+latinaLatnscriptslocaleDisplayNames
+koreaKorescriptslocaleDisplayNames
+tradicia ĉinaHantscriptslocaleDisplayNames
+japanaJpanscriptslocaleDisplayNames
+esperantoeolanguageslocaleDisplayNames
+ruandarwlanguageslocaleDisplayNames
+kanaraknlanguageslocaleDisplayNames
+nepalanelanguageslocaleDisplayNames
+vjetnamavilanguageslocaleDisplayNames
+gaelagdlanguageslocaleDisplayNames
+ŝonasnlanguageslocaleDisplayNames
+slovakasklanguageslocaleDisplayNames
+hungarahulanguageslocaleDisplayNames
+tibetabolanguageslocaleDisplayNames
+baŝkirabalanguageslocaleDisplayNames
+tigrajatilanguageslocaleDisplayNames
+samoasmlanguageslocaleDisplayNames
+norveganolanguageslocaleDisplayNames
+italaitlanguageslocaleDisplayNames
+sundasulanguageslocaleDisplayNames
+havajahawlanguageslocaleDisplayNames
+koreakolanguageslocaleDisplayNames
+sindasdlanguageslocaleDisplayNames
+finnafilanguageslocaleDisplayNames
+eŭropportugalapt_PTlanguageslocaleDisplayNames
+bretonabrlanguageslocaleDisplayNames
+kazaĥakklanguageslocaleDisplayNames
+kurdakulanguageslocaleDisplayNames
+malagasamglanguageslocaleDisplayNames
+sinhalasilanguageslocaleDisplayNames
+turkatrlanguageslocaleDisplayNames
+slovenasllanguageslocaleDisplayNames
+korsikacolanguageslocaleDisplayNames
+hindahilanguageslocaleDisplayNames
+asamaaslanguageslocaleDisplayNames
+kmerakmlanguageslocaleDisplayNames
+armenahylanguageslocaleDisplayNames
+oromaomlanguageslocaleDisplayNames
+bislamobilanguageslocaleDisplayNames
+serbo-KroatashlanguageslocaleDisplayNames
+paŝtoapslanguageslocaleDisplayNames
+mongolamnlanguageslocaleDisplayNames
+novnorvegannlanguageslocaleDisplayNames
+tamilatalanguageslocaleDisplayNames
+ĉina tradiciazh_HantlanguageslocaleDisplayNames
+eŭskaeulanguageslocaleDisplayNames
+svedasvlanguageslocaleDisplayNames
+grekaellanguageslocaleDisplayNames
+soranackblanguageslocaleDisplayNames
+flandranl_BElanguageslocaleDisplayNames
+litovaltlanguageslocaleDisplayNames
+nekonata lingvoundlanguageslocaleDisplayNames
+ukrainauklanguageslocaleDisplayNames
+teluguatelanguageslocaleDisplayNames
+sotastlanguageslocaleDisplayNames
+svahilaswlanguageslocaleDisplayNames
+kaŝmirakslanguageslocaleDisplayNames
+amerika hispanaes_419languageslocaleDisplayNames
+taĝikatglanguageslocaleDisplayNames
+afaraaalanguageslocaleDisplayNames
+hebreahelanguageslocaleDisplayNames
+javajvlanguageslocaleDisplayNames
+inuitaiulanguageslocaleDisplayNames
+kanada anglaen_CAlanguageslocaleDisplayNames
+sanskritosalanguageslocaleDisplayNames
+bengalabnlanguageslocaleDisplayNames
+orijoorlanguageslocaleDisplayNames
+malajamslanguageslocaleDisplayNames
+jorubayolanguageslocaleDisplayNames
+usona anglaen_USlanguageslocaleDisplayNames
+ĉerokachrlanguageslocaleDisplayNames
+afrikansaaflanguageslocaleDisplayNames
+amharaamlanguageslocaleDisplayNames
+okcidentaloielanguageslocaleDisplayNames
+albanasqlanguageslocaleDisplayNames
+turkmenatklanguageslocaleDisplayNames
+sangoasglanguageslocaleDisplayNames
+dzonkodzlanguageslocaleDisplayNames
+kanada francafr_CAlanguageslocaleDisplayNames
+indoneziaidlanguageslocaleDisplayNames
+lingalalnlanguageslocaleDisplayNames
+nauranalanguageslocaleDisplayNames
+panĝabapalanguageslocaleDisplayNames
+congatslanguageslocaleDisplayNames
+romanĉarmlanguageslocaleDisplayNames
+bambarabmlanguageslocaleDisplayNames
+svisa francafr_CHlanguageslocaleDisplayNames
+maoriamilanguageslocaleDisplayNames
+rumanarolanguageslocaleDisplayNames
+ibibioefikaefilanguageslocaleDisplayNames
+laŭalolanguageslocaleDisplayNames
+katalunacalanguageslocaleDisplayNames
+maltamtlanguageslocaleDisplayNames
+haŭsahalanguageslocaleDisplayNames
+kimracylanguageslocaleDisplayNames
+zuluazulanguageslocaleDisplayNames
+uzbekauzlanguageslocaleDisplayNames
+eŭropa hispanaes_ESlanguageslocaleDisplayNames
+arabaarlanguageslocaleDisplayNames
+malajalamamllanguageslocaleDisplayNames
+kroatahrlanguageslocaleDisplayNames
+nelingvaĵozxxlanguageslocaleDisplayNames
+volofawolanguageslocaleDisplayNames
+jidayilanguageslocaleDisplayNames
+azerbajĝanaazlanguageslocaleDisplayNames
+tagalogatllanguageslocaleDisplayNames
+kirgizakylanguageslocaleDisplayNames
+irlandagalanguageslocaleDisplayNames
+maratamrlanguageslocaleDisplayNames
+urduourlanguageslocaleDisplayNames
+moderna norma arabaar_001languageslocaleDisplayNames
+tatarattlanguageslocaleDisplayNames
+burundarnlanguageslocaleDisplayNames
+feroafolanguageslocaleDisplayNames
+brazilportugalapt_BRlanguageslocaleDisplayNames
+ujgurauglanguageslocaleDisplayNames
+persafalanguageslocaleDisplayNames
+estonaetlanguageslocaleDisplayNames
+danadalanguageslocaleDisplayNames
+pluraj lingvojmullanguageslocaleDisplayNames
+islandaislanguageslocaleDisplayNames
+polapllanguageslocaleDisplayNames
+dannorveganblanguageslocaleDisplayNames
+francafrlanguageslocaleDisplayNames
+belorusabelanguageslocaleDisplayNames
+birmamylanguageslocaleDisplayNames
+svaziasslanguageslocaleDisplayNames
+aŭstralia anglaen_AUlanguageslocaleDisplayNames
+portugalaptlanguageslocaleDisplayNames
+germanadelanguageslocaleDisplayNames
+japanajalanguageslocaleDisplayNames
+bulgarabglanguageslocaleDisplayNames
+latvalvlanguageslocaleDisplayNames
+brita anglaen_GBlanguageslocaleDisplayNames
+malsuprasorabadsblanguageslocaleDisplayNames
+akanaaklanguageslocaleDisplayNames
+kartvelakalanguageslocaleDisplayNames
+ksosaxhlanguageslocaleDisplayNames
+anglaenlanguageslocaleDisplayNames
+aŭstra germanade_ATlanguageslocaleDisplayNames
+ĉeĥacslanguageslocaleDisplayNames
+okcitanaoclanguageslocaleDisplayNames
+haitia kreolahtlanguageslocaleDisplayNames
+filipinafillanguageslocaleDisplayNames
+latinolalanguageslocaleDisplayNames
+ĉinazhlanguageslocaleDisplayNames
+ĉina simpligitazh_HanslanguageslocaleDisplayNames
+ĝuangazalanguageslocaleDisplayNames
+somalasolanguageslocaleDisplayNames
+cvanatnlanguageslocaleDisplayNames
+tajathlanguageslocaleDisplayNames
+bodoabrxlanguageslocaleDisplayNames
+keĉuaqulanguageslocaleDisplayNames
+mapuĉaarnlanguageslocaleDisplayNames
+ajmaraaylanguageslocaleDisplayNames
+luksemburgalblanguageslocaleDisplayNames
+nederlandanllanguageslocaleDisplayNames
+tongaatolanguageslocaleDisplayNames
+rusarulanguageslocaleDisplayNames
+serbasrlanguageslocaleDisplayNames
+meksika hispanaes_MXlanguageslocaleDisplayNames
+hispanaeslanguageslocaleDisplayNames
+frisafylanguageslocaleDisplayNames
+interlingvaoialanguageslocaleDisplayNames
+abĥazaablanguageslocaleDisplayNames
+klingonatlhlanguageslocaleDisplayNames
+bosniabslanguageslocaleDisplayNames
+guĝaratagulanguageslocaleDisplayNames
+gronlandakllanguageslocaleDisplayNames
+twtwlanguageslocaleDisplayNames
+mahladvlanguageslocaleDisplayNames
+fiĝiafjlanguageslocaleDisplayNames
+eskimaiklanguageslocaleDisplayNames
+gvaraniagnlanguageslocaleDisplayNames
+volapukovolanguageslocaleDisplayNames
+svisa germanade_CHlanguageslocaleDisplayNames
+makedonamklanguageslocaleDisplayNames
+galegagllanguageslocaleDisplayNames
+Unuiĝintaj Arabaj EmirlandojAEterritorieslocaleDisplayNames
+TongoTOterritorieslocaleDisplayNames
+BermudojBMterritorieslocaleDisplayNames
+Sent-Kristofo kaj NevisoKNterritorieslocaleDisplayNames
+MalajzioMYterritorieslocaleDisplayNames
+AruboAWterritorieslocaleDisplayNames
+BeninoBJterritorieslocaleDisplayNames
+ButanoBTterritorieslocaleDisplayNames
+KolombioCOterritorieslocaleDisplayNames
+MalioMLterritorieslocaleDisplayNames
+Usonaj VirgulininsulojVIterritorieslocaleDisplayNames
+UzbekujoUZterritorieslocaleDisplayNames
+ĈeĥujoCZterritorieslocaleDisplayNames
+GvamoGUterritorieslocaleDisplayNames
+Nov-KaledonioNCterritorieslocaleDisplayNames
+BarbadoBBterritorieslocaleDisplayNames
+TurkujoTRterritorieslocaleDisplayNames
+TaĝikujoTJterritorieslocaleDisplayNames
+IsraeloILterritorieslocaleDisplayNames
+SalomonojSBterritorieslocaleDisplayNames
+FiĝojFJterritorieslocaleDisplayNames
+TanzanioTZterritorieslocaleDisplayNames
+HonkongoHKterritorieslocaleDisplayNames
+MongolujoMNterritorieslocaleDisplayNames
+UgandoUGterritorieslocaleDisplayNames
+HispanujoESterritorieslocaleDisplayNames
+AntarktoAQterritorieslocaleDisplayNames
+KazaĥstanoKZterritorieslocaleDisplayNames
+MaltoMTterritorieslocaleDisplayNames
+MeksikoMXterritorieslocaleDisplayNames
+SomalujoSOterritorieslocaleDisplayNames
+FeroojFOterritorieslocaleDisplayNames
+San-MarinoSMterritorieslocaleDisplayNames
+FrancujoFRterritorieslocaleDisplayNames
+GrenadoGDterritorieslocaleDisplayNames
+Sud-KoreoKRterritorieslocaleDisplayNames
+KamerunoCMterritorieslocaleDisplayNames
+LitovujoLTterritorieslocaleDisplayNames
+LibioLYterritorieslocaleDisplayNames
+KamboĝoKHterritorieslocaleDisplayNames
+FilipinojPHterritorieslocaleDisplayNames
+LibanoLBterritorieslocaleDisplayNames
+Sud-AfrikoZAterritorieslocaleDisplayNames
+IslandoISterritorieslocaleDisplayNames
+MaŭritanujoMRterritorieslocaleDisplayNames
+SlovakujoSKterritorieslocaleDisplayNames
+TuvaloTVterritorieslocaleDisplayNames
+ĈilioCLterritorieslocaleDisplayNames
+HaitioHTterritorieslocaleDisplayNames
+LaosoLAterritorieslocaleDisplayNames
+RuandoRWterritorieslocaleDisplayNames
+HindujoINterritorieslocaleDisplayNames
+GermanujoDEterritorieslocaleDisplayNames
+SamooWSterritorieslocaleDisplayNames
+UsonoUSterritorieslocaleDisplayNames
+BolivioBOterritorieslocaleDisplayNames
+BocvanoBWterritorieslocaleDisplayNames
+KroatujoHRterritorieslocaleDisplayNames
+NauroNRterritorieslocaleDisplayNames
+KartvelujoGEterritorieslocaleDisplayNames
+ZambioZMterritorieslocaleDisplayNames
+VatikanoVAterritorieslocaleDisplayNames
+Okcidenta SaharoEHterritorieslocaleDisplayNames
+BrunejoBNterritorieslocaleDisplayNames
+EkvadoroECterritorieslocaleDisplayNames
+Centr-Afrika RespublikoCFterritorieslocaleDisplayNames
+ParagvajoPYterritorieslocaleDisplayNames
+NamibioNAterritorieslocaleDisplayNames
+TunizioTNterritorieslocaleDisplayNames
+Brita Hindoceana TeritorioIOterritorieslocaleDisplayNames
+Saŭda ArabujoSAterritorieslocaleDisplayNames
+Sent-Piero kaj MikelonoPMterritorieslocaleDisplayNames
+ĜibraltaroGIterritorieslocaleDisplayNames
+Unuiĝinta ReĝlandoGBterritorieslocaleDisplayNames
+JamajkoJMterritorieslocaleDisplayNames
+KiribatoKIterritorieslocaleDisplayNames
+LatvujoLVterritorieslocaleDisplayNames
+HungarujoHUterritorieslocaleDisplayNames
+Ekvatora GvineoGQterritorieslocaleDisplayNames
+Sud-Georgio kaj Sud-SandviĉinsulojGSterritorieslocaleDisplayNames
+KukinsulojCKterritorieslocaleDisplayNames
+PortugalujoPTterritorieslocaleDisplayNames
+Franca PolinezioPFterritorieslocaleDisplayNames
+AzerbajĝanoAZterritorieslocaleDisplayNames
+AndoroADterritorieslocaleDisplayNames
+EritreoERterritorieslocaleDisplayNames
+KostarikoCRterritorieslocaleDisplayNames
+Kabo-VerdoCVterritorieslocaleDisplayNames
+KomorojKMterritorieslocaleDisplayNames
+SvazilandoSZterritorieslocaleDisplayNames
+KejmanojKYterritorieslocaleDisplayNames
+ArmenujoAMterritorieslocaleDisplayNames
+nekonata regionoZZterritorieslocaleDisplayNames
+Antigvo-BarbudoAGterritorieslocaleDisplayNames
+Puerto-RikoPRterritorieslocaleDisplayNames
+TurkmenujoTMterritorieslocaleDisplayNames
+Valiso kaj FutunoWFterritorieslocaleDisplayNames
+MarŝalojMHterritorieslocaleDisplayNames
+Herda kaj Makdonaldaj InsulojHMterritorieslocaleDisplayNames
+IrakoIQterritorieslocaleDisplayNames
+VanuatuoVUterritorieslocaleDisplayNames
+MarokoMAterritorieslocaleDisplayNames
+Nov-ZelandoNZterritorieslocaleDisplayNames
+LiberioLRterritorieslocaleDisplayNames
+RusujoRUterritorieslocaleDisplayNames
+PanamoPAterritorieslocaleDisplayNames
+KataroQAterritorieslocaleDisplayNames
+ZimbabvoZWterritorieslocaleDisplayNames
+NiĝerioNGterritorieslocaleDisplayNames
+UkrajnoUAterritorieslocaleDisplayNames
+Nord-MarianojMPterritorieslocaleDisplayNames
+ĈinujoCNterritorieslocaleDisplayNames
+BurkinoBFterritorieslocaleDisplayNames
+GvadelupoGPterritorieslocaleDisplayNames
+VjetnamoVNterritorieslocaleDisplayNames
+Usonaj malgrandaj insulojUMterritorieslocaleDisplayNames
+PollandoPLterritorieslocaleDisplayNames
+Bosnio-HercegovinoBAterritorieslocaleDisplayNames
+BelizoBZterritorieslocaleDisplayNames
+MakedonujoMKterritorieslocaleDisplayNames
+ArgentinoARterritorieslocaleDisplayNames
+MaldivojMVterritorieslocaleDisplayNames
+GrekujoGRterritorieslocaleDisplayNames
+HonduroHNterritorieslocaleDisplayNames
+NiĝeroNEterritorieslocaleDisplayNames
+Franca GvianoGFterritorieslocaleDisplayNames
+AlbanujoALterritorieslocaleDisplayNames
+Ebur-BordoCIterritorieslocaleDisplayNames
+JapanujoJPterritorieslocaleDisplayNames
+NederlandoNLterritorieslocaleDisplayNames
+AŭstrujoATterritorieslocaleDisplayNames
+BarejnoBHterritorieslocaleDisplayNames
+SlovenujoSIterritorieslocaleDisplayNames
+Sud-SudanoSSterritorieslocaleDisplayNames
+ĜibutioDJterritorieslocaleDisplayNames
+NorvegujoNOterritorieslocaleDisplayNames
+MjanmaoMMterritorieslocaleDisplayNames
+SejŝelojSCterritorieslocaleDisplayNames
+SingapuroSGterritorieslocaleDisplayNames
+MikronezioFMterritorieslocaleDisplayNames
+BulgarujoBGterritorieslocaleDisplayNames
+NiuoNUterritorieslocaleDisplayNames
+LuksemburgoLUterritorieslocaleDisplayNames
+LiĥtenŝtejnoLIterritorieslocaleDisplayNames
+Sent-Vincento kaj la GrenadinojVCterritorieslocaleDisplayNames
+BelaŭoPWterritorieslocaleDisplayNames
+KiproCYterritorieslocaleDisplayNames
+GronlandoGLterritorieslocaleDisplayNames
+MalavioMWterritorieslocaleDisplayNames
+SvedujoSEterritorieslocaleDisplayNames
+AŭstralioAUterritorieslocaleDisplayNames
+AfganujoAFterritorieslocaleDisplayNames
+KuboCUterritorieslocaleDisplayNames
+Papuo-Nov-GvineoPGterritorieslocaleDisplayNames
+IranoIRterritorieslocaleDisplayNames
+KirgizistanoKGterritorieslocaleDisplayNames
+FinnlandoFIterritorieslocaleDisplayNames
+MartinikoMQterritorieslocaleDisplayNames
+Sao-Tomeo kaj PrincipeoSTterritorieslocaleDisplayNames
+SudanoSDterritorieslocaleDisplayNames
+SenegaloSNterritorieslocaleDisplayNames
+DominikoDMterritorieslocaleDisplayNames
+BelgujoBEterritorieslocaleDisplayNames
+BangladeŝoBDterritorieslocaleDisplayNames
+MadagaskaroMGterritorieslocaleDisplayNames
+NorfolkinsuloNFterritorieslocaleDisplayNames
+ĈadoTDterritorieslocaleDisplayNames
+NikaragvoNIterritorieslocaleDisplayNames
+PeruoPEterritorieslocaleDisplayNames
+Svalbardo kaj Jan-Majen-insuloSJterritorieslocaleDisplayNames
+TogoloTGterritorieslocaleDisplayNames
+SalvadoroSVterritorieslocaleDisplayNames
+TajvanoTWterritorieslocaleDisplayNames
+IrlandoIEterritorieslocaleDisplayNames
+GujanoGYterritorieslocaleDisplayNames
+Pitkarna InsuloPNterritorieslocaleDisplayNames
+LesotoLSterritorieslocaleDisplayNames
+BurundoBIterritorieslocaleDisplayNames
+EstonujoEEterritorieslocaleDisplayNames
+Nord-KoreoKPterritorieslocaleDisplayNames
+OmanoOMterritorieslocaleDisplayNames
+SirioSYterritorieslocaleDisplayNames
+KuvajtoKWterritorieslocaleDisplayNames
+VenezueloVEterritorieslocaleDisplayNames
+Sri-LankoLKterritorieslocaleDisplayNames
+GambioGMterritorieslocaleDisplayNames
+Sent-LucioLCterritorieslocaleDisplayNames
+MaŭricioMUterritorieslocaleDisplayNames
+MoldavujoMDterritorieslocaleDisplayNames
+ReunioREterritorieslocaleDisplayNames
+BahamojBSterritorieslocaleDisplayNames
+MonakoMCterritorieslocaleDisplayNames
+MozambikoMZterritorieslocaleDisplayNames
+JemenoYEterritorieslocaleDisplayNames
+GvatemaloGTterritorieslocaleDisplayNames
+JordanioJOterritorieslocaleDisplayNames
+PakistanoPKterritorieslocaleDisplayNames
+EtiopujoETterritorieslocaleDisplayNames
+UrugvajoUYterritorieslocaleDisplayNames
+GanaoGHterritorieslocaleDisplayNames
+RumanujoROterritorieslocaleDisplayNames
+KanadoCAterritorieslocaleDisplayNames
+IndonezioIDterritorieslocaleDisplayNames
+Siera-LeonoSLterritorieslocaleDisplayNames
+SvisujoCHterritorieslocaleDisplayNames
+DanujoDKterritorieslocaleDisplayNames
+ItalujoITterritorieslocaleDisplayNames
+KongoloCGterritorieslocaleDisplayNames
+NepaloNPterritorieslocaleDisplayNames
+BraziloBRterritorieslocaleDisplayNames
+BelorusujoBYterritorieslocaleDisplayNames
+Gvineo-BisaŭoGWterritorieslocaleDisplayNames
+KenjoKEterritorieslocaleDisplayNames
+Sent-HelenoSHterritorieslocaleDisplayNames
+SurinamoSRterritorieslocaleDisplayNames
+TajlandoTHterritorieslocaleDisplayNames
+DomingoDOterritorieslocaleDisplayNames
+AngviloAIterritorieslocaleDisplayNames
+GabonoGAterritorieslocaleDisplayNames
+EgiptoEGterritorieslocaleDisplayNames
+AlĝerioDZterritorieslocaleDisplayNames
+AngoloAOterritorieslocaleDisplayNames
+MajotoYTterritorieslocaleDisplayNames
+Trinidado kaj TobagoTTterritorieslocaleDisplayNames
+GvineoGNterritorieslocaleDisplayNames
+Britaj VirgulininsulojVGterritorieslocaleDisplayNames
+{0} tagojotherpatternduration-dayunitlongunits
+{0} tagoonepatternduration-dayunitlongunits
+tagojdisplayNameduration-dayunitlongunits
+kvadrataj metrojdisplayNamearea-square-meterunitlongunits
+{0} kvadrataj metrojotherpatternarea-square-meterunitlongunits
+{0} kvadrata metroonepatternarea-square-meterunitlongunits
+jardojdisplayNamelength-yardunitlongunits
+{0} jardoonepatternlength-yardunitlongunits
+{0} jardojotherpatternlength-yardunitlongunits
+{0} lumjarojotherpatternlength-light-yearunitlongunits
+{0} lumjaroonepatternlength-light-yearunitlongunits
+lumjarojdisplayNamelength-light-yearunitlongunits
+klaftojdisplayNamelength-fathomunitlongunits
+{0} klaftojotherpatternlength-fathomunitlongunits
+{0} klaftoonepatternlength-fathomunitlongunits
+{0} terabajtojotherpatterndigital-terabyteunitlongunits
+{0} terabajtoonepatterndigital-terabyteunitlongunits
+terabajtojdisplayNamedigital-terabyteunitlongunits
+kilobajtojdisplayNamedigital-kilobyteunitlongunits
+{0} kilobajtoonepatterndigital-kilobyteunitlongunits
+{0} kilobajtojotherpatterndigital-kilobyteunitlongunits
+{0} por sekundoperUnitPatternduration-secondunitlongunits
+sekundojdisplayNameduration-secondunitlongunits
+{0} sekundojotherpatternduration-secondunitlongunits
+{0} sekundoonepatternduration-secondunitlongunits
+{0} pikometrojotherpatternlength-picometerunitlongunits
+{0} pikometroonepatternlength-picometerunitlongunits
+pikometrojdisplayNamelength-picometerunitlongunits
+mikrometrojdisplayNamelength-micrometerunitlongunits
+{0} mikrometroonepatternlength-micrometerunitlongunits
+{0} mikrometrojotherpatternlength-micrometerunitlongunits
+{0} bitojotherpatterndigital-bitunitlongunits
+{0} bitoonepatterndigital-bitunitlongunits
+bitojdisplayNamedigital-bitunitlongunits
+semajnojdisplayNameduration-weekunitlongunits
+{0} semajnoonepatternduration-weekunitlongunits
+{0} semajnojotherpatternduration-weekunitlongunits
+litrojdisplayNamevolume-literunitlongunits
+{0} litroonepatternvolume-literunitlongunits
+{0} litrojotherpatternvolume-literunitlongunits
+gigabajtojdisplayNamedigital-gigabyteunitlongunits
+{0} gigabajtoonepatterndigital-gigabyteunitlongunits
+{0} gigabajtojotherpatterndigital-gigabyteunitlongunits
+kvadrataj colojdisplayNamearea-square-inchunitlongunits
+{0} kvadrata coloonepatternarea-square-inchunitlongunits
+{0} kvadrataj colojotherpatternarea-square-inchunitlongunits
+{0} decimetrojotherpatternlength-decimeterunitlongunits
+{0} decimetroonepatternlength-decimeterunitlongunits
+decimetrojdisplayNamelength-decimeterunitlongunits
+{0} kilometrojotherpatternlength-kilometerunitlongunits
+{0} kilometroonepatternlength-kilometerunitlongunits
+kilometrojdisplayNamelength-kilometerunitlongunits
+{0} kvadrataj jardojotherpatternarea-square-yardunitlongunits
+{0} kvadrata jardoonepatternarea-square-yardunitlongunits
+kvadrataj jardojdisplayNamearea-square-yardunitlongunits
+kvadrataj mejlojdisplayNamearea-square-mileunitlongunits
+{0} kvadrataj mejlojotherpatternarea-square-mileunitlongunits
+{0} kvadrata mejloonepatternarea-square-mileunitlongunits
+{0} astronomia unuoonepatternlength-astronomical-unitunitlongunits
+{0} astronomiaj unuojotherpatternlength-astronomical-unitunitlongunits
+astronomiaj unuojdisplayNamelength-astronomical-unitunitlongunits
+{0} futojotherpatternlength-footunitlongunits
+{0} futoonepatternlength-footunitlongunits
+futojdisplayNamelength-footunitlongunits
+bajtojdisplayNamedigital-byteunitlongunits
+{0} bajtojotherpatterndigital-byteunitlongunits
+{0} bajtoonepatterndigital-byteunitlongunits
+monatojdisplayNameduration-monthunitlongunits
+{0} monatoonepatternduration-monthunitlongunits
+{0} monatojotherpatternduration-monthunitlongunits
+jarojdisplayNameduration-yearunitlongunits
+{0} jarojotherpatternduration-yearunitlongunits
+{0} jaroonepatternduration-yearunitlongunits
+mejlojdisplayNamelength-mileunitlongunits
+{0} mejloonepatternlength-mileunitlongunits
+{0} mejlojotherpatternlength-mileunitlongunits
+colojdisplayNamelength-inchunitlongunits
+{0} coloonepatternlength-inchunitlongunits
+{0} colojotherpatternlength-inchunitlongunits
+{0} por horoperUnitPatternduration-hourunitlongunits
+horojdisplayNameduration-hourunitlongunits
+{0} horojotherpatternduration-hourunitlongunits
+{0} horoonepatternduration-hourunitlongunits
+kvadrataj centimetrojdisplayNamearea-square-centimeterunitlongunits
+{0} kvadrataj centimetrojotherpatternarea-square-centimeterunitlongunits
+{0} kvadrata centimetroonepatternarea-square-centimeterunitlongunits
+kvadrataj futojdisplayNamearea-square-footunitlongunits
+{0} kvadrataj futojotherpatternarea-square-footunitlongunits
+{0} kvadrata futoonepatternarea-square-footunitlongunits
+{0} minutoonepatternduration-minuteunitlongunits
+{0} minutojotherpatternduration-minuteunitlongunits
+minutojdisplayNameduration-minuteunitlongunits
+{0} centimetrojotherpatternlength-centimeterunitlongunits
+{0} centimetroonepatternlength-centimeterunitlongunits
+centimetrojdisplayNamelength-centimeterunitlongunits
+nanometrojdisplayNamelength-nanometerunitlongunits
+{0} nanometroonepatternlength-nanometerunitlongunits
+{0} nanometrojotherpatternlength-nanometerunitlongunits
+metrojdisplayNamelength-meterunitlongunits
+{0} metrojotherpatternlength-meterunitlongunits
+{0} metroonepatternlength-meterunitlongunits
+akreojdisplayNamearea-acreunitlongunits
+{0} akreojotherpatternarea-acreunitlongunits
+{0} akreoonepatternarea-acreunitlongunits
+{0} kilometroj en horootherpatternspeed-kilometer-per-hourunitlongunits
+{0} kilometro en horoonepatternspeed-kilometer-per-hourunitlongunits
+kilometroj en horodisplayNamespeed-kilometer-per-hourunitlongunits
+megabitojdisplayNamedigital-megabitunitlongunits
+{0} megabitoonepatterndigital-megabitunitlongunits
+{0} megabitojotherpatterndigital-megabitunitlongunits
+{0} kilogramojotherpatternmass-kilogramunitlongunits
+{0} kilogramoonepatternmass-kilogramunitlongunits
+kilogramojdisplayNamemass-kilogramunitlongunits
+gramojdisplayNamemass-gramunitlongunits
+{0} gramoonepatternmass-gramunitlongunits
+{0} gramojotherpatternmass-gramunitlongunits
+kvadrataj kilometrojdisplayNamearea-square-kilometerunitlongunits
+{0} kvadrataj kilometrojotherpatternarea-square-kilometerunitlongunits
+{0} kvadrata kilometroonepatternarea-square-kilometerunitlongunits
+gigabitojdisplayNamedigital-gigabitunitlongunits
+{0} gigabitoonepatterndigital-gigabitunitlongunits
+{0} gigabitojotherpatterndigital-gigabitunitlongunits
+{0} parsekoonepatternlength-parsecunitlongunits
+{0} parsekojotherpatternlength-parsecunitlongunits
+parsekojdisplayNamelength-parsecunitlongunits
+{0} grado celsiaonepatterntemperature-celsiusunitlongunits
+{0} gradoj celsiajotherpatterntemperature-celsiusunitlongunits
+gradoj celsiajdisplayNametemperature-celsiusunitlongunits
+milisekundojdisplayNameduration-millisecondunitlongunits
+{0} milisekundoonepatternduration-millisecondunitlongunits
+{0} milisekundojotherpatternduration-millisecondunitlongunits
+stadiojdisplayNamelength-furlongunitlongunits
+{0} stadiojotherpatternlength-furlongunitlongunits
+{0} stadioonepatternlength-furlongunitlongunits
+{0} marmejloonepatternlength-nautical-mileunitlongunits
+{0} marmejlojotherpatternlength-nautical-mileunitlongunits
+marmejlojdisplayNamelength-nautical-mileunitlongunits
+{0} hektaroonepatternarea-hectareunitlongunits
+{0} hektarojotherpatternarea-hectareunitlongunits
+hektarojdisplayNamearea-hectareunitlongunits
+{0} megabajtojotherpatterndigital-megabyteunitlongunits
+{0} megabajtoonepatterndigital-megabyteunitlongunits
+megabajtojdisplayNamedigital-megabyteunitlongunits
+terabitojdisplayNamedigital-terabitunitlongunits
+{0} terabitoonepatterndigital-terabitunitlongunits
+{0} terabitojotherpatterndigital-terabitunitlongunits
+{0} kilobitojotherpatterndigital-kilobitunitlongunits
+{0} kilobitoonepatterndigital-kilobitunitlongunits
+kilobitojdisplayNamedigital-kilobitunitlongunits
+{0} milimetrojotherpatternlength-millimeterunitlongunits
+{0} milimetroonepatternlength-millimeterunitlongunits
+milimetrojdisplayNamelength-millimeterunitlongunits
+semajnodisplayNameduration-weekunitshortunits
+{0} Lonepatternvolume-literunitshortunits
+{0} Lotherpatternvolume-literunitshortunits
+LdisplayNamevolume-literunitshortunits
+{0} ljonepatternlength-light-yearunitshortunits
+{0} ljotherpatternlength-light-yearunitshortunits
+ljdisplayNamelength-light-yearunitshortunits
+µmdisplayNamelength-micrometerunitshortunits
+{0} µmonepatternlength-micrometerunitshortunits
+{0} µmotherpatternlength-micrometerunitshortunits
+pmdisplayNamelength-picometerunitshortunits
+{0} pmonepatternlength-picometerunitshortunits
+{0} pmotherpatternlength-picometerunitshortunits
+{0}/s.perUnitPatternduration-secondunitshortunits
+sekundodisplayNameduration-secondunitshortunits
+{0} s.otherpatternduration-secondunitshortunits
+{0} s.onepatternduration-secondunitshortunits
+{0} t.onepatternduration-dayunitshortunits
+{0} t.otherpatternduration-dayunitshortunits
+tagodisplayNameduration-dayunitshortunits
+{0} m²onepatternarea-square-meterunitshortunits
+{0} m²otherpatternarea-square-meterunitshortunits
+m²displayNamearea-square-meterunitshortunits
+{0} j.otherpatternduration-yearunitshortunits
+{0} j.onepatternduration-yearunitshortunits
+jarodisplayNameduration-yearunitshortunits
+audisplayNamelength-astronomical-unitunitshortunits
+{0} auotherpatternlength-astronomical-unitunitshortunits
+{0} auonepatternlength-astronomical-unitunitshortunits
+{0} mon.otherpatternduration-monthunitshortunits
+{0} mon.onepatternduration-monthunitshortunits
+monatodisplayNameduration-monthunitshortunits
+kmdisplayNamelength-kilometerunitshortunits
+{0} kmotherpatternlength-kilometerunitshortunits
+{0} kmonepatternlength-kilometerunitshortunits
+dmdisplayNamelength-decimeterunitshortunits
+{0} dmonepatternlength-decimeterunitshortunits
+{0} dmotherpatternlength-decimeterunitshortunits
+{0} kgotherpatternmass-kilogramunitshortunits
+{0} kgonepatternmass-kilogramunitshortunits
+kgdisplayNamemass-kilogramunitshortunits
+km/hdisplayNamespeed-kilometer-per-hourunitshortunits
+{0} km/honepatternspeed-kilometer-per-hourunitshortunits
+{0} km/hotherpatternspeed-kilometer-per-hourunitshortunits
+nmdisplayNamelength-nanometerunitshortunits
+{0} nmonepatternlength-nanometerunitshortunits
+{0} nmotherpatternlength-nanometerunitshortunits
+{0} cmotherpatternlength-centimeterunitshortunits
+{0} cmonepatternlength-centimeterunitshortunits
+cmdisplayNamelength-centimeterunitshortunits
+{0} cm²otherpatternarea-square-centimeterunitshortunits
+{0} cm²onepatternarea-square-centimeterunitshortunits
+cm²displayNamearea-square-centimeterunitshortunits
+mdisplayNamelength-meterunitshortunits
+{0} motherpatternlength-meterunitshortunits
+{0} monepatternlength-meterunitshortunits
+{0} m.onepatternduration-minuteunitshortunits
+{0} m.otherpatternduration-minuteunitshortunits
+minutodisplayNameduration-minuteunitshortunits
+{0} h.onepatternduration-hourunitshortunits
+{0} h.otherpatternduration-hourunitshortunits
+horodisplayNameduration-hourunitshortunits
+{0}/h.perUnitPatternduration-hourunitshortunits
+{0} mmonepatternlength-millimeterunitshortunits
+{0} mmotherpatternlength-millimeterunitshortunits
+mmdisplayNamelength-millimeterunitshortunits
+{0} haotherpatternarea-hectareunitshortunits
+{0} haonepatternarea-hectareunitshortunits
+hadisplayNamearea-hectareunitshortunits
+{0} °Cotherpatterntemperature-celsiusunitshortunits
+{0} °Conepatterntemperature-celsiusunitshortunits
+°CdisplayNametemperature-celsiusunitshortunits
+{0} km²onepatternarea-square-kilometerunitshortunits
+{0} km²otherpatternarea-square-kilometerunitshortunits
+km²displayNamearea-square-kilometerunitshortunits
+{0} gonepatternmass-gramunitshortunits
+{0} gotherpatternmass-gramunitshortunits
+gdisplayNamemass-gramunitshortunits
+{0} pcotherpatternlength-parsecunitshortunits
+{0} pconepatternlength-parsecunitshortunits
+pcdisplayNamelength-parsecunitshortunits
+milisekundodisplayNameduration-millisecondunitshortunits
+{0} ms.onepatternduration-millisecondunitshortunits
+{0} ms.otherpatternduration-millisecondunitshortunits
+{0}gotherpatternmass-gramunitnarrowunits
+{0}gonepatternmass-gramunitnarrowunits
+gdisplayNamemass-gramunitnarrowunits
+°CdisplayNametemperature-celsiusunitnarrowunits
+{0}°Conepatterntemperature-celsiusunitnarrowunits
+{0}°Cotherpatterntemperature-celsiusunitnarrowunits
+pcdisplayNamelength-parsecunitnarrowunits
+{0}pconepatternlength-parsecunitnarrowunits
+{0}pcotherpatternlength-parsecunitnarrowunits
+km²displayNamearea-square-kilometerunitnarrowunits
+{0}km²onepatternarea-square-kilometerunitnarrowunits
+{0}km²otherpatternarea-square-kilometerunitnarrowunits
+ms.displayNameduration-millisecondunitnarrowunits
+{0}ms.otherpatternduration-millisecondunitnarrowunits
+{0}ms.onepatternduration-millisecondunitnarrowunits
+hadisplayNamearea-hectareunitnarrowunits
+{0}haonepatternarea-hectareunitnarrowunits
+{0}haotherpatternarea-hectareunitnarrowunits
+{0}mmotherpatternlength-millimeterunitnarrowunits
+{0}mmonepatternlength-millimeterunitnarrowunits
+mmdisplayNamelength-millimeterunitnarrowunits
+nmdisplayNamelength-nanometerunitnarrowunits
+{0}nmotherpatternlength-nanometerunitnarrowunits
+{0}nmonepatternlength-nanometerunitnarrowunits
+cmdisplayNamelength-centimeterunitnarrowunits
+{0}cmotherpatternlength-centimeterunitnarrowunits
+{0}cmonepatternlength-centimeterunitnarrowunits
+cm²displayNamearea-square-centimeterunitnarrowunits
+{0}cm²otherpatternarea-square-centimeterunitnarrowunits
+{0}cm²onepatternarea-square-centimeterunitnarrowunits
+{0}motherpatternlength-meterunitnarrowunits
+{0}monepatternlength-meterunitnarrowunits
+mdisplayNamelength-meterunitnarrowunits
+m.displayNameduration-minuteunitnarrowunits
+{0}m.onepatternduration-minuteunitnarrowunits
+{0}m.otherpatternduration-minuteunitnarrowunits
+{0}/h.perUnitPatternduration-hourunitnarrowunits
+h.displayNameduration-hourunitnarrowunits
+{0}h.otherpatternduration-hourunitnarrowunits
+{0}h.onepatternduration-hourunitnarrowunits
+kgdisplayNamemass-kilogramunitnarrowunits
+{0}kgotherpatternmass-kilogramunitnarrowunits
+{0}kgonepatternmass-kilogramunitnarrowunits
+{0}km/honepatternspeed-kilometer-per-hourunitnarrowunits
+{0}km/hotherpatternspeed-kilometer-per-hourunitnarrowunits
+km/hdisplayNamespeed-kilometer-per-hourunitnarrowunits
+{0}kmotherpatternlength-kilometerunitnarrowunits
+{0}kmonepatternlength-kilometerunitnarrowunits
+kmdisplayNamelength-kilometerunitnarrowunits
+dmdisplayNamelength-decimeterunitnarrowunits
+{0}dmotherpatternlength-decimeterunitnarrowunits
+{0}dmonepatternlength-decimeterunitnarrowunits
+{0}°otherpatternangle-degreeunitnarrowunits
+{0}°onepatternangle-degreeunitnarrowunits
+audisplayNamelength-astronomical-unitunitnarrowunits
+{0}auotherpatternlength-astronomical-unitunitnarrowunits
+{0}auonepatternlength-astronomical-unitunitnarrowunits
+{0}j.onepatternduration-yearunitnarrowunits
+{0}j.otherpatternduration-yearunitnarrowunits
+j.displayNameduration-yearunitnarrowunits
+{0}pmotherpatternlength-picometerunitnarrowunits
+{0}pmonepatternlength-picometerunitnarrowunits
+pmdisplayNamelength-picometerunitnarrowunits
+{0}ljonepatternlength-light-yearunitnarrowunits
+{0}ljotherpatternlength-light-yearunitnarrowunits
+ljdisplayNamelength-light-yearunitnarrowunits
+µmdisplayNamelength-micrometerunitnarrowunits
+{0}µmotherpatternlength-micrometerunitnarrowunits
+{0}µmonepatternlength-micrometerunitnarrowunits
+m²displayNamearea-square-meterunitnarrowunits
+{0}m²onepatternarea-square-meterunitnarrowunits
+{0}m²otherpatternarea-square-meterunitnarrowunits
+{0}s.otherpatternduration-secondunitnarrowunits
+{0}s.onepatternduration-secondunitnarrowunits
+s.displayNameduration-secondunitnarrowunits
+{0}/s.perUnitPatternduration-secondunitnarrowunits
+{0}t.onepatternduration-dayunitnarrowunits
+{0}t.otherpatternduration-dayunitnarrowunits
+t.displayNameduration-dayunitnarrowunits
+LdisplayNamevolume-literunitnarrowunits
+{0}Lotherpatternvolume-literunitnarrowunits
+{0}Lonepatternvolume-literunitnarrowunits

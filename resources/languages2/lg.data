@@ -1,0 +1,415 @@
+Ye:Yyesstrposixmessages
+Nedda:Nnostrposixmessages
+Lfricalendarsgregoriandaysstand-alonenarrow
+Lwedcalendarsgregoriandaysstand-alonenarrow
+Lsatcalendarsgregoriandaysstand-alonenarrow
+Ssuncalendarsgregoriandaysstand-alonenarrow
+Ltuecalendarsgregoriandaysstand-alonenarrow
+Lthucalendarsgregoriandaysstand-alonenarrow
+Bmoncalendarsgregoriandaysstand-alonenarrow
+Balazamoncalendarsgregoriandaysformatwide
+Lwakunathucalendarsgregoriandaysformatwide
+Lwakutaanofricalendarsgregoriandaysformatwide
+Lwakusatuwedcalendarsgregoriandaysformatwide
+Sabbiitisuncalendarsgregoriandaysformatwide
+Lwamukaagasatcalendarsgregoriandaysformatwide
+Lwakubirituecalendarsgregoriandaysformatwide
+Lw2tuecalendarsgregoriandaysformatabbreviated
+Lw6satcalendarsgregoriandaysformatabbreviated
+Sabsuncalendarsgregoriandaysformatabbreviated
+Lw3wedcalendarsgregoriandaysformatabbreviated
+Lw5fricalendarsgregoriandaysformatabbreviated
+Lw4thucalendarsgregoriandaysformatabbreviated
+Balmoncalendarsgregoriandaysformatabbreviated
+Kulisito nga tannaza0calendarsgregorianeraseraNames
+Bukya Kulisito Azaal1calendarsgregorianeraseraNames
+BC0calendarsgregorianeraseraAbbr
+AD1calendarsgregorianeraseraAbbr
+d MMMM ystandardcalendarsgregoriandateFormatslong
+d MMM ystandardcalendarsgregoriandateFormatsmedium
+dd/MM/ystandardcalendarsgregoriandateFormatsshort
+EEEE, d MMMM ystandardcalendarsgregoriandateFormatsfull
+HH:mm:ssstandardcalendarsgregoriantimeFormatsmedium
+HH:mm:ss zstandardcalendarsgregoriantimeFormatslong
+HH:mmstandardcalendarsgregoriantimeFormatsshort
+HH:mm:ss zzzzstandardcalendarsgregoriantimeFormatsfull
+MMM yyMMMcalendarsgregorianavailableFormats
+yycalendarsgregorianavailableFormats
+E, M/d/yyMEdcalendarsgregorianavailableFormats
+LLLMMMcalendarsgregorianavailableFormats
+MMMM dMMMMdcalendarsgregorianavailableFormats
+E, MMMM dMMMMEdcalendarsgregorianavailableFormats
+MMM dMMMdcalendarsgregorianavailableFormats
+HH:mmHmcalendarsgregorianavailableFormats
+E, M/dMEdcalendarsgregorianavailableFormats
+QQQ yyQQQcalendarsgregorianavailableFormats
+E, MMM d, yyMMMEdcalendarsgregorianavailableFormats
+QQQQ yyQQQQcalendarsgregorianavailableFormats
+mm:ssmscalendarsgregorianavailableFormats
+ddcalendarsgregorianavailableFormats
+M/yyMcalendarsgregorianavailableFormats
+HH:mm:ssHmscalendarsgregorianavailableFormats
+E, MMM dMMMEdcalendarsgregorianavailableFormats
+M/dMdcalendarsgregorianavailableFormats
+LMcalendarsgregorianavailableFormats
+MMMM yyMMMMcalendarsgregorianavailableFormats
+h:mm ahmcalendarsgregorianavailableFormats
+Kya33calendarsgregorianquartersformatabbreviated
+Kya11calendarsgregorianquartersformatabbreviated
+Kya44calendarsgregorianquartersformatabbreviated
+Kya22calendarsgregorianquartersformatabbreviated
+Kyakuna 44calendarsgregorianquartersformatwide
+Kyakuna 22calendarsgregorianquartersformatwide
+Kyakuna 11calendarsgregorianquartersformatwide
+Kyakuna 33calendarsgregorianquartersformatwide
+Agu8calendarsgregorianmonthsformatabbreviated
+Juu6calendarsgregorianmonthsformatabbreviated
+Jul7calendarsgregorianmonthsformatabbreviated
+Des12calendarsgregorianmonthsformatabbreviated
+Nov11calendarsgregorianmonthsformatabbreviated
+Seb9calendarsgregorianmonthsformatabbreviated
+Jan1calendarsgregorianmonthsformatabbreviated
+Mar3calendarsgregorianmonthsformatabbreviated
+Feb2calendarsgregorianmonthsformatabbreviated
+Oki10calendarsgregorianmonthsformatabbreviated
+Apu4calendarsgregorianmonthsformatabbreviated
+Maa5calendarsgregorianmonthsformatabbreviated
+Sebuttemba9calendarsgregorianmonthsformatwide
+Novemba11calendarsgregorianmonthsformatwide
+Marisi3calendarsgregorianmonthsformatwide
+Janwaliyo1calendarsgregorianmonthsformatwide
+Maayi5calendarsgregorianmonthsformatwide
+Okitobba10calendarsgregorianmonthsformatwide
+Apuli4calendarsgregorianmonthsformatwide
+Febwaliyo2calendarsgregorianmonthsformatwide
+Julaayi7calendarsgregorianmonthsformatwide
+Juuni6calendarsgregorianmonthsformatwide
+Agusito8calendarsgregorianmonthsformatwide
+Desemba12calendarsgregorianmonthsformatwide
+J1calendarsgregorianmonthsstand-alonenarrow
+N11calendarsgregorianmonthsstand-alonenarrow
+S9calendarsgregorianmonthsstand-alonenarrow
+M3calendarsgregorianmonthsstand-alonenarrow
+A4calendarsgregorianmonthsstand-alonenarrow
+O10calendarsgregorianmonthsstand-alonenarrow
+M5calendarsgregorianmonthsstand-alonenarrow
+F2calendarsgregorianmonthsstand-alonenarrow
+J7calendarsgregorianmonthsstand-alonenarrow
+J6calendarsgregorianmonthsstand-alonenarrow
+A8calendarsgregorianmonthsstand-alonenarrow
+D12calendarsgregorianmonthsstand-alonenarrow
+E, MMMM dMMMMEdcalendarsgenericavailableFormats
+HH:mmHmcalendarsgenericavailableFormats
+MMM dMMMdcalendarsgenericavailableFormats
+E, M/dMEdcalendarsgenericavailableFormats
+QQQ yyQQQcalendarsgenericavailableFormats
+E, M/d/yyMEdcalendarsgenericavailableFormats
+MMM yyMMMcalendarsgenericavailableFormats
+LLLMMMcalendarsgenericavailableFormats
+yycalendarsgenericavailableFormats
+MMMM dMMMMdcalendarsgenericavailableFormats
+LMcalendarsgenericavailableFormats
+MMMM yyMMMMcalendarsgenericavailableFormats
+h:mm ahmcalendarsgenericavailableFormats
+QQQQ yyQQQQcalendarsgenericavailableFormats
+ddcalendarsgenericavailableFormats
+E, MMM d, yyMMMEdcalendarsgenericavailableFormats
+mm:ssmscalendarsgenericavailableFormats
+E, MMM dMMMEdcalendarsgenericavailableFormats
+M/yyMcalendarsgenericavailableFormats
+HH:mm:ssHmscalendarsgenericavailableFormats
+M/dMdcalendarsgenericavailableFormats
+EEEE, d MMMM y GstandardcalendarsgenericdateFormatsfull
+d MMM y GstandardcalendarsgenericdateFormatsmedium
+d MMMM y GstandardcalendarsgenericdateFormatslong
+dd/MM/y GGGGGstandardcalendarsgenericdateFormatsshort
+[A B C D E F G I J K L M N Ŋ O P R S T U V W Y Z]indexcharactersexemplarCharacters
+[a b c d e f g i j k l m n {ny} ŋ o p r s t u v w y z]standardcharactersexemplarCharacters
+[h q x]auxiliarycharactersexemplarCharacters
+’alternateQuotationEnddelimiters
+‘alternateQuotationStartdelimiters
+“quotationStartdelimiters
+”quotationEnddelimiters
+000K¤100000numberscurrencyFormatslatnshort
+000G¤100000000000numberscurrencyFormatslatnshort
+00M¤10000000numberscurrencyFormatslatnshort
+000M¤100000000numberscurrencyFormatslatnshort
+0M¤1000000numberscurrencyFormatslatnshort
+00K¤10000numberscurrencyFormatslatnshort
+0G¤1000000000numberscurrencyFormatslatnshort
+00T¤10000000000000numberscurrencyFormatslatnshort
+000T¤100000000000000numberscurrencyFormatslatnshort
+0K¤1000numberscurrencyFormatslatnshort
+0T¤1000000000000numberscurrencyFormatslatnshort
+00G¤10000000000numberscurrencyFormatslatnshort
+#,##0.00¤standardnumberscurrencyFormatslatnstandard
+UShstandardnumberscurrenciesUGX
+LudaakidelocaleDisplayNameslanguages
+LuperusifalocaleDisplayNameslanguages
+LuyiboiglocaleDisplayNameslanguages
+LumalayimslocaleDisplayNameslanguages
+LupotugiiziptlocaleDisplayNameslanguages
+LungerezaenlocaleDisplayNameslanguages
+LunnajjavajvlocaleDisplayNameslanguages
+LuhinduhilocaleDisplayNameslanguages
+LutamiirutalocaleDisplayNameslanguages
+LuyitaleitlocaleDisplayNameslanguages
+LukmekmlocaleDisplayNameslanguages
+Lu-amharikiamlocaleDisplayNameslanguages
+LuhangarehulocaleDisplayNameslanguages
+LugandalglocaleDisplayNameslanguages
+LupolandipllocaleDisplayNameslanguages
+Lugereeki/LuyonaaniellocaleDisplayNameslanguages
+LutaketrlocaleDisplayNameslanguages
+LufalansafrlocaleDisplayNameslanguages
+LuholandinllocaleDisplayNameslanguages
+LuvyetinaamuvilocaleDisplayNameslanguages
+LuyukurayineuklocaleDisplayNameslanguages
+LubengalibnlocaleDisplayNameslanguages
+LubulugariyabglocaleDisplayNameslanguages
+LuceekecslocaleDisplayNameslanguages
+LujapanijalocaleDisplayNameslanguages
+LusipanyaeslocaleDisplayNameslanguages
+LuswidenisvlocaleDisplayNameslanguages
+LulomaniyarolocaleDisplayNameslanguages
+LuyorubayolocaleDisplayNameslanguages
+LunepalinelocaleDisplayNameslanguages
+LupunjabipalocaleDisplayNameslanguages
+LusomaliyasolocaleDisplayNameslanguages
+LukoreyakolocaleDisplayNameslanguages
+LulasarulocaleDisplayNameslanguages
+Lu-akaaniaklocaleDisplayNameslanguages
+LubbamamylocaleDisplayNameslanguages
+LunarwandarwlocaleDisplayNameslanguages
+Lu-uruduurlocaleDisplayNameslanguages
+LuyindonezyaidlocaleDisplayNameslanguages
+LuwarabuarlocaleDisplayNameslanguages
+LuttaayithlocaleDisplayNameslanguages
+LuzzuluzulocaleDisplayNameslanguages
+LubelarusibelocaleDisplayNameslanguages
+LucayinazhlocaleDisplayNameslanguages
+LuhawuzahalocaleDisplayNameslanguages
+MaliMLlocaleDisplayNamesterritories
+Bizinga by’eMalidiveMVlocaleDisplayNamesterritories
+Kaledonya mupyaNClocaleDisplayNamesterritories
+YugandaUGlocaleDisplayNamesterritories
+VanawuwatuVUlocaleDisplayNamesterritories
+SenegaaloSNlocaleDisplayNamesterritories
+SawusafirikaZAlocaleDisplayNamesterritories
+GwamuGUlocaleDisplayNamesterritories
+KirigizisitaaniKGlocaleDisplayNamesterritories
+LasaRUlocaleDisplayNamesterritories
+GurenadaGDlocaleDisplayNamesterritories
+KongoCGlocaleDisplayNamesterritories
+SingapowaSGlocaleDisplayNamesterritories
+BungerezaGBlocaleDisplayNamesterritories
+YiraaniIRlocaleDisplayNamesterritories
+LesosoLSlocaleDisplayNamesterritories
+YiraakaIQlocaleDisplayNamesterritories
+MongoliyaMNlocaleDisplayNamesterritories
+BufalansaFRlocaleDisplayNamesterritories
+MawulitenyaMRlocaleDisplayNamesterritories
+ZambyaZMlocaleDisplayNamesterritories
+HangareHUlocaleDisplayNamesterritories
+AligeryaDZlocaleDisplayNamesterritories
+LeyunyoniRElocaleDisplayNamesterritories
+El salivadoSVlocaleDisplayNamesterritories
+TuvaluTVlocaleDisplayNamesterritories
+VenzweraVElocaleDisplayNamesterritories
+ZimbabweZWlocaleDisplayNamesterritories
+Kosita RikaCRlocaleDisplayNamesterritories
+BulugariyaBGlocaleDisplayNamesterritories
+BeremudaBMlocaleDisplayNamesterritories
+BangaladesiBDlocaleDisplayNamesterritories
+TimowaTLlocaleDisplayNamesterritories
+NawuruNRlocaleDisplayNamesterritories
+LiberyaLRlocaleDisplayNamesterritories
+YemeniYElocaleDisplayNamesterritories
+Gayana ey’oku ekwetaGQlocaleDisplayNamesterritories
+GwadalupeGPlocaleDisplayNamesterritories
+MozambiikiMZlocaleDisplayNamesterritories
+MaritiniikiMQlocaleDisplayNamesterritories
+BudaakiDElocaleDisplayNamesterritories
+PitikeeniPNlocaleDisplayNamesterritories
+Senti Piyere ne MikeloniPMlocaleDisplayNamesterritories
+RwandaRWlocaleDisplayNamesterritories
+SurinaamuSRlocaleDisplayNamesterritories
+MikuronezyaFMlocaleDisplayNamesterritories
+LisuwenyaLTlocaleDisplayNamesterritories
+MayotteYTlocaleDisplayNamesterritories
+Kote DivwaCIlocaleDisplayNamesterritories
+TajikisitaaniTJlocaleDisplayNamesterritories
+KazakisitaaniKZlocaleDisplayNamesterritories
+CubaCUlocaleDisplayNamesterritories
+HolandiNLlocaleDisplayNamesterritories
+Koreya ey’omumambukaKPlocaleDisplayNamesterritories
+JjibutiDJlocaleDisplayNamesterritories
+Kongo - ZayireCDlocaleDisplayNamesterritories
+AmerikaUSlocaleDisplayNamesterritories
+VyetinaamuVNlocaleDisplayNamesterritories
+Senti HerenaSHlocaleDisplayNamesterritories
+JapaniJPlocaleDisplayNamesterritories
+TtakeTRlocaleDisplayNamesterritories
+GayanaGYlocaleDisplayNamesterritories
+ButaaniBTlocaleDisplayNamesterritories
+SirilankaLKlocaleDisplayNamesterritories
+MonteseraatiMSlocaleDisplayNamesterritories
+CayinaCNlocaleDisplayNamesterritories
+KambodyaKHlocaleDisplayNamesterritories
+YindonezyaIDlocaleDisplayNamesterritories
+Bizinga bya FiripinoPHlocaleDisplayNamesterritories
+SirovakyaSKlocaleDisplayNamesterritories
+GiburalitaGIlocaleDisplayNamesterritories
+NiyuweNUlocaleDisplayNamesterritories
+PanamaPAlocaleDisplayNamesterritories
+MalitaMTlocaleDisplayNamesterritories
+Polinesiya enfalansaPFlocaleDisplayNamesterritories
+LomaniyaROlocaleDisplayNamesterritories
+YukurayineUAlocaleDisplayNamesterritories
+BeniniBJlocaleDisplayNamesterritories
+SirovenyaSIlocaleDisplayNamesterritories
+GyogyaGElocaleDisplayNamesterritories
+Bizinga ebya KayimaaniKYlocaleDisplayNamesterritories
+BoliviyaBOlocaleDisplayNamesterritories
+Lipubulika eya SenturafirikiCFlocaleDisplayNamesterritories
+PotorikoPRlocaleDisplayNamesterritories
+Bizinga by’eTaaka ne KayikosiTClocaleDisplayNamesterritories
+LicitensitayiniLIlocaleDisplayNamesterritories
+MisiriEGlocaleDisplayNamesterritories
+Lipubulika ya CeekaCZlocaleDisplayNamesterritories
+KataaQAlocaleDisplayNamesterritories
+Senti Kitisi ne NevisiKNlocaleDisplayNamesterritories
+BelarusiBYlocaleDisplayNamesterritories
+TunisyaTNlocaleDisplayNamesterritories
+VatikaaniVAlocaleDisplayNamesterritories
+TayiwaniTWlocaleDisplayNamesterritories
+Bizinga bya Virigini eby’AmerikaVIlocaleDisplayNamesterritories
+JamayikaJMlocaleDisplayNamesterritories
+KuwetiKWlocaleDisplayNamesterritories
+OmaaniOMlocaleDisplayNamesterritories
+DenimaakaDKlocaleDisplayNamesterritories
+EritureyaERlocaleDisplayNamesterritories
+MyanimaMMlocaleDisplayNamesterritories
+KameruuniCMlocaleDisplayNamesterritories
+Bizinga bya Mariyana eby’omumambukaMPlocaleDisplayNamesterritories
+SwazirandiSZlocaleDisplayNamesterritories
+Bizinga by’eCagoIOlocaleDisplayNamesterritories
+Samowa omumerikaASlocaleDisplayNamesterritories
+EmireetiAElocaleDisplayNamesterritories
+PolandiPLlocaleDisplayNamesterritories
+EsyopyaETlocaleDisplayNamesterritories
+YitaleITlocaleDisplayNamesterritories
+LawosiLAlocaleDisplayNamesterritories
+PakisitaaniPKlocaleDisplayNamesterritories
+Antigwa ne BarabudaAGlocaleDisplayNamesterritories
+WurugwayiUYlocaleDisplayNamesterritories
+Senti Vinsenti ne GurendadiiniVClocaleDisplayNamesterritories
+Lipubulika ya DominikaDOlocaleDisplayNamesterritories
+LativyaLVlocaleDisplayNamesterritories
+NijeNElocaleDisplayNamesterritories
+NepaloNPlocaleDisplayNamesterritories
+SiriyaSYlocaleDisplayNamesterritories
+MalezyaMYlocaleDisplayNamesterritories
+AngwilaAIlocaleDisplayNamesterritories
+MonakoMClocaleDisplayNamesterritories
+ArubaAWlocaleDisplayNamesterritories
+Kizinga ky’eNorofokoNFlocaleDisplayNamesterritories
+PalawuPWlocaleDisplayNamesterritories
+SamowaWSlocaleDisplayNamesterritories
+FijiFJlocaleDisplayNamesterritories
+NayijeryaNGlocaleDisplayNamesterritories
+TakimenesitaaniTMlocaleDisplayNamesterritories
+Walisi ne FutunaWFlocaleDisplayNamesterritories
+HundurasiHNlocaleDisplayNamesterritories
+NamibiyaNAlocaleDisplayNamesterritories
+LukisembaagaLUlocaleDisplayNamesterritories
+BotiswanaBWlocaleDisplayNamesterritories
+Guyana enfalansaGFlocaleDisplayNamesterritories
+AfaganisitaniAFlocaleDisplayNamesterritories
+FinilandiFIlocaleDisplayNamesterritories
+MalawiMWlocaleDisplayNamesterritories
+Senti LuciyaLClocaleDisplayNamesterritories
+KiribatiKIlocaleDisplayNamesterritories
+GwatemalaGTlocaleDisplayNamesterritories
+Boziniya HezegovinaBAlocaleDisplayNamesterritories
+TanzaniyaTZlocaleDisplayNamesterritories
+BelizeBZlocaleDisplayNamesterritories
+SesereSClocaleDisplayNamesterritories
+KanadaCAlocaleDisplayNamesterritories
+GanaGHlocaleDisplayNamesterritories
+BubirigiBElocaleDisplayNamesterritories
+Burukina FasoBFlocaleDisplayNamesterritories
+Bizinga bya MarisoMHlocaleDisplayNamesterritories
+SudaaniSDlocaleDisplayNamesterritories
+SanimarinoSMlocaleDisplayNamesterritories
+YorodaniJOlocaleDisplayNamesterritories
+KurowesyaHRlocaleDisplayNamesterritories
+ArameniyaAMlocaleDisplayNamesterritories
+KolombyaCOlocaleDisplayNamesterritories
+ArigentinaARlocaleDisplayNamesterritories
+PotugaaliPTlocaleDisplayNamesterritories
+SwitizirandiCHlocaleDisplayNamesterritories
+CileCLlocaleDisplayNamesterritories
+MawulisyasiMUlocaleDisplayNamesterritories
+LibyaLYlocaleDisplayNamesterritories
+KenyaKElocaleDisplayNamesterritories
+GambyaGMlocaleDisplayNamesterritories
+NiyuziirandiNZlocaleDisplayNamesterritories
+MadagasikaMGlocaleDisplayNamesterritories
+SomaliyaSOlocaleDisplayNamesterritories
+WuzibekisitaaniUZlocaleDisplayNamesterritories
+MorokoMAlocaleDisplayNamesterritories
+AwusituriyaATlocaleDisplayNamesterritories
+Bizinga by’eFalikalandiFKlocaleDisplayNamesterritories
+Bizinga by’e Kepu VerediCVlocaleDisplayNamesterritories
+BahamasiBSlocaleDisplayNamesterritories
+Turindaadi ne TobagoTTlocaleDisplayNamesterritories
+GiniGNlocaleDisplayNamesterritories
+AngolaAOlocaleDisplayNamesterritories
+SipuriyaCYlocaleDisplayNamesterritories
+CaadiTDlocaleDisplayNamesterritories
+SiyeralewoneSLlocaleDisplayNamesterritories
+TongaTOlocaleDisplayNamesterritories
+TayirandiTHlocaleDisplayNamesterritories
+AyisirandiISlocaleDisplayNamesterritories
+BuyindiINlocaleDisplayNamesterritories
+BarabadosiBBlocaleDisplayNamesterritories
+BurunayiBNlocaleDisplayNamesterritories
+MasedoniyaMKlocaleDisplayNamesterritories
+AwusitureliyaAUlocaleDisplayNamesterritories
+TogoTGlocaleDisplayNamesterritories
+LebanoniLBlocaleDisplayNamesterritories
+HayitiHTlocaleDisplayNamesterritories
+AyalandiIElocaleDisplayNamesterritories
+BuraziiriBRlocaleDisplayNamesterritories
+Gini-BisawuGWlocaleDisplayNamesterritories
+SipeyiniESlocaleDisplayNamesterritories
+BaareeniBHlocaleDisplayNamesterritories
+Bizinga by’eKomoroKMlocaleDisplayNamesterritories
+AzerebayijaaniAZlocaleDisplayNamesterritories
+Bizinga bya KkukiCKlocaleDisplayNamesterritories
+Sawudarebya - BuwarabuSAlocaleDisplayNamesterritories
+GaboniGAlocaleDisplayNamesterritories
+EsitoniyaEElocaleDisplayNamesterritories
+BurundiBIlocaleDisplayNamesterritories
+ParagwayiPYlocaleDisplayNamesterritories
+Bizanga by’eSolomooniSBlocaleDisplayNamesterritories
+TokelawuTKlocaleDisplayNamesterritories
+YisirayeriILlocaleDisplayNamesterritories
+AlibaniyaALlocaleDisplayNamesterritories
+NikaraguwaNIlocaleDisplayNamesterritories
+NoweNOlocaleDisplayNamesterritories
+Bizinga ebya Virigini ebitwalibwa BungerezaVGlocaleDisplayNamesterritories
+Koreya ey’omumaserengetaKRlocaleDisplayNamesterritories
+Bugereeki/BuyonaaniGRlocaleDisplayNamesterritories
+DominikaDMlocaleDisplayNamesterritories
+MolodovaMDlocaleDisplayNamesterritories
+PeruPElocaleDisplayNamesterritories
+PalesitayiniPSlocaleDisplayNamesterritories
+EkwadoEClocaleDisplayNamesterritories
+AndoraADlocaleDisplayNamesterritories
+Papwa NyuginiPGlocaleDisplayNamesterritories
+SwideniSElocaleDisplayNamesterritories
+GurenelandiGLlocaleDisplayNamesterritories
+MekisikoMXlocaleDisplayNamesterritories
+Sanitome ne PurincipeSTlocaleDisplayNamesterritories

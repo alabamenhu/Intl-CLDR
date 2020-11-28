@@ -1,0 +1,1286 @@
+{0} དང་ {1}2standardlistPatterns
+{0} དང་ {1}middlestandardlistPatterns
+{0} དང་ {1}endstandardlistPatterns
+{0} དང་ {1}startstandardlistPatterns
+#,##,##0 %standardstandardlatnpercentFormatsnumbers
+tibtnativeotherNumberingSystemsnumbers
+¤000T100000000000000shortlatncurrencyFormatsnumbers
+¤000M100000000shortlatncurrencyFormatsnumbers
+¤0G1000000000shortlatncurrencyFormatsnumbers
+¤0M1000000shortlatncurrencyFormatsnumbers
+¤0K1000shortlatncurrencyFormatsnumbers
+¤00T10000000000000shortlatncurrencyFormatsnumbers
+¤0T1000000000000shortlatncurrencyFormatsnumbers
+¤00G10000000000shortlatncurrencyFormatsnumbers
+¤000K100000shortlatncurrencyFormatsnumbers
+¤000G100000000000shortlatncurrencyFormatsnumbers
+¤00M10000000shortlatncurrencyFormatsnumbers
+¤00K10000shortlatncurrencyFormatsnumbers
+¤#,##,##0.00standardstandardlatncurrencyFormatsnumbers
+tibtstandarddefaultNumberingSystemnumbers
+‰perMilletibtsymbolsnumbers
+Eexponentialtibtsymbolsnumbers
+%percentSigntibtsymbolsnumbers
+.decimaltibtsymbolsnumbers
+;listtibtsymbolsnumbers
++plusSigntibtsymbolsnumbers
+-minusSigntibtsymbolsnumbers
+ཨང་མདnantibtsymbolsnumbers
+,grouptibtsymbolsnumbers
+གྲངས་མེདinfinitytibtsymbolsnumbers
+‰perMillelatnsymbolsnumbers
+.decimallatnsymbolsnumbers
+Eexponentiallatnsymbolsnumbers
+%percentSignlatnsymbolsnumbers
++plusSignlatnsymbolsnumbers
+;listlatnsymbolsnumbers
+NaNnanlatnsymbolsnumbers
+-minusSignlatnsymbolsnumbers
+∞infinitylatnsymbolsnumbers
+,grouplatnsymbolsnumbers
+#E0standardstandardlatnscientificFormatsnumbers
+CA$standardCADcurrenciesnumbers
+NZ$standardNZDcurrenciesnumbers
+MX$standardMXNcurrenciesnumbers
+£standardGBPcurrenciesnumbers
+₹standardINRcurrenciesnumbers
+R$standardBRLcurrenciesnumbers
+HK$standardHKDcurrenciesnumbers
+KR₩standardKRWcurrenciesnumbers
+CN¥standardCNYcurrenciesnumbers
+Nu.standardBTNcurrenciesnumbers
+XAFstandardXAFcurrenciesnumbers
+AU$standardAUDcurrenciesnumbers
+ILSstandardILScurrenciesnumbers
+JP¥standardJPYcurrenciesnumbers
+€standardEURcurrenciesnumbers
+NT$standardTWDcurrenciesnumbers
+TH฿standardTHBcurrenciesnumbers
+US$standardUSDcurrenciesnumbers
+#,##,##0.###standardstandardlatndecimalFormatsnumbers
+དུང་ཕྱུར་ 0100000000longlatndecimalFormatsnumbers
+དུང་ཕྱུར་ས་ཡ་ 0100000000000000longlatndecimalFormatsnumbers
+དུང་ཕྱུར་ 001000000000longlatndecimalFormatsnumbers
+ས་ཡ་ 01000000longlatndecimalFormatsnumbers
+བྱེ་བ་ 010000000longlatndecimalFormatsnumbers
+དུང་ཕྱུར་སྟོང 0100000000000longlatndecimalFormatsnumbers
+ཁྲི་ཕྲག 010000longlatndecimalFormatsnumbers
+འབུམ་ཕྲག 0100000longlatndecimalFormatsnumbers
+དུང་ཕྱུར་བརྒྱ་ 010000000000longlatndecimalFormatsnumbers
+དུང་ཕྱུར་འབུམ་ 010000000000000longlatndecimalFormatsnumbers
+སྟོང་ཕྲག 01000longlatndecimalFormatsnumbers
+དུང་ཕྱུར་ཁྲི་ 01000000000000longlatndecimalFormatsnumbers
+ཟླཝ་ {0}otherpatternduration-monthunitlongunits
+ཟླཝ་displayNameduration-monthunitlongunits
+ལོ་འཁོར་displayNameduration-yearunitlongunits
+ལོ་འཁོར་ {0}otherpatternduration-yearunitlongunits
+སྐར་ཆ་ {0}otherpatternduration-secondunitlongunits
+སྐར་ཆ་displayNameduration-secondunitlongunits
+ཉིན་ཞག་ {0}otherpatternduration-dayunitlongunits
+ཉིན་ཞག་displayNameduration-dayunitlongunits
+བངུན་ཕྲག་ {0}otherpatternduration-weekunitlongunits
+བངུན་ཕྲག་displayNameduration-weekunitlongunits
+སྐར་མ་displayNameduration-minuteunitlongunits
+སྐར་མ་ {0}otherpatternduration-minuteunitlongunits
+ཆུ་ཚོད་ {0}otherpatternduration-hourunitlongunits
+ཆུ་ཚོད་displayNameduration-hourunitlongunits
+ཆུ་ཚོད་displayNameduration-hourunitshortunits
+སྐར་མ་displayNameduration-minuteunitshortunits
+བངུན་ཕྲག་displayNameduration-weekunitshortunits
+སྐར་ཆ་displayNameduration-secondunitshortunits
+ཉིན་ཞག་displayNameduration-dayunitshortunits
+ཟླཝ་displayNameduration-monthunitshortunits
+ལོ་འཁོར་displayNameduration-yearunitshortunits
+{0}།: {1}localeKeyTypePatternlocaleDisplayPatternlocaleDisplayNames
+{0}། ({1}།)localePatternlocaleDisplayPatternlocaleDisplayNames
+{0}་, {1}localeSeparatorlocaleDisplayPatternlocaleDisplayNames
+ཧ་ཝ་ཡིའི་ཁhawlanguageslocaleDisplayNames
+ཀོ་རི་ཡཱན་ཁkolanguageslocaleDisplayNames
+སཱུན་ད་ནིས་ཁsulanguageslocaleDisplayNames
+ཕི་ནིཤ་ཁfilanguageslocaleDisplayNames
+ཀ་ཛགས་ཁkklanguageslocaleDisplayNames
+ཀར་ཌིཤ་ཁkulanguageslocaleDisplayNames
+མ་ལ་ག་སི་ཁmglanguageslocaleDisplayNames
+སིན་དཱི་ཁsdlanguageslocaleDisplayNames
+ཨི་བེ་རི་ཡཱན་པོར་ཅུ་གིས་ཁpt_PTlanguageslocaleDisplayNames
+ཨ་ས་མིས་ཁaslanguageslocaleDisplayNames
+ཊཱར་ཀིཤ་ཁtrlanguageslocaleDisplayNames
+ཨར་མི་ནི་ཡཱན་ཁhylanguageslocaleDisplayNames
+ཁེ་མེར་ཁkmlanguageslocaleDisplayNames
+སིང་ཧ་ལ་ཁsilanguageslocaleDisplayNames
+ཧིན་དི་ཁhilanguageslocaleDisplayNames
+སུ་ལོ་བི་ནི་ཡཱན་ཁsllanguageslocaleDisplayNames
+སོག་པོའི་ཁmnlanguageslocaleDisplayNames
+ནོར་ཝེ་ཇི་ཡཱན་ནོརསཀ་ཁnnlanguageslocaleDisplayNames
+པཱཤ་ཏོ་ཁpslanguageslocaleDisplayNames
+ཀ་ན་ཌ་ཁknlanguageslocaleDisplayNames
+ཨེས་པ་རཱན་ཏོ་ཁeolanguageslocaleDisplayNames
+མ་ནི་པུ་རིmnilanguageslocaleDisplayNames
+ནེ་པཱལི་ཁnelanguageslocaleDisplayNames
+བེཊ་ནཱ་མིས་ཁvilanguageslocaleDisplayNames
+བོད་ཁbolanguageslocaleDisplayNames
+ཧཱང་གྷ་རི་ཡཱན་ཁhulanguageslocaleDisplayNames
+མན་ཇུ་ཁmnclanguageslocaleDisplayNames
+སུ་ལོ་བཱཀ་ཁsklanguageslocaleDisplayNames
+ཏིག་རི་ཉ་ཁtilanguageslocaleDisplayNames
+ཀོ་རོ་ཁkfolanguageslocaleDisplayNames
+ནོར་ཝི་ཇི་ཡན་ཁnolanguageslocaleDisplayNames
+ཨི་ཊ་ལི་ཡཱན་ཁitlanguageslocaleDisplayNames
+ཡོ་རུ་བ་ཁyolanguageslocaleDisplayNames
+ཡུ་ཨེས་ཨིང་ལིཤ་ཁen_USlanguageslocaleDisplayNames
+ཨམ་ཧ་རིཀ་ཁamlanguageslocaleDisplayNames
+ཨཕ་རི་ཀཱནས་ཁaflanguageslocaleDisplayNames
+ཊཱརཀ་མེན་ཁtklanguageslocaleDisplayNames
+རྫོང་ཁdzlanguageslocaleDisplayNames
+ཀེ་ན་ཌི་ཡཱན་ཕྲནཅ་ཁfr_CAlanguageslocaleDisplayNames
+ཨིན་ཌོ་ནེ་ཤི་ཡཱན་ཁidlanguageslocaleDisplayNames
+པཱན་ཇ་བི་ཁpalanguageslocaleDisplayNames
+ཨཱལ་བེ་ནི་ཡཱན་ཁsqlanguageslocaleDisplayNames
+ཀ་ཆིན་ཁkaclanguageslocaleDisplayNames
+སུ་ཡིས་ཕྲནཅ་ཁfr_CHlanguageslocaleDisplayNames
+མ་ཨོ་རི་ཁmilanguageslocaleDisplayNames
+རོ་མེ་ནིཤ་ཁrmlanguageslocaleDisplayNames
+ཀེ་ཊ་ལཱན་ཁcalanguageslocaleDisplayNames
+ལཱ་ཝོས་ཁlolanguageslocaleDisplayNames
+མཱལ་ཊ་ཁmtlanguageslocaleDisplayNames
+རོ་མེ་ནི་ཡཱན་ཁrolanguageslocaleDisplayNames
+སྔ་དུས་ཀྱི་རྒྱ་མི་ཁzh_HantlanguageslocaleDisplayNames
+བཱསཀ་ཁeulanguageslocaleDisplayNames
+གྲིཀ་ཁellanguageslocaleDisplayNames
+ལི་ཐུ་ཝེ་ནི་ཡཱན་ཁltlanguageslocaleDisplayNames
+ཕྷེལེ་མིཤ་ཁnl_BElanguageslocaleDisplayNames
+སུའི་ཌིཤ་ཁsvlanguageslocaleDisplayNames
+ཏ་མིལ་ཁtalanguageslocaleDisplayNames
+ཡུ་ཀེ་རེ་ནི་ཡཱན་ཁuklanguageslocaleDisplayNames
+ཁ་ངོ་མ་ཤེསཔundlanguageslocaleDisplayNames
+ཀཱཤ་མི་རི་ཁkslanguageslocaleDisplayNames
+ནི་ཝ་རིnewlanguageslocaleDisplayNames
+སྭཱ་ཧི་ལི་ཁswlanguageslocaleDisplayNames
+ཏེ་ལུ་གུ་ཁtelanguageslocaleDisplayNames
+ཏ་ཇིཀ་ཁtglanguageslocaleDisplayNames
+ལེ་ཊིན་ཨ་མེ་རི་ཀཱན་གི་ཨིས་པེ་ནིཤ་ཁes_419languageslocaleDisplayNames
+ཧེ་བྲུ་ཁhelanguageslocaleDisplayNames
+ཨ་ཕར་ཁaalanguageslocaleDisplayNames
+ཇཱ་བ་ནིས་ཁjvlanguageslocaleDisplayNames
+ཀེ་ན་ཌི་ཡཱན་ཨིང་ལིཤ་ཁen_CAlanguageslocaleDisplayNames
+བངྒ་ལ་ཁbnlanguageslocaleDisplayNames
+མ་ལེ་ཁmslanguageslocaleDisplayNames
+ཨོ་རི་ཡ་ཁorlanguageslocaleDisplayNames
+སཾསྐྲྀཏ་ཁsalanguageslocaleDisplayNames
+ཨེས་ཊོ་ནི་ཡཱན་ཁetlanguageslocaleDisplayNames
+ཝི་གུར་ཁuglanguageslocaleDisplayNames
+པར་ཤི་ཡཱན་ཁfalanguageslocaleDisplayNames
+ཨ་ཡིས་ལེན་ཌིཀ་ཁislanguageslocaleDisplayNames
+ཌེ་ནིཤ་ཁdalanguageslocaleDisplayNames
+པོ་ལིཤ་ཁpllanguageslocaleDisplayNames
+ནོར་ཝེ་ཇི་ཡཱན་བོཀ་མཱལ་ཁnblanguageslocaleDisplayNames
+བྲ་ཛི་ལི་ཡཱན་པོར་ཅུ་གིས་ཁpt_BRlanguageslocaleDisplayNames
+ཕྲནཅ་ཁfrlanguageslocaleDisplayNames
+བེལ་ཨ་རུས་ཁbelanguageslocaleDisplayNames
+བར་མིས་ཁmylanguageslocaleDisplayNames
+ཨཱོས་ཊྲེ་ལི་ཡཱན་ཨིང་ལིཤ་ཁen_AUlanguageslocaleDisplayNames
+ད་ཀོ་ཏ་ཁdaklanguageslocaleDisplayNames
+ཇཱར་མཱན་ཁdelanguageslocaleDisplayNames
+བཱལ་གེ་རི་ཡཱན་ཁbglanguageslocaleDisplayNames
+ཇཱ་པཱ་ནིས་ཁjalanguageslocaleDisplayNames
+པོར་ཅུ་གིས་ཁptlanguageslocaleDisplayNames
+ལཊ་བི་ཡཱན་ཁlvlanguageslocaleDisplayNames
+བྲི་ཊིཤ་ཨིང་ལིཤ་ཁen_GBlanguageslocaleDisplayNames
+ཇཽ་ཇི་ཡཱན་ཁkalanguageslocaleDisplayNames
+ཤཱན་ཁshnlanguageslocaleDisplayNames
+ཧཝ་ས་ཁhalanguageslocaleDisplayNames
+ཟུ་ལུ་ཁzulanguageslocaleDisplayNames
+ཨུས་བེཀ་ཁuzlanguageslocaleDisplayNames
+ཡུ་རོབ་ཀྱི་ཨིས་པེ་ནིཤ་ཁes_ESlanguageslocaleDisplayNames
+ཝེལཤ་ཁcylanguageslocaleDisplayNames
+ཨེ་ར་བིཀ་ཁarlanguageslocaleDisplayNames
+མ་ལ་ཡ་ལམ་ཁmllanguageslocaleDisplayNames
+པ་ལིpilanguageslocaleDisplayNames
+ཀྲོ་ཨེ་ཤི་ཡཱན་ཁhrlanguageslocaleDisplayNames
+སྐད་རིག་ནང་དོན་མེདཔzxxlanguageslocaleDisplayNames
+ཝོ་ལོཕ་ཁwolanguageslocaleDisplayNames
+ཨ་ཛར་བྷའི་ཇཱན་ཁazlanguageslocaleDisplayNames
+ཨཱའི་རིཤ་ཁgalanguageslocaleDisplayNames
+ཀིར་གིས་ཁkylanguageslocaleDisplayNames
+མ་ར་ཐི་ཁmrlanguageslocaleDisplayNames
+ཕཱ་རོ་ཨིས་ཁfolanguageslocaleDisplayNames
+ཨུར་དུ་ཁurlanguageslocaleDisplayNames
+ཊ་ཊར་ཁttlanguageslocaleDisplayNames
+ཨིག་བོ་ཁiglanguageslocaleDisplayNames
+སུ་ཡིས་ཇཱར་མཱན་ཁgswlanguageslocaleDisplayNames
+བྷོས་ནི་ཡཱན་ཁbslanguageslocaleDisplayNames
+གུ་ཇ་ར་ཏི་ཁgulanguageslocaleDisplayNames
+ཕི་ཇི་ཡཱན་ཁfjlanguageslocaleDisplayNames
+དི་བེ་ཧི་ཁdvlanguageslocaleDisplayNames
+གུ་ཝ་ར་ནི་ཁgnlanguageslocaleDisplayNames
+གིརིཀ, སྔ་དུས་ཀྱི (༡༤༥༣)grclanguageslocaleDisplayNames
+ཨི་ཇིཔ་ཤཱན (སྔ་དུས་ཀྱི)egylanguageslocaleDisplayNames
+སུ་ཡིས་གི་མཐོ་སའི་ཇཱར་མཱན་ཁde_CHlanguageslocaleDisplayNames
+མ་སེ་ཌོ་ནི་ཡཱན་ཁmklanguageslocaleDisplayNames
+གལ་ཨིས་ཨི་ཡན་ཁgllanguageslocaleDisplayNames
+ཅེཀ་ཁcslanguageslocaleDisplayNames
+ཞོ་ས་ཁxhlanguageslocaleDisplayNames
+ཨིང་ལིཤ་ཁenlanguageslocaleDisplayNames
+ཨཱོས་ཊྲི་ཡཱན་ཇཱར་མཱན་ཁde_ATlanguageslocaleDisplayNames
+ཕི་ལི་པི་ནོ་ཁfillanguageslocaleDisplayNames
+ཧེ་ཏི་ཡཱན་ཁhtlanguageslocaleDisplayNames
+ལེ་ཊིན་ཁlalanguageslocaleDisplayNames
+རྒྱ་མི་ཁ་འཇམ་སངམzh_HanslanguageslocaleDisplayNames
+རྒྱ་མི་ཁzhlanguageslocaleDisplayNames
+ཐཱའི་ཁthlanguageslocaleDisplayNames
+ལག་ཛམ་བོརྒ་ཁlblanguageslocaleDisplayNames
+ཀྭེ་ཆུ་ཨ་ཁqulanguageslocaleDisplayNames
+ཌཆ་ཁnllanguageslocaleDisplayNames
+སོ་མ་ལི་ཁsolanguageslocaleDisplayNames
+ཊོང་གྷན་ཁtolanguageslocaleDisplayNames
+ཨིས་པེ་ནིཤ་ཁeslanguageslocaleDisplayNames
+ཨཱབ་ཁ་ཟི་ཡ་ཁablanguageslocaleDisplayNames
+ནུབ་ཕྼི་སི་ཡན་ཁfylanguageslocaleDisplayNames
+ཨུ་རུ་སུའི་ཁrulanguageslocaleDisplayNames
+སཱར་བྷི་ཡཱན་ཁsrlanguageslocaleDisplayNames
+ཅེཀ་ རི་པབ་ལིཀCZterritorieslocaleDisplayNames
+ཝརཇིན་གླིང་ཚོམ་ ཡུ་ཨེས་ཨེ་མངའ་ཁོངསVIterritorieslocaleDisplayNames
+ཨུས་བེག་གི་སཏཱནUZterritorieslocaleDisplayNames
+གུ་འམ་ མཚོ་གླིངGUterritorieslocaleDisplayNames
+ནིའུ་ཀ་ལི་དོ་ནི་ཡNCterritorieslocaleDisplayNames
+ཏ་ཇིག་གི་སཏཱནTJterritorieslocaleDisplayNames
+ཊཱར་ཀིTRterritorieslocaleDisplayNames
+སོ་ལོ་མོན་ གླིང་ཚོམSBterritorieslocaleDisplayNames
+སེ་ཨུ་ཏ་ ཨེནཌ་ མེལ་ལི་ལEAterritorieslocaleDisplayNames
+ཨིས་ར་ཡེལILterritorieslocaleDisplayNames
+བྷར་བེ་ཌོསBBterritorieslocaleDisplayNames
+ཊོང་གྷTOterritorieslocaleDisplayNames
+བར་མུ་ཌBMterritorieslocaleDisplayNames
+ཌེ་མོ་ཀེརེ་ཊིཀ་ རི་པབ་ལིཀ་ ཨོཕ་ ཀོང་གྷོCDterritorieslocaleDisplayNames
+ཡུ་ནཱའི་ཊེཌ་ ཨ་རབ་ ཨེ་མེ་རེཊསAEterritorieslocaleDisplayNames
+སེནཊ་ ཀིཊས་ དང་ ནེ་བིསKNterritorieslocaleDisplayNames
+མ་ལེ་ཤི་ཡMYterritorieslocaleDisplayNames
+ཀོ་ལོམ་བྷི་ཡCOterritorieslocaleDisplayNames
+འབྲུགBTterritorieslocaleDisplayNames
+བྷེ་ནིནBJterritorieslocaleDisplayNames
+མཱ་ལིMLterritorieslocaleDisplayNames
+ཨ་རུ་བཱAWterritorieslocaleDisplayNames
+བྱང་ཕྱོགས་ཀྱི་ཨ་མི་རི་ཀ021territorieslocaleDisplayNames
+འཛམ་གླིང་ལྷོ་མཐའི་ཁྱགས་གླིངAQterritorieslocaleDisplayNames
+ཀ་ཛགས་སཏཱནKZterritorieslocaleDisplayNames
+སོ་མ་ལི་ཡSOterritorieslocaleDisplayNames
+མཱལ་ཊMTterritorieslocaleDisplayNames
+མེཀ་སི་ཀོMXterritorieslocaleDisplayNames
+ཕི་ཇིFJterritorieslocaleDisplayNames
+ཊཱན་ཛཱ་ནི་ཡTZterritorieslocaleDisplayNames
+ཧོང་ཀོངHKterritorieslocaleDisplayNames
+སོག་པོ་ཡུལMNterritorieslocaleDisplayNames
+ཡུ་གྷན་ཌUGterritorieslocaleDisplayNames
+སྦུག་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ017territorieslocaleDisplayNames
+ཨིས་པེནESterritorieslocaleDisplayNames
+ཡུ་རོབ150territorieslocaleDisplayNames
+ཀམ་བྷོ་ཌི་ཡKHterritorieslocaleDisplayNames
+ཕི་ལི་པིནསPHterritorieslocaleDisplayNames
+ལེ་བ་ནོནLBterritorieslocaleDisplayNames
+སཱའུཐ་ ཨཕ་རི་ཀZAterritorieslocaleDisplayNames
+ཇེར་སིJEterritorieslocaleDisplayNames
+ཨ་མི་རི་ཀ་ཚུ019territorieslocaleDisplayNames
+སཱན་མ་རི་ནོSMterritorieslocaleDisplayNames
+ཕཱའེ་རོ་གླིང་ཚོམFOterritorieslocaleDisplayNames
+སེནཊ་ བར་ཐོ་ལོམ་མིའུBLterritorieslocaleDisplayNames
+ཤར་ཕྱོགས་ཏི་་མོརTLterritorieslocaleDisplayNames
+ཀེ་མ་རུནCMterritorieslocaleDisplayNames
+ཏུརྐས྄་ ཨེནཌ་ ཀ་ཀོས་གླིང་ཚོམTCterritorieslocaleDisplayNames
+ཕྲཱནསFRterritorieslocaleDisplayNames
+གྲྀ་ན་ཌGDterritorieslocaleDisplayNames
+ལྷོ་ ཀོ་རི་ཡKRterritorieslocaleDisplayNames
+ལི་བི་ཡLYterritorieslocaleDisplayNames
+ལི་ཐུ་ཝེ་ནི་ཡLTterritorieslocaleDisplayNames
+ཇཱར་མ་ནིDEterritorieslocaleDisplayNames
+སྦུག་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ143territorieslocaleDisplayNames
+རྒྱ་གརINterritorieslocaleDisplayNames
+ས་མོ་ཨWSterritorieslocaleDisplayNames
+བྷེ་ལི་བི་ཡBOterritorieslocaleDisplayNames
+ཡུ་ཨེས་ཨེUSterritorieslocaleDisplayNames
+བྷོཙ་ཝ་ནBWterritorieslocaleDisplayNames
+བྱང་ཕྱོགས་ཀྱི་ཡུ་རོབ154territorieslocaleDisplayNames
+ཀྲོ་ཨེ་ཤHRterritorieslocaleDisplayNames
+ནའུ་རུ་NRterritorieslocaleDisplayNames
+ཨཱའིས་ལེནཌISterritorieslocaleDisplayNames
+སུ་ལོ་བཱ་ཀི་ཡSKterritorieslocaleDisplayNames
+མོ་རི་ཊེ་ནི་ཡMRterritorieslocaleDisplayNames
+ཧེ་ཊིHTterritorieslocaleDisplayNames
+ཏུ་ཝ་ལུTVterritorieslocaleDisplayNames
+ཅི་ལིCLterritorieslocaleDisplayNames
+ལཱ་ཝོསLAterritorieslocaleDisplayNames
+རུ་ཝན་ཌRWterritorieslocaleDisplayNames
+ཨ་ལནཌ་གླིང་ཚོམAXterritorieslocaleDisplayNames
+ཡུ་ནཱའི་ཊེཌ་ ཀིང་ཌམGBterritorieslocaleDisplayNames
+ཇིབ་རཱལ་ཊརGIterritorieslocaleDisplayNames
+ཀ་ནེ་རི་གླིང་ཚོམICterritorieslocaleDisplayNames
+ཇཱ་མཻ་ཀJMterritorieslocaleDisplayNames
+ཧཱང་གྷ་རིHUterritorieslocaleDisplayNames
+ལཊ་བི་ཡLVterritorieslocaleDisplayNames
+ཀི་རི་བ་ཏི་མཚོ་གླིངKIterritorieslocaleDisplayNames
+ཨེ་ཤི་ཡ142territorieslocaleDisplayNames
+ཀུག་གླིང་ཚོམCKterritorieslocaleDisplayNames
+ཨེ་ཀུ་ཊོ་རེལ་ གི་ནིGQterritorieslocaleDisplayNames
+སཱའུཐ་ཇཽར་ཇཱ་ དང་ སཱའུཐ་སེནཌ྄་ཝིཅ་གླིང་ཚོམGSterritorieslocaleDisplayNames
+ནུབ་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ145territorieslocaleDisplayNames
+པོར་ཅུ་གཱལPTterritorieslocaleDisplayNames
+ཛམ་བྷི་ཡZMterritorieslocaleDisplayNames
+བ་ཊི་ཀཱན་ སི་ཊིVAterritorieslocaleDisplayNames
+སེན་ཊལ་ ཨཕ་རི་ཀཱན་ རི་པབ་ལིཀCFterritorieslocaleDisplayNames
+ཨེ་ཁྭ་ཌོརECterritorieslocaleDisplayNames
+བྷྲུ་ནའིBNterritorieslocaleDisplayNames
+ཇཽར་ཇཱGEterritorieslocaleDisplayNames
+ནུབ་ཕྱོགས་ ས་ཧཱ་རEHterritorieslocaleDisplayNames
+པ་ར་གུ་ཝའིPYterritorieslocaleDisplayNames
+བྲི་ཊིཤ་རྒྱ་གར་གྱི་རྒྱ་མཚོ་ས་ཁོངསIOterritorieslocaleDisplayNames
+ཊུ་ནི་ཤི་ཡTNterritorieslocaleDisplayNames
+ན་མི་བི་ཡNAterritorieslocaleDisplayNames
+སིནཊ་པི་ཡེར་ ཨེནཌ་ མིཀོ་ལེནPMterritorieslocaleDisplayNames
+སཱཝ་དི་ ཨ་རེ་བྷི་ཡSAterritorieslocaleDisplayNames
+སུ་ཝ་ཛི་ལེནཌSZterritorieslocaleDisplayNames
+ཀེཔ་བཱཌCVterritorieslocaleDisplayNames
+ཀོས་ཊ་རི་ཀCRterritorieslocaleDisplayNames
+ཀོ་མོ་རོསKMterritorieslocaleDisplayNames
+ཁེ་མེན་གླིང་ཚོམKYterritorieslocaleDisplayNames
+ཨཕ་རི་ཀ002territorieslocaleDisplayNames
+ངོ་མ་ཤེས་པའི་ལུང་ཕྱོགསZZterritorieslocaleDisplayNames
+ཨར་མི་ནི་ཡAMterritorieslocaleDisplayNames
+སེནཊ་ མཱར་ཊིནMFterritorieslocaleDisplayNames
+ཨན་ཊི་གུ་ཝ་ ཨེནཌ་ བྷར་བྷུ་ཌAGterritorieslocaleDisplayNames
+པུ་འེར་ཊོ་རི་ཁོPRterritorieslocaleDisplayNames
+ཨ་ཛར་བྷའི་ཇཱནAZterritorieslocaleDisplayNames
+ཕྲཱནས྄་ཀྱི་པོ་ལི་ནི་ཤི་ཡPFterritorieslocaleDisplayNames
+ཨཱན་དོ་རADterritorieslocaleDisplayNames
+ཨེ་རི་ཊྲེ་ཡERterritorieslocaleDisplayNames
+སཱར་བྷི་ཡRSterritorieslocaleDisplayNames
+ཝ་ནུ་ཨ་ཏུVUterritorieslocaleDisplayNames
+ལེ་ཊིནཨ་མི་རི་ཀ419territorieslocaleDisplayNames
+ཨི་རཱཀIQterritorieslocaleDisplayNames
+ལཱའི་བེ་རི་ཡLRterritorieslocaleDisplayNames
+ནིའུ་ཛི་ལེནཌNZterritorieslocaleDisplayNames
+པ་ན་མPAterritorieslocaleDisplayNames
+ཨུ་རུ་སུRUterritorieslocaleDisplayNames
+མོ་རོ་ཀོMAterritorieslocaleDisplayNames
+ཝལ་ལིས྄་ ཨེནཌ་ ཕུ་ཏུ་ན་WFterritorieslocaleDisplayNames
+ཊཱརཀ་མེནའི་སཏཱནTMterritorieslocaleDisplayNames
+མར་ཤེལ་གླིང་ཚོམMHterritorieslocaleDisplayNames
+ཧཱརཌ་མཚོ་གླིང་ དང་ མེཀ་ཌོ་ནལཌ྄་གླིང་ཚོམHMterritorieslocaleDisplayNames
+རྒྱ་ནགCNterritorieslocaleDisplayNames
+བྷར་ཀི་ན་ ཕེ་སོBFterritorieslocaleDisplayNames
+ཡུ་ཨེས་གྱི་མཐའ་མཚམས་མཚོ་གླིང་UMterritorieslocaleDisplayNames
+བེཊ་ནཱམVNterritorieslocaleDisplayNames
+གོ་ཌེ་ལུ་པེGPterritorieslocaleDisplayNames
+མོན་ཊི་ནེག་རོMEterritorieslocaleDisplayNames
+པོ་ལེནཌPLterritorieslocaleDisplayNames
+ཡུ་རོབ་གཅིག་བསྡོམས་ཚོགས་པEUterritorieslocaleDisplayNames
+ཀ་ཊརQAterritorieslocaleDisplayNames
+ཛིམ་བྷབ་ཝེZWterritorieslocaleDisplayNames
+བྱང་ཕྱོགས་ཀྱི་མ་ར་ཡ་ན་གླིང་ཚོམMPterritorieslocaleDisplayNames
+ཡུ་ཀརེནUAterritorieslocaleDisplayNames
+ནཱའི་ཇི་རི་ཡNGterritorieslocaleDisplayNames
+ཨི་ཝོ་རི་ཀོསཊCIterritorieslocaleDisplayNames
+ལྷོ་ཨ་མི་རི་ཀ005territorieslocaleDisplayNames
+པོ་ལི་ནི་ཤི་ཡ061territorieslocaleDisplayNames
+ཨཱལ་བེ་ནི་ཡALterritorieslocaleDisplayNames
+གུའི་ཡ་ན་ ཕྲནས྄་མངའ་ཁོངསGFterritorieslocaleDisplayNames
+ཇ་པཱནJPterritorieslocaleDisplayNames
+ནེ་དར་ལནཌས྄NLterritorieslocaleDisplayNames
+སུ་ལོ་བི་ནི་ཡSIterritorieslocaleDisplayNames
+སཱའུཐ་ སུ་ཌཱནSSterritorieslocaleDisplayNames
+ཇི་བྷུ་ཊིDJterritorieslocaleDisplayNames
+བྷ་རེནBHterritorieslocaleDisplayNames
+ཨཱོས་ཊྲི་ཡATterritorieslocaleDisplayNames
+ཨཱོས་ཊྲེལ་ཨེ་ཤི་ཡ053territorieslocaleDisplayNames
+བྷེ་ལིཛBZterritorieslocaleDisplayNames
+བྷོས་ནི་ཡ་ ཨེནཌ་ ཧར་ཛི་གྷོ་བི་ནBAterritorieslocaleDisplayNames
+ཨར་ཇེན་ཊི་ནARterritorieslocaleDisplayNames
+མ་སེ་ཌོ་ནི་ཡ་ (ཡུ་གོ་སླཱ་བི་ཡ)MKterritorieslocaleDisplayNames
+མཱལ་དིབསMVterritorieslocaleDisplayNames
+ཧཱན་ཌུ་རཱས྄HNterritorieslocaleDisplayNames
+གིརིས྄GRterritorieslocaleDisplayNames
+ནཱའི་ཇཱNEterritorieslocaleDisplayNames
+ལག་ཛམ་བོརྒLUterritorieslocaleDisplayNames
+སཱའི་པྲསCYterritorieslocaleDisplayNames
+སེནཊ་ཝིན་སེནཌ྄ ཨེནཌ་ གི་རེ་ན་དིནས྄VCterritorieslocaleDisplayNames
+ཤར་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ014territorieslocaleDisplayNames
+ལིཀ་ཏནས་ཏ་ཡིནLIterritorieslocaleDisplayNames
+པ་ལའུPWterritorieslocaleDisplayNames
+ཀྱཱུར་ར་ཀོCWterritorieslocaleDisplayNames
+སིང་ག་པོརSGterritorieslocaleDisplayNames
+སེ་ཤཱལསSCterritorieslocaleDisplayNames
+ལྷོའི་ཡུ་རོབ039territorieslocaleDisplayNames
+ནོར་ཝེNOterritorieslocaleDisplayNames
+མི་ཡཱན་མར་ (བྷར་མ)MMterritorieslocaleDisplayNames
+བུལ་ག་རི་ཡBGterritorieslocaleDisplayNames
+མའི་ཀྲོ་ནི་ཤི་ཡFMterritorieslocaleDisplayNames
+ནི་ཨུ་ཨཻNUterritorieslocaleDisplayNames
+སཝ་ ཊོ་མེ་ ཨེནཌ་ པྲྀན་སི་པེSTterritorieslocaleDisplayNames
+ཕིན་ལེནཌFIterritorieslocaleDisplayNames
+ཨི་རཱནIRterritorieslocaleDisplayNames
+ཀིར་གིས་སཏཱནKGterritorieslocaleDisplayNames
+མཱར་ཊི་ནིཀMQterritorieslocaleDisplayNames
+ཏྲིས་ཏན་ད་ཀུན་ཧTAterritorieslocaleDisplayNames
+སུ་ཌཱནSDterritorieslocaleDisplayNames
+སེ་ནི་གྷལSNterritorieslocaleDisplayNames
+ཌི་ཡེ་གོ་གར་སིའོDGterritorieslocaleDisplayNames
+ཀེ་རི་བི་ཡེན029territorieslocaleDisplayNames
+ཨ་ཡུལ་ ཨོཕ་ མཱནIMterritorieslocaleDisplayNames
+མོན་ས་རཊMSterritorieslocaleDisplayNames
+སུའི་ཌེནSEterritorieslocaleDisplayNames
+ཀོ་ཀོས་གླིང་ཚོམCCterritorieslocaleDisplayNames
+བོའུ་ཝེཊ་མཚོ་གླིངBVterritorieslocaleDisplayNames
+ནུབ་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ011territorieslocaleDisplayNames
+མེ་ལ་ནི་ཤི་ཡ054territorieslocaleDisplayNames
+གིརཱིན་ལནཌ྄GLterritorieslocaleDisplayNames
+མ་ལ་ཝིMWterritorieslocaleDisplayNames
+པེ་ལིསི་ཊི་ནི་ཡན་ཊེ་རི་ཐོ་རིPSterritorieslocaleDisplayNames
+ཀིའུ་བྷCUterritorieslocaleDisplayNames
+ཨཱོས་ཊྲེལ་ལི་ཡAUterritorieslocaleDisplayNames
+པ་པུ་ ནིའུ་གི་ནིPGterritorieslocaleDisplayNames
+ཨཕ་གྷ་ནི་སཏཱནAFterritorieslocaleDisplayNames
+ཨེལ་སལ་བ་ཌོརSVterritorieslocaleDisplayNames
+ཨོཤི་ཡཱན་ན009territorieslocaleDisplayNames
+ཤར་ཕྱོགས་ཀྱི་ཡུ་རོབ151territorieslocaleDisplayNames
+ཊཱའི་ཝཱནTWterritorieslocaleDisplayNames
+གྷ་ཡ་ནGYterritorieslocaleDisplayNames
+ཨཱ་ཡ་ལེནཌIEterritorieslocaleDisplayNames
+ལཻ་སོ་ཐོLSterritorieslocaleDisplayNames
+ཨེ་སེན་ཤུན་ཚོ་གླིང༌ACterritorieslocaleDisplayNames
+པིཊ་ཀེ་ཡེརན་གླིང་ཚོམPNterritorieslocaleDisplayNames
+ཕྲནཅ་གི་ལྷོ་ཕྱོགས་མངའ་ཁོངསTFterritorieslocaleDisplayNames
+བྷེལ་ཇམBEterritorieslocaleDisplayNames
+ཅཱཌTDterritorieslocaleDisplayNames
+ཌོ་མི་ནི་ཀDMterritorieslocaleDisplayNames
+བངྒ་ལ་དེཤBDterritorieslocaleDisplayNames
+མ་དཱ་གེས་ཀརMGterritorieslocaleDisplayNames
+ནོར་ཕོལཀ་མཚོ་གླིང༌NFterritorieslocaleDisplayNames
+ལྷོའི་ཨེ་ཤི་ཡ034territorieslocaleDisplayNames
+ཤར་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ030territorieslocaleDisplayNames
+ཊོ་གྷོTGterritorieslocaleDisplayNames
+སྭཱལ་བྷརྡ་ ཨེནཌ་ ཇཱན་མ་ཡེནSJterritorieslocaleDisplayNames
+ནི་ཀྲ་ཝ་གNIterritorieslocaleDisplayNames
+པེ་རུPEterritorieslocaleDisplayNames
+ཤྲཱི་ལང་ཀLKterritorieslocaleDisplayNames
+བེ་ནི་ཛུ་ཝེ་ལVEterritorieslocaleDisplayNames
+ཀུ་ཝེཊKWterritorieslocaleDisplayNames
+འཛམ་གླིང༌001territorieslocaleDisplayNames
+གྷེམ་བི་ཡGMterritorieslocaleDisplayNames
+སེནཊ་ ལུ་སི་ཡLCterritorieslocaleDisplayNames
+མོ་རི་ཤཱསMUterritorieslocaleDisplayNames
+ཁི་རིསྟ་མེས་མཚོ་གླིངCXterritorieslocaleDisplayNames
+བྷུ་རུན་ཌིBIterritorieslocaleDisplayNames
+ས་མོ་ཨ་ཡུ་ཨེས་ཨེ་མངའ་ཁོངསASterritorieslocaleDisplayNames
+ཨེས་ཊོ་ནི་ཡEEterritorieslocaleDisplayNames
+སི་རི་ཡSYterritorieslocaleDisplayNames
+བྱང་ ཀོ་རི་ཡKPterritorieslocaleDisplayNames
+ཨོ་མཱནOMterritorieslocaleDisplayNames
+ཨི་ཐི་ཡོ་པི་ཡETterritorieslocaleDisplayNames
+ཡེ་མེནYEterritorieslocaleDisplayNames
+ཀི་ལི་པེར་ཊོན་མཚོ་གླིང་CPterritorieslocaleDisplayNames
+ཇོར་ཌནJOterritorieslocaleDisplayNames
+མཀ་ཨའུMOterritorieslocaleDisplayNames
+པ་ཀི་སཏཱནPKterritorieslocaleDisplayNames
+གྷོ་ཊ་མ་ལGTterritorieslocaleDisplayNames
+ཡུ་རུ་གུ་ཝའིUYterritorieslocaleDisplayNames
+གྷ་ནGHterritorieslocaleDisplayNames
+རོ་མེ་ནི་ཡROterritorieslocaleDisplayNames
+མོལ་དོ་བཱMDterritorieslocaleDisplayNames
+རེ་ཡུ་ནི་ཡོནREterritorieslocaleDisplayNames
+མོ་ན་ཀོMCterritorieslocaleDisplayNames
+བྷ་ཧ་མས྄BSterritorieslocaleDisplayNames
+མོ་ཛམ་བྷིཀMZterritorieslocaleDisplayNames
+ཌེན་མཱཀDKterritorieslocaleDisplayNames
+རི་པབ་ལིཀ་ ཨོཕ་ ཀོང་གྷོCGterritorieslocaleDisplayNames
+ལྷོ་ཤར་ཕྱོགས་ཀྱི་ཨེ་ཤི་ཡ035territorieslocaleDisplayNames
+ཀེ་རི་བི་ཡེན་ནེ་དར་ལནཌས྄BQterritorieslocaleDisplayNames
+ཕལྐ་ལནྜ་གླིང་ཚོམ (ཨིས་ལཱས་མལ་བི་ཎཱས)FKterritorieslocaleDisplayNames
+བལ་ཡུལNPterritorieslocaleDisplayNames
+ཨི་ཊ་ལིITterritorieslocaleDisplayNames
+བེལ་ཨ་རུ་སུBYterritorieslocaleDisplayNames
+སུ་རི་ནཱམSRterritorieslocaleDisplayNames
+སེནཊ་ ཧེ་ལི་ནSHterritorieslocaleDisplayNames
+བྲ་ཛིལBRterritorieslocaleDisplayNames
+ལུང་ཕྱོགས་མའི་ཀྲོ་ནི་ཤི་ཡ057territorieslocaleDisplayNames
+བར་ཕྱོགས་ཨ་མི་རི་ཀ013territorieslocaleDisplayNames
+གྷི་ནི་ བྷི་སཱའུGWterritorieslocaleDisplayNames
+ཀེན་ཡKEterritorieslocaleDisplayNames
+ཀེ་ན་ཌCAterritorieslocaleDisplayNames
+སི་ར་ ལི་འོནSLterritorieslocaleDisplayNames
+ནུབ་ཕྱོགས་ཀྱི་ཡུ་རོབ155territorieslocaleDisplayNames
+ཨིན་ཌོ་ནེ་ཤི་ཡIDterritorieslocaleDisplayNames
+ཨོཤི་ཡཱན་ན་གྱི་མཐའ་མཚམསQOterritorieslocaleDisplayNames
+གུ་ཨེརྣ་སིGGterritorieslocaleDisplayNames
+སུ་ཝིཊ་ཛར་ལེནཌCHterritorieslocaleDisplayNames
+ཊི་ནི་ཌཱཌ་ ཨེནཌ་ ཊོ་བྷེ་གྷོTTterritorieslocaleDisplayNames
+མེ་ཡོཊYTterritorieslocaleDisplayNames
+བྱང་ཨ་མི་རི་ཀ003territorieslocaleDisplayNames
+གྷི་ནིGNterritorieslocaleDisplayNames
+ཝརཇིན་གླིང་ཚོམ་ བྲཱི་ཊིཤ་མངའ་ཁོངསVGterritorieslocaleDisplayNames
+ཏོ་ཀེ་ལའུ་ མཚོ་གླིངTKterritorieslocaleDisplayNames
+ཌོ་མི་ནི་ཀཱན་ རི་པབ་ལིཀDOterritorieslocaleDisplayNames
+ཐཱའི་ལེནཌTHterritorieslocaleDisplayNames
+བྱང་ཕྱོགས་ཀྱི་ཨཕ་རི་ཀ015territorieslocaleDisplayNames
+ཨང་གི་ལAIterritorieslocaleDisplayNames
+ཨཱལ་ཇི་རི་ཡDZterritorieslocaleDisplayNames
+སིནཊ་ མཱར་ཊེནSXterritorieslocaleDisplayNames
+ལྷོའི་ཨཕ་རི་ཀ018territorieslocaleDisplayNames
+ཨི་ཇིབཊEGterritorieslocaleDisplayNames
+གྷ་བྷོནGAterritorieslocaleDisplayNames
+ཨང་གྷོ་ལAOterritorieslocaleDisplayNames
+སིན་ཧ་ལ་རིག་གུSinhscriptslocaleDisplayNames
+ཡིག་ཐོག་མ་བཀོདཔZxxxscriptslocaleDisplayNames
+རྒྱ་ཡིག་ ལུགས་གསར་HansscriptslocaleDisplayNames
+མ་ལ་ཡ་ལམ་ཡིག་གུMlymscriptslocaleDisplayNames
+ཀ་ན་ཌ་ཡིག་གུKndascriptslocaleDisplayNames
+ཏེ་ལུ་གུ་ཡིག་གུTeluscriptslocaleDisplayNames
+བོ་པོ་མོ་ཕཱོ་ཡིག་གུBoposcriptslocaleDisplayNames
+སོག་པོའི་ཡིག་གུMongscriptslocaleDisplayNames
+སྔར་རྒྱུནZinhscriptslocaleDisplayNames
+ཐཱའི་ཡིག་གུThaiscriptslocaleDisplayNames
+ཀོ་རི་ཡཱན་ཡིག་གུKorescriptslocaleDisplayNames
+ལེ་ཊིན་ཡིག་གུLatnscriptslocaleDisplayNames
+སིརིལ་ལིཀ་ཡིག་གུCyrlscriptslocaleDisplayNames
+མཚན་རྟགསZsymscriptslocaleDisplayNames
+བངྒ་ལ་ཡིག་གུBengscriptslocaleDisplayNames
+ལའོ་ཡིག་གུLaooscriptslocaleDisplayNames
+ཏ་མིལ་ཡིག་གུTamlscriptslocaleDisplayNames
+ཨི་ཐི་ཡོ་པིཀ྄་ཡིག་གུEthiscriptslocaleDisplayNames
+ལུགས་རྙིང་ རྒྱ་ཡིགHantscriptslocaleDisplayNames
+ཇ་པཱན་ཡིག་གུJpanscriptslocaleDisplayNames
+བར་མིས་ཡིག་གུMymrscriptslocaleDisplayNames
+ཨར་མི་ནི་ཡཱན་ཡིག་གུArmnscriptslocaleDisplayNames
+འབུར་ཡིགBraiscriptslocaleDisplayNames
+ཧཱན་གུལ་ཡིག་གུHangscriptslocaleDisplayNames
+གུ་ཇ་ར་ཏི་ཡིག་གུGujrscriptslocaleDisplayNames
+ཨོ་རི་ཡ་ཡིག་གུOryascriptslocaleDisplayNames
+རྒྱ་ནག་ཡིག་གུHaniscriptslocaleDisplayNames
+ཁེ་མེར་ཡིག་གུKhmrscriptslocaleDisplayNames
+ངོ་མ་ཤེས་པའི་ཡི་གུZzzzscriptslocaleDisplayNames
+ཐཱ་ན་ཡིག་གུThaascriptslocaleDisplayNames
+སྤྱིཡིགZyyyscriptslocaleDisplayNames
+གུ་རུ་མུ་ཁ་ཡིག་གུGuruscriptslocaleDisplayNames
+ང་བཅས་ཀྱི་ཡིག་གུTibtscriptslocaleDisplayNames
+ལིམ་བུLimbscriptslocaleDisplayNames
+ཇ་པཱན་གྱི་ཧི་ར་ག་ན་ཡིག་གུHirascriptslocaleDisplayNames
+ཇ་པཱན་གྱི་ཀ་ཏ་ཀ་ན་ཡིག་གུKanascriptslocaleDisplayNames
+ཇཽ་ཇི་ཡཱན་ཡིག་གུGeorscriptslocaleDisplayNames
+ཧེ་བྲུ་ཡིག་གུHebrscriptslocaleDisplayNames
+དེ་ཝ་ན་ག་རི་ཡིག་གུDevascriptslocaleDisplayNames
+ཨེ་ར་བིཀ་ཡིག་གུArabscriptslocaleDisplayNames
+གྲིཀ་ཡིག་གུGrekscriptslocaleDisplayNames
+བྲི་ཊིཤ་ བརྩི་ལུགསUKmeasurementSystemNameslocaleDisplayNames
+ཨ་མི་རི་ཀཱན་ བརྩི་ལུགསUSmeasurementSystemNameslocaleDisplayNames
+མེ་ཊྲིཀ་བརྩི་ལུགསmetricmeasurementSystemNameslocaleDisplayNames
+ཁ་སྐད་: {0}languagecodePatternslocaleDisplayNames
+ཡིག་གཟུགས་: {0}scriptcodePatternslocaleDisplayNames
+{0}territorycodePatternslocaleDisplayNames
+‘alternateQuotationStartdelimiters
+“quotationStartdelimiters
+”quotationEnddelimiters
+’alternateQuotationEnddelimiters
+མེན་:མnostrmessagesposix
+ཨིན་:ཨyesstrmessagesposix
+{1}། ({0}་)hourFormattimeZoneNamesdates
+{0}་ཆུ་ཚོད།genericregionFormattimeZoneNamesdates
+ཕ་ཀའོ་ཕོexemplarCityPacific/FakaofozonetimeZoneNamesdates
+འུམ་བྷ་བྷ་ནིexemplarCityAfrica/MbabanezonetimeZoneNamesdates
+རཱ་རོ་་ཏོང་གexemplarCityPacific/RarotongazonetimeZoneNamesdates
+ཀ་ར་ཅིexemplarCityAsia/KarachizonetimeZoneNamesdates
+བྷྲུ་ནའིexemplarCityAsia/BruneizonetimeZoneNamesdates
+ཀེཔ་བཱཌexemplarCityAtlantic/Cape_VerdezonetimeZoneNamesdates
+ཀོས་ཊ་རི་ཀexemplarCityAmerica/Costa_RicazonetimeZoneNamesdates
+ཊེ་རཱནexemplarCityAsia/TehranzonetimeZoneNamesdates
+བི་ཡཱན་ཊི་ཡཱནexemplarCityAsia/VientianezonetimeZoneNamesdates
+བྷཱན་ཇུལexemplarCityAfrica/BanjulzonetimeZoneNamesdates
+ཊེ་གུ་སི་གཱལ་པexemplarCityAmerica/TegucigalpazonetimeZoneNamesdates
+ས་ར་ཡེ་བོexemplarCityEurope/SarajevozonetimeZoneNamesdates
+ཌཱ་ཀརexemplarCityAfrica/DakarzonetimeZoneNamesdates
+ཧ་ལི་ཕེགསིexemplarCityAmerica/HalifaxzonetimeZoneNamesdates
+སཱན་ཊི་ཡ་གྷོexemplarCityAmerica/SantiagozonetimeZoneNamesdates
+ཨེཀ་ཀྲexemplarCityAfrica/AccrazonetimeZoneNamesdates
+པཱོན་ཊའེ་ནཀexemplarCityAsia/PontianakzonetimeZoneNamesdates
+གྷོ་ཊ་མ་ལexemplarCityAmerica/GuatemalazonetimeZoneNamesdates
+སཝ་ ཊོ་མེexemplarCityAfrica/Sao_TomezonetimeZoneNamesdates
+པ་ར་མ་རི་བྷོexemplarCityAmerica/ParamaribozonetimeZoneNamesdates
+ལི་མexemplarCityAmerica/LimazonetimeZoneNamesdates
+ཀིན་ཤ་སexemplarCityAfrica/KinshasazonetimeZoneNamesdates
+ཀོ་ནཀ་རིexemplarCityAfrica/ConakryzonetimeZoneNamesdates
+ཀི་ཤི་ནཱཝexemplarCityEurope/ChisinauzonetimeZoneNamesdates
+ཨོས་ལོexemplarCityEurope/OslozonetimeZoneNamesdates
+ཇི་བྷུ་ཊིexemplarCityAfrica/DjiboutizonetimeZoneNamesdates
+མཱན་རོ་བི་ཡexemplarCityAfrica/MonroviazonetimeZoneNamesdates
+ཐིམ་ཕུགexemplarCityAsia/ThimphuzonetimeZoneNamesdates
+མེ་ཇུ་རོexemplarCityPacific/MajurozonetimeZoneNamesdates
+རི་གྷexemplarCityEurope/RigazonetimeZoneNamesdates
+ཕཱལ་མརexemplarCityAntarctica/PalmerzonetimeZoneNamesdates
+རེ་ཁི་ཡ་བིཀexemplarCityAtlantic/ReykjavikzonetimeZoneNamesdates
+ཀེམ་བིརིདཆ་ བའེexemplarCityAmerica/Cambridge_BayzonetimeZoneNamesdates
+ཝིནཌ་ཧུཀexemplarCityAfrica/WindhoekzonetimeZoneNamesdates
+སུ་ཨིཕཊ་ཀ་རེནཊexemplarCityAmerica/Swift_CurrentzonetimeZoneNamesdates
+ཀོ་ལ་ ལམ་པུརexemplarCityAsia/Kuala_LumpurzonetimeZoneNamesdates
+ཕུ་ན་ཕུ་ཊིexemplarCityPacific/FunafutizonetimeZoneNamesdates
+ཇཱོནསི་ཊོནexemplarCityPacific/JohnstonzonetimeZoneNamesdates
+བྷ་རེན་exemplarCityAsia/BahrainzonetimeZoneNamesdates
+ཝོསི་ཊོཀexemplarCityAntarctica/VostokzonetimeZoneNamesdates
+ཛུ་རིཆexemplarCityEurope/ZurichzonetimeZoneNamesdates
+ཀཱའི་རོexemplarCityAfrica/CairozonetimeZoneNamesdates
+ནཱའི་རོ་བིexemplarCityAfrica/NairobizonetimeZoneNamesdates
+སཱའེ་ཕཱནexemplarCityPacific/SaipanzonetimeZoneNamesdates
+ལོ་མེexemplarCityAfrica/LomezonetimeZoneNamesdates
+རང་གྷུནexemplarCityAsia/RangoonzonetimeZoneNamesdates
+བྷྲ་ཛ་བིལexemplarCityAfrica/BrazzavillezonetimeZoneNamesdates
+རི་ཇི་ནexemplarCityAmerica/ReginazonetimeZoneNamesdates
+པྲགexemplarCityEurope/PraguezonetimeZoneNamesdates
+ཀ་ར་ཀཱསexemplarCityAmerica/CaracaszonetimeZoneNamesdates
+ཕཱའེ་རོ་exemplarCityAtlantic/FaeroezonetimeZoneNamesdates
+ཨ་སུན་སི་འོནexemplarCityAmerica/AsuncionzonetimeZoneNamesdates
+ཝར་སོexemplarCityEurope/WarsawzonetimeZoneNamesdates
+ཨལ་ཇི་ཡསexemplarCityAfrica/AlgierszonetimeZoneNamesdates
+ཀོ་ཀོསིexemplarCityIndian/CocoszonetimeZoneNamesdates
+ཧེལ་སིང་ཀིexemplarCityEurope/HelsinkizonetimeZoneNamesdates
+མིཌ་ཝེexemplarCityPacific/MidwayzonetimeZoneNamesdates
+མཱོས་ཀོexemplarCityEurope/MoscowzonetimeZoneNamesdates
+མོ་ན་ཀོexemplarCityEurope/MonacozonetimeZoneNamesdates
+ཏྲི་པོ་ལིexemplarCityAfrica/TripolizonetimeZoneNamesdates
+ཨན་ཊི་གུ་ཝ་exemplarCityAmerica/AntiguazonetimeZoneNamesdates
+བིལ་ནི་ཡཱསexemplarCityEurope/VilniuszonetimeZoneNamesdates
+ནི་པི་གཱོནexemplarCityAmerica/NipigonzonetimeZoneNamesdates
+མཱོངཀ་ཊོནexemplarCityAmerica/MonctonzonetimeZoneNamesdates
+བྷར་ལིནexemplarCityEurope/BerlinzonetimeZoneNamesdates
+མཱལ་དིབསexemplarCityIndian/MaldiveszonetimeZoneNamesdates
+ཧ་རཱ་རེexemplarCityAfrica/HararezonetimeZoneNamesdates
+བྷི་སཱའུexemplarCityAfrica/BissauzonetimeZoneNamesdates
+མོ་རི་ཤཱསexemplarCityIndian/MauritiuszonetimeZoneNamesdates
+ཌབ་ལིནexemplarCityEurope/DublinzonetimeZoneNamesdates
+ཨཱ་ཡརིཤ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongEurope/DublinzonetimeZoneNamesdates
+ལག་སམ་བྷཀexemplarCityEurope/LuxembourgzonetimeZoneNamesdates
+ཝེཀexemplarCityPacific/WakezonetimeZoneNamesdates
+ནཱཝ་རུexemplarCityPacific/NauruzonetimeZoneNamesdates
+རཱེ་ནི་རི་ཝརexemplarCityAmerica/Rainy_RiverzonetimeZoneNamesdates
+ཊཱ་ལཱིནexemplarCityEurope/TallinnzonetimeZoneNamesdates
+བྷང་གིexemplarCityAfrica/BanguizonetimeZoneNamesdates
+གྷ་ཡ་ནexemplarCityAmerica/GuyanazonetimeZoneNamesdates
+ཀོ་ལོམ་བྷོexemplarCityAsia/ColombozonetimeZoneNamesdates
+ཏོང་ག་ཏ་པུexemplarCityPacific/TongatapuzonetimeZoneNamesdates
+ན་སའོexemplarCityAmerica/NassauzonetimeZoneNamesdates
+བར་མུ་དexemplarCityAtlantic/BermudazonetimeZoneNamesdates
+བྷུ་ཇུམ་བྷུ་རexemplarCityAfrica/BujumburazonetimeZoneNamesdates
+ཨཱས་མ་རexemplarCityAfrica/AsmerazonetimeZoneNamesdates
+ཨིསི་ཊེཊ་ ཇཱོནསི་exemplarCityAmerica/St_JohnszonetimeZoneNamesdates
+བྷུ་ཌ་པེསཊexemplarCityEurope/BudapestzonetimeZoneNamesdates
+གཱུསི་ བའེexemplarCityAmerica/Goose_BayzonetimeZoneNamesdates
+ཨ་པི་ཡexemplarCityPacific/ApiazonetimeZoneNamesdates
+བྷུ་ཀ་རེསཊexemplarCityEurope/BucharestzonetimeZoneNamesdates
+པ་ལཱཝexemplarCityPacific/PalauzonetimeZoneNamesdates
+ཀིར་གུ་ལིནexemplarCityIndian/KerguelenzonetimeZoneNamesdates
+ཨཱན་ཏ་ན་ན་དི་བོexemplarCityIndian/AntananarivozonetimeZoneNamesdates
+ཌཱ་ཀexemplarCityAsia/DhakazonetimeZoneNamesdates
+ཨི་ནུ་ཝིཀexemplarCityAmerica/InuvikzonetimeZoneNamesdates
+ཨེཌ་མཱོན་ཊོནexemplarCityAmerica/EdmontonzonetimeZoneNamesdates
+བ་དུདསexemplarCityEurope/VaduzzonetimeZoneNamesdates
+མ་ས་རུexemplarCityAfrica/MaseruzonetimeZoneNamesdates
+མ་ཌེ་རེཌexemplarCityEurope/MadridzonetimeZoneNamesdates
+ཝ་གཱ་ཌུ་གུexemplarCityAfrica/OuagadougouzonetimeZoneNamesdates
+དའུ་སཱོན་ ཀིརིཀexemplarCityAmerica/Dawson_CreekzonetimeZoneNamesdates
+ཨ་ཏི་ཀོ་ཀཱནexemplarCityAmerica/Coral_HarbourzonetimeZoneNamesdates
+པེང་ནིར་ཏུངexemplarCityAmerica/PangnirtungzonetimeZoneNamesdates
+ཀཱཊ་མཱན་ཌུexemplarCityAsia/KatmanduzonetimeZoneNamesdates
+ཀཱོལ་ཀ་ཊexemplarCityAsia/CalcuttazonetimeZoneNamesdates
+ལུ་ཝེན་ཌexemplarCityAfrica/LuandazonetimeZoneNamesdates
+ལུ་སཱ་ཀexemplarCityAfrica/LusakazonetimeZoneNamesdates
+ཁཱར་ཊུམexemplarCityAfrica/KhartoumzonetimeZoneNamesdates
+བྷ་མ་ཀོexemplarCityAfrica/BamakozonetimeZoneNamesdates
+ཏིའུ་ཝ་ནexemplarCityAmerica/TijuanazonetimeZoneNamesdates
+པ་གོ་ པ་གོexemplarCityPacific/Pago_PagozonetimeZoneNamesdates
+ཨེ་ཐེནས་exemplarCityEurope/AthenszonetimeZoneNamesdates
+ཇཱ་མའེ་ཀexemplarCityAmerica/JamaicazonetimeZoneNamesdates
+ཌེ་ཝིས།exemplarCityAntarctica/DaviszonetimeZoneNamesdates
+མེཀ་སི་ཀོ་ སི་ཊིexemplarCityAmerica/Mexico_CityzonetimeZoneNamesdates
+ནུ་ཨཀ་ཤའོཊexemplarCityAfrica/NouakchottzonetimeZoneNamesdates
+ཨཱན་དོ་རexemplarCityEurope/AndorrazonetimeZoneNamesdates
+ཀོ་པེན་ཧེ་གེནexemplarCityEurope/CopenhagenzonetimeZoneNamesdates
+ཡ་ཀུ་ཏཏexemplarCityAmerica/YakutatzonetimeZoneNamesdates
+མ་པུ་ཏོexemplarCityAfrica/MaputozonetimeZoneNamesdates
+ཨམས་ཊར་ཌམexemplarCityEurope/AmsterdamzonetimeZoneNamesdates
+པེ་རིསexemplarCityEurope/PariszonetimeZoneNamesdates
+ཨིས་ཊོཀ་ཧོལམexemplarCityEurope/StockholmzonetimeZoneNamesdates
+གྷ་བྷོ་རོ་ནེexemplarCityAfrica/GaboronezonetimeZoneNamesdates
+རཱོ་ཐེ་རexemplarCityAntarctica/RotherazonetimeZoneNamesdates
+སཱན་ཊོ་ ཌོ་མིང་གྷོexemplarCityAmerica/Santo_DomingozonetimeZoneNamesdates
+ཀོ་མོ་རོexemplarCityIndian/ComorozonetimeZoneNamesdates
+བྷོ་ག་ཊexemplarCityAmerica/BogotazonetimeZoneNamesdates
+ཊུ་ནིས྄exemplarCityAfrica/TuniszonetimeZoneNamesdates
+མིནསཀexemplarCityEurope/MinskzonetimeZoneNamesdates
+བྲ་སེལསexemplarCityEurope/BrusselszonetimeZoneNamesdates
+ཊོ་རོན་ཊོexemplarCityAmerica/TorontozonetimeZoneNamesdates
+གེམ་བིཡརexemplarCityPacific/GambierzonetimeZoneNamesdates
+དའུ་སཱོནexemplarCityAmerica/DawsonzonetimeZoneNamesdates
+ཀིརིསཊ་མསིexemplarCityIndian/ChristmaszonetimeZoneNamesdates
+མོ་གཱ་ཌི་ཤུexemplarCityAfrica/MogadishuzonetimeZoneNamesdates
+རེན་ཀིན་ ཨིན་ལེཊexemplarCityAmerica/Rankin_InletzonetimeZoneNamesdates
+རི་སོ་ལིའུཊexemplarCityAmerica/ResolutezonetimeZoneNamesdates
+ཨ་ཌིས་ ཨ་བྷ་བྷexemplarCityAfrica/Addis_AbabazonetimeZoneNamesdates
+ཌོ་མི་ནི་ཀexemplarCityAmerica/DominicazonetimeZoneNamesdates
+སཱའུཐ་ཇོ་ཇཱexemplarCityAtlantic/South_GeorgiazonetimeZoneNamesdates
+སོ་ཕི་ཡexemplarCityEurope/SofiazonetimeZoneNamesdates
+པ་ན་མexemplarCityAmerica/PanamazonetimeZoneNamesdates
+ཝི་ཡེ་ནexemplarCityEurope/ViennazonetimeZoneNamesdates
+ཀ་བྷུལexemplarCityAsia/KabulzonetimeZoneNamesdates
+མ་ལ་བྷོexemplarCityAfrica/MalabozonetimeZoneNamesdates
+ལ་པཱཛ྄exemplarCityAmerica/La_PazzonetimeZoneNamesdates
+བྷུའི་ནོས་ ཨའི་རིསexemplarCityAmerica/Buenos_AireszonetimeZoneNamesdates
+ཊ་ར་ནིexemplarCityEurope/TiranezonetimeZoneNamesdates
+ཇ་ཡ་པུ་རexemplarCityAsia/JayapurazonetimeZoneNamesdates
+ཅི་ཀཱ་གོexemplarCityAmerica/ChicagozonetimeZoneNamesdates
+ཨེལ་ སཱལ་བ་ཌོexemplarCityAmerica/El_SalvadorzonetimeZoneNamesdates
+ནི་ཡ་མེexemplarCityAfrica/NiameyzonetimeZoneNamesdates
+ཐན་ཌར་ བའེexemplarCityAmerica/Thunder_BayzonetimeZoneNamesdates
+ཇཱ་ཀར་ཊexemplarCityAsia/JakartazonetimeZoneNamesdates
+ཀེམ་པ་ལexemplarCityAfrica/KampalazonetimeZoneNamesdates
+མོན་ཊེ་བྷི་ཌིའོexemplarCityAmerica/MontevideozonetimeZoneNamesdates
+བྷེ་ལིཛexemplarCityAmerica/BelizezonetimeZoneNamesdates
+ཀི་གྷ་ལིexemplarCityAfrica/KigalizonetimeZoneNamesdates
+བྷར་བེ་ཌོསexemplarCityAmerica/BarbadoszonetimeZoneNamesdates
+མའུ་སཱོནexemplarCityAntarctica/MawsonzonetimeZoneNamesdates
+མ་ཤེས་པའི་ཁྲོམ་སྡེexemplarCityEtc/UnknownzonetimeZoneNamesdates
+ལི་བྷྲ་བིལexemplarCityAfrica/LibrevillezonetimeZoneNamesdates
+བྲཱི་ཊིཤ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongEurope/LondonzonetimeZoneNamesdates
+ལཱན་ཌཱནexemplarCityEurope/LondonzonetimeZoneNamesdates
+རི་ཡུ་ནི་ཡཱན་ཆུ་ཚོདstandardlongReunionmetazonetimeZoneNamesdates
+ནིའུ་ཕའུནཌ་ལེནཌ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongNewfoundlandmetazonetimeZoneNamesdates
+ནིའུ་ཕའུནཌ་ལེནཌ་ཆུ་ཚོདgenericlongNewfoundlandmetazonetimeZoneNamesdates
+ནིའུ་ཕའུནཌ་ལེནཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongNewfoundlandmetazonetimeZoneNamesdates
+ཇཽ་ཇཱ་ཆུ་ཚོདgenericlongGeorgiametazonetimeZoneNamesdates
+ཇཽ་ཇཱ་ཚད་ལྡན་ཆུ་ཚོདstandardlongGeorgiametazonetimeZoneNamesdates
+ཇཽ་ཇཱ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongGeorgiametazonetimeZoneNamesdates
+ཕལཀ་ལེནཌ་ཨཱའི་ལེནཌས་ཚད་ལྡན་ཆུ་ཚོདstandardlongFalklandmetazonetimeZoneNamesdates
+ཕལཀ་ལེནཌ་ཨཱའི་ལེནཌས་ཆུ་ཚོདgenericlongFalklandmetazonetimeZoneNamesdates
+ཕལཀ་ལེནཌ་ཨཱའི་ལེནཌས་བྱཱར་དུས་ཆུ་ཚོདdaylightlongFalklandmetazonetimeZoneNamesdates
+ཨེ་ཀུ་ཌཽ་ཆུ་ཚོདstandardlongEcuadormetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་མའུ་ཊེན་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAmerica_MountainmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་མའུ་ཊེན་ཚད་ལྡན་ཆུ་ཚོདstandardlongAmerica_MountainmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་མའུ་ཊེན་ཆུ་ཚོདgenericlongAmerica_MountainmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAustralia_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཆུ་ཚོདgenericlongAustralia_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAustralia_WesternmetazonetimeZoneNamesdates
+རྒྱ་ནག་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongChinametazonetimeZoneNamesdates
+རྒྱ་ནག་ཚད་ལྡན་ཆུ་ཚོདstandardlongChinametazonetimeZoneNamesdates
+རྒྱ་ནག་ཆུ་ཚོདgenericlongChinametazonetimeZoneNamesdates
+ཀོ་རི་ཡ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongKoreametazonetimeZoneNamesdates
+ཀོ་རི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongKoreametazonetimeZoneNamesdates
+ཀོ་རི་ཡ་ཆུ་ཚོདgenericlongKoreametazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཡུ་རོ་པེན་ཆུ་ཚོདgenericlongEurope_CentralmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཡུ་རོ་པེན་ཚད་ལྡན་ཆུ་ཚོདstandardlongEurope_CentralmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཡུ་རོ་པེན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongEurope_CentralmetazonetimeZoneNamesdates
+ཅི་ལི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongChilemetazonetimeZoneNamesdates
+ཅི་ལི་ཆུ་ཚོདgenericlongChilemetazonetimeZoneNamesdates
+ཅི་ལི་ཚད་ལྡན་ཆུ་ཚོདstandardlongChilemetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAustralia_EasternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཆུ་ཚོདgenericlongAustralia_EasternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAustralia_EasternmetazonetimeZoneNamesdates
+ཨོམསཀི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongOmskmetazonetimeZoneNamesdates
+ཨོམསཀི་ཚད་ལྡན་ཆུ་ཚོདstandardlongOmskmetazonetimeZoneNamesdates
+ཨོམསཀི་ཆུ་ཚོདgenericlongOmskmetazonetimeZoneNamesdates
+མཽས་ཀོ་ཆུ་ཚོདgenericlongMoscowmetazonetimeZoneNamesdates
+མཽས་ཀོ་ཚད་ལྡན་ཆུ་ཚོདstandardlongMoscowmetazonetimeZoneNamesdates
+མཽས་ཀོ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongMoscowmetazonetimeZoneNamesdates
+ཨི་རཱན་ཆུ་ཚོདgenericlongIranmetazonetimeZoneNamesdates
+ཨི་རཱན་ཚད་ལྡན་ཆུ་ཚོདstandardlongIranmetazonetimeZoneNamesdates
+ཨི་རཱན་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongIranmetazonetimeZoneNamesdates
+ཀེཔ་བཱཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongCape_VerdemetazonetimeZoneNamesdates
+ཀེཔ་བཱཌ་ཆུ་ཚོདgenericlongCape_VerdemetazonetimeZoneNamesdates
+ཀེཔ་བཱཌ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongCape_VerdemetazonetimeZoneNamesdates
+བཱོལ་གོ་གིརེཌ་ཆུ་ཚོདgenericlongVolgogradmetazonetimeZoneNamesdates
+བཱོལ་གོ་གིརེཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongVolgogradmetazonetimeZoneNamesdates
+བཱོལ་གོ་གིརེཌ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongVolgogradmetazonetimeZoneNamesdates
+BTstandardshortBhutanmetazonetimeZoneNamesdates
+འབྲུག་ཡུལ་ཆུ་ཚོདstandardlongBhutanmetazonetimeZoneNamesdates
+དབུས་ནུབ་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+བུས་ནུབ་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཆུ་ཚོདgenericlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+དབུས་ནུབ་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+ཇ་པཱན་ཆུ་ཚོདgenericlongJapanmetazonetimeZoneNamesdates
+ཇ་པཱན་ཚད་ལྡན་ཆུ་ཚོདstandardlongJapanmetazonetimeZoneNamesdates
+ཇ་པཱན་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongJapanmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཨཕ་རི་ཀཱ་ཆུ་ཚོདstandardlongAfrica_CentralmetazonetimeZoneNamesdates
+ཧ་ཝའི་-ཨེ་ལིའུ་ཤེན་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongHawaii_AleutianmetazonetimeZoneNamesdates
+ཧ་ཝའི་-ཨེ་ལིའུ་ཤེན་ཆུ་ཚོདgenericlongHawaii_AleutianmetazonetimeZoneNamesdates
+ཧ་ཝའི་-ཨེ་ལིའུ་ཤེན་ཚད་ལྡན་ཆུ་ཚོདstandardlongHawaii_AleutianmetazonetimeZoneNamesdates
+ཨཕ་ག་ནི་ས྄ཏཱནཆུ་ཚོདstandardlongAfghanistanmetazonetimeZoneNamesdates
+ལྷོ་ཕྱོགས་ཨཕ་རི་ཀཱ་ཆུ་ཚོདstandardlongAfrica_SouthernmetazonetimeZoneNamesdates
+ཁི་རིསྟ་མེས་མཚོ་གླིང་ཆུ་ཚོདstandardlongChristmasmetazonetimeZoneNamesdates
+བྷོ་ལི་བི་ཡ་ཆུ་ཚོདstandardlongBoliviametazonetimeZoneNamesdates
+རྒྱ་གར་ཆུ་ཚོདstandardlongIndiametazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་གིརིན་ལེནཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongGreenland_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་གིརིན་ལེནཌ་ཆུ་ཚོདgenericlongGreenland_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་གིརིན་ལེནཌ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongGreenland_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཡུ་རོ་པེན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongEurope_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཡུ་རོ་པེན་ཚད་ལྡན་ཆུ་ཚོདstandardlongEurope_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཡུ་རོ་པེན་ཆུ་ཚོདgenericlongEurope_WesternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་གིརིན་ལེནཌ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongGreenland_EasternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་གིརིན་ལེནཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongGreenland_EasternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་གིརིན་ལེནཌ་ཆུ་ཚོདgenericlongGreenland_EasternmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་ཤར་ཕྱོགས་ཚད་ལྡན་ཆུ་ཚོདstandardlongAmerica_EasternmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་ཤར་ཕྱོགས་ཆུ་ཚོདgenericlongAmerica_EasternmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་ཤར་ཕྱོགས་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAmerica_EasternmetazonetimeZoneNamesdates
+ཀིའུ་བྷ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongCubametazonetimeZoneNamesdates
+ཀིའུ་བྷ་ཚད་ལྡན་ཆུ་ཚོདstandardlongCubametazonetimeZoneNamesdates
+ཀིའུ་བྷ་ཆུ་ཚོདgenericlongCubametazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨར་ཇེན་ཊི་ན་ཚད་ལྡན་ཆུ་ཚོདstandardlongArgentina_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨར་ཇེན་ཊི་ན་ཆུ་ཚོདgenericlongArgentina_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨར་ཇེན་ཊི་ན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongArgentina_WesternmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAustralia_CentralmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAustralia_CentralmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཨཱོས་ཊྲེལ་ལི་ཡ་ཆུ་ཚོདgenericlongAustralia_CentralmetazonetimeZoneNamesdates
+ཨ་ཛར་བྷའི་ཇཱན་ཚད་ལྡན་ཆུ་ཚོདstandardlongAzerbaijanmetazonetimeZoneNamesdates
+ཨ་ཛར་བྷའི་ཇཱན་ཆུ་ཚོདgenericlongAzerbaijanmetazonetimeZoneNamesdates
+ཨ་ཛར་བྷའི་ཇཱན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongAzerbaijanmetazonetimeZoneNamesdates
+ཀོ་ལོམ་བྷི་ཡ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongColombiametazonetimeZoneNamesdates
+ཀོ་ལོམ་བྷི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongColombiametazonetimeZoneNamesdates
+ཀོ་ལོམ་བྷི་ཡ་ཆུ་ཚོདgenericlongColombiametazonetimeZoneNamesdates
+སུ་རི་ནཱམ་ཆུ་ཚོདstandardlongSurinamemetazonetimeZoneNamesdates
+ཡ་ཀུཙིཀི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongYakutskmetazonetimeZoneNamesdates
+ཡ་ཀུཙིཀི་ཚད་ལྡན་ཆུ་ཚོདstandardlongYakutskmetazonetimeZoneNamesdates
+ཡ་ཀུཙིཀི་ཆུ་ཚོདgenericlongYakutskmetazonetimeZoneNamesdates
+ས་ཁ་ལིན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongSakhalinmetazonetimeZoneNamesdates
+ས་ཁ་ལིན་ཆུ་ཚོདgenericlongSakhalinmetazonetimeZoneNamesdates
+ས་ཁ་ལིན་ཚད་ལྡན་ཆུ་ཚོདstandardlongSakhalinmetazonetimeZoneNamesdates
+ནིའུ་ཛི་ལེནཌ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongNew_ZealandmetazonetimeZoneNamesdates
+ནིའུ་ཛི་ལེནཌ་ཆུ་ཚོདgenericlongNew_ZealandmetazonetimeZoneNamesdates
+ནིའུ་ཛི་ལེནཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongNew_ZealandmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨཕ་རི་ཀཱ་ཆུ་ཚོདgenericlongAfrica_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨཕ་རི་ཀཱ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAfrica_WesternmetazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨཕ་རི་ཀཱ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongAfrica_WesternmetazonetimeZoneNamesdates
+ནེ་པཱལ་ཆུ་ཚོདstandardlongNepalmetazonetimeZoneNamesdates
+མཱལ་དིབས་ཆུ་ཚོདstandardlongMaldivesmetazonetimeZoneNamesdates
+ག་ལ་པ་གོསི་ཆུ་ཚོདstandardlongGalapagosmetazonetimeZoneNamesdates
+པ་ར་གུ་ཝའི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongParaguaymetazonetimeZoneNamesdates
+པ་ར་གུ་ཝའི་ཆུ་ཚོདgenericlongParaguaymetazonetimeZoneNamesdates
+པ་ར་གུ་ཝའི་ཚད་ལྡན་ཆུ་ཚོདstandardlongParaguaymetazonetimeZoneNamesdates
+ཡུ་རུ་གུ་ཝཱའི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongUruguaymetazonetimeZoneNamesdates
+ཡུ་རུ་གུ་ཝཱའི་ཆུ་ཚོདgenericlongUruguaymetazonetimeZoneNamesdates
+ཡུ་རུ་གུ་ཝཱའི་ཚད་ལྡན་ཆུ་ཚོདstandardlongUruguaymetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཨཕ་རི་ཀཱ་ཆུ་ཚོདstandardlongAfrica_EasternmetazonetimeZoneNamesdates
+མོ་རི་ཤཱས་ཚད་ལྡན་ཆུ་ཚོདstandardlongMauritiusmetazonetimeZoneNamesdates
+མོ་རི་ཤཱས་ཆུ་ཚོདgenericlongMauritiusmetazonetimeZoneNamesdates
+མོ་རི་ཤཱས་བྱཱར་དུས་ཆུ་ཚོདdaylightlongMauritiusmetazonetimeZoneNamesdates
+ཨ་རེ་བྷི་ཡན་ཆུ་ཚོདgenericlongArabianmetazonetimeZoneNamesdates
+ཨ་རེ་བྷི་ཡན་ཚད་ལྡན་ཆུ་ཚོདstandardlongArabianmetazonetimeZoneNamesdates
+ཨ་རེ་བྷི་ཡན་སྲུང་ཆུ་ཚོདdaylightlongArabianmetazonetimeZoneNamesdates
+ཕིརེནཅ་གི་ཡ་ན་ཆུ་ཚོདstandardlongFrench_GuianametazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཡུ་རོ་པེན་ཆུ་ཚོདgenericlongEurope_EasternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཡུ་རོ་པེན་ཚད་ལྡན་ཆུ་ཚོདstandardlongEurope_EasternmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཡུ་རོ་པེན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongEurope_EasternmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་པེ་སི་ཕིག་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAmerica_PacificmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་པེ་སི་ཕིག་ཆུ་ཚོདgenericlongAmerica_PacificmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་པེ་སི་ཕིག་ཚད་ལྡན་ཆུ་ཚོདstandardlongAmerica_PacificmetazonetimeZoneNamesdates
+བྲ་ཛི་ལི་ཡ་ཆུ་ཚོདgenericlongBrasiliametazonetimeZoneNamesdates
+བྲ་ཛི་ལི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongBrasiliametazonetimeZoneNamesdates
+བྲ་ཛི་ལི་ཡ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongBrasiliametazonetimeZoneNamesdates
+ཡེ་ཀ་ཏེ་རིན་བརག་ཆུ་ཚོདgenericlongYekaterinburgmetazonetimeZoneNamesdates
+ཡེ་ཀ་ཏེ་རིན་བརག་ཚད་ལྡན་ཆུ་ཚོདstandardlongYekaterinburgmetazonetimeZoneNamesdates
+ཡེ་ཀ་ཏེ་རིན་བརག་བྱཱར་དུས་ཆུ་ཚོདdaylightlongYekaterinburgmetazonetimeZoneNamesdates
+པའི་རི་དང་མི་ཀི་ལཱོན་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongPierre_MiquelonmetazonetimeZoneNamesdates
+པའི་རི་དང་མི་ཀི་ལཱོན་ཚད་ལྡན་ཆུ་ཚོདstandardlongPierre_MiquelonmetazonetimeZoneNamesdates
+པའི་རི་དང་མི་ཀི་ལཱོན་ཆུ་ཚོདgenericlongPierre_MiquelonmetazonetimeZoneNamesdates
+བེ་ནི་ཛུ་ཝེ་ལ་ཆུ་ཚོདstandardlongVenezuelametazonetimeZoneNamesdates
+ཨིན་ཌོ་ཅཱའི་ན་ཆུ་ཚོདstandardlongIndochinametazonetimeZoneNamesdates
+ཨར་ཇེན་ཊི་ན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongArgentinametazonetimeZoneNamesdates
+ཨར་ཇེན་ཊི་ན་ཚད་ལྡན་ཆུ་ཚོདstandardlongArgentinametazonetimeZoneNamesdates
+ཨར་ཇེན་ཊི་ན་ཆུ་ཚོདgenericlongArgentinametazonetimeZoneNamesdates
+ཨར་མི་ནི་ཡ་ཆུ་ཚོདgenericlongArmeniametazonetimeZoneNamesdates
+ཨར་མི་ནི་ཡ་ཚད་ལྡན་ཆུ་ཚོདstandardlongArmeniametazonetimeZoneNamesdates
+ཨར་མི་ནི་ཡ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongArmeniametazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་དབུས་ཕྱོགས་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAmerica_CentralmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་དབུས་ཕྱོགས་ཚད་ལྡན་ཆུ་ཚོདstandardlongAmerica_CentralmetazonetimeZoneNamesdates
+བྱང་ཨ་མི་རི་ཀ་དབུས་ཕྱོགས་ཆུ་ཚོདgenericlongAmerica_CentralmetazonetimeZoneNamesdates
+བ་ལ་ཌི་བོསི་ཏོཀ་ཆུ་ཚོདgenericlongVladivostokmetazonetimeZoneNamesdates
+བ་ལ་ཌི་བོསི་ཏོཀ་ཚད་ལྡན་ཆུ་ཚོདstandardlongVladivostokmetazonetimeZoneNamesdates
+བ་ལ་ཌི་བོསི་ཏོཀ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongVladivostokmetazonetimeZoneNamesdates
+པ་ཀི་ས྄ཏཱན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongPakistanmetazonetimeZoneNamesdates
+པ་ཀི་ས྄ཏཱན་ཆུ་ཚོདgenericlongPakistanmetazonetimeZoneNamesdates
+པ་ཀི་ས྄ཏཱན་ཚད་ལྡན་ཆུ་ཚོདstandardlongPakistanmetazonetimeZoneNamesdates
+ཀརསི་ནོ་ཡརསཀི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongKrasnoyarskmetazonetimeZoneNamesdates
+ཀརསི་ནོ་ཡརསཀི་ཆུ་ཚོདgenericlongKrasnoyarskmetazonetimeZoneNamesdates
+ཀརསི་ནོ་ཡརསཀི་ཚད་ལྡན་ཆུ་ཚོདstandardlongKrasnoyarskmetazonetimeZoneNamesdates
+ཤར་ཕྱོགས་ཨིན་ཌོ་ནེ་ཤི་ཡ་ཆུ་ཚོདstandardlongIndonesia_EasternmetazonetimeZoneNamesdates
+རྒྱ་གར་གྱི་རྒྱ་མཚོ་ཆུ་ཚོདstandardlongIndian_OceanmetazonetimeZoneNamesdates
+ཨེ་མ་ཛཱོན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongAmazonmetazonetimeZoneNamesdates
+ཨེ་མ་ཛཱོན་ཆུ་ཚོདgenericlongAmazonmetazonetimeZoneNamesdates
+ཨེ་མ་ཛཱོན་ཚད་ལྡན་ཆུ་ཚོདstandardlongAmazonmetazonetimeZoneNamesdates
+ཨེ་ཛོརས་བྱཱར་དུས་ཆུ་ཚོདdaylightlongAzoresmetazonetimeZoneNamesdates
+ཨེ་ཛོརས་ཚད་ལྡན་ཆུ་ཚོདstandardlongAzoresmetazonetimeZoneNamesdates
+ཨེ་ཛོརས་ཆུ་ཚོདgenericlongAzoresmetazonetimeZoneNamesdates
+ནོ་བོ་སི་བིརསཀི་ཆུ་ཚོདgenericlongNovosibirskmetazonetimeZoneNamesdates
+ནོ་བོ་སི་བིརསཀི་ཚད་ལྡན་ཆུ་ཚོདstandardlongNovosibirskmetazonetimeZoneNamesdates
+ནོ་བོ་སི་བིརསཀི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongNovosibirskmetazonetimeZoneNamesdates
+མ་གྷ་དཱན་ཚད་ལྡན་ཆུ་ཚོདstandardlongMagadanmetazonetimeZoneNamesdates
+མ་གྷ་དཱན་ཆུ་ཚོདgenericlongMagadanmetazonetimeZoneNamesdates
+མ་གྷ་དཱན་བྱཱར་དུས་ཆུ་ཚོདdaylightlongMagadanmetazonetimeZoneNamesdates
+གིརིན་ཝིཆ་ལུ་ཡོད་པའི་ཆུ་ཚོདstandardlongGMTmetazonetimeZoneNamesdates
+གཱལཕི་ཆུ་ཚོདstandardlongGulfmetazonetimeZoneNamesdates
+ཨེཊ་ལེན་ཊིཀ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAtlanticmetazonetimeZoneNamesdates
+ཨེཊ་ལེན་ཊིཀ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAtlanticmetazonetimeZoneNamesdates
+ཨེཊ་ལེན་ཊིཀ་ཆུ་ཚོདgenericlongAtlanticmetazonetimeZoneNamesdates
+སེ་ཤཱལས་ཆུ་ཚོདstandardlongSeychellesmetazonetimeZoneNamesdates
+པ་རུ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongPerumetazonetimeZoneNamesdates
+པ་རུ་ཆུ་ཚོདgenericlongPerumetazonetimeZoneNamesdates
+པ་རུ་ཚད་ལྡན་ཆུ་ཚོདstandardlongPerumetazonetimeZoneNamesdates
+གུ་ཡ་ན་ཆུ་ཚོདstandardlongGuyanametazonetimeZoneNamesdates
+ཨར་ཀུཙི་བྱཱར་དུས་ཆུ་ཚོདdaylightlongIrkutskmetazonetimeZoneNamesdates
+ཨར་ཀུཙི་ཆུ་ཚོདgenericlongIrkutskmetazonetimeZoneNamesdates
+ཨར་ཀུཙི་ཚད་ལྡན་ཆུ་ཚོདstandardlongIrkutskmetazonetimeZoneNamesdates
+བངྒ་ལ་དེཤ་ཚད་ལྡན་ཆུ་ཚོདstandardlongBangladeshmetazonetimeZoneNamesdates
+བངྒ་ལ་དེཤ་ཆུ་ཚོདgenericlongBangladeshmetazonetimeZoneNamesdates
+བངྒ་ལ་དེཤ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongBangladeshmetazonetimeZoneNamesdates
+ཨིསི་ཊར་ཨཱའི་ལེནཌ་ཚད་ལྡན་ཆུ་ཚོདstandardlongEastermetazonetimeZoneNamesdates
+ཨིསི་ཊར་ཨཱའི་ལེནཌ་ཆུ་ཚོདgenericlongEastermetazonetimeZoneNamesdates
+ཨིསི་ཊར་ཨཱའི་ལེནཌ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongEastermetazonetimeZoneNamesdates
+ཨིས་རེལ་ཆུ་ཚོདgenericlongIsraelmetazonetimeZoneNamesdates
+ཨིས་རེལ་ཚད་ལྡན་ཆུ་ཚོདstandardlongIsraelmetazonetimeZoneNamesdates
+ཨིས་རེལ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongIsraelmetazonetimeZoneNamesdates
+ཕར་ནེན་ཌོ་ ཌི་ ནོ་རཱོན་ཧ་ཚད་ལྡན་ཆུ་ཚོདstandardlongNoronhametazonetimeZoneNamesdates
+ཕར་ནེན་ཌོ་ ཌི་ ནོ་རཱོན་ཧ་ཆུ་ཚོདgenericlongNoronhametazonetimeZoneNamesdates
+ཕར་ནེན་ཌོ་ ཌི་ ནོ་རཱོན་ཧ་བྱཱར་དུས་ཆུ་ཚོདdaylightlongNoronhametazonetimeZoneNamesdates
+ཨ་ལསི་ཀ་ཆུ་ཚོདgenericlongAlaskametazonetimeZoneNamesdates
+ཨ་ལསི་ཀ་ཚད་ལྡན་ཆུ་ཚོདstandardlongAlaskametazonetimeZoneNamesdates
+ཨ་ལསི་ཀ་ཉིན་སྲུང་ཆུ་ཚོདdaylightlongAlaskametazonetimeZoneNamesdates
+ནུབ་ཕྱོགས་ཨིན་ཌོ་ནེ་ཤི་ཡ་ཆུ་ཚོདstandardlongIndonesia_WesternmetazonetimeZoneNamesdates
+དབུས་ཕྱོགས་ཨིན་ཌོ་ནེ་ཤི་ཡ་ཆུ་ཚོདstandardlongIndonesia_CentralmetazonetimeZoneNamesdates
+{0}་་་་་་ {1}medialellipsischaracters
+{0}་་་་finalellipsischaracters
+་་་་{0}initialellipsischaracters
+[ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཏ ཐ ད ན པ ཕ བ མ ཙ ཚ ཛ ཝ ཞ ཟ འ ཡ ར ལ ཤ ས ཧ ཨ \u0F72 \u0F74 \u0F7A \u0F7C \u0F90 \u0F91 \u0F92 \u0F94 \u0F97 \u0F99 \u0F9F \u0FA0 \u0FA1 \u0FA3 \u0FA4 \u0FA5 \u0FA6 \u0FA8 \u0FA9 \u0FAA \u0FAB \u0FAD \u0FB1 \u0FB2 \u0FB3 \u0FB5 \u0FB6 \u0FB7]standardexemplarCharacterscharacters
+[\- ‐ – — , ; \: ! ? . … ' ‘ ’ &quot; “ ” ( ) \[ \] ༼ ༽ § @ * / \&amp; # † ‡ ༄ ༅ ༆ ༈ ༉ ༊ ࿐ ࿑ ༒ ࿒ ࿓ ࿔ ༶ ྾ ྿ ༌ ། ༎ ༏ ༐ ༑ ༔ ༴]punctuationexemplarCharacterscharacters
+[\- , . % ‰ + 0༠ 1༡ 2༢ 3༣ 4༤ 5༥ 6༦ 7༧ 8༨ 9༩]numbersexemplarCharacterscharacters
+[\u0F84 ཊ ཋ ཌ ཎ \u0F7E ཥ \u0F80 \u0F7B \u0F7D \u0F9A \u0F9B \u0F9C \u0F9E \u0FBA \u0FBB \u0FBC]auxiliaryexemplarCharacterscharacters
+[ཀ ཁ ག ང ཅ ཆ ཇ ཉ ཏ ཐ ད ན པ ཕ བ མ ཙ ཚ ཛ ཝ ཞ ཟ འ ཡ ར ལ ཤ ས ཧ ཨ]indexexemplarCharacterscharacters
+གཟའ་པ་སངས་thuwideformatdaysgregoriancalendars
+གཟའ་ཉི་མ་satwideformatdaysgregoriancalendars
+གཟའ་ཟླ་བ་sunwideformatdaysgregoriancalendars
+གཟའ་མིག་དམར་monwideformatdaysgregoriancalendars
+གཟའ་ལྷག་པ་tuewideformatdaysgregoriancalendars
+གཟའ་སྤེན་པ་friwideformatdaysgregoriancalendars
+གཟའ་ཕུར་བུ་wedwideformatdaysgregoriancalendars
+ཕུར་wedshortformatdaysgregoriancalendars
+ལྷག་tueshortformatdaysgregoriancalendars
+སྤེན་frishortformatdaysgregoriancalendars
+སངས་thushortformatdaysgregoriancalendars
+ཉི་satshortformatdaysgregoriancalendars
+ཟླ་sunshortformatdaysgregoriancalendars
+མིར་monshortformatdaysgregoriancalendars
+ལྷགtuenarrowformatdaysgregoriancalendars
+སྤེནfrinarrowformatdaysgregoriancalendars
+ཕུརwednarrowformatdaysgregoriancalendars
+སངྶthunarrowformatdaysgregoriancalendars
+ཉིsatnarrowformatdaysgregoriancalendars
+ཟླsunnarrowformatdaysgregoriancalendars
+མིརmonnarrowformatdaysgregoriancalendars
+སྤེན་friabbreviatedformatdaysgregoriancalendars
+ལྷག་tueabbreviatedformatdaysgregoriancalendars
+ཕུར་wedabbreviatedformatdaysgregoriancalendars
+མིར་monabbreviatedformatdaysgregoriancalendars
+ཉི་satabbreviatedformatdaysgregoriancalendars
+སངས་thuabbreviatedformatdaysgregoriancalendars
+ཟླ་sunabbreviatedformatdaysgregoriancalendars
+གཟའ་ཟླ་བ་sunwidestand-alonedaysgregoriancalendars
+གཟའ་ཉི་མ་satwidestand-alonedaysgregoriancalendars
+གཟའ་པ་སངས་thuwidestand-alonedaysgregoriancalendars
+གཟའ་མིག་དམར་monwidestand-alonedaysgregoriancalendars
+གཟའ་ལྷག་པ་tuewidestand-alonedaysgregoriancalendars
+གཟའ་སྤེན་པ་friwidestand-alonedaysgregoriancalendars
+གཟའ་ཕུར་བུ་wedwidestand-alonedaysgregoriancalendars
+མིར་monshortstand-alonedaysgregoriancalendars
+ཟླ་sunshortstand-alonedaysgregoriancalendars
+ཉི་satshortstand-alonedaysgregoriancalendars
+སངས་thushortstand-alonedaysgregoriancalendars
+སྤེན་frishortstand-alonedaysgregoriancalendars
+ལྷག་tueshortstand-alonedaysgregoriancalendars
+ཕུར་wedshortstand-alonedaysgregoriancalendars
+མིརmonnarrowstand-alonedaysgregoriancalendars
+ཉིsatnarrowstand-alonedaysgregoriancalendars
+སངྶthunarrowstand-alonedaysgregoriancalendars
+ཟླsunnarrowstand-alonedaysgregoriancalendars
+ཕུརwednarrowstand-alonedaysgregoriancalendars
+སྤེནfrinarrowstand-alonedaysgregoriancalendars
+ལྷགtuenarrowstand-alonedaysgregoriancalendars
+མིར་monabbreviatedstand-alonedaysgregoriancalendars
+ཉི་satabbreviatedstand-alonedaysgregoriancalendars
+སངས་thuabbreviatedstand-alonedaysgregoriancalendars
+ཟླ་sunabbreviatedstand-alonedaysgregoriancalendars
+ཕུར་wedabbreviatedstand-alonedaysgregoriancalendars
+སྤེན་friabbreviatedstand-alonedaysgregoriancalendars
+ལྷག་tueabbreviatedstand-alonedaysgregoriancalendars
+y-M-dyMdavailableFormatsgregoriancalendars
+y QQQyQQQavailableFormatsgregoriancalendars
+E, M-dMEdavailableFormatsgregoriancalendars
+mm:ssmsavailableFormatsgregoriancalendars
+M-dMdavailableFormatsgregoriancalendars
+HH:mm:ssHmsavailableFormatsgregoriancalendars
+yyavailableFormatsgregoriancalendars
+གཟའ་E, ལོy ཟླ་MMM ཚེ་dyMMMEdavailableFormatsgregoriancalendars
+HH:mmHmavailableFormatsgregoriancalendars
+E, y-M-dyMEdavailableFormatsgregoriancalendars
+སྤྱི་LLLMMMavailableFormatsgregoriancalendars
+G y སྤྱི་ཟླ་MMMGyMMMavailableFormatsgregoriancalendars
+y MMM dyMMMdavailableFormatsgregoriancalendars
+གཟའ་E, G ལོy ཟླ་MMM ཚེ་dGyMMMEdavailableFormatsgregoriancalendars
+d EEdavailableFormatsgregoriancalendars
+h:mm ahmavailableFormatsgregoriancalendars
+ddavailableFormatsgregoriancalendars
+E, སྤྱི་LLL ཚེ་dMMMEdavailableFormatsgregoriancalendars
+y QQQQyQQQQavailableFormatsgregoriancalendars
+y-MyMavailableFormatsgregoriancalendars
+ཆུ་ཚོད་HHHavailableFormatsgregoriancalendars
+སྤྱི་LLL ཚེ་dMMMdavailableFormatsgregoriancalendars
+LMavailableFormatsgregoriancalendars
+G y MMM dGyMMMdavailableFormatsgregoriancalendars
+h:mm:ss ahmsavailableFormatsgregoriancalendars
+y སྤྱི་ཟླ་MMMyMMMavailableFormatsgregoriancalendars
+ཆུ་ཚོད་h ahavailableFormatsgregoriancalendars
+G yGyavailableFormatsgregoriancalendars
+CE1eraAbbrerasgregoriancalendars
+BCE0eraAbbrerasgregoriancalendars
+{1} {0}longdateTimeFormatsgregoriancalendars
+{1} {0}mediumdateTimeFormatsgregoriancalendars
+{1} {0}shortdateTimeFormatsgregoriancalendars
+{1} {0}fulldateTimeFormatsgregoriancalendars
+སྔ་ཆ་amabbreviatedformatdayPeriodsgregoriancalendars
+ཕྱི་ཆ་pmabbreviatedformatdayPeriodsgregoriancalendars
+སྔ་ཆ་amnarrowformatdayPeriodsgregoriancalendars
+ཕྱི་ཆ་pmnarrowformatdayPeriodsgregoriancalendars
+སྔ་ཆ་amwideformatdayPeriodsgregoriancalendars
+ཕྱི་ཆ་pmwideformatdayPeriodsgregoriancalendars
+བཞི་དཔྱ་དང་པ་1widestand-alonequartersgregoriancalendars
+བཞི་དཔྱ་བཞི་པ་4widestand-alonequartersgregoriancalendars
+བཞི་དཔྱ་གསུམ་པ་3widestand-alonequartersgregoriancalendars
+བཞི་དཔྱ་གཉིས་པ་2widestand-alonequartersgregoriancalendars
+༤4narrowstand-alonequartersgregoriancalendars
+༣3narrowstand-alonequartersgregoriancalendars
+༢2narrowstand-alonequartersgregoriancalendars
+༡1narrowstand-alonequartersgregoriancalendars
+བཞི་དཔྱ་༡1abbreviatedstand-alonequartersgregoriancalendars
+བཞི་དཔྱ་༣3abbreviatedstand-alonequartersgregoriancalendars
+བཞི་དཔྱ་༤4abbreviatedstand-alonequartersgregoriancalendars
+བཞི་དཔྱ་༢2abbreviatedstand-alonequartersgregoriancalendars
+༡1narrowformatquartersgregoriancalendars
+༢2narrowformatquartersgregoriancalendars
+༣3narrowformatquartersgregoriancalendars
+༤4narrowformatquartersgregoriancalendars
+བཞི་དཔྱ་༡1abbreviatedformatquartersgregoriancalendars
+བཞི་དཔྱ་༣3abbreviatedformatquartersgregoriancalendars
+བཞི་དཔྱ་༤4abbreviatedformatquartersgregoriancalendars
+བཞི་དཔྱ་༢2abbreviatedformatquartersgregoriancalendars
+བཞི་དཔྱ་དང་པ་1wideformatquartersgregoriancalendars
+བཞི་དཔྱ་གཉིས་པ་2wideformatquartersgregoriancalendars
+བཞི་དཔྱ་བཞི་པ་4wideformatquartersgregoriancalendars
+བཞི་དཔྱ་གསུམ་པ་3wideformatquartersgregoriancalendars
+༦6narrowstand-alonemonthsgregoriancalendars
+༡༡11narrowstand-alonemonthsgregoriancalendars
+༥5narrowstand-alonemonthsgregoriancalendars
+༡1narrowstand-alonemonthsgregoriancalendars
+༡༢12narrowstand-alonemonthsgregoriancalendars
+༡༠10narrowstand-alonemonthsgregoriancalendars
+༧7narrowstand-alonemonthsgregoriancalendars
+༢2narrowstand-alonemonthsgregoriancalendars
+༨8narrowstand-alonemonthsgregoriancalendars
+༩9narrowstand-alonemonthsgregoriancalendars
+༣3narrowstand-alonemonthsgregoriancalendars
+༤4narrowstand-alonemonthsgregoriancalendars
+ཟླ་༤4abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༣3abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༨8abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༩9abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༡༠10abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༡༢12abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༢2abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༧7abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༡1abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༥5abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༡༡11abbreviatedstand-alonemonthsgregoriancalendars
+ཟླ་༦6abbreviatedstand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་དགུ་པ་9widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་བརྒྱད་པ་8widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་བཅུ་གཉིས་པ་12widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་བདུན་པ་7widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་བཅུ་པ་10widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་གཉིས་པ་2widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་བཞི་པ4widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་གསུམ་པ་3widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་བཅུ་གཅིག་པ་11widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་དྲུག་པ6widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་ལྔ་པ་5widestand-alonemonthsgregoriancalendars
+སྤྱི་ཟླ་དངཔ་1widestand-alonemonthsgregoriancalendars
+ཟླ་བཅུ་གཅིག་པ་11wideformatmonthsgregoriancalendars
+ཟླ་དྲུག་པ6wideformatmonthsgregoriancalendars
+ཟླ་དངཔ་1wideformatmonthsgregoriancalendars
+ཟླ་ལྔ་པ་5wideformatmonthsgregoriancalendars
+ཟླ་དགུ་པ་9wideformatmonthsgregoriancalendars
+ཟླ་བརྒྱད་པ་8wideformatmonthsgregoriancalendars
+ཟླ་བཅུ་གཉིས་པ་12wideformatmonthsgregoriancalendars
+ཟླ་བདུན་པ་7wideformatmonthsgregoriancalendars
+ཟླ་བཅུ་པ་10wideformatmonthsgregoriancalendars
+ཟླ་གཉིས་པ་2wideformatmonthsgregoriancalendars
+ཟླ་གསུམ་པ་3wideformatmonthsgregoriancalendars
+ཟླ་བཞི་པ་4wideformatmonthsgregoriancalendars
+༥5narrowformatmonthsgregoriancalendars
+༡1narrowformatmonthsgregoriancalendars
+༡༡11narrowformatmonthsgregoriancalendars
+༦6narrowformatmonthsgregoriancalendars
+44narrowformatmonthsgregoriancalendars
+༣3narrowformatmonthsgregoriancalendars
+༨8narrowformatmonthsgregoriancalendars
+99narrowformatmonthsgregoriancalendars
+༧7narrowformatmonthsgregoriancalendars
+༡༢12narrowformatmonthsgregoriancalendars
+༡༠10narrowformatmonthsgregoriancalendars
+༢2narrowformatmonthsgregoriancalendars
+༧7abbreviatedformatmonthsgregoriancalendars
+1212abbreviatedformatmonthsgregoriancalendars
+༡༠10abbreviatedformatmonthsgregoriancalendars
+༢2abbreviatedformatmonthsgregoriancalendars
+༩9abbreviatedformatmonthsgregoriancalendars
+༨8abbreviatedformatmonthsgregoriancalendars
+༤4abbreviatedformatmonthsgregoriancalendars
+༣3abbreviatedformatmonthsgregoriancalendars
+༦6abbreviatedformatmonthsgregoriancalendars
+༡༡11abbreviatedformatmonthsgregoriancalendars
+༡1abbreviatedformatmonthsgregoriancalendars
+༥5abbreviatedformatmonthsgregoriancalendars
+y-MM-ddstandardshortdateFormatsgregoriancalendars
+EEEE, སྤྱི་ལོ་y MMMM ཚེས་ddstandardfulldateFormatsgregoriancalendars
+སྤྱི་ལོ་y MMMM ཚེས་ ddstandardlongdateFormatsgregoriancalendars
+སྤྱི་ལོ་y ཟླ་MMM ཚེས་ddstandardmediumdateFormatsgregoriancalendars
+སྤྱི་ཟླ་MMM/MMM, yMyMMMintervalFormatsgregoriancalendars
+y-MM – y-MMyyMMMintervalFormatsgregoriancalendars
+h a – h aahintervalFormatsgregoriancalendars
+h–h ahhintervalFormatsgregoriancalendars
+HH:mm–HH:mm vHHmvintervalFormatsgregoriancalendars
+HH:mm–HH:mm vmHmvintervalFormatsgregoriancalendars
+h:mm a – h:mm a vahmvintervalFormatsgregoriancalendars
+h:mm–h:mm a vmhmvintervalFormatsgregoriancalendars
+h:mm–h:mm a vhhmvintervalFormatsgregoriancalendars
+y-MM – MMMyMintervalFormatsgregoriancalendars
+y-MM – y-MMyyMintervalFormatsgregoriancalendars
+E, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་dMMMMEdintervalFormatsgregoriancalendars
+E, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་ddMMMEdintervalFormatsgregoriancalendars
+སྤྱི་ཟླ་MM ཚེས་d–ཟླ་MM ཚེས་dMMMMdintervalFormatsgregoriancalendars
+སྤྱི་ཟླ་MM ཚེས་d–ddMMMdintervalFormatsgregoriancalendars
+HH–HHHHintervalFormatsgregoriancalendars
+སྤྱི་ཟླ་M–MMMintervalFormatsgregoriancalendars
+h:mm–h:mm amhmintervalFormatsgregoriancalendars
+h:mm–h:mm ahhmintervalFormatsgregoriancalendars
+h:mm a – h:mm aahmintervalFormatsgregoriancalendars
+d–dddintervalFormatsgregoriancalendars
+{0} – {1}standardstandardintervalFormatsgregoriancalendars
+y-MM-d – ddyMMMdintervalFormatsgregoriancalendars
+y-MM-dd – MM-dMyMMMdintervalFormatsgregoriancalendars
+y-MM-dd – y-MM-ddyyMMMdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-dddyMEdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-ddMyMEdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-ddyyMEdintervalFormatsgregoriancalendars
+སྤྱི་LLL–LLLMMMMintervalFormatsgregoriancalendars
+h a – h a vahvintervalFormatsgregoriancalendars
+h–h a vhhvintervalFormatsgregoriancalendars
+HH:mm–HH:mmHHmintervalFormatsgregoriancalendars
+HH:mm–HH:mmmHmintervalFormatsgregoriancalendars
+HH–HH vHHvintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-ddMyMMMEdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-dddyMMMEdintervalFormatsgregoriancalendars
+E, y-MM-dd – E, y-MM-ddyyMMMEdintervalFormatsgregoriancalendars
+y–yyyintervalFormatsgregoriancalendars
+y-MM-dd – y-MM-ddyyMdintervalFormatsgregoriancalendars
+y-MM-dd – dddyMdintervalFormatsgregoriancalendars
+y-MM-dd – MM-ddMyMdintervalFormatsgregoriancalendars
+y-MM – y-MMyyMMMMintervalFormatsgregoriancalendars
+y-སྤྱི་ཟླ་MM – MMMyMMMMintervalFormatsgregoriancalendars
+སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་ddMMdintervalFormatsgregoriancalendars
+སྤྱི་ཟླ་M ཚེས་dd/dddMdintervalFormatsgregoriancalendars
+E, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dddMEdintervalFormatsgregoriancalendars
+E, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་ddMMEdintervalFormatsgregoriancalendars
+ཆུ་ཚོད་ h སྐར་མ་ mm:ss a zstandardlongtimeFormatsgregoriancalendars
+ཆུ་ཚོད་h:mm:ss astandardmediumtimeFormatsgregoriancalendars
+ཆུ་ཚོད་ h སྐར་མ་ mm astandardshorttimeFormatsgregoriancalendars
+ཆུ་ཚོད་ h སྐར་མ་ mm:ss a zzzzstandardfulltimeFormatsgregoriancalendars
+G yyavailableFormatsgenericcalendars
+mm:ssmsavailableFormatsgenericcalendars
+E, M-dMEdavailableFormatsgenericcalendars
+M-dMdavailableFormatsgenericcalendars
+HH:mm:ssHmsavailableFormatsgenericcalendars
+G y QQQQyyyyQQQQavailableFormatsgenericcalendars
+d EEdavailableFormatsgenericcalendars
+གཟའ་E, G ལོy ཟླ་MMM ཚེ་dGyMMMEdavailableFormatsgenericcalendars
+G y-M-dyyyyMdavailableFormatsgenericcalendars
+G y-MyyyyMavailableFormatsgenericcalendars
+སྤྱི་LLLMMMavailableFormatsgenericcalendars
+HH:mmHmavailableFormatsgenericcalendars
+G y སྤྱི་ཟླ་MMMGyMMMavailableFormatsgenericcalendars
+E, སྤྱི་LLL ཚེ་dMMMEdavailableFormatsgenericcalendars
+ཆུ་ཚོད་HHHavailableFormatsgenericcalendars
+སྤྱི་LLL ཚེ་dMMMdavailableFormatsgenericcalendars
+LMavailableFormatsgenericcalendars
+h:mm ahmavailableFormatsgenericcalendars
+G y QQQyyyyQQQavailableFormatsgenericcalendars
+E, G y-M-dyyyyMEdavailableFormatsgenericcalendars
+ddavailableFormatsgenericcalendars
+གཟའ་E, G ལོy ཟླ་MMM ཚེ་dyyyyMMMEdavailableFormatsgenericcalendars
+G y སྤྱི་ཟླ་MMMyyyyMMMavailableFormatsgenericcalendars
+G y MMM dyyyyMMMdavailableFormatsgenericcalendars
+G yGyavailableFormatsgenericcalendars
+h:mm:ss ahmsavailableFormatsgenericcalendars
+ཆུ་ཚོད་h ahavailableFormatsgenericcalendars
+G y MMM dGyMMMdavailableFormatsgenericcalendars
+G yyyyyavailableFormatsgenericcalendars
+{1} {0}shortdateTimeFormatsgenericcalendars
+{1} {0}fulldateTimeFormatsgenericcalendars
+{1} {0}longdateTimeFormatsgenericcalendars
+{1} {0}mediumdateTimeFormatsgenericcalendars
+EEEE, G སྤྱི་ལོ་y MMMM ཚེས་ddstandardfulldateFormatsgenericcalendars
+GGGGG y-MM-ddstandardshortdateFormatsgenericcalendars
+G སྤྱི་ལོ་y ཟླ་MMM ཚེས་ddstandardmediumdateFormatsgenericcalendars
+G སྤྱི་ལོ་y MMMM ཚེས་ ddstandardlongdateFormatsgenericcalendars
+{0} – {1}standardstandardintervalFormatsgenericcalendars
+h:mm–h:mm ahhmintervalFormatsgenericcalendars
+h:mm–h:mm amhmintervalFormatsgenericcalendars
+h:mm a – h:mm aahmintervalFormatsgenericcalendars
+d–dddintervalFormatsgenericcalendars
+G y-MM – MMMyMintervalFormatsgenericcalendars
+G y-MM – y-MMyyMintervalFormatsgenericcalendars
+E, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་dMMMMEdintervalFormatsgenericcalendars
+E, སྤྱི་ཟླ་MM ཚེས་d – E, ཟླ་MM ཚེས་ddMMMEdintervalFormatsgenericcalendars
+སྤྱི་ཟླ་MM ཚེས་d–ddMMMdintervalFormatsgenericcalendars
+སྤྱི་ཟླ་MM ཚེས་d–ཟླ་MM ཚེས་dMMMMdintervalFormatsgenericcalendars
+སྤྱི་ཟླ་M–MMMintervalFormatsgenericcalendars
+HH–HHHHintervalFormatsgenericcalendars
+h:mm–h:mm a vhhmvintervalFormatsgenericcalendars
+h:mm–h:mm a vmhmvintervalFormatsgenericcalendars
+h:mm a – h:mm a vahmvintervalFormatsgenericcalendars
+HH:mm–HH:mm vHHmvintervalFormatsgenericcalendars
+HH:mm–HH:mm vmHmvintervalFormatsgenericcalendars
+སྤྱི་ཟླ་MMM/MMM, yMyMMMintervalFormatsgenericcalendars
+G y-MM – y-MMyyMMMintervalFormatsgenericcalendars
+h–h ahhintervalFormatsgenericcalendars
+h a – h aahintervalFormatsgenericcalendars
+སྤྱི་ཟླ་M ཚེས་dd/dddMdintervalFormatsgenericcalendars
+སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་ddMMdintervalFormatsgenericcalendars
+G y-སྤྱི་ཟླ་MM – MMMyMMMMintervalFormatsgenericcalendars
+G y-MM – y-MMyyMMMMintervalFormatsgenericcalendars
+G y-MM-dd – dddyMdintervalFormatsgenericcalendars
+G y-MM-dd – MM-ddMyMdintervalFormatsgenericcalendars
+G y-MM-dd – y-MM-ddyyMdintervalFormatsgenericcalendars
+E, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་ddMMEdintervalFormatsgenericcalendars
+E, སྤྱི་ཟླ་MM ཚེས་dd–ཟླ་MM ཚེས་dddMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-dddyMMMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-ddMyMMMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-ddyyMMMEdintervalFormatsgenericcalendars
+HH–HH vHHvintervalFormatsgenericcalendars
+G y–yyyintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-dddyMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-ddMyMEdintervalFormatsgenericcalendars
+E, y-MM-dd – E, y-MM-ddyyMEdintervalFormatsgenericcalendars
+h a – h a vahvintervalFormatsgenericcalendars
+h–h a vhhvintervalFormatsgenericcalendars
+སྤྱི་LLL–LLLMMMMintervalFormatsgenericcalendars
+HH:mm–HH:mmmHmintervalFormatsgenericcalendars
+HH:mm–HH:mmHHmintervalFormatsgenericcalendars
+G y-MM-dd – y-MM-ddyyMMMdintervalFormatsgenericcalendars
+G y-MM-dd – MM-dMyMMMdintervalFormatsgenericcalendars
+G y-MM-d – ddyMMMdintervalFormatsgenericcalendars

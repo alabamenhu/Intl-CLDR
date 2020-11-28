@@ -1,0 +1,430 @@
+Alaa:Anostrmessagesposix
+Eey:Eyesstrmessagesposix
+[a b ɓ c d ɗ e f g h i j k l m n ñ ŋ o p r s t u w y ƴ]standardexemplarCharacterscharacters
+[A B Ɓ C D Ɗ E F G H I J K L M N Ñ Ŋ O P R S T U W Y Ƴ]indexexemplarCharacterscharacters
+[q v x z]auxiliaryexemplarCharacterscharacters
+[  \- , % ‰ + 0 1 2 3 4 5 6 7 8 9]numbersexemplarCharacterscharacters
+”quotationEnddelimiters
+’alternateQuotationEnddelimiters
+‚alternateQuotationStartdelimiters
+„quotationStartdelimiters
+T22abbreviatedformatquartersgregoriancalendars
+T44abbreviatedformatquartersgregoriancalendars
+T33abbreviatedformatquartersgregoriancalendars
+T11abbreviatedformatquartersgregoriancalendars
+Termes 11wideformatquartersgregoriancalendars
+Termes 44wideformatquartersgregoriancalendars
+Termes 33wideformatquartersgregoriancalendars
+Termes 22wideformatquartersgregoriancalendars
+{0} ({2}: {1})MonthappendItemsgregoriancalendars
+{1} {0}YearappendItemsgregoriancalendars
+{0} ({2}: {1})QuarterappendItemsgregoriancalendars
+{0} ({2}: {1})MinuteappendItemsgregoriancalendars
+{0} {1}Day-Of-WeekappendItemsgregoriancalendars
+{0} ({2}: {1})SecondappendItemsgregoriancalendars
+{0} ({2}: {1})WeekappendItemsgregoriancalendars
+{1} {0}EraappendItemsgregoriancalendars
+{0} ({2}: {1})DayappendItemsgregoriancalendars
+{0} {1}TimezoneappendItemsgregoriancalendars
+{0} ({2}: {1})HourappendItemsgregoriancalendars
+HH:mm:ss zzzzstandardfulltimeFormatsgregoriancalendars
+HH:mmstandardshorttimeFormatsgregoriancalendars
+HH:mm:ssstandardmediumtimeFormatsgregoriancalendars
+HH:mm:ss zstandardlongtimeFormatsgregoriancalendars
+d MMMM ystandardlongdateFormatsgregoriancalendars
+d MMM, ystandardmediumdateFormatsgregoriancalendars
+d/M/ystandardshortdateFormatsgregoriancalendars
+EEEE d MMMM ystandardfulldateFormatsgregoriancalendars
+j11narrowstand-alonemonthsgregoriancalendars
+k6narrowstand-alonemonthsgregoriancalendars
+s1narrowstand-alonemonthsgregoriancalendars
+d5narrowstand-alonemonthsgregoriancalendars
+j8narrowstand-alonemonthsgregoriancalendars
+s9narrowstand-alonemonthsgregoriancalendars
+c2narrowstand-alonemonthsgregoriancalendars
+b12narrowstand-alonemonthsgregoriancalendars
+y10narrowstand-alonemonthsgregoriancalendars
+m7narrowstand-alonemonthsgregoriancalendars
+m3narrowstand-alonemonthsgregoriancalendars
+s4narrowstand-alonemonthsgregoriancalendars
+see4abbreviatedformatmonthsgregoriancalendars
+mbo3abbreviatedformatmonthsgregoriancalendars
+slt9abbreviatedformatmonthsgregoriancalendars
+juk8abbreviatedformatmonthsgregoriancalendars
+yar10abbreviatedformatmonthsgregoriancalendars
+bow12abbreviatedformatmonthsgregoriancalendars
+col2abbreviatedformatmonthsgregoriancalendars
+mor7abbreviatedformatmonthsgregoriancalendars
+duu5abbreviatedformatmonthsgregoriancalendars
+sii1abbreviatedformatmonthsgregoriancalendars
+jol11abbreviatedformatmonthsgregoriancalendars
+kor6abbreviatedformatmonthsgregoriancalendars
+duujal5wideformatmonthsgregoriancalendars
+siilo1wideformatmonthsgregoriancalendars
+korse6wideformatmonthsgregoriancalendars
+jolal11wideformatmonthsgregoriancalendars
+mbooy3wideformatmonthsgregoriancalendars
+seeɗto4wideformatmonthsgregoriancalendars
+bowte12wideformatmonthsgregoriancalendars
+colte2wideformatmonthsgregoriancalendars
+yarkomaa10wideformatmonthsgregoriancalendars
+morso7wideformatmonthsgregoriancalendars
+juko8wideformatmonthsgregoriancalendars
+siilto9wideformatmonthsgregoriancalendars
+C-I1eraAbbrerasgregoriancalendars
+H-I0eraAbbrerasgregoriancalendars
+Hade Iisa0eraNameserasgregoriancalendars
+Caggal Iisa1eraNameserasgregoriancalendars
+E d/M/yyMEdavailableFormatsgregoriancalendars
+MMMMMMavailableFormatsgregoriancalendars
+d MMM yyMMMdavailableFormatsgregoriancalendars
+MMMM yyMMMMavailableFormatsgregoriancalendars
+QQQ yyQQQavailableFormatsgregoriancalendars
+d/MMdavailableFormatsgregoriancalendars
+m:ssmsavailableFormatsgregoriancalendars
+E d MMM yyMMMEdavailableFormatsgregoriancalendars
+yyavailableFormatsgregoriancalendars
+d/MMMMdavailableFormatsgregoriancalendars
+d MMMMMMMMdavailableFormatsgregoriancalendars
+MMM yyMMMavailableFormatsgregoriancalendars
+E d MMMMMMMMEdavailableFormatsgregoriancalendars
+MM/yyMMavailableFormatsgregoriancalendars
+QQQQ yyQQQQavailableFormatsgregoriancalendars
+MMavailableFormatsgregoriancalendars
+M/yyMavailableFormatsgregoriancalendars
+E d MMMMMMEdavailableFormatsgregoriancalendars
+d MMMMMMdavailableFormatsgregoriancalendars
+dd/MMMMddavailableFormatsgregoriancalendars
+njeslaarewedwideformatdaysgregoriancalendars
+mawndefriwideformatdaysgregoriancalendars
+mawbaaretuewideformatdaysgregoriancalendars
+aaɓndemonwideformatdaysgregoriancalendars
+naasaandethuwideformatdaysgregoriancalendars
+hoore-biirsatwideformatdaysgregoriancalendars
+dewosunwideformatdaysgregoriancalendars
+hbisatabbreviatedformatdaysgregoriancalendars
+naathuabbreviatedformatdaysgregoriancalendars
+dewsunabbreviatedformatdaysgregoriancalendars
+aaɓmonabbreviatedformatdaysgregoriancalendars
+mawtueabbreviatedformatdaysgregoriancalendars
+mwdfriabbreviatedformatdaysgregoriancalendars
+njewedabbreviatedformatdaysgregoriancalendars
+nwednarrowstand-alonedaysgregoriancalendars
+mfrinarrowstand-alonedaysgregoriancalendars
+mtuenarrowstand-alonedaysgregoriancalendars
+amonnarrowstand-alonedaysgregoriancalendars
+dsunnarrowstand-alonedaysgregoriancalendars
+hsatnarrowstand-alonedaysgregoriancalendars
+nthunarrowstand-alonedaysgregoriancalendars
+kikiiɗepmwideformatdayPeriodsgregoriancalendars
+subakaamwideformatdayPeriodsgregoriancalendars
+subakaamabbreviatedformatdayPeriodsgregoriancalendars
+kikiiɗepmabbreviatedformatdayPeriodsgregoriancalendars
+E d MMMMMMEdavailableFormatsgenericcalendars
+QQQQ yyQQQQavailableFormatsgenericcalendars
+M/yyMavailableFormatsgenericcalendars
+MMavailableFormatsgenericcalendars
+d MMMMMMdavailableFormatsgenericcalendars
+dd/MMMMddavailableFormatsgenericcalendars
+MM/yyMMavailableFormatsgenericcalendars
+E d MMMMMMMMEdavailableFormatsgenericcalendars
+MMM yyMMMavailableFormatsgenericcalendars
+d MMMMMMMMdavailableFormatsgenericcalendars
+d/MMMMdavailableFormatsgenericcalendars
+yyavailableFormatsgenericcalendars
+E d MMM yyMMMEdavailableFormatsgenericcalendars
+QQQ yyQQQavailableFormatsgenericcalendars
+d/MMdavailableFormatsgenericcalendars
+MMMM yyMMMMavailableFormatsgenericcalendars
+m:ssmsavailableFormatsgenericcalendars
+d MMM yyMMMdavailableFormatsgenericcalendars
+E d/M/yyMEdavailableFormatsgenericcalendars
+MMMMMMavailableFormatsgenericcalendars
+EEEE d MMMM y GstandardfulldateFormatsgenericcalendars
+d/M/y GGGGGstandardshortdateFormatsgenericcalendars
+d MMM, y GstandardmediumdateFormatsgenericcalendars
+d MMMM y GstandardlongdateFormatsgenericcalendars
+RuwaanndeererwlanguageslocaleDisplayNames
+WiyetnameerevilanguageslocaleDisplayNames
+HongariirehulanguageslocaleDisplayNames
+NepaaleerenelanguageslocaleDisplayNames
+ItaliyeereitlanguageslocaleDisplayNames
+KoreerekolanguageslocaleDisplayNames
+KemeerekmlanguageslocaleDisplayNames
+TurkeeretrlanguageslocaleDisplayNames
+HinndihilanguageslocaleDisplayNames
+UkereneereuklanguageslocaleDisplayNames
+GerkeellanguageslocaleDisplayNames
+TamiltalanguageslocaleDisplayNames
+SweedeeresvlanguageslocaleDisplayNames
+SawaneerejvlanguageslocaleDisplayNames
+BengalibnlanguageslocaleDisplayNames
+MalayeeremslanguageslocaleDisplayNames
+YorrubaayolanguageslocaleDisplayNames
+EndonesiireidlanguageslocaleDisplayNames
+PunjabeerepalanguageslocaleDisplayNames
+AmarikamlanguageslocaleDisplayNames
+RomaneererolanguageslocaleDisplayNames
+SuluŋkoorezulanguageslocaleDisplayNames
+HawsaŋkoorehalanguageslocaleDisplayNames
+AarabeerearlanguageslocaleDisplayNames
+IgibooreiglanguageslocaleDisplayNames
+UrduurlanguageslocaleDisplayNames
+BelaruusebelanguageslocaleDisplayNames
+PerseerefalanguageslocaleDisplayNames
+FarayseerefrlanguageslocaleDisplayNames
+BurmeesemylanguageslocaleDisplayNames
+PoloneerepllanguageslocaleDisplayNames
+PurtugeereptlanguageslocaleDisplayNames
+AkaanaklanguageslocaleDisplayNames
+DocceeredelanguageslocaleDisplayNames
+BulgariirebglanguageslocaleDisplayNames
+SaponeerejalanguageslocaleDisplayNames
+PulaarfflanguageslocaleDisplayNames
+CekkerecslanguageslocaleDisplayNames
+EngeleereenlanguageslocaleDisplayNames
+EspañoleslanguageslocaleDisplayNames
+SinuwaarezhlanguageslocaleDisplayNames
+TaaythlanguageslocaleDisplayNames
+SomaliisolanguageslocaleDisplayNames
+RiisrulanguageslocaleDisplayNames
+DacceerenllanguageslocaleDisplayNames
+SurinaamSRterritorieslocaleDisplayNames
+NepaalNPterritorieslocaleDisplayNames
+Sent HelenSHterritorieslocaleDisplayNames
+KonngoCGterritorieslocaleDisplayNames
+KeñaaKEterritorieslocaleDisplayNames
+ItaliITterritorieslocaleDisplayNames
+BeresiilBRterritorieslocaleDisplayNames
+BelaruusBYterritorieslocaleDisplayNames
+DanmarkDKterritorieslocaleDisplayNames
+Gine-BisaawoGWterritorieslocaleDisplayNames
+Duuɗe FalklandFKterritorieslocaleDisplayNames
+Seraa liyonSLterritorieslocaleDisplayNames
+SuwiisCHterritorieslocaleDisplayNames
+KanadaaCAterritorieslocaleDisplayNames
+EnndonesiiIDterritorieslocaleDisplayNames
+Tirnidaad e TobaagoTTterritorieslocaleDisplayNames
+MayootYTterritorieslocaleDisplayNames
+duuɗe kecce britaniiVGterritorieslocaleDisplayNames
+GineGNterritorieslocaleDisplayNames
+TokelaawTKterritorieslocaleDisplayNames
+AnngolaaAOterritorieslocaleDisplayNames
+TaylanndaTHterritorieslocaleDisplayNames
+Ndenndanndi DominikaDOterritorieslocaleDisplayNames
+AlaseriDZterritorieslocaleDisplayNames
+AnngiyaaAIterritorieslocaleDisplayNames
+EjiptEGterritorieslocaleDisplayNames
+GabooGAterritorieslocaleDisplayNames
+WenesuwelaaVEterritorieslocaleDisplayNames
+MoriisMUterritorieslocaleDisplayNames
+KuweytiKWterritorieslocaleDisplayNames
+Siri LankaLKterritorieslocaleDisplayNames
+Sent LusiyaaLCterritorieslocaleDisplayNames
+GammbiGMterritorieslocaleDisplayNames
+SiriiSYterritorieslocaleDisplayNames
+Koree RewoKPterritorieslocaleDisplayNames
+OmaanOMterritorieslocaleDisplayNames
+Samowa AmerikASterritorieslocaleDisplayNames
+EstoniEEterritorieslocaleDisplayNames
+BurunndiBIterritorieslocaleDisplayNames
+YemenYEterritorieslocaleDisplayNames
+UruguwaayUYterritorieslocaleDisplayNames
+RumaniiROterritorieslocaleDisplayNames
+EcoppiETterritorieslocaleDisplayNames
+PakistaanPKterritorieslocaleDisplayNames
+JordaniJOterritorieslocaleDisplayNames
+GanaaGHterritorieslocaleDisplayNames
+GwaatemalaaGTterritorieslocaleDisplayNames
+MosammbikMZterritorieslocaleDisplayNames
+RewiñooREterritorieslocaleDisplayNames
+BahamaasBSterritorieslocaleDisplayNames
+MoldawiiMDterritorieslocaleDisplayNames
+MonaakooMCterritorieslocaleDisplayNames
+Sawo Tome e PerensipeSTterritorieslocaleDisplayNames
+IraanIRterritorieslocaleDisplayNames
+SenegaalSNterritorieslocaleDisplayNames
+SudaanSDterritorieslocaleDisplayNames
+MonseraatMSterritorieslocaleDisplayNames
+MartinikMQterritorieslocaleDisplayNames
+KirgistaanKGterritorieslocaleDisplayNames
+FenlandFIterritorieslocaleDisplayNames
+MalaawiMWterritorieslocaleDisplayNames
+SuweedSEterritorieslocaleDisplayNames
+Palestiin Sisjordani e GaasaaPSterritorieslocaleDisplayNames
+Papuwaa Nuwel GinePGterritorieslocaleDisplayNames
+KubaaCUterritorieslocaleDisplayNames
+OstaraaliiAUterritorieslocaleDisplayNames
+AfganistaanAFterritorieslocaleDisplayNames
+GorwendlandGLterritorieslocaleDisplayNames
+TaywaanTWterritorieslocaleDisplayNames
+El SalwadorSVterritorieslocaleDisplayNames
+PitkernPNterritorieslocaleDisplayNames
+LesotoLSterritorieslocaleDisplayNames
+IrlanndaIEterritorieslocaleDisplayNames
+GiyaanGYterritorieslocaleDisplayNames
+Duuɗe NorfolkNFterritorieslocaleDisplayNames
+TogooTGterritorieslocaleDisplayNames
+CaadTDterritorieslocaleDisplayNames
+PeruPEterritorieslocaleDisplayNames
+NikaraguwaaNIterritorieslocaleDisplayNames
+BeljikBEterritorieslocaleDisplayNames
+MadagaskaarMGterritorieslocaleDisplayNames
+DominikaDMterritorieslocaleDisplayNames
+BanglaadeesBDterritorieslocaleDisplayNames
+JibutiiDJterritorieslocaleDisplayNames
+SloweniiSIterritorieslocaleDisplayNames
+NederlanndaNLterritorieslocaleDisplayNames
+SapooJPterritorieslocaleDisplayNames
+KodduwaarCIterritorieslocaleDisplayNames
+BahreynBHterritorieslocaleDisplayNames
+OtiriisATterritorieslocaleDisplayNames
+Giyaan FarayseGFterritorieslocaleDisplayNames
+AlbaniiALterritorieslocaleDisplayNames
+MeceduwaanMKterritorieslocaleDisplayNames
+NijeerNEterritorieslocaleDisplayNames
+MaldiiweMVterritorieslocaleDisplayNames
+BeliiseBZterritorieslocaleDisplayNames
+Bosnii HersegowiinBAterritorieslocaleDisplayNames
+ArjantiinARterritorieslocaleDisplayNames
+GereesGRterritorieslocaleDisplayNames
+OnnduraasHNterritorieslocaleDisplayNames
+See Weesaa e GarnadiinVCterritorieslocaleDisplayNames
+PalawuPWterritorieslocaleDisplayNames
+SiiparCYterritorieslocaleDisplayNames
+LiksembuurLUterritorieslocaleDisplayNames
+LincenstaynLIterritorieslocaleDisplayNames
+NiuweNUterritorieslocaleDisplayNames
+SinngapuurSGterritorieslocaleDisplayNames
+SeyselSCterritorieslocaleDisplayNames
+NorweesNOterritorieslocaleDisplayNames
+MikoronesiiFMterritorieslocaleDisplayNames
+MiyamaarMMterritorieslocaleDisplayNames
+BulgariiBGterritorieslocaleDisplayNames
+Nuwel SelanndaNZterritorieslocaleDisplayNames
+WanuwaatuuVUterritorieslocaleDisplayNames
+RiisiiRUterritorieslocaleDisplayNames
+PanamaaPAterritorieslocaleDisplayNames
+LiberiyaaLRterritorieslocaleDisplayNames
+MarukMAterritorieslocaleDisplayNames
+IraakIQterritorieslocaleDisplayNames
+TurkmenistaanTMterritorieslocaleDisplayNames
+Walis e FutunaWFterritorieslocaleDisplayNames
+Duuɗe MarsaalMHterritorieslocaleDisplayNames
+WiyetnaamVNterritorieslocaleDisplayNames
+Burkibaa FaasoBFterritorieslocaleDisplayNames
+PoloñPLterritorieslocaleDisplayNames
+SiinCNterritorieslocaleDisplayNames
+GwaadalupGPterritorieslocaleDisplayNames
+UkereenUAterritorieslocaleDisplayNames
+SimbaabuweZWterritorieslocaleDisplayNames
+KataarQAterritorieslocaleDisplayNames
+NijeriyaaNGterritorieslocaleDisplayNames
+Duuɗe Mariyaana RewoMPterritorieslocaleDisplayNames
+PurtugaalPTterritorieslocaleDisplayNames
+LetoniiLVterritorieslocaleDisplayNames
+JamaykaJMterritorieslocaleDisplayNames
+KiribariKIterritorieslocaleDisplayNames
+Duuɗe KuukCKterritorieslocaleDisplayNames
+Laamateeri RentundiGBterritorieslocaleDisplayNames
+JibraltaarGIterritorieslocaleDisplayNames
+Ginee EkuwaatoriyaalGQterritorieslocaleDisplayNames
+OnngiriHUterritorieslocaleDisplayNames
+TunisiiTNterritorieslocaleDisplayNames
+SammbiZMterritorieslocaleDisplayNames
+Dowla WaticaanVAterritorieslocaleDisplayNames
+ParaguwaayPYterritorieslocaleDisplayNames
+Arabii SawditSAterritorieslocaleDisplayNames
+See Piyeer e MikelooPMterritorieslocaleDisplayNames
+Ndenndaandi SantarafrikCFterritorieslocaleDisplayNames
+NamibiiNAterritorieslocaleDisplayNames
+EkuwatoorECterritorieslocaleDisplayNames
+BurnaayBNterritorieslocaleDisplayNames
+JeorgiiGEterritorieslocaleDisplayNames
+Keeriindi britaani to maayo enndoIOterritorieslocaleDisplayNames
+SwaasilanndaSZterritorieslocaleDisplayNames
+Duuɗe KaymaaKYterritorieslocaleDisplayNames
+Porto RikooPRterritorieslocaleDisplayNames
+KomoorKMterritorieslocaleDisplayNames
+ArmeniiAMterritorieslocaleDisplayNames
+Duuɗe Kap WeerCVterritorieslocaleDisplayNames
+Kosta RikaaCRterritorieslocaleDisplayNames
+Antiguwaa e BarbudaaAGterritorieslocaleDisplayNames
+Polinesii FaraysePFterritorieslocaleDisplayNames
+AjerbayjaanAZterritorieslocaleDisplayNames
+AnndooraADterritorieslocaleDisplayNames
+EritereeERterritorieslocaleDisplayNames
+KambodsoKHterritorieslocaleDisplayNames
+Afrik bŋ WorgoZAterritorieslocaleDisplayNames
+FilipiinPHterritorieslocaleDisplayNames
+LibaaLBterritorieslocaleDisplayNames
+Duuɗe Turke e KeikoosTCterritorieslocaleDisplayNames
+Timoor FuɗnaangeTLterritorieslocaleDisplayNames
+KameruunCMterritorieslocaleDisplayNames
+See MareeSMterritorieslocaleDisplayNames
+LibiLYterritorieslocaleDisplayNames
+LituaaniiLTterritorieslocaleDisplayNames
+Koree WorgoKRterritorieslocaleDisplayNames
+FarayseFRterritorieslocaleDisplayNames
+GarnaadGDterritorieslocaleDisplayNames
+Dowlaaji Dentuɗi AmerikUSterritorieslocaleDisplayNames
+SamowaaWSterritorieslocaleDisplayNames
+AlmaañDEterritorieslocaleDisplayNames
+NawuruNRterritorieslocaleDisplayNames
+BotswaanaBWterritorieslocaleDisplayNames
+KorwasiiHRterritorieslocaleDisplayNames
+EnndoINterritorieslocaleDisplayNames
+BoliwiiBOterritorieslocaleDisplayNames
+SlowakiiSKterritorieslocaleDisplayNames
+TuwaluuTVterritorieslocaleDisplayNames
+RuwanndaaRWterritorieslocaleDisplayNames
+MuritaniMRterritorieslocaleDisplayNames
+IslanndaISterritorieslocaleDisplayNames
+LawoosLAterritorieslocaleDisplayNames
+CiliiCLterritorieslocaleDisplayNames
+HaytiiHTterritorieslocaleDisplayNames
+Duuɗe Kecce AmerikVIterritorieslocaleDisplayNames
+TurkiiTRterritorieslocaleDisplayNames
+UsbekistaanUZterritorieslocaleDisplayNames
+Duuɗe SolomonSBterritorieslocaleDisplayNames
+TajikistaanTJterritorieslocaleDisplayNames
+Nuwel KaledoniiNCterritorieslocaleDisplayNames
+Ndenndaandi CekCZterritorieslocaleDisplayNames
+BarbadoosBBterritorieslocaleDisplayNames
+Israa’iilaILterritorieslocaleDisplayNames
+GuwamGUterritorieslocaleDisplayNames
+BermudaaBMterritorieslocaleDisplayNames
+TonngaaTOterritorieslocaleDisplayNames
+MalesiiMYterritorieslocaleDisplayNames
+MaaliMLterritorieslocaleDisplayNames
+Sent Kits e NewisKNterritorieslocaleDisplayNames
+KolombiyaCOterritorieslocaleDisplayNames
+Ndenndaandi Demokaraasiire KonngoCDterritorieslocaleDisplayNames
+ButaanBTterritorieslocaleDisplayNames
+BeneeBJterritorieslocaleDisplayNames
+AruubaAWterritorieslocaleDisplayNames
+Emiraat Araab DenntuɗeAEterritorieslocaleDisplayNames
+MeksikMXterritorieslocaleDisplayNames
+SomaliiSOterritorieslocaleDisplayNames
+MalteMTterritorieslocaleDisplayNames
+KasakstaanKZterritorieslocaleDisplayNames
+MonngoliiMNterritorieslocaleDisplayNames
+UnganndaaUGterritorieslocaleDisplayNames
+TansaniiTZterritorieslocaleDisplayNames
+FijjiFJterritorieslocaleDisplayNames
+EspaañESterritorieslocaleDisplayNames
+#,##0.00 ¤standardstandardlatncurrencyFormatsnumbers
+0M ¤1000000shortlatncurrencyFormatsnumbers
+000T ¤100000000000000shortlatncurrencyFormatsnumbers
+0G ¤1000000000shortlatncurrencyFormatsnumbers
+000M ¤100000000shortlatncurrencyFormatsnumbers
+00G ¤10000000000shortlatncurrencyFormatsnumbers
+00M ¤10000000shortlatncurrencyFormatsnumbers
+000G ¤100000000000shortlatncurrencyFormatsnumbers
+00K ¤10000shortlatncurrencyFormatsnumbers
+000K ¤100000shortlatncurrencyFormatsnumbers
+00T ¤10000000000000shortlatncurrencyFormatsnumbers
+0T ¤1000000000000shortlatncurrencyFormatsnumbers
+0K ¤1000shortlatncurrencyFormatsnumbers
+ grouplatnsymbolsnumbers
+,decimallatnsymbolsnumbers

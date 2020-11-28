@@ -4,8 +4,8 @@ use Intl::CLDR::Classes::Calendar;
 
 class CLDR-Language is CLDR-Item is export {
   has $!parent;
-  has $.calendars;
-#  has $.calendars;
+  has CLDR-Calendars $.calendars;
+  has CLDR-Dates     $.dates;
 #  has $.character-labels;
 #  has $.delimiters;
 #  has $.list-patterns;
@@ -22,21 +22,23 @@ class CLDR-Language is CLDR-Item is export {
 
   submethod !bind-init ($parent) {
       $!parent = $parent;
-      self.Hash::BIND-KEY: 'calendars',          $!calendars;
+      self.Hash::BIND-KEY: 'calendars',          $!calendars; # Maintain this link until end of 2021
+      self.Hash::BIND-KEY: 'dates',              $!dates;
       #`<<<< Uncomment out as attributes are handled specially
-      #self.Hash::BIND-KEY: 'characters',         $!calendars;
-      #self.Hash::BIND-KEY: 'characterLabels',    $!character-labels;
-      #self.Hash::BIND-KEY: 'delimiters',         $!delimiters;
-      #self.Hash::BIND-KEY: 'listPatterns',       $!list-patterns;
-      #self.Hash::BIND-KEY: 'localeDisplayNames', $!locale-display-names;
-      #self.Hash::BIND-KEY: 'numbers',            $!calendars;
-      #self.Hash::BIND-KEY: 'typographicNames',   $!typographic-names;
-      #self.Hash::BIND-KEY: 'units',              $!units;
+      self.Hash::BIND-KEY: 'characters',         $!calendars;
+      self.Hash::BIND-KEY: 'characterLabels',    $!character-labels;
+      self.Hash::BIND-KEY: 'delimiters',         $!delimiters;
+      self.Hash::BIND-KEY: 'listPatterns',       $!list-patterns;
+      self.Hash::BIND-KEY: 'localeDisplayNames', $!locale-display-names;
+      self.Hash::BIND-KEY: 'numbers',            $!calendars;
+      self.Hash::BIND-KEY: 'typographicNames',   $!typographic-names;
+      self.Hash::BIND-KEY: 'units',              $!units;
       >>>>
       self;
   }
 
   method ADD-TO-DATABASE (@branch, $offset = @branch - 1) {
+      # This shouldn't really ever happen
       self.Hash::ASSIGN-KEY: @branch[1], @branch[0]
           andthen return if $offset == 1;
 
@@ -44,6 +46,7 @@ class CLDR-Language is CLDR-Item is export {
       unless self.Hash::AT-KEY($key) {
           given $key {
               when 'calendars' { $!calendars = CLDR-Calendars.new: self }
+              when 'dates'     { $!dates     = CLDR-Dates.new:     self }
               default          { self.Hash::ASSIGN-KEY: $key, CLDR-Item.new }
           }
       }
@@ -55,7 +58,7 @@ class CLDR-Language is CLDR-Item is export {
   multi method ADD-TO-DATABASE (+@branch where * > 2) {
     unless self.Hash::AT-KEY(@branch.head) {
       given @branch.head {
-        when 'calendars' { $!calendars = CLDR-Calendars.new(self) }
+        when 'calendars' { $!calendars = CLDR-Calendars.new(self) }
         default          { self.Hash::ASSIGN-KEY: @branch.head, CLDR-Item.new }
       }
     }

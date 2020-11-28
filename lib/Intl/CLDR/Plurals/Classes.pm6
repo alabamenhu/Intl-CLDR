@@ -6,10 +6,10 @@ class NumExt is export {
   has $.w; # count of visible fraction digits, without trailing zeros
   has $.f; # visible fraction digits
   has $.t; # visible fractional digits without trailing zeros
-  proto method new(|c) { * }
+  proto method new(|c) { * }
   multi method new(Numeric $original) { samewith $original.Str }
   multi method new(Str     $original) {
-    $original ~~ /^
+    $original ~~ /^
       ('-'?)         # negative marker [0]
       ('0'*)         # leading zeros [1]
       (<[0..9]>+)    # one or more integer values [2]
@@ -28,7 +28,7 @@ class NumExt is export {
       $t = $4.Str;
       $v = $f.chars;
       $w = $t.chars;
-    } else { # no integer value
+    } else { # no integer value
       ($f, $t, $v, $w) = 0 xx 4;
     }
     self.bless(:$original, :$n, :$i, :$f, :$t, :$v, :$w);
@@ -39,19 +39,19 @@ class NumExt is export {
 
 grammar Plural is export {
   # Rules found at http://unicode.org/reports/tr35/tr35-numbers.html#Language_Plural_Rules
-  rule  TOP             { <count> ':' <condition> <samples> }
-  token count           { 'one' || 'two' || 'few' || 'many' || 'zero' }
+  rule  TOP             { <count> ':' <condition> <samples> }
+  token count           { 'one' || 'two' || 'few' || 'many' || 'zero' }
   rule  condition       { <and>+ % 'or' }
   rule  and             { <relation>+ % 'and' }
   rule  relation        { <is-relation> || <in-relation> || <within-relation> }
   rule  is-relation     { <expr> 'is' ('not'?) 'in' <value> }
   rule  in-relation     { <expr> ('not in' || 'in' || '=' || '!=') <range-list> }
-  rule  within-relation { <expr>  ('not')? 'within' <range-list> }
+  rule  within-relation { <expr>  ('not')? 'within' <range-list> }
   rule  expr            { <operand> (('mod' | '%') <value>)? }
   token operand         { <[niftvw]> }
   rule  range-list      { (<range> || <value>)* % ',' }
-  token range           { <value> '..' <value> }
-  token value           { <[0..9]>+ }
+  token range           { <value> '..' <value> }
+  token value           { <[0..9]>+ }
   token decimal-value   { <value> ('.' <value>)? }
   rule  samples         { (('@integer') <sample-list>)? (('@decimal') <sample-list>)? }
   rule  sample-list     { <sample-range>+ % ',' (',' ('…'||'...'))? }
@@ -107,19 +107,19 @@ class Logic::Operand {
   has $.type;
   method value ($x) {
     given $.type {
-      when 'n' { $x.n }
-      when 'i' { $x.i }
-      when 'v' { $x.v }
-      when 'w' { $x.w }
-      when 'f' { $x.f }
-      when 't' { $x.t }
+      when 'n' { $x.n }
+      when 'i' { $x.i }
+      when 'v' { $x.v }
+      when 'w' { $x.w }
+      when 'f' { $x.f }
+      when 't' { $x.t }
     }
   }
 }
 class Logic::SingleValue {
   has $.value;
   method equals(  $x) { $.value == $x }
-  method in-range($x) { $.value == $x }
+  method in-range($x) { $.value == $x }
 }
 class Logic::RangeValue {
   has Range $.value;
@@ -127,7 +127,7 @@ class Logic::RangeValue {
   method in-range($x) { $x ∈ $.value}
 }
 
-class PluralAction is export { 
+class PluralAction is export {
   method TOP ($/) {
     my $condition = $<condition>.made;
     $condition.set-count($<count>.Str);
@@ -175,6 +175,6 @@ class PluralAction is export { 
 	  my @ranges = $0.grep({$_{"range"} :exists}).map(*<range>.made);
 	  make (|@values, |@ranges);
   }
-  method range ($/) { make Logic::RangeValue.new( value => $<value>[0].Str.Int..$<value>[1].Str.Int ) }
+  method range ($/) { make Logic::RangeValue.new( value => $<value>[0].Str.Int..$<value>[1].Str.Int ) }
   method value ($/) { make Logic::SingleValue.new( value => $/.Str ) }
 }

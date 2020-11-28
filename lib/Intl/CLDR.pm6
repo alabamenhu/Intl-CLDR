@@ -83,7 +83,7 @@ sub cldr-data-for-lang(Str() $tag) is export {
     last with %data{$language};
     try {
       quietly { # The .extension test will generate a warning
-        if %?RESOURCES{"languages/{$language}.data"}.extension { # this is the quick way to test to see if the file exists
+        if %?RESOURCES{"languages2/{$language}.data"}.extension { # this is the quick way to test to see if the file exists
           %data{$language} := load-data($language);
           last;
         }
@@ -94,7 +94,7 @@ sub cldr-data-for-lang(Str() $tag) is export {
 
   # If no subtags were left after peeling, there is no CLDR data for the language.
   # The data for 'root' is used instead.  Sad days.
-  my $language = @subtags ?? @subtags.join('-') !! 'root';
+  my $language = @subtags.join('-') || 'root';
 
   # If the loaded data doesn't match the request tag, bind the two together 
   # so that future requests can be made instantaneously.
@@ -110,15 +110,14 @@ sub load-data($tag) {
 
   my %h := CLDR-Language.new;
 
-  for %?RESOURCES{"languages/{$tag}.data"}.lines {
-     #%h.ADD-TO-DATABASE: $_.split(sep);         # BigEndian load
-      %h.ADD-TO-DATABASE: $_.split(sep).reverse; # SmallEndian load
+  for %?RESOURCES{"languages2/{$tag}.data"}.lines {
+     %h.ADD-TO-DATABASE: $_.split(sep);         # Must be SmallEndian when split
   }
 
   # Once again, try and quietly are necessary here to avoid error and/or visible
   # warning if there are no aliases for the language.
-  try { quietly {
-    my @aliases = %?RESOURCES{"languages/aliases/{$tag}.data"}.lines;
+  try { quietly {
+    my @aliases = %?RESOURCES{"languages2/aliases/{$tag}.data"}.lines;
     my $test-count = 0;
 
     while @aliases {

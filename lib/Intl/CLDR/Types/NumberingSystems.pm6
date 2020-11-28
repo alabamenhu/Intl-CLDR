@@ -1,0 +1,58 @@
+use Intl::CLDR::Immutability;
+
+unit class CLDR-NumberingSystems is CLDR-Item;
+
+has $!parent;
+
+has Str $.default;
+has Str $.native;
+has Str $.traditional;
+has Str $.financial;
+
+
+#| Creates a new CLDR-DayPeriodContext object
+method new(|c) {
+    self.bless!bind-init: |c;
+}
+
+submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
+    $!parent := parent;
+
+    self.Hash::BIND-KEY: 'default',     $!default;
+    self.Hash::BIND-KEY: 'native',      $!native;
+    self.Hash::BIND-KEY: 'traditional', $!traditional;
+    self.Hash::BIND-KEY: 'financial',   $!financial;
+
+    use Intl::CLDR::Classes::StrDecode;
+
+    $!default     = StrDecode::get(blob, $offset);
+    $!native      = StrDecode::get(blob, $offset);
+    $!traditional = StrDecode::get(blob, $offset);
+    $!financial   = StrDecode::get(blob, $offset);
+
+    self
+}
+
+
+##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+method encode(%*numbering-systems) {
+    my $result = buf8.new;
+
+    use Intl::CLDR::Classes::StrEncode;
+
+    $result ~= StrEncode::get(                                    %*numbering-systems<default> // 'latn');
+    $result ~= StrEncode::get(%*numbering-systems<native>      // %*numbering-systems<default> // 'latn');
+    $result ~= StrEncode::get(%*numbering-systems<traditional> // %*numbering-systems<default> // 'latn');
+    $result ~= StrEncode::get(%*numbering-systems<financial>   // %*numbering-systems<default> // 'latn');
+
+    $result
+}
+method parse(\base, \xml-default, \xml-others) {
+    # the xml passed here is just the <numbers> main element, since we combine two subelements
+    use Intl::CLDR::Util::XML-Helper;
+    base<default>     = contents $_ with xml-default; # I suppose this might not be defined for some reason
+    base<native>      = contents $_ with xml-others.&elem('native');
+    base<traditional> = contents $_ with xml-others.&elem('traditional');
+    base<financial>   = contents $_ with xml-others.&elem('financial');
+}
+#>>>>> # GENERATOR

@@ -1,0 +1,2330 @@
+{0} {1}startlistPatternsunit-narrow
+{0} {1}endlistPatternsunit-narrow
+{0} {1}2listPatternsunit-narrow
+{0} {1}middlelistPatternsunit-narrow
+{0}, {1}middlelistPatternsstandard
+{0} និង​{1}2listPatternsstandard
+{0} និង {1}endlistPatternsstandard
+{0}, {1}startlistPatternsstandard
+{0}, {1}startlistPatternsor
+{0} ឬ {1}endlistPatternsor
+{0}, {1}middlelistPatternsor
+{0} ឬ {1}2listPatternsor
+{0} {1}middlelistPatternsunit-short
+{0} {1}2listPatternsunit-short
+{0} {1}endlistPatternsunit-short
+{0} {1}startlistPatternsunit-short
+{0} {1}startlistPatternsunit
+{0} {1}endlistPatternsunit
+{0} {1}middlelistPatternsunit
+{0} {1}2listPatternsunit
+E dd MMM y – E dd MMM ydcalendarsgregorianintervalFormatsyMMMEd
+E dd MMM y – E dd MMM yMcalendarsgregorianintervalFormatsyMMMEd
+E dd-MM-y – E dd MMM yycalendarsgregorianintervalFormatsyMMMEd
+{0} - {1}standardcalendarsgregorianintervalFormatsstandard
+d – ddcalendarsgregorianintervalFormatsd
+d/M – d/MdcalendarsgregorianintervalFormatsMd
+d/M – d/MMcalendarsgregorianintervalFormatsMd
+M/y – M/yMcalendarsgregorianintervalFormatsyM
+M/y – M/yycalendarsgregorianintervalFormatsyM
+E d MMM – E d MMMdcalendarsgregorianintervalFormatsMMMEd
+E d MMM – E d MMMMcalendarsgregorianintervalFormatsMMMEd
+HH:mm – HH:mm vmcalendarsgregorianintervalFormatsHmv
+HH:mm – HH:mm vHcalendarsgregorianintervalFormatsHmv
+HH – HH vHcalendarsgregorianintervalFormatsHv
+d/M/y – d/M/yycalendarsgregorianintervalFormatsyMd
+d/M/y – d/M/ydcalendarsgregorianintervalFormatsyMd
+d/M/y – d/M/yMcalendarsgregorianintervalFormatsyMd
+h:mm – h:mm a vhcalendarsgregorianintervalFormatshmv
+h:mm – h:mm a vmcalendarsgregorianintervalFormatshmv
+h:mm a – h:mm a vacalendarsgregorianintervalFormatshmv
+h a – h a vacalendarsgregorianintervalFormatshv
+h – h a vhcalendarsgregorianintervalFormatshv
+HH – HHHcalendarsgregorianintervalFormatsH
+MMMM y – MMMM yycalendarsgregorianintervalFormatsyMMMM
+MMMM – MMMM yMcalendarsgregorianintervalFormatsyMMMM
+h:mm – h:mm amcalendarsgregorianintervalFormatshm
+h:mm a – h:mm aacalendarsgregorianintervalFormatshm
+h:mm – h:mm ahcalendarsgregorianintervalFormatshm
+M – MMcalendarsgregorianintervalFormatsM
+E d/M/y – E d/M/yycalendarsgregorianintervalFormatsyMEd
+E d/M/y – E d/M/ydcalendarsgregorianintervalFormatsyMEd
+E d/M/y – E d/M/yMcalendarsgregorianintervalFormatsyMEd
+d – d MMM ydcalendarsgregorianintervalFormatsyMMMd
+d MMM – d MMM yMcalendarsgregorianintervalFormatsyMMMd
+d MMM y – d MMM yycalendarsgregorianintervalFormatsyMMMd
+MMM y – MMM yycalendarsgregorianintervalFormatsyMMM
+MMM–MMM​ yMcalendarsgregorianintervalFormatsyMMM
+MMM – MMMMcalendarsgregorianintervalFormatsMMM
+y – yycalendarsgregorianintervalFormatsy
+d–d MMMdcalendarsgregorianintervalFormatsMMMd
+d MMM – d MMMMcalendarsgregorianintervalFormatsMMMd
+HH:mm – HH:mmmcalendarsgregorianintervalFormatsHm
+HH:mm – HH:mmHcalendarsgregorianintervalFormatsHm
+h a – h aacalendarsgregorianintervalFormatsh
+h – h ahcalendarsgregorianintervalFormatsh
+E d/M – E d/MMcalendarsgregorianintervalFormatsMEd
+E d/M – E d/MdcalendarsgregorianintervalFormatsMEd
+{0} {1}TimezonecalendarsgregorianappendItems
+មិថុនា6calendarsgregorianmonthsstand-aloneabbreviated
+សីហា8calendarsgregorianmonthsstand-aloneabbreviated
+កក្កដា7calendarsgregorianmonthsstand-aloneabbreviated
+ធ្នូ12calendarsgregorianmonthsstand-aloneabbreviated
+វិច្ឆិកា11calendarsgregorianmonthsstand-aloneabbreviated
+កញ្ញា9calendarsgregorianmonthsstand-aloneabbreviated
+មករា1calendarsgregorianmonthsstand-aloneabbreviated
+មីនា3calendarsgregorianmonthsstand-aloneabbreviated
+កុម្ភៈ2calendarsgregorianmonthsstand-aloneabbreviated
+តុលា10calendarsgregorianmonthsstand-aloneabbreviated
+មេសា4calendarsgregorianmonthsstand-aloneabbreviated
+ឧសភា5calendarsgregorianmonthsstand-aloneabbreviated
+ស8calendarsgregorianmonthsstand-alonenarrow
+ម6calendarsgregorianmonthsstand-alonenarrow
+ក7calendarsgregorianmonthsstand-alonenarrow
+ធ12calendarsgregorianmonthsstand-alonenarrow
+ម3calendarsgregorianmonthsstand-alonenarrow
+វ11calendarsgregorianmonthsstand-alonenarrow
+ក9calendarsgregorianmonthsstand-alonenarrow
+ម1calendarsgregorianmonthsstand-alonenarrow
+ក2calendarsgregorianmonthsstand-alonenarrow
+ម4calendarsgregorianmonthsstand-alonenarrow
+ត10calendarsgregorianmonthsstand-alonenarrow
+ឧ5calendarsgregorianmonthsstand-alonenarrow
+កុម្ភៈ2calendarsgregorianmonthsstand-alonewide
+ឧសភា5calendarsgregorianmonthsstand-alonewide
+តុលា10calendarsgregorianmonthsstand-alonewide
+មេសា4calendarsgregorianmonthsstand-alonewide
+វិច្ឆិកា11calendarsgregorianmonthsstand-alonewide
+កញ្ញា9calendarsgregorianmonthsstand-alonewide
+មីនា3calendarsgregorianmonthsstand-alonewide
+មករា1calendarsgregorianmonthsstand-alonewide
+ធ្នូ12calendarsgregorianmonthsstand-alonewide
+មិថុនា6calendarsgregorianmonthsstand-alonewide
+សីហា8calendarsgregorianmonthsstand-alonewide
+កក្កដា7calendarsgregorianmonthsstand-alonewide
+សីហា8calendarsgregorianmonthsformatwide
+មិថុនា6calendarsgregorianmonthsformatwide
+កក្កដា7calendarsgregorianmonthsformatwide
+ធ្នូ12calendarsgregorianmonthsformatwide
+វិច្ឆិកា11calendarsgregorianmonthsformatwide
+មីនា3calendarsgregorianmonthsformatwide
+កញ្ញា9calendarsgregorianmonthsformatwide
+មករា1calendarsgregorianmonthsformatwide
+កុម្ភៈ2calendarsgregorianmonthsformatwide
+តុលា10calendarsgregorianmonthsformatwide
+ឧសភា5calendarsgregorianmonthsformatwide
+មេសា4calendarsgregorianmonthsformatwide
+ក7calendarsgregorianmonthsformatnarrow
+ម6calendarsgregorianmonthsformatnarrow
+ស8calendarsgregorianmonthsformatnarrow
+ធ12calendarsgregorianmonthsformatnarrow
+វ11calendarsgregorianmonthsformatnarrow
+ម1calendarsgregorianmonthsformatnarrow
+ក9calendarsgregorianmonthsformatnarrow
+ម3calendarsgregorianmonthsformatnarrow
+ត10calendarsgregorianmonthsformatnarrow
+ម4calendarsgregorianmonthsformatnarrow
+ឧ5calendarsgregorianmonthsformatnarrow
+ក2calendarsgregorianmonthsformatnarrow
+វិច្ឆិកា11calendarsgregorianmonthsformatabbreviated
+មករា1calendarsgregorianmonthsformatabbreviated
+កញ្ញា9calendarsgregorianmonthsformatabbreviated
+មីនា3calendarsgregorianmonthsformatabbreviated
+កុម្ភៈ2calendarsgregorianmonthsformatabbreviated
+តុលា10calendarsgregorianmonthsformatabbreviated
+ឧសភា5calendarsgregorianmonthsformatabbreviated
+មេសា4calendarsgregorianmonthsformatabbreviated
+សីហា8calendarsgregorianmonthsformatabbreviated
+មិថុនា6calendarsgregorianmonthsformatabbreviated
+កក្កដា7calendarsgregorianmonthsformatabbreviated
+ធ្នូ12calendarsgregorianmonthsformatabbreviated
+ត្រីមាសទី 44calendarsgregorianquartersformatabbreviated
+ត្រីមាសទី 22calendarsgregorianquartersformatabbreviated
+ត្រីមាសទី 33calendarsgregorianquartersformatabbreviated
+ត្រីមាសទី 11calendarsgregorianquartersformatabbreviated
+44calendarsgregorianquartersformatnarrow
+22calendarsgregorianquartersformatnarrow
+33calendarsgregorianquartersformatnarrow
+11calendarsgregorianquartersformatnarrow
+ត្រីមាសទី 44calendarsgregorianquartersformatwide
+ត្រីមាសទី 22calendarsgregorianquartersformatwide
+ត្រីមាសទី 33calendarsgregorianquartersformatwide
+ត្រីមាសទី 11calendarsgregorianquartersformatwide
+33calendarsgregorianquartersstand-alonenarrow
+11calendarsgregorianquartersstand-alonenarrow
+22calendarsgregorianquartersstand-alonenarrow
+44calendarsgregorianquartersstand-alonenarrow
+ត្រីមាសទី 22calendarsgregorianquartersstand-aloneabbreviated
+ត្រីមាសទី 44calendarsgregorianquartersstand-aloneabbreviated
+ត្រីមាសទី 33calendarsgregorianquartersstand-aloneabbreviated
+ត្រីមាសទី 11calendarsgregorianquartersstand-aloneabbreviated
+ត្រីមាសទី 33calendarsgregorianquartersstand-alonewide
+ត្រីមាសទី 11calendarsgregorianquartersstand-alonewide
+ត្រីមាសទី 44calendarsgregorianquartersstand-alonewide
+ត្រីមាសទី 22calendarsgregorianquartersstand-alonewide
+CE1calendarsgregorianeraseraNames
+BCE0calendarsgregorianeraseraNames
+CE1calendarsgregorianeraseraAbbr
+BCE0calendarsgregorianeraseraAbbr
+អtuecalendarsgregoriandaysstand-aloneshort
+សsatcalendarsgregoriandaysstand-aloneshort
+អាsuncalendarsgregoriandaysstand-aloneshort
+សុfricalendarsgregoriandaysstand-aloneshort
+ពុwedcalendarsgregoriandaysstand-aloneshort
+ចmoncalendarsgregoriandaysstand-aloneshort
+ព្រthucalendarsgregoriandaysstand-aloneshort
+អង្គារtuecalendarsgregoriandaysstand-alonewide
+សៅរ៍satcalendarsgregoriandaysstand-alonewide
+អាទិត្យsuncalendarsgregoriandaysstand-alonewide
+ពុធwedcalendarsgregoriandaysstand-alonewide
+សុក្រfricalendarsgregoriandaysstand-alonewide
+ព្រហស្បតិ៍thucalendarsgregoriandaysstand-alonewide
+ចន្ទmoncalendarsgregoriandaysstand-alonewide
+សfricalendarsgregoriandaysstand-alonenarrow
+ពwedcalendarsgregoriandaysstand-alonenarrow
+សsatcalendarsgregoriandaysstand-alonenarrow
+អsuncalendarsgregoriandaysstand-alonenarrow
+អtuecalendarsgregoriandaysstand-alonenarrow
+ពthucalendarsgregoriandaysstand-alonenarrow
+ចmoncalendarsgregoriandaysstand-alonenarrow
+សុក្រfricalendarsgregoriandaysstand-aloneabbreviated
+ពុធwedcalendarsgregoriandaysstand-aloneabbreviated
+សៅរ៍satcalendarsgregoriandaysstand-aloneabbreviated
+អង្គារtuecalendarsgregoriandaysstand-aloneabbreviated
+អាទិត្យsuncalendarsgregoriandaysstand-aloneabbreviated
+ចន្ទmoncalendarsgregoriandaysstand-aloneabbreviated
+ព្រហthucalendarsgregoriandaysstand-aloneabbreviated
+ព្រហស្បតិ៍thucalendarsgregoriandaysformatwide
+ច័ន្ទmoncalendarsgregoriandaysformatwide
+អង្គារtuecalendarsgregoriandaysformatwide
+សៅរ៍satcalendarsgregoriandaysformatwide
+អាទិត្យsuncalendarsgregoriandaysformatwide
+ពុធwedcalendarsgregoriandaysformatwide
+សុក្រfricalendarsgregoriandaysformatwide
+អtuecalendarsgregoriandaysformatshort
+សsatcalendarsgregoriandaysformatshort
+អាsuncalendarsgregoriandaysformatshort
+សុfricalendarsgregoriandaysformatshort
+ពុwedcalendarsgregoriandaysformatshort
+ព្រthucalendarsgregoriandaysformatshort
+ចmoncalendarsgregoriandaysformatshort
+ចន្ទmoncalendarsgregoriandaysformatabbreviated
+ព្រហthucalendarsgregoriandaysformatabbreviated
+សុក្រfricalendarsgregoriandaysformatabbreviated
+ពុធwedcalendarsgregoriandaysformatabbreviated
+សៅរ៍satcalendarsgregoriandaysformatabbreviated
+អាទិត្យsuncalendarsgregoriandaysformatabbreviated
+អង្គារtuecalendarsgregoriandaysformatabbreviated
+សfricalendarsgregoriandaysformatnarrow
+ពwedcalendarsgregoriandaysformatnarrow
+សsatcalendarsgregoriandaysformatnarrow
+អtuecalendarsgregoriandaysformatnarrow
+អsuncalendarsgregoriandaysformatnarrow
+ចmoncalendarsgregoriandaysformatnarrow
+ពthucalendarsgregoriandaysformatnarrow
+cccEcalendarsgregorianavailableFormats
+QQQQ yyQQQQcalendarsgregorianavailableFormats
+ddcalendarsgregorianavailableFormats
+E d MMM yyMMMEdcalendarsgregorianavailableFormats
+E h:mm:ss BEBhmscalendarsgregorianavailableFormats
+mm:ssmscalendarsgregorianavailableFormats
+h:mm:ss a vhmsvcalendarsgregorianavailableFormats
+E d MMMMMMEdcalendarsgregorianavailableFormats
+M/yyMcalendarsgregorianavailableFormats
+HH:mm:ssHmscalendarsgregorianavailableFormats
+HH:mm vHmvcalendarsgregorianavailableFormats
+d/MMdcalendarsgregorianavailableFormats
+h:mm BBhmcalendarsgregorianavailableFormats
+E d MMM y GGyMMMEdcalendarsgregorianavailableFormats
+d/M/yyMdcalendarsgregorianavailableFormats
+HHHcalendarsgregorianavailableFormats
+E h:mm BEBhmcalendarsgregorianavailableFormats
+E h:mm aEhmcalendarsgregorianavailableFormats
+h:mm a vhmvcalendarsgregorianavailableFormats
+សប្តាហ៍ទី w នៃឆ្នាំ YywcalendarsgregorianavailableFormats
+h:mm ahmcalendarsgregorianavailableFormats
+MMMM yyMMMMcalendarsgregorianavailableFormats
+LMcalendarsgregorianavailableFormats
+HH:mm:ss vHmsvcalendarsgregorianavailableFormats
+MMMM dMMMMdcalendarsgregorianavailableFormats
+h:mm:ss ahmscalendarsgregorianavailableFormats
+សប្តាហ៍ទី W នៃខែ MMMMMMMWcalendarsgregorianavailableFormats
+MMM yyMMMcalendarsgregorianavailableFormats
+d MMM yyMMMdcalendarsgregorianavailableFormats
+yycalendarsgregorianavailableFormats
+E h:mm:ss aEhmscalendarsgregorianavailableFormats
+y GGycalendarsgregorianavailableFormats
+LLLMMMcalendarsgregorianavailableFormats
+E d/M/yyMEdcalendarsgregorianavailableFormats
+E HH:mmEHmcalendarsgregorianavailableFormats
+E HH:mm:ssEHmscalendarsgregorianavailableFormats
+d EEdcalendarsgregorianavailableFormats
+d MMMMMMdcalendarsgregorianavailableFormats
+d MMM y GGyMMMdcalendarsgregorianavailableFormats
+h BBhcalendarsgregorianavailableFormats
+HH:mmHmcalendarsgregorianavailableFormats
+h ahcalendarsgregorianavailableFormats
+QQQ yyQQQcalendarsgregorianavailableFormats
+MMM y GGyMMMcalendarsgregorianavailableFormats
+E d/MMEdcalendarsgregorianavailableFormats
+h:mm:ss BBhmscalendarsgregorianavailableFormats
+h:mm:ss a zzzzstandardcalendarsgregoriantimeFormatsfull
+h:mm:ss astandardcalendarsgregoriantimeFormatsmedium
+h:mm:ss a zstandardcalendarsgregoriantimeFormatslong
+h:mm astandardcalendarsgregoriantimeFormatsshort
+{1} នៅ​ម៉ោង {0}fullcalendarsgregoriandateTimeFormats
+{1}, {0}shortcalendarsgregoriandateTimeFormats
+{1}, {0}mediumcalendarsgregoriandateTimeFormats
+{1} នៅ​ម៉ោង {0}longcalendarsgregoriandateTimeFormats
+នៅពេលរសៀលafternoon1calendarsgregoriandayPeriodsformatwide
+ថ្ងៃត្រង់nooncalendarsgregoriandayPeriodsformatwide
+នៅពេល​យប់night1calendarsgregoriandayPeriodsformatwide
+នៅពេល​ល្ងាចevening1calendarsgregoriandayPeriodsformatwide
+នៅពេល​ព្រឹកmorning1calendarsgregoriandayPeriodsformatwide
+PMpmcalendarsgregoriandayPeriodsformatwide
+AMamcalendarsgregoriandayPeriodsformatwide
+អធ្រាត្រmidnightcalendarsgregoriandayPeriodsformatwide
+ថ្ងៃត្រង់nooncalendarsgregoriandayPeriodsformatabbreviated
+នៅពេលរសៀលafternoon1calendarsgregoriandayPeriodsformatabbreviated
+នៅពេល​ព្រឹកmorning1calendarsgregoriandayPeriodsformatabbreviated
+នៅពេល​ល្ងាចevening1calendarsgregoriandayPeriodsformatabbreviated
+នៅពេល​យប់night1calendarsgregoriandayPeriodsformatabbreviated
+AMamcalendarsgregoriandayPeriodsformatabbreviated
+PMpmcalendarsgregoriandayPeriodsformatabbreviated
+អធ្រាត្រmidnightcalendarsgregoriandayPeriodsformatabbreviated
+ppmcalendarsgregoriandayPeriodsformatnarrow
+aamcalendarsgregoriandayPeriodsformatnarrow
+អធ្រាត្រmidnightcalendarsgregoriandayPeriodsformatnarrow
+នៅពេលរសៀលafternoon1calendarsgregoriandayPeriodsformatnarrow
+ថ្ងៃត្រង់nooncalendarsgregoriandayPeriodsformatnarrow
+នៅពេល​ល្ងាចevening1calendarsgregoriandayPeriodsformatnarrow
+នៅពេល​យប់night1calendarsgregoriandayPeriodsformatnarrow
+នៅពេល​ព្រឹកmorning1calendarsgregoriandayPeriodsformatnarrow
+ថ្ងៃ​ត្រង់nooncalendarsgregoriandayPeriodsstand-aloneabbreviated
+រសៀលafternoon1calendarsgregoriandayPeriodsstand-aloneabbreviated
+ព្រឹកmorning1calendarsgregoriandayPeriodsstand-aloneabbreviated
+យប់night1calendarsgregoriandayPeriodsstand-aloneabbreviated
+ល្ងាចevening1calendarsgregoriandayPeriodsstand-aloneabbreviated
+AMamcalendarsgregoriandayPeriodsstand-aloneabbreviated
+PMpmcalendarsgregoriandayPeriodsstand-aloneabbreviated
+អធ្រាត្រmidnightcalendarsgregoriandayPeriodsstand-aloneabbreviated
+រសៀលafternoon1calendarsgregoriandayPeriodsstand-alonenarrow
+ថ្ងៃ​ត្រង់nooncalendarsgregoriandayPeriodsstand-alonenarrow
+ល្ងាចevening1calendarsgregoriandayPeriodsstand-alonenarrow
+យប់night1calendarsgregoriandayPeriodsstand-alonenarrow
+ព្រឹកmorning1calendarsgregoriandayPeriodsstand-alonenarrow
+PMpmcalendarsgregoriandayPeriodsstand-alonenarrow
+AMamcalendarsgregoriandayPeriodsstand-alonenarrow
+អធ្រាត្រmidnightcalendarsgregoriandayPeriodsstand-alonenarrow
+AMamcalendarsgregoriandayPeriodsstand-alonewide
+PMpmcalendarsgregoriandayPeriodsstand-alonewide
+អធ្រាត្រmidnightcalendarsgregoriandayPeriodsstand-alonewide
+ថ្ងៃ​ត្រង់nooncalendarsgregoriandayPeriodsstand-alonewide
+រសៀលafternoon1calendarsgregoriandayPeriodsstand-alonewide
+ព្រឹកmorning1calendarsgregoriandayPeriodsstand-alonewide
+ល្ងាចevening1calendarsgregoriandayPeriodsstand-alonewide
+យប់night1calendarsgregoriandayPeriodsstand-alonewide
+d MMMM ystandardcalendarsgregoriandateFormatslong
+d MMM ystandardcalendarsgregoriandateFormatsmedium
+d/M/yystandardcalendarsgregoriandateFormatsshort
+EEEE d MMMM ystandardcalendarsgregoriandateFormatsfull
+d/M – d/MdcalendarsgenericintervalFormatsMd
+d/M – d/MMcalendarsgenericintervalFormatsMd
+M/y – M/y GGGGGMcalendarsgenericintervalFormatsyM
+M/y – M/y GGGGGycalendarsgenericintervalFormatsyM
+E, d MMM – E, d MMMdcalendarsgenericintervalFormatsMMMEd
+E, d MMM – E, d MMMMcalendarsgenericintervalFormatsMMMEd
+H:mm–H:mm vHcalendarsgenericintervalFormatsHmv
+H:mm–H:mm vmcalendarsgenericintervalFormatsHmv
+E, d MMM, y – E, d MMM, y GycalendarsgenericintervalFormatsyMMMEd
+E, d MMM – E, d MMM, y GMcalendarsgenericintervalFormatsyMMMEd
+E, d MMM – E, d MMM, y GdcalendarsgenericintervalFormatsyMMMEd
+d – ddcalendarsgenericintervalFormatsd
+{0} - {1}standardcalendarsgenericintervalFormatsstandard
+MMMM y – MMMM y GycalendarsgenericintervalFormatsyMMMM
+MMMM – MMMM y GMcalendarsgenericintervalFormatsyMMMM
+h:mm a – h:mm aacalendarsgenericintervalFormatshm
+h:mm–h:mm amcalendarsgenericintervalFormatshm
+h:mm–h:mm ahcalendarsgenericintervalFormatshm
+M – MMcalendarsgenericintervalFormatsM
+H–H vHcalendarsgenericintervalFormatsHv
+d/M/y – d/M/y GGGGGycalendarsgenericintervalFormatsyMd
+d/M/y – d/M/y GGGGGMcalendarsgenericintervalFormatsyMd
+d/M/y – d/M/y GdcalendarsgenericintervalFormatsyMd
+H–HHcalendarsgenericintervalFormatsH
+h a – h a vacalendarsgenericintervalFormatshv
+h–h a vhcalendarsgenericintervalFormatshv
+h:mm–h:mm a vhcalendarsgenericintervalFormatshmv
+h:mm–h:mm a vmcalendarsgenericintervalFormatshmv
+h:mm a – h:mm a vacalendarsgenericintervalFormatshmv
+d MMM, y – d MMM, y GycalendarsgenericintervalFormatsyMMMd
+d–d MMM y GdcalendarsgenericintervalFormatsyMMMd
+MMM d – MMM d, y GMcalendarsgenericintervalFormatsyMMMd
+y – y GycalendarsgenericintervalFormatsy
+MMM – MMM y GMcalendarsgenericintervalFormatsyMMM
+MM-y – MM-y GycalendarsgenericintervalFormatsyMMM
+E, d/M/y – E, d/M/y GGGGGdcalendarsgenericintervalFormatsyMEd
+E, d/M/y – E, d/M/y GGGGGMcalendarsgenericintervalFormatsyMEd
+E, d/M/y – E, d/M/y GGGGGycalendarsgenericintervalFormatsyMEd
+MMM – MMMMcalendarsgenericintervalFormatsMMM
+E, d/M – E, d/MMcalendarsgenericintervalFormatsMEd
+E, d/M– E, d/MdcalendarsgenericintervalFormatsMEd
+H:mm–H:mmmcalendarsgenericintervalFormatsHm
+H:mm–H:mmHcalendarsgenericintervalFormatsHm
+d MMM – d MMMMcalendarsgenericintervalFormatsMMMd
+d – d MMMdcalendarsgenericintervalFormatsMMMd
+h–h ahcalendarsgenericintervalFormatsh
+h a – h aacalendarsgenericintervalFormatsh
+E d/M/y GGGGGyyyyMEdcalendarsgenericavailableFormats
+QQQ y GyyyyQQQcalendarsgenericavailableFormats
+h:mm:ss ahmscalendarsgenericavailableFormats
+M/y GGGGGyyyyMcalendarsgenericavailableFormats
+y GycalendarsgenericavailableFormats
+d MMMMMMMMdcalendarsgenericavailableFormats
+LLLMMMcalendarsgenericavailableFormats
+E h:mm:ss aEhmscalendarsgenericavailableFormats
+y GGycalendarsgenericavailableFormats
+E HH:mmEHmcalendarsgenericavailableFormats
+MMM y GyyyyMMMcalendarsgenericavailableFormats
+E HH:mm:ssEHmscalendarsgenericavailableFormats
+d EEdcalendarsgenericavailableFormats
+y GyyyycalendarsgenericavailableFormats
+E, d MMM y GyyyyMMMEdcalendarsgenericavailableFormats
+d MMMMMMdcalendarsgenericavailableFormats
+HH:mmHmcalendarsgenericavailableFormats
+h BBhcalendarsgenericavailableFormats
+h ahcalendarsgenericavailableFormats
+d MMM y GGyMMMdcalendarsgenericavailableFormats
+MMM y GGyMMMcalendarsgenericavailableFormats
+E d/MMEdcalendarsgenericavailableFormats
+h:mm:ss BBhmscalendarsgenericavailableFormats
+cccEcalendarsgenericavailableFormats
+G y MMMMyyyyMMMMcalendarsgenericavailableFormats
+mm:ssmscalendarsgenericavailableFormats
+E h:mm:ss BEBhmscalendarsgenericavailableFormats
+ddcalendarsgenericavailableFormats
+d/MMdcalendarsgenericavailableFormats
+d/M/y GGGGGyyyyMdcalendarsgenericavailableFormats
+E d MMMMMMEdcalendarsgenericavailableFormats
+HH:mm:ssHmscalendarsgenericavailableFormats
+QQQQ y GyyyyQQQQcalendarsgenericavailableFormats
+d MMM y GyyyyMMMdcalendarsgenericavailableFormats
+HHHcalendarsgenericavailableFormats
+E, d MMM y GGyMMMEdcalendarsgenericavailableFormats
+h:mm BBhmcalendarsgenericavailableFormats
+E h:mm aEhmcalendarsgenericavailableFormats
+E h:mm BEBhmcalendarsgenericavailableFormats
+h:mm ahmcalendarsgenericavailableFormats
+LMcalendarsgenericavailableFormats
+{1} នៅ​ម៉ោង {0}longcalendarsgenericdateTimeFormats
+{1}, {0}mediumcalendarsgenericdateTimeFormats
+{1}, {0}shortcalendarsgenericdateTimeFormats
+{1} នៅ​ម៉ោង {0}fullcalendarsgenericdateTimeFormats
+EEEE d MMMM y GstandardcalendarsgenericdateFormatsfull
+d MMM y GstandardcalendarsgenericdateFormatsmedium
+d MMMM y GstandardcalendarsgenericdateFormatslong
+d/M/y GGGGGstandardcalendarsgenericdateFormatsshort
+ព.ស.0calendarsbuddhisteraseraAbbr
+ផ្អៀងslnttypographicNamesaxisName
+ទទឹងwdthtypographicNamesaxisName
+ទ្រេតitaltypographicNamesaxisName
+កម្រាស់wghttypographicNamesaxisName
+ទំហំអុបទិចopsztypographicNamesaxisName
+ផ្អៀងstandardtypographicNamesstyleNameslnt12
+uprightstandardtypographicNamesstyleNameslnt0
+ផ្អៀងបន្ថែមទៀតstandardtypographicNamesstyleNameslnt24
+ផ្អៀងថយក្រោយstandardtypographicNamesstyleNameslnt-12
+សរសេរជាប់គ្នាstandardtypographicNamesstyleNameital1
+ចង្អៀតបន្ថែមខ្លាំងnarrowtypographicNamesstyleNamewdth50
+បង្ហាប់បន្ថែមខ្លាំងstandardtypographicNamesstyleNamewdth50
+បណ្ណែនបន្ថែមខ្លាំងcompressedtypographicNamesstyleNamewdth50
+បន្លាយបន្ថែមខ្លាំងextendedtypographicNamesstyleNamewdth200
+ពង្រីកបន្ថែមខ្លាំងstandardtypographicNamesstyleNamewdth200
+ទូលាយបន្ថែមខ្លាំងwidetypographicNamesstyleNamewdth200
+បង្ហាប់ពាក់កណ្ដាលstandardtypographicNamesstyleNamewdth87.5
+ចង្អៀតពាក់កណ្ដាលnarrowtypographicNamesstyleNamewdth87.5
+បណ្ណែនពាក់កណ្ដាលcompressedtypographicNamesstyleNamewdth87.5
+ចង្អៀតបន្ថែមnarrowtypographicNamesstyleNamewdth62.5
+បង្ហាប់បន្ថែមstandardtypographicNamesstyleNamewdth62.5
+បណ្ណែនបន្ថែមcompressedtypographicNamesstyleNamewdth62.5
+បណ្ណែនcompressedtypographicNamesstyleNamewdth75
+បណ្ណែនnarrowtypographicNamesstyleNamewdth75
+បង្ហាប់standardtypographicNamesstyleNamewdth75
+ពង្រីកពាក់កណ្ដាលstandardtypographicNamesstyleNamewdth112.5
+បន្លាយពាក់កណ្ដាលextendedtypographicNamesstyleNamewdth112.5
+ទូលាយពាក់កណ្ដាលwidetypographicNamesstyleNamewdth112.5
+ទូលាយបន្ថែមwidetypographicNamesstyleNamewdth150
+បន្លាយបន្ថែមextendedtypographicNamesstyleNamewdth150
+ពង្រីកបន្ថែមstandardtypographicNamesstyleNamewdth150
+ទូលាយwidetypographicNamesstyleNamewdth125
+បន្លាយextendedtypographicNamesstyleNamewdth125
+ពង្រីកstandardtypographicNamesstyleNamewdth125
+ធម្មតាstandardtypographicNamesstyleNamewdth100
+ការបង្ហាញstandardtypographicNamesstyleNameopsz72
+ផូស្ទ័រstandardtypographicNamesstyleNameopsz144
+ការពណ៌នាstandardtypographicNamesstyleNameopsz8
+ចំណងជើងstandardtypographicNamesstyleNameopsz18
+អត្ថបទstandardtypographicNamesstyleNameopsz12
+ស្រាលstandardtypographicNamesstyleNamewght300
+ធ្ងន់heavytypographicNamesstyleNamewght900
+ខ្មៅstandardtypographicNamesstyleNamewght900
+ស្ដើងstandardtypographicNamesstyleNamewght100
+ដិតបន្ថែមstandardtypographicNamesstyleNamewght800
+ដិតពាក់កណ្ដាលstandardtypographicNamesstyleNamewght600
+ដិតកន្លះdemitypographicNamesstyleNamewght600
+ស្រាលពាក់កណ្ដាលstandardtypographicNamesstyleNamewght350
+ខ្មៅបន្ថែមខ្លាំងultrablacktypographicNamesstyleNamewght950
+ធ្ងន់បន្ថែមខ្លាំងultraheavytypographicNamesstyleNamewght950
+ខ្មៅបន្ថែមstandardtypographicNamesstyleNamewght950
+មធ្យមstandardtypographicNamesstyleNamewght500
+ស្រាលបន្ថែមខ្លាំងultratypographicNamesstyleNamewght200
+ស្រាលបន្ថែមstandardtypographicNamesstyleNamewght200
+សៀវភៅstandardtypographicNamesstyleNamewght380
+ដិតstandardtypographicNamesstyleNamewght700
+ធម្មតាstandardtypographicNamesstyleNamewght400
+លេខជួរlnumtypographicNamesfeatureName
+លេខសូន្យវះពោះzerotypographicNamesfeatureName
+optional ligaturesdligtypographicNamesfeatureName
+capital spacingcpsptypographicNamesfeatureName
+លេខតារាងtnumtypographicNamesfeatureName
+diagonal fractionsfractypographicNamesfeatureName
+ចំនួនសមាមាត្រpnumtypographicNamesfeatureName
+បូរណសំខ្យាordntypographicNamesfeatureName
+vertical fractionsafrctypographicNamesfeatureName
+small capitalssmcptypographicNamesfeatureName
+តួលេខបែបចាស់onumtypographicNamesfeatureName
+បាទ/ចាស​៖ yyesstrposixmessages
+ទេ​៖ nnostrposixmessages
+{0} វាសstrokescharacterLabelspatterns
+{0} — ផ្សេងទៀតothercharacterLabelspatterns
+{0} — ពង្រីកextendedcharacterLabelspatterns
+{0} — ទាំងអស់allcharacterLabelspatterns
+{0} — បិទជិតenclosedcharacterLabelspatterns
+{0} — ជាប្រវត្តិសាស្ត្រhistoriccharacterLabelspatterns
+{0} — ផ្សេងៗmiscellaneouscharacterLabelspatterns
+អក្សរ — {0}scriptscharacterLabelspatterns
+{0} — ភាពត្រូវគ្នាcompatibilitycharacterLabelspatterns
+{0}: {1}category-listcharacterLabelspatterns
+កីឡាsportcharacterLabelslabels
+ព្រួញឡើងលើupwards_arrowscharacterLabelslabels
+ផ្សេងៗmiscellaneouscharacterLabelslabels
+ព្រួញទៅស្តាំrightwards_arrowscharacterLabelslabels
+អង្គបញ្ជាក់ន័យmodifiercharacterLabelslabels
+ក្រុមអក្សរអាហ្វ្រិកafrican_scriptscharacterLabelslabels
+ខ្ទង់digitscharacterLabelslabels
+សញ្ញាឌីងប៊ែតdingbatscharacterLabelslabels
+ហានហ្ស៊ី (ប្រពៃណី)hanzi_traditionalcharacterLabelslabels
+ស្រៈចាម៉ូvocalic_jamocharacterLabelslabels
+លេខnumberscharacterLabelslabels
+សញ្ញា/និមិត្តសញ្ញាបទដ្ឋានsign_standard_symbolscharacterLabelslabels
+ក្រុមអក្សរអាមេរិកamerican_scriptscharacterLabelslabels
+ហានយ៉ាhanjacharacterLabelslabels
+ហានហ្ស៊ី (សាមញ្ញ)hanzi_simplifiedcharacterLabelslabels
+អក្សរសម័យទំនើបmodern_scriptscharacterLabelslabels
+សកម្មភាពactivitiescharacterLabelslabels
+ការគូរប្រអប់box_drawingcharacterLabelslabels
+នារីfemalecharacterLabelslabels
+ទីង់flagcharacterLabelslabels
+តួអក្សរចិនhan_characterscharacterLabelslabels
+ទម្រង់ និងចន្លោះformat_whitespacecharacterLabelslabels
+អក្សរជាប្រវត្តិសាស្ត្រhistoric_scriptscharacterLabelslabels
+បុរសmalecharacterLabelslabels
+បេះដូងheartcharacterLabelslabels
+រូបសញ្ញាសើច និងមនុស្សsmileys_peoplecharacterLabelslabels
+រុក្ខជាតិplantcharacterLabelslabels
+គម្របគ្រាប់ចុចkeycapcharacterLabelslabels
+អក្សររូបpictographscharacterLabelslabels
+ដកឃ្លាspacingcharacterLabelslabels
+ផ្សេងទៀតothercharacterLabelslabels
+សត្វពាហនៈanimalcharacterLabelslabels
+ក្រុមអក្សរអឺរ៉ុបeuropean_scriptscharacterLabelslabels
+ញញឺមsmileycharacterLabelslabels
+វ៉ារ្យ៉ង់ទម្រង់តូចsmall_form_variantcharacterLabelslabels
+ប្រែលbraillecharacterLabelslabels
+តួអក្សរពិពណ៌នារូបសញ្ញាideographic_desc_characterscharacterLabelslabels
+ប្រើមានកំណត់limited_usecharacterLabelslabels
+ព្យញ្ជនៈចាម៉ូconsonantal_jamocharacterLabelslabels
+អាគារbuildingcharacterLabelslabels
+ក្រុមអក្សរអាស៊ីខាងលិចwestern_asian_scriptscharacterLabelslabels
+កានប៊ុនkanbuncharacterLabelslabels
+ក្រុមអក្សរអាស៊ីអាគ្នេយ៍ខាងត្បូងsouth_asian_scriptscharacterLabelslabels
+មនុស្សpersoncharacterLabelslabels
+ផ្គូផ្គងpairedcharacterLabelslabels
+ទង់ជាតិflagscharacterLabelslabels
+ធ្វើដំណើរtravelcharacterLabelslabels
+ក្រុមអក្សរអាស៊ីអាគ្នេយ៍southeast_asian_scriptscharacterLabelslabels
+វិធីប្រើវណ្ណយុត្ដpunctuationcharacterLabelslabels
+និមិត្តសញ្ញាតន្ត្រីmusical_symbolscharacterLabelslabels
+និមិត្តសញ្ញាគណិតវិទ្យាmath_symbolscharacterLabelslabels
+ទម្រង់formatcharacterLabelslabels
+ព្រួញចុះក្រោមdownwards_arrowscharacterLabelslabels
+ចន្លោះwhitespacecharacterLabelslabels
+និមិត្តសញ្ញាបច្ចេកទេសtechnical_symbolscharacterLabelslabels
+ព្រួញarrowscharacterLabelslabels
+ក្រុមអក្សរមជ្ឈិមបូព៌ាmiddle_eastern_scriptscharacterLabelslabels
+ចំណុច/ផ្កាយbullets_starscharacterLabelslabels
+ព្រួញទៅឆ្វេងleftwards_arrowscharacterLabelslabels
+សញ្ញាសំឡេងtone_markscharacterLabelslabels
+ខ្លួប្រាណbodycharacterLabelslabels
+និមិត្តសញ្ញាsymbolscharacterLabelslabels
+​រ៉ាឌីកាល់អក្សរចិនhan_radicalscharacterLabelslabels
+អក្សរខាណាជប៉ុនjapanese_kanacharacterLabelslabels
+ព្រួញទៅឆ្វេងស្តាំleftwards_rightwards_arrowscharacterLabelslabels
+ទម្រង់វ៉ារ្យ៉ង់variant_formscharacterLabelslabels
+ធម្មជាតិnaturecharacterLabelslabels
+ទម្រង់ធរណីមាត្រgeometric_shapescharacterLabelslabels
+និមិត្តសញ្ញាដូចតួអក្សរletterlike_symbolscharacterLabelslabels
+អាកាសធាតុweathercharacterLabelslabels
+សត្វ និងធម្មជាតិanimals_naturecharacterLabelslabels
+មិនដកឃ្លាnonspacingcharacterLabelslabels
+ដំណើរកម្សាន្ត និងទីកន្លែងtravel_placescharacterLabelslabels
+ដាស៍/សញ្ញាភ្ជាប់dash_connectorcharacterLabelslabels
+ទីកន្លែងplacecharacterLabelslabels
+ក្រុមអក្សរអាស៊ីខាងកើតeast_asian_scriptscharacterLabelslabels
+វ៉ារ្យ៉ង់ទម្រង់ទទឹងពេញលេញfull_width_form_variantcharacterLabelslabels
+កានជីkanjicharacterLabelslabels
+អាហារ និងភេសជ្ជៈfood_drinkcharacterLabelslabels
+និមិត្តសញ្ញាពិសិដ្ឋdivination_symbolscharacterLabelslabels
+ព្រួញចុះឡើងdownwards_upwards_arrowscharacterLabelslabels
+អក្ខរក្រមសូរសព្ទphonetic_alphabetcharacterLabelslabels
+កម្មបទobjectscharacterLabelslabels
+និមិត្តសញ្ញារូបិយប័ណ្ណcurrency_symbolscharacterLabelslabels
+សញ្ញាអារម្មណ៍emojicharacterLabelslabels
+វ៉ារ្យ៉ង់ទម្រង់ទទឹងhalf_width_form_variantcharacterLabelslabels
+{0}​ ក្នុង​មួយ​ {1}patternunitslongcompoundUnitper
+{0}ត្បូងsouthunitslongcoordinateUnit
+{0}កើតeastunitslongcoordinateUnit
+ទិសទាំងបួនdisplayNameunitslongcoordinateUnit
+{0}លិចwestunitslongcoordinateUnit
+{0}ជើងnorthunitslongcoordinateUnit
+តេរ៉ាប៊ីតdisplayNameunitslongunitdigital-terabit
+{0} តេរ៉ាប៊ីតotherunitslongunitdigital-terabitpattern
+ឆ្នាំdisplayNameunitslongunitduration-year
+{0} ក្នុងមួយឆ្នាំperUnitPatternunitslongunitduration-year
+{0} ឆ្នាំotherunitslongunitduration-yearpattern
+អូមdisplayNameunitslongunitelectric-ohm
+{0} អូមotherunitslongunitelectric-ohmpattern
+{0} គីឡូកាឡូរីotherunitslongunitenergy-kilocaloriepattern
+គីឡូកាឡូរីdisplayNameunitslongunitenergy-kilocalorie
+{0} ពីកូម៉ែត្រotherunitslongunitlength-picometerpattern
+ពីកូម៉ែត្រdisplayNameunitslongunitlength-picometer
+{0} សង់ទីលីត្រotherunitslongunitvolume-centiliterpattern
+សង់ទីលីត្រdisplayNameunitslongunitvolume-centiliter
+បរិយាកាសdisplayNameunitslongunitpressure-atmosphere
+បរិយាកាស {0}otherunitslongunitpressure-atmospherepattern
+{0} ម៉ាយក្នុងមួយអ៊ីមភៀរៀលហ្គាឡុងotherunitslongunitconsumption-mile-per-gallon-imperialpattern
+ម៉ាយក្នុងមួយអ៊ីមភៀរៀលហ្គាឡុងdisplayNameunitslongunitconsumption-mile-per-gallon-imperial
+ការ៉ាត់displayNameunitslongunitmass-carat
+{0} ការ៉ាត់otherunitslongunitmass-caratpattern
+មីក្រូ​ម៉ែត្រdisplayNameunitslongunitlength-micrometer
+{0} មីក្រូ​ម៉ែត្រotherunitslongunitlength-micrometerpattern
+ផាសិកdisplayNameunitslongunitlength-parsec
+{0} ផាសិកotherunitslongunitlength-parsecpattern
+អាdisplayNameunitslongunitarea-acre
+{0} អាotherunitslongunitarea-acrepattern
+{0} មិល្លីម៉ែត្រotherunitslongunitlength-millimeterpattern
+មិល្លីម៉ែត្រdisplayNameunitslongunitlength-millimeter
+{0} ហ្វីតotherunitslongunitlength-footpattern
+ហ្វីតdisplayNameunitslongunitlength-foot
+{0} ក្នុងមួយហ្វីតperUnitPatternunitslongunitlength-foot
+ប៊ីតdisplayNameunitslongunitdigital-bit
+{0} ប៊ីតotherunitslongunitdigital-bitpattern
+ពែងdisplayNameunitslongunitvolume-cup
+{0} ពែងotherunitslongunitvolume-cuppattern
+{0} ម៉ោងotherunitslongunitduration-hourpattern
+{0} ក្នុង​មួយ​ម៉ោងperUnitPatternunitslongunitduration-hour
+ម៉ោងdisplayNameunitslongunitduration-hour
+{0} កាឡូរីotherunitslongunitenergy-caloriepattern
+កាឡូរីdisplayNameunitslongunitenergy-calorie
+{0} សប្ដាហ៍otherunitslongunitduration-weekpattern
+{0} ក្នុងមួយសប្តាហ៍perUnitPatternunitslongunitduration-week
+សប្ដាហ៍displayNameunitslongunitduration-week
+ណូទិកម៉ាយdisplayNameunitslongunitlength-nautical-mile
+{0} ណូទិកម៉ាយotherunitslongunitlength-nautical-milepattern
+ផ្នែកក្នុងមួយលានdisplayNameunitslongunitconcentr-part-per-million
+{0} ផ្នែកក្នុងមួយលានotherunitslongunitconcentr-part-per-millionpattern
+{0} រ៉ាដ្យង់otherunitslongunitangle-radianpattern
+រ៉ាដ្យង់displayNameunitslongunitangle-radian
+អ៊ីញការ៉េdisplayNameunitslongunitarea-square-inch
+{0} ក្នុងមួយអ៊ីញការ៉េperUnitPatternunitslongunitarea-square-inch
+{0} អ៊ីញការ៉េotherunitslongunitarea-square-inchpattern
+ហិកតាdisplayNameunitslongunitarea-hectare
+{0} ហិកតាotherunitslongunitarea-hectarepattern
+{0} ហឺតotherunitslongunitfrequency-hertzpattern
+ហឺតdisplayNameunitslongunitfrequency-hertz
+រង្វាស់ពែងdisplayNameunitslongunitvolume-cup-metric
+{0} រង្វាស់ពែងotherunitslongunitvolume-cup-metricpattern
+ភាគរយdisplayNameunitslongunitconcentr-percent
+{0} ភាគរយotherunitslongunitconcentr-percentpattern
+ស្លាបព្រា​បាយdisplayNameunitslongunitvolume-tablespoon
+{0} ស្លាបព្រា​បាយotherunitslongunitvolume-tablespoonpattern
+{0} ដឺក្រេotherunitslongunitangle-degreepattern
+ដឺក្រេdisplayNameunitslongunitangle-degree
+{0} រង្វាស់ភីនotherunitslongunitvolume-pint-metricpattern
+រង្វាស់ភីនdisplayNameunitslongunitvolume-pint-metric
+{0} មិល្លីវ៉ាត់otherunitslongunitpower-milliwattpattern
+មិល្លីវ៉ាត់displayNameunitslongunitpower-milliwatt
+ជីកាប៊ីតdisplayNameunitslongunitdigital-gigabit
+{0} ជីកាប៊ីតotherunitslongunitdigital-gigabitpattern
+មិល្លីម៉ូលក្នុងមួយលីត្រdisplayNameunitslongunitconcentr-millimole-per-liter
+{0} មិល្លីម៉ូលក្នុងមួយលីត្រotherunitslongunitconcentr-millimole-per-literpattern
+PBdisplayNameunitslongunitdigital-petabyte
+{0} PBotherunitslongunitdigital-petabytepattern
+ស៊ូលdisplayNameunitslongunitenergy-joule
+{0} ស៊ូលotherunitslongunitenergy-joulepattern
+{0} គីឡូហឺតotherunitslongunitfrequency-kilohertzpattern
+គីឡូហឺតdisplayNameunitslongunitfrequency-kilohertz
+អោន​វត្ថុ​រាវdisplayNameunitslongunitvolume-fluid-ounce
+{0} អោន​វត្ថុ​រាវotherunitslongunitvolume-fluid-ouncepattern
+{0} អោនotherunitslongunitmass-ouncepattern
+អោនdisplayNameunitslongunitmass-ounce
+{0} ក្នុងមួយអោនperUnitPatternunitslongunitmass-ounce
+គីឡូម៉ែត្រ​ក្នុង​មួយ​ម៉ោងdisplayNameunitslongunitspeed-kilometer-per-hour
+{0} គីឡូម៉ែត្រ​ក្នុង​មួយ​ម៉ោងotherunitslongunitspeed-kilometer-per-hourpattern
+{0} ម៉ែត្រគូបotherunitslongunitvolume-cubic-meterpattern
+{0} ក្នុងមួយម៉ែត្រគូបperUnitPatternunitslongunitvolume-cubic-meter
+ម៉ែត្រគូបdisplayNameunitslongunitvolume-cubic-meter
+{0} រង្វាស់​តោនotherunitslongunitmass-metric-tonpattern
+រង្វាស់​តោនdisplayNameunitslongunitmass-metric-ton
+{0} មិល្លីបារotherunitslongunitpressure-millibarpattern
+មិល្លីបារdisplayNameunitslongunitpressure-millibar
+ម៉ាយ​ក្នុង​មួយ​ម៉ោងdisplayNameunitslongunitspeed-mile-per-hour
+{0} ម៉ាយក្នុងមួយម៉ោងotherunitslongunitspeed-mile-per-hourpattern
+អ៊ីញគូបdisplayNameunitslongunitvolume-cubic-inch
+{0} អ៊ីញគូបotherunitslongunitvolume-cubic-inchpattern
+មីក្រូ​វិនាទីdisplayNameunitslongunitduration-microsecond
+{0} មីក្រូ​វិនាទីotherunitslongunitduration-microsecondpattern
+ភីនdisplayNameunitslongunitvolume-pint
+{0} ភីនotherunitslongunitvolume-pintpattern
+ការ៉ាត់displayNameunitslongunitconcentr-karat
+{0} ការ៉ាត់otherunitslongunitconcentr-karatpattern
+ខែdisplayNameunitslongunitduration-month
+{0} ក្នុងមួយខែperUnitPatternunitslongunitduration-month
+{0} ខែotherunitslongunitduration-monthpattern
+គីឡូម៉ែត្រ​ការ៉េdisplayNameunitslongunitarea-square-kilometer
+{0} ក្នុងមួយគីឡូម៉ែត្រ​ការ៉េperUnitPatternunitslongunitarea-square-kilometer
+{0} គីឡូម៉ែត្រ​ការ៉េotherunitslongunitarea-square-kilometerpattern
+{0} សង់ទីម៉ែត្រotherunitslongunitlength-centimeterpattern
+{0} ក្នុងមួយសង់ទីម៉ែត្រperUnitPatternunitslongunitlength-centimeter
+សង់ទីម៉ែត្រdisplayNameunitslongunitlength-centimeter
+{0} តោនotherunitslongunitmass-tonpattern
+តោនdisplayNameunitslongunitmass-ton
+{0} ហិកតូលីត្រotherunitslongunitvolume-hectoliterpattern
+ហិកតូលីត្រdisplayNameunitslongunitvolume-hectoliter
+{0} រង្វិលជុំotherunitslongunitangle-revolutionpattern
+រង្វិលជុំdisplayNameunitslongunitangle-revolution
+{0} កាឡូរីotherunitslongunitenergy-foodcaloriepattern
+កាឡូរីdisplayNameunitslongunitenergy-foodcalorie
+{0} ម៉ាយគូបotherunitslongunitvolume-cubic-milepattern
+ម៉ាយគូបdisplayNameunitslongunitvolume-cubic-mile
+ក្វាតdisplayNameunitslongunitvolume-quart
+{0} ក្វាតotherunitslongunitvolume-quartpattern
+មិល្លី​វិនាទីdisplayNameunitslongunitduration-millisecond
+{0} មិល្លី​វិនាទីotherunitslongunitduration-millisecondpattern
+មិល្លីអំពែរdisplayNameunitslongunitelectric-milliampere
+{0} មិល្លីអំពែរotherunitslongunitelectric-milliamperepattern
+{0} ម៉ែត្រotherunitslongunitlength-meterpattern
+ម៉ែត្រdisplayNameunitslongunitlength-meter
+{0} ក្នុងមួយម៉ែត្រperUnitPatternunitslongunitlength-meter
+គីឡូក្រាមdisplayNameunitslongunitmass-kilogram
+{0} ក្នុងមួយគីឡូក្រាមperUnitPatternunitslongunitmass-kilogram
+{0} គីឡូក្រាមotherunitslongunitmass-kilogrampattern
+{0} ដេសីុម៉ែត្រotherunitslongunitlength-decimeterpattern
+ដេសីុម៉ែត្រdisplayNameunitslongunitlength-decimeter
+{0} ផោន​ក្នុង​មួយ​អ៊ីញ​ការ៉េotherunitslongunitpressure-pound-per-square-inchpattern
+ផោន​ក្នុង​មួយ​អ៊ីញ​ការ៉េdisplayNameunitslongunitpressure-pound-per-square-inch
+សេះdisplayNameunitslongunitpower-horsepower
+{0} សេះotherunitslongunitpower-horsepowerpattern
+ហ្វីត​គូបdisplayNameunitslongunitvolume-cubic-foot
+{0} ហ្វីត​គូបotherunitslongunitvolume-cubic-footpattern
+ផោនdisplayNameunitslongunitmass-pound
+{0} ក្នុងមួយផោនperUnitPatternunitslongunitmass-pound
+{0} ផោនotherunitslongunitmass-poundpattern
+{0} ម៉ាយក្នុង​មួយ​ហ្គាឡុងotherunitslongunitconsumption-mile-per-gallonpattern
+ម៉ាយក្នុង​មួយ​ហ្គាឡុងdisplayNameunitslongunitconsumption-mile-per-gallon
+អង្សា​ខែលវិនdisplayNameunitslongunittemperature-kelvin
+{0} អង្សា​ខែលវិនotherunitslongunittemperature-kelvinpattern
+{0} សង់ទីម៉ែត្រគូបotherunitslongunitvolume-cubic-centimeterpattern
+{0} ក្នុងមួយសង់ទីម៉ែត្រគូបperUnitPatternunitslongunitvolume-cubic-centimeter
+សង់ទីម៉ែត្រគូបdisplayNameunitslongunitvolume-cubic-centimeter
+{0} ក្នុងមួយគីឡូម៉ែត្រperUnitPatternunitslongunitlength-kilometer
+គីឡូម៉ែត្រdisplayNameunitslongunitlength-kilometer
+{0} គីឡូម៉ែត្រotherunitslongunitlength-kilometerpattern
+មេហ្គា​ហឺតdisplayNameunitslongunitfrequency-megahertz
+{0} មេហ្គា​ហឺតotherunitslongunitfrequency-megahertzpattern
+អ៊ីមភៀរៀលហ្គាឡុងdisplayNameunitslongunitvolume-gallon-imperial
+{0}/អ៊ីមភៀរៀលហ្គាឡុងperUnitPatternunitslongunitvolume-gallon-imperial
+{0} អ៊ីមភៀរៀលហ្គាឡុងotherunitslongunitvolume-gallon-imperialpattern
+ណាណូវិនាទីdisplayNameunitslongunitduration-nanosecond
+{0} ណាណូវិនាទីotherunitslongunitduration-nanosecondpattern
+អំពែរdisplayNameunitslongunitelectric-ampere
+{0} អំពែរotherunitslongunitelectric-amperepattern
+កម្លាំង​ទំនាញdisplayNameunitslongunitacceleration-g-force
+{0} កម្លាំង​ទំនាញotherunitslongunitacceleration-g-forcepattern
+luxdisplayNameunitslongunitlight-lux
+{0} luxotherunitslongunitlight-luxpattern
+វ៉ាត់displayNameunitslongunitpower-watt
+{0} វ៉ាត់otherunitslongunitpower-wattpattern
+{0} មិល្លីលីត្រotherunitslongunitvolume-milliliterpattern
+មិល្លីលីត្រdisplayNameunitslongunitvolume-milliliter
+{0} ជីកាបៃotherunitslongunitdigital-gigabytepattern
+ជីកាបៃdisplayNameunitslongunitdigital-gigabyte
+លីត្រ​ក្នុង​មួយ​គីឡូម៉ែត្រdisplayNameunitslongunitconsumption-liter-per-kilometer
+{0} លីត្រ​ក្នុង​មួយ​គីឡូម៉ែត្រotherunitslongunitconsumption-liter-per-kilometerpattern
+{0} ម៉ែត្រ​ការ៉េotherunitslongunitarea-square-meterpattern
+ម៉ែត្រ​ការ៉េdisplayNameunitslongunitarea-square-meter
+{0} ក្នុងមួយម៉ែត្រការ៉េperUnitPatternunitslongunitarea-square-meter
+ptdisplayNameunitslongunitlength-point
+{0} ptotherunitslongunitlength-pointpattern
+{0} ជីកាវ៉ាត់otherunitslongunitpower-gigawattpattern
+ជីកាវ៉ាត់displayNameunitslongunitpower-gigawatt
+គីឡូវ៉ាត់displayNameunitslongunitpower-kilowatt
+{0} គីឡូវ៉ាត់otherunitslongunitpower-kilowattpattern
+មេកាវ៉ាត់displayNameunitslongunitpower-megawatt
+{0} មេកាវ៉ាត់otherunitslongunitpower-megawattpattern
+{0} អាហ្វីតotherunitslongunitvolume-acre-footpattern
+អាហ្វីតdisplayNameunitslongunitvolume-acre-foot
+{0} ក្នុងមួយក្រាមperUnitPatternunitslongunitmass-gram
+ក្រាមdisplayNameunitslongunitmass-gram
+{0} ក្រាមotherunitslongunitmass-grampattern
+{0} មីក្រូក្រាមotherunitslongunitmass-microgrampattern
+មីក្រូក្រាមdisplayNameunitslongunitmass-microgram
+អាកនាទីdisplayNameunitslongunitangle-arc-minute
+{0} អាកនាទីotherunitslongunitangle-arc-minutepattern
+{0} មេកាលីត្រotherunitslongunitvolume-megaliterpattern
+មេកាលីត្រdisplayNameunitslongunitvolume-megaliter
+សតវត្សdisplayNameunitslongunitduration-century
+{0} សតវត្សotherunitslongunitduration-centurypattern
+ស្លាបព្រា​កាហ្វេdisplayNameunitslongunitvolume-teaspoon
+{0} ស្លាបព្រា​កាហ្វេotherunitslongunitvolume-teaspoonpattern
+{0} តេរ៉ាបៃotherunitslongunitdigital-terabytepattern
+តេរ៉ាបៃdisplayNameunitslongunitdigital-terabyte
+{0} វ៉ុលotherunitslongunitelectric-voltpattern
+វ៉ុលdisplayNameunitslongunitelectric-volt
+ឆ្នាំ​ពន្លឺdisplayNameunitslongunitlength-light-year
+{0} ឆ្នាំ​ពន្លឺotherunitslongunitlength-light-yearpattern
+{0} សង់ទីម៉ែត្រការ៉េotherunitslongunitarea-square-centimeterpattern
+{0} ក្នុងមួយសង់ទីម៉ែត្រការ៉េperUnitPatternunitslongunitarea-square-centimeter
+សង់ទីម៉ែត្រការ៉េdisplayNameunitslongunitarea-square-centimeter
+{0} មិល្លីក្រាមក្នុងមួយដេស៊ីលីត្រotherunitslongunitconcentr-milligram-per-deciliterpattern
+មិល្លីក្រាមក្នុងមួយដេស៊ីលីត្រdisplayNameunitslongunitconcentr-milligram-per-deciliter
+{0} ម៉ាយការ៉េotherunitslongunitarea-square-milepattern
+{0} ក្នុងមួយម៉ាយការ៉េperUnitPatternunitslongunitarea-square-mile
+ម៉ាយការ៉េdisplayNameunitslongunitarea-square-mile
+អាកវិនាទីdisplayNameunitslongunitangle-arc-second
+{0} អាកវិនាទីotherunitslongunitangle-arc-secondpattern
+{0} ថ្ងៃotherunitslongunitduration-daypattern
+ថ្ងៃdisplayNameunitslongunitduration-day
+{0} ក្នុងមួយថ្ងៃperUnitPatternunitslongunitduration-day
+គីឡូបៃdisplayNameunitslongunitdigital-kilobyte
+{0} គីឡូបៃotherunitslongunitdigital-kilobytepattern
+ត្រយ​អោនdisplayNameunitslongunitmass-ounce-troy
+{0} ត្រយ​អោនotherunitslongunitmass-ounce-troypattern
+{0} អង្សា​ហ្វារិនហៃotherunitslongunittemperature-fahrenheitpattern
+អង្សា​ហ្វារិនហៃdisplayNameunitslongunittemperature-fahrenheit
+មិល្លីម៉ែត្រនៃ​បារតdisplayNameunitslongunitpressure-millimeter-of-mercury
+{0} មិល្លីម៉ែត្រនៃ​បារតotherunitslongunitpressure-millimeter-of-mercurypattern
+យ៉ាត​ការ៉េdisplayNameunitslongunitarea-square-yard
+{0} យ៉ាត​ការ៉េotherunitslongunitarea-square-yardpattern
+{0} ក្នុង​មួយ​វិនាទីperUnitPatternunitslongunitduration-second
+វិនាទីdisplayNameunitslongunitduration-second
+{0} វិនាទីotherunitslongunitduration-secondpattern
+{0} ម៉ាយស្កង់ឌីណាវotherunitslongunitlength-mile-scandinavianpattern
+ម៉ាយស្កង់ឌីណាវdisplayNameunitslongunitlength-mile-scandinavian
+ណត់displayNameunitslongunitspeed-knot
+{0} ណត់otherunitslongunitspeed-knotpattern
+ម៉ាយdisplayNameunitslongunitlength-mile
+{0} ម៉ាយotherunitslongunitlength-milepattern
+{0} លីត្រotherunitslongunitvolume-literpattern
+{0} ក្នុងមួយលីត្រperUnitPatternunitslongunitvolume-liter
+លីត្រdisplayNameunitslongunitvolume-liter
+{0} គីឡូប៊ីតotherunitslongunitdigital-kilobitpattern
+គីឡូប៊ីតdisplayNameunitslongunitdigital-kilobit
+ដេសីុលីត្រdisplayNameunitslongunitvolume-deciliter
+{0} ដេសីុលីត្រotherunitslongunitvolume-deciliterpattern
+{0} នាទីotherunitslongunitduration-minutepattern
+នាទីdisplayNameunitslongunitduration-minute
+{0} ក្នុងមួយនាទីperUnitPatternunitslongunitduration-minute
+{0} អង្សាសេotherunitslongunittemperature-celsiuspattern
+អង្សាសេdisplayNameunitslongunittemperature-celsius
+{0} ម៉ែត្រ​ក្នុង​មួយ​វិនាទីotherunitslongunitspeed-meter-per-secondpattern
+ម៉ែត្រ​ក្នុង​មួយ​វិនាទីdisplayNameunitslongunitspeed-meter-per-second
+មិល្លីក្រាមdisplayNameunitslongunitmass-milligram
+{0} មិល្លីក្រាមotherunitslongunitmass-milligrampattern
+ហិចតូប៉ាស្កាល់displayNameunitslongunitpressure-hectopascal
+{0} ហិចតូប៉ាស្កាល់otherunitslongunitpressure-hectopascalpattern
+គីឡូម៉ែត្រ​គូបdisplayNameunitslongunitvolume-cubic-kilometer
+{0} គីឡូម៉ែត្រ​គូបotherunitslongunitvolume-cubic-kilometerpattern
+{0} ហ្វីត​ការ៉េotherunitslongunitarea-square-footpattern
+ហ្វីត​ការ៉េdisplayNameunitslongunitarea-square-foot
+គីឡូវ៉ាត់​ម៉ោងdisplayNameunitslongunitenergy-kilowatt-hour
+{0} គីឡូវ៉ាត់​ម៉ោងotherunitslongunitenergy-kilowatt-hourpattern
+{0} ហ្គាឡុងotherunitslongunitvolume-gallonpattern
+ហ្គាឡុងdisplayNameunitslongunitvolume-gallon
+{0} ក្នុងមួយហ្គាឡុងperUnitPatternunitslongunitvolume-gallon
+អ៊ីញdisplayNameunitslongunitlength-inch
+{0} ក្នុងមួយអ៊ីញperUnitPatternunitslongunitlength-inch
+{0} អ៊ីញotherunitslongunitlength-inchpattern
+{0} មេហ្គាប៊ីតotherunitslongunitdigital-megabitpattern
+មេហ្គាប៊ីតdisplayNameunitslongunitdigital-megabit
+{0}‰otherunitslongunitconcentr-permillepattern
+‰displayNameunitslongunitconcentr-permille
+លីត្រក្នុង 100 គីឡូម៉ែត្រdisplayNameunitslongunitconsumption-liter-per-100kilometers
+{0} លីត្រក្នុង 100 គីឡូម៉ែត្រotherunitslongunitconsumption-liter-per-100kilometerspattern
+ម៉ែត្រ​ក្នុង​មួយ​វិនាទី​ការ៉េdisplayNameunitslongunitacceleration-meter-per-second-squared
+{0} ម៉ែត្រ​ក្នុង​មួយ​វិនាទី​ការ៉េotherunitslongunitacceleration-meter-per-second-squaredpattern
+{0} គីឡូស៊ូលotherunitslongunitenergy-kilojoulepattern
+គីឡូស៊ូលdisplayNameunitslongunitenergy-kilojoule
+{0} អ៊ីញនៃបារតotherunitslongunitpressure-inch-hgpattern
+អ៊ីញនៃបារតdisplayNameunitslongunitpressure-inch-hg
+ណាណូម៉ែត្រdisplayNameunitslongunitlength-nanometer
+{0} ណាណូម៉ែត្រotherunitslongunitlength-nanometerpattern
+មេហ្គាបៃdisplayNameunitslongunitdigital-megabyte
+{0} មេហ្គាបៃotherunitslongunitdigital-megabytepattern
+ឯកតាតារាសាស្ត្រdisplayNameunitslongunitlength-astronomical-unit
+{0} ឯកតាតារាសាស្ត្រotherunitslongunitlength-astronomical-unitpattern
+{0}°otherunitslongunittemperature-genericpattern
+°displayNameunitslongunittemperature-generic
+{0} បៃotherunitslongunitdigital-bytepattern
+បៃdisplayNameunitslongunitdigital-byte
+{0} ជីកាហឺតotherunitslongunitfrequency-gigahertzpattern
+ជីកាហឺតdisplayNameunitslongunitfrequency-gigahertz
+យ៉ាតdisplayNameunitslongunitlength-yard
+{0} យ៉ាតotherunitslongunitlength-yardpattern
+{0} យ៉ាតគូបotherunitslongunitvolume-cubic-yardpattern
+យ៉ាតគូបdisplayNameunitslongunitvolume-cubic-yard
+{0}កើតeastunitsshortcoordinateUnit
+{0}ជើងnorthunitsshortcoordinateUnit
+{0}លិចwestunitsshortcoordinateUnit
+ទិសdisplayNameunitsshortcoordinateUnit
+{0}ត្បូងsouthunitsshortcoordinateUnit
+{0}/{1}patternunitsshortcompoundUnitper
+{0} Calotherunitsshortunitenergy-foodcaloriepattern
+CaldisplayNameunitsshortunitenergy-foodcalorie
+revdisplayNameunitsshortunitangle-revolution
+{0} revotherunitsshortunitangle-revolutionpattern
+mi³displayNameunitsshortunitvolume-cubic-mile
+{0} mi³otherunitsshortunitvolume-cubic-milepattern
+{0} qtotherunitsshortunitvolume-quartpattern
+qtsdisplayNameunitsshortunitvolume-quart
+ការ៉ាត់displayNameunitsshortunitconcentr-karat
+{0} ktotherunitsshortunitconcentr-karatpattern
+{0} ptotherunitsshortunitvolume-pintpattern
+ភីនdisplayNameunitsshortunitvolume-pint
+{0} km²otherunitsshortunitarea-square-kilometerpattern
+{0}/km²perUnitPatternunitsshortunitarea-square-kilometer
+km²displayNameunitsshortunitarea-square-kilometer
+{0} ខែotherunitsshortunitduration-monthpattern
+{0}/ខែperUnitPatternunitsshortunitduration-month
+ខែdisplayNameunitsshortunitduration-month
+{0} tnotherunitsshortunitmass-tonpattern
+តោនdisplayNameunitsshortunitmass-ton
+{0} cmotherunitsshortunitlength-centimeterpattern
+{0}/cmperUnitPatternunitsshortunitlength-centimeter
+cmdisplayNameunitsshortunitlength-centimeter
+{0} hLotherunitsshortunitvolume-hectoliterpattern
+hLdisplayNameunitsshortunitvolume-hectoliter
+{0} totherunitsshortunitmass-metric-tonpattern
+tdisplayNameunitsshortunitmass-metric-ton
+{0} mbarotherunitsshortunitpressure-millibarpattern
+mbardisplayNameunitsshortunitpressure-millibar
+{0} μsotherunitsshortunitduration-microsecondpattern
+មីក្រូ​វិនាទីdisplayNameunitsshortunitduration-microsecond
+{0} mphotherunitsshortunitspeed-mile-per-hourpattern
+ម៉ាយ​/​ម៉ោងdisplayNameunitsshortunitspeed-mile-per-hour
+អ៊ីញគូបdisplayNameunitsshortunitvolume-cubic-inch
+{0} in³otherunitsshortunitvolume-cubic-inchpattern
+kHzdisplayNameunitsshortunitfrequency-kilohertz
+{0} kHzotherunitsshortunitfrequency-kilohertzpattern
+fl ozdisplayNameunitsshortunitvolume-fluid-ounce
+{0} fl ozotherunitsshortunitvolume-fluid-ouncepattern
+{0} ozotherunitsshortunitmass-ouncepattern
+{0}/ozperUnitPatternunitsshortunitmass-ounce
+ozdisplayNameunitsshortunitmass-ounce
+{0} kphotherunitsshortunitspeed-kilometer-per-hourpattern
+km/hdisplayNameunitsshortunitspeed-kilometer-per-hour
+{0}/m³perUnitPatternunitsshortunitvolume-cubic-meter
+m³displayNameunitsshortunitvolume-cubic-meter
+{0} m³otherunitsshortunitvolume-cubic-meterpattern
+ម៉ាយ​/​ហ្គាឡុងdisplayNameunitsshortunitconsumption-mile-per-gallon
+{0} mpgotherunitsshortunitconsumption-mile-per-gallonpattern
+KdisplayNameunitsshortunittemperature-kelvin
+{0} Kotherunitsshortunittemperature-kelvinpattern
+{0} cm³otherunitsshortunitvolume-cubic-centimeterpattern
+{0}/cm³perUnitPatternunitsshortunitvolume-cubic-centimeter
+cm³displayNameunitsshortunitvolume-cubic-centimeter
+ផោនdisplayNameunitsshortunitmass-pound
+{0}/lbperUnitPatternunitsshortunitmass-pound
+{0} lbotherunitsshortunitmass-poundpattern
+ហ្វីត​គូបdisplayNameunitsshortunitvolume-cubic-foot
+{0} ft³otherunitsshortunitvolume-cubic-footpattern
+{0} motherunitsshortunitlength-meterpattern
+ម៉ែត្រdisplayNameunitsshortunitlength-meter
+{0}/mperUnitPatternunitsshortunitlength-meter
+{0} dmotherunitsshortunitlength-decimeterpattern
+dmdisplayNameunitsshortunitlength-decimeter
+{0} hpotherunitsshortunitpower-horsepowerpattern
+hpdisplayNameunitsshortunitpower-horsepower
+{0} psiotherunitsshortunitpressure-pound-per-square-inchpattern
+psidisplayNameunitsshortunitpressure-pound-per-square-inch
+kgdisplayNameunitsshortunitmass-kilogram
+{0}/kgperUnitPatternunitsshortunitmass-kilogram
+{0} kgotherunitsshortunitmass-kilogrampattern
+មិល្លីអំពែរdisplayNameunitsshortunitelectric-milliampere
+{0} mAotherunitsshortunitelectric-milliamperepattern
+{0} msotherunitsshortunitduration-millisecondpattern
+មិល្លី​វិនាទីdisplayNameunitsshortunitduration-millisecond
+{0} មិល្លីម៉ែត្រotherunitsshortunitlength-millimeterpattern
+មិល្លីម៉ែត្រdisplayNameunitsshortunitlength-millimeter
+ហ្វីតdisplayNameunitsshortunitlength-foot
+{0}/ftperUnitPatternunitsshortunitlength-foot
+{0} ftotherunitsshortunitlength-footpattern
+អាdisplayNameunitsshortunitarea-acre
+{0} acotherunitsshortunitarea-acrepattern
+មីក្រូ​ម៉ែត្រdisplayNameunitsshortunitlength-micrometer
+{0} µmotherunitsshortunitlength-micrometerpattern
+{0} pcotherunitsshortunitlength-parsecpattern
+ផាសិកdisplayNameunitsshortunitlength-parsec
+ម៉ាយ/gal Imp.displayNameunitsshortunitconsumption-mile-per-gallon-imperial
+{0} mpg Imp.otherunitsshortunitconsumption-mile-per-gallon-imperialpattern
+{0} CDotherunitsshortunitmass-caratpattern
+ការ៉ាត់displayNameunitsshortunitmass-carat
+{0} Tbotherunitsshortunitdigital-terabitpattern
+TbdisplayNameunitsshortunitdigital-terabit
+{0} ឆ្នាំotherunitsshortunitduration-yearpattern
+{0}/ឆ្នាំperUnitPatternunitsshortunitduration-year
+ឆ្នាំdisplayNameunitsshortunitduration-year
+{0} kcalotherunitsshortunitenergy-kilocaloriepattern
+kcaldisplayNameunitsshortunitenergy-kilocalorie
+pmdisplayNameunitsshortunitlength-picometer
+{0} pmotherunitsshortunitlength-picometerpattern
+អូមdisplayNameunitsshortunitelectric-ohm
+{0} Ωotherunitsshortunitelectric-ohmpattern
+{0} atmotherunitsshortunitpressure-atmospherepattern
+atmdisplayNameunitsshortunitpressure-atmosphere
+{0} cLotherunitsshortunitvolume-centiliterpattern
+cLdisplayNameunitsshortunitvolume-centiliter
+GbdisplayNameunitsshortunitdigital-gigabit
+{0} Gbotherunitsshortunitdigital-gigabitpattern
+{0} PBotherunitsshortunitdigital-petabytepattern
+PBdisplayNameunitsshortunitdigital-petabyte
+ស៊ូលdisplayNameunitsshortunitenergy-joule
+{0} Jotherunitsshortunitenergy-joulepattern
+mmol/LdisplayNameunitsshortunitconcentr-millimole-per-liter
+{0} mmol/Lotherunitsshortunitconcentr-millimole-per-literpattern
+ភាគរយdisplayNameunitsshortunitconcentr-percent
+{0}%otherunitsshortunitconcentr-percentpattern
+{0} tbspotherunitsshortunitvolume-tablespoonpattern
+tbspdisplayNameunitsshortunitvolume-tablespoon
+{0}°otherunitsshortunitangle-degreepattern
+ដឺក្រេdisplayNameunitsshortunitangle-degree
+mptdisplayNameunitsshortunitvolume-pint-metric
+{0} mptotherunitsshortunitvolume-pint-metricpattern
+{0} mWotherunitsshortunitpower-milliwattpattern
+mWdisplayNameunitsshortunitpower-milliwatt
+{0} ppmotherunitsshortunitconcentr-part-per-millionpattern
+ppmdisplayNameunitsshortunitconcentr-part-per-million
+{0} in²otherunitsshortunitarea-square-inchpattern
+អ៊ីញការ៉េdisplayNameunitsshortunitarea-square-inch
+{0}/in²perUnitPatternunitsshortunitarea-square-inch
+{0} haotherunitsshortunitarea-hectarepattern
+ហិកតាdisplayNameunitsshortunitarea-hectare
+{0} radotherunitsshortunitangle-radianpattern
+រ៉ាដ្យង់displayNameunitsshortunitangle-radian
+{0} Hzotherunitsshortunitfrequency-hertzpattern
+HzdisplayNameunitsshortunitfrequency-hertz
+mcupdisplayNameunitsshortunitvolume-cup-metric
+{0} mcotherunitsshortunitvolume-cup-metricpattern
+bitdisplayNameunitsshortunitdigital-bit
+{0} bitotherunitsshortunitdigital-bitpattern
+ពែងdisplayNameunitsshortunitvolume-cup
+{0} cotherunitsshortunitvolume-cuppattern
+{0} ម៉ោងotherunitsshortunitduration-hourpattern
+{0}/ម៉ោងperUnitPatternunitsshortunitduration-hour
+ម៉ោងdisplayNameunitsshortunitduration-hour
+{0} សប្ដាហ៍otherunitsshortunitduration-weekpattern
+សប្ដាហ៍displayNameunitsshortunitduration-week
+{0}/សប្តាហ៍perUnitPatternunitsshortunitduration-week
+caldisplayNameunitsshortunitenergy-calorie
+{0} calotherunitsshortunitenergy-caloriepattern
+{0} nmiotherunitsshortunitlength-nautical-milepattern
+nmidisplayNameunitsshortunitlength-nautical-mile
+mgdisplayNameunitsshortunitmass-milligram
+{0} mgotherunitsshortunitmass-milligrampattern
+hPadisplayNameunitsshortunitpressure-hectopascal
+{0} hPaotherunitsshortunitpressure-hectopascalpattern
+{0} km³otherunitsshortunitvolume-cubic-kilometerpattern
+km³displayNameunitsshortunitvolume-cubic-kilometer
+{0} នាទីotherunitsshortunitduration-minutepattern
+នាទីdisplayNameunitsshortunitduration-minute
+{0}/នាទីperUnitPatternunitsshortunitduration-minute
+អង្សាសេdisplayNameunitsshortunittemperature-celsius
+{0}°Cotherunitsshortunittemperature-celsiuspattern
+{0} m/sotherunitsshortunitspeed-meter-per-secondpattern
+ម៉ែត្រ​/​វិនាទីdisplayNameunitsshortunitspeed-meter-per-second
+kbdisplayNameunitsshortunitdigital-kilobit
+{0} kbotherunitsshortunitdigital-kilobitpattern
+{0} dLotherunitsshortunitvolume-deciliterpattern
+dLdisplayNameunitsshortunitvolume-deciliter
+{0} yd²otherunitsshortunitarea-square-yardpattern
+yd²displayNameunitsshortunitarea-square-yard
+វិនាទីdisplayNameunitsshortunitduration-second
+{0}/វិនាទីperUnitPatternunitsshortunitduration-second
+{0} វិនាទីotherunitsshortunitduration-secondpattern
+ម៉ាយdisplayNameunitsshortunitlength-mile
+{0} miotherunitsshortunitlength-milepattern
+{0} smiotherunitsshortunitlength-mile-scandinavianpattern
+smidisplayNameunitsshortunitlength-mile-scandinavian
+{0} knotherunitsshortunitspeed-knotpattern
+kndisplayNameunitsshortunitspeed-knot
+{0} Lotherunitsshortunitvolume-literpattern
+{0}/lperUnitPatternunitsshortunitvolume-liter
+លីត្រdisplayNameunitsshortunitvolume-liter
+{0} byteotherunitsshortunitdigital-bytepattern
+bytedisplayNameunitsshortunitdigital-byte
+{0} ydotherunitsshortunitlength-yardpattern
+យ៉ាតdisplayNameunitsshortunitlength-yard
+{0} GHzotherunitsshortunitfrequency-gigahertzpattern
+GHzdisplayNameunitsshortunitfrequency-gigahertz
+យ៉ាតគូបdisplayNameunitsshortunitvolume-cubic-yard
+{0} yd³otherunitsshortunitvolume-cubic-yardpattern
+MBdisplayNameunitsshortunitdigital-megabyte
+{0} MBotherunitsshortunitdigital-megabytepattern
+{0} nmotherunitsshortunitlength-nanometerpattern
+nmdisplayNameunitsshortunitlength-nanometer
+{0} auotherunitsshortunitlength-astronomical-unitpattern
+audisplayNameunitsshortunitlength-astronomical-unit
+°displayNameunitsshortunittemperature-generic
+{0}°otherunitsshortunittemperature-genericpattern
+{0} Mbotherunitsshortunitdigital-megabitpattern
+MbdisplayNameunitsshortunitdigital-megabit
+L/100kmdisplayNameunitsshortunitconsumption-liter-per-100kilometers
+{0} L/100kmotherunitsshortunitconsumption-liter-per-100kilometerspattern
+‰displayNameunitsshortunitconcentr-permille
+{0}‰otherunitsshortunitconcentr-permillepattern
+{0} m/s²otherunitsshortunitacceleration-meter-per-second-squaredpattern
+ម៉ែត្រ​/​វិនាទី​ការ៉េdisplayNameunitsshortunitacceleration-meter-per-second-squared
+{0} kJotherunitsshortunitenergy-kilojoulepattern
+គីឡូស៊ូលdisplayNameunitsshortunitenergy-kilojoule
+inHgdisplayNameunitsshortunitpressure-inch-hg
+{0} inHgotherunitsshortunitpressure-inch-hgpattern
+ft²displayNameunitsshortunitarea-square-foot
+{0} ft²otherunitsshortunitarea-square-footpattern
+kWhdisplayNameunitsshortunitenergy-kilowatt-hour
+{0} kWhotherunitsshortunitenergy-kilowatt-hourpattern
+galdisplayNameunitsshortunitvolume-gallon
+{0}/galperUnitPatternunitsshortunitvolume-gallon
+{0} galotherunitsshortunitvolume-gallonpattern
+{0} inotherunitsshortunitlength-inchpattern
+អ៊ីញdisplayNameunitsshortunitlength-inch
+{0}/inperUnitPatternunitsshortunitlength-inch
+ក្រាមdisplayNameunitsshortunitmass-gram
+{0}/gperUnitPatternunitsshortunitmass-gram
+{0} gotherunitsshortunitmass-grampattern
+អាកនាទីdisplayNameunitsshortunitangle-arc-minute
+{0} អាកនាទីotherunitsshortunitangle-arc-minutepattern
+µgdisplayNameunitsshortunitmass-microgram
+{0} µgotherunitsshortunitmass-microgrampattern
+MLdisplayNameunitsshortunitvolume-megaliter
+{0} MLotherunitsshortunitvolume-megaliterpattern
+លីត្រ/kmdisplayNameunitsshortunitconsumption-liter-per-kilometer
+{0} L/kmotherunitsshortunitconsumption-liter-per-kilometerpattern
+{0} GBotherunitsshortunitdigital-gigabytepattern
+GBdisplayNameunitsshortunitdigital-gigabyte
+{0} m²otherunitsshortunitarea-square-meterpattern
+{0}/m²perUnitPatternunitsshortunitarea-square-meter
+m²displayNameunitsshortunitarea-square-meter
+ptdisplayNameunitsshortunitlength-point
+{0} ptotherunitsshortunitlength-pointpattern
+{0} MWotherunitsshortunitpower-megawattpattern
+MWdisplayNameunitsshortunitpower-megawatt
+GWdisplayNameunitsshortunitpower-gigawatt
+{0} GWotherunitsshortunitpower-gigawattpattern
+{0} kWotherunitsshortunitpower-kilowattpattern
+kWdisplayNameunitsshortunitpower-kilowatt
+អាហ្វីតdisplayNameunitsshortunitvolume-acre-foot
+{0} ac ftotherunitsshortunitvolume-acre-footpattern
+{0} Gotherunitsshortunitacceleration-g-forcepattern
+កម្លាំង​ទំនាញdisplayNameunitsshortunitacceleration-g-force
+{0} Aotherunitsshortunitelectric-amperepattern
+អំពែរdisplayNameunitsshortunitelectric-ampere
+{0} nsotherunitsshortunitduration-nanosecondpattern
+ណាណូវិនាទីdisplayNameunitsshortunitduration-nanosecond
+luxdisplayNameunitsshortunitlight-lux
+{0} lxotherunitsshortunitlight-luxpattern
+វ៉ាត់displayNameunitsshortunitpower-watt
+{0} Wotherunitsshortunitpower-wattpattern
+mLdisplayNameunitsshortunitvolume-milliliter
+{0} mLotherunitsshortunitvolume-milliliterpattern
+MHzdisplayNameunitsshortunitfrequency-megahertz
+{0} MHzotherunitsshortunitfrequency-megahertzpattern
+{0}/kmperUnitPatternunitsshortunitlength-kilometer
+kmdisplayNameunitsshortunitlength-kilometer
+{0} kmotherunitsshortunitlength-kilometerpattern
+{0}/gal Imp.perUnitPatternunitsshortunitvolume-gallon-imperial
+Imp. galdisplayNameunitsshortunitvolume-gallon-imperial
+{0} gal Imp.otherunitsshortunitvolume-gallon-imperialpattern
+kBdisplayNameunitsshortunitdigital-kilobyte
+{0} kBotherunitsshortunitdigital-kilobytepattern
+{0} oz totherunitsshortunitmass-ounce-troypattern
+oz troydisplayNameunitsshortunitmass-ounce-troy
+{0}°Fotherunitsshortunittemperature-fahrenheitpattern
+°FdisplayNameunitsshortunittemperature-fahrenheit
+{0} mm Hgotherunitsshortunitpressure-millimeter-of-mercurypattern
+mm HgdisplayNameunitsshortunitpressure-millimeter-of-mercury
+{0} mg/dLotherunitsshortunitconcentr-milligram-per-deciliterpattern
+mg/dLdisplayNameunitsshortunitconcentr-milligram-per-deciliter
+{0} cm²otherunitsshortunitarea-square-centimeterpattern
+{0}/cm²perUnitPatternunitsshortunitarea-square-centimeter
+cm²displayNameunitsshortunitarea-square-centimeter
+{0} mi²otherunitsshortunitarea-square-milepattern
+mi²displayNameunitsshortunitarea-square-mile
+{0}/mi²perUnitPatternunitsshortunitarea-square-mile
+អាកវិនាទីdisplayNameunitsshortunitangle-arc-second
+{0} អាកវិនាទីotherunitsshortunitangle-arc-secondpattern
+{0}/ថ្ងៃperUnitPatternunitsshortunitduration-day
+ថ្ងៃdisplayNameunitsshortunitduration-day
+{0} ថ្ងៃotherunitsshortunitduration-daypattern
+{0} TBotherunitsshortunitdigital-terabytepattern
+TBdisplayNameunitsshortunitdigital-terabyte
+tspdisplayNameunitsshortunitvolume-teaspoon
+{0} tspotherunitsshortunitvolume-teaspoonpattern
+ឆ្នាំ​ពន្លឺdisplayNameunitsshortunitlength-light-year
+{0} lyotherunitsshortunitlength-light-yearpattern
+វ៉ុលdisplayNameunitsshortunitelectric-volt
+{0} Votherunitsshortunitelectric-voltpattern
+ស.វdisplayNameunitsshortunitduration-century
+{0} ស.វotherunitsshortunitduration-centurypattern
+{0} វ.otherunitsnarrowunitpower-wattpattern
+{0} kmotherunitsnarrowunitlength-kilometerpattern
+kmdisplayNameunitsnarrowunitlength-kilometer
+{0} គ.វ.otherunitsnarrowunitpower-kilowattpattern
+{0}gotherunitsnarrowunitmass-grampattern
+ក្រាមdisplayNameunitsnarrowunitmass-gram
+{0}′otherunitsnarrowunitangle-arc-minutepattern
+{0} ម².otherunitsnarrowunitarea-square-meterpattern
+{0} ក.ទ.otherunitsnarrowunitacceleration-g-forcepattern
+{0}°Fotherunitsnarrowunittemperature-fahrenheitpattern
+{0} ឆ្នាំ​ពន្លឺotherunitsnarrowunitlength-light-yearpattern
+{0} ថ្ងៃotherunitsnarrowunitduration-daypattern
+ថ្ងៃdisplayNameunitsnarrowunitduration-day
+{0} ម៉².otherunitsnarrowunitarea-square-milepattern
+{0}″otherunitsnarrowunitangle-arc-secondpattern
+{0} គ.ម³.otherunitsnarrowunitvolume-cubic-kilometerpattern
+{0}Lotherunitsnarrowunitvolume-literpattern
+លីត្រdisplayNameunitsnarrowunitvolume-liter
+°CdisplayNameunitsnarrowunittemperature-celsius
+{0}°Cotherunitsnarrowunittemperature-celsiuspattern
+{0} ម./វិ.otherunitsnarrowunitspeed-meter-per-secondpattern
+{0} hPaotherunitsnarrowunitpressure-hectopascalpattern
+{0} ម៉.otherunitsnarrowunitlength-milepattern
+នាទីdisplayNameunitsnarrowunitduration-minute
+{0} នាទីotherunitsnarrowunitduration-minutepattern
+{0} វិនាទីotherunitsnarrowunitduration-secondpattern
+វិនាទីdisplayNameunitsnarrowunitduration-second
+{0}&quot; Hgotherunitsnarrowunitpressure-inch-hgpattern
+{0}″otherunitsnarrowunitlength-inchpattern
+{0} យ៉.otherunitsnarrowunitlength-yardpattern
+{0} ហ្វ².otherunitsnarrowunitarea-square-footpattern
+{0}L/100kmotherunitsnarrowunitconsumption-liter-per-100kilometerspattern
+L/100kmdisplayNameunitsnarrowunitconsumption-liter-per-100kilometers
+{0}′otherunitsnarrowunitlength-footpattern
+{0} អាotherunitsnarrowunitarea-acrepattern
+{0} ព.ម.otherunitsnarrowunitlength-picometerpattern
+{0} mmotherunitsnarrowunitlength-millimeterpattern
+mmdisplayNameunitsnarrowunitlength-millimeter
+ឆ្នាំdisplayNameunitsnarrowunitduration-year
+{0} ឆ្នាំotherunitsnarrowunitduration-yearpattern
+ម៉ោងdisplayNameunitsnarrowunitduration-hour
+{0} ម៉ោងotherunitsnarrowunitduration-hourpattern
+%displayNameunitsnarrowunitconcentr-percent
+{0}%otherunitsnarrowunitconcentr-percentpattern
+{0} សប្ដាហ៍otherunitsnarrowunitduration-weekpattern
+សប្ដាហ៍displayNameunitsnarrowunitduration-week
+{0}°otherunitsnarrowunitangle-degreepattern
+{0} ហ.otherunitsnarrowunitarea-hectarepattern
+{0} ម៉./ម៉otherunitsnarrowunitspeed-mile-per-hourpattern
+{0} ម៉³.otherunitsnarrowunitvolume-cubic-milepattern
+{0} kphotherunitsnarrowunitspeed-kilometer-per-hourpattern
+km/hdisplayNameunitsnarrowunitspeed-kilometer-per-hour
+cmdisplayNameunitsnarrowunitlength-centimeter
+{0} cmotherunitsnarrowunitlength-centimeterpattern
+{0} ម.ប.otherunitsnarrowunitpressure-millibarpattern
+{0} អ.otherunitsnarrowunitmass-ouncepattern
+ខែdisplayNameunitsnarrowunitduration-month
+{0} ខែotherunitsnarrowunitduration-monthpattern
+{0} គ.ម².otherunitsnarrowunitarea-square-kilometerpattern
+{0} សេះotherunitsnarrowunitpower-horsepowerpattern
+kgdisplayNameunitsnarrowunitmass-kilogram
+{0}kgotherunitsnarrowunitmass-kilogrampattern
+{0}#otherunitsnarrowunitmass-poundpattern
+{0}msotherunitsnarrowunitduration-millisecondpattern
+មិល្លី​វិនាទីdisplayNameunitsnarrowunitduration-millisecond
+ម៉ែត្រdisplayNameunitsnarrowunitlength-meter
+{0}motherunitsnarrowunitlength-meterpattern
+{0}ត្បូងsouthunitsnarrowcoordinateUnit
+ទិសdisplayNameunitsnarrowcoordinateUnit
+{0}ជើងnorthunitsnarrowcoordinateUnit
+{0}លិចwestunitsnarrowcoordinateUnit
+{0}កើតeastunitsnarrowcoordinateUnit
+{0}/{1}patternunitsnarrowcompoundUnitper
+0 លាន1000000numbersdecimalFormatslatnshort
+000 លាន100000000numbersdecimalFormatslatnshort
+00 ពាន់10000numbersdecimalFormatslatnshort
+00 លាន10000000numbersdecimalFormatslatnshort
+000 ប៊ីលាន100000000000numbersdecimalFormatslatnshort
+000 ពាន់100000numbersdecimalFormatslatnshort
+00 ទ្រីលាន10000000000000numbersdecimalFormatslatnshort
+0 ប៊ីលាន1000000000numbersdecimalFormatslatnshort
+000 ទ្រីលាន100000000000000numbersdecimalFormatslatnshort
+0ពាន់1000numbersdecimalFormatslatnshort
+0 ទ្រីលាន1000000000000numbersdecimalFormatslatnshort
+00 ប៊ីលាន10000000000numbersdecimalFormatslatnshort
+00 លាន10000000numbersdecimalFormatslatnlong
+000 ប៊ីលាន100000000000numbersdecimalFormatslatnlong
+000ពាន់100000numbersdecimalFormatslatnlong
+000 លាន100000000numbersdecimalFormatslatnlong
+00 ពាន់10000numbersdecimalFormatslatnlong
+0 លាន1000000numbersdecimalFormatslatnlong
+000 ទ្រីលាន100000000000000numbersdecimalFormatslatnlong
+0 ទ្រីលាន1000000000000numbersdecimalFormatslatnlong
+0 ពាន់1000numbersdecimalFormatslatnlong
+00 ប៊ីលាន10000000000numbersdecimalFormatslatnlong
+0 ប៊ីលាន1000000000numbersdecimalFormatslatnlong
+00 ទ្រីលាន10000000000000numbersdecimalFormatslatnlong
+#,##0.###standardnumbersdecimalFormatslatnstandard
+¤000 ពាន់100000numberscurrencyFormatslatnshort
+¤000 ប៊ីលាន100000000000numberscurrencyFormatslatnshort
+¤00 លាន10000000numberscurrencyFormatslatnshort
+¤000 លាន100000000numberscurrencyFormatslatnshort
+¤00 ពាន់10000numberscurrencyFormatslatnshort
+¤0 លាន1000000numberscurrencyFormatslatnshort
+¤0 ទ្រីលាន1000000000000numberscurrencyFormatslatnshort
+¤000 ទ្រីលាន100000000000000numberscurrencyFormatslatnshort
+¤0 ពាន់1000numberscurrencyFormatslatnshort
+¤00 ប៊ីលាន10000000000numberscurrencyFormatslatnshort
+¤0 ប៊ីលាន1000000000numberscurrencyFormatslatnshort
+¤00 ទ្រីលាន10000000000000numberscurrencyFormatslatnshort
+#,##0.00¤;(#,##0.00¤)standardnumberscurrencyFormatslatnstandard
+‰perMillenumberssymbolslatn
+;listnumberssymbolslatn
+:timeSeparatornumberssymbolslatn
+×superscriptingExponentnumberssymbolslatn
+NaNnannumberssymbolslatn
+∞infinitynumberssymbolslatn
+Eexponentialnumberssymbolslatn
++plusSignnumberssymbolslatn
+%percentSignnumberssymbolslatn
+.groupnumberssymbolslatn
+-minusSignnumberssymbolslatn
+,decimalnumberssymbolslatn
+1minimumGroupingDigitsnumbers
+CUPstandardnumberscurrenciesCUP
+$narrownumberscurrenciesCUP
+BBDstandardnumberscurrenciesBBD
+$narrownumberscurrenciesBBD
+A$standardnumberscurrenciesAUD
+$narrownumberscurrenciesAUD
+៛narrownumberscurrenciesKHR
+៛standardnumberscurrenciesKHR
+KZTstandardnumberscurrenciesKZT
+₸narrownumberscurrenciesKZT
+LRDstandardnumberscurrenciesLRD
+$narrownumberscurrenciesLRD
+DbnarrownumberscurrenciesSTN
+FGnarrownumberscurrenciesGNF
+GNFstandardnumberscurrenciesGNF
+RsnarrownumberscurrenciesPKR
+PKRstandardnumberscurrenciesPKR
+MDLstandardnumberscurrenciesMDL
+CFAstandardnumberscurrenciesXOF
+MX$standardnumberscurrenciesMXN
+$narrownumberscurrenciesMXN
+CRCstandardnumberscurrenciesCRC
+₡narrownumberscurrenciesCRC
+UAHstandardnumberscurrenciesUAH
+₴narrownumberscurrenciesUAH
+GHSstandardnumberscurrenciesGHS
+¥narrownumberscurrenciesJPY
+JP¥standardnumberscurrenciesJPY
+AEDstandardnumberscurrenciesAED
+SOSstandardnumberscurrenciesSOS
+KznarrownumberscurrenciesAOA
+AOAstandardnumberscurrenciesAOA
+UZSstandardnumberscurrenciesUZS
+IRRstandardnumberscurrenciesIRR
+₪standardnumberscurrenciesILS
+₪narrownumberscurrenciesILS
+MOPstandardnumberscurrenciesMOP
+SDGstandardnumberscurrenciesSDG
+UGXstandardnumberscurrenciesUGX
+HTGstandardnumberscurrenciesHTG
+NZ$standardnumberscurrenciesNZD
+$narrownumberscurrenciesNZD
+MWKstandardnumberscurrenciesMWK
+SGDstandardnumberscurrenciesSGD
+$narrownumberscurrenciesSGD
+CDFstandardnumberscurrenciesCDF
+LnarrownumberscurrenciesHNL
+HNLstandardnumberscurrenciesHNL
+₩narrownumberscurrenciesKPW
+KPWstandardnumberscurrenciesKPW
+SCRstandardnumberscurrenciesSCR
+TZSstandardnumberscurrenciesTZS
+TTDstandardnumberscurrenciesTTD
+$narrownumberscurrenciesTTD
+BOBstandardnumberscurrenciesBOB
+BsnarrownumberscurrenciesBOB
+KWDstandardnumberscurrenciesKWD
+MVRstandardnumberscurrenciesMVR
+OMRstandardnumberscurrenciesOMR
+MYRstandardnumberscurrenciesMYR
+RMnarrownumberscurrenciesMYR
+RSDstandardnumberscurrenciesRSD
+£narrownumberscurrenciesSSP
+SSPstandardnumberscurrenciesSSP
+$narrownumberscurrenciesXCD
+EC$standardnumberscurrenciesXCD
+ZKnarrownumberscurrenciesZMW
+ZMWstandardnumberscurrenciesZMW
+$narrownumberscurrenciesUYU
+UYUstandardnumberscurrenciesUYU
+MURstandardnumberscurrenciesMUR
+RsnarrownumberscurrenciesMUR
+RONstandardnumberscurrenciesRON
+PABstandardnumberscurrenciesPAB
+YERstandardnumberscurrenciesYER
+€narrownumberscurrenciesEUR
+€standardnumberscurrenciesEUR
+T$narrownumberscurrenciesTOP
+TOPstandardnumberscurrenciesTOP
+BTNstandardnumberscurrenciesBTN
+MGAstandardnumberscurrenciesMGA
+ArnarrownumberscurrenciesMGA
+RpnarrownumberscurrenciesIDR
+IDRstandardnumberscurrenciesIDR
+NT$standardnumberscurrenciesTWD
+NT$narrownumberscurrenciesTWD
+TMTstandardnumberscurrenciesTMT
+MADstandardnumberscurrenciesMAD
+JODstandardnumberscurrenciesJOD
+NGNstandardnumberscurrenciesNGN
+₦narrownumberscurrenciesNGN
+$narrownumberscurrenciesFJD
+FJDstandardnumberscurrenciesFJD
+VUVstandardnumberscurrenciesVUV
+TLvariantnumberscurrenciesTRY
+TRYstandardnumberscurrenciesTRY
+₺narrownumberscurrenciesTRY
+$narrownumberscurrenciesBSD
+BSDstandardnumberscurrenciesBSD
+$narrownumberscurrenciesGYD
+GYDstandardnumberscurrenciesGYD
+CFnarrownumberscurrenciesKMF
+KMFstandardnumberscurrenciesKMF
+$narrownumberscurrenciesSBD
+SBDstandardnumberscurrenciesSBD
+ARSstandardnumberscurrenciesARS
+$narrownumberscurrenciesARS
+BNDstandardnumberscurrenciesBND
+$narrownumberscurrenciesBND
+FKPstandardnumberscurrenciesFKP
+£narrownumberscurrenciesFKP
+GTQstandardnumberscurrenciesGTQ
+QnarrownumberscurrenciesGTQ
+TJSstandardnumberscurrenciesTJS
+RnarrownumberscurrenciesZAR
+ZARstandardnumberscurrenciesZAR
+DJFstandardnumberscurrenciesDJF
+BYNstandardnumberscurrenciesBYN
+р.narrownumberscurrenciesBYN
+ANGstandardnumberscurrenciesANG
+złnarrownumberscurrenciesPLN
+PLNstandardnumberscurrenciesPLN
+NADstandardnumberscurrenciesNAD
+$narrownumberscurrenciesNAD
+ERNstandardnumberscurrenciesERN
+DZDstandardnumberscurrenciesDZD
+CVEstandardnumberscurrenciesCVE
+LAKstandardnumberscurrenciesLAK
+₭narrownumberscurrenciesLAK
+MROstandardnumberscurrenciesMRO
+RsnarrownumberscurrenciesLKR
+LKRstandardnumberscurrenciesLKR
+KGSstandardnumberscurrenciesKGS
+PHPstandardnumberscurrenciesPHP
+₱narrownumberscurrenciesPHP
+LBPstandardnumberscurrenciesLBP
+L£narrownumberscurrenciesLBP
+ETBstandardnumberscurrenciesETB
+WSTstandardnumberscurrenciesWST
+£narrownumberscurrenciesSYP
+SYPstandardnumberscurrenciesSYP
+ALLstandardnumberscurrenciesALL
+AWGstandardnumberscurrenciesAWG
+฿standardnumberscurrenciesTHB
+฿narrownumberscurrenciesTHB
+CN¥standardnumberscurrenciesCNY
+¥narrownumberscurrenciesCNY
+₲narrownumberscurrenciesPYG
+PYGstandardnumberscurrenciesPYG
+NOKstandardnumberscurrenciesNOK
+RUBstandardnumberscurrenciesRUB
+₽narrownumberscurrenciesRUB
+QARstandardnumberscurrenciesQAR
+$narrownumberscurrenciesDOP
+DOPstandardnumberscurrenciesDOP
+COPstandardnumberscurrenciesCOP
+$narrownumberscurrenciesCOP
+PnarrownumberscurrenciesBWP
+BWPstandardnumberscurrenciesBWP
+$narrownumberscurrenciesBMD
+BMDstandardnumberscurrenciesBMD
+KMnarrownumberscurrenciesBAM
+BAMstandardnumberscurrenciesBAM
+KnarrownumberscurrenciesMMK
+MMKstandardnumberscurrenciesMMK
+SARstandardnumberscurrenciesSAR
+HK$standardnumberscurrenciesHKD
+$narrownumberscurrenciesHKD
+FCFAstandardnumberscurrenciesXAF
+AZNstandardnumberscurrenciesAZN
+$standardnumberscurrenciesUSD
+$narrownumberscurrenciesUSD
+CZKstandardnumberscurrenciesCZK
+KčnarrownumberscurrenciesCZK
+SZLstandardnumberscurrenciesSZL
+CUCstandardnumberscurrenciesCUC
+$narrownumberscurrenciesCUC
+£narrownumberscurrenciesGIP
+GIPstandardnumberscurrenciesGIP
+ISKstandardnumberscurrenciesISK
+₾variantnumberscurrenciesGEL
+GELstandardnumberscurrenciesGEL
+TNDstandardnumberscurrenciesTND
+RsnarrownumberscurrenciesNPR
+NPRstandardnumberscurrenciesNPR
+krnarrownumberscurrenciesSEK
+SEKstandardnumberscurrenciesSEK
+SLLstandardnumberscurrenciesSLL
+₫narrownumberscurrenciesVND
+₫standardnumberscurrenciesVND
+₹standardnumberscurrenciesINR
+₹narrownumberscurrenciesINR
+KYDstandardnumberscurrenciesKYD
+$narrownumberscurrenciesKYD
+MZNstandardnumberscurrenciesMZN
+AMDstandardnumberscurrenciesAMD
+C$narrownumberscurrenciesNIO
+NIOstandardnumberscurrenciesNIO
+STDstandardnumberscurrenciesSTD
+$narrownumberscurrenciesCAD
+CA$standardnumberscurrenciesCAD
+R$standardnumberscurrenciesBRL
+R$narrownumberscurrenciesBRL
+BIFstandardnumberscurrenciesBIF
+BHDstandardnumberscurrenciesBHD
+BGNstandardnumberscurrenciesBGN
+RWFstandardnumberscurrenciesRWF
+RFnarrownumberscurrenciesRWF
+krnarrownumberscurrenciesDKK
+DKKstandardnumberscurrenciesDKK
+£standardnumberscurrenciesGBP
+£narrownumberscurrenciesGBP
+CHFstandardnumberscurrenciesCHF
+$narrownumberscurrenciesSRD
+SRDstandardnumberscurrenciesSRD
+LTLstandardnumberscurrenciesLTL
+PGKstandardnumberscurrenciesPGK
+HRKstandardnumberscurrenciesHRK
+knnarrownumberscurrenciesHRK
+$narrownumberscurrenciesCLP
+CLPstandardnumberscurrenciesCLP
+$narrownumberscurrenciesBZD
+BZDstandardnumberscurrenciesBZD
+$narrownumberscurrenciesJMD
+JMDstandardnumberscurrenciesJMD
+KESstandardnumberscurrenciesKES
+LVLstandardnumberscurrenciesLVL
+MKDstandardnumberscurrenciesMKD
+E£narrownumberscurrenciesEGP
+EGPstandardnumberscurrenciesEGP
+BYRstandardnumberscurrenciesBYR
+FtnarrownumberscurrenciesHUF
+HUFstandardnumberscurrenciesHUF
+BDTstandardnumberscurrenciesBDT
+৳narrownumberscurrenciesBDT
+CFPFstandardnumberscurrenciesXPF
+AFNstandardnumberscurrenciesAFN
+VEFstandardnumberscurrenciesVEF
+BsnarrownumberscurrenciesVEF
+₩standardnumberscurrenciesKRW
+₩narrownumberscurrenciesKRW
+LYDstandardnumberscurrenciesLYD
+MNTstandardnumberscurrenciesMNT
+₮narrownumberscurrenciesMNT
+£narrownumberscurrenciesSHP
+SHPstandardnumberscurrenciesSHP
+GMDstandardnumberscurrenciesGMD
+IQDstandardnumberscurrenciesIQD
+PENstandardnumberscurrenciesPEN
+{0}+atLeastnumbersmiscPatternslatn
+{0}–{1}rangenumbersmiscPatternslatn
+~{0}approximatelynumbersmiscPatternslatn
+≤{0}atMostnumbersmiscPatternslatn
+#E0standardnumbersscientificFormatslatnstandard
+#,##0%standardnumberspercentFormatslatnstandard
+latnstandardnumbersdefaultNumberingSystem
+khmrnativenumbersotherNumberingSystems
+”quotationEnddelimiters
+“quotationStartdelimiters
+‘alternateQuotationStartdelimiters
+’alternateQuotationEnddelimiters
+ទូទៅZyyylocaleDisplayNamesscripts
+ខាណាដាKndalocaleDisplayNamesscripts
+អេត្យូពីEthilocaleDisplayNamesscripts
+គូចារ៉ាទីGujrlocaleDisplayNamesscripts
+សញ្ញាអារម្មណ៍ZsyelocaleDisplayNamesscripts
+និមិត្តសញ្ញាគណិតវិទ្យាZmthlocaleDisplayNamesscripts
+ស៊ីនហាឡាSinhlocaleDisplayNamesscripts
+អូឌៀOryalocaleDisplayNamesscripts
+អក្សរ​ហាន​ពេញHantlocaleDisplayNamesscripts
+ហ្សកហ្ស៊ីGeorlocaleDisplayNamesscripts
+បង់ក្លាដែសBenglocaleDisplayNamesscripts
+ថាណាThaalocaleDisplayNamesscripts
+កាតាកាណាKanalocaleDisplayNamesscripts
+តាមីលTamllocaleDisplayNamesscripts
+ខ្មែរKhmrlocaleDisplayNamesscripts
+ជប៉ុនJpanlocaleDisplayNamesscripts
+ស៊ីរីលីកCyrllocaleDisplayNamesscripts
+អក្សរ​សម្រាប់មនុស្ស​ពិការ​ភ្នែកBrailocaleDisplayNamesscripts
+ថៃThailocaleDisplayNamesscripts
+សញ្ញាសំឡេងភាសាជប៉ុនHrktlocaleDisplayNamesscripts
+ចាម៉ូJamolocaleDisplayNamesscripts
+បូផូម៉ូហ្វូBopolocaleDisplayNamesscripts
+ហ៊ីរ៉ាកាណាHiralocaleDisplayNamesscripts
+អក្សរ​ហាន​កាត់HanslocaleDisplayNamesscripts
+ភូមាMymrlocaleDisplayNamesscripts
+អក្សរមិនស្គាល់ZzzzlocaleDisplayNamesscripts
+គ្មានការសរសេរZxxxlocaleDisplayNamesscripts
+មលយាល័មMlymlocaleDisplayNamesscripts
+ហានHanilocaleDisplayNamesscripts
+កុមុយឃីGurulocaleDisplayNamesscripts
+ក្រិចGreklocaleDisplayNamesscripts
+ទីបេTibtlocaleDisplayNamesscripts
+ម៉ុងហ្គោលីMonglocaleDisplayNamesscripts
+ឡាតាំងLatnlocaleDisplayNamesscripts
+អាមេនីArmnlocaleDisplayNamesscripts
+ឡាវLaoolocaleDisplayNamesscripts
+ហានប៍HanblocaleDisplayNamesscripts
+និមិត្តសញ្ញាZsymlocaleDisplayNamesscripts
+កូរ៉េKorelocaleDisplayNamesscripts
+តេលុគុTelulocaleDisplayNamesscripts
+ដាវ៉ាន់ណាការិDevalocaleDisplayNamesscripts
+អ៊ីស្រាអែលHebrlocaleDisplayNamesscripts
+ហាំងកុលHanglocaleDisplayNamesscripts
+អារ៉ាប់ArablocaleDisplayNamesscripts
+{0} ({1})localePatternlocaleDisplayNameslocaleDisplayPattern
+{0}, {1}localeSeparatorlocaleDisplayNameslocaleDisplayPattern
+{0}៖ {1}localeKeyTypePatternlocaleDisplayNameslocaleDisplayPattern
+សាធារណរដ្ឋ​ដូមីនីកDOlocaleDisplayNamesterritories
+ម៉ាឡេស៊ីMYlocaleDisplayNamesterritories
+ស៊ីរីSYlocaleDisplayNamesterritories
+នីហ្សេNElocaleDisplayNamesterritories
+នេប៉ាល់NPlocaleDisplayNamesterritories
+ឡេតូនីLVlocaleDisplayNamesterritories
+អេត្យូពីETlocaleDisplayNamesterritories
+អ៊ីតាលីITlocaleDisplayNamesterritories
+អ៊ុយរូហ្គាយUYlocaleDisplayNamesterritories
+សាំង​វ៉ាំងសង់ និង ហ្គ្រេណាឌីនVClocaleDisplayNamesterritories
+ឡាវLAlocaleDisplayNamesterritories
+ប៉ាគីស្ថានPKlocaleDisplayNamesterritories
+អង់ទីហ្គា និង បាប៊ុយដាAGlocaleDisplayNamesterritories
+ហុងឌូរ៉ាសHNlocaleDisplayNamesterritories
+ណាមីប៊ីNAlocaleDisplayNamesterritories
+ហុងកុង តំបន់រដ្ឋបាលពិសេសចិនHKlocaleDisplayNamesterritories
+បុតស្វាណាBWlocaleDisplayNamesterritories
+លុចសំបួLUlocaleDisplayNamesterritories
+សាម័រWSlocaleDisplayNamesterritories
+អារូបាAWlocaleDisplayNamesterritories
+ផៅឡូPWlocaleDisplayNamesterritories
+អង់ហ្គីឡាAIlocaleDisplayNamesterritories
+កោះ​ហឺដ និង​ម៉ាក់ដូណាល់HMlocaleDisplayNamesterritories
+ម៉ូណាកូMClocaleDisplayNamesterritories
+កោះ​ណ័រហ្វក់NFlocaleDisplayNamesterritories
+វ៉ាលីស និង​ហ្វូទូណាWFlocaleDisplayNamesterritories
+ហ្វីជីFJlocaleDisplayNamesterritories
+តួកម៉េនីស្ថានTMlocaleDisplayNamesterritories
+នីហ្សេរីយ៉ាNGlocaleDisplayNamesterritories
+ឌៀហ្គោហ្គាស៊ីDGlocaleDisplayNamesterritories
+ស៊ូដង់​ខាង​ត្បូងSSlocaleDisplayNamesterritories
+តង់សានីTZlocaleDisplayNamesterritories
+តំបន់ចាយលុយអឺរ៉ូEZlocaleDisplayNamesterritories
+តំបន់ជាយអូសេអានីQOlocaleDisplayNamesterritories
+អាហ្វហ្គានីស្ថានAFlocaleDisplayNamesterritories
+ហ្វាំងឡង់FIlocaleDisplayNamesterritories
+ហ្គីអាណា បារាំងGFlocaleDisplayNamesterritories
+ម៉ាឡាវីMWlocaleDisplayNamesterritories
+បូស្នី និងហឺហ្សីហ្គូវីណាBAlocaleDisplayNamesterritories
+ក្វាតេម៉ាឡាGTlocaleDisplayNamesterritories
+សាំងលូស៊ីLClocaleDisplayNamesterritories
+គិរីបាទីKIlocaleDisplayNamesterritories
+ព័រទុយហ្គាល់PTlocaleDisplayNamesterritories
+កោះ​អៅឡាយីង​អាមេរិកUMlocaleDisplayNamesterritories
+កោះ​កូកូស (គីលីង)CClocaleDisplayNamesterritories
+អាមេនីAMlocaleDisplayNamesterritories
+កូឡុំប៊ីCOlocaleDisplayNamesterritories
+អាហ្សង់ទីនARlocaleDisplayNamesterritories
+ហ៊្សកដានីJOlocaleDisplayNamesterritories
+ក្រូអាស៊ីHRlocaleDisplayNamesterritories
+ស៊ីលីCLlocaleDisplayNamesterritories
+ស្វីសCHlocaleDisplayNamesterritories
+អាមេរិក​ឡាទីន419localeDisplayNamesterritories
+ម៉ូរីសMUlocaleDisplayNamesterritories
+បេលីBZlocaleDisplayNamesterritories
+សីស្ហែលSClocaleDisplayNamesterritories
+កាណាដាCAlocaleDisplayNamesterritories
+បួគីណាហ្វាសូBFlocaleDisplayNamesterritories
+សាន​ម៉ារីណូSMlocaleDisplayNamesterritories
+ស៊ូដង់SDlocaleDisplayNamesterritories
+បែលហ្ស៊ិកBElocaleDisplayNamesterritories
+កោះ​ម៉ាស់សលMHlocaleDisplayNamesterritories
+ហ្គាណាGHlocaleDisplayNamesterritories
+បាហាម៉ាBSlocaleDisplayNamesterritories
+ទ្រីនីដាត និង​តូបាហ្គោTTlocaleDisplayNamesterritories
+អូទ្រីសATlocaleDisplayNamesterritories
+កាប់វែរCVlocaleDisplayNamesterritories
+កូរ៉ាកៅCWlocaleDisplayNamesterritories
+កោះ​ហ្វក់ឡែន (Islas Malvinas)FKlocaleDisplayNamesterritories
+ម៉ារ៉ុកMAlocaleDisplayNamesterritories
+អង់ហ្គោឡាAOlocaleDisplayNamesterritories
+ហ្គីណេGNlocaleDisplayNamesterritories
+អ៊ូសបេគីស្ថានUZlocaleDisplayNamesterritories
+កូសូវ៉ូXKlocaleDisplayNamesterritories
+ហ្គំប៊ីGMlocaleDisplayNamesterritories
+សូម៉ាលីSOlocaleDisplayNamesterritories
+កេនយ៉ាKElocaleDisplayNamesterritories
+ម៉ាដាហ្គាស្កាMGlocaleDisplayNamesterritories
+លីប៊ីLYlocaleDisplayNamesterritories
+នូវែល​សេឡង់NZlocaleDisplayNamesterritories
+ហៃទីHTlocaleDisplayNamesterritories
+អាមេរិក019localeDisplayNamesterritories
+លីបង់LBlocaleDisplayNamesterritories
+អូសេអានី009localeDisplayNamesterritories
+អាស៊ី​ខាង​លិច145localeDisplayNamesterritories
+សាហារ៉ាខាងលិចEHlocaleDisplayNamesterritories
+តុងហ្គាTOlocaleDisplayNamesterritories
+ស៊ីបCYlocaleDisplayNamesterritories
+ថៃTHlocaleDisplayNamesterritories
+ឆាដTDlocaleDisplayNamesterritories
+សៀរ៉ាឡេអូនSLlocaleDisplayNamesterritories
+សែប៊ីRSlocaleDisplayNamesterritories
+តំបន់​មីក្រូណេស៊ី057localeDisplayNamesterritories
+តូហ្គោTGlocaleDisplayNamesterritories
+បាបាដុសBBlocaleDisplayNamesterritories
+ព្រុយណេBNlocaleDisplayNamesterritories
+អូស្ត្រាលីAUlocaleDisplayNamesterritories
+ឥណ្ឌាINlocaleDisplayNamesterritories
+អ៊ីស្លង់ISlocaleDisplayNamesterritories
+ម៉ាសេដ្វាន (អតីត​សាធារណរដ្ឋ​យូហ្គោស្លាវី)MKlocaleDisplayNamesterritories
+អារ៉ាប៊ីសាអូឌីតSAlocaleDisplayNamesterritories
+កោះ​ខូកCKlocaleDisplayNamesterritories
+អាស៊ី​ខាង​ត្បូង034localeDisplayNamesterritories
+អាស៊ែបៃហ្សង់AZlocaleDisplayNamesterritories
+កូម័រKMlocaleDisplayNamesterritories
+តូខេឡៅTKlocaleDisplayNamesterritories
+ប៉ារ៉ាហ្គាយPYlocaleDisplayNamesterritories
+កោះ​សូឡូម៉ុងSBlocaleDisplayNamesterritories
+ប៊ូរុនឌីBIlocaleDisplayNamesterritories
+អេស្តូនីEElocaleDisplayNamesterritories
+ហ្គាបុងGAlocaleDisplayNamesterritories
+អាមេរិក​ខាង​ត្បូង005localeDisplayNamesterritories
+ប្រេស៊ីលBRlocaleDisplayNamesterritories
+ដែនដី​បារាំង​នៅ​ភាគខាងត្បូងTFlocaleDisplayNamesterritories
+កោះ​ហ្វារ៉ូFOlocaleDisplayNamesterritories
+អៀរឡង់IElocaleDisplayNamesterritories
+អែលអុហ្វមែនIMlocaleDisplayNamesterritories
+បារ៉ែនBHlocaleDisplayNamesterritories
+អេស្ប៉ាញESlocaleDisplayNamesterritories
+ហ្គីណេប៊ីស្សូGWlocaleDisplayNamesterritories
+អាស៊ី​កណ្ដាល143localeDisplayNamesterritories
+អេក្វាទ័រEClocaleDisplayNamesterritories
+ស៊ុយអែតSElocaleDisplayNamesterritories
+ប៉ាពូអាស៊ី​នូវែលហ្គីណេPGlocaleDisplayNamesterritories
+អង់ដូរ៉ាADlocaleDisplayNamesterritories
+សៅតូម៉េ និង ប្រាំងស៊ីបSTlocaleDisplayNamesterritories
+ស្វាលបាដ និង ហ្សង់ម៉ាយេនSJlocaleDisplayNamesterritories
+សាំង​បាថេឡេមីBLlocaleDisplayNamesterritories
+ហ្គ្រោអង់ឡង់GLlocaleDisplayNamesterritories
+ម៉ិកស៊ិកMXlocaleDisplayNamesterritories
+អាល់បានីALlocaleDisplayNamesterritories
+កោះ​វឺជិន​ចក្រភព​អង់គ្លេសVGlocaleDisplayNamesterritories
+អ៊ីស្រាអែលILlocaleDisplayNamesterritories
+នីការ៉ាហ្គាNIlocaleDisplayNamesterritories
+ន័រវែសNOlocaleDisplayNamesterritories
+ដូមីនីកDMlocaleDisplayNamesterritories
+ប៉ាលេស្ទីនPSlocaleDisplayNamesterritories
+ក្រិកGRlocaleDisplayNamesterritories
+កោះ​អាឡង់AXlocaleDisplayNamesterritories
+ម៉ុលដាវីMDlocaleDisplayNamesterritories
+កូរ៉េ​ខាង​ត្បូងKRlocaleDisplayNamesterritories
+ប៉េរូPElocaleDisplayNamesterritories
+រុស្ស៊ីRUlocaleDisplayNamesterritories
+កៀហ្ស៊ីស៊ីស្ថានKGlocaleDisplayNamesterritories
+អង្គការUNlocaleDisplayNamesterritories
+សិង្ហបុរីSGlocaleDisplayNamesterritories
+កុងហ្គោ (សធារណរដ្ឋ)CGlocaleDisplayNamesterritories
+អង់តាក់ទិកAQlocaleDisplayNamesterritories
+ហ្គ្រើណាដGDlocaleDisplayNamesterritories
+ច.អ.GBlocaleDisplayNamesterritories
+សេណេហ្គាល់SNlocaleDisplayNamesterritories
+វ៉ានូទូVUlocaleDisplayNamesterritories
+អ៊ូហ្គង់ដាUGlocaleDisplayNamesterritories
+មេឡាណេស៊ី054localeDisplayNamesterritories
+ម៉ាល់ឌីវMVlocaleDisplayNamesterritories
+ម៉ាលីMLlocaleDisplayNamesterritories
+នូវែល​កាឡេដូនីNClocaleDisplayNamesterritories
+ហ្គាំGUlocaleDisplayNamesterritories
+អាហ្វ្រិកខាងត្បូងZAlocaleDisplayNamesterritories
+សំប៊ីZMlocaleDisplayNamesterritories
+អែលសាល់វ៉ាឌ័រSVlocaleDisplayNamesterritories
+អាហ្វ្រិក​ខាង​ជើង015localeDisplayNamesterritories
+រេអុយញ៉ុងRElocaleDisplayNamesterritories
+អាស៊ីអាគ្នេយ៍035localeDisplayNamesterritories
+អាល់ហ្សេរីDZlocaleDisplayNamesterritories
+ហុងគ្រីHUlocaleDisplayNamesterritories
+អឺរ៉ុប​ខាង​ត្បូង039localeDisplayNamesterritories
+ទូវ៉ាលូTVlocaleDisplayNamesterritories
+អាហ្វ្រិក​កណ្តាល017localeDisplayNamesterritories
+កោះ​គ្រីស្មាសCXlocaleDisplayNamesterritories
+កោះ​កាណារីIClocaleDisplayNamesterritories
+អឺរ៉ុប​ខាង​ជើង154localeDisplayNamesterritories
+ឡេសូតូLSlocaleDisplayNamesterritories
+អ៊ីរ៉ង់IRlocaleDisplayNamesterritories
+អាមេរិក​កណ្ដាល013localeDisplayNamesterritories
+បារាំងFRlocaleDisplayNamesterritories
+អ៊ីរ៉ាក់IQlocaleDisplayNamesterritories
+ម៉ូរីតានីMRlocaleDisplayNamesterritories
+ម៉ុងហ្គោលីMNlocaleDisplayNamesterritories
+យេម៉ែនYElocaleDisplayNamesterritories
+ហ្គីណេអេក្វាទ័រGQlocaleDisplayNamesterritories
+លីបេរីយ៉ាLRlocaleDisplayNamesterritories
+ហ្គោដឺឡុបGPlocaleDisplayNamesterritories
+ម៉ូសំប៊ិកMZlocaleDisplayNamesterritories
+តំបន់មិនស្គាល់ZZlocaleDisplayNamesterritories
+សីង​ម៉ាធីនSXlocaleDisplayNamesterritories
+កោះ​ភីតកានPNlocaleDisplayNamesterritories
+អាល្លឺម៉ង់DElocaleDisplayNamesterritories
+សង់ព្យែរ និង​មីគីឡុងPMlocaleDisplayNamesterritories
+ម៉ាទីនីកMQlocaleDisplayNamesterritories
+ស៊ីមបាវ៉េZWlocaleDisplayNamesterritories
+ហូឡង់ ការ៉ាប៊ីនBQlocaleDisplayNamesterritories
+វ៉េណេស៊ុយអេឡាVElocaleDisplayNamesterritories
+ប៊ឺមុយដាBMlocaleDisplayNamesterritories
+ទីម័រ​ខាង​កើតTLlocaleDisplayNamesterritories
+បង់ក្លាដែសBDlocaleDisplayNamesterritories
+ប៊ុលហ្គារីBGlocaleDisplayNamesterritories
+កោះ​ឃ្លីភឺតុនCPlocaleDisplayNamesterritories
+កូស្តារីកាCRlocaleDisplayNamesterritories
+ជឺស៊ីJElocaleDisplayNamesterritories
+ណូរូNRlocaleDisplayNamesterritories
+ប៉ូលីណេស៊ី061localeDisplayNamesterritories
+អាមេរិក​ភាគ​ខាង​ជើង021localeDisplayNamesterritories
+ម៉ាយុតYTlocaleDisplayNamesterritories
+តាហ្ស៊ីគីស្ថានTJlocaleDisplayNamesterritories
+អាយវ៉ូរី ខូសថ៍CIlocaleDisplayNamesterritories
+គុយបាCUlocaleDisplayNamesterritories
+កាហ្សាក់ស្ថានKZlocaleDisplayNamesterritories
+ហូឡង់NLlocaleDisplayNamesterritories
+មីក្រូណេស៊ីFMlocaleDisplayNamesterritories
+សូរីណាមSRlocaleDisplayNamesterritories
+រវ៉ាន់ដាRWlocaleDisplayNamesterritories
+អូស្ត្រាឡាស៊ី053localeDisplayNamesterritories
+កោះ​អាសេនសិនAClocaleDisplayNamesterritories
+អាស៊ី142localeDisplayNamesterritories
+លីទុយអានីLTlocaleDisplayNamesterritories
+ម៉ុងតេណេហ្គ្រោMElocaleDisplayNamesterritories
+ទ្រីស្តង់​ដា​ចូនហាTAlocaleDisplayNamesterritories
+ពិភពលោក001localeDisplayNamesterritories
+ប៊ូតង់BTlocaleDisplayNamesterritories
+អឺរ៉ុប150localeDisplayNamesterritories
+ហ្គីយ៉ានGYlocaleDisplayNamesterritories
+ចិនCNlocaleDisplayNamesterritories
+ស្រីលង្កាLKlocaleDisplayNamesterritories
+ម៉ុងស៊ែរ៉ាMSlocaleDisplayNamesterritories
+វៀតណាមVNlocaleDisplayNamesterritories
+ស.រ.អUSlocaleDisplayNamesterritories
+សង់​ហេឡេណាSHlocaleDisplayNamesterritories
+កុងហ្គោ (សាធារណរដ្ឋ​ប្រជាធិបតេយ្យ)CDlocaleDisplayNamesterritories
+ជឺតា និង​ម៉េលីឡាEAlocaleDisplayNamesterritories
+កូរ៉េ​ខាង​ជើងKPlocaleDisplayNamesterritories
+ម៉ាកាវMOlocaleDisplayNamesterritories
+ជីប៊ូទីDJlocaleDisplayNamesterritories
+ជប៉ុនJPlocaleDisplayNamesterritories
+តួកគីTRlocaleDisplayNamesterritories
+អ៊ុយក្រែនUAlocaleDisplayNamesterritories
+រូម៉ានីROlocaleDisplayNamesterritories
+ស្លូវេនីSIlocaleDisplayNamesterritories
+បេណាំងBJlocaleDisplayNamesterritories
+ហ្សកហ្ស៊ីGElocaleDisplayNamesterritories
+អាមេរិក​ខាង​ជើង003localeDisplayNamesterritories
+ហ្គេនស៊ីGGlocaleDisplayNamesterritories
+ស្លូវ៉ាគីSKlocaleDisplayNamesterritories
+ហ្វីលីពីនPHlocaleDisplayNamesterritories
+ឥណ្ឌូណេស៊ីIDlocaleDisplayNamesterritories
+កម្ពុជាKHlocaleDisplayNamesterritories
+អឺរ៉ុប​ខាង​កើត151localeDisplayNamesterritories
+ប៉ូលី​ណេស៊ី​បារាំងPFlocaleDisplayNamesterritories
+ហ្ស៊ីប្រាល់តាGIlocaleDisplayNamesterritories
+ម៉ាល់ត៍MTlocaleDisplayNamesterritories
+សាំង​ម៉ាទីនMFlocaleDisplayNamesterritories
+ណៀNUlocaleDisplayNamesterritories
+ប៉ាណាម៉ាPAlocaleDisplayNamesterritories
+កោះ​ប៊ូវ៉េតBVlocaleDisplayNamesterritories
+បុរី​វ៉ាទីកង់VAlocaleDisplayNamesterritories
+តៃវ៉ាន់TWlocaleDisplayNamesterritories
+ទុយនីស៊ីTNlocaleDisplayNamesterritories
+បេឡារុសBYlocaleDisplayNamesterritories
+អាស៊ី​ខាង​កើត030localeDisplayNamesterritories
+អឺរ៉ុប​ខាង​លិច155localeDisplayNamesterritories
+សាំង​គីត និង ណេវីសKNlocaleDisplayNamesterritories
+អាហ្វ្រិក​ខាង​លិច011localeDisplayNamesterritories
+កោះ​វឺជីន​អាមេរិកVIlocaleDisplayNamesterritories
+ការ៉ាប៊ីន029localeDisplayNamesterritories
+ព័រតូរីកូPRlocaleDisplayNamesterritories
+កោះ​ទួគ និង កៃកូសTClocaleDisplayNamesterritories
+សាធារណរដ្ឋអាហ្វ្រិកកណ្ដាលCFlocaleDisplayNamesterritories
+បូលីវីBOlocaleDisplayNamesterritories
+កោះ​ហ្សកហ្ស៊ី​ខាងត្បូង និង សង់វិច​ខាងត្បូងGSlocaleDisplayNamesterritories
+កោះ​កៃម៉ង់KYlocaleDisplayNamesterritories
+សាធារណរដ្ឋឆេកCZlocaleDisplayNamesterritories
+កាតាQAlocaleDisplayNamesterritories
+អាហ្វ្រិក002localeDisplayNamesterritories
+អេហ្ស៊ីបEGlocaleDisplayNamesterritories
+លិចតិនស្ដាញLIlocaleDisplayNamesterritories
+ប៉ូឡូញPLlocaleDisplayNamesterritories
+អាហ្វ្រិកខាងកើត014localeDisplayNamesterritories
+អាហ្វ្រិកភាគខាងត្បូង018localeDisplayNamesterritories
+អនុតំបន់សាហារ៉ាអាហ្វ្រិក202localeDisplayNamesterritories
+អេមីរ៉ាត​អារ៉ាប់​រួមAElocaleDisplayNamesterritories
+សហភាព​អឺរ៉ុបEUlocaleDisplayNamesterritories
+សាម័រ អាមេរិកាំងASlocaleDisplayNamesterritories
+ដែនដី​អង់គ្លេស​នៅ​មហា​សមុទ្រ​ឥណ្ឌាIOlocaleDisplayNamesterritories
+ហ្សាម៉ាអ៊ីកJMlocaleDisplayNamesterritories
+កូវ៉ែតKWlocaleDisplayNamesterritories
+អូម៉ង់OMlocaleDisplayNamesterritories
+កាមេរូនCMlocaleDisplayNamesterritories
+ស្វាស៊ីឡង់SZlocaleDisplayNamesterritories
+ដាណឺម៉ាកDKlocaleDisplayNamesterritories
+អេរីត្រេERlocaleDisplayNamesterritories
+កោះ​ម៉ារីណា​ខាង​ជើងMPlocaleDisplayNamesterritories
+មីយ៉ាន់ម៉ា (ភូមា)MMlocaleDisplayNamesterritories
+ម៉ុងhmnlocaleDisplayNameslanguages
+ហូសាhalocaleDisplayNameslanguages
+ក្វាស្យូnmglocaleDisplayNameslanguages
+សាម័រsmlocaleDisplayNameslanguages
+លូអូluolocaleDisplayNameslanguages
+ស្លូវ៉ានីsllocaleDisplayNameslanguages
+មេតាmgolocaleDisplayNameslanguages
+គូរូkfolocaleDisplayNameslanguages
+បេមបាbemlocaleDisplayNameslanguages
+ដាកូតាdaklocaleDisplayNameslanguages
+ទេវីហ៊ីdvlocaleDisplayNameslanguages
+ហ្គូស៊ីguzlocaleDisplayNameslanguages
+កាប៊ូវឺឌៀនូkealocaleDisplayNameslanguages
+យ៉ីឌីសyilocaleDisplayNameslanguages
+ម៉ាកូនដេkdelocaleDisplayNameslanguages
+ដាហ្សាហ្គាdzglocaleDisplayNameslanguages
+កាហ្សាក់kklocaleDisplayNameslanguages
+ស៊ីប៊ូអាណូceblocaleDisplayNameslanguages
+ប៊ុកហ្គីbuglocaleDisplayNameslanguages
+អាសាមីសaslocaleDisplayNameslanguages
+អាឌីហ្គីadylocaleDisplayNameslanguages
+ផាមភេនហ្គាpamlocaleDisplayNameslanguages
+ណូហ្គៃnoglocaleDisplayNameslanguages
+ហ្សូលូzulocaleDisplayNameslanguages
+ម៉ាសៃmaslocaleDisplayNameslanguages
+អ៊ូសបេគuzlocaleDisplayNameslanguages
+វ៉ារេយwarlocaleDisplayNameslanguages
+កូនីសkwlocaleDisplayNameslanguages
+កាគូសgaglocaleDisplayNameslanguages
+អាវ៉ារីកavlocaleDisplayNameslanguages
+ផ្លាមីសnl_BElocaleDisplayNameslanguages
+មុនដាងmualocaleDisplayNameslanguages
+ព្រូស៊ានprglocaleDisplayNameslanguages
+អ៊ីដូiolocaleDisplayNameslanguages
+វូឡាពូកvolocaleDisplayNameslanguages
+តុងហ្គាtolocaleDisplayNameslanguages
+ឈីឆេនcelocaleDisplayNameslanguages
+បេឡារុសbelocaleDisplayNameslanguages
+សឺបូក្រូអាតshlocaleDisplayNameslanguages
+នុនហ្គាnglocaleDisplayNameslanguages
+កូមីkvlocaleDisplayNameslanguages
+សាឌីនាsclocaleDisplayNameslanguages
+ស្វាទីsslocaleDisplayNameslanguages
+ភាសាមិនស្គាល់undlocaleDisplayNameslanguages
+អ៊ីនុកទីទុតiulocaleDisplayNameslanguages
+ចិនzhlocaleDisplayNameslanguages
+ម៉ាហ្សានដឺរេនីmznlocaleDisplayNameslanguages
+ជីសgezlocaleDisplayNameslanguages
+សុងហ្គាtslocaleDisplayNameslanguages
+កាលែនជីនklnlocaleDisplayNameslanguages
+វ៉ារីប៉ារីwbplocaleDisplayNameslanguages
+កាឈីនkaclocaleDisplayNameslanguages
+ឆុកតាវcholocaleDisplayNameslanguages
+បាលីbanlocaleDisplayNameslanguages
+ថៃthlocaleDisplayNameslanguages
+វៃvailocaleDisplayNameslanguages
+លូរីខាងជើងlrclocaleDisplayNameslanguages
+គូនយ៉ាម៉ាkjlocaleDisplayNameslanguages
+ទីបេbolocaleDisplayNameslanguages
+អាហ្វ្រិកានaflocaleDisplayNameslanguages
+សូប៊ីក្រោមdsblocaleDisplayNameslanguages
+ណានចាnylocaleDisplayNameslanguages
+ស៊ីណាsehlocaleDisplayNameslanguages
+ស្កុតហ្កែលិគgdlocaleDisplayNameslanguages
+ទុមប៊ូកាtumlocaleDisplayNameslanguages
+អ៊ិនហ្គូសinhlocaleDisplayNameslanguages
+អីនធើលីងialocaleDisplayNameslanguages
+មេនឌីmenlocaleDisplayNameslanguages
+អារ៉ាប់arlocaleDisplayNameslanguages
+ចិន​អក្សរ​កាត់zh_HanslocaleDisplayNameslanguages
+ហេប្រឺhelocaleDisplayNameslanguages
+មីណាងកាប៊ូminlocaleDisplayNameslanguages
+ម៉ោរីmilocaleDisplayNameslanguages
+បាស្គៀbalocaleDisplayNameslanguages
+ជូkajlocaleDisplayNameslanguages
+បាម្បារាbmlocaleDisplayNameslanguages
+ណាវ៉ាចូnvlocaleDisplayNameslanguages
+សានដាវីsadlocaleDisplayNameslanguages
+អ៊ុយហ្គឺរuglocaleDisplayNameslanguages
+រ៉ាប៉ានូraplocaleDisplayNameslanguages
+គិនយ៉ាវ៉ាន់ដាrwlocaleDisplayNameslanguages
+ឈឺជស្លាវិកculocaleDisplayNameslanguages
+អាត់មូដudmlocaleDisplayNameslanguages
+សូនីនគេsnklocaleDisplayNameslanguages
+កូស៊ីខានcolocaleDisplayNameslanguages
+ការ៉ាឆាយបាល់កាkrclocaleDisplayNameslanguages
+សានហ្គូsbplocaleDisplayNameslanguages
+អាមេនីhylocaleDisplayNameslanguages
+ឌួលឡាdualocaleDisplayNameslanguages
+ហ្វារូសfolocaleDisplayNameslanguages
+ឃើដភាគខាងត្បូងsdhlocaleDisplayNameslanguages
+ស្កុតscolocaleDisplayNameslanguages
+តៃតាdavlocaleDisplayNameslanguages
+ហ្សូនីzunlocaleDisplayNameslanguages
+ហ្សាម៉ាdjelocaleDisplayNameslanguages
+ភូមាmylocaleDisplayNameslanguages
+លូបាលូឡាlualocaleDisplayNameslanguages
+អ៊ូរឌូurlocaleDisplayNameslanguages
+ឥណ្ឌូណេស៊ីidlocaleDisplayNameslanguages
+ព័រទុយហ្គាល់ (អឺរ៉ុប)pt_PTlocaleDisplayNameslanguages
+កន្តាំងyuelocaleDisplayNameslanguages
+សូថូខាងជើងnsolocaleDisplayNameslanguages
+មីហ្សូluslocaleDisplayNameslanguages
+ស្រីលង្កាsilocaleDisplayNameslanguages
+ឃឺដkulocaleDisplayNameslanguages
+ប្រីស្តុនbrlocaleDisplayNameslanguages
+កានូរីkrlocaleDisplayNameslanguages
+យ៉ាងបេនyavlocaleDisplayNameslanguages
+អាលូតalelocaleDisplayNameslanguages
+អារ៉ាប៉ាហូarplocaleDisplayNameslanguages
+អាកានaklocaleDisplayNameslanguages
+អេស្តូនីetlocaleDisplayNameslanguages
+ន័រវែស នីនូសnnlocaleDisplayNameslanguages
+ស៊ីកស៊ីកាblalocaleDisplayNameslanguages
+អាប់ខាហ៊្សានablocaleDisplayNameslanguages
+ឈូវ៉ាសcvlocaleDisplayNameslanguages
+រ៉្វាrwklocaleDisplayNameslanguages
+កូម៉ូរីswblocaleDisplayNameslanguages
+គីមប៊ុនឌូkmblocaleDisplayNameslanguages
+កូរ៉េkolocaleDisplayNameslanguages
+មេនgvlocaleDisplayNameslanguages
+រុស្ស៊ីrulocaleDisplayNameslanguages
+មិកមេកmiclocaleDisplayNameslanguages
+ឡាវlolocaleDisplayNameslanguages
+ឈីម៉ូរ៉ូchlocaleDisplayNameslanguages
+អូរ៉ូម៉ូomlocaleDisplayNameslanguages
+សាហូssylocaleDisplayNameslanguages
+ម៉ាហ្គាហ៊ីmaglocaleDisplayNameslanguages
+ហ៊ីលីហ្គេណុនhillocaleDisplayNameslanguages
+ធីមនីtemlocaleDisplayNameslanguages
+តាហ្ស៊ីគtglocaleDisplayNameslanguages
+វេលសឺwaelocaleDisplayNameslanguages
+តាសាវ៉ាក់twqlocaleDisplayNameslanguages
+សាខាsahlocaleDisplayNameslanguages
+គូរូកkrulocaleDisplayNameslanguages
+ឡាតំាងlalocaleDisplayNameslanguages
+ប៉ាប៉ៃមេនតូpaplocaleDisplayNameslanguages
+គ្មាន​ទិន្នន័យ​ភាសាzxxlocaleDisplayNameslanguages
+មុខសាmdflocaleDisplayNameslanguages
+សូប៊ីលើhsblocaleDisplayNameslanguages
+ពហុភាសាmullocaleDisplayNameslanguages
+ប៉ាលូអានpaulocaleDisplayNameslanguages
+សូម៉ាលីsolocaleDisplayNameslanguages
+អេមប៊ូebulocaleDisplayNameslanguages
+រ៉ូម៉ង់rmlocaleDisplayNameslanguages
+សេសេលវ៉ាគ្រីអូល (បារាំង)crslocaleDisplayNameslanguages
+សាមីខាងត្បូងsmalocaleDisplayNameslanguages
+កូឡូញkshlocaleDisplayNameslanguages
+ឃសាxhlocaleDisplayNameslanguages
+ទ្វីtwlocaleDisplayNameslanguages
+អាហ្គីកាanplocaleDisplayNameslanguages
+ហ្សាហ្សាzzalocaleDisplayNameslanguages
+ហ៊្វ្រូលានfurlocaleDisplayNameslanguages
+ម៉ាសេដូនីmklocaleDisplayNameslanguages
+ឡានហ្គីlaglocaleDisplayNameslanguages
+អាល្លឺម៉ង (ស្វីស)gswlocaleDisplayNameslanguages
+នេប៉ាល់nelocaleDisplayNameslanguages
+ហ្សាក់ស្យុងក្រោមnds_NLlocaleDisplayNameslanguages
+គុយរ៉ាឈីនីkhqlocaleDisplayNameslanguages
+តាតាttlocaleDisplayNameslanguages
+អាកហ៊ីនឺសacelocaleDisplayNameslanguages
+ហ្គូរុនតាឡូgorlocaleDisplayNameslanguages
+រុមបូroflocaleDisplayNameslanguages
+ទីទុំtetlocaleDisplayNameslanguages
+សាន់តាលីsatlocaleDisplayNameslanguages
+ចិន​អក្សរ​ពេញzh_HantlocaleDisplayNameslanguages
+ស៊ីស៊ីលានscnlocaleDisplayNameslanguages
+ម៉ាកាសាmaklocaleDisplayNameslanguages
+អារ៉ាហ្គោនanlocaleDisplayNameslanguages
+ទូវីនៀtyvlocaleDisplayNameslanguages
+យរូបាyolocaleDisplayNameslanguages
+ឃើដភាគកណ្តាលckblocaleDisplayNameslanguages
+​កៀហ្ស៊ីសkylocaleDisplayNameslanguages
+ហ្សក​ហ្ស៊ីkalocaleDisplayNameslanguages
+អាហ្គីមagqlocaleDisplayNameslanguages
+បឹនជាពិpalocaleDisplayNameslanguages
+ម៊ូហាគmohlocaleDisplayNameslanguages
+តួកម៉េនtklocaleDisplayNameslanguages
+ហ្គិកឈួqulocaleDisplayNameslanguages
+វ៉ូឡាយតាwallocaleDisplayNameslanguages
+រូម៉ានីrolocaleDisplayNameslanguages
+អាស៊ូasalocaleDisplayNameslanguages
+បាសខ៍eulocaleDisplayNameslanguages
+វុនចូvunlocaleDisplayNameslanguages
+ម៉ានីពូរីmnilocaleDisplayNameslanguages
+ឡូហ្ស៊ីlozlocaleDisplayNameslanguages
+ស៊ុយអែតsvlocaleDisplayNameslanguages
+តាម៉ាហ្សៃម៉ារ៉ុកស្តង់ដាzghlocaleDisplayNameslanguages
+ម៉ូរីស៊ីនmfelocaleDisplayNameslanguages
+ម៉ុលដាវីro_MDlocaleDisplayNameslanguages
+ឃ្លីនហ្គុនtlhlocaleDisplayNameslanguages
+បាឡូជីខាងលិចbgnlocaleDisplayNameslanguages
+ណានកូលេnynlocaleDisplayNameslanguages
+រុណ្ឌីrnlocaleDisplayNameslanguages
+ឡាឌីណូladlocaleDisplayNameslanguages
+គូមីភឹមយ៉ាគkoilocaleDisplayNameslanguages
+គីចឈីquclocaleDisplayNameslanguages
+អ៊ីវeelocaleDisplayNameslanguages
+ម៉ាឌូរីសmadlocaleDisplayNameslanguages
+គ្លីបkpelocaleDisplayNameslanguages
+អាដេងមីadalocaleDisplayNameslanguages
+អាល់បានីsqlocaleDisplayNameslanguages
+អ៊ីស្លង់islocaleDisplayNameslanguages
+ឆែកcslocaleDisplayNameslanguages
+ឡាកូតាlktlocaleDisplayNameslanguages
+ហ្វ្រីស៊ានខាងលិចfylocaleDisplayNameslanguages
+ហ្គាលីស្យានgllocaleDisplayNameslanguages
+លុចបានjbolocaleDisplayNameslanguages
+ប៊ុលហ្គារីbglocaleDisplayNameslanguages
+ដាណឺម៉ាកdalocaleDisplayNameslanguages
+ស៊ីនឌីsdlocaleDisplayNameslanguages
+កាឡាលលីស៊ុតkllocaleDisplayNameslanguages
+កាស៊ីkhalocaleDisplayNameslanguages
+បូចពូរីbholocaleDisplayNameslanguages
+បង់ក្លាដែសbnlocaleDisplayNameslanguages
+ចូឡាហ៊្វុនយីdyolocaleDisplayNameslanguages
+អេស្ប៉ាញeslocaleDisplayNameslanguages
+គ្រីកmuslocaleDisplayNameslanguages
+ដូគ្រីបdgrlocaleDisplayNameslanguages
+ជប៉ុនjalocaleDisplayNameslanguages
+បេណាbezlocaleDisplayNameslanguages
+សូណាsnlocaleDisplayNameslanguages
+ស៊ូគូម៉ាsuklocaleDisplayNameslanguages
+ស៊ីរីsyrlocaleDisplayNameslanguages
+តាហ៊ីទីtylocaleDisplayNameslanguages
+ការីលាkrllocaleDisplayNameslanguages
+កាំបាkamlocaleDisplayNameslanguages
+អ៊ីវ៉ុនដូewolocaleDisplayNameslanguages
+នាប៉ូលីតានnaplocaleDisplayNameslanguages
+គុនកានីkoklocaleDisplayNameslanguages
+ក្រូអាតhrlocaleDisplayNameslanguages
+បាហ្វៀksflocaleDisplayNameslanguages
+ងុំបាjgolocaleDisplayNameslanguages
+ហាវៃhawlocaleDisplayNameslanguages
+ប៊ីស្លាម៉ាbilocaleDisplayNameslanguages
+អ៊ីហ្វិកefilocaleDisplayNameslanguages
+បូស្នីbslocaleDisplayNameslanguages
+មីរ៉ានដេសmwllocaleDisplayNameslanguages
+លូលីសាមីsmjlocaleDisplayNameslanguages
+ឡេសហ្គីlezlocaleDisplayNameslanguages
+ឡាតវីlvlocaleDisplayNameslanguages
+ហ្វីលីពីនfillocaleDisplayNameslanguages
+សានshnlocaleDisplayNameslanguages
+ហ្គូរ៉ានីgnlocaleDisplayNameslanguages
+កុងហ្គោស្វាហ៊ីលីsw_CDlocaleDisplayNameslanguages
+ហ្សួងzalocaleDisplayNameslanguages
+កាលមីគxallocaleDisplayNameslanguages
+គូមីគkumlocaleDisplayNameslanguages
+ហៃទីhtlocaleDisplayNameslanguages
+អង់គ្លេស (ស.រ.អ)en_USlocaleDisplayNameslanguages
+អីម៉ារ៉ាaylocaleDisplayNameslanguages
+អាល់តៃខាងត្បូងaltlocaleDisplayNameslanguages
+លីមប៊ូសlilocaleDisplayNameslanguages
+ហ៊ូប៉ាhuplocaleDisplayNameslanguages
+បូដូbrxlocaleDisplayNameslanguages
+ឈីយីនីchylocaleDisplayNameslanguages
+ហ្វាំងឡង់filocaleDisplayNameslanguages
+ហ្កុយ៉ារាទីgulocaleDisplayNameslanguages
+អ៊ុយក្រែនuklocaleDisplayNameslanguages
+អ៊ីបានibalocaleDisplayNameslanguages
+កាតាឡានcalocaleDisplayNameslanguages
+វេលcylocaleDisplayNameslanguages
+សំស្ក្រឹតsalocaleDisplayNameslanguages
+កាបាឌៀkbdlocaleDisplayNameslanguages
+ហ៊្វីជីfjlocaleDisplayNameslanguages
+ម៉ាកគូវ៉ាមីតូmghlocaleDisplayNameslanguages
+វៀតណាមvilocaleDisplayNameslanguages
+ខាណាដាknlocaleDisplayNameslanguages
+ឈូគីchklocaleDisplayNameslanguages
+សូថូខាងត្បូងstlocaleDisplayNameslanguages
+ហូឡង់nllocaleDisplayNameslanguages
+អ៊ីឡូកូilolocaleDisplayNameslanguages
+ស្កុលសាមីsmslocaleDisplayNameslanguages
+អាយនូainlocaleDisplayNameslanguages
+បារាំងfrlocaleDisplayNameslanguages
+អាយប៊ីប៊ីអូibblocaleDisplayNameslanguages
+អាំហារិកamlocaleDisplayNameslanguages
+សាមីខាងជើងselocaleDisplayNameslanguages
+ទួរគីtrlocaleDisplayNameslanguages
+ហុងគ្រីhulocaleDisplayNameslanguages
+ប៉ូឡូញpllocaleDisplayNameslanguages
+អារ៉ាប់ (ស្តង់ដារ)ar_001localeDisplayNameslanguages
+ស៊ីឈាន់យីiilocaleDisplayNameslanguages
+ណូរូnalocaleDisplayNameslanguages
+ក្រិកellocaleDisplayNameslanguages
+ភេនហ្គាស៊ីណានpaglocaleDisplayNameslanguages
+អាម់ប៊ុនឌូumblocaleDisplayNameslanguages
+លីនកាឡាlnlocaleDisplayNameslanguages
+ន័រវែស បុកម៉ាល់nblocaleDisplayNameslanguages
+រូតrootlocaleDisplayNameslanguages
+លុនដាlunlocaleDisplayNameslanguages
+លីទុយអានីltlocaleDisplayNameslanguages
+អូសីតាន់oclocaleDisplayNameslanguages
+តេសូteolocaleDisplayNameslanguages
+ម៉ាពូឈីarnlocaleDisplayNameslanguages
+តារ៉ូកូtrvlocaleDisplayNameslanguages
+ថុកពីស៊ីនtpilocaleDisplayNameslanguages
+ហ្គាន់ដាlglocaleDisplayNameslanguages
+ងៀមប៊ូនnnhlocaleDisplayNameslanguages
+អារ៉ូម៉ានីruplocaleDisplayNameslanguages
+កាកូkkjlocaleDisplayNameslanguages
+បាសាbaslocaleDisplayNameslanguages
+សានហ្គោsglocaleDisplayNameslanguages
+អ៊ីណារីសាម៉ីsmnlocaleDisplayNameslanguages
+អូស៊ីទិកoslocaleDisplayNameslanguages
+ទូវ៉ាលូtvllocaleDisplayNameslanguages
+ណាម៉ាnaqlocaleDisplayNameslanguages
+ខ្មែរkmlocaleDisplayNameslanguages
+ម៉ាឡាយ៉ាឡាមmllocaleDisplayNameslanguages
+ប៊ីនីbinlocaleDisplayNameslanguages
+ស្រាណានតុងហ្គោsrnlocaleDisplayNameslanguages
+អាហ្វារaalocaleDisplayNameslanguages
+នីអាសnialocaleDisplayNameslanguages
+ស្លូវ៉ាគីsklocaleDisplayNameslanguages
+នេប៊េលខាងត្បូងnrlocaleDisplayNameslanguages
+ហ្គីលបឺទgillocaleDisplayNameslanguages
+អឺហ្ស៊ីយ៉ាmyvlocaleDisplayNameslanguages
+អ៊ីតាលីitlocaleDisplayNameslanguages
+ន័រវែសnolocaleDisplayNameslanguages
+ប្ល៊ីនbynlocaleDisplayNameslanguages
+ដុងខាdzlocaleDisplayNameslanguages
+ងាំបេយsbalocaleDisplayNameslanguages
+ភាសាទំនាក់ទំនងនីហ្សេរីយ៉ាpcmlocaleDisplayNameslanguages
+វូឡុហ្វwolocaleDisplayNameslanguages
+ទីហ្គ្រីញ៉ាtilocaleDisplayNameslanguages
+មូស៊ីmoslocaleDisplayNameslanguages
+អ៊ីកាជុកekalocaleDisplayNameslanguages
+អាវេស្ថានaelocaleDisplayNameslanguages
+តាម៉ាសាយអាត្លាសកណ្តាលtzmlocaleDisplayNameslanguages
+ម៉ាឡាហ្គាស៊ីmglocaleDisplayNameslanguages
+លូយ៉ាluylocaleDisplayNameslanguages
+ដាចវ៉ាdarlocaleDisplayNameslanguages
+ហ្វ៊ុនfonlocaleDisplayNameslanguages
+អាហ្សេរីazlocaleDisplayNameslanguages
+ហឺរីរ៉ូhzlocaleDisplayNameslanguages
+អាវ៉ាឌីawalocaleDisplayNameslanguages
+នេវ៉ាវីnewlocaleDisplayNameslanguages
+អេស្ពេរ៉ាន់តូeolocaleDisplayNameslanguages
+ម៉ាឆាំjmclocaleDisplayNameslanguages
+វ៉ាលូនwalocaleDisplayNameslanguages
+គីគូយូkilocaleDisplayNameslanguages
+ហិណ្ឌីhilocaleDisplayNameslanguages
+អង់គ្លេសenlocaleDisplayNameslanguages
+អង់គ្លេស (ច.អ.)en_GBlocaleDisplayNameslanguages
+ម៉ាល់តាmtlocaleDisplayNameslanguages
+តាមីលtalocaleDisplayNameslanguages
+នគោnqolocaleDisplayNameslanguages
+ជ្វាjvlocaleDisplayNameslanguages
+វេនដាvelocaleDisplayNameslanguages
+សាមបាឡាksblocaleDisplayNameslanguages
+នេបេលេខាងជើងndlocaleDisplayNameslanguages
+រ៉ារ៉ូតុងហ្គានrarlocaleDisplayNameslanguages
+ស្វាហ៊ីលីswlocaleDisplayNameslanguages
+តេលុគុtelocaleDisplayNameslanguages
+ម៉ារ៉ាធីmrlocaleDisplayNameslanguages
+ម៉ុងហ្គោលីmnlocaleDisplayNameslanguages
+ហ្គាgaalocaleDisplayNameslanguages
+គុយរ៉ាបូរ៉ុស៊ីនីseslocaleDisplayNameslanguages
+ម៉ាស់សលmhlocaleDisplayNameslanguages
+យ៉ាប់kcglocaleDisplayNameslanguages
+លូបាកាតានហ្គាlulocaleDisplayNameslanguages
+ព័រទុយហ្គាល់ptlocaleDisplayNameslanguages
+នូអៀនniulocaleDisplayNameslanguages
+អ៊ីកបូiglocaleDisplayNameslanguages
+បាស្តូpslocaleDisplayNameslanguages
+សាមបូរូsaqlocaleDisplayNameslanguages
+ម៉ាឡេmslocaleDisplayNameslanguages
+យេមបាybblocaleDisplayNameslanguages
+មេរូmerlocaleDisplayNameslanguages
+ឆេរូគីchrlocaleDisplayNameslanguages
+កាប៊ីឡេkablocaleDisplayNameslanguages
+អេស្ប៉ាញ (អ៊ឺរ៉ុប)es_ESlocaleDisplayNameslanguages
+អូឌៀorlocaleDisplayNameslanguages
+ស៊ូដង់sulocaleDisplayNameslanguages
+អាល្លឺម៉ង់ក្រោមndslocaleDisplayNameslanguages
+ហ្វ៊ូឡាfflocaleDisplayNameslanguages
+ធីហ្គ្រាtiglocaleDisplayNameslanguages
+លុចសំបួlblocaleDisplayNameslanguages
+តាឈីលហ៊ីតshilocaleDisplayNameslanguages
+ស៊ែបsrlocaleDisplayNameslanguages
+កាស្មៀរkslocaleDisplayNameslanguages
+សូហ្គាxoglocaleDisplayNameslanguages
+អៀរឡង់galocaleDisplayNameslanguages
+ម៉ៃធីលីmailocaleDisplayNameslanguages
+ម៉ារីchmlocaleDisplayNameslanguages
+អាស្ទូរីastlocaleDisplayNameslanguages
+អាល្លឺម៉ង់delocaleDisplayNameslanguages
+នូអ័រnuslocaleDisplayNameslanguages
+ឈីហ្គាcgglocaleDisplayNameslanguages
+ភឺសៀនfalocaleDisplayNameslanguages
+ហ្គីចឈីនgwilocaleDisplayNameslanguages
+ស្វាណាtnlocaleDisplayNameslanguages
+ភាសា៖ {0}languagelocaleDisplayNamescodePatterns
+អក្សរ៖ {0}scriptlocaleDisplayNamescodePatterns
+តំបន់៖ {0}territorylocaleDisplayNamescodePatterns
+រង្វាស់​ប្រវែងmetriclocaleDisplayNamesmeasurementSystemNames
+ចក្រភព​អង់គ្លេសUKlocaleDisplayNamesmeasurementSystemNames
+សហរដ្ឋអាមេរិកUSlocaleDisplayNamesmeasurementSystemNames
+[\u17B4\u17B5\u200B \u17CC \u17CE \u17CF \u17D1 ឝ ឞ]auxiliarycharactersexemplarCharacters
+[ក ខ គ ឃ ង ច ឆ ជ ឈ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ផ ព ភ ម យ រ ឫ ឬ ល ឭ ឮ វ ស ហ ឡ អ ឥ ឦ ឧ ឩ ឪ ឯ ឰ ឱ ឳ]indexcharactersexemplarCharacters
+[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]numberscharactersexemplarCharacters
+[\u17D0 ៈ \u17CB \u17C9 \u17CA \u17CD ក ខ គ ឃ ង ច ឆ ជ ឈ ញ ដ ឋ ឌ ឍ ណ ត ថ ទ ធ ន ប ផ ព ភ ម យ រ ឫ ឬ ល ឭ ឮ វ ស ហ ឡ អ {អា} ឥ ឦ ឧ {ឧក} ឩ ឪ ឯ ឰ ឱ ឲ ឳ ា \u17B7 \u17B8 \u17B9 \u17BA \u17BB \u17BC \u17BD ើ ឿ ៀ េ ែ ៃ ោ ៅ \u17C6 ះ \u17D2]standardcharactersexemplarCharacters
+[\- , ៖ ! ? . ។ ៕ ‘ ’ &quot; “ ” ( ) \[ \] \{ \} ៙ ៚]punctuationcharactersexemplarCharacters
+{0}…finalcharactersellipsis
+{0} … {1}word-medialcharactersellipsis
+… {0}word-initialcharactersellipsis
+{0} …word-finalcharactersellipsis
+…{0}initialcharactersellipsis
+{0}…{1}medialcharactersellipsis

@@ -223,6 +223,12 @@ referred to as *neuter*)
 
 
 # Version History
+  * 0.4.4
+    * Continued improvement on attribute access
+    * Added `dates` (under which `calendar` now falls).  
+      To access calendars now, use `.dates.calendars`, the current structure 
+      will be specially aliased until November 2021 at which point support will
+      be dropped.
   * 0.4.3
     * Fixed install issues
     * Significant work towards fast attribute access (works on Calendar items)

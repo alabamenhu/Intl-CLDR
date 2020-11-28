@@ -1,0 +1,3807 @@
+›alternateQuotationEnddelimiters
+»quotationEnddelimiters
+«quotationStartdelimiters
+‹alternateQuotationStartdelimiters
+{0} የቀን ብርሃን ሰዓትdaylightregionFormattimeZoneNamesdates
+{0} መደበኛ ሰዓትstandardregionFormattimeZoneNamesdates
+{0} ጊዜgenericregionFormattimeZoneNamesdates
+{1} ({0})hourFormattimeZoneNamesdates
+የቻሞሮ መደበኛ ሰዓትstandardlongChamorrometazonetimeZoneNamesdates
+የጋላፓጎስ ሰዓትstandardlongGalapagosmetazonetimeZoneNamesdates
+የኮስራኤ ሰዓትstandardlongKosraemetazonetimeZoneNamesdates
+የፓራጓይ መደበኛ ሰዓትstandardlongParaguaymetazonetimeZoneNamesdates
+የፓራጓይ ሰዓትgenericlongParaguaymetazonetimeZoneNamesdates
+የፓራጓይ ክረምት ሰዓትdaylightlongParaguaymetazonetimeZoneNamesdates
+የብሩኔይ ዳሩሳላም ሰዓትstandardlongBruneimetazonetimeZoneNamesdates
+የታሂቲ ሰዓትstandardlongTahitimetazonetimeZoneNamesdates
+የምስራቅ አፍሪካ ሰዓትstandardlongAfrica_EasternmetazonetimeZoneNamesdates
+የኡራጓይ ሰዓትgenericlongUruguaymetazonetimeZoneNamesdates
+የኡራጓይ መደበኛ ሰዓትstandardlongUruguaymetazonetimeZoneNamesdates
+የኡራጓይ ክረምት ሰዓትdaylightlongUruguaymetazonetimeZoneNamesdates
+የታይፔይ የቀን ብርሃን ሰዓትdaylightlongTaipeimetazonetimeZoneNamesdates
+የታይፔይ መደበኛ ሰዓትstandardlongTaipeimetazonetimeZoneNamesdates
+የታይፔይ ሰዓትgenericlongTaipeimetazonetimeZoneNamesdates
+የዱሞንት-ዱርቪል ሰዓትstandardlongDumontDUrvillemetazonetimeZoneNamesdates
+የምስራቃዊ አውሮፓ መደበኛ ሰዓትstandardlongEurope_EasternmetazonetimeZoneNamesdates
+የምስራቃዊ አውሮፓ ሰዓትgenericlongEurope_EasternmetazonetimeZoneNamesdates
+የምስራቃዊ አውሮፓ ክረምት ሰዓትdaylightlongEurope_EasternmetazonetimeZoneNamesdates
+የፈረንሳይ ጉያና ሰዓትstandardlongFrench_GuianametazonetimeZoneNamesdates
+የብራዚላዊ ሰዓት አቆጣጠርgenericlongBrasiliametazonetimeZoneNamesdates
+የብራሲሊያ መደበኛ ሰዓት አቆጣጠርstandardlongBrasiliametazonetimeZoneNamesdates
+የብራዚላ የበጋ ሰዓት አቆጣጠርdaylightlongBrasiliametazonetimeZoneNamesdates
+የታጂኪስታን ሰዓትstandardlongTajikistanmetazonetimeZoneNamesdates
+የዓረቢያ የቀን ብርሃን ሰዓትdaylightlongArabianmetazonetimeZoneNamesdates
+የዓረቢያ ሰዓትgenericlongArabianmetazonetimeZoneNamesdates
+የዓረቢያ መደበኛ ሰዓትstandardlongArabianmetazonetimeZoneNamesdates
+የፓስፊክ ሰዓት አቆጣጠርgenericlongAmerica_PacificmetazonetimeZoneNamesdates
+የፓስፊክ መደበኛ ሰዓት አቆጣጠርstandardlongAmerica_PacificmetazonetimeZoneNamesdates
+የፓስፊክ የቀን ሰዓት አቆጣጠርdaylightlongAmerica_PacificmetazonetimeZoneNamesdates
+የማውሪሺየስ ክረምት ሰዓትdaylightlongMauritiusmetazonetimeZoneNamesdates
+የማውሪሺየስ ሰዓትgenericlongMauritiusmetazonetimeZoneNamesdates
+የማውሪሺየስ መደበኛ ሰዓትstandardlongMauritiusmetazonetimeZoneNamesdates
+የፕዮንግያንግ ሰዓትstandardlongPyongyangmetazonetimeZoneNamesdates
+ቅዱስ የፒዬር እና ሚኴሎን መደበኛ ሰዓትstandardlongPierre_MiquelonmetazonetimeZoneNamesdates
+ቅዱስ የፒዬር እና ሚኴሎን ሰዓትgenericlongPierre_MiquelonmetazonetimeZoneNamesdates
+ቅዱስ የፒዬር እና ሚኴሎን የቀን ብርሃን ሰዓትdaylightlongPierre_MiquelonmetazonetimeZoneNamesdates
+የናውሩ ሰዓትstandardlongNaurumetazonetimeZoneNamesdates
+የፔትሮፓቭሎስኪ - ካምቻትስኪ የበጋ ሰዓት አቆጣጠርdaylightlongKamchatkametazonetimeZoneNamesdates
+የካምቻትካ ሰዓት አቆጣጠርgenericlongKamchatkametazonetimeZoneNamesdates
+የፔትሮፓቭሎስኪ - ካምቻትስኪ ሰዓት አቆጣጠርstandardlongKamchatkametazonetimeZoneNamesdates
+የየካተሪንበርግ የበጋ ሰዓት አቆጣጠርdaylightlongYekaterinburgmetazonetimeZoneNamesdates
+የየካተሪንበርግ መደበኛ ሰዓት አቆጣጠርstandardlongYekaterinburgmetazonetimeZoneNamesdates
+የየካተሪንበርግ ሰዓት አቆጣጠርgenericlongYekaterinburgmetazonetimeZoneNamesdates
+የአርመኒያ መደበኛ ሰዓትstandardlongArmeniametazonetimeZoneNamesdates
+የአርመኒያ ሰዓትgenericlongArmeniametazonetimeZoneNamesdates
+የአርመኒያ ክረምት ሰዓትdaylightlongArmeniametazonetimeZoneNamesdates
+የቬኔዝዌላ ሰዓትstandardlongVenezuelametazonetimeZoneNamesdates
+የአርጀንቲና የሰዓት አቆጣጠርgenericlongArgentinametazonetimeZoneNamesdates
+የአርጀንቲና መደበኛ ሰዓት አቆጣጠርstandardlongArgentinametazonetimeZoneNamesdates
+የአርጀንቲና የበጋ ሰዓት አቆጣጠርdaylightlongArgentinametazonetimeZoneNamesdates
+የኢንዶቻይና ሰዓትstandardlongIndochinametazonetimeZoneNamesdates
+የአዞረስ ክረምት ሰዓትdaylightlongAzoresmetazonetimeZoneNamesdates
+የአዞረስ ሰዓትgenericlongAzoresmetazonetimeZoneNamesdates
+የአዞረስ መደበኛ ሰዓትstandardlongAzoresmetazonetimeZoneNamesdates
+የፓኪስታን መደበኛ ሰዓትstandardlongPakistanmetazonetimeZoneNamesdates
+የፓኪስታን ሰዓትgenericlongPakistanmetazonetimeZoneNamesdates
+የፓኪስታን ክረምት ሰዓትdaylightlongPakistanmetazonetimeZoneNamesdates
+የሰሜን አሜሪካ የመካከለኛ ሰዓት አቆጣጠርgenericlongAmerica_CentralmetazonetimeZoneNamesdates
+የሰሜን አሜሪካ የመካከለኛ መደበኛ ሰዓት አቆጣጠርstandardlongAmerica_CentralmetazonetimeZoneNamesdates
+የመካከለኛ የቀን ሰዓት አቆጣጠርdaylightlongAmerica_CentralmetazonetimeZoneNamesdates
+የአማዞን ሰዓት አቆጣጠርgenericlongAmazonmetazonetimeZoneNamesdates
+የአማዞን መደበኛ ሰዓት አቆጣጠርstandardlongAmazonmetazonetimeZoneNamesdates
+የአማዞን የቀን ሰዓት አቆጣጠርdaylightlongAmazonmetazonetimeZoneNamesdates
+የህንድ ውቅያኖስ ሰዓትstandardlongIndian_OceanmetazonetimeZoneNamesdates
+የክራስኖይአርስክ መደበኛ ሰዓት አቆጣጠርstandardlongKrasnoyarskmetazonetimeZoneNamesdates
+የክራስኖያርስክ ሰዓት አቆጣጠርgenericlongKrasnoyarskmetazonetimeZoneNamesdates
+የክራስኖያርስክ የበጋ ሰዓት አቆጣጠርdaylightlongKrasnoyarskmetazonetimeZoneNamesdates
+የዋሊስ እና ፉቱና ሰዓትstandardlongWallismetazonetimeZoneNamesdates
+የፒትካይርን ሰዓትstandardlongPitcairnmetazonetimeZoneNamesdates
+የቪላዲቮስቶክ መደበኛ የሰዓት አቆጣጠርstandardlongVladivostokmetazonetimeZoneNamesdates
+የቭላዲቮስቶክ የሰዓት አቆጣጠርgenericlongVladivostokmetazonetimeZoneNamesdates
+የቭላዲቮስቶክ የበጋ የሰዓት አቆጣጠርdaylightlongVladivostokmetazonetimeZoneNamesdates
+የምስራቃዊ ኢንዶኔዢያ ሰዓትstandardlongIndonesia_EasternmetazonetimeZoneNamesdates
+የምስራቅ ቲሞር ሰዓትstandardlongEast_TimormetazonetimeZoneNamesdates
+የሳሞዋ መደበኛ ሰዓትstandardlongSamoametazonetimeZoneNamesdates
+የሳሞዋ ሰዓትgenericlongSamoametazonetimeZoneNamesdates
+የሳሞዋ የበጋ ሰዓትdaylightlongSamoametazonetimeZoneNamesdates
+ግሪንዊች ማዕከላዊ ሰዓትstandardlongGMTmetazonetimeZoneNamesdates
+የአትላንቲክ መደበኛ የሰዓት አቆጣጠርstandardlongAtlanticmetazonetimeZoneNamesdates
+የአትላንቲክ የሰዓት አቆጣጠርgenericlongAtlanticmetazonetimeZoneNamesdates
+የአትላንቲክ የቀን ሰዓት አቆጣጠርdaylightlongAtlanticmetazonetimeZoneNamesdates
+የኪርጊስታን ሰዓትstandardlongKyrgystanmetazonetimeZoneNamesdates
+የጋምቢየር ሰዓትstandardlongGambiermetazonetimeZoneNamesdates
+የኖቮሲብሪስክ የሰዓት አቆጣጠርgenericlongNovosibirskmetazonetimeZoneNamesdates
+የኖቮሲቢርስክ መደበኛ የሰዓት አቆጣጠርstandardlongNovosibirskmetazonetimeZoneNamesdates
+የኖቮሲብሪስክ የበጋ ሰአት አቆጣጠርdaylightlongNovosibirskmetazonetimeZoneNamesdates
+የጂልበርት ደሴቶች ሰዓትstandardlongGilbert_IslandsmetazonetimeZoneNamesdates
+የባህረሰላጤ መደበኛ ሰዓትstandardlongGulfmetazonetimeZoneNamesdates
+የማጋዳን በጋ ሰዓት አቆጣጠርdaylightlongMagadanmetazonetimeZoneNamesdates
+የማጋዳን የሰዓት አቆጣጠርgenericlongMagadanmetazonetimeZoneNamesdates
+የማጋዳን መደበኛ ሰዓት አቆጣጠርstandardlongMagadanmetazonetimeZoneNamesdates
+የሴሸልስ ሰዓትstandardlongSeychellesmetazonetimeZoneNamesdates
+የፔሩ ሰዓትgenericlongPerumetazonetimeZoneNamesdates
+የፔሩ መደበኛ ሰዓትstandardlongPerumetazonetimeZoneNamesdates
+የፔሩ ክረምት ሰዓትdaylightlongPerumetazonetimeZoneNamesdates
+የባንግላዴሽ ክረምት ሰዓትdaylightlongBangladeshmetazonetimeZoneNamesdates
+የባንግላዴሽ ሰዓትgenericlongBangladeshmetazonetimeZoneNamesdates
+የባንግላዴሽ መደበኛ ሰዓትstandardlongBangladeshmetazonetimeZoneNamesdates
+ኢርኩትስክ የበጋ የሰዓት አቆጣጠርdaylightlongIrkutskmetazonetimeZoneNamesdates
+የኢርኩትስክ መደበኛ የሰዓት አቆጣጠርstandardlongIrkutskmetazonetimeZoneNamesdates
+የኢርኩትስክ ሰዓት አቆጣጠርgenericlongIrkutskmetazonetimeZoneNamesdates
+የአፒያ መደበኛ ሰዓትstandardlongApiametazonetimeZoneNamesdates
+የአፒያ ሰዓትgenericlongApiametazonetimeZoneNamesdates
+የአፒያ የቀን ጊዜ ሰዓትdaylightlongApiametazonetimeZoneNamesdates
+የኢስተር ደሴት መደበኛ ሰዓትstandardlongEastermetazonetimeZoneNamesdates
+የኢስተር ደሴት ሰዓትgenericlongEastermetazonetimeZoneNamesdates
+የኢስተር ደሴት ክረምት ሰዓትdaylightlongEastermetazonetimeZoneNamesdates
+የጉያና ሰዓትstandardlongGuyanametazonetimeZoneNamesdates
+የኖርፎልክ ደሴቶች ሰዓትstandardlongNorfolkmetazonetimeZoneNamesdates
+የሳማራ ሰዓት አቆጣጠርgenericlongSamarametazonetimeZoneNamesdates
+የሳማራ መደበኛ ሰዓት አቆጣጠርstandardlongSamarametazonetimeZoneNamesdates
+የሳማራ የበጋ ሰዓት አቆጣጠርdaylightlongSamarametazonetimeZoneNamesdates
+የፈርናንዶ ዲ ኖሮንሃ የበጋ የሰዓት አቆጣጠርdaylightlongNoronhametazonetimeZoneNamesdates
+የፈርናንዶ ዲ ኖሮንቻ መደበኛ ሰዓት አቆጣጠርstandardlongNoronhametazonetimeZoneNamesdates
+የኖሮንሃ ሰዓት አቆጣጠርgenericlongNoronhametazonetimeZoneNamesdates
+የአላስካ የቀን ሰዓት አቆጣጠርdaylightlongAlaskametazonetimeZoneNamesdates
+የአላስካ ሰዓት አቆጣጠርgenericlongAlaskametazonetimeZoneNamesdates
+የአላስካ መደበኛ የሰዓት አቆጣጠርstandardlongAlaskametazonetimeZoneNamesdates
+የኩክ ደሴቶች ግማሽ ክረምት ሰዓትdaylightlongCookmetazonetimeZoneNamesdates
+የኩክ ደሴቶች ሰዓትgenericlongCookmetazonetimeZoneNamesdates
+የኩክ ደሴቶች መደበኛ ሰዓትstandardlongCookmetazonetimeZoneNamesdates
+የእስራኤል የቀን ብርሃን ሰዓትdaylightlongIsraelmetazonetimeZoneNamesdates
+የእስራኤል ሰዓትgenericlongIsraelmetazonetimeZoneNamesdates
+የእስራኤል መደበኛ ሰዓትstandardlongIsraelmetazonetimeZoneNamesdates
+የምስራቅ ካዛኪስታን ሰዓትstandardlongKazakhstan_EasternmetazonetimeZoneNamesdates
+የቱርክመኒስታን ክረምት ሰዓትdaylightlongTurkmenistanmetazonetimeZoneNamesdates
+የቱርክመኒስታን መደበኛ ሰዓትstandardlongTurkmenistanmetazonetimeZoneNamesdates
+የቱርክመኒስታን ሰዓትgenericlongTurkmenistanmetazonetimeZoneNamesdates
+የቫኗቱ ክረምት ሰዓትdaylightlongVanuatumetazonetimeZoneNamesdates
+የቫኗቱ መደበኛ ሰዓትstandardlongVanuatumetazonetimeZoneNamesdates
+የቫኗቱ ሰዓትgenericlongVanuatumetazonetimeZoneNamesdates
+የኮኮስ ደሴቶች ሰዓትstandardlongCocosmetazonetimeZoneNamesdates
+የፊጂ ክረምት ሰዓትdaylightlongFijimetazonetimeZoneNamesdates
+የፊጂ ሰዓትgenericlongFijimetazonetimeZoneNamesdates
+የፊጂ መደበኛ ሰዓትstandardlongFijimetazonetimeZoneNamesdates
+የፈረንሳይ ደቡባዊ እና አንታርክቲክ ሰዓትstandardlongFrench_SouthernmetazonetimeZoneNamesdates
+የምዕራባዊ ኢንዶኔዢያ ሰዓትstandardlongIndonesia_WesternmetazonetimeZoneNamesdates
+የሚያንማር ሰዓትstandardlongMyanmarmetazonetimeZoneNamesdates
+የመካከለኛው ኢንዶኔዢያ ሰዓትstandardlongIndonesia_CentralmetazonetimeZoneNamesdates
+የቾይባልሳን የበጋ የሰዓት አቆጣጠርdaylightlongChoibalsanmetazonetimeZoneNamesdates
+የቾይባልሳን መደበኛ የሰዓት አቆጣጠርstandardlongChoibalsanmetazonetimeZoneNamesdates
+የቾይባልሳ ሰዓት አቆጣጠርgenericlongChoibalsanmetazonetimeZoneNamesdates
+የፓፗ ኒው ጊኒ ሰዓትstandardlongPapua_New_GuineametazonetimeZoneNamesdates
+የኒውፋውንድላንድ የሰዓት አቆጣጠርgenericlongNewfoundlandmetazonetimeZoneNamesdates
+የኒውፋውንድላንድ መደበኛ የሰዓት አቆጣጠርstandardlongNewfoundlandmetazonetimeZoneNamesdates
+የኒውፋውንድላንድ የቀን የሰዓት አቆጣጠርdaylightlongNewfoundlandmetazonetimeZoneNamesdates
+የቻይና የቀን ብርሃን ሰዓትdaylightlongChinametazonetimeZoneNamesdates
+የቻይና መደበኛ ሰዓትstandardlongChinametazonetimeZoneNamesdates
+የቻይና ሰዓትgenericlongChinametazonetimeZoneNamesdates
+የአውስትራሊያ ምስራቃዊ የቀን ሰዓት አቆጣጠርdaylightlongAustralia_WesternmetazonetimeZoneNamesdates
+የምስራቃዊ አውስትራሊያ ሰዓት አቆጣጠርgenericlongAustralia_WesternmetazonetimeZoneNamesdates
+የአውስትራሊያ ምስራቃዊ መደበኛ ሰዓት አቆጣጠርstandardlongAustralia_WesternmetazonetimeZoneNamesdates
+የኢኳዶር ሰዓትstandardlongEcuadormetazonetimeZoneNamesdates
+የፋልክላንድ ደሴቶች መደበኛ ሰዓትstandardlongFalklandmetazonetimeZoneNamesdates
+የፋልክላንድ ደሴቶች ሰዓትgenericlongFalklandmetazonetimeZoneNamesdates
+የፋልክላንድ ደሴቶች ክረምት ሰዓትdaylightlongFalklandmetazonetimeZoneNamesdates
+የሬዩኒየን ሰዓትstandardlongReunionmetazonetimeZoneNamesdates
+የቱቫሉ ሰዓትstandardlongTuvalumetazonetimeZoneNamesdates
+የፊኒክስ ደሴቶች ሰዓትstandardlongPhoenix_IslandsmetazonetimeZoneNamesdates
+የተራራ የሰዓት አቆጣጠርgenericlongAmerica_MountainmetazonetimeZoneNamesdates
+የተራራ መደበኛ የሰዓት አቆጣጠርstandardlongAmerica_MountainmetazonetimeZoneNamesdates
+የተራራ የቀንሰዓት አቆጣጠርdaylightlongAmerica_MountainmetazonetimeZoneNamesdates
+የአናዲይር ሰዓት አቆጣጠርstandardlongAnadyrmetazonetimeZoneNamesdates
+የአናድይር ሰዓት አቆጣጠርgenericlongAnadyrmetazonetimeZoneNamesdates
+የአናድይር የበጋ የሰዓት አቆጣጠርdaylightlongAnadyrmetazonetimeZoneNamesdates
+የጂዮርጂያ ክረምት ሰዓትdaylightlongGeorgiametazonetimeZoneNamesdates
+የጂዮርጂያ ሰዓትgenericlongGeorgiametazonetimeZoneNamesdates
+የጂዮርጂያ መደበኛ ሰዓትstandardlongGeorgiametazonetimeZoneNamesdates
+የፖናፔ ሰዓትstandardlongPonapemetazonetimeZoneNamesdates
+የአውስትራሊያ ምዕራባዊ የቀን ሰዓት አቆጣጠርdaylightlongAustralia_EasternmetazonetimeZoneNamesdates
+የአውስትራሊያ ምዕራባዊ መደበኛ የሰዓት አቆጣጠርstandardlongAustralia_EasternmetazonetimeZoneNamesdates
+የምዕራባዊ አውስትራሊያ የሰዓት አቆጣጠርgenericlongAustralia_EasternmetazonetimeZoneNamesdates
+የማሌይዢያ ሰዓትstandardlongMalaysiametazonetimeZoneNamesdates
+የኮሪያ መደበኛ ሰዓትstandardlongKoreametazonetimeZoneNamesdates
+የኮሪያ ሰዓትgenericlongKoreametazonetimeZoneNamesdates
+የኮሪያ የቀን ብርሃን ሰዓትdaylightlongKoreametazonetimeZoneNamesdates
+የቶንጋ መደበኛ ሰዓትstandardlongTongametazonetimeZoneNamesdates
+የቶንጋ ሰዓትgenericlongTongametazonetimeZoneNamesdates
+የቶንጋ ክረምት ሰዓትdaylightlongTongametazonetimeZoneNamesdates
+የቶኬላው ሰዓትstandardlongTokelaumetazonetimeZoneNamesdates
+የቺሊ ክረምት ሰዓትdaylightlongChilemetazonetimeZoneNamesdates
+የቺሊ መደበኛ ሰዓትstandardlongChilemetazonetimeZoneNamesdates
+የቺሊ ሰዓትgenericlongChilemetazonetimeZoneNamesdates
+የፊሊፒን ክረምት ሰዓትdaylightlongPhilippinesmetazonetimeZoneNamesdates
+የፊሊፒን ሰዓትgenericlongPhilippinesmetazonetimeZoneNamesdates
+የፊሊፒን መደበኛ ሰዓትstandardlongPhilippinesmetazonetimeZoneNamesdates
+የመካከለኛው አውሮፓ ሰዓትgenericlongEurope_CentralmetazonetimeZoneNamesdates
+የመካከለኛው አውሮፓ መደበኛ ሰዓትstandardlongEurope_CentralmetazonetimeZoneNamesdates
+የመካከለኛው አውሮፓ ክረምት ሰዓትdaylightlongEurope_CentralmetazonetimeZoneNamesdates
+የምዕራብ ካዛኪስታን ሰዓትstandardlongKazakhstan_WesternmetazonetimeZoneNamesdates
+የኡዝቤኪስታን መደበኛ ሰዓትstandardlongUzbekistanmetazonetimeZoneNamesdates
+የኡዝቤኪስታን ሰዓትgenericlongUzbekistanmetazonetimeZoneNamesdates
+የኡዝቤኪስታን ክረምት ሰዓትdaylightlongUzbekistanmetazonetimeZoneNamesdates
+የፓላው ሰዓትstandardlongPalaumetazonetimeZoneNamesdates
+የሜክሲኮ ፓሲፊክ ሰዓት አቆጣጠርgenericlongMexico_PacificmetazonetimeZoneNamesdates
+የሜክሲኮ ፓሲፊክ መደበኛ ሰዓት አቆጣጠርstandardlongMexico_PacificmetazonetimeZoneNamesdates
+የሜክሲኮ ፓሲፊክ የቀን ሰዓት አቆጣጠርdaylightlongMexico_PacificmetazonetimeZoneNamesdates
+የሞስኮ የበጋ ሰዓት አቆጣጠርdaylightlongMoscowmetazonetimeZoneNamesdates
+የሞስኮ ሰዓት አቆጣጠርgenericlongMoscowmetazonetimeZoneNamesdates
+የሞስኮ መደበኛ ሰዓት አቆጣጠርstandardlongMoscowmetazonetimeZoneNamesdates
+የኦምስክ የበጋ ሰዓት አቆጣጠርdaylightlongOmskmetazonetimeZoneNamesdates
+የኦምስክ መደበኛ ሰዓት አቆጣጠርstandardlongOmskmetazonetimeZoneNamesdates
+የኦምስክ የሰዓት አቆጣጠርgenericlongOmskmetazonetimeZoneNamesdates
+የሲንጋፒር መደበኛ ሰዓትstandardlongSingaporemetazonetimeZoneNamesdates
+የኢራን የቀን ብርሃን ሰዓትdaylightlongIranmetazonetimeZoneNamesdates
+የኢራን መደበኛ ሰዓትstandardlongIranmetazonetimeZoneNamesdates
+የኢራን ሰዓትgenericlongIranmetazonetimeZoneNamesdates
+የኬፕ ቨርዴ ሰዓትgenericlongCape_VerdemetazonetimeZoneNamesdates
+የኬፕ ቨርዴ መደበኛ ሰዓትstandardlongCape_VerdemetazonetimeZoneNamesdates
+የኬፕ ቨርዴ ክረምት ሰዓትdaylightlongCape_VerdemetazonetimeZoneNamesdates
+የላይን ደሴቶች ሰዓትstandardlongLine_IslandsmetazonetimeZoneNamesdates
+የኡላን ባቶር መደበኛ ሰዓት አቆጣጠርstandardlongMongoliametazonetimeZoneNamesdates
+የኡላን ባቶር ጊዜgenericlongMongoliametazonetimeZoneNamesdates
+የኡላን ባቶር የበጋ ሰዓት አቆጣጠርdaylightlongMongoliametazonetimeZoneNamesdates
+የቡታን ሰዓትstandardlongBhutanmetazonetimeZoneNamesdates
+የቫልጎራድ የበጋ ሰዓት አቆጣጠርdaylightlongVolgogradmetazonetimeZoneNamesdates
+የቮልጎራድ የሰዓት አቆጣጠርgenericlongVolgogradmetazonetimeZoneNamesdates
+የቮልጎራድ መደበኛ ሰዓት አቆጣጠርstandardlongVolgogradmetazonetimeZoneNamesdates
+የሆንግ ኮንግ ሰዓትgenericlongHong_KongmetazonetimeZoneNamesdates
+የሆንግ ኮንግ መደበኛ ሰዓትstandardlongHong_KongmetazonetimeZoneNamesdates
+የሆንግ ኮንግ ክረምት ሰዓትdaylightlongHong_KongmetazonetimeZoneNamesdates
+የሎርድ ሆዌ የቀን ሰዓት አቆጣጠርdaylightlongLord_HowemetazonetimeZoneNamesdates
+የሎርድ ሆዌ የሰዓት አቆጣጠርgenericlongLord_HowemetazonetimeZoneNamesdates
+የሎርድ ሆዌ መደበኛ የሰዓት አቆጣጠርstandardlongLord_HowemetazonetimeZoneNamesdates
+የዌክ ደሴት ሰዓትstandardlongWakemetazonetimeZoneNamesdates
+የሲዮዋ ሰዓትstandardlongSyowametazonetimeZoneNamesdates
+የአውስትራሊያ መካከለኛ ምስራቃዊ ሰዓት አቆጣጠርgenericlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+የአውስትራሊያ መካከለኛ ምስራቃዊ መደበኛ ሰዓት አቆጣጠርstandardlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+የአውስትራሊያ መካከለኛው ምስራቅ የቀን ሰዓት አቆጣጠርdaylightlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+የገና ደሴት ሰዓትstandardlongChristmasmetazonetimeZoneNamesdates
+የቻታም የቀን ብርሃን ሰዓትdaylightlongChathammetazonetimeZoneNamesdates
+የቻታም መደበኛ ሰዓትstandardlongChathammetazonetimeZoneNamesdates
+የቻታም ሰዓትgenericlongChathammetazonetimeZoneNamesdates
+የቦሊቪያ ሰዓትstandardlongBoliviametazonetimeZoneNamesdates
+የደቡብ አፍሪካ መደበኛ ሰዓትstandardlongAfrica_SouthernmetazonetimeZoneNamesdates
+የመካከለኛው አፍሪካ ሰዓትstandardlongAfrica_CentralmetazonetimeZoneNamesdates
+የሃዋይ አሌኡት የቀን ሰዓት አቆጣጠርdaylightlongHawaii_AleutianmetazonetimeZoneNamesdates
+የሃዋይ አሌኡት መደበኛ ሰዓት አቆጣጠርstandardlongHawaii_AleutianmetazonetimeZoneNamesdates
+የሃዋይ አሌኡት ሰዓት አቆጣጠርgenericlongHawaii_AleutianmetazonetimeZoneNamesdates
+የኒው ካሌዶኒያ ክረምት ሰዓትdaylightlongNew_CaledoniametazonetimeZoneNamesdates
+የኒው ካሌዶኒያ ሰዓትgenericlongNew_CaledoniametazonetimeZoneNamesdates
+የኒው ካሌዶኒያ መደበኛ ሰዓትstandardlongNew_CaledoniametazonetimeZoneNamesdates
+የአፍጋኒስታን ሰዓትstandardlongAfghanistanmetazonetimeZoneNamesdates
+የሩቅ ምስራቅ የአውሮፓ ሰዓትstandardlongEurope_Further_EasternmetazonetimeZoneNamesdates
+የጃፓን ሰዓትgenericlongJapanmetazonetimeZoneNamesdates
+የጃፓን መደበኛ ሰዓትstandardlongJapanmetazonetimeZoneNamesdates
+የጃፓን የቀን ብርሃን ሰዓትdaylightlongJapanmetazonetimeZoneNamesdates
+የማርሻል ደሴቶች ሰዓትstandardlongMarshall_IslandsmetazonetimeZoneNamesdates
+የአውስትራሊያ መካከለኛ የቀን ሰዓት አቆጣጠርdaylightlongAustralia_CentralmetazonetimeZoneNamesdates
+የአውስትራሊያ መካከለኛ መደበኛ የሰዓት አቆጣጠርstandardlongAustralia_CentralmetazonetimeZoneNamesdates
+የመካከለኛው አውስትራሊያ ሰዓት አቆጣጠርgenericlongAustralia_CentralmetazonetimeZoneNamesdates
+የምዕራባዊ አርጀንቲና መደበኛ ሰዓት አቆጣጠርstandardlongArgentina_WesternmetazonetimeZoneNamesdates
+የአርጀንቲና ምስራቃዊ ሰዓት አቆጣጠርgenericlongArgentina_WesternmetazonetimeZoneNamesdates
+የአርጀንቲና ምስራቃዊ በጋ ሰዓት አቆጣጠርdaylightlongArgentina_WesternmetazonetimeZoneNamesdates
+የምዕራብ ግሪንላንድ ክረምት ሰዓትdaylightlongGreenland_WesternmetazonetimeZoneNamesdates
+የምዕራብ ግሪንላንድ መደበኛ ሰዓትstandardlongGreenland_WesternmetazonetimeZoneNamesdates
+የምዕራብ ግሪንላንድ ሰዓትgenericlongGreenland_WesternmetazonetimeZoneNamesdates
+የምስራቅ ግሪንላንድ መደበኛ ሰዓትstandardlongGreenland_EasternmetazonetimeZoneNamesdates
+የምስራቅ ግሪንላንድ ሰዓትgenericlongGreenland_EasternmetazonetimeZoneNamesdates
+የምስራቅ ግሪንላንድ ክረምት ሰዓትdaylightlongGreenland_EasternmetazonetimeZoneNamesdates
+የህንድ መደበኛ ሰዓትstandardlongIndiametazonetimeZoneNamesdates
+የማከሪ ደሴት ሰዓትstandardlongMacquariemetazonetimeZoneNamesdates
+የአዘርባጃን ሰዓትgenericlongAzerbaijanmetazonetimeZoneNamesdates
+የአዘርባጃን መደበኛ ሰዓትstandardlongAzerbaijanmetazonetimeZoneNamesdates
+የአዘርባጃን ክረምት ሰዓትdaylightlongAzerbaijanmetazonetimeZoneNamesdates
+የቮስቶክ ሰዓትstandardlongVostokmetazonetimeZoneNamesdates
+የሰለሞን ደሴቶች ሰዓትstandardlongSolomonmetazonetimeZoneNamesdates
+ምስራቃዊ መደበኛ ሰዓት አቆጣጠርstandardlongAmerica_EasternmetazonetimeZoneNamesdates
+ምስራቃዊ ሰዓት አቆጣጠርgenericlongAmerica_EasternmetazonetimeZoneNamesdates
+ምስራቃዊ የቀን ሰዓት አቆጣጠርdaylightlongAmerica_EasternmetazonetimeZoneNamesdates
+ኩባ ሰዓትgenericlongCubametazonetimeZoneNamesdates
+የኩባ መደበኛ ሰዓትstandardlongCubametazonetimeZoneNamesdates
+የኩባ የቀን ብርሃን ሰዓትdaylightlongCubametazonetimeZoneNamesdates
+የኮሎምቢያ ክረምት ሰዓትdaylightlongColombiametazonetimeZoneNamesdates
+የኮሎምቢያ ሰዓትgenericlongColombiametazonetimeZoneNamesdates
+የኮሎምቢያ መደበኛ ሰዓትstandardlongColombiametazonetimeZoneNamesdates
+የምዕራባዊ አውሮፓ ክረምት ሰዓትdaylightlongEurope_WesternmetazonetimeZoneNamesdates
+የምዕራባዊ አውሮፓ መደበኛ ሰዓትstandardlongEurope_WesternmetazonetimeZoneNamesdates
+የምዕራባዊ አውሮፓ ሰዓትgenericlongEurope_WesternmetazonetimeZoneNamesdates
+የማውሰን ሰዓትstandardlongMawsonmetazonetimeZoneNamesdates
+የኒዩዌ ሰዓትstandardlongNiuemetazonetimeZoneNamesdates
+የሮቴራ ሰዓትstandardlongRotherametazonetimeZoneNamesdates
+የማርኴሳስ ሰዓትstandardlongMarquesasmetazonetimeZoneNamesdates
+የደቡብ ጂዮርጂያ ሰዓትstandardlongSouth_GeorgiametazonetimeZoneNamesdates
+የሱሪናም ሰዓትstandardlongSurinamemetazonetimeZoneNamesdates
+የቹክ ሰዓትstandardlongTrukmetazonetimeZoneNamesdates
+የሆቭድ የበጋ ሰዓት አቆጣጠርdaylightlongHovdmetazonetimeZoneNamesdates
+የሆቭድ መደበኛ የሰዓት አቆጣጠርstandardlongHovdmetazonetimeZoneNamesdates
+የሆቭድ ሰዓት አቆጣጠርgenericlongHovdmetazonetimeZoneNamesdates
+የሳክሃሊን ሰዓት አቆጣጠርgenericlongSakhalinmetazonetimeZoneNamesdates
+የሳክሃሊን መደበኛ ሰዓት አቆጣጠርstandardlongSakhalinmetazonetimeZoneNamesdates
+የሳክሃሊን የበጋ ሰዓት አቆጣጠርdaylightlongSakhalinmetazonetimeZoneNamesdates
+የማልዲቭስ ሰዓትstandardlongMaldivesmetazonetimeZoneNamesdates
+ያኩትስክ መደበኛ ሰዓት አቆጣጠርstandardlongYakutskmetazonetimeZoneNamesdates
+ያኩትስክ የሰዓት አቆጣጠርgenericlongYakutskmetazonetimeZoneNamesdates
+የያኩትስክ የበጋ ሰዓት አቆጣጠርdaylightlongYakutskmetazonetimeZoneNamesdates
+የኒው ዚላንድ መደበኛ ሰዓትstandardlongNew_ZealandmetazonetimeZoneNamesdates
+የኒው ዚላንድ ሰዓትgenericlongNew_ZealandmetazonetimeZoneNamesdates
+የኒው ዚላንድ የቀን ብርሃን ሰዓትdaylightlongNew_ZealandmetazonetimeZoneNamesdates
+የዴቪስ ሰዓትstandardlongDavismetazonetimeZoneNamesdates
+የኔፓል ሰዓትstandardlongNepalmetazonetimeZoneNamesdates
+የምዕራብ አፍሪካ ክረምት ሰዓትdaylightlongAfrica_WesternmetazonetimeZoneNamesdates
+የምዕራብ አፍሪካ መደበኛ ሰዓትstandardlongAfrica_WesternmetazonetimeZoneNamesdates
+የምዕራብ አፍሪካ ሰዓትgenericlongAfrica_WesternmetazonetimeZoneNamesdates
+ሰሜናዊ ምእራብ የሜክሲኮ የቀን ሰዓት አቆጣጠርdaylightlongMexico_NorthwestmetazonetimeZoneNamesdates
+ሰሜናዊ ምእራብ የሜክሲኮ መደበኛ ሰዓት አቆጣጠርstandardlongMexico_NorthwestmetazonetimeZoneNamesdates
+ሰሜናዊ ምእራብ የሜክሲኮ ሰዓት አቆጣጠርgenericlongMexico_NorthwestmetazonetimeZoneNamesdates
+ዲሊexemplarCityAsia/DilizonetimeZoneNamesdates
+ስኮፕየexemplarCityEurope/SkopjezonetimeZoneNamesdates
+ቪንቼንስ, ኢንዲያናexemplarCityAmerica/Indiana/VincenneszonetimeZoneNamesdates
+አኩታኡexemplarCityAsia/AqtauzonetimeZoneNamesdates
+ሳንቶ ዶሚንጎexemplarCityAmerica/Santo_DomingozonetimeZoneNamesdates
+አስትራክሃንexemplarCityEurope/AstrakhanzonetimeZoneNamesdates
+ካታማርካexemplarCityAmerica/CatamarcazonetimeZoneNamesdates
+ኮሞሮexemplarCityIndian/ComorozonetimeZoneNamesdates
+ሻንጋይexemplarCityAsia/ShanghaizonetimeZoneNamesdates
+ስቶክሆልምexemplarCityEurope/StockholmzonetimeZoneNamesdates
+ቦጎታexemplarCityAmerica/BogotazonetimeZoneNamesdates
+ሮቴራexemplarCityAntarctica/RotherazonetimeZoneNamesdates
+ጋቦሮንexemplarCityAfrica/GaboronezonetimeZoneNamesdates
+ብራሰልስexemplarCityEurope/BrusselszonetimeZoneNamesdates
+ቪቫይ, ኢንዲያናexemplarCityAmerica/Indiana/VevayzonetimeZoneNamesdates
+ሚንስክexemplarCityEurope/MinskzonetimeZoneNamesdates
+ካንዲጋexemplarCityAsia/KhandygazonetimeZoneNamesdates
+ማርጎትexemplarCityAmerica/MarigotzonetimeZoneNamesdates
+ቱኒዝexemplarCityAfrica/TuniszonetimeZoneNamesdates
+ቶሮንቶexemplarCityAmerica/TorontozonetimeZoneNamesdates
+ቻታምexemplarCityPacific/ChathamzonetimeZoneNamesdates
+ቮልጎራድexemplarCityEurope/VolgogradzonetimeZoneNamesdates
+ክራለንዲይክexemplarCityAmerica/KralendijkzonetimeZoneNamesdates
+ብላንታየርexemplarCityAfrica/BlantyrezonetimeZoneNamesdates
+ስሬድኔስኮልምስክexemplarCityAsia/SrednekolymskzonetimeZoneNamesdates
+ጋምቢየርexemplarCityPacific/GambierzonetimeZoneNamesdates
+ማልታexemplarCityEurope/MaltazonetimeZoneNamesdates
+አልማትይexemplarCityAsia/AlmatyzonetimeZoneNamesdates
+ሎርድ ሆዊexemplarCityAustralia/Lord_HowezonetimeZoneNamesdates
+ዳርዊንexemplarCityAustralia/DarwinzonetimeZoneNamesdates
+እየሩሳሌምexemplarCityAsia/JerusalemzonetimeZoneNamesdates
+ፖድጎሪካexemplarCityEurope/PodgoricazonetimeZoneNamesdates
+ፋሲካexemplarCityPacific/EasterzonetimeZoneNamesdates
+ገናexemplarCityIndian/ChristmaszonetimeZoneNamesdates
+ኡዝጎሮድexemplarCityEurope/UzhgorodzonetimeZoneNamesdates
+ኩየአባexemplarCityAmerica/CuiabazonetimeZoneNamesdates
+ዳውሰንexemplarCityAmerica/DawsonzonetimeZoneNamesdates
+ባርናኡልexemplarCityAsia/BarnaulzonetimeZoneNamesdates
+ታሽኬንትexemplarCityAsia/TashkentzonetimeZoneNamesdates
+ቫቲካንexemplarCityEurope/VaticanzonetimeZoneNamesdates
+ደቡብ ጆርጂያexemplarCityAtlantic/South_GeorgiazonetimeZoneNamesdates
+ሞቃዲሹexemplarCityAfrica/MogadishuzonetimeZoneNamesdates
+ደማስቆexemplarCityAsia/DamascuszonetimeZoneNamesdates
+ኖቮሲቢሪስክexemplarCityAsia/NovosibirskzonetimeZoneNamesdates
+አዲስ አበባexemplarCityAfrica/Addis_AbabazonetimeZoneNamesdates
+ዶሜኒካexemplarCityAmerica/DominicazonetimeZoneNamesdates
+ሪዞሊዩትexemplarCityAmerica/ResolutezonetimeZoneNamesdates
+ቤኡላህ, ሰሜን ዳኮታexemplarCityAmerica/North_Dakota/BeulahzonetimeZoneNamesdates
+ቅድስት ሄለናexemplarCityAtlantic/St_HelenazonetimeZoneNamesdates
+ራንኪን ኢንሌትexemplarCityAmerica/Rankin_InletzonetimeZoneNamesdates
+ማላቡexemplarCityAfrica/MalabozonetimeZoneNamesdates
+ቪየናexemplarCityEurope/ViennazonetimeZoneNamesdates
+ከሪexemplarCityAustralia/CurriezonetimeZoneNamesdates
+ሆባርትexemplarCityAustralia/HobartzonetimeZoneNamesdates
+ሶፊያexemplarCityEurope/SofiazonetimeZoneNamesdates
+ፓናማexemplarCityAmerica/PanamazonetimeZoneNamesdates
+ፕዮንግያንግexemplarCityAsia/PyongyangzonetimeZoneNamesdates
+ካቡልexemplarCityAsia/KabulzonetimeZoneNamesdates
+ኬብሮንexemplarCityAsia/HebronzonetimeZoneNamesdates
+አቢጃንexemplarCityAfrica/AbidjanzonetimeZoneNamesdates
+ፐርዝexemplarCityAustralia/PerthzonetimeZoneNamesdates
+ፔትሮ ቬልሆexemplarCityAmerica/Porto_VelhozonetimeZoneNamesdates
+ማዮቴexemplarCityIndian/MayottezonetimeZoneNamesdates
+ላ ሪኦጃexemplarCityAmerica/Argentina/La_RiojazonetimeZoneNamesdates
+ብሪስቤንexemplarCityAustralia/BrisbanezonetimeZoneNamesdates
+ላ ፓዝexemplarCityAmerica/La_PazzonetimeZoneNamesdates
+ኡላአንባአታርexemplarCityAsia/UlaanbaatarzonetimeZoneNamesdates
+ቴል ከተማ, ኢንዲያናexemplarCityAmerica/Indiana/Tell_CityzonetimeZoneNamesdates
+ቴራንexemplarCityEurope/TiranezonetimeZoneNamesdates
+ጃያፑራexemplarCityAsia/JayapurazonetimeZoneNamesdates
+ኢንደርበሪexemplarCityPacific/EnderburyzonetimeZoneNamesdates
+ቦነስ አይረስexemplarCityAmerica/Buenos_AireszonetimeZoneNamesdates
+ረሲፍexemplarCityAmerica/RecifezonetimeZoneNamesdates
+ታሂቲexemplarCityPacific/TahitizonetimeZoneNamesdates
+ቺሁዋውአexemplarCityAmerica/ChihuahuazonetimeZoneNamesdates
+ኦራልexemplarCityAsia/OralzonetimeZoneNamesdates
+ኤልሳልቫዶርexemplarCityAmerica/El_SalvadorzonetimeZoneNamesdates
+መትላካትላexemplarCityAmerica/MetlakatlazonetimeZoneNamesdates
+ፑንታ አሬናስexemplarCityAmerica/Punta_ArenaszonetimeZoneNamesdates
+ሳንታሬምexemplarCityAmerica/SantaremzonetimeZoneNamesdates
+ተንደር ቤይexemplarCityAmerica/Thunder_BayzonetimeZoneNamesdates
+ፒትከይርንexemplarCityPacific/PitcairnzonetimeZoneNamesdates
+ጉዋዳልካናልexemplarCityPacific/GuadalcanalzonetimeZoneNamesdates
+ቫንኮቨርexemplarCityAmerica/VancouverzonetimeZoneNamesdates
+ኦክላንድexemplarCityPacific/AucklandzonetimeZoneNamesdates
+ጃካርታexemplarCityAsia/JakartazonetimeZoneNamesdates
+ቺካጎexemplarCityAmerica/ChicagozonetimeZoneNamesdates
+ግሬናዳexemplarCityAmerica/GrenadazonetimeZoneNamesdates
+ሪዮ ጋሌጎስexemplarCityAmerica/Argentina/Rio_GallegoszonetimeZoneNamesdates
+ኒያሜይexemplarCityAfrica/NiameyzonetimeZoneNamesdates
+ሳማራexemplarCityEurope/SamarazonetimeZoneNamesdates
+ፍሪታውንexemplarCityAfrica/FreetownzonetimeZoneNamesdates
+ካምፓላexemplarCityAfrica/KampalazonetimeZoneNamesdates
+ኩዌትexemplarCityAsia/KuwaitzonetimeZoneNamesdates
+ሊበርቪልexemplarCityAfrica/LibrevillezonetimeZoneNamesdates
+ናውሰንexemplarCityAntarctica/MawsonzonetimeZoneNamesdates
+ያልታወቀ ከተማexemplarCityEtc/UnknownzonetimeZoneNamesdates
+ጕዳሉፕexemplarCityAmerica/GuadeloupezonetimeZoneNamesdates
+የብሪትሽ የበጋ ሰዓት አቆጣጠርdaylightlongEurope/LondonzonetimeZoneNamesdates
+ለንደንexemplarCityEurope/LondonzonetimeZoneNamesdates
+ሲኡታexemplarCityAfrica/CeutazonetimeZoneNamesdates
+ባርቤዶስexemplarCityAmerica/BarbadoszonetimeZoneNamesdates
+ካምፖ ግራንዴexemplarCityAmerica/Campo_GrandezonetimeZoneNamesdates
+ቤሊዝexemplarCityAmerica/BelizezonetimeZoneNamesdates
+ቅዱስ ቪንሰንትexemplarCityAmerica/St_VincentzonetimeZoneNamesdates
+ሌጎስexemplarCityAfrica/LagoszonetimeZoneNamesdates
+ማሬንጎ, ኢንዲያናexemplarCityAmerica/Indiana/MarengozonetimeZoneNamesdates
+ኪጋሊexemplarCityAfrica/KigalizonetimeZoneNamesdates
+ሲንጋፖርexemplarCityAsia/SingaporezonetimeZoneNamesdates
+ብሮክን ሂልexemplarCityAustralia/Broken_HillzonetimeZoneNamesdates
+ሞንቴቪድዮexemplarCityAmerica/MontevideozonetimeZoneNamesdates
+ፎርት ኔልሰንexemplarCityAmerica/Fort_NelsonzonetimeZoneNamesdates
+ሳማርካንድexemplarCityAsia/SamarkandzonetimeZoneNamesdates
+ናሳውexemplarCityAmerica/NassauzonetimeZoneNamesdates
+አስመራexemplarCityAfrica/AsmerazonetimeZoneNamesdates
+ቅዱስ ዮሐንስexemplarCityAmerica/St_JohnszonetimeZoneNamesdates
+ሳኦ ፖሎexemplarCityAmerica/Sao_PaulozonetimeZoneNamesdates
+ሪዮ ብራንኮexemplarCityAmerica/Rio_BrancozonetimeZoneNamesdates
+ኡስት-ኔራexemplarCityAsia/Ust-NerazonetimeZoneNamesdates
+ቡጁምብራexemplarCityAfrica/BujumburazonetimeZoneNamesdates
+ኤደንexemplarCityAsia/AdenzonetimeZoneNamesdates
+ቤርሙዳexemplarCityAtlantic/BermudazonetimeZoneNamesdates
+ፖርት ሞሬስባይexemplarCityPacific/Port_MoresbyzonetimeZoneNamesdates
+ቶንጋታፑexemplarCityPacific/TongatapuzonetimeZoneNamesdates
+ቡዳፔስትexemplarCityEurope/BudapestzonetimeZoneNamesdates
+አፒአexemplarCityPacific/ApiazonetimeZoneNamesdates
+ፒተርስበርግ, ኢንዲያናexemplarCityAmerica/Indiana/PetersburgzonetimeZoneNamesdates
+ብራቲስላቫexemplarCityEurope/BratislavazonetimeZoneNamesdates
+አሽጋባትexemplarCityAsia/AshgabatzonetimeZoneNamesdates
+ማዛትላንexemplarCityAmerica/MazatlanzonetimeZoneNamesdates
+ኡልያኖቭስክexemplarCityEurope/UlyanovskzonetimeZoneNamesdates
+ኖቮኩትዝኔክexemplarCityAsia/NovokuznetskzonetimeZoneNamesdates
+ኖክስ, ኢንዲያናexemplarCityAmerica/Indiana/KnoxzonetimeZoneNamesdates
+ሴኦልexemplarCityAsia/SeoulzonetimeZoneNamesdates
+ዱአላexemplarCityAfrica/DoualazonetimeZoneNamesdates
+ስታንሌይexemplarCityAtlantic/StanleyzonetimeZoneNamesdates
+ጉዝ ቤይexemplarCityAmerica/Goose_BayzonetimeZoneNamesdates
+ሊዝበንexemplarCityEurope/LisbonzonetimeZoneNamesdates
+ማካኡexemplarCityAsia/MacauzonetimeZoneNamesdates
+ፓላውexemplarCityPacific/PalauzonetimeZoneNamesdates
+ቡካሬስትexemplarCityEurope/BucharestzonetimeZoneNamesdates
+ንጃሜናexemplarCityAfrica/NdjamenazonetimeZoneNamesdates
+ካሊኒንግራድexemplarCityEurope/KaliningradzonetimeZoneNamesdates
+ቫዱዝexemplarCityEurope/VaduzzonetimeZoneNamesdates
+ማሴሩexemplarCityAfrica/MaseruzonetimeZoneNamesdates
+ጀርሲexemplarCityEurope/JerseyzonetimeZoneNamesdates
+ማድሪድexemplarCityEurope/MadridzonetimeZoneNamesdates
+ዳካexemplarCityAsia/DhakazonetimeZoneNamesdates
+ኢኑቪክexemplarCityAmerica/InuvikzonetimeZoneNamesdates
+ኬርጉለንexemplarCityIndian/KerguelenzonetimeZoneNamesdates
+አንታናናሪቮexemplarCityIndian/AntananarivozonetimeZoneNamesdates
+ስዮዋexemplarCityAntarctica/SyowazonetimeZoneNamesdates
+ቤልግሬድexemplarCityEurope/BelgradezonetimeZoneNamesdates
+ኤድመንተንexemplarCityAmerica/EdmontonzonetimeZoneNamesdates
+ሎንግይርባየንexemplarCityArctic/LongyearbyenzonetimeZoneNamesdates
+ቅድስት ሉሲያexemplarCityAmerica/St_LuciazonetimeZoneNamesdates
+ታይፓይexemplarCityAsia/TaipeizonetimeZoneNamesdates
+ኡሹአኢexemplarCityAmerica/Argentina/UshuaiazonetimeZoneNamesdates
+ዳውሰን ክሬክexemplarCityAmerica/Dawson_CreekzonetimeZoneNamesdates
+አቲኮካንexemplarCityAmerica/Coral_HarbourzonetimeZoneNamesdates
+ኡጋዱጉexemplarCityAfrica/OuagadougouzonetimeZoneNamesdates
+ዊኒፔግexemplarCityAmerica/WinnipegzonetimeZoneNamesdates
+ዳሬ ሰላምexemplarCityAfrica/Dar_es_SalaamzonetimeZoneNamesdates
+ቤሩትexemplarCityAsia/BeirutzonetimeZoneNamesdates
+ኒኮሲአexemplarCityAsia/NicosiazonetimeZoneNamesdates
+ፓንግኒርተንግexemplarCityAmerica/PangnirtungzonetimeZoneNamesdates
+ጋዛexemplarCityAsia/GazazonetimeZoneNamesdates
+ቦጌይንቪልexemplarCityPacific/BougainvillezonetimeZoneNamesdates
+ኮልካታexemplarCityAsia/CalcuttazonetimeZoneNamesdates
+ሉአንዳexemplarCityAfrica/LuandazonetimeZoneNamesdates
+የካተሪንበርግexemplarCityAsia/YekaterinburgzonetimeZoneNamesdates
+ሜኖሚኒexemplarCityAmerica/MenomineezonetimeZoneNamesdates
+ኢስታንቡልexemplarCityEurope/IstanbulzonetimeZoneNamesdates
+ቶኪዮexemplarCityAsia/TokyozonetimeZoneNamesdates
+ካትማንዱexemplarCityAsia/KatmanduzonetimeZoneNamesdates
+ባማኮexemplarCityAfrica/BamakozonetimeZoneNamesdates
+ኩይዚሎርዳexemplarCityAsia/QyzylordazonetimeZoneNamesdates
+አዞረስexemplarCityAtlantic/AzoreszonetimeZoneNamesdates
+ጃማይካexemplarCityAmerica/JamaicazonetimeZoneNamesdates
+ካርቱምexemplarCityAfrica/KhartoumzonetimeZoneNamesdates
+አቴንስexemplarCityEurope/AthenszonetimeZoneNamesdates
+የታችኛው ልዑል ሩብexemplarCityAmerica/Lower_PrinceszonetimeZoneNamesdates
+ኢንዲያናፖሊስexemplarCityAmerica/IndianapoliszonetimeZoneNamesdates
+ሉሳካexemplarCityAfrica/LusakazonetimeZoneNamesdates
+ፖህንፔexemplarCityPacific/PonapezonetimeZoneNamesdates
+ፓጎ ፓጎexemplarCityPacific/Pago_PagozonetimeZoneNamesdates
+ቹክexemplarCityPacific/TrukzonetimeZoneNamesdates
+ኪየቭexemplarCityEurope/KievzonetimeZoneNamesdates
+ቲጁአናexemplarCityAmerica/TijuanazonetimeZoneNamesdates
+መካከለኛ, ሰሜን ዳኮታexemplarCityAmerica/North_Dakota/CenterzonetimeZoneNamesdates
+ኮፐንሃገንexemplarCityEurope/CopenhagenzonetimeZoneNamesdates
+አንዶራexemplarCityEurope/AndorrazonetimeZoneNamesdates
+ሜክሲኮ ከተማexemplarCityAmerica/Mexico_CityzonetimeZoneNamesdates
+ካንኩንexemplarCityAmerica/CancunzonetimeZoneNamesdates
+ሃቫናexemplarCityAmerica/HavanazonetimeZoneNamesdates
+ዳቪስexemplarCityAntarctica/DaviszonetimeZoneNamesdates
+ፎርታሌዛexemplarCityAmerica/FortalezazonetimeZoneNamesdates
+ባሂያ ባንደራስexemplarCityAmerica/Bahia_BanderaszonetimeZoneNamesdates
+ሲትካexemplarCityAmerica/SitkazonetimeZoneNamesdates
+ብላንክ- ሳብሎንexemplarCityAmerica/Blanc-SablonzonetimeZoneNamesdates
+ሜልቦርንexemplarCityAustralia/MelbournezonetimeZoneNamesdates
+ኩቺንግexemplarCityAsia/KuchingzonetimeZoneNamesdates
+ኖርፎልክexemplarCityPacific/NorfolkzonetimeZoneNamesdates
+ኑአክቾትexemplarCityAfrica/NouakchottzonetimeZoneNamesdates
+ኪሪቲማቲexemplarCityPacific/KiritimatizonetimeZoneNamesdates
+ሉቡምባሺexemplarCityAfrica/LubumbashizonetimeZoneNamesdates
+ሙስካትexemplarCityAsia/MuscatzonetimeZoneNamesdates
+ካይማንexemplarCityAmerica/CaymanzonetimeZoneNamesdates
+ጂብራልታርexemplarCityEurope/GibraltarzonetimeZoneNamesdates
+ቾይባልሳንexemplarCityAsia/ChoibalsanzonetimeZoneNamesdates
+ያኩታትexemplarCityAmerica/YakutatzonetimeZoneNamesdates
+ዊናማክ, ኢንዲያናexemplarCityAmerica/Indiana/WinamaczonetimeZoneNamesdates
+ታራዋexemplarCityPacific/TarawazonetimeZoneNamesdates
+ካናሪexemplarCityAtlantic/CanaryzonetimeZoneNamesdates
+አምስተርዳምexemplarCityEurope/AmsterdamzonetimeZoneNamesdates
+ፓሪስexemplarCityEurope/PariszonetimeZoneNamesdates
+ጁባexemplarCityAfrica/JubazonetimeZoneNamesdates
+ማፑቱexemplarCityAfrica/MaputozonetimeZoneNamesdates
+ዛፖሮዚይexemplarCityEurope/ZaporozhyezonetimeZoneNamesdates
+ሞንቲሴሎ, ኪንታኪexemplarCityAmerica/Kentucky/MonticellozonetimeZoneNamesdates
+ብራዛቪልexemplarCityAfrica/BrazzavillezonetimeZoneNamesdates
+ረጂናexemplarCityAmerica/ReginazonetimeZoneNamesdates
+ያንጎንexemplarCityAsia/RangoonzonetimeZoneNamesdates
+ሎሜexemplarCityAfrica/LomezonetimeZoneNamesdates
+ዳንማርክሻቭንexemplarCityAmerica/DanmarkshavnzonetimeZoneNamesdates
+ሴይፓንexemplarCityPacific/SaipanzonetimeZoneNamesdates
+ማናጉአexemplarCityAmerica/ManaguazonetimeZoneNamesdates
+አዲስ ሳሌም, ሰሜን ዳኮታexemplarCityAmerica/North_Dakota/New_SalemzonetimeZoneNamesdates
+ኢሩኔፕexemplarCityAmerica/EirunepezonetimeZoneNamesdates
+ኮርዶባexemplarCityAmerica/CordobazonetimeZoneNamesdates
+ፕራግexemplarCityEurope/PraguezonetimeZoneNamesdates
+የእስፔን ወደብexemplarCityAmerica/Port_of_SpainzonetimeZoneNamesdates
+አኩቶቤexemplarCityAsia/AqtobezonetimeZoneNamesdates
+ዋርሶውexemplarCityEurope/WarsawzonetimeZoneNamesdates
+የተቀነባበረ ሁለገብ ሰዓትstandardlongEtc/UTCzonetimeZoneNamesdates
+ኮስሬexemplarCityPacific/KosraezonetimeZoneNamesdates
+ፋሮእexemplarCityAtlantic/FaeroezonetimeZoneNamesdates
+ካራካስexemplarCityAmerica/CaracaszonetimeZoneNamesdates
+ናኦሚአexemplarCityPacific/NoumeazonetimeZoneNamesdates
+ኖሮኛexemplarCityAmerica/NoronhazonetimeZoneNamesdates
+አሱንሲዮንexemplarCityAmerica/AsuncionzonetimeZoneNamesdates
+ዴንቨርexemplarCityAmerica/DenverzonetimeZoneNamesdates
+ፖርቶ - ኖቮexemplarCityAfrica/Porto-NovozonetimeZoneNamesdates
+ሜሲኦexemplarCityAmerica/MaceiozonetimeZoneNamesdates
+አልጀርስexemplarCityAfrica/AlgierszonetimeZoneNamesdates
+ሆቭድexemplarCityAsia/HovdzonetimeZoneNamesdates
+ባግዳድexemplarCityAsia/BaghdadzonetimeZoneNamesdates
+ሆኖሉሉexemplarCityPacific/HonoluluzonetimeZoneNamesdates
+ጉአምexemplarCityPacific/GuamzonetimeZoneNamesdates
+ሄልሲንኪexemplarCityEurope/HelsinkizonetimeZoneNamesdates
+ዱባይexemplarCityAsia/DubaizonetimeZoneNamesdates
+ኒዌexemplarCityPacific/NiuezonetimeZoneNamesdates
+ኮኮስexemplarCityIndian/CocoszonetimeZoneNamesdates
+ሊውስቪልexemplarCityAmerica/LouisvillezonetimeZoneNamesdates
+ቦይዝexemplarCityAmerica/BoisezonetimeZoneNamesdates
+ቢሽኬክexemplarCityAsia/BishkekzonetimeZoneNamesdates
+ማናኡስexemplarCityAmerica/ManauszonetimeZoneNamesdates
+ፖርቶሪኮexemplarCityAmerica/Puerto_RicozonetimeZoneNamesdates
+ማታሞሮስexemplarCityAmerica/MatamoroszonetimeZoneNamesdates
+ሚድወይexemplarCityPacific/MidwayzonetimeZoneNamesdates
+ሞናኮexemplarCityEurope/MonacozonetimeZoneNamesdates
+ሞስኮexemplarCityEurope/MoscowzonetimeZoneNamesdates
+ሳንታ ኢዛቤልexemplarCityAmerica/Santa_IsabelzonetimeZoneNamesdates
+ስኮርስባይሰንድexemplarCityAmerica/ScoresbysundzonetimeZoneNamesdates
+ቤለምexemplarCityAmerica/BelemzonetimeZoneNamesdates
+ጋድታብexemplarCityAmerica/GodthabzonetimeZoneNamesdates
+ቭላዲቮስቶክexemplarCityAsia/VladivostokzonetimeZoneNamesdates
+ፖርት ኦ ፕሪንስexemplarCityAmerica/Port-au-PrincezonetimeZoneNamesdates
+ቪሊነስexemplarCityEurope/VilniuszonetimeZoneNamesdates
+ሞንክቶንexemplarCityAmerica/MonctonzonetimeZoneNamesdates
+ባሂአexemplarCityAmerica/BahiazonetimeZoneNamesdates
+ኳታርexemplarCityAsia/QatarzonetimeZoneNamesdates
+በርሊንexemplarCityEurope/BerlinzonetimeZoneNamesdates
+አዳክexemplarCityAmerica/AdakzonetimeZoneNamesdates
+ቦአ ቪስታexemplarCityAmerica/Boa_VistazonetimeZoneNamesdates
+ኒፒጎንexemplarCityAmerica/NipigonzonetimeZoneNamesdates
+ትሪፖሊexemplarCityAfrica/TripolizonetimeZoneNamesdates
+አንቲጓexemplarCityAmerica/AntiguazonetimeZoneNamesdates
+ሲምፈሮፖልexemplarCityEurope/SimferopolzonetimeZoneNamesdates
+አራጉየናexemplarCityAmerica/AraguainazonetimeZoneNamesdates
+ሳን ማሪኖexemplarCityEurope/San_MarinozonetimeZoneNamesdates
+አናድይርexemplarCityAsia/AnadyrzonetimeZoneNamesdates
+ቢሳኦexemplarCityAfrica/BissauzonetimeZoneNamesdates
+ግሌስ ቤይexemplarCityAmerica/Glace_BayzonetimeZoneNamesdates
+ሞንትሴራትexemplarCityAmerica/MontserratzonetimeZoneNamesdates
+ሬዩኒየንexemplarCityIndian/ReunionzonetimeZoneNamesdates
+ማልዲቨexemplarCityIndian/MaldiveszonetimeZoneNamesdates
+ሃራሬexemplarCityAfrica/HararezonetimeZoneNamesdates
+ትብሊሲexemplarCityAsia/TbilisizonetimeZoneNamesdates
+ካዚይexemplarCityAntarctica/CaseyzonetimeZoneNamesdates
+ኪሮቭexemplarCityEurope/KirovzonetimeZoneNamesdates
+ዛግሬብexemplarCityEurope/ZagrebzonetimeZoneNamesdates
+ኢፋቴexemplarCityPacific/EfatezonetimeZoneNamesdates
+ኡክላexemplarCityAustralia/EuclazonetimeZoneNamesdates
+ኤል አዩአንexemplarCityAfrica/El_AaiunzonetimeZoneNamesdates
+ዲትሮይትexemplarCityAmerica/DetroitzonetimeZoneNamesdates
+ሞሪሽየስexemplarCityIndian/MauritiuszonetimeZoneNamesdates
+ሉክሰምበርግexemplarCityEurope/LuxembourgzonetimeZoneNamesdates
+ማዴራexemplarCityAtlantic/MadeirazonetimeZoneNamesdates
+ሎስ አንጀለስexemplarCityAmerica/Los_AngeleszonetimeZoneNamesdates
+አማንexemplarCityAsia/AmmanzonetimeZoneNamesdates
+ሳልታexemplarCityAmerica/Argentina/SaltazonetimeZoneNamesdates
+ደብሊንexemplarCityEurope/DublinzonetimeZoneNamesdates
+የአይሪሽ መደበኛ ሰዓት አቆጣጠርdaylightlongEurope/DublinzonetimeZoneNamesdates
+ጉያኩይልexemplarCityAmerica/GuayaquilzonetimeZoneNamesdates
+ባኩexemplarCityAsia/BakuzonetimeZoneNamesdates
+ቅድስት ቤርተሎሜexemplarCityAmerica/St_BarthelemyzonetimeZoneNamesdates
+ማሄexemplarCityIndian/MahezonetimeZoneNamesdates
+ክራስኖያርስክexemplarCityAsia/KrasnoyarskzonetimeZoneNamesdates
+ፊኒክስexemplarCityAmerica/PhoenixzonetimeZoneNamesdates
+ዋኬexemplarCityPacific/WakezonetimeZoneNamesdates
+ጉያናexemplarCityAmerica/GuyanazonetimeZoneNamesdates
+ባንጉኢexemplarCityAfrica/BanguizonetimeZoneNamesdates
+ሆ ቺ ሚንህ ከተማexemplarCityAsia/SaigonzonetimeZoneNamesdates
+ኡሩምኪexemplarCityAsia/UrumqizonetimeZoneNamesdates
+ናውሩexemplarCityPacific/NauruzonetimeZoneNamesdates
+ጁኒዩexemplarCityAmerica/JuneauzonetimeZoneNamesdates
+ኮሎምቦexemplarCityAsia/ColombozonetimeZoneNamesdates
+ሊንድማንexemplarCityAustralia/LindemanzonetimeZoneNamesdates
+ጆሃንስበርግexemplarCityAfrica/JohannesburgzonetimeZoneNamesdates
+ኖሜexemplarCityAmerica/NomezonetimeZoneNamesdates
+ታሊንexemplarCityEurope/TallinnzonetimeZoneNamesdates
+ባንኮክexemplarCityAsia/BangkokzonetimeZoneNamesdates
+ሜሪሃምንexemplarCityEurope/MariehamnzonetimeZoneNamesdates
+ሬኒ ሪቨርexemplarCityAmerica/Rainy_RiverzonetimeZoneNamesdates
+ጉርነሲexemplarCityEurope/GuernseyzonetimeZoneNamesdates
+ራሮቶንጋexemplarCityPacific/RarotongazonetimeZoneNamesdates
+አሩባexemplarCityAmerica/ArubazonetimeZoneNamesdates
+ኦዪናጋexemplarCityAmerica/OjinagazonetimeZoneNamesdates
+ማርቲኒክexemplarCityAmerica/MartiniquezonetimeZoneNamesdates
+ካይንኤexemplarCityAmerica/CayennezonetimeZoneNamesdates
+ፋካኦፎexemplarCityPacific/FakaofozonetimeZoneNamesdates
+ኬፕ ቬርደexemplarCityAtlantic/Cape_VerdezonetimeZoneNamesdates
+ሳን ሊውስexemplarCityAmerica/Argentina/San_LuiszonetimeZoneNamesdates
+ማከሪexemplarCityAntarctica/MacquariezonetimeZoneNamesdates
+ካራቺexemplarCityAsia/KarachizonetimeZoneNamesdates
+ቬንቲአንexemplarCityAsia/VientianezonetimeZoneNamesdates
+ኒውዮርክexemplarCityAmerica/New_YorkzonetimeZoneNamesdates
+ኮስታሪካexemplarCityAmerica/Costa_RicazonetimeZoneNamesdates
+ልጁብልጃናexemplarCityEurope/LjubljanazonetimeZoneNamesdates
+ብሩናይexemplarCityAsia/BruneizonetimeZoneNamesdates
+ምባባኔexemplarCityAfrica/MbabanezonetimeZoneNamesdates
+ቶርቶላexemplarCityAmerica/TortolazonetimeZoneNamesdates
+ቴህራንexemplarCityAsia/TehranzonetimeZoneNamesdates
+ትሮልexemplarCityAntarctica/TrollzonetimeZoneNamesdates
+የሎውናይፍexemplarCityAmerica/YellowknifezonetimeZoneNamesdates
+ጁጁይexemplarCityAmerica/JujuyzonetimeZoneNamesdates
+ቱሌexemplarCityAmerica/ThulezonetimeZoneNamesdates
+አዴሌእድexemplarCityAustralia/AdelaidezonetimeZoneNamesdates
+ኸርሞዚሎexemplarCityAmerica/HermosillozonetimeZoneNamesdates
+ቴጉሲጋልፓexemplarCityAmerica/TegucigalpazonetimeZoneNamesdates
+አይስል ኦፍ ማንexemplarCityEurope/Isle_of_ManzonetimeZoneNamesdates
+ባንጁልexemplarCityAfrica/BanjulzonetimeZoneNamesdates
+ቅዱስ ኪትስexemplarCityAmerica/St_KittszonetimeZoneNamesdates
+ሳን ጁአንexemplarCityAmerica/Argentina/San_JuanzonetimeZoneNamesdates
+ፖንቲአናክexemplarCityAsia/PontianakzonetimeZoneNamesdates
+አንጉይላexemplarCityAmerica/AnguillazonetimeZoneNamesdates
+ያኩትስክexemplarCityAsia/YakutskzonetimeZoneNamesdates
+ቻጎስexemplarCityIndian/ChagoszonetimeZoneNamesdates
+ደሻንቤexemplarCityAsia/DushanbezonetimeZoneNamesdates
+አትይራኡexemplarCityAsia/AtyrauzonetimeZoneNamesdates
+ኦምስክexemplarCityAsia/OmskzonetimeZoneNamesdates
+አክራexemplarCityAfrica/AccrazonetimeZoneNamesdates
+ጓቲማላexemplarCityAmerica/GuatemalazonetimeZoneNamesdates
+ሳንቲያጎexemplarCityAmerica/SantiagozonetimeZoneNamesdates
+ሳሪየቮexemplarCityEurope/SarajevozonetimeZoneNamesdates
+ሃሊፋክስexemplarCityAmerica/HalifaxzonetimeZoneNamesdates
+ዳካርexemplarCityAfrica/DakarzonetimeZoneNamesdates
+ማካሳርexemplarCityAsia/MakassarzonetimeZoneNamesdates
+ካዛብላንካexemplarCityAfrica/CasablancazonetimeZoneNamesdates
+ኪንሻሳexemplarCityAfrica/KinshasazonetimeZoneNamesdates
+ሳክሃሊንexemplarCityAsia/SakhalinzonetimeZoneNamesdates
+ሳኦ ቶሜexemplarCityAfrica/Sao_TomezonetimeZoneNamesdates
+ሳራቶቭexemplarCityEurope/SaratovzonetimeZoneNamesdates
+ኢርኩትስክexemplarCityAsia/IrkutskzonetimeZoneNamesdates
+ፍኖም ፔንህexemplarCityAsia/Phnom_PenhzonetimeZoneNamesdates
+ኮናክሬexemplarCityAfrica/ConakryzonetimeZoneNamesdates
+ሜሪዳexemplarCityAmerica/MeridazonetimeZoneNamesdates
+ፓራማሪቦexemplarCityAmerica/ParamaribozonetimeZoneNamesdates
+ሜንዶዛexemplarCityAmerica/MendozazonetimeZoneNamesdates
+አንኮራጅexemplarCityAmerica/AnchoragezonetimeZoneNamesdates
+ቡሲንገንexemplarCityEurope/BusingenzonetimeZoneNamesdates
+ሊማexemplarCityAmerica/LimazonetimeZoneNamesdates
+ሚኮውሎንexemplarCityAmerica/MiquelonzonetimeZoneNamesdates
+ደሞንት ዲኡርቪልexemplarCityAntarctica/DumontDUrvillezonetimeZoneNamesdates
+ሪያድexemplarCityAsia/RiyadhzonetimeZoneNamesdates
+ሞንሮቪያexemplarCityAfrica/MonroviazonetimeZoneNamesdates
+ቺስናኡexemplarCityEurope/ChisinauzonetimeZoneNamesdates
+ቱኩማንexemplarCityAmerica/Argentina/TucumanzonetimeZoneNamesdates
+ሲድኒexemplarCityAustralia/SydneyzonetimeZoneNamesdates
+ጅቡቲexemplarCityAfrica/DjiboutizonetimeZoneNamesdates
+ፋማጉስታexemplarCityAsia/FamagustazonetimeZoneNamesdates
+ኦስሎexemplarCityEurope/OslozonetimeZoneNamesdates
+ማርክዌሳስexemplarCityPacific/MarquesaszonetimeZoneNamesdates
+ግራንድ ተርክexemplarCityAmerica/Grand_TurkzonetimeZoneNamesdates
+ክዋጃሊንexemplarCityPacific/KwajaleinzonetimeZoneNamesdates
+ማክመርዶexemplarCityAntarctica/McMurdozonetimeZoneNamesdates
+ኋይትሆርስexemplarCityAmerica/WhitehorsezonetimeZoneNamesdates
+ማጁሩexemplarCityPacific/MajurozonetimeZoneNamesdates
+ሪጋexemplarCityEurope/RigazonetimeZoneNamesdates
+ሬይክጃቪክexemplarCityAtlantic/ReykjavikzonetimeZoneNamesdates
+ፓልመርexemplarCityAntarctica/PalmerzonetimeZoneNamesdates
+ማጋዳንexemplarCityAsia/MagadanzonetimeZoneNamesdates
+ሆንግ ኮንግexemplarCityAsia/Hong_KongzonetimeZoneNamesdates
+ቲምፉexemplarCityAsia/ThimphuzonetimeZoneNamesdates
+ቺታexemplarCityAsia/ChitazonetimeZoneNamesdates
+ካምብሪጅ ቤይexemplarCityAmerica/Cambridge_BayzonetimeZoneNamesdates
+ሮምexemplarCityEurope/RomezonetimeZoneNamesdates
+ኢኳሊውትexemplarCityAmerica/IqaluitzonetimeZoneNamesdates
+ዊንድሆክexemplarCityAfrica/WindhoekzonetimeZoneNamesdates
+ኩራሳዎexemplarCityAmerica/CuracaozonetimeZoneNamesdates
+የሐዋላ ገንዘብexemplarCityAmerica/Swift_CurrentzonetimeZoneNamesdates
+ቶምስክexemplarCityAsia/TomskzonetimeZoneNamesdates
+ይሬቫንexemplarCityAsia/YerevanzonetimeZoneNamesdates
+ክረስተንexemplarCityAmerica/CrestonzonetimeZoneNamesdates
+ካምቻትካexemplarCityAsia/KamchatkazonetimeZoneNamesdates
+ኩዋላ ላምፑርexemplarCityAsia/Kuala_LumpurzonetimeZoneNamesdates
+ፈናፉቲexemplarCityPacific/FunafutizonetimeZoneNamesdates
+ፊጂexemplarCityPacific/FijizonetimeZoneNamesdates
+ካይሮexemplarCityAfrica/CairozonetimeZoneNamesdates
+ማኒላexemplarCityAsia/ManilazonetimeZoneNamesdates
+ሞንተርሬይexemplarCityAmerica/MonterreyzonetimeZoneNamesdates
+ናይሮቢexemplarCityAfrica/NairobizonetimeZoneNamesdates
+ዙሪክexemplarCityEurope/ZurichzonetimeZoneNamesdates
+ቭስቶክexemplarCityAntarctica/VostokzonetimeZoneNamesdates
+ጆንስተንexemplarCityPacific/JohnstonzonetimeZoneNamesdates
+ዋሊስexemplarCityPacific/WalliszonetimeZoneNamesdates
+ቅዱስ ቶማስexemplarCityAmerica/St_ThomaszonetimeZoneNamesdates
+ጋላፓጎስexemplarCityPacific/GalapagoszonetimeZoneNamesdates
+ባህሬንexemplarCityAsia/BahrainzonetimeZoneNamesdates
+አይ:ይnostrmessagesposix
+አዎን:ዎyesstrmessagesposix
+{0} …word-finalellipsischaracters
+{0}…{1}medialellipsischaracters
+{0}…finalellipsischaracters
+…{0}initialellipsischaracters
+… {0}word-initialellipsischaracters
+{0} … {1}word-medialellipsischaracters
+[‐ – , ፡ ፣ ፤ ፥ ፦ ! ? . ። ‹ › « » ( ) \[ \]]punctuationexemplarCharacterscharacters
+[ሀ ሁ ሂ ሃ ሄ ህ ሆ ለ ሉ ሊ ላ ሌ ል ሎ ሏ ሐ ሑ ሒ ሓ ሔ ሕ ሖ ሗ መ ሙ ሚ ማ ሜ ም ሞ ሟ ሠ ሡ ሢ ሣ ሤ ሥ ሦ ሧ ረ ሩ ሪ ራ ሬ ር ሮ ሯ ሰ ሱ ሲ ሳ ሴ ስ ሶ ሷ ሸ ሹ ሺ ሻ ሼ ሽ ሾ ሿ ቀ ቁ ቂ ቃ ቄ ቅ ቆ ቈ ቊ ቋ ቌ ቍ በ ቡ ቢ ባ ቤ ብ ቦ ቧ ቨ ቩ ቪ ቫ ቬ ቭ ቮ ቯ ተ ቱ ቲ ታ ቴ ት ቶ ቷ ቸ ቹ ቺ ቻ ቼ ች ቾ ቿ ኀ ኁ ኂ ኃ ኄ ኅ ኆ ኈ ኊ ኋ ኌ ኍ ነ ኑ ኒ ና ኔ ን ኖ ኗ ኘ ኙ ኚ ኛ ኜ ኝ ኞ ኟ አ ኡ ኢ ኣ ኤ እ ኦ ኧ ከ ኩ ኪ ካ ኬ ክ ኮ ኰ ኲ ኳ ኴ ኵ ኸ ኹ ኺ ኻ ኼ ኽ ኾ ወ ዉ ዊ ዋ ዌ ው ዎ ዐ ዑ ዒ ዓ ዔ ዕ ዖ ዘ ዙ ዚ ዛ ዜ ዝ ዞ ዟ ዠ ዡ ዢ ዣ ዤ ዥ ዦ ዧ የ ዩ ዪ ያ ዬ ይ ዮ ደ ዱ ዲ ዳ ዴ ድ ዶ ዷ ጀ ጁ ጂ ጃ ጄ ጅ ጆ ጇ ገ ጉ ጊ ጋ ጌ ግ ጎ ጐ ጒ ጓ ጔ ጕ ጠ ጡ ጢ ጣ ጤ ጥ ጦ ጧ ጨ ጩ ጪ ጫ ጬ ጭ ጮ ጯ ጰ ጱ ጲ ጳ ጴ ጵ ጶ ጷ ጸ ጹ ጺ ጻ ጼ ጽ ጾ ጿ ፀ ፁ ፂ ፃ ፄ ፅ ፆ ፈ ፉ ፊ ፋ ፌ ፍ ፎ ፏ ፐ ፑ ፒ ፓ ፔ ፕ ፖ ፗ]standardexemplarCharacterscharacters
+[]auxiliaryexemplarCharacterscharacters
+[\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]numbersexemplarCharacterscharacters
+[ሀ ለ ሐ መ ሠ ረ ሰ ሸ ቀ ቈ በ ቨ ተ ቸ ኀ ኈ ነ ኘ አ ከ ኰ ኸ ወ ዐ ዘ ዠ የ ደ ጀ ገ ጐ ጠ ጨ ጰ ጸ ፀ ፈ ፐ]indexexemplarCharacterscharacters
+ጀማደል አወል5wideformatmonthsislamiccalendars
+ሙሀረም1wideformatmonthsislamiccalendars
+ዙልቂዳህ11wideformatmonthsislamiccalendars
+ጀማደል አኺር6wideformatmonthsislamiccalendars
+ረቢዑል አኺር4wideformatmonthsislamiccalendars
+ረቢዑል አወል3wideformatmonthsislamiccalendars
+ረመዳን9wideformatmonthsislamiccalendars
+ሻእባን8wideformatmonthsislamiccalendars
+ሸዋል10wideformatmonthsislamiccalendars
+ዙልሂጃህ12wideformatmonthsislamiccalendars
+ረጀብ7wideformatmonthsislamiccalendars
+ሳፈር2wideformatmonthsislamiccalendars
+{1} {0}shortdateTimeFormatsgregoriancalendars
+{1} {0}fulldateTimeFormatsgregoriancalendars
+{1} {0}longdateTimeFormatsgregoriancalendars
+{1} {0}mediumdateTimeFormatsgregoriancalendars
+ማታ1evening1abbreviatedformatdayPeriodsgregoriancalendars
+ሌሊት1night1abbreviatedformatdayPeriodsgregoriancalendars
+እኩለ ሌሊትmidnightabbreviatedformatdayPeriodsgregoriancalendars
+ጥዋትamabbreviatedformatdayPeriodsgregoriancalendars
+ቀትርnoonabbreviatedformatdayPeriodsgregoriancalendars
+ከሰዓትpmabbreviatedformatdayPeriodsgregoriancalendars
+ከሰዓት 7afternoon1abbreviatedformatdayPeriodsgregoriancalendars
+ጥዋት1morning1abbreviatedformatdayPeriodsgregoriancalendars
+ቀnoonnarrowformatdayPeriodsgregoriancalendars
+ጠamnarrowformatdayPeriodsgregoriancalendars
+እኩለ ሌሊትmidnightnarrowformatdayPeriodsgregoriancalendars
+ሌሊት1night1narrowformatdayPeriodsgregoriancalendars
+ማታ1evening1narrowformatdayPeriodsgregoriancalendars
+ጥዋት1morning1narrowformatdayPeriodsgregoriancalendars
+ከpmnarrowformatdayPeriodsgregoriancalendars
+ከሰዓት1afternoon1narrowformatdayPeriodsgregoriancalendars
+ጥዋትamwideformatdayPeriodsgregoriancalendars
+ቀትርnoonwideformatdayPeriodsgregoriancalendars
+ማታ1evening1wideformatdayPeriodsgregoriancalendars
+ሌሊት1night1wideformatdayPeriodsgregoriancalendars
+እኩለ ሌሊትmidnightwideformatdayPeriodsgregoriancalendars
+ጥዋት1morning1wideformatdayPeriodsgregoriancalendars
+ከሰዓት 7 ሰዓትafternoon1wideformatdayPeriodsgregoriancalendars
+ከሰዓትpmwideformatdayPeriodsgregoriancalendars
+ከሰዓት በኋላafternoon1abbreviatedstand-alonedayPeriodsgregoriancalendars
+ከሰዓትpmabbreviatedstand-alonedayPeriodsgregoriancalendars
+ጥዋት1morning1abbreviatedstand-alonedayPeriodsgregoriancalendars
+ሌሊትnight1abbreviatedstand-alonedayPeriodsgregoriancalendars
+እኩለ ሌሊትmidnightabbreviatedstand-alonedayPeriodsgregoriancalendars
+ማታevening1abbreviatedstand-alonedayPeriodsgregoriancalendars
+ቀትርnoonabbreviatedstand-alonedayPeriodsgregoriancalendars
+ጥዋትamabbreviatedstand-alonedayPeriodsgregoriancalendars
+ጥዋትmorning1narrowstand-alonedayPeriodsgregoriancalendars
+ከሰዓት በኋላafternoon1narrowstand-alonedayPeriodsgregoriancalendars
+ከpmnarrowstand-alonedayPeriodsgregoriancalendars
+ቀትርnoonnarrowstand-alonedayPeriodsgregoriancalendars
+ጠamnarrowstand-alonedayPeriodsgregoriancalendars
+እኩለ ሌሊትmidnightnarrowstand-alonedayPeriodsgregoriancalendars
+ሌሊትnight1narrowstand-alonedayPeriodsgregoriancalendars
+ማታevening1narrowstand-alonedayPeriodsgregoriancalendars
+ጥዋት1morning1widestand-alonedayPeriodsgregoriancalendars
+ከሰዓት በኋላafternoon1widestand-alonedayPeriodsgregoriancalendars
+ከሰዓትpmwidestand-alonedayPeriodsgregoriancalendars
+ቀትርnoonwidestand-alonedayPeriodsgregoriancalendars
+ጥዋትamwidestand-alonedayPeriodsgregoriancalendars
+ማታevening1widestand-alonedayPeriodsgregoriancalendars
+እኩለ ሌሊትmidnightwidestand-alonedayPeriodsgregoriancalendars
+ሌሊትnight1widestand-alonedayPeriodsgregoriancalendars
+እሑድsunwidestand-alonedaysgregoriancalendars
+ቅዳሜsatwidestand-alonedaysgregoriancalendars
+ሐሙስthuwidestand-alonedaysgregoriancalendars
+ሰኞmonwidestand-alonedaysgregoriancalendars
+ማክሰኞtuewidestand-alonedaysgregoriancalendars
+ዓርብfriwidestand-alonedaysgregoriancalendars
+ረቡዕwedwidestand-alonedaysgregoriancalendars
+ረwedshortstand-alonedaysgregoriancalendars
+ዓfrishortstand-alonedaysgregoriancalendars
+ማtueshortstand-alonedaysgregoriancalendars
+ሰmonshortstand-alonedaysgregoriancalendars
+ሐthushortstand-alonedaysgregoriancalendars
+ቅsatshortstand-alonedaysgregoriancalendars
+እsunshortstand-alonedaysgregoriancalendars
+እሑድsunabbreviatedstand-alonedaysgregoriancalendars
+ቅዳሜsatabbreviatedstand-alonedaysgregoriancalendars
+ሐሙስthuabbreviatedstand-alonedaysgregoriancalendars
+ሰኞmonabbreviatedstand-alonedaysgregoriancalendars
+ረቡዕwedabbreviatedstand-alonedaysgregoriancalendars
+ማክሰtueabbreviatedstand-alonedaysgregoriancalendars
+ዓርብfriabbreviatedstand-alonedaysgregoriancalendars
+ዓfrinarrowstand-alonedaysgregoriancalendars
+ማtuenarrowstand-alonedaysgregoriancalendars
+ረwednarrowstand-alonedaysgregoriancalendars
+ሰmonnarrowstand-alonedaysgregoriancalendars
+ቅsatnarrowstand-alonedaysgregoriancalendars
+ሐthunarrowstand-alonedaysgregoriancalendars
+እsunnarrowstand-alonedaysgregoriancalendars
+ዓfrishortformatdaysgregoriancalendars
+ማtueshortformatdaysgregoriancalendars
+ረwedshortformatdaysgregoriancalendars
+ሰmonshortformatdaysgregoriancalendars
+እsunshortformatdaysgregoriancalendars
+ቅsatshortformatdaysgregoriancalendars
+ሐthushortformatdaysgregoriancalendars
+ረቡዕwedabbreviatedformatdaysgregoriancalendars
+ዓርብfriabbreviatedformatdaysgregoriancalendars
+ማክሰtueabbreviatedformatdaysgregoriancalendars
+ሰኞmonabbreviatedformatdaysgregoriancalendars
+ሐሙስthuabbreviatedformatdaysgregoriancalendars
+ቅዳሜsatabbreviatedformatdaysgregoriancalendars
+እሑድsunabbreviatedformatdaysgregoriancalendars
+ረwednarrowformatdaysgregoriancalendars
+ዓfrinarrowformatdaysgregoriancalendars
+ማtuenarrowformatdaysgregoriancalendars
+ሰmonnarrowformatdaysgregoriancalendars
+እsunnarrowformatdaysgregoriancalendars
+ቅsatnarrowformatdaysgregoriancalendars
+ሐthunarrowformatdaysgregoriancalendars
+ቅዳሜsatwideformatdaysgregoriancalendars
+እሑድsunwideformatdaysgregoriancalendars
+ሐሙስthuwideformatdaysgregoriancalendars
+ሰኞmonwideformatdaysgregoriancalendars
+ማክሰኞtuewideformatdaysgregoriancalendars
+ዓርብfriwideformatdaysgregoriancalendars
+ረቡዕwedwideformatdaysgregoriancalendars
+E፣ d/M/yyMEdavailableFormatsgregoriancalendars
+HH:mmHmavailableFormatsgregoriancalendars
+MMM y GGyMMMavailableFormatsgregoriancalendars
+LLLMMMavailableFormatsgregoriancalendars
+d MMM yyMMMdavailableFormatsgregoriancalendars
+E h:mm BEBhmavailableFormatsgregoriancalendars
+G y MMM d, EGyMMMEdavailableFormatsgregoriancalendars
+E dEdavailableFormatsgregoriancalendars
+'week' w 'of' YywavailableFormatsgregoriancalendars
+MMMM yyMMMMavailableFormatsgregoriancalendars
+mm:ssmsavailableFormatsgregoriancalendars
+d/M/yyMdavailableFormatsgregoriancalendars
+h:mm:ss BBhmsavailableFormatsgregoriancalendars
+E HH:mm:ssEHmsavailableFormatsgregoriancalendars
+HH:mm:ssHmsavailableFormatsgregoriancalendars
+E፣ M/dMEdavailableFormatsgregoriancalendars
+h BBhavailableFormatsgregoriancalendars
+QQQ yyQQQavailableFormatsgregoriancalendars
+M/dMdavailableFormatsgregoriancalendars
+E h:mm aEhmavailableFormatsgregoriancalendars
+E h:mm:ss BEBhmsavailableFormatsgregoriancalendars
+E h:mm:ss aEhmsavailableFormatsgregoriancalendars
+E፣ MMM d yyMMMEdavailableFormatsgregoriancalendars
+yyavailableFormatsgregoriancalendars
+G y MMM dGyMMMdavailableFormatsgregoriancalendars
+MMMM dMMMMdavailableFormatsgregoriancalendars
+h:mm a vhmvavailableFormatsgregoriancalendars
+cccEavailableFormatsgregoriancalendars
+MMM yyMMMavailableFormatsgregoriancalendars
+E HH:mmEHmavailableFormatsgregoriancalendars
+h:mm:ss a vhmsvavailableFormatsgregoriancalendars
+HH:mm:ss vHmsvavailableFormatsgregoriancalendars
+h ahavailableFormatsgregoriancalendars
+h:mm BBhmavailableFormatsgregoriancalendars
+y GGyavailableFormatsgregoriancalendars
+h:mm:ss ahmsavailableFormatsgregoriancalendars
+E፣ MMMM dMMMMEdavailableFormatsgregoriancalendars
+HH:mm vHmvavailableFormatsgregoriancalendars
+h:mm ahmavailableFormatsgregoriancalendars
+ddavailableFormatsgregoriancalendars
+'week' W 'of' MMMMMMMWavailableFormatsgregoriancalendars
+HHavailableFormatsgregoriancalendars
+QQQQ yyQQQQavailableFormatsgregoriancalendars
+M/yyMavailableFormatsgregoriancalendars
+LMavailableFormatsgregoriancalendars
+E፣ MMM dMMMEdavailableFormatsgregoriancalendars
+MMM dMMMdavailableFormatsgregoriancalendars
+ዓ/ዓ0eraNameserasgregoriancalendars
+ዓ/ም1eraNameserasgregoriancalendars
+ዓ/ዓ0eraAbbrerasgregoriancalendars
+CE1eraAbbrerasgregoriancalendars
+ዓ/ዓ0eraNarrowerasgregoriancalendars
+ዓ/ም1eraNarrowerasgregoriancalendars
+ሜይ5wideformatmonthsgregoriancalendars
+ጃንዩወሪ1wideformatmonthsgregoriancalendars
+ኖቬምበር11wideformatmonthsgregoriancalendars
+ጁን6wideformatmonthsgregoriancalendars
+ማርች3wideformatmonthsgregoriancalendars
+ኤፕሪል4wideformatmonthsgregoriancalendars
+ኦገስት8wideformatmonthsgregoriancalendars
+ሴፕቴምበር9wideformatmonthsgregoriancalendars
+ፌብሩወሪ2wideformatmonthsgregoriancalendars
+ዲሴምበር12wideformatmonthsgregoriancalendars
+ኦክቶበር10wideformatmonthsgregoriancalendars
+ጁላይ7wideformatmonthsgregoriancalendars
+ሜይ5abbreviatedformatmonthsgregoriancalendars
+ጃንዩ1abbreviatedformatmonthsgregoriancalendars
+ኖቬም11abbreviatedformatmonthsgregoriancalendars
+ጁን6abbreviatedformatmonthsgregoriancalendars
+ኤፕሪ4abbreviatedformatmonthsgregoriancalendars
+ማርች3abbreviatedformatmonthsgregoriancalendars
+ኦገስ8abbreviatedformatmonthsgregoriancalendars
+ሴፕቴ9abbreviatedformatmonthsgregoriancalendars
+ዲሴም12abbreviatedformatmonthsgregoriancalendars
+ኦክቶ10abbreviatedformatmonthsgregoriancalendars
+ጁላይ7abbreviatedformatmonthsgregoriancalendars
+ፌብሩ2abbreviatedformatmonthsgregoriancalendars
+ጁ6narrowformatmonthsgregoriancalendars
+ኖ11narrowformatmonthsgregoriancalendars
+ሜ5narrowformatmonthsgregoriancalendars
+ጃ1narrowformatmonthsgregoriancalendars
+ዲ12narrowformatmonthsgregoriancalendars
+ጁ7narrowformatmonthsgregoriancalendars
+ኦ10narrowformatmonthsgregoriancalendars
+ፌ2narrowformatmonthsgregoriancalendars
+ኦ8narrowformatmonthsgregoriancalendars
+ሴ9narrowformatmonthsgregoriancalendars
+ኤ4narrowformatmonthsgregoriancalendars
+ማ3narrowformatmonthsgregoriancalendars
+ሜይ5widestand-alonemonthsgregoriancalendars
+ጃንዩወሪ1widestand-alonemonthsgregoriancalendars
+ጁን6widestand-alonemonthsgregoriancalendars
+ኖቬምበር11widestand-alonemonthsgregoriancalendars
+ኤፕሪል4widestand-alonemonthsgregoriancalendars
+ማርች3widestand-alonemonthsgregoriancalendars
+ኦክቶበር10widestand-alonemonthsgregoriancalendars
+ዲሴምበር12widestand-alonemonthsgregoriancalendars
+ፌብሩወሪ2widestand-alonemonthsgregoriancalendars
+ጁላይ7widestand-alonemonthsgregoriancalendars
+ሴፕቴምበር9widestand-alonemonthsgregoriancalendars
+ኦገስት8widestand-alonemonthsgregoriancalendars
+ኤፕሪ4abbreviatedstand-alonemonthsgregoriancalendars
+ማርች3abbreviatedstand-alonemonthsgregoriancalendars
+ኦገስ8abbreviatedstand-alonemonthsgregoriancalendars
+ሴፕቴ9abbreviatedstand-alonemonthsgregoriancalendars
+ፌብሩ2abbreviatedstand-alonemonthsgregoriancalendars
+ዲሴም12abbreviatedstand-alonemonthsgregoriancalendars
+ኦክቶ10abbreviatedstand-alonemonthsgregoriancalendars
+ጁላይ7abbreviatedstand-alonemonthsgregoriancalendars
+ጃንዩ1abbreviatedstand-alonemonthsgregoriancalendars
+ሜይ5abbreviatedstand-alonemonthsgregoriancalendars
+ኖቬም11abbreviatedstand-alonemonthsgregoriancalendars
+ጁን6abbreviatedstand-alonemonthsgregoriancalendars
+ማ3narrowstand-alonemonthsgregoriancalendars
+ኤ4narrowstand-alonemonthsgregoriancalendars
+ኦ8narrowstand-alonemonthsgregoriancalendars
+ሴ9narrowstand-alonemonthsgregoriancalendars
+ኦ10narrowstand-alonemonthsgregoriancalendars
+ዲ12narrowstand-alonemonthsgregoriancalendars
+ጁ7narrowstand-alonemonthsgregoriancalendars
+ፌ2narrowstand-alonemonthsgregoriancalendars
+ጃ1narrowstand-alonemonthsgregoriancalendars
+ሜ5narrowstand-alonemonthsgregoriancalendars
+ኖ11narrowstand-alonemonthsgregoriancalendars
+ጁ6narrowstand-alonemonthsgregoriancalendars
+d–dddintervalFormatsgregoriancalendars
+h:mm a – h:mm aahmintervalFormatsgregoriancalendars
+h:mm – h:mm ahhmintervalFormatsgregoriancalendars
+h:mm – h:mm amhmintervalFormatsgregoriancalendars
+{0} – {1}standardstandardintervalFormatsgregoriancalendars
+E d – E d፣ MMMdMMMEdintervalFormatsgregoriancalendars
+MMM d, E – MMM d, EMMMMEdintervalFormatsgregoriancalendars
+M/y – M/yyyMintervalFormatsgregoriancalendars
+M/y – M/yMyMintervalFormatsgregoriancalendars
+MMM d – MMM dMMMMdintervalFormatsgregoriancalendars
+MMM d–ddMMMdintervalFormatsgregoriancalendars
+HH–HHHHintervalFormatsgregoriancalendars
+M–MMMintervalFormatsgregoriancalendars
+h:mm a – h:mm a vahmvintervalFormatsgregoriancalendars
+h:mm – h:mm a vmhmvintervalFormatsgregoriancalendars
+h:mm – h:mm a vhhmvintervalFormatsgregoriancalendars
+MMM y – MMM yyyMMMintervalFormatsgregoriancalendars
+MMM–MMM፣ yMyMMMintervalFormatsgregoriancalendars
+HH:mm–HH:mm vHHmvintervalFormatsgregoriancalendars
+HH:mm–HH:mm vmHmvintervalFormatsgregoriancalendars
+h – h ahhintervalFormatsgregoriancalendars
+h a – h aahintervalFormatsgregoriancalendars
+MMMM–MMMM yMyMMMMintervalFormatsgregoriancalendars
+MMMM y – MMMM yyyMMMMintervalFormatsgregoriancalendars
+E፣ d/M – E፣ d/MMMEdintervalFormatsgregoriancalendars
+E d/M – E d/MdMEdintervalFormatsgregoriancalendars
+d/M/y – d/M/yyyMdintervalFormatsgregoriancalendars
+d/M/y – d/M/yMyMdintervalFormatsgregoriancalendars
+d/M/y – d/M/ydyMdintervalFormatsgregoriancalendars
+d–d/MdMdintervalFormatsgregoriancalendars
+d/M – d/MMMdintervalFormatsgregoriancalendars
+E MMM d – E MMM d፣ ydyMMMEdintervalFormatsgregoriancalendars
+E MMM d – E MMM d፣ yMyMMMEdintervalFormatsgregoriancalendars
+E፣ MMM d፣ y – E፣ MMM d፣ yyyMMMEdintervalFormatsgregoriancalendars
+HH–HH vHHvintervalFormatsgregoriancalendars
+y–yyyintervalFormatsgregoriancalendars
+MMM–MMMMMMMintervalFormatsgregoriancalendars
+E d/M/ – E d/M፣ yMyMEdintervalFormatsgregoriancalendars
+y-MM-dd, E – y-MM-dd, EdyMEdintervalFormatsgregoriancalendars
+E፣ d/M/y – E፣ d/M/yyyMEdintervalFormatsgregoriancalendars
+h – h a vhhvintervalFormatsgregoriancalendars
+h a – h a vahvintervalFormatsgregoriancalendars
+HH:mm–HH:mmHHmintervalFormatsgregoriancalendars
+HH:mm–HH:mmmHmintervalFormatsgregoriancalendars
+MMM d፣ y – MMM d፣ yyyMMMdintervalFormatsgregoriancalendars
+MMM d–d፣ ydyMMMdintervalFormatsgregoriancalendars
+MMM d – MMM d፣ yMyMMMdintervalFormatsgregoriancalendars
+h:mm:ss a zstandardlongtimeFormatsgregoriancalendars
+h:mm:ss astandardmediumtimeFormatsgregoriancalendars
+h:mm astandardshorttimeFormatsgregoriancalendars
+h:mm:ss a zzzzstandardfulltimeFormatsgregoriancalendars
+y MMMM d, EEEEstandardfulldateFormatsgregoriancalendars
+dd/MM/ystandardshortdateFormatsgregoriancalendars
+d MMM ystandardmediumdateFormatsgregoriancalendars
+d MMMM ystandardlongdateFormatsgregoriancalendars
+{0} {1}TimezoneappendItemsgregoriancalendars
+ሩብ22abbreviatedformatquartersgregoriancalendars
+ሩብ44abbreviatedformatquartersgregoriancalendars
+ሩብ33abbreviatedformatquartersgregoriancalendars
+ሩብ11abbreviatedformatquartersgregoriancalendars
+11narrowformatquartersgregoriancalendars
+44narrowformatquartersgregoriancalendars
+33narrowformatquartersgregoriancalendars
+22narrowformatquartersgregoriancalendars
+1ኛው ሩብ1wideformatquartersgregoriancalendars
+3ኛው ሩብ3wideformatquartersgregoriancalendars
+4ኛው ሩብ4wideformatquartersgregoriancalendars
+2ኛው ሩብ2wideformatquartersgregoriancalendars
+ሩብ11abbreviatedstand-alonequartersgregoriancalendars
+ሩብ33abbreviatedstand-alonequartersgregoriancalendars
+ሩብ44abbreviatedstand-alonequartersgregoriancalendars
+ሩብ22abbreviatedstand-alonequartersgregoriancalendars
+22narrowstand-alonequartersgregoriancalendars
+33narrowstand-alonequartersgregoriancalendars
+44narrowstand-alonequartersgregoriancalendars
+11narrowstand-alonequartersgregoriancalendars
+2ኛው ሩብ2widestand-alonequartersgregoriancalendars
+3ኛው ሩብ3widestand-alonequartersgregoriancalendars
+4ኛው ሩብ4widestand-alonequartersgregoriancalendars
+1ኛው ሩብ1widestand-alonequartersgregoriancalendars
+ERA00eraAbbrerasethiopic-amete-alemcalendars
+ERA00eraNarrowerasethiopic-amete-alemcalendars
+ERA00eraNameserasethiopic-amete-alemcalendars
+E MMM d፣ y GGyMMMEdavailableFormatsbuddhistcalendars
+G y QQQQyyyyQQQQavailableFormatsbuddhistcalendars
+d MMM yyMMMdavailableFormatsbuddhistcalendars
+E dEdavailableFormatsbuddhistcalendars
+GGGGG y-MMyyyyMavailableFormatsbuddhistcalendars
+GGGGG y-MM-ddyyyyMdavailableFormatsbuddhistcalendars
+E፣ d/M/yyMEdavailableFormatsbuddhistcalendars
+MMM፣ y GGyMMMavailableFormatsbuddhistcalendars
+LLLMMMavailableFormatsbuddhistcalendars
+yyavailableFormatsbuddhistcalendars
+E፣ MMM d yyMMMEdavailableFormatsbuddhistcalendars
+d/M/yyMdavailableFormatsbuddhistcalendars
+QQQ yyQQQavailableFormatsbuddhistcalendars
+MMMM yyMMMMavailableFormatsbuddhistcalendars
+M/dMdavailableFormatsbuddhistcalendars
+E፣ M/dMEdavailableFormatsbuddhistcalendars
+G y MMM d, EyyyyMMMEdavailableFormatsbuddhistcalendars
+MMM yyMMMavailableFormatsbuddhistcalendars
+G y MMM dyyyyMMMdavailableFormatsbuddhistcalendars
+G y MMMyyyyMMMavailableFormatsbuddhistcalendars
+y GGyavailableFormatsbuddhistcalendars
+E፣ MMMM dMMMMEdavailableFormatsbuddhistcalendars
+cccEavailableFormatsbuddhistcalendars
+G yyyyyavailableFormatsbuddhistcalendars
+MMM d፣ y GGyMMMdavailableFormatsbuddhistcalendars
+MMMM dMMMMdavailableFormatsbuddhistcalendars
+QQQQ yyQQQQavailableFormatsbuddhistcalendars
+M/yyMavailableFormatsbuddhistcalendars
+LMavailableFormatsbuddhistcalendars
+E፣ MMM dMMMEdavailableFormatsbuddhistcalendars
+MMM dMMMdavailableFormatsbuddhistcalendars
+G y QQQyyyyQQQavailableFormatsbuddhistcalendars
+ddavailableFormatsbuddhistcalendars
+GGGGG y-MM-dd, EyyyyMEdavailableFormatsbuddhistcalendars
+BE0eraAbbrerasbuddhistcalendars
+BE0eraNarrowerasbuddhistcalendars
+BE0eraNameserasbuddhistcalendars
+{1} {0}longdateTimeFormatsbuddhistcalendars
+{1} {0}mediumdateTimeFormatsbuddhistcalendars
+{1} {0}shortdateTimeFormatsbuddhistcalendars
+{1} {0}fulldateTimeFormatsbuddhistcalendars
+EEEE፣ d MMMM y GstandardfulldateFormatsbuddhistcalendars
+dd/MM/y GGGGGstandardshortdateFormatsbuddhistcalendars
+d MMM y GstandardmediumdateFormatsbuddhistcalendars
+d MMMM y GstandardlongdateFormatsbuddhistcalendars
+h:mm – h:mm amhmintervalFormatsbuddhistcalendars
+h:mm – h:mm ahhmintervalFormatsbuddhistcalendars
+h:mm a – h:mm aahmintervalFormatsbuddhistcalendars
+{0} – {1}standardstandardintervalFormatsbuddhistcalendars
+d–dddintervalFormatsbuddhistcalendars
+E d – E d፣ MMMdMMMEdintervalFormatsbuddhistcalendars
+E፣ MMM d – E፣ MMM dMMMMEdintervalFormatsbuddhistcalendars
+M/y – M/yMyMintervalFormatsbuddhistcalendars
+M/y – M/yyyMintervalFormatsbuddhistcalendars
+M–MMMintervalFormatsbuddhistcalendars
+MMM d – MMM dMMMMdintervalFormatsbuddhistcalendars
+MMM d–ddMMMdintervalFormatsbuddhistcalendars
+HH–HHHHintervalFormatsbuddhistcalendars
+h:mm a – h:mm a vahmvintervalFormatsbuddhistcalendars
+h:mm – h:mm a vmhmvintervalFormatsbuddhistcalendars
+h:mm – h:mm a vhhmvintervalFormatsbuddhistcalendars
+HH:mm–HH:mm vHHmvintervalFormatsbuddhistcalendars
+HH:mm–HH:mm vmHmvintervalFormatsbuddhistcalendars
+MMM y – MMM yyyMMMintervalFormatsbuddhistcalendars
+MMM–MMM፣ yMyMMMintervalFormatsbuddhistcalendars
+h a – h aahintervalFormatsbuddhistcalendars
+h – h ahhintervalFormatsbuddhistcalendars
+MMMM–MMMM yMyMMMMintervalFormatsbuddhistcalendars
+MMMM y – MMMM yyyMMMMintervalFormatsbuddhistcalendars
+d/M/y – d/M/ydyMdintervalFormatsbuddhistcalendars
+d/M/y – d/M/yMyMdintervalFormatsbuddhistcalendars
+d/M/y – d/M/yyyMdintervalFormatsbuddhistcalendars
+d/M – d/MMMdintervalFormatsbuddhistcalendars
+d–d/MdMdintervalFormatsbuddhistcalendars
+E d/M – E d/MdMEdintervalFormatsbuddhistcalendars
+E፣ d/M – E፣ d/MMMEdintervalFormatsbuddhistcalendars
+y–yyyintervalFormatsbuddhistcalendars
+E፣ MMM d፣ y – E፣ MMM d፣ yyyMMMEdintervalFormatsbuddhistcalendars
+E MMM d – E MMM d፣ ydyMMMEdintervalFormatsbuddhistcalendars
+E MMM d – E MMM d፣ yMyMMMEdintervalFormatsbuddhistcalendars
+HH–HH vHHvintervalFormatsbuddhistcalendars
+E፣ d/M/y – E፣ d/M/yyyMEdintervalFormatsbuddhistcalendars
+E d/M/ – E d/M፣ yMyMEdintervalFormatsbuddhistcalendars
+E፣ d/M/y – E፣ d/M/ydyMEdintervalFormatsbuddhistcalendars
+h a – h a vahvintervalFormatsbuddhistcalendars
+h – h a vhhvintervalFormatsbuddhistcalendars
+MMM–MMMMMMMintervalFormatsbuddhistcalendars
+HH:mm–HH:mmHHmintervalFormatsbuddhistcalendars
+HH:mm–HH:mmmHmintervalFormatsbuddhistcalendars
+MMM d–d፣ ydyMMMdintervalFormatsbuddhistcalendars
+MMM d – MMM d፣ yMyMMMdintervalFormatsbuddhistcalendars
+MMM d፣ y – MMM d፣ yyyMMMdintervalFormatsbuddhistcalendars
+h:mm – h:mm amhmintervalFormatsgenericcalendars
+h:mm – h:mm ahhmintervalFormatsgenericcalendars
+h:mm a – h:mm aahmintervalFormatsgenericcalendars
+d–dddintervalFormatsgenericcalendars
+{0} – {1}standardstandardintervalFormatsgenericcalendars
+M/y – M/yyyMintervalFormatsgenericcalendars
+M/y – M/yMyMintervalFormatsgenericcalendars
+E፣ MMM d – E፣ MMM dMMMMEdintervalFormatsgenericcalendars
+E d – E d፣ MMMdMMMEdintervalFormatsgenericcalendars
+M–MMMintervalFormatsgenericcalendars
+MMM d – MMM dMMMMdintervalFormatsgenericcalendars
+MMM d–ddMMMdintervalFormatsgenericcalendars
+HH–HHHHintervalFormatsgenericcalendars
+h:mm – h:mm a vmhmvintervalFormatsgenericcalendars
+h:mm – h:mm a vhhmvintervalFormatsgenericcalendars
+h:mm a – h:mm a vahmvintervalFormatsgenericcalendars
+HH:mm–HH:mm vHHmvintervalFormatsgenericcalendars
+HH:mm–HH:mm vmHmvintervalFormatsgenericcalendars
+MMM y – MMM yyyMMMintervalFormatsgenericcalendars
+MMM–MMM፣ yMyMMMintervalFormatsgenericcalendars
+h a – h aahintervalFormatsgenericcalendars
+h – h ahhintervalFormatsgenericcalendars
+MMMM y – MMMM yyyMMMMintervalFormatsgenericcalendars
+MMMM–MMMM yMyMMMMintervalFormatsgenericcalendars
+d/M – d/MMMdintervalFormatsgenericcalendars
+d–d/MdMdintervalFormatsgenericcalendars
+d/M/y – d/M/yyyMdintervalFormatsgenericcalendars
+d/M/y – d/M/ydyMdintervalFormatsgenericcalendars
+d/M/y – d/M/yMyMdintervalFormatsgenericcalendars
+E፣ d/M – E፣ d/MMMEdintervalFormatsgenericcalendars
+E d/M – E d/MdMEdintervalFormatsgenericcalendars
+E MMM d – E MMM d፣ ydyMMMEdintervalFormatsgenericcalendars
+E MMM d – E MMM d፣ yMyMMMEdintervalFormatsgenericcalendars
+E፣ MMM d፣ y – E፣ MMM d፣ yyyMMMEdintervalFormatsgenericcalendars
+HH–HH vHHvintervalFormatsgenericcalendars
+y–yyyintervalFormatsgenericcalendars
+E፣ d/M/y – E፣ d/M/yyyMEdintervalFormatsgenericcalendars
+E d/M/ – E d/M፣ yMyMEdintervalFormatsgenericcalendars
+E፣ d/M/y – E፣ d/M/ydyMEdintervalFormatsgenericcalendars
+h – h a vhhvintervalFormatsgenericcalendars
+h a – h a vahvintervalFormatsgenericcalendars
+MMM–MMMMMMMintervalFormatsgenericcalendars
+HH:mm–HH:mmHHmintervalFormatsgenericcalendars
+HH:mm–HH:mmmHmintervalFormatsgenericcalendars
+MMM d–d፣ ydyMMMdintervalFormatsgenericcalendars
+MMM d – MMM d፣ yMyMMMdintervalFormatsgenericcalendars
+MMM d፣ y – MMM d፣ yyyMMMdintervalFormatsgenericcalendars
+EEEE፣ d MMMM y GstandardfulldateFormatsgenericcalendars
+dd/MM/y GGGGGstandardshortdateFormatsgenericcalendars
+d MMM y GstandardmediumdateFormatsgenericcalendars
+d MMMM y GstandardlongdateFormatsgenericcalendars
+{1} {0}longdateTimeFormatsgenericcalendars
+{1} {0}mediumdateTimeFormatsgenericcalendars
+{1} {0}shortdateTimeFormatsgenericcalendars
+{1} {0}fulldateTimeFormatsgenericcalendars
+MMMM y GyyyyMMMMavailableFormatsgenericcalendars
+ddavailableFormatsgenericcalendars
+G y QQQyyyyQQQavailableFormatsgenericcalendars
+h:mm ahmavailableFormatsgenericcalendars
+GGGGG y-MM-dd, EyyyyMEdavailableFormatsgenericcalendars
+QQQQ yyQQQQavailableFormatsgenericcalendars
+LMavailableFormatsgenericcalendars
+HHavailableFormatsgenericcalendars
+E፣ MMM dMMMEdavailableFormatsgenericcalendars
+MMM dMMMdavailableFormatsgenericcalendars
+M/yyMavailableFormatsgenericcalendars
+G yyyyyavailableFormatsgenericcalendars
+MMMM dMMMMdavailableFormatsgenericcalendars
+MMM d፣ y GGyMMMdavailableFormatsgenericcalendars
+h:mm BBhmavailableFormatsgenericcalendars
+G y MMMyyyyMMMavailableFormatsgenericcalendars
+y GGyavailableFormatsgenericcalendars
+h:mm:ss ahmsavailableFormatsgenericcalendars
+E፣ MMMM dMMMMEdavailableFormatsgenericcalendars
+cccEavailableFormatsgenericcalendars
+G y MMM d, EyyyyMMMEdavailableFormatsgenericcalendars
+G y MMM dyyyyMMMdavailableFormatsgenericcalendars
+h ahavailableFormatsgenericcalendars
+E HH:mmEHmavailableFormatsgenericcalendars
+MMM yyMMMavailableFormatsgenericcalendars
+M/dMdavailableFormatsgenericcalendars
+h BBhavailableFormatsgenericcalendars
+QQQ yyQQQavailableFormatsgenericcalendars
+h:mm:ss BBhmsavailableFormatsgenericcalendars
+E HH:mm:ssEHmsavailableFormatsgenericcalendars
+HH:mm:ssHmsavailableFormatsgenericcalendars
+mm:ssmsavailableFormatsgenericcalendars
+d/M/yyMdavailableFormatsgenericcalendars
+E፣ M/dMEdavailableFormatsgenericcalendars
+MMMM yyMMMMavailableFormatsgenericcalendars
+E h:mm:ss aEhmsavailableFormatsgenericcalendars
+yyavailableFormatsgenericcalendars
+E፣ MMM d yyMMMEdavailableFormatsgenericcalendars
+E h:mm:ss BEBhmsavailableFormatsgenericcalendars
+E h:mm aEhmavailableFormatsgenericcalendars
+GGGGG y-MM-ddyyyyMdavailableFormatsgenericcalendars
+LLLMMMavailableFormatsgenericcalendars
+G y MMMGyMMMavailableFormatsgenericcalendars
+HH:mmHmavailableFormatsgenericcalendars
+GGGGG y-MMyyyyMavailableFormatsgenericcalendars
+E፣ d/M/yyMEdavailableFormatsgenericcalendars
+E dEdavailableFormatsgenericcalendars
+E MMM d፣ y GGyMMMEdavailableFormatsgenericcalendars
+E h:mm BEBhmavailableFormatsgenericcalendars
+G y QQQQyyyyQQQQavailableFormatsgenericcalendars
+d MMM yyMMMdavailableFormatsgenericcalendars
+ዓ/ም1eraAbbrerascopticcalendars
+ዓ/ዓ0eraAbbrerascopticcalendars
+d MMM y GstandardmediumdateFormatsethiopiccalendars
+d MMMM y GstandardlongdateFormatsethiopiccalendars
+EEEE፣ d MMMM y GstandardfulldateFormatsethiopiccalendars
+dd/MM/y GGGGGstandardshortdateFormatsethiopiccalendars
+E d/M – E d/MdMEdintervalFormatsethiopiccalendars
+E፣ d/M – E፣ d/MMMEdintervalFormatsethiopiccalendars
+MMMM–MMMM yMyMMMMintervalFormatsethiopiccalendars
+MMMM y – MMMM yyyMMMMintervalFormatsethiopiccalendars
+d/M/y – d/M/yyyMdintervalFormatsethiopiccalendars
+d/M/y – d/M/ydyMdintervalFormatsethiopiccalendars
+d/M/y – d/M/yMyMdintervalFormatsethiopiccalendars
+d–d/MdMdintervalFormatsethiopiccalendars
+d/M – d/MMMdintervalFormatsethiopiccalendars
+HH–HH vHHvintervalFormatsethiopiccalendars
+E፣ MMM d፣ y – E፣ MMM d፣ yyyMMMEdintervalFormatsethiopiccalendars
+E MMM d – E MMM d፣ yMyMMMEdintervalFormatsethiopiccalendars
+E MMM d – E MMM d፣ ydyMMMEdintervalFormatsethiopiccalendars
+y–yyyintervalFormatsethiopiccalendars
+E d/M/ – E d/M፣ yMyMEdintervalFormatsethiopiccalendars
+E፣ d/M/y – E፣ d/M/ydyMEdintervalFormatsethiopiccalendars
+E፣ d/M/y – E፣ d/M/yyyMEdintervalFormatsethiopiccalendars
+HH:mm–HH:mmHHmintervalFormatsethiopiccalendars
+HH:mm–HH:mmmHmintervalFormatsethiopiccalendars
+MMM–MMMMMMMintervalFormatsethiopiccalendars
+h a – h a vahvintervalFormatsethiopiccalendars
+h – h a vhhvintervalFormatsethiopiccalendars
+MMM d – MMM d፣ yMyMMMdintervalFormatsethiopiccalendars
+MMM d–d፣ ydyMMMdintervalFormatsethiopiccalendars
+MMM d፣ y – MMM d፣ yyyMMMdintervalFormatsethiopiccalendars
+{0} – {1}standardstandardintervalFormatsethiopiccalendars
+h:mm – h:mm ahhmintervalFormatsethiopiccalendars
+h:mm – h:mm amhmintervalFormatsethiopiccalendars
+h:mm a – h:mm aahmintervalFormatsethiopiccalendars
+d–dddintervalFormatsethiopiccalendars
+E d – E d፣ MMMdMMMEdintervalFormatsethiopiccalendars
+E፣ MMM d – E፣ MMM dMMMMEdintervalFormatsethiopiccalendars
+M/y – M/yyyMintervalFormatsethiopiccalendars
+M/y – M/yMyMintervalFormatsethiopiccalendars
+MMM d–ddMMMdintervalFormatsethiopiccalendars
+MMM d – MMM dMMMMdintervalFormatsethiopiccalendars
+M–MMMintervalFormatsethiopiccalendars
+HH–HHHHintervalFormatsethiopiccalendars
+h:mm a – h:mm a vahmvintervalFormatsethiopiccalendars
+h:mm – h:mm a vhhmvintervalFormatsethiopiccalendars
+h:mm – h:mm a vmhmvintervalFormatsethiopiccalendars
+MMM y – MMM yyyMMMintervalFormatsethiopiccalendars
+MMM–MMM፣ yMyMMMintervalFormatsethiopiccalendars
+HH:mm–HH:mm vmHmvintervalFormatsethiopiccalendars
+HH:mm–HH:mm vHHmvintervalFormatsethiopiccalendars
+h a – h aahintervalFormatsethiopiccalendars
+h – h ahhintervalFormatsethiopiccalendars
+መስከረም1widestand-alonemonthsethiopiccalendars
+ጥር5widestand-alonemonthsethiopiccalendars
+የካቲት6widestand-alonemonthsethiopiccalendars
+ሐምሌ11widestand-alonemonthsethiopiccalendars
+ታኅሣሥ4widestand-alonemonthsethiopiccalendars
+ኅዳር3widestand-alonemonthsethiopiccalendars
+ጳጉሜን13widestand-alonemonthsethiopiccalendars
+ሰኔ10widestand-alonemonthsethiopiccalendars
+ነሐሴ12widestand-alonemonthsethiopiccalendars
+መጋቢት7widestand-alonemonthsethiopiccalendars
+ጥቅምት2widestand-alonemonthsethiopiccalendars
+ሚያዝያ8widestand-alonemonthsethiopiccalendars
+ግንቦት9widestand-alonemonthsethiopiccalendars
+ግንቦት9abbreviatedstand-alonemonthsethiopiccalendars
+ሚያዝያ8abbreviatedstand-alonemonthsethiopiccalendars
+ነሐሴ12abbreviatedstand-alonemonthsethiopiccalendars
+ሰኔ10abbreviatedstand-alonemonthsethiopiccalendars
+ጥቅምት2abbreviatedstand-alonemonthsethiopiccalendars
+መጋቢት7abbreviatedstand-alonemonthsethiopiccalendars
+ጳጉሜን13abbreviatedstand-alonemonthsethiopiccalendars
+ታኅሣሥ4abbreviatedstand-alonemonthsethiopiccalendars
+ኅዳር3abbreviatedstand-alonemonthsethiopiccalendars
+ሐምሌ11abbreviatedstand-alonemonthsethiopiccalendars
+የካቲት6abbreviatedstand-alonemonthsethiopiccalendars
+ጥር5abbreviatedstand-alonemonthsethiopiccalendars
+መስከረም1abbreviatedstand-alonemonthsethiopiccalendars
+11narrowstand-alonemonthsethiopiccalendars
+55narrowstand-alonemonthsethiopiccalendars
+1111narrowstand-alonemonthsethiopiccalendars
+66narrowstand-alonemonthsethiopiccalendars
+1313narrowstand-alonemonthsethiopiccalendars
+44narrowstand-alonemonthsethiopiccalendars
+33narrowstand-alonemonthsethiopiccalendars
+88narrowstand-alonemonthsethiopiccalendars
+99narrowstand-alonemonthsethiopiccalendars
+1212narrowstand-alonemonthsethiopiccalendars
+1010narrowstand-alonemonthsethiopiccalendars
+77narrowstand-alonemonthsethiopiccalendars
+22narrowstand-alonemonthsethiopiccalendars
+ጥር5wideformatmonthsethiopiccalendars
+መስከረም1wideformatmonthsethiopiccalendars
+ሐምሌ11wideformatmonthsethiopiccalendars
+የካቲት6wideformatmonthsethiopiccalendars
+ጳጉሜን13wideformatmonthsethiopiccalendars
+ኅዳር3wideformatmonthsethiopiccalendars
+ታኅሣሥ4wideformatmonthsethiopiccalendars
+ሚያዝያ8wideformatmonthsethiopiccalendars
+ግንቦት9wideformatmonthsethiopiccalendars
+መጋቢት7wideformatmonthsethiopiccalendars
+ነሐሴ12wideformatmonthsethiopiccalendars
+ሰኔ10wideformatmonthsethiopiccalendars
+ጥቅምት2wideformatmonthsethiopiccalendars
+55narrowformatmonthsethiopiccalendars
+11narrowformatmonthsethiopiccalendars
+66narrowformatmonthsethiopiccalendars
+1111narrowformatmonthsethiopiccalendars
+33narrowformatmonthsethiopiccalendars
+44narrowformatmonthsethiopiccalendars
+1313narrowformatmonthsethiopiccalendars
+1212narrowformatmonthsethiopiccalendars
+77narrowformatmonthsethiopiccalendars
+1010narrowformatmonthsethiopiccalendars
+22narrowformatmonthsethiopiccalendars
+88narrowformatmonthsethiopiccalendars
+99narrowformatmonthsethiopiccalendars
+ሐምሌ11abbreviatedformatmonthsethiopiccalendars
+የካቲት6abbreviatedformatmonthsethiopiccalendars
+መስከረም1abbreviatedformatmonthsethiopiccalendars
+ጥር5abbreviatedformatmonthsethiopiccalendars
+ሚያዝያ8abbreviatedformatmonthsethiopiccalendars
+ግንቦት9abbreviatedformatmonthsethiopiccalendars
+ሰኔ10abbreviatedformatmonthsethiopiccalendars
+ነሐሴ12abbreviatedformatmonthsethiopiccalendars
+ጥቅምት2abbreviatedformatmonthsethiopiccalendars
+መጋቢት7abbreviatedformatmonthsethiopiccalendars
+ጳጉሜን13abbreviatedformatmonthsethiopiccalendars
+ኅዳር3abbreviatedformatmonthsethiopiccalendars
+ታኅሣሥ4abbreviatedformatmonthsethiopiccalendars
+ERA11eraAbbrerasethiopiccalendars
+ERA00eraAbbrerasethiopiccalendars
+ERA11eraNarrowerasethiopiccalendars
+ERA00eraNarrowerasethiopiccalendars
+ERA00eraNameserasethiopiccalendars
+ERA11eraNameserasethiopiccalendars
+d/M/yyMdavailableFormatsethiopiccalendars
+QQQ yyQQQavailableFormatsethiopiccalendars
+MMMM yyMMMMavailableFormatsethiopiccalendars
+M/dMdavailableFormatsethiopiccalendars
+E፣ M/dMEdavailableFormatsethiopiccalendars
+E፣ MMM d yyMMMEdavailableFormatsethiopiccalendars
+yyavailableFormatsethiopiccalendars
+E፣ d/M/yyMEdavailableFormatsethiopiccalendars
+GGGGG y-MM-ddyyyyMdavailableFormatsethiopiccalendars
+GGGGG y-MMyyyyMavailableFormatsethiopiccalendars
+LLLMMMavailableFormatsethiopiccalendars
+MMM፣ y GGyMMMavailableFormatsethiopiccalendars
+G y QQQQyyyyQQQQavailableFormatsethiopiccalendars
+d MMM yyMMMdavailableFormatsethiopiccalendars
+E MMM d፣ y GGyMMMEdavailableFormatsethiopiccalendars
+E dEdavailableFormatsethiopiccalendars
+ddavailableFormatsethiopiccalendars
+G y QQQyyyyQQQavailableFormatsethiopiccalendars
+GGGGG y-MM-dd, EyyyyMEdavailableFormatsethiopiccalendars
+QQQQ yyQQQQavailableFormatsethiopiccalendars
+E፣ MMM dMMMEdavailableFormatsethiopiccalendars
+M/yyMavailableFormatsethiopiccalendars
+MMM dMMMdavailableFormatsethiopiccalendars
+LMavailableFormatsethiopiccalendars
+G yyyyyavailableFormatsethiopiccalendars
+MMM d፣ y GGyMMMdavailableFormatsethiopiccalendars
+MMMM dMMMMdavailableFormatsethiopiccalendars
+G y MMM d, EyyyyMMMEdavailableFormatsethiopiccalendars
+G y MMM dyyyyMMMdavailableFormatsethiopiccalendars
+G y MMMyyyyMMMavailableFormatsethiopiccalendars
+MMM yyMMMavailableFormatsethiopiccalendars
+E, MMMM dMMMMEdavailableFormatsethiopiccalendars
+cccEavailableFormatsethiopiccalendars
+y GGyavailableFormatsethiopiccalendars
+{1} {0}fulldateTimeFormatsethiopiccalendars
+{1} {0}shortdateTimeFormatsethiopiccalendars
+{1} {0}mediumdateTimeFormatsethiopiccalendars
+{1} {0}longdateTimeFormatsethiopiccalendars
+{0}፣ {1}startstandard-shortlistPatterns
+{0}, እና {1}endstandard-shortlistPatterns
+{0}፣ {1}middlestandard-shortlistPatterns
+{0} እና {1}2standard-shortlistPatterns
+{0}፣ {1}middlestandardlistPatterns
+{0} እና {1}2standardlistPatterns
+{0}፣ {1}startstandardlistPatterns
+{0}, እና {1}endstandardlistPatterns
+{0}፣ {1}middleunitlistPatterns
+{0}፣ {1}2unitlistPatterns
+{0}፣ {1}endunitlistPatterns
+{0}፣ {1}startunitlistPatterns
+{0}፣ {1}endunit-shortlistPatterns
+{0}፣ {1}startunit-shortlistPatterns
+{0}፣ {1}2unit-shortlistPatterns
+{0}፣ {1}middleunit-shortlistPatterns
+{0}፣ {1}startunit-narrowlistPatterns
+{0} {1}endunit-narrowlistPatterns
+{0} {1}2unit-narrowlistPatterns
+{0}፣ {1}middleunit-narrowlistPatterns
+{0} ወይም {1}﻿2orlistPatterns
+{0}፣ {1}middleorlistPatterns
+{0} ወይም {1}﻿endorlistPatterns
+{0}፣ {1}startorlistPatterns
+{0}: {1}category-listpatternscharacterLabels
+{0} — ታሪካዊhistoricpatternscharacterLabels
+{0} ምችstrokespatternscharacterLabels
+{0} — የተለያዩmiscellaneouspatternscharacterLabels
+{0} — ሁሉምallpatternscharacterLabels
+{0} ተጠቃልሎenclosedpatternscharacterLabels
+{0} ተኳሃኝነትcompatibilitypatternscharacterLabels
+{0} — ሌሎችotherpatternscharacterLabels
+{0} ተራዘመextendedpatternscharacterLabels
+ስክሪፕቶች — {0}scriptspatternscharacterLabels
+የተጣመረpairedlabelscharacterLabels
+ስርዓተ ነጥብpunctuationlabelscharacterLabels
+የአፍሪካ ስክሪፕቶችafrican_scriptslabelscharacterLabels
+ቅርጸትformatlabelscharacterLabels
+ጂኦሜትሪክ ቅርጽgeometric_shapeslabelscharacterLabels
+ካንቡንkanbunlabelscharacterLabels
+ቀስቶችarrowslabelscharacterLabels
+ምግብ እና መጠጥfood_drinklabelscharacterLabels
+ወደታች ቀስቶችdownwards_arrowslabelscharacterLabels
+ቅርጸት እና ባዶቦታformat_whitespacelabelscharacterLabels
+ሃሳባዊ ቁምፊዎችideographic_desc_characterslabelscharacterLabels
+ወደግራ ቀስቶችleftwards_arrowslabelscharacterLabels
+የመካከለኛው ምስራቅ ስክሪፕቶችmiddle_eastern_scriptslabelscharacterLabels
+ግማሽ ስፋት የተለያየ መልክhalf_width_form_variantlabelscharacterLabels
+ሃን ራዲካልስhan_radicalslabelscharacterLabels
+ጥይቶች ወይም ኮከቦችbullets_starslabelscharacterLabels
+ዘመናዊ ስክሪፕቶችmodern_scriptslabelscharacterLabels
+ሳቂታ ወይም ሰውsmileys_peoplelabelscharacterLabels
+ሌሎችotherlabelscharacterLabels
+ነቁጥdingbatslabelscharacterLabels
+ነገሮችobjectslabelscharacterLabels
+የኤውሮጳ ስክሪፕቶችeuropean_scriptslabelscharacterLabels
+የመለኮት ምልክቶችdivination_symbolslabelscharacterLabels
+ቮልካኒክ ጃሞvocalic_jamolabelscharacterLabels
+ቴክኒካል ምልክቶችtechnical_symbolslabelscharacterLabels
+ስዕላዊpictographslabelscharacterLabels
+ወደታች ወደላይ ቀስቶችdownwards_upwards_arrowslabelscharacterLabels
+የጃፓን ፊደልjapanese_kanalabelscharacterLabels
+ባዶ ቦታwhitespacelabelscharacterLabels
+ትንሽ የተለያየ መልክsmall_form_variantlabelscharacterLabels
+ደቡብ እስያ ስክሪፕትsouth_asian_scriptslabelscharacterLabels
+ስዕላዊ ሳጥንbox_drawinglabelscharacterLabels
+ሰውpersonlabelscharacterLabels
+የምንዛሪ ምልክቶችcurrency_symbolslabelscharacterLabels
+የአብይ ሆሄ ቁልፍ ማብሪያkeycaplabelscharacterLabels
+ሃን ቁምፊhan_characterslabelscharacterLabels
+ጉዞtravellabelscharacterLabels
+ደቡብ ምስራቅ እስያ ስክሪፕትsoutheast_asian_scriptslabelscharacterLabels
+ፊደል መሰል ምልክቶችletterlike_symbolslabelscharacterLabels
+የድምፅ ፊደልphonetic_alphabetlabelscharacterLabels
+የተጣበቁ ቃላትnonspacinglabelscharacterLabels
+ሰውነትbodylabelscharacterLabels
+ብሬይልbraillelabelscharacterLabels
+ሃንዚ(ባህላዊ)hanzi_traditionallabelscharacterLabels
+ቁጥሮችnumberslabelscharacterLabels
+የሙዚቃ ምልክቶችmusical_symbolslabelscharacterLabels
+ተፈጥሮnaturelabelscharacterLabels
+የተለያየ መልክ ቅጾችvariant_formslabelscharacterLabels
+ምእራባዊ ኤስያ ስክሪፕትwestern_asian_scriptslabelscharacterLabels
+ጭረት ወይም አያያዥdash_connectorlabelscharacterLabels
+ወደቀኝ ቀስቶችrightwards_arrowslabelscharacterLabels
+እንስሳanimallabelscharacterLabels
+ዲጂትdigitslabelscharacterLabels
+የኖታ ምልክትtone_markslabelscharacterLabels
+ቦታplacelabelscharacterLabels
+ሴትfemalelabelscharacterLabels
+ምስራቅ ኤስያ ስክሪፕቶችeast_asian_scriptslabelscharacterLabels
+ባንዲራዎችflagslabelscharacterLabels
+የሂሳብ ምልክቶችmath_symbolslabelscharacterLabels
+አርማ ወይም ምልክትsign_standard_symbolslabelscharacterLabels
+ህንጻbuildinglabelscharacterLabels
+ወንድmalelabelscharacterLabels
+ባንዲራflaglabelscharacterLabels
+ማሻሻያmodifierlabelscharacterLabels
+ሃንጃhanjalabelscharacterLabels
+ሙሉ ስፋት የተለያየ መልክfull_width_form_variantlabelscharacterLabels
+ታሪካዊ ስክሪፕቶችhistoric_scriptslabelscharacterLabels
+ምልክቶችsymbolslabelscharacterLabels
+ባዶ ቦታspacinglabelscharacterLabels
+ስፖርትsportlabelscharacterLabels
+ጉዞ እና ቦታtravel_placeslabelscharacterLabels
+የአየር ሁኔታweatherlabelscharacterLabels
+ወደላይ ቀስቶችupwards_arrowslabelscharacterLabels
+የተለያዩmiscellaneouslabelscharacterLabels
+አትክልትplantlabelscharacterLabels
+ወደግራ ወደቀኝ ቀስቶችleftwards_rightwards_arrowslabelscharacterLabels
+የአሜሪካ ስክሪፕቶችamerican_scriptslabelscharacterLabels
+እንቅስቃሴዎችactivitieslabelscharacterLabels
+ሃንዚ(በቀላሉ)hanzi_simplifiedlabelscharacterLabels
+የጃሞ ሆሄያትconsonantal_jamolabelscharacterLabels
+ሳቅsmileylabelscharacterLabels
+የተወሰነ ኣጠቃቀምlimited_uselabelscharacterLabels
+ስሜት ገላጭ ምስሎችemojilabelscharacterLabels
+እንስሳት እና ተፈጥሮanimals_naturelabelscharacterLabels
+ልብheartlabelscharacterLabels
+ካንጂkanjilabelscharacterLabels
+#,##0%standardstandardlatnpercentFormatsnumbers
+{0}–{1}rangelatnmiscPatternsnumbers
+{0}+atLeastlatnmiscPatternsnumbers
+~{0}approximatelylatnmiscPatternsnumbers
+≤{0}atMostlatnmiscPatternsnumbers
+¤#,##0.00;(¤#,##0.00)standardstandardlatncurrencyFormatsnumbers
+¤0 ሺ1000shortlatncurrencyFormatsnumbers
+¤00 ት10000000000000shortlatncurrencyFormatsnumbers
+¤0 ት1000000000000shortlatncurrencyFormatsnumbers
+¤00 ቢ10000000000shortlatncurrencyFormatsnumbers
+¤00 ሺ10000shortlatncurrencyFormatsnumbers
+¤000 ቢ100000000000shortlatncurrencyFormatsnumbers
+¤00 ሜትር10000000shortlatncurrencyFormatsnumbers
+¤000 ሺ100000shortlatncurrencyFormatsnumbers
+¤0 ሜትር1000000shortlatncurrencyFormatsnumbers
+¤000 ት100000000000000shortlatncurrencyFormatsnumbers
+¤0 ቢ1000000000shortlatncurrencyFormatsnumbers
+¤000 ሜትር100000000shortlatncurrencyFormatsnumbers
+latnnativeotherNumberingSystemsnumbers
+ethitraditionalotherNumberingSystemsnumbers
+#E0standardstandardlatnscientificFormatsnumbers
+-minusSignlatnsymbolsnumbers
+NaNnanlatnsymbolsnumbers
+∞infinitylatnsymbolsnumbers
+,grouplatnsymbolsnumbers
+×superscriptingExponentlatnsymbolsnumbers
+:timeSeparatorlatnsymbolsnumbers
+‰perMillelatnsymbolsnumbers
+Eexponentiallatnsymbolsnumbers
+%percentSignlatnsymbolsnumbers
+.decimallatnsymbolsnumbers
+;listlatnsymbolsnumbers
++plusSignlatnsymbolsnumbers
+latnstandarddefaultNumberingSystemnumbers
+1minimumGroupingDigitsnumbers
+€narrowEURcurrenciesnumbers
+€standardEURcurrenciesnumbers
+RUBstandardRUBcurrenciesnumbers
+₽narrowRUBcurrenciesnumbers
+leinarrowRONcurrenciesnumbers
+RONstandardRONcurrenciesnumbers
+CDFstandardCDFcurrenciesnumbers
+ArnarrowMGAcurrenciesnumbers
+MGAstandardMGAcurrenciesnumbers
+BIFstandardBIFcurrenciesnumbers
+NT$standardTWDcurrenciesnumbers
+NT$narrowTWDcurrenciesnumbers
+MZNstandardMZNcurrenciesnumbers
+FGnarrowGNFcurrenciesnumbers
+GNFstandardGNFcurrenciesnumbers
+MVRstandardMVRcurrenciesnumbers
+₱narrowPHPcurrenciesnumbers
+PHPstandardPHPcurrenciesnumbers
+YERstandardYERcurrenciesnumbers
+฿narrowTHBcurrenciesnumbers
+฿standardTHBcurrenciesnumbers
+CUPstandardCUPcurrenciesnumbers
+$narrowCUPcurrenciesnumbers
+ANGstandardANGcurrenciesnumbers
+$narrowKYDcurrenciesnumbers
+KYDstandardKYDcurrenciesnumbers
+₩narrowKPWcurrenciesnumbers
+KPWstandardKPWcurrenciesnumbers
+RnarrowZARcurrenciesnumbers
+ZARstandardZARcurrenciesnumbers
+GELstandardGELcurrenciesnumbers
+₾variantGELcurrenciesnumbers
+₾narrowGELcurrenciesnumbers
+$narrowUYUcurrenciesnumbers
+UYUstandardUYUcurrenciesnumbers
+CLPstandardCLPcurrenciesnumbers
+$narrowCLPcurrenciesnumbers
+£narrowSSPcurrenciesnumbers
+SSPstandardSSPcurrenciesnumbers
+US$standardUSDcurrenciesnumbers
+$narrowUSDcurrenciesnumbers
+CFAstandardXOFcurrenciesnumbers
+$narrowTTDcurrenciesnumbers
+TTDstandardTTDcurrenciesnumbers
+LVLstandardLVLcurrenciesnumbers
+MOPstandardMOPcurrenciesnumbers
+₡narrowCRCcurrenciesnumbers
+CRCstandardCRCcurrenciesnumbers
+DJFstandardDJFcurrenciesnumbers
+BSDstandardBSDcurrenciesnumbers
+$narrowBSDcurrenciesnumbers
+MADstandardMADcurrenciesnumbers
+SOSstandardSOScurrenciesnumbers
+ZMWstandardZMWcurrenciesnumbers
+ZKnarrowZMWcurrenciesnumbers
+£narrowGIPcurrenciesnumbers
+GIPstandardGIPcurrenciesnumbers
+ብርstandardETBcurrenciesnumbers
+BGNstandardBGNcurrenciesnumbers
+$narrowAUDcurrenciesnumbers
+AU$standardAUDcurrenciesnumbers
+OMRstandardOMRcurrenciesnumbers
+STDstandardSTDcurrenciesnumbers
+$narrowFJDcurrenciesnumbers
+FJDstandardFJDcurrenciesnumbers
+COPstandardCOPcurrenciesnumbers
+$narrowCOPcurrenciesnumbers
+AMDstandardAMDcurrenciesnumbers
+MROstandardMROcurrenciesnumbers
+MRUstandardMRUcurrenciesnumbers
+SLLstandardSLLcurrenciesnumbers
+FCFAstandardXAFcurrenciesnumbers
+SCRstandardSCRcurrenciesnumbers
+₪narrowILScurrenciesnumbers
+₪standardILScurrenciesnumbers
+WSTstandardWSTcurrenciesnumbers
+PKRstandardPKRcurrenciesnumbers
+RsnarrowPKRcurrenciesnumbers
+DZDstandardDZDcurrenciesnumbers
+የቻይና ዩዋንstandardCNHcurrenciesnumbers
+ARSstandardARScurrenciesnumbers
+$narrowARScurrenciesnumbers
+JODstandardJODcurrenciesnumbers
+KWDstandardKWDcurrenciesnumbers
+BYRstandardBYRcurrenciesnumbers
+UGXstandardUGXcurrenciesnumbers
+TMTstandardTMTcurrenciesnumbers
+RWFstandardRWFcurrenciesnumbers
+RFnarrowRWFcurrenciesnumbers
+CUCstandardCUCcurrenciesnumbers
+$narrowCUCcurrenciesnumbers
+MDLstandardMDLcurrenciesnumbers
+$narrowSBDcurrenciesnumbers
+SBDstandardSBDcurrenciesnumbers
+C$narrowNIOcurrenciesnumbers
+NIOstandardNIOcurrenciesnumbers
+PENstandardPENcurrenciesnumbers
+krnarrowDKKcurrenciesnumbers
+DKKstandardDKKcurrenciesnumbers
+BBDstandardBBDcurrenciesnumbers
+$narrowBBDcurrenciesnumbers
+$narrowGYDcurrenciesnumbers
+GYDstandardGYDcurrenciesnumbers
+RSDstandardRSDcurrenciesnumbers
+EGPstandardEGPcurrenciesnumbers
+E£narrowEGPcurrenciesnumbers
+KznarrowAOAcurrenciesnumbers
+AOAstandardAOAcurrenciesnumbers
+CFnarrowKMFcurrenciesnumbers
+KMFstandardKMFcurrenciesnumbers
+ZMKstandardZMKcurrenciesnumbers
+NADstandardNADcurrenciesnumbers
+$narrowNADcurrenciesnumbers
+STNstandardSTNcurrenciesnumbers
+DbnarrowSTNcurrenciesnumbers
+PABstandardPABcurrenciesnumbers
+₸narrowKZTcurrenciesnumbers
+KZTstandardKZTcurrenciesnumbers
+JP¥standardJPYcurrenciesnumbers
+¥narrowJPYcurrenciesnumbers
+TZSstandardTZScurrenciesnumbers
+UZSstandardUZScurrenciesnumbers
+₴narrowUAHcurrenciesnumbers
+UAHstandardUAHcurrenciesnumbers
+BMDstandardBMDcurrenciesnumbers
+$narrowBMDcurrenciesnumbers
+AWGstandardAWGcurrenciesnumbers
+¥narrowCNYcurrenciesnumbers
+CN¥standardCNYcurrenciesnumbers
+PYGstandardPYGcurrenciesnumbers
+₲narrowPYGcurrenciesnumbers
+PGKstandardPGKcurrenciesnumbers
+₩narrowKRWcurrenciesnumbers
+₩standardKRWcurrenciesnumbers
+MKDstandardMKDcurrenciesnumbers
+złnarrowPLNcurrenciesnumbers
+PLNstandardPLNcurrenciesnumbers
+SZLstandardSZLcurrenciesnumbers
+HTGstandardHTGcurrenciesnumbers
+KHRstandardKHRcurrenciesnumbers
+៛narrowKHRcurrenciesnumbers
+RsnarrowLKRcurrenciesnumbers
+LKRstandardLKRcurrenciesnumbers
+$narrowSRDcurrenciesnumbers
+SRDstandardSRDcurrenciesnumbers
+PnarrowBWPcurrenciesnumbers
+BWPstandardBWPcurrenciesnumbers
+BsnarrowBOBcurrenciesnumbers
+BOBstandardBOBcurrenciesnumbers
+HK$standardHKDcurrenciesnumbers
+$narrowHKDcurrenciesnumbers
+AZNstandardAZNcurrenciesnumbers
+BTNstandardBTNcurrenciesnumbers
+AEDstandardAEDcurrenciesnumbers
+BAMstandardBAMcurrenciesnumbers
+KMnarrowBAMcurrenciesnumbers
+QnarrowGTQcurrenciesnumbers
+GTQstandardGTQcurrenciesnumbers
+HRKstandardHRKcurrenciesnumbers
+knnarrowHRKcurrenciesnumbers
+GHSstandardGHScurrenciesnumbers
+SEKstandardSEKcurrenciesnumbers
+krnarrowSEKcurrenciesnumbers
+CVEstandardCVEcurrenciesnumbers
+RpnarrowIDRcurrenciesnumbers
+IDRstandardIDRcurrenciesnumbers
+ISKstandardISKcurrenciesnumbers
+krnarrowISKcurrenciesnumbers
+QARstandardQARcurrenciesnumbers
+ALLstandardALLcurrenciesnumbers
+MYRstandardMYRcurrenciesnumbers
+RMnarrowMYRcurrenciesnumbers
+BHDstandardBHDcurrenciesnumbers
+BDTstandardBDTcurrenciesnumbers
+৳narrowBDTcurrenciesnumbers
+LAKstandardLAKcurrenciesnumbers
+₭narrowLAKcurrenciesnumbers
+AFNstandardAFNcurrenciesnumbers
+₫narrowVNDcurrenciesnumbers
+₫standardVNDcurrenciesnumbers
+NOKstandardNOKcurrenciesnumbers
+krnarrowNOKcurrenciesnumbers
+TOPstandardTOPcurrenciesnumbers
+T$narrowTOPcurrenciesnumbers
+SARstandardSARcurrenciesnumbers
+KGSstandardKGScurrenciesnumbers
+IQDstandardIQDcurrenciesnumbers
+MNTstandardMNTcurrenciesnumbers
+₮narrowMNTcurrenciesnumbers
+CFPFstandardXPFcurrenciesnumbers
+TJSstandardTJScurrenciesnumbers
+$narrowSGDcurrenciesnumbers
+SGDstandardSGDcurrenciesnumbers
+IRRstandardIRRcurrenciesnumbers
+BYNstandardBYNcurrenciesnumbers
+р.narrowBYNcurrenciesnumbers
+MMKstandardMMKcurrenciesnumbers
+KnarrowMMKcurrenciesnumbers
+BNDstandardBNDcurrenciesnumbers
+$narrowBNDcurrenciesnumbers
+TNDstandardTNDcurrenciesnumbers
+FKPstandardFKPcurrenciesnumbers
+£narrowFKPcurrenciesnumbers
+CA$standardCADcurrenciesnumbers
+$narrowCADcurrenciesnumbers
+$narrowJMDcurrenciesnumbers
+JMDstandardJMDcurrenciesnumbers
+MURstandardMURcurrenciesnumbers
+RsnarrowMURcurrenciesnumbers
+SYPstandardSYPcurrenciesnumbers
+£narrowSYPcurrenciesnumbers
+VUVstandardVUVcurrenciesnumbers
+NPRstandardNPRcurrenciesnumbers
+RsnarrowNPRcurrenciesnumbers
+SDGstandardSDGcurrenciesnumbers
+GMDstandardGMDcurrenciesnumbers
+LBPstandardLBPcurrenciesnumbers
+L£narrowLBPcurrenciesnumbers
+₹standardINRcurrenciesnumbers
+₹narrowINRcurrenciesnumbers
+£standardGBPcurrenciesnumbers
+£narrowGBPcurrenciesnumbers
+BsnarrowVEFcurrenciesnumbers
+VEFstandardVEFcurrenciesnumbers
+₦narrowNGNcurrenciesnumbers
+NGNstandardNGNcurrenciesnumbers
+ERNstandardERNcurrenciesnumbers
+R$standardBRLcurrenciesnumbers
+R$narrowBRLcurrenciesnumbers
+HUFstandardHUFcurrenciesnumbers
+FtnarrowHUFcurrenciesnumbers
+LRDstandardLRDcurrenciesnumbers
+$narrowLRDcurrenciesnumbers
+LYDstandardLYDcurrenciesnumbers
+MX$standardMXNcurrenciesnumbers
+$narrowMXNcurrenciesnumbers
+$narrowDOPcurrenciesnumbers
+DOPstandardDOPcurrenciesnumbers
+TRYstandardTRYcurrenciesnumbers
+TLvariantTRYcurrenciesnumbers
+₺narrowTRYcurrenciesnumbers
+SHPstandardSHPcurrenciesnumbers
+£narrowSHPcurrenciesnumbers
+KESstandardKEScurrenciesnumbers
+LTLstandardLTLcurrenciesnumbers
+BZDstandardBZDcurrenciesnumbers
+$narrowBZDcurrenciesnumbers
+VESstandardVEScurrenciesnumbers
+$narrowXCDcurrenciesnumbers
+EC$standardXCDcurrenciesnumbers
+NZ$standardNZDcurrenciesnumbers
+$narrowNZDcurrenciesnumbers
+KčnarrowCZKcurrenciesnumbers
+CZKstandardCZKcurrenciesnumbers
+CHFstandardCHFcurrenciesnumbers
+LnarrowHNLcurrenciesnumbers
+HNLstandardHNLcurrenciesnumbers
+MWKstandardMWKcurrenciesnumbers
+#,##0.###standardstandardlatndecimalFormatsnumbers
+0 ቢሊዮን1000000000longlatndecimalFormatsnumbers
+000 ትሪሊዮን100000000000000longlatndecimalFormatsnumbers
+0 ሚሊዮን1000000longlatndecimalFormatsnumbers
+000 ሚሊዮን100000000longlatndecimalFormatsnumbers
+00 ትሪሊዮን10000000000000longlatndecimalFormatsnumbers
+0 ትሪሊዮን1000000000000longlatndecimalFormatsnumbers
+0 ሺ1000longlatndecimalFormatsnumbers
+00 ሚሊዮን10000000longlatndecimalFormatsnumbers
+000 ቢሊዮን100000000000longlatndecimalFormatsnumbers
+00 ሺ10000longlatndecimalFormatsnumbers
+000 ሺ100000longlatndecimalFormatsnumbers
+00 ቢሊዮን10000000000longlatndecimalFormatsnumbers
+00 ት10000000000000shortlatndecimalFormatsnumbers
+0 ሺ1000shortlatndecimalFormatsnumbers
+0 ት1000000000000shortlatndecimalFormatsnumbers
+000 ሺ100000shortlatndecimalFormatsnumbers
+000 ቢ100000000000shortlatndecimalFormatsnumbers
+00 ሜትር10000000shortlatndecimalFormatsnumbers
+00 ሺ10000shortlatndecimalFormatsnumbers
+00 ቢ10000000000shortlatndecimalFormatsnumbers
+0 ቢ1000000000shortlatndecimalFormatsnumbers
+000 ት100000000000000shortlatndecimalFormatsnumbers
+000ሜ100000000shortlatndecimalFormatsnumbers
+0 ሜትር1000000shortlatndecimalFormatsnumbers
+ዩኬUKmeasurementSystemNameslocaleDisplayNames
+ሜትሪክmetricmeasurementSystemNameslocaleDisplayNames
+ዩ ኤስUSmeasurementSystemNameslocaleDisplayNames
+{0}scriptcodePatternslocaleDisplayNames
+{0}territorycodePatternslocaleDisplayNames
+{0}languagecodePatternslocaleDisplayNames
+{0}፣{1}localeSeparatorlocaleDisplayPatternlocaleDisplayNames
+{0} ({1})localePatternlocaleDisplayPatternlocaleDisplayNames
+{0}: {1}localeKeyTypePatternlocaleDisplayPatternlocaleDisplayNames
+ማቻሜኛjmclanguageslocaleDisplayNames
+ዛዛzzalanguageslocaleDisplayNames
+ማይተሊmailanguageslocaleDisplayNames
+ኡርዱኛurlanguageslocaleDisplayNames
+ዘመናዊ መደበኛ ዓረብኛar_001languageslocaleDisplayNames
+ሜንዴmenlanguageslocaleDisplayNames
+ኢግቦኛiglanguageslocaleDisplayNames
+የስዊዝ ጀርመንgswlanguageslocaleDisplayNames
+ቸርች ስላቪክculanguageslocaleDisplayNames
+ፋሮኛfolanguageslocaleDisplayNames
+ታታርኛttlanguageslocaleDisplayNames
+ካፒዝኖንcpslanguageslocaleDisplayNames
+ስኮልት ሳሚsmslanguageslocaleDisplayNames
+ሩንዲኛrnlanguageslocaleDisplayNames
+ሱኩማsuklanguageslocaleDisplayNames
+ኪርጊዝኛkylanguageslocaleDisplayNames
+ቋንቋዊ ይዘት አይደለምzxxlanguageslocaleDisplayNames
+ታጋሎገኛtllanguageslocaleDisplayNames
+አይሪሽgalanguageslocaleDisplayNames
+የምዕራብ ባሎቺbgnlanguageslocaleDisplayNames
+ይዲሽኛyilanguageslocaleDisplayNames
+ማራቲኛmrlanguageslocaleDisplayNames
+ሰሜናዊ ሶቶnsolanguageslocaleDisplayNames
+ዎሎፍኛwolanguageslocaleDisplayNames
+አዜሪazlanguageslocaleDisplayNames
+ዙሉኛzulanguageslocaleDisplayNames
+አራዋክarwlanguageslocaleDisplayNames
+ክሮሽያንኛhrlanguageslocaleDisplayNames
+የአውሮፓ ስፓንሽኛes_ESlanguageslocaleDisplayNames
+ማላያላምኛmllanguageslocaleDisplayNames
+ኒዩአንኛniulanguageslocaleDisplayNames
+ወልሽcylanguageslocaleDisplayNames
+ንጎባኛjgolanguageslocaleDisplayNames
+ደቡባዊ ሳሚsmalanguageslocaleDisplayNames
+ኪምቡንዱkmblanguageslocaleDisplayNames
+ክሃሲkhalanguageslocaleDisplayNames
+አኮስbsslanguageslocaleDisplayNames
+ኒአፖሊታንnaplanguageslocaleDisplayNames
+ኮሚkvlanguageslocaleDisplayNames
+ዓረብኛarlanguageslocaleDisplayNames
+ኡዝቤክኛuzlanguageslocaleDisplayNames
+አዋድሂawalanguageslocaleDisplayNames
+ብራጅbralanguageslocaleDisplayNames
+ሃውሳኛhalanguageslocaleDisplayNames
+ታይታኛdavlanguageslocaleDisplayNames
+ዳርግዋdarlanguageslocaleDisplayNames
+ደቡባዊ ኩርዲሽsdhlanguageslocaleDisplayNames
+ኤዎንዶewolanguageslocaleDisplayNames
+ካሪብcarlanguageslocaleDisplayNames
+ኑዌርnuslanguageslocaleDisplayNames
+ካባርዲያንkbdlanguageslocaleDisplayNames
+ጆርጂያንkalanguageslocaleDisplayNames
+የዩናይትድ ኪንግደም እንግሊዝኛen_GBlanguageslocaleDisplayNames
+ቢኮልbiklanguageslocaleDisplayNames
+ሉዪያluylanguageslocaleDisplayNames
+የታችኛው ሰርቢያንኛdsblanguageslocaleDisplayNames
+አካንኛaklanguageslocaleDisplayNames
+ሰሜናዊ ሉሪlrclanguageslocaleDisplayNames
+ሻንshnlanguageslocaleDisplayNames
+ጋን ቻይንኛganlanguageslocaleDisplayNames
+ቡሪያትbualanguageslocaleDisplayNames
+ሚን ኛን ቻይንኛnanlanguageslocaleDisplayNames
+ቻዲያን ዓረብኛshulanguageslocaleDisplayNames
+ዳኮታdaklanguageslocaleDisplayNames
+ወላይትኛwallanguageslocaleDisplayNames
+ሴንተራል ዱሰንdtplanguageslocaleDisplayNames
+ጀርመንdelanguageslocaleDisplayNames
+ማሪchmlanguageslocaleDisplayNames
+ላንጊlaglanguageslocaleDisplayNames
+ላትቪያንlvlanguageslocaleDisplayNames
+ካዩጋcaylanguageslocaleDisplayNames
+ሳንጉsbplanguageslocaleDisplayNames
+ኢናሪ ሳሚsmnlanguageslocaleDisplayNames
+ስዋቲኛsslanguageslocaleDisplayNames
+ፖርቹጋልኛptlanguageslocaleDisplayNames
+ቡልጋሪኛbglanguageslocaleDisplayNames
+ብሊስይምቦልስzbllanguageslocaleDisplayNames
+አኮሊኛachlanguageslocaleDisplayNames
+ቢኒbinlanguageslocaleDisplayNames
+ስራናን ቶንጎsrnlanguageslocaleDisplayNames
+ፉላህfflanguageslocaleDisplayNames
+ጃፓንኛjalanguageslocaleDisplayNames
+የአውስትራሊያ እንግሊዝኛen_AUlanguageslocaleDisplayNames
+ኢቦኛebulanguageslocaleDisplayNames
+ባሙንbaxlanguageslocaleDisplayNames
+ሻምባላksblanguageslocaleDisplayNames
+ሊምቡርጊሽlilanguageslocaleDisplayNames
+ቺብቻchblanguageslocaleDisplayNames
+ኒአስnialanguageslocaleDisplayNames
+ፍሩሊያንfurlanguageslocaleDisplayNames
+ቱቫሉtvllanguageslocaleDisplayNames
+ፈረንሳይኛfrlanguageslocaleDisplayNames
+ዳዛጋdzglanguageslocaleDisplayNames
+ራሮቶንጋrarlanguageslocaleDisplayNames
+ኪኩዩkilanguageslocaleDisplayNames
+ዛርማኛdjelanguageslocaleDisplayNames
+ቤላራሻኛbelanguageslocaleDisplayNames
+አራፓሆarplanguageslocaleDisplayNames
+ቾክታዋcholanguageslocaleDisplayNames
+አራማይክarclanguageslocaleDisplayNames
+ባክህቲያሪbqilanguageslocaleDisplayNames
+ቡርማኛmylanguageslocaleDisplayNames
+አካዲያንakklanguageslocaleDisplayNames
+ዴኒሽdalanguageslocaleDisplayNames
+ቡጊኔዝbuglanguageslocaleDisplayNames
+ማዛንደራኒmznlanguageslocaleDisplayNames
+የኖርዌይ ቦክማልnblanguageslocaleDisplayNames
+የብራዚል ፖርቹጋልኛpt_BRlanguageslocaleDisplayNames
+ታሳዋቅtwqlanguageslocaleDisplayNames
+ፐርሺያኛfalanguageslocaleDisplayNames
+ኢስቶኒያንኛetlanguageslocaleDisplayNames
+አፍሪሂሊafhlanguageslocaleDisplayNames
+ሉሌ ሳሚsmjlanguageslocaleDisplayNames
+ባለብዙ ቋንቋዎችmullanguageslocaleDisplayNames
+ኡይገርuglanguageslocaleDisplayNames
+ኩንያማkjlanguageslocaleDisplayNames
+ሂሊጋይኖንhillanguageslocaleDisplayNames
+ኮይራ ቺኒkhqlanguageslocaleDisplayNames
+አይስላንድኛislanguageslocaleDisplayNames
+ሞክሻmdflanguageslocaleDisplayNames
+ፖሊሽኛpllanguageslocaleDisplayNames
+ንኮnqolanguageslocaleDisplayNames
+ኮንጎኛkglanguageslocaleDisplayNames
+ኢቢቦibblanguageslocaleDisplayNames
+የሜክሲኮ ስፓንሽኛes_MXlanguageslocaleDisplayNames
+ኮርኒሽkwlanguageslocaleDisplayNames
+አብሐዚኛablanguageslocaleDisplayNames
+ራሽያኛrulanguageslocaleDisplayNames
+ቶንጋኛtolanguageslocaleDisplayNames
+ኢንቴርሊንጓialanguageslocaleDisplayNames
+ዶግሪብdgrlanguageslocaleDisplayNames
+ስፓንሽኛeslanguageslocaleDisplayNames
+ሜሩmerlanguageslocaleDisplayNames
+ማንክስኛgvlanguageslocaleDisplayNames
+ቱምቡካtumlanguageslocaleDisplayNames
+ምዕራባዊ ፍሪሲኛfylanguageslocaleDisplayNames
+ቤታዊbewlanguageslocaleDisplayNames
+ችዬኔchylanguageslocaleDisplayNames
+ደቡባዊ አልታይaltlanguageslocaleDisplayNames
+ሰርብያኛsrlanguageslocaleDisplayNames
+ሞሃውክmohlanguageslocaleDisplayNames
+አስቱሪያንastlanguageslocaleDisplayNames
+ካዶcadlanguageslocaleDisplayNames
+ዡዋንግኛzalanguageslocaleDisplayNames
+አያማርኛaylanguageslocaleDisplayNames
+ካቡዋኖceblanguageslocaleDisplayNames
+ካረሊኛkrllanguageslocaleDisplayNames
+ሉክዘምበርኛlblanguageslocaleDisplayNames
+ሱማልኛsolanguageslocaleDisplayNames
+ቻይንኛzhlanguageslocaleDisplayNames
+ማፑቼarnlanguageslocaleDisplayNames
+ጽዋናዊኛtnlanguageslocaleDisplayNames
+ታይኛthlanguageslocaleDisplayNames
+ኵቿኛqulanguageslocaleDisplayNames
+ቀለል ያለ ቻይንኛzh_HanslanguageslocaleDisplayNames
+ትግረtiglanguageslocaleDisplayNames
+ግዊቺንgwilanguageslocaleDisplayNames
+ኮፕቲክcoplanguageslocaleDisplayNames
+ኒያንኮልኛnynlanguageslocaleDisplayNames
+ዳላዌርdellanguageslocaleDisplayNames
+ደችnllanguageslocaleDisplayNames
+ቦዶbrxlanguageslocaleDisplayNames
+ኢባንibalanguageslocaleDisplayNames
+ሃይትኛhtlanguageslocaleDisplayNames
+የምባybblanguageslocaleDisplayNames
+ሳሆኛssylanguageslocaleDisplayNames
+ቦጁሪbholanguageslocaleDisplayNames
+ፊሊፒንኛfillanguageslocaleDisplayNames
+ኮሞሪያንswblanguageslocaleDisplayNames
+ባሊኔስbanlanguageslocaleDisplayNames
+ላቲንኛlalanguageslocaleDisplayNames
+ቢሹንፑሪያbpylanguageslocaleDisplayNames
+አቻይንኛacelanguageslocaleDisplayNames
+ሚናንግካባኡminlanguageslocaleDisplayNames
+ታሮኮtrvlanguageslocaleDisplayNames
+መደበኛ የሞሮኮ ታማዚግትzghlanguageslocaleDisplayNames
+ዞሳኛxhlanguageslocaleDisplayNames
+ባፊያksflanguageslocaleDisplayNames
+ኦኪታንኛoclanguageslocaleDisplayNames
+ደቡብ ንደቤሌnrlanguageslocaleDisplayNames
+ቻሞሮchlanguageslocaleDisplayNames
+ክሪcrlanguageslocaleDisplayNames
+አሮማንያንruplanguageslocaleDisplayNames
+የኦስትሪያ ጀርመንde_ATlanguageslocaleDisplayNames
+ሶጋxoglanguageslocaleDisplayNames
+እንግሊዝኛenlanguageslocaleDisplayNames
+ኢዊeelanguageslocaleDisplayNames
+ቼክኛcslanguageslocaleDisplayNames
+ቺኑክ ጃርጎንchnlanguageslocaleDisplayNames
+አገምagqlanguageslocaleDisplayNames
+ሩትrootlanguageslocaleDisplayNames
+ሲሪያክsyrlanguageslocaleDisplayNames
+ኢዶiolanguageslocaleDisplayNames
+ሃካ ቻይንኛhaklanguageslocaleDisplayNames
+ጋሊሺያgllanguageslocaleDisplayNames
+ናማnaqlanguageslocaleDisplayNames
+ካቡቨርዲያኑkealanguageslocaleDisplayNames
+ሌዝጊያንlezlanguageslocaleDisplayNames
+ሁፓhuplanguageslocaleDisplayNames
+ዋልሰርwaelanguageslocaleDisplayNames
+ቬንዳvelanguageslocaleDisplayNames
+ኩሩክkrulanguageslocaleDisplayNames
+አራኦናarolanguageslocaleDisplayNames
+ኒጊምቡንnnhlanguageslocaleDisplayNames
+የጥንታዊ ግብጽኛegylanguageslocaleDisplayNames
+ቮላፑክኛvolanguageslocaleDisplayNames
+አላባማakzlanguageslocaleDisplayNames
+ማሴዶንኛmklanguageslocaleDisplayNames
+ሎዚኛlozlanguageslocaleDisplayNames
+ኢሎኮilolanguageslocaleDisplayNames
+ኪቼquclanguageslocaleDisplayNames
+ሜታmgolanguageslocaleDisplayNames
+የስዊዝ ከፍተኛ ጀርመንኛde_CHlanguageslocaleDisplayNames
+አቫሪክavlanguageslocaleDisplayNames
+ፓምፓንጋpamlanguageslocaleDisplayNames
+ዉ ቻይንኛwuulanguageslocaleDisplayNames
+ካጅkajlanguageslocaleDisplayNames
+ፊጂኛfjlanguageslocaleDisplayNames
+ጓራኒኛgnlanguageslocaleDisplayNames
+ሚራንዴዝኛmwllanguageslocaleDisplayNames
+ንጋምባይsbalanguageslocaleDisplayNames
+ትዊኛtwlanguageslocaleDisplayNames
+ዱዋላኛdualanguageslocaleDisplayNames
+ሰሜናዊ ሳሚselanguageslocaleDisplayNames
+የጥንታዊ ግሪክgrclanguageslocaleDisplayNames
+ዲቬሂdvlanguageslocaleDisplayNames
+ሳምቡሩsaqlanguageslocaleDisplayNames
+ዙኒzunlanguageslocaleDisplayNames
+እኑፒያቅኛiklanguageslocaleDisplayNames
+ማካሳርmaklanguageslocaleDisplayNames
+ክላሲክ ኔይራsyclanguageslocaleDisplayNames
+ጉጃርቲኛgulanguageslocaleDisplayNames
+ካራቻይ-ባልካርkrclanguageslocaleDisplayNames
+ማኩዋ ሜቶmghlanguageslocaleDisplayNames
+የአልጄሪያ ዓረብኛarqlanguageslocaleDisplayNames
+ካንቶኒዝyuelanguageslocaleDisplayNames
+ማጋሂmaglanguageslocaleDisplayNames
+ካላሊሱትኛkllanguageslocaleDisplayNames
+ክሊንጎንኛtlhlanguageslocaleDisplayNames
+ላኮታlktlanguageslocaleDisplayNames
+ሲቹንዪኛiilanguageslocaleDisplayNames
+ባታካ ቶባbbclanguageslocaleDisplayNames
+ቦስኒያንኛbslanguageslocaleDisplayNames
+ቤናbezlanguageslocaleDisplayNames
+ባንጃርbjnlanguageslocaleDisplayNames
+ቻጋታይchglanguageslocaleDisplayNames
+ጣሊያንኛitlanguageslocaleDisplayNames
+ዢያንግ ቻይንኛhsnlanguageslocaleDisplayNames
+ድዩላdyulanguageslocaleDisplayNames
+አድይግሄadylanguageslocaleDisplayNames
+ሳሞአኛsmlanguageslocaleDisplayNames
+አቬስታንaelanguageslocaleDisplayNames
+ኖርዌጂያንnolanguageslocaleDisplayNames
+ፓፒአሜንቶpaplanguageslocaleDisplayNames
+ፎንfonlanguageslocaleDisplayNames
+አራጎንስanlanguageslocaleDisplayNames
+ጋንዳኛlglanguageslocaleDisplayNames
+ኤርዝያmyvlanguageslocaleDisplayNames
+መካከለኛው አትላስ ታማዚኛtzmlanguageslocaleDisplayNames
+ባስኪርኛbalanguageslocaleDisplayNames
+ቺምቦራዞ ሃይላንድ ኩቹዋquglanguageslocaleDisplayNames
+ጋጉዝኛgaglanguageslocaleDisplayNames
+ኖጋይnoglanguageslocaleDisplayNames
+ታቼልሂትshilanguageslocaleDisplayNames
+የላይኛው ሶርቢያንኛhsblanguageslocaleDisplayNames
+ትግርኛtilanguageslocaleDisplayNames
+ኮሮkfolanguageslocaleDisplayNames
+ክላሲክ ኔዋሪnwclanguageslocaleDisplayNames
+ሳንታሊsatlanguageslocaleDisplayNames
+ሀንጋሪኛhulanguageslocaleDisplayNames
+ማርሻሌዝኛmhlanguageslocaleDisplayNames
+ክሪሚያን ተርኪሽcrhlanguageslocaleDisplayNames
+ስሎቫክኛsklanguageslocaleDisplayNames
+ሾናኛsnlanguageslocaleDisplayNames
+ፓንጋሲናንኛpaglanguageslocaleDisplayNames
+ቪየትናምኛvilanguageslocaleDisplayNames
+ካምባkamlanguageslocaleDisplayNames
+የስኮቲሽ ጌልክኛgdlanguageslocaleDisplayNames
+ቲቤታንኛbolanguageslocaleDisplayNames
+ፓላኡአንpaulanguageslocaleDisplayNames
+የናይጄሪያ ፒጂንpcmlanguageslocaleDisplayNames
+ባሳbaslanguageslocaleDisplayNames
+ኤስፐራንቶeolanguageslocaleDisplayNames
+ሉኦluolanguageslocaleDisplayNames
+ባሉቺballanguageslocaleDisplayNames
+ኔፓሊኛnelanguageslocaleDisplayNames
+አልዩትalelanguageslocaleDisplayNames
+ሳንዳዌsadlanguageslocaleDisplayNames
+ካናዳኛknlanguageslocaleDisplayNames
+ሉባ ካታንጋlulanguageslocaleDisplayNames
+ማኒፑሪmnilanguageslocaleDisplayNames
+ኪንያርዋንድኛrwlanguageslocaleDisplayNames
+ካልማይክxallanguageslocaleDisplayNames
+የኖርዌይ ናይኖርስክnnlanguageslocaleDisplayNames
+ሞሲmoslanguageslocaleDisplayNames
+ክሪክmuslanguageslocaleDisplayNames
+ሄሬሮhzlanguageslocaleDisplayNames
+ሰርቦ-ክሮኤሽያኛshlanguageslocaleDisplayNames
+ሲሲሊያንኛscnlanguageslocaleDisplayNames
+ክፔሌkpelanguageslocaleDisplayNames
+ካለንጂንklnlanguageslocaleDisplayNames
+አንጊካanplanguageslocaleDisplayNames
+ቢስላምኛbilanguageslocaleDisplayNames
+ላዲኖladlanguageslocaleDisplayNames
+ቡሉbumlanguageslocaleDisplayNames
+ሞንጎሊያኛmnlanguageslocaleDisplayNames
+ፑሽቶpslanguageslocaleDisplayNames
+አርመናዊhylanguageslocaleDisplayNames
+ቱርክኛtrlanguageslocaleDisplayNames
+ቴሶteolanguageslocaleDisplayNames
+ክህመርኛkmlanguageslocaleDisplayNames
+ዶግሪdoilanguageslocaleDisplayNames
+ጆላ ፎንያኛdyolanguageslocaleDisplayNames
+ኮንካኒkoklanguageslocaleDisplayNames
+ታያፕkcglanguageslocaleDisplayNames
+ሒንዱኛhilanguageslocaleDisplayNames
+ኮርሲካኛcolanguageslocaleDisplayNames
+ኦሮሞኛomlanguageslocaleDisplayNames
+ሴናsehlanguageslocaleDisplayNames
+ካጁን ፍሬንችfrclanguageslocaleDisplayNames
+ያንግቤንኛyavlanguageslocaleDisplayNames
+ኦ ናጋnjolanguageslocaleDisplayNames
+አሳሜዛዊaslanguageslocaleDisplayNames
+ሲንሃልኛsilanguageslocaleDisplayNames
+ስሎቪኛsllanguageslocaleDisplayNames
+ግዕዝኛgezlanguageslocaleDisplayNames
+ብሬቶንኛbrlanguageslocaleDisplayNames
+ስኮትስscolanguageslocaleDisplayNames
+ሲንድሂኛsdlanguageslocaleDisplayNames
+ሲክሲካblalanguageslocaleDisplayNames
+ቩንጆvunlanguageslocaleDisplayNames
+ቴተምtetlanguageslocaleDisplayNames
+ኩርድሽኛkulanguageslocaleDisplayNames
+ሉባ-ሉሏlualanguageslocaleDisplayNames
+ካዛክኛkklanguageslocaleDisplayNames
+ፊኒሽfilanguageslocaleDisplayNames
+ሰሰላዊ ክሬኦሊ ፈረንሳይኛcrslanguageslocaleDisplayNames
+ሰሜን ንዴብሌndlanguageslocaleDisplayNames
+ማላጋስኛmglanguageslocaleDisplayNames
+ሴንተራል ዩፒክesulanguageslocaleDisplayNames
+ችችንcelanguageslocaleDisplayNames
+ንዶንጋnglanguageslocaleDisplayNames
+የአውሮፓ ፖርቹጋልኛpt_PTlanguageslocaleDisplayNames
+ታሂታንኛtylanguageslocaleDisplayNames
+ጋgaalanguageslocaleDisplayNames
+ማኮንዴkdelanguageslocaleDisplayNames
+ንያንጃnylanguageslocaleDisplayNames
+ሱዳንኛsulanguageslocaleDisplayNames
+ሃዊያኛhawlanguageslocaleDisplayNames
+ኮሪያኛkolanguageslocaleDisplayNames
+ባቫሪያንbarlanguageslocaleDisplayNames
+ቫይvailanguageslocaleDisplayNames
+ቤጃbejlanguageslocaleDisplayNames
+ቤንጋሊኛbnlanguageslocaleDisplayNames
+ኦዲያኛorlanguageslocaleDisplayNames
+የካናዳ እንግሊዝኛen_CAlanguageslocaleDisplayNames
+ቹክስchklanguageslocaleDisplayNames
+ኡድሙርትudmlanguageslocaleDisplayNames
+ሳንስክሪትኛsalanguageslocaleDisplayNames
+አርፒታንfrplanguageslocaleDisplayNames
+ኮይራቦሮ ሴኒseslanguageslocaleDisplayNames
+ማላይኛmslanguageslocaleDisplayNames
+ካኮkkjlanguageslocaleDisplayNames
+ዕብራይስጥ﻿helanguageslocaleDisplayNames
+ታጂኪኛtglanguageslocaleDisplayNames
+ጃቫንኛjvlanguageslocaleDisplayNames
+ቲምኔtemlanguageslocaleDisplayNames
+እኑክቲቱትኛiulanguageslocaleDisplayNames
+የላቲን አሜሪካ ስፓኒሽes_419languageslocaleDisplayNames
+ሙንዳንግmualanguageslocaleDisplayNames
+አፋርኛaalanguageslocaleDisplayNames
+ሲዳምኛsidlanguageslocaleDisplayNames
+ብሊንbynlanguageslocaleDisplayNames
+ኩማይክkumlanguageslocaleDisplayNames
+ተሉጉኛtelanguageslocaleDisplayNames
+ካብይልkablanguageslocaleDisplayNames
+ብራሁዪbrhlanguageslocaleDisplayNames
+ካሽሚርኛkslanguageslocaleDisplayNames
+ሳርዲንያንኛsclanguageslocaleDisplayNames
+ኢንጉሽinhlanguageslocaleDisplayNames
+ኡምቡንዱumblanguageslocaleDisplayNames
+ሚዞluslanguageslocaleDisplayNames
+አሱasalanguageslocaleDisplayNames
+ራፓኑኢraplanguageslocaleDisplayNames
+ኒዋሪ(ኔፓል)newlanguageslocaleDisplayNames
+ደቡባዊ ሶቶstlanguageslocaleDisplayNames
+ስዋሂሊኛswlanguageslocaleDisplayNames
+ያልታወቀ ቋንቋundlanguageslocaleDisplayNames
+ዩክሬንኛuklanguageslocaleDisplayNames
+ቤምባbemlanguageslocaleDisplayNames
+የታችኛው ሳክሰንnds_NLlanguageslocaleDisplayNames
+ኦሴቲክoslanguageslocaleDisplayNames
+ታሚልኛtalanguageslocaleDisplayNames
+ቱቪንያንኛtyvlanguageslocaleDisplayNames
+ሉቴንያንኛltlanguageslocaleDisplayNames
+የሶራኒ ኩርድኛckblanguageslocaleDisplayNames
+ስዊድንኛsvlanguageslocaleDisplayNames
+ባስክኛeulanguageslocaleDisplayNames
+ባህላዊ ቻይንኛzh_HantlanguageslocaleDisplayNames
+ማዱረስmadlanguageslocaleDisplayNames
+ማሳይmaslanguageslocaleDisplayNames
+ጉስሊኛguzlanguageslocaleDisplayNames
+ፍሌሚሽnl_BElanguageslocaleDisplayNames
+ዋሎንwalanguageslocaleDisplayNames
+ግሪክኛellanguageslocaleDisplayNames
+ሞሪሲየኛmfelanguageslocaleDisplayNames
+ሶኒንኬsnklanguageslocaleDisplayNames
+ኤፊክefilanguageslocaleDisplayNames
+ቺፔውያንchplanguageslocaleDisplayNames
+ካታላንኛcalanguageslocaleDisplayNames
+ሉንዳlunlanguageslocaleDisplayNames
+ኮሚ ፔርምያክkoilanguageslocaleDisplayNames
+ዋራይwarlanguageslocaleDisplayNames
+አይኑainlanguageslocaleDisplayNames
+ሚክማክmiclanguageslocaleDisplayNames
+ማልቲስኛmtlanguageslocaleDisplayNames
+ጅልበርትስgillanguageslocaleDisplayNames
+ላኦኛlolanguageslocaleDisplayNames
+ሮማኒያንrolanguageslocaleDisplayNames
+ጎሮንታሎgorlanguageslocaleDisplayNames
+ኤካጁክekalanguageslocaleDisplayNames
+የአሜሪካ የምልክት ቋንቋaselanguageslocaleDisplayNames
+ካቺንkaclanguageslocaleDisplayNames
+ባምባርኛbmlanguageslocaleDisplayNames
+ካኑሪkrlanguageslocaleDisplayNames
+ሞልዳቪያንኛro_MDlanguageslocaleDisplayNames
+ርዋrwklanguageslocaleDisplayNames
+ሮማንሽrmlanguageslocaleDisplayNames
+ኮንጎ ስዋሂሊsw_CDlanguageslocaleDisplayNames
+ሎጅባንjbolanguageslocaleDisplayNames
+የስዊዝ ፈረንሳይኛfr_CHlanguageslocaleDisplayNames
+ቹቫሽcvlanguageslocaleDisplayNames
+ክዋሲዮnmglanguageslocaleDisplayNames
+ማኦሪኛmilanguageslocaleDisplayNames
+ባፉትbfdlanguageslocaleDisplayNames
+ህሞንግhmnlanguageslocaleDisplayNames
+ጾንጋኛtslanguageslocaleDisplayNames
+ሮምቦroflanguageslocaleDisplayNames
+ቱርክሜንኛtklanguageslocaleDisplayNames
+ኢንዶኔዥኛidlanguageslocaleDisplayNames
+የካናዳ ፈረንሳይኛfr_CAlanguageslocaleDisplayNames
+አልባንያንኛsqlanguageslocaleDisplayNames
+ዋርልፒሪwbplanguageslocaleDisplayNames
+ቶክ ፒሲንtpilanguageslocaleDisplayNames
+ናኡሩnalanguageslocaleDisplayNames
+ፑንጃብኛpalanguageslocaleDisplayNames
+ሳንጎኛsglanguageslocaleDisplayNames
+ድዞንግኻኛdzlanguageslocaleDisplayNames
+አትሳምcchlanguageslocaleDisplayNames
+ቺጋኛcgglanguageslocaleDisplayNames
+ናቫጆnvlanguageslocaleDisplayNames
+ሊንጋላኛlnlanguageslocaleDisplayNames
+ፐሩሳንኛprglanguageslocaleDisplayNames
+ባዳጋbfqlanguageslocaleDisplayNames
+ዲንካdinlanguageslocaleDisplayNames
+አፍሪካንኛaflanguageslocaleDisplayNames
+እንተርሊንግወielanguageslocaleDisplayNames
+ዮሩባዊኛyolanguageslocaleDisplayNames
+የዩ ኤስ እንግሊዝኛen_USlanguageslocaleDisplayNames
+አዳንግሜadalanguageslocaleDisplayNames
+ሳክሃsahlanguageslocaleDisplayNames
+የታችኛው ጀርመንndslanguageslocaleDisplayNames
+ቼሮኬኛchrlanguageslocaleDisplayNames
+አማርኛamlanguageslocaleDisplayNames
+ኮሎኝኛkshlanguageslocaleDisplayNames
+ኮሶቮXKterritorieslocaleDisplayNames
+ምስራቃዊ እስያ030territorieslocaleDisplayNames
+ቶጐTGterritorieslocaleDisplayNames
+ስቫልባርድ እና ጃን ማየንSJterritorieslocaleDisplayNames
+ፔሩPEterritorieslocaleDisplayNames
+ኒካራጓNIterritorieslocaleDisplayNames
+ቻድTDterritorieslocaleDisplayNames
+የፈረንሳይ ደቡባዊ ግዛቶችTFterritorieslocaleDisplayNames
+ማዳጋስካርMGterritorieslocaleDisplayNames
+ኖርፎልክ ደሴትNFterritorieslocaleDisplayNames
+ባንግላዲሽBDterritorieslocaleDisplayNames
+ዶሚኒካDMterritorieslocaleDisplayNames
+ቤልጄምBEterritorieslocaleDisplayNames
+ደቡባዊ እሲያ034territorieslocaleDisplayNames
+ምዕራባዊ አውሮፓ151territorieslocaleDisplayNames
+ታይዋንTWterritorieslocaleDisplayNames
+ፒትካኢርን አይስላንድPNterritorieslocaleDisplayNames
+ሌሶቶLSterritorieslocaleDisplayNames
+አየርላንድIEterritorieslocaleDisplayNames
+ጉያናGYterritorieslocaleDisplayNames
+አሴንሽን ደሴትACterritorieslocaleDisplayNames
+ኦሽኒአ009territorieslocaleDisplayNames
+ኤል ሳልቫዶርSVterritorieslocaleDisplayNames
+ኩባCUterritorieslocaleDisplayNames
+ፓፑዋ ኒው ጊኒPGterritorieslocaleDisplayNames
+አውስትራልያAUterritorieslocaleDisplayNames
+አፍጋኒስታንAFterritorieslocaleDisplayNames
+ፍልስጥኤምPSterritorieslocaleDisplayNames
+ስዊድንSEterritorieslocaleDisplayNames
+ማላዊMWterritorieslocaleDisplayNames
+ኮኮስ(ኬሊንግ) ደሴቶችCCterritorieslocaleDisplayNames
+ምስራቃዊ አፍሪካ011territorieslocaleDisplayNames
+ቡቬት ደሴትBVterritorieslocaleDisplayNames
+ሜላኔዥያ054territorieslocaleDisplayNames
+ግሪንላንድGLterritorieslocaleDisplayNames
+ሱዳንSDterritorieslocaleDisplayNames
+ትሪስታን ዲ ኩንሃTAterritorieslocaleDisplayNames
+ሴኔጋልSNterritorieslocaleDisplayNames
+ዲዬጎ ጋርሺያDGterritorieslocaleDisplayNames
+ሞንትሴራትMSterritorieslocaleDisplayNames
+አይል ኦፍ ማንIMterritorieslocaleDisplayNames
+ካሪቢያን029territorieslocaleDisplayNames
+ኪርጊስታንKGterritorieslocaleDisplayNames
+ሳኦ ቶሜ እና ፕሪንሲፔSTterritorieslocaleDisplayNames
+ማርቲኒክMQterritorieslocaleDisplayNames
+ፊንላንድFIterritorieslocaleDisplayNames
+ኢራንIRterritorieslocaleDisplayNames
+ቡልጌሪያBGterritorieslocaleDisplayNames
+ኒኡይNUterritorieslocaleDisplayNames
+ሚክሮኔዢያFMterritorieslocaleDisplayNames
+ሲንጋፖርSGterritorieslocaleDisplayNames
+ሲሼልስSCterritorieslocaleDisplayNames
+ማይናማር(በርማ)MMterritorieslocaleDisplayNames
+ኖርዌይNOterritorieslocaleDisplayNames
+ኩራሳዎCWterritorieslocaleDisplayNames
+ደቡባዊ አውሮፓ039territorieslocaleDisplayNames
+ፓላውPWterritorieslocaleDisplayNames
+ቅዱስ ቪንሴንት እና ግሬናዲንስVCterritorieslocaleDisplayNames
+ሳይፕረስCYterritorieslocaleDisplayNames
+ሊችተንስታይንLIterritorieslocaleDisplayNames
+ምዕራባዊ አፍሪካ014territorieslocaleDisplayNames
+ሉክሰምበርግLUterritorieslocaleDisplayNames
+የተመUNterritorieslocaleDisplayNames
+ኒጀርNEterritorieslocaleDisplayNames
+ግሪክGRterritorieslocaleDisplayNames
+ሆንዱራስHNterritorieslocaleDisplayNames
+በሊዝBZterritorieslocaleDisplayNames
+ማልዲቭስMVterritorieslocaleDisplayNames
+መቄዶንያ (የቀድሞ የዩጎስላቭ መቄዶንያ ሪፐብሊክ)MKterritorieslocaleDisplayNames
+ቦስኒያ እና ሄርዞጎቪኒያBAterritorieslocaleDisplayNames
+አርጀንቲናARterritorieslocaleDisplayNames
+ጂቡቲDJterritorieslocaleDisplayNames
+ደቡብ ሱዳንSSterritorieslocaleDisplayNames
+ስሎቬኒያSIterritorieslocaleDisplayNames
+ባህሬንBHterritorieslocaleDisplayNames
+አውስትራሌዥያ053territorieslocaleDisplayNames
+ኦስትሪያATterritorieslocaleDisplayNames
+ጃፓንJPterritorieslocaleDisplayNames
+ኔዘርላንድNLterritorieslocaleDisplayNames
+አይቮሪኮስትCIterritorieslocaleDisplayNames
+ደቡብ አሜሪካ005territorieslocaleDisplayNames
+ፖሊኔዥያ061territorieslocaleDisplayNames
+የፈረንሳይ ጉዊአናGFterritorieslocaleDisplayNames
+አልባኒያALterritorieslocaleDisplayNames
+ሲንት ማርተንSXterritorieslocaleDisplayNames
+አልጄሪያDZterritorieslocaleDisplayNames
+ደቡባዊ አፍሪካ018territorieslocaleDisplayNames
+ግብጽEGterritorieslocaleDisplayNames
+ጋቦንGAterritorieslocaleDisplayNames
+አንጐላAOterritorieslocaleDisplayNames
+ታይላንድTHterritorieslocaleDisplayNames
+ቶክላውTKterritorieslocaleDisplayNames
+ዶመኒካን ሪፑብሊክDOterritorieslocaleDisplayNames
+ሰሜናዊ አፍሪካ015territorieslocaleDisplayNames
+አንጉይላAIterritorieslocaleDisplayNames
+የእንግሊዝ ቨርጂን ደሴቶችVGterritorieslocaleDisplayNames
+ጊኒGNterritorieslocaleDisplayNames
+ሜይኦቴYTterritorieslocaleDisplayNames
+ትሪናዳድ እና ቶቤጎTTterritorieslocaleDisplayNames
+ሰሜን አሜሪካ003territorieslocaleDisplayNames
+ስዊዘርላንድCHterritorieslocaleDisplayNames
+ሴራሊዮንSLterritorieslocaleDisplayNames
+አውትላይንግ ኦሽንያQOterritorieslocaleDisplayNames
+ኢንዶኔዢያIDterritorieslocaleDisplayNames
+ካናዳCAterritorieslocaleDisplayNames
+ጉርነሲGGterritorieslocaleDisplayNames
+ምስራቃዊ አውሮፓ155territorieslocaleDisplayNames
+ሱሪናምSRterritorieslocaleDisplayNames
+ሴንት ሄለናSHterritorieslocaleDisplayNames
+ኬንያKEterritorieslocaleDisplayNames
+ብራዚልBRterritorieslocaleDisplayNames
+ቤላሩስBYterritorieslocaleDisplayNames
+መካከለኛው አሜሪካ013territorieslocaleDisplayNames
+የማይክሮኔዥያን ክልል057territorieslocaleDisplayNames
+ጊኒ ቢሳኦGWterritorieslocaleDisplayNames
+ኔፓልNPterritorieslocaleDisplayNames
+ዴንማርክDKterritorieslocaleDisplayNames
+ጣሊያንITterritorieslocaleDisplayNames
+ኮንጎ (ሪፐብሊክ)CGterritorieslocaleDisplayNames
+የካሪቢያን ኔዘርላንድስBQterritorieslocaleDisplayNames
+ፎክላንድ ደሴቶች (ኢስላስ ማልቪናስ)FKterritorieslocaleDisplayNames
+ምዕራባዊ ደቡብ እሲያ035territorieslocaleDisplayNames
+ሞዛምቢክMZterritorieslocaleDisplayNames
+ባሃማስBSterritorieslocaleDisplayNames
+ሞናኮMCterritorieslocaleDisplayNames
+ሪዩኒየንREterritorieslocaleDisplayNames
+ሞልዶቫMDterritorieslocaleDisplayNames
+ኡራጓይUYterritorieslocaleDisplayNames
+ጋናGHterritorieslocaleDisplayNames
+ሮሜኒያROterritorieslocaleDisplayNames
+የመንYEterritorieslocaleDisplayNames
+ፓኪስታንPKterritorieslocaleDisplayNames
+ጆርዳንJOterritorieslocaleDisplayNames
+ማካኡMOterritorieslocaleDisplayNames
+ክሊፐርቶን ደሴትCPterritorieslocaleDisplayNames
+ኢትዮጵያETterritorieslocaleDisplayNames
+ጉዋቲማላGTterritorieslocaleDisplayNames
+ሲሪያSYterritorieslocaleDisplayNames
+ሰሜን ኮሪያKPterritorieslocaleDisplayNames
+ኦማንOMterritorieslocaleDisplayNames
+ኤስቶኒያEEterritorieslocaleDisplayNames
+ክሪስማስ ደሴትCXterritorieslocaleDisplayNames
+ብሩንዲBIterritorieslocaleDisplayNames
+የአሜሪካ ሳሞአASterritorieslocaleDisplayNames
+ዓለም001territorieslocaleDisplayNames
+ሞሪሸስMUterritorieslocaleDisplayNames
+ሴንት ሉቺያLCterritorieslocaleDisplayNames
+ጋምቢያGMterritorieslocaleDisplayNames
+ክዌትKWterritorieslocaleDisplayNames
+ቬንዙዌላVEterritorieslocaleDisplayNames
+ሲሪላንካLKterritorieslocaleDisplayNames
+ላኦስLAterritorieslocaleDisplayNames
+ቱቫሉTVterritorieslocaleDisplayNames
+ሩዋንዳRWterritorieslocaleDisplayNames
+ሀይቲHTterritorieslocaleDisplayNames
+ቺሊCLterritorieslocaleDisplayNames
+አይስላንድISterritorieslocaleDisplayNames
+ስሎቫኪያSKterritorieslocaleDisplayNames
+ሞሪቴኒያMRterritorieslocaleDisplayNames
+ሳሞአWSterritorieslocaleDisplayNames
+ናኡሩNRterritorieslocaleDisplayNames
+ዩ ኤስUSterritorieslocaleDisplayNames
+ቦሊቪያBOterritorieslocaleDisplayNames
+ቦትስዋናBWterritorieslocaleDisplayNames
+ሰሜናዊ አውሮፓ154territorieslocaleDisplayNames
+ክሮኤሽያHRterritorieslocaleDisplayNames
+ጀርመንDEterritorieslocaleDisplayNames
+ህንድINterritorieslocaleDisplayNames
+መካከለኛው እሲያ143territorieslocaleDisplayNames
+የአውሮፓ ዞንEZterritorieslocaleDisplayNames
+ምስራቅ ቲሞርTLterritorieslocaleDisplayNames
+ደቡብ ኮሪያKRterritorieslocaleDisplayNames
+የቱርኮችና የካኢኮስ ደሴቶችTCterritorieslocaleDisplayNames
+ሊቢያLYterritorieslocaleDisplayNames
+ሊቱዌኒያLTterritorieslocaleDisplayNames
+ካሜሩንCMterritorieslocaleDisplayNames
+ፈረንሳይFRterritorieslocaleDisplayNames
+ግሬናዳGDterritorieslocaleDisplayNames
+ሳን ማሪኖSMterritorieslocaleDisplayNames
+አሜሪካ019territorieslocaleDisplayNames
+የፋሮ ደሴቶችFOterritorieslocaleDisplayNames
+ቅዱስ በርቴሎሜBLterritorieslocaleDisplayNames
+ጀርሲJEterritorieslocaleDisplayNames
+ደቡብ አፍሪካZAterritorieslocaleDisplayNames
+ሊባኖስLBterritorieslocaleDisplayNames
+ፊሊፒንስPHterritorieslocaleDisplayNames
+ካምቦዲያKHterritorieslocaleDisplayNames
+ዩጋንዳUGterritorieslocaleDisplayNames
+መካከለኛው አፍሪካ017territorieslocaleDisplayNames
+አውሮፓ150territorieslocaleDisplayNames
+ስፔንESterritorieslocaleDisplayNames
+ፊጂFJterritorieslocaleDisplayNames
+ታንዛኒያTZterritorieslocaleDisplayNames
+ሞንጎሊያMNterritorieslocaleDisplayNames
+ሆንግ ኮንግHKterritorieslocaleDisplayNames
+ሱማሌSOterritorieslocaleDisplayNames
+ሜክሲኮMXterritorieslocaleDisplayNames
+ማልታMTterritorieslocaleDisplayNames
+ካዛኪስታንKZterritorieslocaleDisplayNames
+ሰሜናዊ አሜሪካ021territorieslocaleDisplayNames
+አንታርክቲካAQterritorieslocaleDisplayNames
+ኮሎምቢያCOterritorieslocaleDisplayNames
+ማሊMLterritorieslocaleDisplayNames
+ቡህታንBTterritorieslocaleDisplayNames
+ቤኒንBJterritorieslocaleDisplayNames
+አሩባAWterritorieslocaleDisplayNames
+ቶንጋTOterritorieslocaleDisplayNames
+ኮንጎ (የዲሞክራቲክ ሪፐብሊክ ኮንጎ)CDterritorieslocaleDisplayNames
+ማሌዢያMYterritorieslocaleDisplayNames
+ቅዱስ ኪትስ እና ኔቪስKNterritorieslocaleDisplayNames
+ቤርሙዳBMterritorieslocaleDisplayNames
+የተባበሩት ዓረብ ኤምሬትስAEterritorieslocaleDisplayNames
+ታጃኪስታንTJterritorieslocaleDisplayNames
+ቱርክTRterritorieslocaleDisplayNames
+እስራኤልILterritorieslocaleDisplayNames
+ሰሎሞን ደሴትSBterritorieslocaleDisplayNames
+ሴኡታና ሜሊላEAterritorieslocaleDisplayNames
+ባርቤዶስBBterritorieslocaleDisplayNames
+ቼክ ሪፑብሊክCZterritorieslocaleDisplayNames
+የአሜሪካ ቨርጂን ደሴቶችVIterritorieslocaleDisplayNames
+ኡዝቤኪስታንUZterritorieslocaleDisplayNames
+ኒው ካሌዶኒያNCterritorieslocaleDisplayNames
+ጉዋምGUterritorieslocaleDisplayNames
+ዚምቧቤZWterritorieslocaleDisplayNames
+ዩክሬንUAterritorieslocaleDisplayNames
+ናይጄሪያNGterritorieslocaleDisplayNames
+የሰሜናዊ ማሪያና ደሴቶችMPterritorieslocaleDisplayNames
+የአውሮፓ ህብረትEUterritorieslocaleDisplayNames
+ኳታርQAterritorieslocaleDisplayNames
+ቬትናምVNterritorieslocaleDisplayNames
+ሞንተኔግሮMEterritorieslocaleDisplayNames
+የዩ ኤስ ጠረፍ ላይ ያሉ ደሴቶችUMterritorieslocaleDisplayNames
+ፖላንድPLterritorieslocaleDisplayNames
+ጉዋደሉፕGPterritorieslocaleDisplayNames
+ቡርኪና ፋሶBFterritorieslocaleDisplayNames
+ቻይናCNterritorieslocaleDisplayNames
+ዋሊስ እና ፉቱና ደሴቶችWFterritorieslocaleDisplayNames
+ማርሻል አይላንድMHterritorieslocaleDisplayNames
+ቱርክሜኒስታንTMterritorieslocaleDisplayNames
+ኽርድ ደሴቶችና ማክዶናልድ ደሴቶችHMterritorieslocaleDisplayNames
+ፓናማPAterritorieslocaleDisplayNames
+ሩስያRUterritorieslocaleDisplayNames
+ኒው ዚላንድNZterritorieslocaleDisplayNames
+ሞሮኮMAterritorieslocaleDisplayNames
+ላይቤሪያLRterritorieslocaleDisplayNames
+ላቲን አሜሪካ419territorieslocaleDisplayNames
+ቫኑአቱVUterritorieslocaleDisplayNames
+ኢራቅIQterritorieslocaleDisplayNames
+ሰርብያRSterritorieslocaleDisplayNames
+ኤርትራERterritorieslocaleDisplayNames
+አንዶራADterritorieslocaleDisplayNames
+የፈረንሳይ ፖሊኔዢያPFterritorieslocaleDisplayNames
+አዘርባጃንAZterritorieslocaleDisplayNames
+ፖርታ ሪኮPRterritorieslocaleDisplayNames
+ያልታወቀ ክልልZZterritorieslocaleDisplayNames
+አፍሪካ002territorieslocaleDisplayNames
+ሴንት ማርቲንMFterritorieslocaleDisplayNames
+አንቲጓ እና ባሩዳAGterritorieslocaleDisplayNames
+አርሜኒያAMterritorieslocaleDisplayNames
+ካይማን ደሴቶችKYterritorieslocaleDisplayNames
+ሱዋዚላንድSZterritorieslocaleDisplayNames
+ኮሞሮስKMterritorieslocaleDisplayNames
+ኬፕ ቬርዴCVterritorieslocaleDisplayNames
+ኮስታሪካCRterritorieslocaleDisplayNames
+ከሰሃራ በታች አፍሪካ202territorieslocaleDisplayNames
+ሳውድአረቢያSAterritorieslocaleDisplayNames
+ቱኒዚያTNterritorieslocaleDisplayNames
+ቅዱስ ፒዬር እና ሚኩኤሎንPMterritorieslocaleDisplayNames
+የብሪታኒያ ህንድ ውቂያኖስ ግዛትIOterritorieslocaleDisplayNames
+ናሚቢያNAterritorieslocaleDisplayNames
+ዛምቢያZMterritorieslocaleDisplayNames
+ቫቲካን ከተማVAterritorieslocaleDisplayNames
+ፓራጓይPYterritorieslocaleDisplayNames
+የመካከለኛው አፍሪካ ሪፐብሊክCFterritorieslocaleDisplayNames
+ኢኳዶርECterritorieslocaleDisplayNames
+ብሩኒBNterritorieslocaleDisplayNames
+ምዕራባዊ ሳህራEHterritorieslocaleDisplayNames
+ጆርጂያGEterritorieslocaleDisplayNames
+ፖርቱጋልPTterritorieslocaleDisplayNames
+ኩክ ደሴቶችCKterritorieslocaleDisplayNames
+እሲያ142territorieslocaleDisplayNames
+ምዕራባዊ እስያ145territorieslocaleDisplayNames
+ኢኳቶሪያል ጊኒGQterritorieslocaleDisplayNames
+ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶችGSterritorieslocaleDisplayNames
+ኪሪባቲKIterritorieslocaleDisplayNames
+ላትቪያLVterritorieslocaleDisplayNames
+ጃማይካJMterritorieslocaleDisplayNames
+የአላንድ ደሴቶችAXterritorieslocaleDisplayNames
+ዩኬGBterritorieslocaleDisplayNames
+ጂብራልተርGIterritorieslocaleDisplayNames
+የካናሪ ደሴቶችICterritorieslocaleDisplayNames
+ሀንጋሪHUterritorieslocaleDisplayNames
+የጋራZyyyscriptslocaleDisplayNames
+ቫይVaiiscriptslocaleDisplayNames
+ያልታወቀ ስክሪፕትZzzzscriptslocaleDisplayNames
+ኡጋሪቲክUgarscriptslocaleDisplayNames
+ታናThaascriptslocaleDisplayNames
+ክህመርKhmrscriptslocaleDisplayNames
+ቲቤታንTibtscriptslocaleDisplayNames
+ኦግሀምOgamscriptslocaleDisplayNames
+ሲፕሪኦትCprtscriptslocaleDisplayNames
+ሊምቡLimbscriptslocaleDisplayNames
+ጉርሙኪGuruscriptslocaleDisplayNames
+ሩኒክRunrscriptslocaleDisplayNames
+ZsyeZsyescriptslocaleDisplayNames
+ታጋሎግTglgscriptslocaleDisplayNames
+ሀኑኦHanoscriptslocaleDisplayNames
+ካታካናKanascriptslocaleDisplayNames
+ሂራጋናHirascriptslocaleDisplayNames
+ጆርጂያዊGeorscriptslocaleDisplayNames
+የሻቪያ ፊደልShawscriptslocaleDisplayNames
+ፔርሶ - አረቢክArabscriptslocaleDisplayNames
+ግሪክGrekscriptslocaleDisplayNames
+ደቫንጋሪDevascriptslocaleDisplayNames
+እብራይስጥHebrscriptslocaleDisplayNames
+አዲስ ታኢ ሉTaluscriptslocaleDisplayNames
+ተሉጉTeluscriptslocaleDisplayNames
+ዪYiiiscriptslocaleDisplayNames
+ሞንጎሊያኛMongscriptslocaleDisplayNames
+ቦፖሞፎBoposcriptslocaleDisplayNames
+ሊኒያር ቢLinbscriptslocaleDisplayNames
+ካንአዳKndascriptslocaleDisplayNames
+ያልተጻፈZxxxscriptslocaleDisplayNames
+ሲንሃላSinhscriptslocaleDisplayNames
+ማላያልምMlymscriptslocaleDisplayNames
+ጃሞJamoscriptslocaleDisplayNames
+ቀለል ያለ ሃንHansscriptslocaleDisplayNames
+ትአግባንዋTagbscriptslocaleDisplayNames
+ዴዘረትDsrtscriptslocaleDisplayNames
+ሃንብHanbscriptslocaleDisplayNames
+የተዋሐዱ የካናዳ ጥንታዊ ምልክቶችCansscriptslocaleDisplayNames
+የተወረሰZinhscriptslocaleDisplayNames
+ታይThaiscriptslocaleDisplayNames
+ላቲንLatnscriptslocaleDisplayNames
+ኮሪያኛKorescriptslocaleDisplayNames
+ቼሮኪCherscriptslocaleDisplayNames
+ሲይሪልክCyrlscriptslocaleDisplayNames
+ታሚልTamlscriptslocaleDisplayNames
+ታኢ ለTalescriptslocaleDisplayNames
+ኦስማኒያOsmascriptslocaleDisplayNames
+ላኦLaooscriptslocaleDisplayNames
+ቤንጋሊBengscriptslocaleDisplayNames
+ምልክቶችZsymscriptslocaleDisplayNames
+ZmthZmthscriptslocaleDisplayNames
+ሲሪክSyrcscriptslocaleDisplayNames
+ኦሪያOryascriptslocaleDisplayNames
+አርሜንያዊArmnscriptslocaleDisplayNames
+ሊኒያር ኤLinascriptslocaleDisplayNames
+ቡሂድBuhdscriptslocaleDisplayNames
+ብሬይልBraiscriptslocaleDisplayNames
+ኮፕቲክCoptscriptslocaleDisplayNames
+ጉጃራቲGujrscriptslocaleDisplayNames
+ሃንHaniscriptslocaleDisplayNames
+ሐንጉልHangscriptslocaleDisplayNames
+ምያንማርMymrscriptslocaleDisplayNames
+ጃፓንኛJpanscriptslocaleDisplayNames
+ጐቲክGothscriptslocaleDisplayNames
+ካታካና ወይንም ሂራጋናHrktscriptslocaleDisplayNames
+ኢትዮፒክEthiscriptslocaleDisplayNames
+ባህላዊ ሃንHantscriptslocaleDisplayNames
+[.․﹒．｡].stricternumberparseLenientscharacterslocaleDisplayNames
+[,٫︐﹐，],stricternumberparseLenientscharacterslocaleDisplayNames
+[+⁺₊➕﬩﹢＋]+lenientnumberparseLenientscharacterslocaleDisplayNames
+[\-‒⁻₋−➖﹣－]-lenientnumberparseLenientscharacterslocaleDisplayNames
+[,،٫、︐︑﹐﹑，､],lenientnumberparseLenientscharacterslocaleDisplayNames
+[\:∶]:lenientdateparseLenientscharacterslocaleDisplayNames
+[\--/]-lenientdateparseLenientscharacterslocaleDisplayNames
+[₨₹{Rp}{Rs}]₹lenientgeneralparseLenientscharacterslocaleDisplayNames
+[\$﹩＄$]$lenientgeneralparseLenientscharacterslocaleDisplayNames
+[.․。︒﹒．｡].lenientgeneralparseLenientscharacterslocaleDisplayNames
+[£₤]£lenientgeneralparseLenientscharacterslocaleDisplayNames
+slantedstandard12slntstyleNametypographicNames
+uprightstandard0slntstyleNametypographicNames
+backslantedstandard-12slntstyleNametypographicNames
+extra-slantedstandard24slntstyleNametypographicNames
+displaystandard72opszstyleNametypographicNames
+titlingstandard18opszstyleNametypographicNames
+posterstandard144opszstyleNametypographicNames
+textstandard12opszstyleNametypographicNames
+captionstandard8opszstyleNametypographicNames
+cursivestandard1italstyleNametypographicNames
+mediumstandard500wghtstyleNametypographicNames
+ultralightultra200wghtstyleNametypographicNames
+extra-lightstandard200wghtstyleNametypographicNames
+bookstandard380wghtstyleNametypographicNames
+semilightstandard350wghtstyleNametypographicNames
+heavyheavy900wghtstyleNametypographicNames
+blackstandard900wghtstyleNametypographicNames
+extra-blackstandard950wghtstyleNametypographicNames
+ultraheavyultraheavy950wghtstyleNametypographicNames
+ultrablackultrablack950wghtstyleNametypographicNames
+thinstandard100wghtstyleNametypographicNames
+regularstandard400wghtstyleNametypographicNames
+extra-boldstandard800wghtstyleNametypographicNames
+lightstandard300wghtstyleNametypographicNames
+boldstandard700wghtstyleNametypographicNames
+demibolddemi600wghtstyleNametypographicNames
+semiboldstandard600wghtstyleNametypographicNames
+widewide125wdthstyleNametypographicNames
+expandedstandard125wdthstyleNametypographicNames
+extendedextended125wdthstyleNametypographicNames
+semiexpandedstandard112.5wdthstyleNametypographicNames
+semiextendedextended112.5wdthstyleNametypographicNames
+semiwidewide112.5wdthstyleNametypographicNames
+compressedcompressed75wdthstyleNametypographicNames
+compressednarrow75wdthstyleNametypographicNames
+condensedstandard75wdthstyleNametypographicNames
+seminarrownarrow87.5wdthstyleNametypographicNames
+semicompressedcompressed87.5wdthstyleNametypographicNames
+semicondensedstandard87.5wdthstyleNametypographicNames
+extra-widewide150wdthstyleNametypographicNames
+extra-expandedstandard150wdthstyleNametypographicNames
+extra-extendedextended150wdthstyleNametypographicNames
+normalstandard100wdthstyleNametypographicNames
+ultracondensedstandard50wdthstyleNametypographicNames
+ultranarrownarrow50wdthstyleNametypographicNames
+ultracompressedcompressed50wdthstyleNametypographicNames
+extra-compressedcompressed62.5wdthstyleNametypographicNames
+extra-narrownarrow62.5wdthstyleNametypographicNames
+extra-condensedstandard62.5wdthstyleNametypographicNames
+ultrawidewide200wdthstyleNametypographicNames
+ultraexpandedstandard200wdthstyleNametypographicNames
+ultraextendedextended200wdthstyleNametypographicNames
+widthwdthaxisNametypographicNames
+weightwghtaxisNametypographicNames
+optical sizeopszaxisNametypographicNames
+italicitalaxisNametypographicNames
+slantslntaxisNametypographicNames
+slashed zerozerofeatureNametypographicNames
+diagonal fractionsfracfeatureNametypographicNames
+tabular numberstnumfeatureNametypographicNames
+lining numberslnumfeatureNametypographicNames
+old-style figuresonumfeatureNametypographicNames
+ordinalsordnfeatureNametypographicNames
+vertical fractionsafrcfeatureNametypographicNames
+optional ligaturesdligfeatureNametypographicNames
+proportional numberspnumfeatureNametypographicNames
+small capitalssmcpfeatureNametypographicNames
+capital spacingcpspfeatureNametypographicNames
+{0}ምዕwestcoordinateUnitlongunits
+{0}ደsouthcoordinateUnitlongunits
+{0}ምስeastcoordinateUnitlongunits
+{0}ሰnorthcoordinateUnitlongunits
+ዓቢይ አቅጣጫdisplayNamecoordinateUnitlongunits
+{0} በ{1}patternpercompoundUnitlongunits
+ሊትሮች በ100 ኪሎሜትሮችdisplayNameconsumption-liter-per-100kilometersunitlongunits
+{0} ሊትሮች በ100 ኪሎሜትሮችotherpatternconsumption-liter-per-100kilometersunitlongunits
+{0} ሊትር በ100 ኪሎሜትሮችonepatternconsumption-liter-per-100kilometersunitlongunits
+cupdisplayNamevolume-cupunitlongunits
+{0} cotherpatternvolume-cupunitlongunits
+{0} conepatternvolume-cupunitlongunits
+ptdisplayNamevolume-pintunitlongunits
+{0} ptotherpatternvolume-pintunitlongunits
+{0} ptonepatternvolume-pintunitlongunits
+{0} ደቂቃotherpatternangle-arc-minuteunitlongunits
+{0} ደቂቃonepatternangle-arc-minuteunitlongunits
+ደቂቃdisplayNameangle-arc-minuteunitlongunits
+ኤከር ጫማdisplayNamevolume-acre-footunitlongunits
+{0} ኤከር ጫማonepatternvolume-acre-footunitlongunits
+{0} ኤከር ጫማotherpatternvolume-acre-footunitlongunits
+ሴንቲ ሊትርdisplayNamevolume-centiliterunitlongunits
+{0} ሴንቲ ሊትርotherpatternvolume-centiliterunitlongunits
+{0} ሴንቲ ሊትርonepatternvolume-centiliterunitlongunits
+{0} nmiotherpatternlength-nautical-mileunitlongunits
+{0} nmionepatternlength-nautical-mileunitlongunits
+nmidisplayNamelength-nautical-mileunitlongunits
+ሜጋባይትdisplayNamedigital-megabyteunitlongunits
+{0} ሜጋባይትotherpatterndigital-megabyteunitlongunits
+{0} ሜጋባይትonepatterndigital-megabyteunitlongunits
+Imp. galdisplayNamevolume-gallon-imperialunitlongunits
+{0}/gal Imp.perUnitPatternvolume-gallon-imperialunitlongunits
+{0} gal Imp.onepatternvolume-gallon-imperialunitlongunits
+{0} gal Imp.otherpatternvolume-gallon-imperialunitlongunits
+{0} ኢንች³otherpatternvolume-cubic-inchunitlongunits
+{0} ኢንች³onepatternvolume-cubic-inchunitlongunits
+ኢንች³displayNamevolume-cubic-inchunitlongunits
+ኪሎባይትdisplayNamedigital-kilobitunitlongunits
+{0} ኪሎባይትonepatterndigital-kilobitunitlongunits
+{0} ኪሎባይትotherpatterndigital-kilobitunitlongunits
+{0} ካራትonepatternconcentr-karatunitlongunits
+{0} ካራትotherpatternconcentr-karatunitlongunits
+ካራትdisplayNameconcentr-karatunitlongunits
+{0} calonepatternenergy-calorieunitlongunits
+{0} calotherpatternenergy-calorieunitlongunits
+caldisplayNameenergy-calorieunitlongunits
+ሄክታርdisplayNamearea-hectareunitlongunits
+{0} ሄክታርotherpatternarea-hectareunitlongunits
+{0} ሄክታርonepatternarea-hectareunitlongunits
+{0} ቴባonepatterndigital-terabitunitlongunits
+{0} ቴባotherpatterndigital-terabitunitlongunits
+ቴራባይትስdisplayNamedigital-terabitunitlongunits
+ሚሊሜትርdisplayNamelength-millimeterunitlongunits
+{0} ሚሊሜትርotherpatternlength-millimeterunitlongunits
+{0} ሚሊሜትርonepatternlength-millimeterunitlongunits
+{0} ካሬ ኪሎሜትርonepatternarea-square-kilometerunitlongunits
+{0} ካሬ ኪሎሜትርotherpatternarea-square-kilometerunitlongunits
+{0}/ኪሜ²perUnitPatternarea-square-kilometerunitlongunits
+ካሬ ኪሎሜትርdisplayNamearea-square-kilometerunitlongunits
+{0} mptotherpatternvolume-pint-metricunitlongunits
+{0} mptonepatternvolume-pint-metricunitlongunits
+mptdisplayNamevolume-pint-metricunitlongunits
+jouledisplayNameenergy-jouleunitlongunits
+{0} Jotherpatternenergy-jouleunitlongunits
+{0} Jonepatternenergy-jouleunitlongunits
+{0} GHzotherpatternfrequency-gigahertzunitlongunits
+{0} GHzonepatternfrequency-gigahertzunitlongunits
+GHzdisplayNamefrequency-gigahertzunitlongunits
+{0} ኢንች ሜርኩሪonepatternpressure-inch-hgunitlongunits
+{0} ኢንች ሜርኩሪotherpatternpressure-inch-hgunitlongunits
+ኢንች ሜርኩሪdisplayNamepressure-inch-hgunitlongunits
+kndisplayNamespeed-knotunitlongunits
+{0} knotherpatternspeed-knotunitlongunits
+{0} knonepatternspeed-knotunitlongunits
+oz tdisplayNamemass-ounce-troyunitlongunits
+{0} oz totherpatternmass-ounce-troyunitlongunits
+{0} oz tonepatternmass-ounce-troyunitlongunits
+{0} tbsponepatternvolume-tablespoonunitlongunits
+{0} tbspotherpatternvolume-tablespoonunitlongunits
+tbspdisplayNamevolume-tablespoonunitlongunits
+ጊጋባይትdisplayNamedigital-gigabitunitlongunits
+{0} ጊጋባይትonepatterndigital-gigabitunitlongunits
+{0} ጊጋባይትotherpatterndigital-gigabitunitlongunits
+{0} pcotherpatternlength-parsecunitlongunits
+{0} pconepatternlength-parsecunitlongunits
+pcdisplayNamelength-parsecunitlongunits
+{0} ፓውንድonepatternmass-poundunitlongunits
+{0} ፓውንድotherpatternmass-poundunitlongunits
+{0}/ፓውንድperUnitPatternmass-poundunitlongunits
+ፓውንድdisplayNamemass-poundunitlongunits
+{0} ግራምotherpatternmass-gramunitlongunits
+{0} ግራምonepatternmass-gramunitlongunits
+ግራምdisplayNamemass-gramunitlongunits
+{0}/ግራምperUnitPatternmass-gramunitlongunits
+{0} ዲግሪ ፋራንሃይትonepatterntemperature-fahrenheitunitlongunits
+{0} ዲግሪ ፋራንሃይትotherpatterntemperature-fahrenheitunitlongunits
+ዲግሪ ፋራንሃይትdisplayNametemperature-fahrenheitunitlongunits
+ጂ-ኃይልdisplayNameacceleration-g-forceunitlongunits
+{0} ጂ-ኃይልonepatternacceleration-g-forceunitlongunits
+{0} ጂ-ኃይልotherpatternacceleration-g-forceunitlongunits
+ሰከንድdisplayNameangle-arc-secondunitlongunits
+{0} ሰከንድonepatternangle-arc-secondunitlongunits
+{0} ሰከንድotherpatternangle-arc-secondunitlongunits
+ሜትር በሰከንድdisplayNamespeed-meter-per-secondunitlongunits
+{0} ሜትር በሰከንድotherpatternspeed-meter-per-secondunitlongunits
+{0} ሜትር በሰከንድonepatternspeed-meter-per-secondunitlongunits
+{0} ሚሊሰከንድonepatternduration-millisecondunitlongunits
+{0} ሚሊሰከንድotherpatternduration-millisecondunitlongunits
+ሚሊሰከንድdisplayNameduration-millisecondunitlongunits
+{0} ዲግሪ ሴልሺየስotherpatterntemperature-celsiusunitlongunits
+{0} ዲግሪ ሴልሺየስonepatterntemperature-celsiusunitlongunits
+ዲግሪ ሴልሺየስdisplayNametemperature-celsiusunitlongunits
+CaldisplayNameenergy-foodcalorieunitlongunits
+{0} Calonepatternenergy-foodcalorieunitlongunits
+{0} Calotherpatternenergy-foodcalorieunitlongunits
+CDdisplayNamemass-caratunitlongunits
+{0} CDotherpatternmass-caratunitlongunits
+{0} CDonepatternmass-caratunitlongunits
+mm HgdisplayNamepressure-millimeter-of-mercuryunitlongunits
+{0} mm Hgotherpatternpressure-millimeter-of-mercuryunitlongunits
+{0} mm Hgonepatternpressure-millimeter-of-mercuryunitlongunits
+{0} ምዕተ ዓመትonepatternduration-centuryunitlongunits
+{0} ምዕተ ዓመትotherpatternduration-centuryunitlongunits
+ምዕተ ዓመትdisplayNameduration-centuryunitlongunits
+የፈረስ ጉልበትdisplayNamepower-horsepowerunitlongunits
+{0} የፈረስ ጉልበትotherpatternpower-horsepowerunitlongunits
+{0} የፈረስ ጉልበትonepatternpower-horsepowerunitlongunits
+{0} tonepatternmass-metric-tonunitlongunits
+{0} totherpatternmass-metric-tonunitlongunits
+tdisplayNamemass-metric-tonunitlongunits
+{0} ኤክርotherpatternarea-acreunitlongunits
+{0} ኤክርonepatternarea-acreunitlongunits
+ኤክርdisplayNamearea-acreunitlongunits
+{0} galonepatternvolume-gallonunitlongunits
+{0} galotherpatternvolume-gallonunitlongunits
+{0}/galperUnitPatternvolume-gallonunitlongunits
+galdisplayNamevolume-gallonunitlongunits
+{0} kHzonepatternfrequency-kilohertzunitlongunits
+{0} kHzotherpatternfrequency-kilohertzunitlongunits
+kHzdisplayNamefrequency-kilohertzunitlongunits
+voltdisplayNameelectric-voltunitlongunits
+{0} Vonepatternelectric-voltunitlongunits
+{0} Votherpatternelectric-voltunitlongunits
+{0} ሚሊባርotherpatternpressure-millibarunitlongunits
+{0} ሚሊባርonepatternpressure-millibarunitlongunits
+ሚሊባርdisplayNamepressure-millibarunitlongunits
+{0} ሜባonepatterndigital-megabitunitlongunits
+{0} ሜባotherpatterndigital-megabitunitlongunits
+ሜባdisplayNamedigital-megabitunitlongunits
+{0} ኪሎግራምonepatternmass-kilogramunitlongunits
+{0} ኪሎግራምotherpatternmass-kilogramunitlongunits
+ኪሎግራምdisplayNamemass-kilogramunitlongunits
+{0}/ኪሎግራምperUnitPatternmass-kilogramunitlongunits
+ሜ/ሰ²displayNameacceleration-meter-per-second-squaredunitlongunits
+{0} ሜ/ሰ²onepatternacceleration-meter-per-second-squaredunitlongunits
+{0} ሜ/ሰ²otherpatternacceleration-meter-per-second-squaredunitlongunits
+{0} GWonepatternpower-gigawattunitlongunits
+{0} GWotherpatternpower-gigawattunitlongunits
+GWdisplayNamepower-gigawattunitlongunits
+ኪሎሜትር በሰዓትdisplayNamespeed-kilometer-per-hourunitlongunits
+{0} ኪሎሜትር በሰዓትotherpatternspeed-kilometer-per-hourunitlongunits
+{0} ኪሎሜትር በሰዓትonepatternspeed-kilometer-per-hourunitlongunits
+{0} tspotherpatternvolume-teaspoonunitlongunits
+{0} tsponepatternvolume-teaspoonunitlongunits
+tspdisplayNamevolume-teaspoonunitlongunits
+mcupdisplayNamevolume-cup-metricunitlongunits
+{0} mcotherpatternvolume-cup-metricunitlongunits
+{0} mconepatternvolume-cup-metricunitlongunits
+mpg Imp.displayNameconsumption-mile-per-gallon-imperialunitlongunits
+{0} mpg Imp.onepatternconsumption-mile-per-gallon-imperialunitlongunits
+{0} mpg Imp.otherpatternconsumption-mile-per-gallon-imperialunitlongunits
+{0} ሰዓቶችotherpatternduration-hourunitlongunits
+{0} ሰዓትonepatternduration-hourunitlongunits
+ሰዓቶችdisplayNameduration-hourunitlongunits
+{0}/ሰperUnitPatternduration-hourunitlongunits
+raddisplayNameangle-radianunitlongunits
+{0} radonepatternangle-radianunitlongunits
+{0} radotherpatternangle-radianunitlongunits
+{0}/ሴሜ²perUnitPatternarea-square-centimeterunitlongunits
+ሴሜ²displayNamearea-square-centimeterunitlongunits
+{0} ሴሜ²onepatternarea-square-centimeterunitlongunits
+{0} ሴሜ²otherpatternarea-square-centimeterunitlongunits
+kJdisplayNameenergy-kilojouleunitlongunits
+{0} kJonepatternenergy-kilojouleunitlongunits
+{0} kJotherpatternenergy-kilojouleunitlongunits
+kWhdisplayNameenergy-kilowatt-hourunitlongunits
+{0} kWhonepatternenergy-kilowatt-hourunitlongunits
+{0} kWhotherpatternenergy-kilowatt-hourunitlongunits
+{0} hLonepatternvolume-hectoliterunitlongunits
+{0} hLotherpatternvolume-hectoliterunitlongunits
+hLdisplayNamevolume-hectoliterunitlongunits
+ሜ³displayNamevolume-cubic-meterunitlongunits
+{0}/ሜ³perUnitPatternvolume-cubic-meterunitlongunits
+{0} ሜ³onepatternvolume-cubic-meterunitlongunits
+{0} ሜ³otherpatternvolume-cubic-meterunitlongunits
+mWdisplayNamepower-milliwattunitlongunits
+{0} mWonepatternpower-milliwattunitlongunits
+{0} mWotherpatternpower-milliwattunitlongunits
+ሜትርdisplayNamelength-meterunitlongunits
+{0}/ሜperUnitPatternlength-meterunitlongunits
+{0} ሜትርotherpatternlength-meterunitlongunits
+{0} ሜትርonepatternlength-meterunitlongunits
+ሴንቲሜትርdisplayNamelength-centimeterunitlongunits
+{0}/ሴሜperUnitPatternlength-centimeterunitlongunits
+{0} ሴንቲሜትርonepatternlength-centimeterunitlongunits
+{0} ሴንቲሜትርotherpatternlength-centimeterunitlongunits
+{0} ናኖ ሜትርotherpatternlength-nanometerunitlongunits
+{0} ናኖ ሜትርonepatternlength-nanometerunitlongunits
+ናኖ ሜትርdisplayNamelength-nanometerunitlongunits
+lxdisplayNamelight-luxunitlongunits
+{0} lxonepatternlight-luxunitlongunits
+{0} lxotherpatternlight-luxunitlongunits
+ማይል በሰዓትdisplayNamespeed-mile-per-hourunitlongunits
+{0} ማይል በሰዓትotherpatternspeed-mile-per-hourunitlongunits
+{0} ማይል በሰዓትonepatternspeed-mile-per-hourunitlongunits
+{0} ደቂቃonepatternduration-minuteunitlongunits
+{0} ደቂቃዎችotherpatternduration-minuteunitlongunits
+{0}/ደperUnitPatternduration-minuteunitlongunits
+ደቂቃዎችdisplayNameduration-minuteunitlongunits
+ካሬ ጫማdisplayNamearea-square-footunitlongunits
+{0} ካሬ ጫማotherpatternarea-square-footunitlongunits
+{0} ካሬ ጫማonepatternarea-square-footunitlongunits
+{0} ስማይልotherpatternlength-mile-scandinavianunitlongunits
+{0} ስማይልonepatternlength-mile-scandinavianunitlongunits
+ስማይልdisplayNamelength-mile-scandinavianunitlongunits
+ፐርሰንትdisplayNameconcentr-percentunitlongunits
+{0} ፐርሰንትotherpatternconcentr-percentunitlongunits
+{0} ፐርሰንትonepatternconcentr-percentunitlongunits
+°displayNametemperature-genericunitlongunits
+{0}°otherpatterntemperature-genericunitlongunits
+{0}°onepatterntemperature-genericunitlongunits
+{0}/ማይል²perUnitPatternarea-square-mileunitlongunits
+ካሬ ማይልdisplayNamearea-square-mileunitlongunits
+{0} ካሬ ማይልotherpatternarea-square-mileunitlongunits
+{0} ካሬ ማይልonepatternarea-square-mileunitlongunits
+{0}/ጫማperUnitPatternlength-footunitlongunits
+ጫማdisplayNamelength-footunitlongunits
+{0} ጫማotherpatternlength-footunitlongunits
+{0} ጫማonepatternlength-footunitlongunits
+MWdisplayNamepower-megawattunitlongunits
+{0} MWotherpatternpower-megawattunitlongunits
+{0} MWonepatternpower-megawattunitlongunits
+ኪሎዋትdisplayNamepower-kilowattunitlongunits
+{0} ኪሎዋትonepatternpower-kilowattunitlongunits
+{0} ኪሎዋትotherpatternpower-kilowattunitlongunits
+psidisplayNamepressure-pound-per-square-inchunitlongunits
+{0} psionepatternpressure-pound-per-square-inchunitlongunits
+{0} psiotherpatternpressure-pound-per-square-inchunitlongunits
+audisplayNamelength-astronomical-unitunitlongunits
+{0} auotherpatternlength-astronomical-unitunitlongunits
+{0} auonepatternlength-astronomical-unitunitlongunits
+yd²displayNamearea-square-yardunitlongunits
+{0} yd²otherpatternarea-square-yardunitlongunits
+{0} yd²onepatternarea-square-yardunitlongunits
+ቶንdisplayNamemass-tonunitlongunits
+{0} ቶንotherpatternmass-tonunitlongunits
+{0} ቶንonepatternmass-tonunitlongunits
+{0} ወራትotherpatternduration-monthunitlongunits
+{0} ወርonepatternduration-monthunitlongunits
+{0}/ወperUnitPatternduration-monthunitlongunits
+ወራትdisplayNameduration-monthunitlongunits
+{0} ጫማ³otherpatternvolume-cubic-footunitlongunits
+{0} ጫማ³onepatternvolume-cubic-footunitlongunits
+ጫማ³displayNamevolume-cubic-footunitlongunits
+{0} ባይትotherpatterndigital-byteunitlongunits
+{0} ባይትonepatterndigital-byteunitlongunits
+ባይትdisplayNamedigital-byteunitlongunits
+mmol/LdisplayNameconcentr-millimole-per-literunitlongunits
+{0} mmol/Lotherpatternconcentr-millimole-per-literunitlongunits
+{0} mmol/Lonepatternconcentr-millimole-per-literunitlongunits
+{0} ማይልotherpatternlength-mileunitlongunits
+{0} ማይልonepatternlength-mileunitlongunits
+ማይልdisplayNamelength-mileunitlongunits
+ኩቢክ ማይልdisplayNamevolume-cubic-mileunitlongunits
+{0} ኩቢክ ማይልotherpatternvolume-cubic-mileunitlongunits
+{0} ኩቢክ ማይልonepatternvolume-cubic-mileunitlongunits
+{0} ዓመታትotherpatternduration-yearunitlongunits
+{0} ዓመትonepatternduration-yearunitlongunits
+ዓመታትdisplayNameduration-yearunitlongunits
+{0}/ዓperUnitPatternduration-yearunitlongunits
+{0} ኢንችotherpatternlength-inchunitlongunits
+{0} ኢንችonepatternlength-inchunitlongunits
+{0}/ኢንችperUnitPatternlength-inchunitlongunits
+ኢንችdisplayNamelength-inchunitlongunits
+mgdisplayNamemass-milligramunitlongunits
+{0} mgotherpatternmass-milligramunitlongunits
+{0} mgonepatternmass-milligramunitlongunits
+{0} Aotherpatternelectric-ampereunitlongunits
+{0} Aonepatternelectric-ampereunitlongunits
+ampdisplayNameelectric-ampereunitlongunits
+ጊባdisplayNamedigital-gigabyteunitlongunits
+{0} ጊባotherpatterndigital-gigabyteunitlongunits
+{0} ጊባonepatterndigital-gigabyteunitlongunits
+{0} ፔታ ባይቶችotherpatterndigital-petabyteunitlongunits
+{0} ፔታ ባይትonepatterndigital-petabyteunitlongunits
+ፔታ ባይትdisplayNamedigital-petabyteunitlongunits
+{0} mg/dLotherpatternconcentr-milligram-per-deciliterunitlongunits
+{0} mg/dLonepatternconcentr-milligram-per-deciliterunitlongunits
+ሚሊ ግራም በ ዴሲ ሊትርdisplayNameconcentr-milligram-per-deciliterunitlongunits
+{0} kcalonepatternenergy-kilocalorieunitlongunits
+{0} kcalotherpatternenergy-kilocalorieunitlongunits
+kcaldisplayNameenergy-kilocalorieunitlongunits
+{0} ዴሲ ሜትርonepatternlength-decimeterunitlongunits
+{0} ዴሲ ሜትርotherpatternlength-decimeterunitlongunits
+ዴሲ ሜትርdisplayNamelength-decimeterunitlongunits
+yd³displayNamevolume-cubic-yardunitlongunits
+{0} yd³onepatternvolume-cubic-yardunitlongunits
+{0} yd³otherpatternvolume-cubic-yardunitlongunits
+{0} ኢንች²onepatternarea-square-inchunitlongunits
+{0} ኢንች²otherpatternarea-square-inchunitlongunits
+ኢንች²displayNamearea-square-inchunitlongunits
+{0}/ኢንች²perUnitPatternarea-square-inchunitlongunits
+በማይልdisplayNameconcentr-permilleunitlongunits
+{0}‰otherpatternconcentr-permilleunitlongunits
+{0} በማይልonepatternconcentr-permilleunitlongunits
+ዲግሪdisplayNameangle-degreeunitlongunits
+{0} ዲግሪonepatternangle-degreeunitlongunits
+{0} ዲግሪotherpatternangle-degreeunitlongunits
+ኪሎሜትርdisplayNamelength-kilometerunitlongunits
+{0}/ኪሜperUnitPatternlength-kilometerunitlongunits
+{0} ኪሎሜትርonepatternlength-kilometerunitlongunits
+{0} ኪሎሜትርotherpatternlength-kilometerunitlongunits
+{0} ናኖሰከንድotherpatternduration-nanosecondunitlongunits
+{0} ናኖሰከንድonepatternduration-nanosecondunitlongunits
+ናኖሰከንድdisplayNameduration-nanosecondunitlongunits
+ppmdisplayNameconcentr-part-per-millionunitlongunits
+{0} ppmotherpatternconcentr-part-per-millionunitlongunits
+{0} ppmonepatternconcentr-part-per-millionunitlongunits
+{0} revonepatternangle-revolutionunitlongunits
+{0} revotherpatternangle-revolutionunitlongunits
+revdisplayNameangle-revolutionunitlongunits
+{0} mAotherpatternelectric-milliampereunitlongunits
+{0} mAonepatternelectric-milliampereunitlongunits
+mAdisplayNameelectric-milliampereunitlongunits
+ቢትdisplayNamedigital-bitunitlongunits
+{0} ቢትotherpatterndigital-bitunitlongunits
+{0} ቢትonepatterndigital-bitunitlongunits
+ohmdisplayNameelectric-ohmunitlongunits
+{0} Ωonepatternelectric-ohmunitlongunits
+{0} Ωotherpatternelectric-ohmunitlongunits
+{0} mpgonepatternconsumption-mile-per-gallonunitlongunits
+{0} mpgotherpatternconsumption-mile-per-gallonunitlongunits
+mpgdisplayNameconsumption-mile-per-gallonunitlongunits
+{0}/ሊትርperUnitPatternvolume-literunitlongunits
+ሊትርdisplayNamevolume-literunitlongunits
+{0} ሊትርotherpatternvolume-literunitlongunits
+{0} ሊትርonepatternvolume-literunitlongunits
+{0} ሳምንትonepatternduration-weekunitlongunits
+{0} ሳምንታትotherpatternduration-weekunitlongunits
+ሳምንታትdisplayNameduration-weekunitlongunits
+{0}/ሳperUnitPatternduration-weekunitlongunits
+ኩቢክ ኪሎሜትርdisplayNamevolume-cubic-kilometerunitlongunits
+{0} ኩቢክ ኪሎሜትርonepatternvolume-cubic-kilometerunitlongunits
+{0} ኩቢክ ኪሎሜትርotherpatternvolume-cubic-kilometerunitlongunits
+ማይክሮሰከንድdisplayNameduration-microsecondunitlongunits
+{0} ማይክሮሰከንድonepatternduration-microsecondunitlongunits
+{0} ማይክሮሰከንድotherpatternduration-microsecondunitlongunits
+{0} MHzonepatternfrequency-megahertzunitlongunits
+{0} MHzotherpatternfrequency-megahertzunitlongunits
+MHzdisplayNamefrequency-megahertzunitlongunits
+ነጥብdisplayNamelength-pointunitlongunits
+{0} ነጥብotherpatternlength-pointunitlongunits
+{0} ነጥብonepatternlength-pointunitlongunits
+ሴሜ³displayNamevolume-cubic-centimeterunitlongunits
+{0}/ሴሜ³perUnitPatternvolume-cubic-centimeterunitlongunits
+{0} ሴሜ³otherpatternvolume-cubic-centimeterunitlongunits
+{0} ሴሜ³onepatternvolume-cubic-centimeterunitlongunits
+ሚሊ ሊትርdisplayNamevolume-milliliterunitlongunits
+{0} ሚሊ ሊትርotherpatternvolume-milliliterunitlongunits
+{0} ሚሊ ሊትርonepatternvolume-milliliterunitlongunits
+{0} ቀናትonepatternduration-dayunitlongunits
+{0} ቀናትotherpatternduration-dayunitlongunits
+ቀናትdisplayNameduration-dayunitlongunits
+{0}/ቀperUnitPatternduration-dayunitlongunits
+{0} Hzonepatternfrequency-hertzunitlongunits
+{0} Hzotherpatternfrequency-hertzunitlongunits
+HzdisplayNamefrequency-hertzunitlongunits
+የብርሃን ዓመትdisplayNamelength-light-yearunitlongunits
+{0} የብርሃን ዓመትonepatternlength-light-yearunitlongunits
+{0} የብርሃን ዓመትotherpatternlength-light-yearunitlongunits
+ያርድdisplayNamelength-yardunitlongunits
+{0} ያርድonepatternlength-yardunitlongunits
+{0} ያርድotherpatternlength-yardunitlongunits
+{0}/አውንስperUnitPatternmass-ounceunitlongunits
+አውንስdisplayNamemass-ounceunitlongunits
+{0} አውንስotherpatternmass-ounceunitlongunits
+{0} አውንስonepatternmass-ounceunitlongunits
+ከባቢ አየርdisplayNamepressure-atmosphereunitlongunits
+{0} ከባቢ አየርonepatternpressure-atmosphereunitlongunits
+{0} ከባቢ አየርotherpatternpressure-atmosphereunitlongunits
+ዋትdisplayNamepower-wattunitlongunits
+{0} ዋትotherpatternpower-wattunitlongunits
+{0} ዋትonepatternpower-wattunitlongunits
+{0} ካሬ ሜትርotherpatternarea-square-meterunitlongunits
+{0} ካሬ ሜትርonepatternarea-square-meterunitlongunits
+{0}/ሜ²perUnitPatternarea-square-meterunitlongunits
+ካሬ ሜትርdisplayNamearea-square-meterunitlongunits
+{0} Kotherpatterntemperature-kelvinunitlongunits
+{0} Konepatterntemperature-kelvinunitlongunits
+KdisplayNametemperature-kelvinunitlongunits
+{0} µgonepatternmass-microgramunitlongunits
+{0} µgotherpatternmass-microgramunitlongunits
+µgdisplayNamemass-microgramunitlongunits
+{0} ዴሲ ሊትርotherpatternvolume-deciliterunitlongunits
+{0} ዴሲ ሊትርonepatternvolume-deciliterunitlongunits
+ዴሲ ሊትርdisplayNamevolume-deciliterunitlongunits
+{0} qtotherpatternvolume-quartunitlongunits
+{0} qtonepatternvolume-quartunitlongunits
+qtdisplayNamevolume-quartunitlongunits
+{0} ሰከንዶችotherpatternduration-secondunitlongunits
+{0} ሰከንድonepatternduration-secondunitlongunits
+{0}/ሰከperUnitPatternduration-secondunitlongunits
+ሰከንዶችdisplayNameduration-secondunitlongunits
+{0} ሊ/ኪሜotherpatternconsumption-liter-per-kilometerunitlongunits
+{0} ሊ/ኪሜonepatternconsumption-liter-per-kilometerunitlongunits
+ሊ/ኪሜdisplayNameconsumption-liter-per-kilometerunitlongunits
+{0} ፒኮሜትርonepatternlength-picometerunitlongunits
+{0} ፒኮሜትርotherpatternlength-picometerunitlongunits
+ፒኮሜትርdisplayNamelength-picometerunitlongunits
+fl ozdisplayNamevolume-fluid-ounceunitlongunits
+{0} fl ozotherpatternvolume-fluid-ounceunitlongunits
+{0} fl ozonepatternvolume-fluid-ounceunitlongunits
+ኪባdisplayNamedigital-kilobyteunitlongunits
+{0} ኪባotherpatterndigital-kilobyteunitlongunits
+{0} ኪባonepatterndigital-kilobyteunitlongunits
+{0} MLonepatternvolume-megaliterunitlongunits
+{0} MLotherpatternvolume-megaliterunitlongunits
+MLdisplayNamevolume-megaliterunitlongunits
+ቴራባይትdisplayNamedigital-terabyteunitlongunits
+{0} ቴራባይትotherpatterndigital-terabyteunitlongunits
+{0} ቴራባይትonepatterndigital-terabyteunitlongunits
+{0} ማይክሮ ሜትርonepatternlength-micrometerunitlongunits
+{0} ማይክሮ ሜትርotherpatternlength-micrometerunitlongunits
+ማይክሮ ሜትርdisplayNamelength-micrometerunitlongunits
+{0} ሄክቶፓስካልotherpatternpressure-hectopascalunitlongunits
+{0} ሄክቶፓስካልonepatternpressure-hectopascalunitlongunits
+ሄክቶፓስካልdisplayNamepressure-hectopascalunitlongunits
+{0}ምዕwestcoordinateUnitnarrowunits
+{0}ደsouthcoordinateUnitnarrowunits
+{0}ምስeastcoordinateUnitnarrowunits
+አቅጣጫdisplayNamecoordinateUnitnarrowunits
+{0}ሰnorthcoordinateUnitnarrowunits
+{0}/{1}patternpercompoundUnitnarrowunits
+ቴባይትdisplayNamedigital-terabyteunitnarrowunits
+{0} ሰotherpatternduration-secondunitnarrowunits
+{0} ሰonepatternduration-secondunitnarrowunits
+ሰከንድdisplayNameduration-secondunitnarrowunits
+{0} ፒሜotherpatternlength-picometerunitnarrowunits
+{0} ፒሜonepatternlength-picometerunitnarrowunits
+{0} hPaotherpatternpressure-hectopascalunitnarrowunits
+{0} hPaonepatternpressure-hectopascalunitnarrowunits
+{0} ሜ²otherpatternarea-square-meterunitnarrowunits
+{0} ሜ²onepatternarea-square-meterunitnarrowunits
+{0} ቀonepatternduration-dayunitnarrowunits
+{0} ቀotherpatternduration-dayunitnarrowunits
+ቀናትdisplayNameduration-dayunitnarrowunits
+{0} ያርድonepatternlength-yardunitnarrowunits
+{0} ያርድotherpatternlength-yardunitnarrowunits
+{0} አውንስotherpatternmass-ounceunitnarrowunits
+{0} አውንስonepatternmass-ounceunitnarrowunits
+{0} ዋotherpatternpower-wattunitnarrowunits
+{0} ዋonepatternpower-wattunitnarrowunits
+{0} lyonepatternlength-light-yearunitnarrowunits
+{0} lyotherpatternlength-light-yearunitnarrowunits
+ሊትርdisplayNamevolume-literunitnarrowunits
+{0} ሊotherpatternvolume-literunitnarrowunits
+{0} ሊonepatternvolume-literunitnarrowunits
+{0} ኪሜ³onepatternvolume-cubic-kilometerunitnarrowunits
+{0} ኪሜ³otherpatternvolume-cubic-kilometerunitnarrowunits
+{0} ሳምንትonepatternduration-weekunitnarrowunits
+{0} ሳምንትotherpatternduration-weekunitnarrowunits
+ሳምንታትdisplayNameduration-weekunitnarrowunits
+{0} ኪሜotherpatternlength-kilometerunitnarrowunits
+{0} ኪሜonepatternlength-kilometerunitnarrowunits
+ኪሎሜትርdisplayNamelength-kilometerunitnarrowunits
+{0}°onepatternangle-degreeunitnarrowunits
+{0}°otherpatternangle-degreeunitnarrowunits
+{0} ዓotherpatternduration-yearunitnarrowunits
+{0} ዓመትonepatternduration-yearunitnarrowunits
+ዓመታትdisplayNameduration-yearunitnarrowunits
+{0} ማይል³otherpatternvolume-cubic-mileunitnarrowunits
+{0} ማይል³onepatternvolume-cubic-mileunitnarrowunits
+ወራትdisplayNameduration-monthunitnarrowunits
+{0} ወርonepatternduration-monthunitnarrowunits
+{0} ወርotherpatternduration-monthunitnarrowunits
+{0} ማይልonepatternlength-mileunitnarrowunits
+{0} ማይልotherpatternlength-mileunitnarrowunits
+{0} ኢንችonepatternlength-inchunitnarrowunits
+{0} ኢንችotherpatternlength-inchunitnarrowunits
+{0} ማይል²onepatternarea-square-mileunitnarrowunits
+{0} ማይል²otherpatternarea-square-mileunitnarrowunits
+{0}%otherpatternconcentr-percentunitnarrowunits
+{0}%onepatternconcentr-percentunitnarrowunits
+%displayNameconcentr-percentunitnarrowunits
+{0} ጫማotherpatternlength-footunitnarrowunits
+{0} ጫማonepatternlength-footunitnarrowunits
+{0} ኪዋonepatternpower-kilowattunitnarrowunits
+{0} ኪዋotherpatternpower-kilowattunitnarrowunits
+{0} ማይል/ሰonepatternspeed-mile-per-hourunitnarrowunits
+{0} ማይል/ሰotherpatternspeed-mile-per-hourunitnarrowunits
+{0} ጫማ²otherpatternarea-square-footunitnarrowunits
+{0} ጫማ²onepatternarea-square-footunitnarrowunits
+ደቂቃዎችdisplayNameduration-minuteunitnarrowunits
+{0} ደonepatternduration-minuteunitnarrowunits
+{0} ደotherpatternduration-minuteunitnarrowunits
+ሜትርdisplayNamelength-meterunitnarrowunits
+{0} ሜotherpatternlength-meterunitnarrowunits
+{0} ሜonepatternlength-meterunitnarrowunits
+ሴንቲሜትርdisplayNamelength-centimeterunitnarrowunits
+{0} ሴሜotherpatternlength-centimeterunitnarrowunits
+{0} ሴሜonepatternlength-centimeterunitnarrowunits
+{0} ሰonepatternduration-hourunitnarrowunits
+{0} ሰotherpatternduration-hourunitnarrowunits
+ሰዓቶችdisplayNameduration-hourunitnarrowunits
+{0} ኪሜ/ሰotherpatternspeed-kilometer-per-hourunitnarrowunits
+{0} ኪሜ/ሰonepatternspeed-kilometer-per-hourunitnarrowunits
+ኪሎሜትር በሰዓትdisplayNamespeed-kilometer-per-hourunitnarrowunits
+{0} ኪግotherpatternmass-kilogramunitnarrowunits
+{0} ኪግonepatternmass-kilogramunitnarrowunits
+ኪሎግራምdisplayNamemass-kilogramunitnarrowunits
+{0} ሚባotherpatternpressure-millibarunitnarrowunits
+{0} ሚባonepatternpressure-millibarunitnarrowunits
+{0} ኤክርonepatternarea-acreunitnarrowunits
+{0} ኤክርotherpatternarea-acreunitnarrowunits
+{0} የፈረስ ኃይልonepatternpower-horsepowerunitnarrowunits
+{0} የፈረስ ኃይልotherpatternpower-horsepowerunitnarrowunits
+{0} ጂonepatternacceleration-g-forceunitnarrowunits
+{0} ጂotherpatternacceleration-g-forceunitnarrowunits
+{0}°ፋonepatterntemperature-fahrenheitunitnarrowunits
+{0}°ፋotherpatterntemperature-fahrenheitunitnarrowunits
+ዲግሪ ሴልሺየስdisplayNametemperature-celsiusunitnarrowunits
+{0}°otherpatterntemperature-celsiusunitnarrowunits
+{0}°onepatterntemperature-celsiusunitnarrowunits
+{0} ሜ/ሴotherpatternspeed-meter-per-secondunitnarrowunits
+{0} ሜ/ሴonepatternspeed-meter-per-secondunitnarrowunits
+{0}″onepatternangle-arc-secondunitnarrowunits
+{0}″otherpatternangle-arc-secondunitnarrowunits
+ሚሊሰከንድdisplayNameduration-millisecondunitnarrowunits
+{0} ሚሴotherpatternduration-millisecondunitnarrowunits
+{0} ሚሴonepatternduration-millisecondunitnarrowunits
+ግራምdisplayNamemass-gramunitnarrowunits
+{0} ግotherpatternmass-gramunitnarrowunits
+{0} ግonepatternmass-gramunitnarrowunits
+{0} inHgonepatternpressure-inch-hgunitnarrowunits
+{0} inHgotherpatternpressure-inch-hgunitnarrowunits
+{0} ኪሜ²onepatternarea-square-kilometerunitnarrowunits
+{0} ኪሜ²otherpatternarea-square-kilometerunitnarrowunits
+{0} ፓውንድotherpatternmass-poundunitnarrowunits
+{0} ፓውንድonepatternmass-poundunitnarrowunits
+{0} ሄክታርonepatternarea-hectareunitnarrowunits
+{0} ሄክታርotherpatternarea-hectareunitnarrowunits
+ሚሊሜትርdisplayNamelength-millimeterunitnarrowunits
+{0} ሚሜonepatternlength-millimeterunitnarrowunits
+{0} ሚሜotherpatternlength-millimeterunitnarrowunits
+{0}′onepatternangle-arc-minuteunitnarrowunits
+{0}′otherpatternangle-arc-minuteunitnarrowunits
+{0}ሊበ100ኪሜotherpatternconsumption-liter-per-100kilometersunitnarrowunits
+{0}ሊበ100ኪሜonepatternconsumption-liter-per-100kilometersunitnarrowunits
+ሊትር በ100 ኪሎሜትሮችdisplayNameconsumption-liter-per-100kilometersunitnarrowunits
+{0}ምዕwestcoordinateUnitshortunits
+አቅጣጫdisplayNamecoordinateUnitshortunits
+{0}ሰnorthcoordinateUnitshortunits
+{0}ምስeastcoordinateUnitshortunits
+{0}ደsouthcoordinateUnitshortunits
+{0}/{1}patternpercompoundUnitshortunits
+ጫማ³displayNamevolume-cubic-footunitshortunits
+{0} ጫማ³otherpatternvolume-cubic-footunitshortunits
+{0} ጫማ³onepatternvolume-cubic-footunitshortunits
+ባይትdisplayNamedigital-byteunitshortunits
+{0} ባይትotherpatterndigital-byteunitshortunits
+{0} ባይትonepatterndigital-byteunitshortunits
+{0} ወራትonepatternduration-monthunitshortunits
+{0} ወራትotherpatternduration-monthunitshortunits
+ወራትdisplayNameduration-monthunitshortunits
+{0}/ወperUnitPatternduration-monthunitshortunits
+{0} mmol/Lotherpatternconcentr-millimole-per-literunitshortunits
+{0} mmol/Lonepatternconcentr-millimole-per-literunitshortunits
+mmol/LdisplayNameconcentr-millimole-per-literunitshortunits
+{0} ማይልonepatternlength-mileunitshortunits
+{0} ማይልotherpatternlength-mileunitshortunits
+ማይልdisplayNamelength-mileunitshortunits
+{0}/ዓperUnitPatternduration-yearunitshortunits
+ዓመታትdisplayNameduration-yearunitshortunits
+{0} ዓመትonepatternduration-yearunitshortunits
+{0} ዓመታትotherpatternduration-yearunitshortunits
+ኩቢክ ማይልdisplayNamevolume-cubic-mileunitshortunits
+{0} ማይል³onepatternvolume-cubic-mileunitshortunits
+{0} ማይል³otherpatternvolume-cubic-mileunitshortunits
+{0} ኢንችotherpatternlength-inchunitshortunits
+{0} ኢንችonepatternlength-inchunitshortunits
+ኢንችdisplayNamelength-inchunitshortunits
+{0}/ኢንችperUnitPatternlength-inchunitshortunits
+mgdisplayNamemass-milligramunitshortunits
+{0} mgonepatternmass-milligramunitshortunits
+{0} mgotherpatternmass-milligramunitshortunits
+{0}%onepatternconcentr-percentunitshortunits
+{0}%otherpatternconcentr-percentunitshortunits
+ፐርሰንትdisplayNameconcentr-percentunitshortunits
+°displayNametemperature-genericunitshortunits
+{0}°otherpatterntemperature-genericunitshortunits
+{0}°onepatterntemperature-genericunitshortunits
+ካሬ ማይልdisplayNamearea-square-mileunitshortunits
+{0}/ማይል²perUnitPatternarea-square-mileunitshortunits
+{0} ካሬ ማይልonepatternarea-square-mileunitshortunits
+{0} ካሬ ማይልotherpatternarea-square-mileunitshortunits
+{0} auotherpatternlength-astronomical-unitunitshortunits
+{0} auonepatternlength-astronomical-unitunitshortunits
+audisplayNamelength-astronomical-unitunitshortunits
+{0} ጫማonepatternlength-footunitshortunits
+{0} ጫማotherpatternlength-footunitshortunits
+{0}/ጫማperUnitPatternlength-footunitshortunits
+ጫማdisplayNamelength-footunitshortunits
+{0} ኪዋonepatternpower-kilowattunitshortunits
+{0} ኪዋotherpatternpower-kilowattunitshortunits
+ኪሎዋትdisplayNamepower-kilowattunitshortunits
+{0} MWonepatternpower-megawattunitshortunits
+{0} MWotherpatternpower-megawattunitshortunits
+MWdisplayNamepower-megawattunitshortunits
+psidisplayNamepressure-pound-per-square-inchunitshortunits
+{0} psiotherpatternpressure-pound-per-square-inchunitshortunits
+{0} psionepatternpressure-pound-per-square-inchunitshortunits
+yd²displayNamearea-square-yardunitshortunits
+{0} yd²onepatternarea-square-yardunitshortunits
+{0} yd²otherpatternarea-square-yardunitshortunits
+{0} ቶንotherpatternmass-tonunitshortunits
+{0} ቶንonepatternmass-tonunitshortunits
+ቶንdisplayNamemass-tonunitshortunits
+ኪሎሜትርdisplayNamelength-kilometerunitshortunits
+{0}/ኪሜperUnitPatternlength-kilometerunitshortunits
+{0} ኪሜotherpatternlength-kilometerunitshortunits
+{0} ኪሜonepatternlength-kilometerunitshortunits
+{0} ናኖሰከንድotherpatternduration-nanosecondunitshortunits
+{0} ናኖሰከንድonepatternduration-nanosecondunitshortunits
+ናኖሰከንድdisplayNameduration-nanosecondunitshortunits
+{0} ppmonepatternconcentr-part-per-millionunitshortunits
+{0} ppmotherpatternconcentr-part-per-millionunitshortunits
+ppmdisplayNameconcentr-part-per-millionunitshortunits
+revdisplayNameangle-revolutionunitshortunits
+{0} revotherpatternangle-revolutionunitshortunits
+{0} revonepatternangle-revolutionunitshortunits
+ampdisplayNameelectric-ampereunitshortunits
+{0} Aotherpatternelectric-ampereunitshortunits
+{0} Aonepatternelectric-ampereunitshortunits
+ፔ ባይትdisplayNamedigital-petabyteunitshortunits
+{0} ፔባonepatterndigital-petabyteunitshortunits
+{0} ፔባotherpatterndigital-petabyteunitshortunits
+{0} ጊባonepatterndigital-gigabyteunitshortunits
+{0} ጊባotherpatterndigital-gigabyteunitshortunits
+ጊባdisplayNamedigital-gigabyteunitshortunits
+{0} mg/dLotherpatternconcentr-milligram-per-deciliterunitshortunits
+{0} mg/dLonepatternconcentr-milligram-per-deciliterunitshortunits
+mg/dLdisplayNameconcentr-milligram-per-deciliterunitshortunits
+{0} ዴሜotherpatternlength-decimeterunitshortunits
+{0} ዴሜonepatternlength-decimeterunitshortunits
+ዴሜdisplayNamelength-decimeterunitshortunits
+{0} kcalotherpatternenergy-kilocalorieunitshortunits
+{0} kcalonepatternenergy-kilocalorieunitshortunits
+kcaldisplayNameenergy-kilocalorieunitshortunits
+{0} yd³onepatternvolume-cubic-yardunitshortunits
+{0} yd³otherpatternvolume-cubic-yardunitshortunits
+yd³displayNamevolume-cubic-yardunitshortunits
+በማይልdisplayNameconcentr-permilleunitshortunits
+{0}‰otherpatternconcentr-permilleunitshortunits
+{0}‰onepatternconcentr-permilleunitshortunits
+{0} ኢንች²onepatternarea-square-inchunitshortunits
+{0} ኢንች²otherpatternarea-square-inchunitshortunits
+ኢንች²displayNamearea-square-inchunitshortunits
+{0}/ኢንች²perUnitPatternarea-square-inchunitshortunits
+{0}°ዲግሪonepatternangle-degreeunitshortunits
+{0}°ዲግሪotherpatternangle-degreeunitshortunits
+ዲግሪdisplayNameangle-degreeunitshortunits
+{0}/ሊትርperUnitPatternvolume-literunitshortunits
+ሊትርdisplayNamevolume-literunitshortunits
+{0} ሊotherpatternvolume-literunitshortunits
+{0} ሊonepatternvolume-literunitshortunits
+ማይክሮሰከንድdisplayNameduration-microsecondunitshortunits
+{0} ማሰonepatternduration-microsecondunitshortunits
+{0} ማሰotherpatternduration-microsecondunitshortunits
+ኩቢክ ኪሎሜትርdisplayNamevolume-cubic-kilometerunitshortunits
+{0} ኪሜ³onepatternvolume-cubic-kilometerunitshortunits
+{0} ኪሜ³otherpatternvolume-cubic-kilometerunitshortunits
+{0} MHzotherpatternfrequency-megahertzunitshortunits
+{0} MHzonepatternfrequency-megahertzunitshortunits
+MHzdisplayNamefrequency-megahertzunitshortunits
+{0}/ሳperUnitPatternduration-weekunitshortunits
+ሳምንታትdisplayNameduration-weekunitshortunits
+{0} ሳምንትonepatternduration-weekunitshortunits
+{0} ሳምንታትotherpatternduration-weekunitshortunits
+ነጥብdisplayNamelength-pointunitshortunits
+{0} ነጥብonepatternlength-pointunitshortunits
+{0} ነጥብotherpatternlength-pointunitshortunits
+{0}/ሴሜ³perUnitPatternvolume-cubic-centimeterunitshortunits
+ሴሜ³displayNamevolume-cubic-centimeterunitshortunits
+{0} ሴሜ³otherpatternvolume-cubic-centimeterunitshortunits
+{0} ሴሜ³onepatternvolume-cubic-centimeterunitshortunits
+mAdisplayNameelectric-milliampereunitshortunits
+{0} mAotherpatternelectric-milliampereunitshortunits
+{0} mAonepatternelectric-milliampereunitshortunits
+{0} Ωotherpatternelectric-ohmunitshortunits
+{0} Ωonepatternelectric-ohmunitshortunits
+ohmdisplayNameelectric-ohmunitshortunits
+ቢትdisplayNamedigital-bitunitshortunits
+{0} ቢትonepatterndigital-bitunitshortunits
+{0} ቢትotherpatterndigital-bitunitshortunits
+mpgdisplayNameconsumption-mile-per-gallonunitshortunits
+{0} mpgonepatternconsumption-mile-per-gallonunitshortunits
+{0} mpgotherpatternconsumption-mile-per-gallonunitshortunits
+ዴሊdisplayNamevolume-deciliterunitshortunits
+{0} ዴሊonepatternvolume-deciliterunitshortunits
+{0} ዴሊotherpatternvolume-deciliterunitshortunits
+qtdisplayNamevolume-quartunitshortunits
+{0} qtonepatternvolume-quartunitshortunits
+{0} qtotherpatternvolume-quartunitshortunits
+ሰከንዶችdisplayNameduration-secondunitshortunits
+{0}/ሰከperUnitPatternduration-secondunitshortunits
+{0} ሰከotherpatternduration-secondunitshortunits
+{0} ሰከonepatternduration-secondunitshortunits
+ሊ/ኪሜdisplayNameconsumption-liter-per-kilometerunitshortunits
+{0} ሊ/ኪሜonepatternconsumption-liter-per-kilometerunitshortunits
+{0} ሊ/ኪሜotherpatternconsumption-liter-per-kilometerunitshortunits
+ፒኮሜትርdisplayNamelength-picometerunitshortunits
+{0} ፒሜonepatternlength-picometerunitshortunits
+{0} ፒሜotherpatternlength-picometerunitshortunits
+{0} fl ozotherpatternvolume-fluid-ounceunitshortunits
+{0} fl ozonepatternvolume-fluid-ounceunitshortunits
+fl ozdisplayNamevolume-fluid-ounceunitshortunits
+MLdisplayNamevolume-megaliterunitshortunits
+{0} MLotherpatternvolume-megaliterunitshortunits
+{0} MLonepatternvolume-megaliterunitshortunits
+ኪባdisplayNamedigital-kilobyteunitshortunits
+{0} ኪባotherpatterndigital-kilobyteunitshortunits
+{0} ኪባonepatterndigital-kilobyteunitshortunits
+ማሜdisplayNamelength-micrometerunitshortunits
+{0} ማሜonepatternlength-micrometerunitshortunits
+{0} ማሜotherpatternlength-micrometerunitshortunits
+{0} ቴራባይትonepatterndigital-terabyteunitshortunits
+{0} ቴራባይትotherpatterndigital-terabyteunitshortunits
+ቴራባይትdisplayNamedigital-terabyteunitshortunits
+{0} ሄክቶፓስካልotherpatternpressure-hectopascalunitshortunits
+{0} ሄክቶፓስካልonepatternpressure-hectopascalunitshortunits
+ሄክቶፓስካልdisplayNamepressure-hectopascalunitshortunits
+ቀናትdisplayNameduration-dayunitshortunits
+{0}/ቀperUnitPatternduration-dayunitshortunits
+{0} ቀናትotherpatternduration-dayunitshortunits
+{0} ቀናትonepatternduration-dayunitshortunits
+{0} ሚሊ ሊትርonepatternvolume-milliliterunitshortunits
+{0} ሚሊ ሊትርotherpatternvolume-milliliterunitshortunits
+ሚሊ ሊትርdisplayNamevolume-milliliterunitshortunits
+{0} Hzotherpatternfrequency-hertzunitshortunits
+{0} Hzonepatternfrequency-hertzunitshortunits
+HzdisplayNamefrequency-hertzunitshortunits
+ያርድdisplayNamelength-yardunitshortunits
+{0} ያርድotherpatternlength-yardunitshortunits
+{0} ያርድonepatternlength-yardunitshortunits
+{0} ብዓotherpatternlength-light-yearunitshortunits
+{0} ብዓonepatternlength-light-yearunitshortunits
+የብርሃን ዓመትdisplayNamelength-light-yearunitshortunits
+{0} አውንስotherpatternmass-ounceunitshortunits
+{0} አውንስonepatternmass-ounceunitshortunits
+{0}/አውንስperUnitPatternmass-ounceunitshortunits
+አውንስdisplayNamemass-ounceunitshortunits
+{0} ከባቢ አየርotherpatternpressure-atmosphereunitshortunits
+{0} ከባቢ አየርonepatternpressure-atmosphereunitshortunits
+ከባቢ አየርdisplayNamepressure-atmosphereunitshortunits
+ዋትdisplayNamepower-wattunitshortunits
+{0} ዋotherpatternpower-wattunitshortunits
+{0} ዋonepatternpower-wattunitshortunits
+ካሬ ሜትርdisplayNamearea-square-meterunitshortunits
+{0}/ሜ²perUnitPatternarea-square-meterunitshortunits
+{0} ሜ²otherpatternarea-square-meterunitshortunits
+{0} ሜ²onepatternarea-square-meterunitshortunits
+KdisplayNametemperature-kelvinunitshortunits
+{0} Konepatterntemperature-kelvinunitshortunits
+{0} Kotherpatterntemperature-kelvinunitshortunits
+µgdisplayNamemass-microgramunitshortunits
+{0} µgotherpatternmass-microgramunitshortunits
+{0} µgonepatternmass-microgramunitshortunits
+ኪሎባይትdisplayNamedigital-kilobitunitshortunits
+{0} ኪሎባይትonepatterndigital-kilobitunitshortunits
+{0} ኪሎባይትotherpatterndigital-kilobitunitshortunits
+Imp. galdisplayNamevolume-gallon-imperialunitshortunits
+{0}/gal Imp.perUnitPatternvolume-gallon-imperialunitshortunits
+{0} gal Imp.onepatternvolume-gallon-imperialunitshortunits
+{0} gal Imp.otherpatternvolume-gallon-imperialunitshortunits
+ኢንች³displayNamevolume-cubic-inchunitshortunits
+{0} ኢንች³onepatternvolume-cubic-inchunitshortunits
+{0} ኢንች³otherpatternvolume-cubic-inchunitshortunits
+ሜጋባይትdisplayNamedigital-megabyteunitshortunits
+{0} ሜጋባይትotherpatterndigital-megabyteunitshortunits
+{0} ሜጋባይትonepatterndigital-megabyteunitshortunits
+ሄክታርdisplayNamearea-hectareunitshortunits
+{0} ሄክታርotherpatternarea-hectareunitshortunits
+{0} ሄክታርonepatternarea-hectareunitshortunits
+{0} calonepatternenergy-calorieunitshortunits
+{0} calotherpatternenergy-calorieunitshortunits
+caldisplayNameenergy-calorieunitshortunits
+{0} ካራትonepatternconcentr-karatunitshortunits
+{0} ካራትotherpatternconcentr-karatunitshortunits
+ካራትdisplayNameconcentr-karatunitshortunits
+{0} ቴባotherpatterndigital-terabitunitshortunits
+{0} ቴባonepatterndigital-terabitunitshortunits
+ቴባdisplayNamedigital-terabitunitshortunits
+{0} ሚሜotherpatternlength-millimeterunitshortunits
+{0} ሚሜonepatternlength-millimeterunitshortunits
+ሚሊሜትርdisplayNamelength-millimeterunitshortunits
+{0} ptotherpatternvolume-pintunitshortunits
+{0} ptonepatternvolume-pintunitshortunits
+ptdisplayNamevolume-pintunitshortunits
+{0} cotherpatternvolume-cupunitshortunits
+{0} conepatternvolume-cupunitshortunits
+cupdisplayNamevolume-cupunitshortunits
+ሊትር በ100 ኪሎሜትሮችdisplayNameconsumption-liter-per-100kilometersunitshortunits
+{0} ሊ/100ኪሜotherpatternconsumption-liter-per-100kilometersunitshortunits
+{0} ሊ/100ኪሜonepatternconsumption-liter-per-100kilometersunitshortunits
+{0} ደቂቃotherpatternangle-arc-minuteunitshortunits
+{0} ደቂቃonepatternangle-arc-minuteunitshortunits
+ደቂቃdisplayNameangle-arc-minuteunitshortunits
+{0} ኤከር ጫማonepatternvolume-acre-footunitshortunits
+{0} ኤከር ጫማotherpatternvolume-acre-footunitshortunits
+ኤከር ጫማdisplayNamevolume-acre-footunitshortunits
+{0} ሴሊotherpatternvolume-centiliterunitshortunits
+{0} ሴሊonepatternvolume-centiliterunitshortunits
+ሴሊdisplayNamevolume-centiliterunitshortunits
+{0} nmionepatternlength-nautical-mileunitshortunits
+{0} nmiotherpatternlength-nautical-mileunitshortunits
+nmidisplayNamelength-nautical-mileunitshortunits
+{0} ጂotherpatternacceleration-g-forceunitshortunits
+{0} ጂonepatternacceleration-g-forceunitshortunits
+ጂ-ኃይልdisplayNameacceleration-g-forceunitshortunits
+{0}°ፋonepatterntemperature-fahrenheitunitshortunits
+{0}°ፋotherpatterntemperature-fahrenheitunitshortunits
+ዲግሪ ፋራንሃይትdisplayNametemperature-fahrenheitunitshortunits
+ሰከንድdisplayNameangle-arc-secondunitshortunits
+{0} ሰከንድonepatternangle-arc-secondunitshortunits
+{0} ሰከንድotherpatternangle-arc-secondunitshortunits
+{0} ሜ/ሴonepatternspeed-meter-per-secondunitshortunits
+{0} ሜ/ሴotherpatternspeed-meter-per-secondunitshortunits
+ሜትር በሰከንድdisplayNamespeed-meter-per-secondunitshortunits
+ሚሊሰከንድdisplayNameduration-millisecondunitshortunits
+{0} ሚሴonepatternduration-millisecondunitshortunits
+{0} ሚሴotherpatternduration-millisecondunitshortunits
+{0}°ሴonepatterntemperature-celsiusunitshortunits
+{0}°ሴotherpatterntemperature-celsiusunitshortunits
+ዲግሪ ሴልሺየስdisplayNametemperature-celsiusunitshortunits
+{0} Calotherpatternenergy-foodcalorieunitshortunits
+{0} Calonepatternenergy-foodcalorieunitshortunits
+CaldisplayNameenergy-foodcalorieunitshortunits
+CDdisplayNamemass-caratunitshortunits
+{0} CDotherpatternmass-caratunitshortunits
+{0} CDonepatternmass-caratunitshortunits
+{0} mm Hgotherpatternpressure-millimeter-of-mercuryunitshortunits
+{0} mm Hgonepatternpressure-millimeter-of-mercuryunitshortunits
+mm HgdisplayNamepressure-millimeter-of-mercuryunitshortunits
+{0}/ኪሜ²perUnitPatternarea-square-kilometerunitshortunits
+ካሬ ኪሎሜትርdisplayNamearea-square-kilometerunitshortunits
+{0} ኪሜ²onepatternarea-square-kilometerunitshortunits
+{0} ኪሜ²otherpatternarea-square-kilometerunitshortunits
+mptdisplayNamevolume-pint-metricunitshortunits
+{0} mptotherpatternvolume-pint-metricunitshortunits
+{0} mptonepatternvolume-pint-metricunitshortunits
+jouledisplayNameenergy-jouleunitshortunits
+{0} Jotherpatternenergy-jouleunitshortunits
+{0} Jonepatternenergy-jouleunitshortunits
+{0} GHzotherpatternfrequency-gigahertzunitshortunits
+{0} GHzonepatternfrequency-gigahertzunitshortunits
+GHzdisplayNamefrequency-gigahertzunitshortunits
+oz tdisplayNamemass-ounce-troyunitshortunits
+{0} oz totherpatternmass-ounce-troyunitshortunits
+{0} oz tonepatternmass-ounce-troyunitshortunits
+ኢንች ሜርኩሪdisplayNamepressure-inch-hgunitshortunits
+{0} ኢንሜርotherpatternpressure-inch-hgunitshortunits
+{0} ኢሜonepatternpressure-inch-hgunitshortunits
+kndisplayNamespeed-knotunitshortunits
+{0} knonepatternspeed-knotunitshortunits
+{0} knotherpatternspeed-knotunitshortunits
+{0} tbsponepatternvolume-tablespoonunitshortunits
+{0} tbspotherpatternvolume-tablespoonunitshortunits
+tbspdisplayNamevolume-tablespoonunitshortunits
+{0} ጊጋባይትonepatterndigital-gigabitunitshortunits
+{0} ጊጋባይትotherpatterndigital-gigabitunitshortunits
+ጊጋባይትdisplayNamedigital-gigabitunitshortunits
+pcdisplayNamelength-parsecunitshortunits
+{0} pconepatternlength-parsecunitshortunits
+{0} pcotherpatternlength-parsecunitshortunits
+{0} ግonepatternmass-gramunitshortunits
+{0} ግotherpatternmass-gramunitshortunits
+{0}/ግራምperUnitPatternmass-gramunitshortunits
+ግራምdisplayNamemass-gramunitshortunits
+ፓውንድdisplayNamemass-poundunitshortunits
+{0}/ፓውንድperUnitPatternmass-poundunitshortunits
+{0} ፓውንድotherpatternmass-poundunitshortunits
+{0} ፓውንድonepatternmass-poundunitshortunits
+ሜባdisplayNamedigital-megabitunitshortunits
+{0} ሜባonepatterndigital-megabitunitshortunits
+{0} ሜባotherpatterndigital-megabitunitshortunits
+ሜ/ሰ²displayNameacceleration-meter-per-second-squaredunitshortunits
+{0} ሜ/ሰ²otherpatternacceleration-meter-per-second-squaredunitshortunits
+{0} ሜ/ሰ²onepatternacceleration-meter-per-second-squaredunitshortunits
+GWdisplayNamepower-gigawattunitshortunits
+{0} GWonepatternpower-gigawattunitshortunits
+{0} GWotherpatternpower-gigawattunitshortunits
+{0} ኪግonepatternmass-kilogramunitshortunits
+{0} ኪግotherpatternmass-kilogramunitshortunits
+{0}/ኪሎግራምperUnitPatternmass-kilogramunitshortunits
+ኪሎግራምdisplayNamemass-kilogramunitshortunits
+ኪሎሜትር በሰዓትdisplayNamespeed-kilometer-per-hourunitshortunits
+{0} ኪሜ/ሰonepatternspeed-kilometer-per-hourunitshortunits
+{0} ኪሜ/ሰotherpatternspeed-kilometer-per-hourunitshortunits
+ምዕተ ዓመትdisplayNameduration-centuryunitshortunits
+{0} ምዕተ ዓመትonepatternduration-centuryunitshortunits
+{0} ምዕተ ዓመትotherpatternduration-centuryunitshortunits
+{0} totherpatternmass-metric-tonunitshortunits
+{0} tonepatternmass-metric-tonunitshortunits
+tdisplayNamemass-metric-tonunitshortunits
+የፈረስ ጉልበትdisplayNamepower-horsepowerunitshortunits
+{0} የፈጉonepatternpower-horsepowerunitshortunits
+{0} የፈጉotherpatternpower-horsepowerunitshortunits
+{0} galotherpatternvolume-gallonunitshortunits
+{0} galonepatternvolume-gallonunitshortunits
+galdisplayNamevolume-gallonunitshortunits
+{0}/galperUnitPatternvolume-gallonunitshortunits
+ኤክርdisplayNamearea-acreunitshortunits
+{0} ኤክርonepatternarea-acreunitshortunits
+{0} ኤክርotherpatternarea-acreunitshortunits
+kHzdisplayNamefrequency-kilohertzunitshortunits
+{0} kHzonepatternfrequency-kilohertzunitshortunits
+{0} kHzotherpatternfrequency-kilohertzunitshortunits
+voltdisplayNameelectric-voltunitshortunits
+{0} Votherpatternelectric-voltunitshortunits
+{0} Vonepatternelectric-voltunitshortunits
+{0} ሚባotherpatternpressure-millibarunitshortunits
+{0} ሚባonepatternpressure-millibarunitshortunits
+ሚሊባርdisplayNamepressure-millibarunitshortunits
+{0} ሴሜonepatternlength-centimeterunitshortunits
+{0} ሴሜotherpatternlength-centimeterunitshortunits
+{0}/ሴሜperUnitPatternlength-centimeterunitshortunits
+ሴንቲሜትርdisplayNamelength-centimeterunitshortunits
+ሜትርdisplayNamelength-meterunitshortunits
+{0}/ሜperUnitPatternlength-meterunitshortunits
+{0} ሜonepatternlength-meterunitshortunits
+{0} ሜotherpatternlength-meterunitshortunits
+ናሜdisplayNamelength-nanometerunitshortunits
+{0} ናሜotherpatternlength-nanometerunitshortunits
+{0} ናሜonepatternlength-nanometerunitshortunits
+{0} lxonepatternlight-luxunitshortunits
+{0} lxotherpatternlight-luxunitshortunits
+lxdisplayNamelight-luxunitshortunits
+{0} ማይል/ሰonepatternspeed-mile-per-hourunitshortunits
+{0} ማይል/ሰotherpatternspeed-mile-per-hourunitshortunits
+ማይል በሰዓትdisplayNamespeed-mile-per-hourunitshortunits
+ካሬ ጫማdisplayNamearea-square-footunitshortunits
+{0} ካሬ ጫማotherpatternarea-square-footunitshortunits
+{0} ካሬ ጫማonepatternarea-square-footunitshortunits
+{0}/ደperUnitPatternduration-minuteunitshortunits
+ደቂቃዎችdisplayNameduration-minuteunitshortunits
+{0} ደቂonepatternduration-minuteunitshortunits
+{0} ደቂቃotherpatternduration-minuteunitshortunits
+{0} ስማይልotherpatternlength-mile-scandinavianunitshortunits
+{0} ስማይልonepatternlength-mile-scandinavianunitshortunits
+ስማይልdisplayNamelength-mile-scandinavianunitshortunits
+tspdisplayNamevolume-teaspoonunitshortunits
+{0} tspotherpatternvolume-teaspoonunitshortunits
+{0} tsponepatternvolume-teaspoonunitshortunits
+ሰዓቶችdisplayNameduration-hourunitshortunits
+{0}/ሰperUnitPatternduration-hourunitshortunits
+{0} ሰዓotherpatternduration-hourunitshortunits
+{0} ሰዓonepatternduration-hourunitshortunits
+mcupdisplayNamevolume-cup-metricunitshortunits
+{0} mcotherpatternvolume-cup-metricunitshortunits
+{0} mconepatternvolume-cup-metricunitshortunits
+{0} mpg Imp.onepatternconsumption-mile-per-gallon-imperialunitshortunits
+{0} mpg Imp.otherpatternconsumption-mile-per-gallon-imperialunitshortunits
+mpg Imp.displayNameconsumption-mile-per-gallon-imperialunitshortunits
+ሴሜ²displayNamearea-square-centimeterunitshortunits
+{0}/ሴሜ²perUnitPatternarea-square-centimeterunitshortunits
+{0} ሴሜ²otherpatternarea-square-centimeterunitshortunits
+{0} ሴሜ²onepatternarea-square-centimeterunitshortunits
+raddisplayNameangle-radianunitshortunits
+{0} radotherpatternangle-radianunitshortunits
+{0} radonepatternangle-radianunitshortunits
+{0} kJotherpatternenergy-kilojouleunitshortunits
+{0} kJonepatternenergy-kilojouleunitshortunits
+kJdisplayNameenergy-kilojouleunitshortunits
+{0} kWhonepatternenergy-kilowatt-hourunitshortunits
+{0} kWhotherpatternenergy-kilowatt-hourunitshortunits
+kWhdisplayNameenergy-kilowatt-hourunitshortunits
+{0} hLotherpatternvolume-hectoliterunitshortunits
+{0} hLonepatternvolume-hectoliterunitshortunits
+hLdisplayNamevolume-hectoliterunitshortunits
+{0}/ሜ³perUnitPatternvolume-cubic-meterunitshortunits
+ሜ³displayNamevolume-cubic-meterunitshortunits
+{0} ሜ³otherpatternvolume-cubic-meterunitshortunits
+{0} ሜ³onepatternvolume-cubic-meterunitshortunits
+mWdisplayNamepower-milliwattunitshortunits
+{0} mWotherpatternpower-milliwattunitshortunits
+{0} mWonepatternpower-milliwattunitshortunits

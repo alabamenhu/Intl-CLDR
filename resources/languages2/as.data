@@ -1,0 +1,3295 @@
+G y MMMM – y MMMMyyMMMMintervalFormatsgenericcalendars
+G y MMMM–MMMMMyMMMMintervalFormatsgenericcalendars
+GGGGG y-MM-dd – y-MM-dddyMdintervalFormatsgenericcalendars
+GGGGG y-MM-dd – y-MM-ddMyMdintervalFormatsgenericcalendars
+GGGGG y-MM-dd – y-MM-ddyyMdintervalFormatsgenericcalendars
+MM-dd, E – MM-dd, EdMEdintervalFormatsgenericcalendars
+MM-dd, E – MM-dd, EMMEdintervalFormatsgenericcalendars
+MM-dd – MM-ddMMdintervalFormatsgenericcalendars
+MM-dd – MM-dddMdintervalFormatsgenericcalendars
+G y MMM d, E – MMM d, EMyMMMEdintervalFormatsgenericcalendars
+G y MMM d, E – MMM d, EdyMMMEdintervalFormatsgenericcalendars
+G y MMM d, E – y MMM d, EyyMMMEdintervalFormatsgenericcalendars
+G y–yyyintervalFormatsgenericcalendars
+MMM – MMMMMMMintervalFormatsgenericcalendars
+GGGGG y-MM-dd, E – y-MM-dd, EMyMEdintervalFormatsgenericcalendars
+GGGGG y-MM-dd, E – y-MM-dd, EdyMEdintervalFormatsgenericcalendars
+GGGGG y-MM-dd, E – y-MM-dd, EyyMEdintervalFormatsgenericcalendars
+G y MMM d – y MMM dyyMMMdintervalFormatsgenericcalendars
+G y MMM d–ddyMMMdintervalFormatsgenericcalendars
+G y MMM d – MMM dMyMMMdintervalFormatsgenericcalendars
+d–dddintervalFormatsgenericcalendars
+{0} – {1}standardstandardintervalFormatsgenericcalendars
+GGGGG y-MM – y-MMMyMintervalFormatsgenericcalendars
+GGGGG y-MM – y-MMyyMintervalFormatsgenericcalendars
+MMM d, E – MMM d, EMMMMEdintervalFormatsgenericcalendars
+MMM d, E – MMM d, EdMMMEdintervalFormatsgenericcalendars
+MMM d – MMM dMMMMdintervalFormatsgenericcalendars
+MMM d–ddMMMdintervalFormatsgenericcalendars
+MM–MMMMintervalFormatsgenericcalendars
+G y MMM – y MMMyyMMMintervalFormatsgenericcalendars
+G y MMM–MMMMyMMMintervalFormatsgenericcalendars
+G y MMM dstandardmediumdateFormatsgenericcalendars
+G y MMMM dstandardlongdateFormatsgenericcalendars
+G y MMMM d, EEEEstandardfulldateFormatsgenericcalendars
+GGGGG y-MM-ddstandardshortdateFormatsgenericcalendars
+dd-MM-y GGGGGyyyyMdavailableFormatsgenericcalendars
+MM-y GGGGGyyyyMavailableFormatsgenericcalendars
+G y MMMGyMMMavailableFormatsgenericcalendars
+LLLMMMavailableFormatsgenericcalendars
+HH:mmHmavailableFormatsgenericcalendars
+G y QQQQyyyyQQQQavailableFormatsgenericcalendars
+E B h:mmEBhmavailableFormatsgenericcalendars
+G y MMM d, EGyMMMEdavailableFormatsgenericcalendars
+d, EEdavailableFormatsgenericcalendars
+MM-dd, EMEdavailableFormatsgenericcalendars
+mm:ssmsavailableFormatsgenericcalendars
+MM-ddMdavailableFormatsgenericcalendars
+HH:mm:ssHmsavailableFormatsgenericcalendars
+E HH:mm:ssEHmsavailableFormatsgenericcalendars
+B h:mm:ssBhmsavailableFormatsgenericcalendars
+B hBhavailableFormatsgenericcalendars
+y GyavailableFormatsgenericcalendars
+E, a h:mm:ssEhmsavailableFormatsgenericcalendars
+E, a h:mmEhmavailableFormatsgenericcalendars
+E, B h:mm:ssEBhmsavailableFormatsgenericcalendars
+y GyyyyavailableFormatsgenericcalendars
+MMMM dMMMMdavailableFormatsgenericcalendars
+G y MMM dGyMMMdavailableFormatsgenericcalendars
+E, d MMM y GyyyyMMMEdavailableFormatsgenericcalendars
+MMM y GyyyyMMMavailableFormatsgenericcalendars
+d MMM y GyyyyMMMdavailableFormatsgenericcalendars
+a hhavailableFormatsgenericcalendars
+a h:mm:sshmsavailableFormatsgenericcalendars
+G yGyavailableFormatsgenericcalendars
+E HH:mmEHmavailableFormatsgenericcalendars
+B h:mmBhmavailableFormatsgenericcalendars
+cccEavailableFormatsgenericcalendars
+MMMM y GyyyyMMMMavailableFormatsgenericcalendars
+G y QQQyyyyQQQavailableFormatsgenericcalendars
+E, dd-MM-y GGGGGyyyyMEdavailableFormatsgenericcalendars
+ddavailableFormatsgenericcalendars
+a h:mmhmavailableFormatsgenericcalendars
+MMM dMMMdavailableFormatsgenericcalendars
+MMM d, EMMMEdavailableFormatsgenericcalendars
+HHHavailableFormatsgenericcalendars
+LMavailableFormatsgenericcalendars
+{1} {0}mediumdateTimeFormatsgenericcalendars
+{1} {0} বজাতlongdateTimeFormatsgenericcalendars
+{1} {0} বজাতfulldateTimeFormatsgenericcalendars
+{1} {0}shortdateTimeFormatsgenericcalendars
+{1} {0}mediumdateTimeFormatsgregoriancalendars
+{1} {0}longdateTimeFormatsgregoriancalendars
+{1} {0}fulldateTimeFormatsgregoriancalendars
+{1} {0}shortdateTimeFormatsgregoriancalendars
+পূৰ্বাহ্নamwideformatdayPeriodsgregoriancalendars
+অপৰাহ্নpmwideformatdayPeriodsgregoriancalendars
+পূৰ্বাহ্নamabbreviatedformatdayPeriodsgregoriancalendars
+অপৰাহ্নpmabbreviatedformatdayPeriodsgregoriancalendars
+পূৰ্বাহ্নamnarrowformatdayPeriodsgregoriancalendars
+অপৰাহ্নpmnarrowformatdayPeriodsgregoriancalendars
+পূৰ্বাহ্নamwidestand-alonedayPeriodsgregoriancalendars
+অপৰাহ্নpmwidestand-alonedayPeriodsgregoriancalendars
+পূৰ্বাহ্নamabbreviatedstand-alonedayPeriodsgregoriancalendars
+অপৰাহ্নpmabbreviatedstand-alonedayPeriodsgregoriancalendars
+পূৰ্বাহ্নamnarrowstand-alonedayPeriodsgregoriancalendars
+অপৰাহ্নpmnarrowstand-alonedayPeriodsgregoriancalendars
+a h:mm vhmvavailableFormatsgregoriancalendars
+d MMMMMMMMdavailableFormatsgregoriancalendars
+G y MMM dGyMMMdavailableFormatsgregoriancalendars
+cccEavailableFormatsgregoriancalendars
+E HH:mmEHmavailableFormatsgregoriancalendars
+a hhavailableFormatsgregoriancalendars
+a h:mm:ss vhmsvavailableFormatsgregoriancalendars
+HH:mm:ss vHmsvavailableFormatsgregoriancalendars
+MMM yyMMMavailableFormatsgregoriancalendars
+G yGyavailableFormatsgregoriancalendars
+B h:mmBhmavailableFormatsgregoriancalendars
+HH:mm vHmvavailableFormatsgregoriancalendars
+a h:mm:sshmsavailableFormatsgregoriancalendars
+a h:mmhmavailableFormatsgregoriancalendars
+ddavailableFormatsgregoriancalendars
+MMMMৰ সপ্তাহ WMMMMWavailableFormatsgregoriancalendars
+QQQQ yyQQQQavailableFormatsgregoriancalendars
+LMavailableFormatsgregoriancalendars
+HHHavailableFormatsgregoriancalendars
+d MMMMMMdavailableFormatsgregoriancalendars
+E, d MMMMMMEdavailableFormatsgregoriancalendars
+MM-yyMavailableFormatsgregoriancalendars
+E, dd-MM-yyMEdavailableFormatsgregoriancalendars
+HH:mmHmavailableFormatsgregoriancalendars
+G y MMMGyMMMavailableFormatsgregoriancalendars
+LLLMMMavailableFormatsgregoriancalendars
+d MMM yyMMMdavailableFormatsgregoriancalendars
+E B h:mmEBhmavailableFormatsgregoriancalendars
+E dEdavailableFormatsgregoriancalendars
+G y MMM d, EGyMMMEdavailableFormatsgregoriancalendars
+MMMM yyMMMMavailableFormatsgregoriancalendars
+Yৰ সপ্তাহ wywavailableFormatsgregoriancalendars
+B h:mm:ssBhmsavailableFormatsgregoriancalendars
+E HH:mm:ssEHmsavailableFormatsgregoriancalendars
+HH:mm:ssHmsavailableFormatsgregoriancalendars
+E, dd-MMMEdavailableFormatsgregoriancalendars
+mm:ssmsavailableFormatsgregoriancalendars
+dd-MM-yyMdavailableFormatsgregoriancalendars
+B hBhavailableFormatsgregoriancalendars
+QQQ yyQQQavailableFormatsgregoriancalendars
+dd-MMMdavailableFormatsgregoriancalendars
+E a h:mmEhmavailableFormatsgregoriancalendars
+E B h:mm:ssEBhmsavailableFormatsgregoriancalendars
+E a h:mm:ssEhmsavailableFormatsgregoriancalendars
+E, d MMM yyMMMEdavailableFormatsgregoriancalendars
+yyavailableFormatsgregoriancalendars
+শুক্ৰfriabbreviatedstand-alonedaysgregoriancalendars
+মঙ্গলtueabbreviatedstand-alonedaysgregoriancalendars
+বুধwedabbreviatedstand-alonedaysgregoriancalendars
+সোমmonabbreviatedstand-alonedaysgregoriancalendars
+শনিsatabbreviatedstand-alonedaysgregoriancalendars
+বৃহthuabbreviatedstand-alonedaysgregoriancalendars
+দেওsunabbreviatedstand-alonedaysgregoriancalendars
+দেওsunshortstand-alonedaysgregoriancalendars
+শনিsatshortstand-alonedaysgregoriancalendars
+বৃহthushortstand-alonedaysgregoriancalendars
+সোমmonshortstand-alonedaysgregoriancalendars
+বুধwedshortstand-alonedaysgregoriancalendars
+মঙ্গলtueshortstand-alonedaysgregoriancalendars
+শুক্ৰfrishortstand-alonedaysgregoriancalendars
+সmonnarrowstand-alonedaysgregoriancalendars
+শsatnarrowstand-alonedaysgregoriancalendars
+দsunnarrowstand-alonedaysgregoriancalendars
+বthunarrowstand-alonedaysgregoriancalendars
+বwednarrowstand-alonedaysgregoriancalendars
+শfrinarrowstand-alonedaysgregoriancalendars
+মtuenarrowstand-alonedaysgregoriancalendars
+বুধবাৰwedwidestand-alonedaysgregoriancalendars
+শুক্ৰবাৰfriwidestand-alonedaysgregoriancalendars
+মঙ্গলবাৰtuewidestand-alonedaysgregoriancalendars
+সোমবাৰmonwidestand-alonedaysgregoriancalendars
+বৃহস্পতিবাৰthuwidestand-alonedaysgregoriancalendars
+শনিবাৰsatwidestand-alonedaysgregoriancalendars
+দেওবাৰsunwidestand-alonedaysgregoriancalendars
+সোমবাৰmonwideformatdaysgregoriancalendars
+শনিবাৰsatwideformatdaysgregoriancalendars
+বৃহস্পতিবাৰthuwideformatdaysgregoriancalendars
+দেওবাৰsunwideformatdaysgregoriancalendars
+শুক্ৰবাৰfriwideformatdaysgregoriancalendars
+মঙ্গলবাৰtuewideformatdaysgregoriancalendars
+বুধবাৰwedwideformatdaysgregoriancalendars
+মঙ্গলtueshortformatdaysgregoriancalendars
+শুক্ৰfrishortformatdaysgregoriancalendars
+বুধwedshortformatdaysgregoriancalendars
+শনিsatshortformatdaysgregoriancalendars
+দেওsunshortformatdaysgregoriancalendars
+বৃহthushortformatdaysgregoriancalendars
+সোমmonshortformatdaysgregoriancalendars
+বুধwedabbreviatedformatdaysgregoriancalendars
+মঙ্গলtueabbreviatedformatdaysgregoriancalendars
+শুক্ৰfriabbreviatedformatdaysgregoriancalendars
+দেওsunabbreviatedformatdaysgregoriancalendars
+শনিsatabbreviatedformatdaysgregoriancalendars
+বৃহthuabbreviatedformatdaysgregoriancalendars
+সোমmonabbreviatedformatdaysgregoriancalendars
+শsatnarrowformatdaysgregoriancalendars
+দsunnarrowformatdaysgregoriancalendars
+বthunarrowformatdaysgregoriancalendars
+সmonnarrowformatdaysgregoriancalendars
+মtuenarrowformatdaysgregoriancalendars
+শfrinarrowformatdaysgregoriancalendars
+বwednarrowformatdaysgregoriancalendars
+চি. ই.1eraNameserasgregoriancalendars
+খ্ৰীষ্টপূৰ্ব0eraNameserasgregoriancalendars
+খ্ৰীষ্টপূৰ্ব0eraAbbrerasgregoriancalendars
+চি. ই.1eraAbbrerasgregoriancalendars
+এ4narrowstand-alonemonthsgregoriancalendars
+ম3narrowstand-alonemonthsgregoriancalendars
+জ7narrowstand-alonemonthsgregoriancalendars
+ড12narrowstand-alonemonthsgregoriancalendars
+অ10narrowstand-alonemonthsgregoriancalendars
+ফ2narrowstand-alonemonthsgregoriancalendars
+ছ9narrowstand-alonemonthsgregoriancalendars
+আ8narrowstand-alonemonthsgregoriancalendars
+ম5narrowstand-alonemonthsgregoriancalendars
+জ1narrowstand-alonemonthsgregoriancalendars
+জ6narrowstand-alonemonthsgregoriancalendars
+ন11narrowstand-alonemonthsgregoriancalendars
+মাৰ্চ3abbreviatedstand-alonemonthsgregoriancalendars
+এপ্ৰিল4abbreviatedstand-alonemonthsgregoriancalendars
+ছেপ্তে9abbreviatedstand-alonemonthsgregoriancalendars
+আগ8abbreviatedstand-alonemonthsgregoriancalendars
+অক্টো10abbreviatedstand-alonemonthsgregoriancalendars
+ডিচে12abbreviatedstand-alonemonthsgregoriancalendars
+ফেব্ৰু2abbreviatedstand-alonemonthsgregoriancalendars
+জুলাই7abbreviatedstand-alonemonthsgregoriancalendars
+মে’5abbreviatedstand-alonemonthsgregoriancalendars
+জানু1abbreviatedstand-alonemonthsgregoriancalendars
+নৱে11abbreviatedstand-alonemonthsgregoriancalendars
+জুন6abbreviatedstand-alonemonthsgregoriancalendars
+মাৰ্চ3widestand-alonemonthsgregoriancalendars
+এপ্ৰিল4widestand-alonemonthsgregoriancalendars
+অক্টোবৰ10widestand-alonemonthsgregoriancalendars
+ডিচেম্বৰ12widestand-alonemonthsgregoriancalendars
+ফেব্ৰুৱাৰী2widestand-alonemonthsgregoriancalendars
+জুলাই7widestand-alonemonthsgregoriancalendars
+ছেপ্তেম্বৰ9widestand-alonemonthsgregoriancalendars
+আগষ্ট8widestand-alonemonthsgregoriancalendars
+জানুৱাৰী1widestand-alonemonthsgregoriancalendars
+মে’5widestand-alonemonthsgregoriancalendars
+জুন6widestand-alonemonthsgregoriancalendars
+নৱেম্বৰ11widestand-alonemonthsgregoriancalendars
+ছ9narrowformatmonthsgregoriancalendars
+আ8narrowformatmonthsgregoriancalendars
+অ10narrowformatmonthsgregoriancalendars
+ড12narrowformatmonthsgregoriancalendars
+জ7narrowformatmonthsgregoriancalendars
+ফ2narrowformatmonthsgregoriancalendars
+ম3narrowformatmonthsgregoriancalendars
+এ4narrowformatmonthsgregoriancalendars
+ন11narrowformatmonthsgregoriancalendars
+জ6narrowformatmonthsgregoriancalendars
+জ1narrowformatmonthsgregoriancalendars
+ম5narrowformatmonthsgregoriancalendars
+অক্টো10abbreviatedformatmonthsgregoriancalendars
+ডিচে12abbreviatedformatmonthsgregoriancalendars
+ফেব্ৰু2abbreviatedformatmonthsgregoriancalendars
+জুলাই7abbreviatedformatmonthsgregoriancalendars
+ছেপ্তে9abbreviatedformatmonthsgregoriancalendars
+আগ8abbreviatedformatmonthsgregoriancalendars
+মাৰ্চ3abbreviatedformatmonthsgregoriancalendars
+এপ্ৰিল4abbreviatedformatmonthsgregoriancalendars
+জুন6abbreviatedformatmonthsgregoriancalendars
+নৱে11abbreviatedformatmonthsgregoriancalendars
+জানু1abbreviatedformatmonthsgregoriancalendars
+মে’5abbreviatedformatmonthsgregoriancalendars
+জানুৱাৰী1wideformatmonthsgregoriancalendars
+মে’5wideformatmonthsgregoriancalendars
+জুন6wideformatmonthsgregoriancalendars
+নৱেম্বৰ11wideformatmonthsgregoriancalendars
+এপ্ৰিল4wideformatmonthsgregoriancalendars
+মাৰ্চ3wideformatmonthsgregoriancalendars
+জুলাই7wideformatmonthsgregoriancalendars
+ডিচেম্বৰ12wideformatmonthsgregoriancalendars
+অক্টোবৰ10wideformatmonthsgregoriancalendars
+ফেব্ৰুৱাৰী2wideformatmonthsgregoriancalendars
+ছেপ্তেম্বৰ9wideformatmonthsgregoriancalendars
+আগষ্ট8wideformatmonthsgregoriancalendars
+a h.mm.ss zstandardlongtimeFormatsgregoriancalendars
+a h.mm.ssstandardmediumtimeFormatsgregoriancalendars
+a h.mmstandardshorttimeFormatsgregoriancalendars
+a h.mm.ss zzzzstandardfulltimeFormatsgregoriancalendars
+y–yyyintervalFormatsgregoriancalendars
+E, d MMM y – d MMM yyyMMMEdintervalFormatsgregoriancalendars
+E, d MMM y – E, d MMMdyMMMEdintervalFormatsgregoriancalendars
+E, d MMM y – E, d MMMMyMMMEdintervalFormatsgregoriancalendars
+HH–HH vHHvintervalFormatsgregoriancalendars
+MMMM–MMMM yMyMMMMintervalFormatsgregoriancalendars
+MMMM y – MMMM yyyMMMMintervalFormatsgregoriancalendars
+dd-MM-y – dd-MM-yMyMdintervalFormatsgregoriancalendars
+dd-MM-y – dd-MM-ydyMdintervalFormatsgregoriancalendars
+dd-MM-y – dd-MM-yyyMdintervalFormatsgregoriancalendars
+E, dd-MM – E, dd-MMdMEdintervalFormatsgregoriancalendars
+E, dd-MM – E, dd-MMMMEdintervalFormatsgregoriancalendars
+dd-MM – dd-MMdMdintervalFormatsgregoriancalendars
+dd-MM – dd-MMMMdintervalFormatsgregoriancalendars
+d MMM y – d MMM yyyMMMdintervalFormatsgregoriancalendars
+d MMM y – d MMMMyMMMdintervalFormatsgregoriancalendars
+d–d MMM ydyMMMdintervalFormatsgregoriancalendars
+HH:mm–HH:mmHHmintervalFormatsgregoriancalendars
+HH:mm–HH:mmmHmintervalFormatsgregoriancalendars
+dd-MM-y, E – dd-MM-yMyMEdintervalFormatsgregoriancalendars
+dd-MM-y, E – dd-MM-ydyMEdintervalFormatsgregoriancalendars
+dd-MM-y, E – dd-MM-yyyMEdintervalFormatsgregoriancalendars
+LLL–LLLMMMMintervalFormatsgregoriancalendars
+a h–h vhhvintervalFormatsgregoriancalendars
+a h – a h vahvintervalFormatsgregoriancalendars
+d MMM – d MMMMMMMdintervalFormatsgregoriancalendars
+d – d MMMdMMMdintervalFormatsgregoriancalendars
+MM-y – MM-yMyMintervalFormatsgregoriancalendars
+MM-y – MM-yyyMintervalFormatsgregoriancalendars
+E, d MMM – E, d MMMdMMMEdintervalFormatsgregoriancalendars
+E, d MMM – E, d MMMMMMMEdintervalFormatsgregoriancalendars
+HH–HHHHintervalFormatsgregoriancalendars
+MM–MMMMintervalFormatsgregoriancalendars
+a h:mm–h:mmhhmintervalFormatsgregoriancalendars
+a h:mm–h:mmmhmintervalFormatsgregoriancalendars
+a h:mm – a h:mmahmintervalFormatsgregoriancalendars
+{0} – {1}standardstandardintervalFormatsgregoriancalendars
+d–dddintervalFormatsgregoriancalendars
+MMM–MMM yMyMMMintervalFormatsgregoriancalendars
+MMM y – MMM yyyMMMintervalFormatsgregoriancalendars
+a h–hhhintervalFormatsgregoriancalendars
+a h – a hahintervalFormatsgregoriancalendars
+HH:mm–HH:mm vHHmvintervalFormatsgregoriancalendars
+HH:mm–HH:mm vmHmvintervalFormatsgregoriancalendars
+a h:mm–h:mm vmhmvintervalFormatsgregoriancalendars
+a h:mm–h:mm vhhmvintervalFormatsgregoriancalendars
+a h:mm – a h:mm vahmvintervalFormatsgregoriancalendars
+EEEE, d MMMM, ystandardfulldateFormatsgregoriancalendars
+d-M-ystandardshortdateFormatsgregoriancalendars
+dd-MM-ystandardmediumdateFormatsgregoriancalendars
+d MMMM, ystandardlongdateFormatsgregoriancalendars
+{0} {1}TimezoneappendItemsgregoriancalendars
+১মঃ তিঃ1abbreviatedformatquartersgregoriancalendars
+২য়ঃ তিঃ2abbreviatedformatquartersgregoriancalendars
+৪ৰ্থঃ তিঃ4abbreviatedformatquartersgregoriancalendars
+৩য়ঃ তিঃ3abbreviatedformatquartersgregoriancalendars
+২2narrowformatquartersgregoriancalendars
+৩3narrowformatquartersgregoriancalendars
+৪4narrowformatquartersgregoriancalendars
+১1narrowformatquartersgregoriancalendars
+দ্বিতীয় তিনিমাহ2wideformatquartersgregoriancalendars
+তৃতীয় তিনিমাহ3wideformatquartersgregoriancalendars
+চতুৰ্থ তিনিমাহ4wideformatquartersgregoriancalendars
+প্ৰথম তিনিমাহ1wideformatquartersgregoriancalendars
+১মঃ তিঃ1abbreviatedstand-alonequartersgregoriancalendars
+৩য়ঃ তিঃ3abbreviatedstand-alonequartersgregoriancalendars
+৪ৰ্থঃ তিঃ4abbreviatedstand-alonequartersgregoriancalendars
+২য়ঃ তিঃ2abbreviatedstand-alonequartersgregoriancalendars
+২2narrowstand-alonequartersgregoriancalendars
+৩3narrowstand-alonequartersgregoriancalendars
+৪4narrowstand-alonequartersgregoriancalendars
+১1narrowstand-alonequartersgregoriancalendars
+প্ৰথম তিনিমাহ1widestand-alonequartersgregoriancalendars
+দ্বিতীয় তিনিমাহ2widestand-alonequartersgregoriancalendars
+চতুৰ্থ তিনিমাহ4widestand-alonequartersgregoriancalendars
+তৃতীয় তিনিমাহ3widestand-alonequartersgregoriancalendars
+’alternateQuotationEnddelimiters
+”quotationEnddelimiters
+“quotationStartdelimiters
+‘alternateQuotationStartdelimiters
+no:nnostrmessagesposix
+yes:yyesstrmessagesposix
+[\u09BC অ আ ই ঈ উ ঊ ঋ এ ঐ ও ঔ ং \u0981 ঃ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড {ড\u09BC} ঢ {ঢ\u09BC} ণ ত থ দ ধ ন প ফ ব ভ ম য {য\u09BC} ৰ ল ৱ শ ষ স হ {ক\u09CDষ} া ি ী \u09C1 \u09C2 \u09C3 ে ৈ ো ৌ \u09CD]standardexemplarCharacterscharacters
+[\- ‐ – — , ; \: ! ? . … । ' ‘ ’ &quot; “ ” ( ) \[ \] § @ * / \&amp; # † ‡ ′ ″]punctuationexemplarCharacterscharacters
+[\- , . % ‰ + 0০ 1১ 2২ 3৩ 4৪ 5৫ 6৬ 7৭ 8৮ 9৯]numbersexemplarCharacterscharacters
+[\u200C\u200D ৲ ৎ র]auxiliaryexemplarCharacterscharacters
+[অ আ ই ঈ উ ঊ ঋ ৠ ঌ ৡ এ ঐ ও ঔ ক খ গ ঘ ঙ চ ছ জ ঝ ঞ ট ঠ ড ঢ ণ ৎ ত থ দ ধ ন প ফ ব ভ ম য ৰ ল ৱ শ ষ স হ ঽ]indexexemplarCharacterscharacters
+{0}…{1}medialellipsischaracters
+{0} …word-finalellipsischaracters
+{0}…finalellipsischaracters
+{0} … {1}word-medialellipsischaracters
+…{0}initialellipsischaracters
+… {0}word-initialellipsischaracters
+মাগাদানexemplarCityAsia/MagadanzonetimeZoneNamesdates
+পামৰexemplarCityAntarctica/PalmerzonetimeZoneNamesdates
+ৰেইকজাভিকexemplarCityAtlantic/ReykjavikzonetimeZoneNamesdates
+ৰিগাexemplarCityEurope/RigazonetimeZoneNamesdates
+মাজুৰোexemplarCityPacific/MajurozonetimeZoneNamesdates
+কেমব্ৰিজ উপসাগৰexemplarCityAmerica/Cambridge_BayzonetimeZoneNamesdates
+চিটাexemplarCityAsia/ChitazonetimeZoneNamesdates
+হং কংexemplarCityAsia/Hong_KongzonetimeZoneNamesdates
+থিম্ফুexemplarCityAsia/ThimphuzonetimeZoneNamesdates
+ৰিয়াধexemplarCityAsia/RiyadhzonetimeZoneNamesdates
+চিডনীexemplarCityAustralia/SydneyzonetimeZoneNamesdates
+ডুমোণ্ট ডি আৰ্ভিলৰexemplarCityAntarctica/DumontDUrvillezonetimeZoneNamesdates
+টুকুমনexemplarCityAmerica/Argentina/TucumanzonetimeZoneNamesdates
+মোনৰোভিয়াexemplarCityAfrica/MonroviazonetimeZoneNamesdates
+চিছিনাউexemplarCityEurope/ChisinauzonetimeZoneNamesdates
+গ্ৰেণ্ড টাৰ্কexemplarCityAmerica/Grand_TurkzonetimeZoneNamesdates
+ওস্লোexemplarCityEurope/OslozonetimeZoneNamesdates
+মাৰ্কছাছexemplarCityPacific/MarquesaszonetimeZoneNamesdates
+হোৱাইটহৰ্চexemplarCityAmerica/WhitehorsezonetimeZoneNamesdates
+ফামাগুস্তাexemplarCityAsia/FamagustazonetimeZoneNamesdates
+জিবুটিexemplarCityAfrica/DjiboutizonetimeZoneNamesdates
+মেকমুৰ্ডুexemplarCityAntarctica/McMurdozonetimeZoneNamesdates
+কোৱাজালিনexemplarCityPacific/KwajaleinzonetimeZoneNamesdates
+ফুনাফুটিexemplarCityPacific/FunafutizonetimeZoneNamesdates
+মানিলাexemplarCityAsia/ManilazonetimeZoneNamesdates
+জুৰিখexemplarCityEurope/ZurichzonetimeZoneNamesdates
+মণ্টেৰেৰীexemplarCityAmerica/MonterreyzonetimeZoneNamesdates
+ভোষ্টকexemplarCityAntarctica/VostokzonetimeZoneNamesdates
+কাইৰোexemplarCityAfrica/CairozonetimeZoneNamesdates
+নাইৰোবিexemplarCityAfrica/NairobizonetimeZoneNamesdates
+ফিজিexemplarCityPacific/FijizonetimeZoneNamesdates
+বাহৰেইনexemplarCityAsia/BahrainzonetimeZoneNamesdates
+ৱালিছexemplarCityPacific/WalliszonetimeZoneNamesdates
+ছেইণ্ট থমাছexemplarCityAmerica/St_ThomaszonetimeZoneNamesdates
+জনষ্টনexemplarCityPacific/JohnstonzonetimeZoneNamesdates
+গালাপাগোছexemplarCityPacific/GalapagoszonetimeZoneNamesdates
+ইকালুইটexemplarCityAmerica/IqaluitzonetimeZoneNamesdates
+ৱিণ্ডহোকexemplarCityAfrica/WindhoekzonetimeZoneNamesdates
+ৰোমexemplarCityEurope/RomezonetimeZoneNamesdates
+কুৱালালুমপুৰexemplarCityAsia/Kuala_LumpurzonetimeZoneNamesdates
+কামচত্কাexemplarCityAsia/KamchatkazonetimeZoneNamesdates
+তোম্‌স্কexemplarCityAsia/TomskzonetimeZoneNamesdates
+ছুইফ্ট কাৰেণ্টexemplarCityAmerica/Swift_CurrentzonetimeZoneNamesdates
+ক্ৰেষ্টনexemplarCityAmerica/CrestonzonetimeZoneNamesdates
+কুৰাকাওexemplarCityAmerica/CuracaozonetimeZoneNamesdates
+য়েৰেভানexemplarCityAsia/YerevanzonetimeZoneNamesdates
+য়েল্লোনাইফexemplarCityAmerica/YellowknifezonetimeZoneNamesdates
+হাৰ্মোছিল্লোexemplarCityAmerica/HermosillozonetimeZoneNamesdates
+জুজুইexemplarCityAmerica/JujuyzonetimeZoneNamesdates
+থ্যুলেexemplarCityAmerica/ThulezonetimeZoneNamesdates
+এডিলেইডexemplarCityAustralia/AdelaidezonetimeZoneNamesdates
+ছেন জুৱানexemplarCityAmerica/Argentina/San_JuanzonetimeZoneNamesdates
+বেঞ্জুলexemplarCityAfrica/BanjulzonetimeZoneNamesdates
+টেগুচিগাল্পাexemplarCityAmerica/TegucigalpazonetimeZoneNamesdates
+আইল অফ মেনexemplarCityEurope/Isle_of_ManzonetimeZoneNamesdates
+ছেইণ্ট কিটছexemplarCityAmerica/St_KittszonetimeZoneNamesdates
+ফাকাওফোexemplarCityPacific/FakaofozonetimeZoneNamesdates
+আৰুবাexemplarCityAmerica/ArubazonetimeZoneNamesdates
+কৰাচীexemplarCityAsia/KarachizonetimeZoneNamesdates
+অ’জিনাগাexemplarCityAmerica/OjinagazonetimeZoneNamesdates
+মেক্‌কুৱেৰীexemplarCityAntarctica/MacquariezonetimeZoneNamesdates
+ৰাৰোটোঙ্গাexemplarCityPacific/RarotongazonetimeZoneNamesdates
+ছেন লুইচexemplarCityAmerica/Argentina/San_LuiszonetimeZoneNamesdates
+কেপ ভাৰ্দেexemplarCityAtlantic/Cape_VerdezonetimeZoneNamesdates
+গোৰেনচিexemplarCityEurope/GuernseyzonetimeZoneNamesdates
+মাৰ্টিনিকexemplarCityAmerica/MartiniquezonetimeZoneNamesdates
+কেয়েনexemplarCityAmerica/CayennezonetimeZoneNamesdates
+টোৰ্টোলাexemplarCityAmerica/TortolazonetimeZoneNamesdates
+নিউ ইয়ৰ্কexemplarCityAmerica/New_YorkzonetimeZoneNamesdates
+ল্যুবেলজানাexemplarCityEurope/LjubljanazonetimeZoneNamesdates
+এম্বাবেনexemplarCityAfrica/MbabanezonetimeZoneNamesdates
+ট্ৰোলexemplarCityAntarctica/TrollzonetimeZoneNamesdates
+ব্ৰুনেইexemplarCityAsia/BruneizonetimeZoneNamesdates
+কোষ্টা ৰিকাexemplarCityAmerica/Costa_RicazonetimeZoneNamesdates
+তেহৰানexemplarCityAsia/TehranzonetimeZoneNamesdates
+ভিয়েণ্টিয়ানexemplarCityAsia/VientianezonetimeZoneNamesdates
+ছাখালিনexemplarCityAsia/SakhalinzonetimeZoneNamesdates
+চাও টোমেexemplarCityAfrica/Sao_TomezonetimeZoneNamesdates
+কিংচাছাexemplarCityAfrica/KinshasazonetimeZoneNamesdates
+ইৰ্কুত্স্কexemplarCityAsia/IrkutskzonetimeZoneNamesdates
+ছাৰাটোভexemplarCityEurope/SaratovzonetimeZoneNamesdates
+মাকাছাৰexemplarCityAsia/MakassarzonetimeZoneNamesdates
+কাছাব্লাংকাexemplarCityAfrica/CasablancazonetimeZoneNamesdates
+এংকোৰেজexemplarCityAmerica/AnchoragezonetimeZoneNamesdates
+পাৰামাৰিবোexemplarCityAmerica/ParamaribozonetimeZoneNamesdates
+মেৰিডাexemplarCityAmerica/MeridazonetimeZoneNamesdates
+মিকিউৱেলনexemplarCityAmerica/MiquelonzonetimeZoneNamesdates
+লিমাexemplarCityAmerica/LimazonetimeZoneNamesdates
+বুছিনজেনexemplarCityEurope/BusingenzonetimeZoneNamesdates
+মেণ্ডোজাexemplarCityAmerica/MendozazonetimeZoneNamesdates
+কোনাক্ৰীexemplarCityAfrica/ConakryzonetimeZoneNamesdates
+নোম পেন্‌হexemplarCityAsia/Phnom_PenhzonetimeZoneNamesdates
+এনগুইলাexemplarCityAmerica/AnguillazonetimeZoneNamesdates
+য়াকুত্স্কexemplarCityAsia/YakutskzonetimeZoneNamesdates
+পোণ্টিয়াংকexemplarCityAsia/PontianakzonetimeZoneNamesdates
+ডুছানবেexemplarCityAsia/DushanbezonetimeZoneNamesdates
+ডাকাৰexemplarCityAfrica/DakarzonetimeZoneNamesdates
+ওমস্কexemplarCityAsia/OmskzonetimeZoneNamesdates
+হেলিফেক্সexemplarCityAmerica/HalifaxzonetimeZoneNamesdates
+ছেণ্টিয়াগোexemplarCityAmerica/SantiagozonetimeZoneNamesdates
+এক্ৰাexemplarCityAfrica/AccrazonetimeZoneNamesdates
+ছাৰাজেভোexemplarCityEurope/SarajevozonetimeZoneNamesdates
+চাগোছexemplarCityIndian/ChagoszonetimeZoneNamesdates
+গুৱাটেমালাexemplarCityAmerica/GuatemalazonetimeZoneNamesdates
+এটৰাউexemplarCityAsia/AtyrauzonetimeZoneNamesdates
+হাৰাৰেexemplarCityAfrica/HararezonetimeZoneNamesdates
+ৰিইউনিয়নexemplarCityIndian/ReunionzonetimeZoneNamesdates
+কিৰোভexemplarCityEurope/KirovzonetimeZoneNamesdates
+কেছীexemplarCityAntarctica/CaseyzonetimeZoneNamesdates
+মালদ্বীপexemplarCityIndian/MaldiveszonetimeZoneNamesdates
+টিবলিচিexemplarCityAsia/TbilisizonetimeZoneNamesdates
+বিছাউexemplarCityAfrica/BissauzonetimeZoneNamesdates
+মণ্টছেৰাটexemplarCityAmerica/MontserratzonetimeZoneNamesdates
+গ্লেচ উপসাগৰexemplarCityAmerica/Glace_BayzonetimeZoneNamesdates
+এফেটexemplarCityPacific/EfatezonetimeZoneNamesdates
+ডেট্ৰোইটexemplarCityAmerica/DetroitzonetimeZoneNamesdates
+মৰিছাছexemplarCityIndian/MauritiuszonetimeZoneNamesdates
+ইউক্লাexemplarCityAustralia/EuclazonetimeZoneNamesdates
+এল আইয়ুনexemplarCityAfrica/El_AaiunzonetimeZoneNamesdates
+জাগ্ৰেবexemplarCityEurope/ZagrebzonetimeZoneNamesdates
+কাটাৰexemplarCityAsia/QatarzonetimeZoneNamesdates
+আডাকexemplarCityAmerica/AdakzonetimeZoneNamesdates
+নিপিগনexemplarCityAmerica/NipigonzonetimeZoneNamesdates
+বাহিয়াexemplarCityAmerica/BahiazonetimeZoneNamesdates
+বোৱা ভিষ্টাexemplarCityAmerica/Boa_VistazonetimeZoneNamesdates
+মন্‌কটনexemplarCityAmerica/MonctonzonetimeZoneNamesdates
+প’ৰ্ট-ঔ-প্ৰিন্সexemplarCityAmerica/Port-au-PrincezonetimeZoneNamesdates
+ভিলনিয়াছexemplarCityEurope/VilniuszonetimeZoneNamesdates
+বাৰ্লিনexemplarCityEurope/BerlinzonetimeZoneNamesdates
+চান মাৰিনোexemplarCityEurope/San_MarinozonetimeZoneNamesdates
+আৰাগায়েনাexemplarCityAmerica/AraguainazonetimeZoneNamesdates
+আনাডিৰexemplarCityAsia/AnadyrzonetimeZoneNamesdates
+ছিম্ফেৰোপোলexemplarCityEurope/SimferopolzonetimeZoneNamesdates
+এণ্টিগুৱাexemplarCityAmerica/AntiguazonetimeZoneNamesdates
+ত্ৰিপোলিexemplarCityAfrica/TripolizonetimeZoneNamesdates
+নাৰুexemplarCityPacific/NauruzonetimeZoneNamesdates
+হো চি মিন চিটীexemplarCityAsia/SaigonzonetimeZoneNamesdates
+ফিনিক্সexemplarCityAmerica/PhoenixzonetimeZoneNamesdates
+ৱেকexemplarCityPacific/WakezonetimeZoneNamesdates
+উৰুম্‌কিexemplarCityAsia/UrumqizonetimeZoneNamesdates
+বাংগুইexemplarCityAfrica/BanguizonetimeZoneNamesdates
+গায়ানাexemplarCityAmerica/GuyanazonetimeZoneNamesdates
+ৰেইনী নদীexemplarCityAmerica/Rainy_RiverzonetimeZoneNamesdates
+জোহান্সবাৰ্গexemplarCityAfrica/JohannesburgzonetimeZoneNamesdates
+জুনেউexemplarCityAmerica/JuneauzonetimeZoneNamesdates
+নোমexemplarCityAmerica/NomezonetimeZoneNamesdates
+বেংককexemplarCityAsia/BangkokzonetimeZoneNamesdates
+লিণ্ডমানexemplarCityAustralia/LindemanzonetimeZoneNamesdates
+মাৰিয়াহেমexemplarCityEurope/MariehamnzonetimeZoneNamesdates
+তেলিনexemplarCityEurope/TallinnzonetimeZoneNamesdates
+কলম্বোexemplarCityAsia/ColombozonetimeZoneNamesdates
+মাডেৰাexemplarCityAtlantic/MadeirazonetimeZoneNamesdates
+লছ এঞ্জেলছ্exemplarCityAmerica/Los_AngeleszonetimeZoneNamesdates
+ছাল্টাexemplarCityAmerica/Argentina/SaltazonetimeZoneNamesdates
+লাক্সেমবাৰ্গexemplarCityEurope/LuxembourgzonetimeZoneNamesdates
+আম্মানexemplarCityAsia/AmmanzonetimeZoneNamesdates
+মাহেexemplarCityIndian/MahezonetimeZoneNamesdates
+বাকুexemplarCityAsia/BakuzonetimeZoneNamesdates
+ক্ৰাছনোয়াৰ্স্কexemplarCityAsia/KrasnoyarskzonetimeZoneNamesdates
+ছেইণ্ট বাৰ্থলেমেexemplarCityAmerica/St_BarthelemyzonetimeZoneNamesdates
+গায়াকুইলexemplarCityAmerica/GuayaquilzonetimeZoneNamesdates
+আইৰিচ মান সময়daylightlongEurope/DublinzonetimeZoneNamesdates
+ডাবলিনexemplarCityEurope/DublinzonetimeZoneNamesdates
+প’ৰ্ট অৱ স্পেইনexemplarCityAmerica/Port_of_SpainzonetimeZoneNamesdates
+ৱাৰছাওexemplarCityEurope/WarsawzonetimeZoneNamesdates
+এক্যোটবexemplarCityAsia/AqtobezonetimeZoneNamesdates
+নউমিয়াexemplarCityPacific/NoumeazonetimeZoneNamesdates
+কাৰাকাছexemplarCityAmerica/CaracaszonetimeZoneNamesdates
+আছুনচিয়নexemplarCityAmerica/AsuncionzonetimeZoneNamesdates
+নোৰোন্‌হাexemplarCityAmerica/NoronhazonetimeZoneNamesdates
+সমন্বিত সাৰ্বজনীন সময়standardlongEtc/UTCzonetimeZoneNamesdates
+ফাৰোexemplarCityAtlantic/FaeroezonetimeZoneNamesdates
+কোছৰায়েexemplarCityPacific/KosraezonetimeZoneNamesdates
+মণ্টিচেলো, কেণ্টুকীexemplarCityAmerica/Kentucky/MonticellozonetimeZoneNamesdates
+লোমexemplarCityAfrica/LomezonetimeZoneNamesdates
+ৰেজিনাexemplarCityAmerica/ReginazonetimeZoneNamesdates
+ব্ৰাজাভিলেexemplarCityAfrica/BrazzavillezonetimeZoneNamesdates
+ডেনমাৰ্কশ্বনexemplarCityAmerica/DanmarkshavnzonetimeZoneNamesdates
+ছাইপানexemplarCityPacific/SaipanzonetimeZoneNamesdates
+য়াঙোনexemplarCityAsia/RangoonzonetimeZoneNamesdates
+ইৰুনেপেexemplarCityAmerica/EirunepezonetimeZoneNamesdates
+নিউ ছালেম, উত্তৰ ডাকোটাexemplarCityAmerica/North_Dakota/New_SalemzonetimeZoneNamesdates
+মানাগুৱাexemplarCityAmerica/ManaguazonetimeZoneNamesdates
+প্ৰাগexemplarCityEurope/PraguezonetimeZoneNamesdates
+কোৰ্ডোবাexemplarCityAmerica/CordobazonetimeZoneNamesdates
+পুৱেৰ্টো ৰিকোexemplarCityAmerica/Puerto_RicozonetimeZoneNamesdates
+মিডৱেexemplarCityPacific/MidwayzonetimeZoneNamesdates
+মস্কোexemplarCityEurope/MoscowzonetimeZoneNamesdates
+মানাছexemplarCityAmerica/ManauszonetimeZoneNamesdates
+মাটামোৰোছexemplarCityAmerica/MatamoroszonetimeZoneNamesdates
+বিশ্ব্‌কেকexemplarCityAsia/BishkekzonetimeZoneNamesdates
+মোনাকোexemplarCityEurope/MonacozonetimeZoneNamesdates
+বেলেমexemplarCityAmerica/BelemzonetimeZoneNamesdates
+ভ্লাডিভোষ্টকexemplarCityAsia/VladivostokzonetimeZoneNamesdates
+নুকexemplarCityAmerica/GodthabzonetimeZoneNamesdates
+ইটোকোৰ্টোৰমিটexemplarCityAmerica/ScoresbysundzonetimeZoneNamesdates
+মেচিওexemplarCityAmerica/MaceiozonetimeZoneNamesdates
+ডেনভাৰexemplarCityAmerica/DenverzonetimeZoneNamesdates
+আলজিয়াৰ্ছexemplarCityAfrica/AlgierszonetimeZoneNamesdates
+পোৰ্টো-নোভোexemplarCityAfrica/Porto-NovozonetimeZoneNamesdates
+বাগদাদexemplarCityAsia/BaghdadzonetimeZoneNamesdates
+হোভ্‌ডexemplarCityAsia/HovdzonetimeZoneNamesdates
+নিয়োexemplarCityPacific/NiuezonetimeZoneNamesdates
+লুইছভিলেexemplarCityAmerica/LouisvillezonetimeZoneNamesdates
+ব’ইজেexemplarCityAmerica/BoisezonetimeZoneNamesdates
+ডুবাইexemplarCityAsia/DubaizonetimeZoneNamesdates
+কোকোছexemplarCityIndian/CocoszonetimeZoneNamesdates
+হেলছিংকিexemplarCityEurope/HelsinkizonetimeZoneNamesdates
+গুৱামexemplarCityPacific/GuamzonetimeZoneNamesdates
+এজোৰেছexemplarCityAtlantic/AzoreszonetimeZoneNamesdates
+ল’ৱাৰ প্ৰিন্সেছ কোৱাৰ্টাৰexemplarCityAmerica/Lower_PrinceszonetimeZoneNamesdates
+খাৰ্টুমexemplarCityAfrica/KhartoumzonetimeZoneNamesdates
+জামাইকাexemplarCityAmerica/JamaicazonetimeZoneNamesdates
+কেজিলোৰ্ডাexemplarCityAsia/QyzylordazonetimeZoneNamesdates
+এথেন্সexemplarCityEurope/AthenszonetimeZoneNamesdates
+বামাকোexemplarCityAfrica/BamakozonetimeZoneNamesdates
+ইণ্ডিয়ানাপ’লিছexemplarCityAmerica/IndianapoliszonetimeZoneNamesdates
+লুছাকাexemplarCityAfrica/LusakazonetimeZoneNamesdates
+তিজুৱানাexemplarCityAmerica/TijuanazonetimeZoneNamesdates
+কিভexemplarCityEurope/KievzonetimeZoneNamesdates
+পাগো পাগোexemplarCityPacific/Pago_PagozonetimeZoneNamesdates
+পোনপেইexemplarCityPacific/PonapezonetimeZoneNamesdates
+চ্চুকexemplarCityPacific/TrukzonetimeZoneNamesdates
+কলকাতাexemplarCityAsia/CalcuttazonetimeZoneNamesdates
+য়েকাটেৰিণবাৰ্গexemplarCityAsia/YekaterinburgzonetimeZoneNamesdates
+লুৱাণ্ডাexemplarCityAfrica/LuandazonetimeZoneNamesdates
+মেনোমিনীexemplarCityAmerica/MenomineezonetimeZoneNamesdates
+ইস্তানবুলexemplarCityEurope/IstanbulzonetimeZoneNamesdates
+কাঠমাণ্ডুexemplarCityAsia/KatmanduzonetimeZoneNamesdates
+টকিঅ’exemplarCityAsia/TokyozonetimeZoneNamesdates
+মুস্কেটexemplarCityAsia/MuscatzonetimeZoneNamesdates
+লুবুম্বাচিexemplarCityAfrica/LubumbashizonetimeZoneNamesdates
+জিব্ৰাল্টৰexemplarCityEurope/GibraltarzonetimeZoneNamesdates
+কিৰিটিমাটিexemplarCityPacific/KiritimatizonetimeZoneNamesdates
+কোইবাল্ছনexemplarCityAsia/ChoibalsanzonetimeZoneNamesdates
+কেইমেনexemplarCityAmerica/CaymanzonetimeZoneNamesdates
+উইনামেক, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/WinamaczonetimeZoneNamesdates
+আমষ্টাৰডামexemplarCityEurope/AmsterdamzonetimeZoneNamesdates
+য়াকুটাটexemplarCityAmerica/YakutatzonetimeZoneNamesdates
+জাপোৰোজাইexemplarCityEurope/ZaporozhyezonetimeZoneNamesdates
+জুবাexemplarCityAfrica/JubazonetimeZoneNamesdates
+পেৰিছexemplarCityEurope/PariszonetimeZoneNamesdates
+মাপুটোexemplarCityAfrica/MaputozonetimeZoneNamesdates
+কেনেৰীexemplarCityAtlantic/CanaryzonetimeZoneNamesdates
+তাৰাৱাexemplarCityPacific/TarawazonetimeZoneNamesdates
+চেণ্টাৰ, উত্তৰ ডাকোটাexemplarCityAmerica/North_Dakota/CenterzonetimeZoneNamesdates
+ফোৰ্টালেজাexemplarCityAmerica/FortalezazonetimeZoneNamesdates
+কেনকুনexemplarCityAmerica/CancunzonetimeZoneNamesdates
+মেক্সিকো চিটীexemplarCityAmerica/Mexico_CityzonetimeZoneNamesdates
+বাহিয়া বান্দেৰাছexemplarCityAmerica/Bahia_BanderaszonetimeZoneNamesdates
+আন্দোৰাexemplarCityEurope/AndorrazonetimeZoneNamesdates
+ডেভিছexemplarCityAntarctica/DaviszonetimeZoneNamesdates
+হাভানাexemplarCityAmerica/HavanazonetimeZoneNamesdates
+কোপেনহাগেনexemplarCityEurope/CopenhagenzonetimeZoneNamesdates
+ছিট্‌‌কাexemplarCityAmerica/SitkazonetimeZoneNamesdates
+ন’ৰফ’কexemplarCityPacific/NorfolkzonetimeZoneNamesdates
+কুচিংexemplarCityAsia/KuchingzonetimeZoneNamesdates
+মেলব’ৰ্ণexemplarCityAustralia/MelbournezonetimeZoneNamesdates
+ব্লাংক-ছেবলোনexemplarCityAmerica/Blanc-SablonzonetimeZoneNamesdates
+নৌআকচোটexemplarCityAfrica/NouakchottzonetimeZoneNamesdates
+আপিয়াexemplarCityPacific/ApiazonetimeZoneNamesdates
+ব্ৰাটিছলাভাexemplarCityEurope/BratislavazonetimeZoneNamesdates
+পিটাৰ্ছবাৰ্গ, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/PetersburgzonetimeZoneNamesdates
+আশ্ব্গা‌বাটexemplarCityAsia/AshgabatzonetimeZoneNamesdates
+মাজাট্‌লানexemplarCityAmerica/MazatlanzonetimeZoneNamesdates
+উল্যানোভ্‌স্কexemplarCityEurope/UlyanovskzonetimeZoneNamesdates
+নক্স, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/KnoxzonetimeZoneNamesdates
+নোভোকুজনেত্স্কexemplarCityAsia/NovokuznetskzonetimeZoneNamesdates
+নেদজামেনাexemplarCityAfrica/NdjamenazonetimeZoneNamesdates
+বুচাৰেষ্টexemplarCityEurope/BucharestzonetimeZoneNamesdates
+পালাউexemplarCityPacific/PalauzonetimeZoneNamesdates
+ডুৱালাexemplarCityAfrica/DoualazonetimeZoneNamesdates
+লিছবনexemplarCityEurope/LisbonzonetimeZoneNamesdates
+গুছ উপসাগৰexemplarCityAmerica/Goose_BayzonetimeZoneNamesdates
+ষ্টেন্‌লীexemplarCityAtlantic/StanleyzonetimeZoneNamesdates
+মাকাউexemplarCityAsia/MacauzonetimeZoneNamesdates
+ছিউলexemplarCityAsia/SeoulzonetimeZoneNamesdates
+ছামাৰকাণ্ডexemplarCityAsia/SamarkandzonetimeZoneNamesdates
+নাছাউexemplarCityAmerica/NassauzonetimeZoneNamesdates
+উষ্ট-নেৰাexemplarCityAsia/Ust-NerazonetimeZoneNamesdates
+ছাও পাউলোexemplarCityAmerica/Sao_PaulozonetimeZoneNamesdates
+ৰিঅ’ ব্ৰাংকোexemplarCityAmerica/Rio_BrancozonetimeZoneNamesdates
+ছেইণ্ট জনচ্exemplarCityAmerica/St_JohnszonetimeZoneNamesdates
+আস্মাৰাexemplarCityAfrica/AsmerazonetimeZoneNamesdates
+প’ৰ্ট মোৰেছ্‌বিexemplarCityPacific/Port_MoresbyzonetimeZoneNamesdates
+আদেনexemplarCityAsia/AdenzonetimeZoneNamesdates
+টংগাটাপুexemplarCityPacific/TongatapuzonetimeZoneNamesdates
+বাৰ্মুডাexemplarCityAtlantic/BermudazonetimeZoneNamesdates
+বুজুম্বুৰাexemplarCityAfrica/BujumburazonetimeZoneNamesdates
+বুডাপেষ্টexemplarCityEurope/BudapestzonetimeZoneNamesdates
+টাইপেইexemplarCityAsia/TaipeizonetimeZoneNamesdates
+আটিকোকানexemplarCityAmerica/Coral_HarbourzonetimeZoneNamesdates
+ডাওছন ক্ৰীকexemplarCityAmerica/Dawson_CreekzonetimeZoneNamesdates
+উচুআইয়াexemplarCityAmerica/Argentina/UshuaiazonetimeZoneNamesdates
+ছেইণ্ট লুচিয়াexemplarCityAmerica/St_LuciazonetimeZoneNamesdates
+ডাৰ এছ ছালামexemplarCityAfrica/Dar_es_SalaamzonetimeZoneNamesdates
+পাংনিৰ্টুংগexemplarCityAmerica/PangnirtungzonetimeZoneNamesdates
+গাজাexemplarCityAsia/GazazonetimeZoneNamesdates
+বোগেইনভিলেexemplarCityPacific/BougainvillezonetimeZoneNamesdates
+ৱিনিপেগexemplarCityAmerica/WinnipegzonetimeZoneNamesdates
+ঔগাডোগোexemplarCityAfrica/OuagadougouzonetimeZoneNamesdates
+নিকোছিয়াexemplarCityAsia/NicosiazonetimeZoneNamesdates
+বেইৰুটexemplarCityAsia/BeirutzonetimeZoneNamesdates
+কালিনিনগ্ৰাডexemplarCityEurope/KaliningradzonetimeZoneNamesdates
+ভাদুজexemplarCityEurope/VaduzzonetimeZoneNamesdates
+লংগেইৰবায়েনexemplarCityArctic/LongyearbyenzonetimeZoneNamesdates
+কেৰগুলেনexemplarCityIndian/KerguelenzonetimeZoneNamesdates
+বেলগ্ৰেডexemplarCityEurope/BelgradezonetimeZoneNamesdates
+এডমণ্টনexemplarCityAmerica/EdmontonzonetimeZoneNamesdates
+ইনুভিকexemplarCityAmerica/InuvikzonetimeZoneNamesdates
+স্বোৱাexemplarCityAntarctica/SyowazonetimeZoneNamesdates
+ঢাকাexemplarCityAsia/DhakazonetimeZoneNamesdates
+মাদ্ৰিদexemplarCityEurope/MadridzonetimeZoneNamesdates
+জাৰ্চিexemplarCityEurope/JerseyzonetimeZoneNamesdates
+এণ্টানানাৰিভোexemplarCityIndian/AntananarivozonetimeZoneNamesdates
+মাছেৰুexemplarCityAfrica/MaseruzonetimeZoneNamesdates
+লা পাজexemplarCityAmerica/La_PazzonetimeZoneNamesdates
+টেল চিটী, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/Tell_CityzonetimeZoneNamesdates
+ব্ৰিচবেনexemplarCityAustralia/BrisbanezonetimeZoneNamesdates
+উলানবাটাৰexemplarCityAsia/UlaanbaatarzonetimeZoneNamesdates
+তাহিতিexemplarCityPacific/TahitizonetimeZoneNamesdates
+ৰেচাইফexemplarCityAmerica/RecifezonetimeZoneNamesdates
+চিহুআহুৱাexemplarCityAmerica/ChihuahuazonetimeZoneNamesdates
+টাইৰেনexemplarCityEurope/TiranezonetimeZoneNamesdates
+জায়াপুৰাexemplarCityAsia/JayapurazonetimeZoneNamesdates
+বুনছ আয়াৰ্ছexemplarCityAmerica/Buenos_AireszonetimeZoneNamesdates
+এণ্ডৰবাৰীexemplarCityPacific/EnderburyzonetimeZoneNamesdates
+হেব্ৰোনexemplarCityAsia/HebronzonetimeZoneNamesdates
+পানামাexemplarCityAmerica/PanamazonetimeZoneNamesdates
+ছোফিয়াexemplarCityEurope/SofiazonetimeZoneNamesdates
+হোবাৰ্টexemplarCityAustralia/HobartzonetimeZoneNamesdates
+ক্যুৰিexemplarCityAustralia/CurriezonetimeZoneNamesdates
+কাবুলexemplarCityAsia/KabulzonetimeZoneNamesdates
+ভিয়েনাexemplarCityEurope/ViennazonetimeZoneNamesdates
+মালাবোexemplarCityAfrica/MalabozonetimeZoneNamesdates
+প্যংয়াংexemplarCityAsia/PyongyangzonetimeZoneNamesdates
+মায়োট্টেexemplarCityIndian/MayottezonetimeZoneNamesdates
+পোৰ্টো ভেল্‌হোexemplarCityAmerica/Porto_VelhozonetimeZoneNamesdates
+লা ৰিওজাexemplarCityAmerica/Argentina/La_RiojazonetimeZoneNamesdates
+আবিডজানexemplarCityAfrica/AbidjanzonetimeZoneNamesdates
+পাৰ্থexemplarCityAustralia/PerthzonetimeZoneNamesdates
+বেলিজexemplarCityAmerica/BelizezonetimeZoneNamesdates
+কাম্পালাexemplarCityAfrica/KampalazonetimeZoneNamesdates
+কেম্পো গ্ৰেণ্ডেexemplarCityAmerica/Campo_GrandezonetimeZoneNamesdates
+অজ্ঞাত চহৰexemplarCityEtc/UnknownzonetimeZoneNamesdates
+বাৰ্বাডোচexemplarCityAmerica/BarbadoszonetimeZoneNamesdates
+মাউছনexemplarCityAntarctica/MawsonzonetimeZoneNamesdates
+চেউটাexemplarCityAfrica/CeutazonetimeZoneNamesdates
+লণ্ডনexemplarCityEurope/LondonzonetimeZoneNamesdates
+ব্ৰিটিছ গ্ৰীষ্মকালীন সময়daylightlongEurope/LondonzonetimeZoneNamesdates
+গুৱাডেলুপexemplarCityAmerica/GuadeloupezonetimeZoneNamesdates
+লিব্ৰিভিলেexemplarCityAfrica/LibrevillezonetimeZoneNamesdates
+কুৱেইটexemplarCityAsia/KuwaitzonetimeZoneNamesdates
+ছেইণ্ট ভিনচেণ্টexemplarCityAmerica/St_VincentzonetimeZoneNamesdates
+মণ্টেভিডিঅ’exemplarCityAmerica/MontevideozonetimeZoneNamesdates
+মাৰেংগো, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/MarengozonetimeZoneNamesdates
+ছিংগাপুৰexemplarCityAsia/SingaporezonetimeZoneNamesdates
+কিগালীexemplarCityAfrica/KigalizonetimeZoneNamesdates
+লাগোছexemplarCityAfrica/LagoszonetimeZoneNamesdates
+ফ’ৰ্ট নেলছনexemplarCityAmerica/Fort_NelsonzonetimeZoneNamesdates
+ব্ৰোকেন হিলexemplarCityAustralia/Broken_HillzonetimeZoneNamesdates
+মেটলাকাট্‌লাexemplarCityAmerica/MetlakatlazonetimeZoneNamesdates
+এল ছেলভেড’ৰexemplarCityAmerica/El_SalvadorzonetimeZoneNamesdates
+গুৱাডলকানালexemplarCityPacific/GuadalcanalzonetimeZoneNamesdates
+থাণ্ডাৰ উপসাগৰexemplarCityAmerica/Thunder_BayzonetimeZoneNamesdates
+পিটকেইৰ্ণexemplarCityPacific/PitcairnzonetimeZoneNamesdates
+ছেণ্টাৰেমexemplarCityAmerica/SantaremzonetimeZoneNamesdates
+পুণ্টা এৰিনাছexemplarCityAmerica/Punta_ArenaszonetimeZoneNamesdates
+অ’ৰেলexemplarCityAsia/OralzonetimeZoneNamesdates
+ফ্ৰিটাউনexemplarCityAfrica/FreetownzonetimeZoneNamesdates
+চিকাগোexemplarCityAmerica/ChicagozonetimeZoneNamesdates
+অকলেণ্ডexemplarCityPacific/AucklandzonetimeZoneNamesdates
+ছামাৰাexemplarCityEurope/SamarazonetimeZoneNamesdates
+নিয়ামীexemplarCityAfrica/NiameyzonetimeZoneNamesdates
+ভেনকুভেৰexemplarCityAmerica/VancouverzonetimeZoneNamesdates
+ৰিঅ’ গালেগোছexemplarCityAmerica/Argentina/Rio_GallegoszonetimeZoneNamesdates
+জাকাৰ্টাexemplarCityAsia/JakartazonetimeZoneNamesdates
+গ্ৰেনাডাexemplarCityAmerica/GrenadazonetimeZoneNamesdates
+ভেভে, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/VevayzonetimeZoneNamesdates
+মিংস্কexemplarCityEurope/MinskzonetimeZoneNamesdates
+খাণ্ডিগাexemplarCityAsia/KhandygazonetimeZoneNamesdates
+ব্ৰুছলেছexemplarCityEurope/BrusselszonetimeZoneNamesdates
+টুনিছexemplarCityAfrica/TuniszonetimeZoneNamesdates
+স্ৰেডনিকোলিমস্কexemplarCityAsia/SrednekolymskzonetimeZoneNamesdates
+চাথামexemplarCityPacific/ChathamzonetimeZoneNamesdates
+ভোল্গোগ্ৰাডexemplarCityEurope/VolgogradzonetimeZoneNamesdates
+ব্লাণ্টায়াৰexemplarCityAfrica/BlantyrezonetimeZoneNamesdates
+ট’ৰ’ণ্টোexemplarCityAmerica/TorontozonetimeZoneNamesdates
+ক্ৰালেণ্ডিজিকexemplarCityAmerica/KralendijkzonetimeZoneNamesdates
+মেৰিগোটexemplarCityAmerica/MarigotzonetimeZoneNamesdates
+ভিনচেনেছ, ইণ্ডিয়ানাexemplarCityAmerica/Indiana/VincenneszonetimeZoneNamesdates
+ডিলিexemplarCityAsia/DilizonetimeZoneNamesdates
+কাটামাৰ্কাexemplarCityAmerica/CatamarcazonetimeZoneNamesdates
+আষ্ট্ৰাখানexemplarCityEurope/AstrakhanzonetimeZoneNamesdates
+ছাণ্টো ডোমিংগোexemplarCityAmerica/Santo_DomingozonetimeZoneNamesdates
+এক্যোট্যাওexemplarCityAsia/AqtauzonetimeZoneNamesdates
+স্কোপ্জেexemplarCityEurope/SkopjezonetimeZoneNamesdates
+ষ্টকহোমexemplarCityEurope/StockholmzonetimeZoneNamesdates
+গাবোৰোণexemplarCityAfrica/GaboronezonetimeZoneNamesdates
+ৰোথেৰাexemplarCityAntarctica/RotherazonetimeZoneNamesdates
+বোগোটাexemplarCityAmerica/BogotazonetimeZoneNamesdates
+কোমোৰোexemplarCityIndian/ComorozonetimeZoneNamesdates
+ছাংহাইexemplarCityAsia/ShanghaizonetimeZoneNamesdates
+ভেটিকানexemplarCityEurope/VaticanzonetimeZoneNamesdates
+তাছকেণ্টexemplarCityAsia/TashkentzonetimeZoneNamesdates
+ডামাস্কাছexemplarCityAsia/DamascuszonetimeZoneNamesdates
+ৰিজ’লিউটexemplarCityAmerica/ResolutezonetimeZoneNamesdates
+মোগাদিচুexemplarCityAfrica/MogadishuzonetimeZoneNamesdates
+নোভোছিবিৰ্স্কexemplarCityAsia/NovosibirskzonetimeZoneNamesdates
+ডমিনিকাexemplarCityAmerica/DominicazonetimeZoneNamesdates
+আদ্দিছ আবাবাexemplarCityAfrica/Addis_AbabazonetimeZoneNamesdates
+দক্ষিণ জৰ্জিয়াexemplarCityAtlantic/South_GeorgiazonetimeZoneNamesdates
+ছেইণ্ট হেলেনাexemplarCityAtlantic/St_HelenazonetimeZoneNamesdates
+বেউলাহ, উত্তৰ ডাকোটাexemplarCityAmerica/North_Dakota/BeulahzonetimeZoneNamesdates
+ৰেংকিন ইনলেটexemplarCityAmerica/Rankin_InletzonetimeZoneNamesdates
+ডাৰউইনexemplarCityAustralia/DarwinzonetimeZoneNamesdates
+গেম্বিয়াৰexemplarCityPacific/GambierzonetimeZoneNamesdates
+লৰ্ড হাওexemplarCityAustralia/Lord_HowezonetimeZoneNamesdates
+মাল্টাexemplarCityEurope/MaltazonetimeZoneNamesdates
+আলমাটিexemplarCityAsia/AlmatyzonetimeZoneNamesdates
+বাৰ্নুলexemplarCityAsia/BarnaulzonetimeZoneNamesdates
+উজ্গোৰোডexemplarCityEurope/UzhgorodzonetimeZoneNamesdates
+ডাওছনexemplarCityAmerica/DawsonzonetimeZoneNamesdates
+কুইআবাexemplarCityAmerica/CuiabazonetimeZoneNamesdates
+ইষ্টাৰexemplarCityPacific/EasterzonetimeZoneNamesdates
+খ্ৰীষ্টমাছexemplarCityIndian/ChristmaszonetimeZoneNamesdates
+জেৰুজালেমexemplarCityAsia/JerusalemzonetimeZoneNamesdates
+পোডগোৰিকাexemplarCityEurope/PodgoricazonetimeZoneNamesdates
+প্ৰাচ্য ইউৰোপীয় সময়genericlongEurope_EasternmetazonetimeZoneNamesdates
+প্ৰাচ্য ইউৰোপীয় মান সময়standardlongEurope_EasternmetazonetimeZoneNamesdates
+প্ৰাচ্য ইউৰোপীয় গ্ৰীষ্মকালীন সময়daylightlongEurope_EasternmetazonetimeZoneNamesdates
+ফ্ৰান্স গয়ানাৰ সময়standardlongFrench_GuianametazonetimeZoneNamesdates
+ব্ৰাজিলিয়াৰ গ্ৰীষ্মকালীন সময়daylightlongBrasiliametazonetimeZoneNamesdates
+ব্ৰাজিলিয়াৰ মান সময়standardlongBrasiliametazonetimeZoneNamesdates
+ব্ৰাজিলিয়াৰ সময়genericlongBrasiliametazonetimeZoneNamesdates
+তাজিকিস্তানৰ সময়standardlongTajikistanmetazonetimeZoneNamesdates
+আৰবীয় ডেলাইট সময়daylightlongArabianmetazonetimeZoneNamesdates
+আৰবীয় মান সময়standardlongArabianmetazonetimeZoneNamesdates
+আৰবীয় সময়genericlongArabianmetazonetimeZoneNamesdates
+মৰিছাছৰ সময়genericlongMauritiusmetazonetimeZoneNamesdates
+মৰিছাছৰ মান সময়standardlongMauritiusmetazonetimeZoneNamesdates
+মৰিছাছৰ গ্ৰীষ্মকালীন সময়daylightlongMauritiusmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ ডেলাইট সময়daylightlongAmerica_PacificmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ প্ৰশান্ত মান সময়standardlongAmerica_PacificmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ প্ৰশান্ত সময়genericlongAmerica_PacificmetazonetimeZoneNamesdates
+প্যংয়াংৰ সময়standardlongPyongyangmetazonetimeZoneNamesdates
+নাউৰুৰ সময়standardlongNaurumetazonetimeZoneNamesdates
+ছেইণ্ট পিয়েৰে আৰু মিকিউৱেলনৰ মান সময়standardlongPierre_MiquelonmetazonetimeZoneNamesdates
+ছেইণ্ট পিয়েৰে আৰু মিকিউৱেলনৰ সময়genericlongPierre_MiquelonmetazonetimeZoneNamesdates
+ছেইণ্ট পিয়েৰে আৰু মিকিউৱেলনৰ ডেলাইট সময়daylightlongPierre_MiquelonmetazonetimeZoneNamesdates
+আৰ্মেনিয়াৰ গ্ৰীষ্মকালীন সময়daylightlongArmeniametazonetimeZoneNamesdates
+আৰ্মেনিয়াৰ সময়genericlongArmeniametazonetimeZoneNamesdates
+আৰ্মেনিয়াৰ মান সময়standardlongArmeniametazonetimeZoneNamesdates
+য়েকাটেৰিণবাৰ্গৰ গ্ৰীষ্মকালীন সময়daylightlongYekaterinburgmetazonetimeZoneNamesdates
+য়েকাটেৰিণবাৰ্গৰ সময়genericlongYekaterinburgmetazonetimeZoneNamesdates
+য়েকাটেৰিণবাৰ্গৰ মান সময়standardlongYekaterinburgmetazonetimeZoneNamesdates
+ভেনিজুৱেলাৰ সময়standardlongVenezuelametazonetimeZoneNamesdates
+আৰ্জেণ্টিনাৰ মান সময়standardlongArgentinametazonetimeZoneNamesdates
+আৰ্জেণ্টিনাৰ সময়genericlongArgentinametazonetimeZoneNamesdates
+আৰ্জেণ্টিনাৰ গ্ৰীষ্মকালীন সময়daylightlongArgentinametazonetimeZoneNamesdates
+ইণ্ডোচাইনাৰ সময়standardlongIndochinametazonetimeZoneNamesdates
+চামোৰোৰ মান সময়standardlongChamorrometazonetimeZoneNamesdates
+গালাপাগোছৰ সময়standardlongGalapagosmetazonetimeZoneNamesdates
+কোছৰায়ে সময়standardlongKosraemetazonetimeZoneNamesdates
+ব্ৰুনেই ডাৰুছালেমৰ সময়standardlongBruneimetazonetimeZoneNamesdates
+পাৰাগুৱেৰ গ্ৰীষ্মকালীন সময়daylightlongParaguaymetazonetimeZoneNamesdates
+পাৰাগুৱেৰ মান সময়standardlongParaguaymetazonetimeZoneNamesdates
+পাৰাগুৱেৰ সময়genericlongParaguaymetazonetimeZoneNamesdates
+তাহিতিৰ সময়standardlongTahitimetazonetimeZoneNamesdates
+উৰুগুৱেৰ সময়genericlongUruguaymetazonetimeZoneNamesdates
+উৰুগুৱেৰ মান সময়standardlongUruguaymetazonetimeZoneNamesdates
+উৰুগুৱেৰ গ্ৰীষ্মকালীন সময়daylightlongUruguaymetazonetimeZoneNamesdates
+ডুমোণ্ট-ডি আৰ্ভিলৰ সময়standardlongDumontDUrvillemetazonetimeZoneNamesdates
+টাইপেইৰ ডেলাইট সময়daylightlongTaipeimetazonetimeZoneNamesdates
+টাইপেইৰ মান সময়standardlongTaipeimetazonetimeZoneNamesdates
+টাইপেইৰ সময়genericlongTaipeimetazonetimeZoneNamesdates
+পূব আফ্ৰিকাৰ সময়standardlongAfrica_EasternmetazonetimeZoneNamesdates
+ছিচিলিছৰ সময়standardlongSeychellesmetazonetimeZoneNamesdates
+পেৰুৰ গ্ৰীষ্মকালীন সময়daylightlongPerumetazonetimeZoneNamesdates
+পেৰুৰ সময়genericlongPerumetazonetimeZoneNamesdates
+পেৰুৰ মান সময়standardlongPerumetazonetimeZoneNamesdates
+বাংলাদেশৰ গ্ৰীষ্মকালীন সময়daylightlongBangladeshmetazonetimeZoneNamesdates
+বাংলাদেশৰ সময়genericlongBangladeshmetazonetimeZoneNamesdates
+বাংলাদেশৰ মান সময়standardlongBangladeshmetazonetimeZoneNamesdates
+আপিয়াৰ ডেলাইট সময়daylightlongApiametazonetimeZoneNamesdates
+আপিয়াৰ মান সময়standardlongApiametazonetimeZoneNamesdates
+আপিয়াৰ সময়genericlongApiametazonetimeZoneNamesdates
+ইৰ্কুটস্কৰ গ্ৰীষ্মকালীন সময়daylightlongIrkutskmetazonetimeZoneNamesdates
+ইৰ্কুটস্কৰ সময়genericlongIrkutskmetazonetimeZoneNamesdates
+ইৰ্কুটস্কৰ মান সময়standardlongIrkutskmetazonetimeZoneNamesdates
+ইষ্টাৰ দ্বীপৰ সময়genericlongEastermetazonetimeZoneNamesdates
+ইষ্টাৰ দ্বীপৰ মান সময়standardlongEastermetazonetimeZoneNamesdates
+ইষ্টাৰ দ্বীপৰ গ্ৰীষ্মকালীন সময়daylightlongEastermetazonetimeZoneNamesdates
+গায়ানাৰ সময়standardlongGuyanametazonetimeZoneNamesdates
+কুক দ্বীপপুঞ্জৰ সময়genericlongCookmetazonetimeZoneNamesdates
+কুক দ্বীপপুঞ্জৰ মান সময়standardlongCookmetazonetimeZoneNamesdates
+কুক দ্বীপপুঞ্জৰ অৰ্ধ গ্ৰীষ্মকালীন সময়daylightlongCookmetazonetimeZoneNamesdates
+ফাৰ্নাণ্ডো ডে নোৰোন্‌হাৰ গ্ৰীষ্মকালীন সময়daylightlongNoronhametazonetimeZoneNamesdates
+ফাৰ্নাণ্ডো ডে নোৰোন্‌হাৰ সময়genericlongNoronhametazonetimeZoneNamesdates
+ফাৰ্নাণ্ডো ডে নোৰোন্‌হাৰ মান সময়standardlongNoronhametazonetimeZoneNamesdates
+ন’ৰফ’ক দ্বীপৰ সময়standardlongNorfolkmetazonetimeZoneNamesdates
+আলাস্কাৰ ডেলাইট সময়daylightlongAlaskametazonetimeZoneNamesdates
+আলাস্কাৰ মান সময়standardlongAlaskametazonetimeZoneNamesdates
+আলাস্কাৰ সময়genericlongAlaskametazonetimeZoneNamesdates
+ইজৰাইলৰ সময়genericlongIsraelmetazonetimeZoneNamesdates
+ইজৰাইলৰ মান সময়standardlongIsraelmetazonetimeZoneNamesdates
+ইজৰাইলৰ ডেলাইট সময়daylightlongIsraelmetazonetimeZoneNamesdates
+পূব কাজাখস্তানৰ সময়standardlongKazakhstan_EasternmetazonetimeZoneNamesdates
+ভানাটুৰ মান সময়standardlongVanuatumetazonetimeZoneNamesdates
+ভানাটুৰ সময়genericlongVanuatumetazonetimeZoneNamesdates
+ভানাটুৰ গ্ৰীষ্মকালীন সময়daylightlongVanuatumetazonetimeZoneNamesdates
+কোকোছ দ্বীপপুঞ্জৰ সময়standardlongCocosmetazonetimeZoneNamesdates
+তুৰ্কমেনিস্তানৰ সময়genericlongTurkmenistanmetazonetimeZoneNamesdates
+তুৰ্কমেনিস্তানৰ মান সময়standardlongTurkmenistanmetazonetimeZoneNamesdates
+তুৰ্কমেনিস্তানৰ গ্ৰীষ্মকালীন সময়daylightlongTurkmenistanmetazonetimeZoneNamesdates
+দক্ষিণ ফ্ৰান্স আৰু এণ্টাৰ্কটিক সময়standardlongFrench_SouthernmetazonetimeZoneNamesdates
+মধ্য ইণ্ডোনেচিয়াৰ সময়standardlongIndonesia_CentralmetazonetimeZoneNamesdates
+পাশ্চাত্য ইণ্ডোনেচিয়াৰ সময়standardlongIndonesia_WesternmetazonetimeZoneNamesdates
+ফিজিৰ মান সময়standardlongFijimetazonetimeZoneNamesdates
+ফিজিৰ সময়genericlongFijimetazonetimeZoneNamesdates
+ফিজিৰ গ্ৰীষ্মকালীন সময়daylightlongFijimetazonetimeZoneNamesdates
+ম্যানমাৰৰ সময়standardlongMyanmarmetazonetimeZoneNamesdates
+পাকিস্তানৰ সময়genericlongPakistanmetazonetimeZoneNamesdates
+পাকিস্তানৰ মান সময়standardlongPakistanmetazonetimeZoneNamesdates
+পাকিস্তানৰ গ্ৰীষ্মকালীন সময়daylightlongPakistanmetazonetimeZoneNamesdates
+আজোৰেছৰ গ্ৰীষ্মকালীন সময়daylightlongAzoresmetazonetimeZoneNamesdates
+আজোৰেছৰ মান সময়standardlongAzoresmetazonetimeZoneNamesdates
+আজোৰেছ সময়genericlongAzoresmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ কেন্দ্ৰীয় সময়genericlongAmerica_CentralmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ কেন্দ্ৰীয় মান সময়standardlongAmerica_CentralmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ কেন্দ্ৰীয় ডেলাইট সময়daylightlongAmerica_CentralmetazonetimeZoneNamesdates
+আমাজনৰ গ্ৰীষ্মকালীন সময়daylightlongAmazonmetazonetimeZoneNamesdates
+আমাজনৰ মান সময়standardlongAmazonmetazonetimeZoneNamesdates
+আমাজনৰ সময়genericlongAmazonmetazonetimeZoneNamesdates
+ভাৰত মহাসাগৰীয় সময়standardlongIndian_OceanmetazonetimeZoneNamesdates
+ক্ৰাছনোয়াৰ্স্কৰ সময়genericlongKrasnoyarskmetazonetimeZoneNamesdates
+ক্ৰাছনোয়াৰ্স্কৰ মান সময়standardlongKrasnoyarskmetazonetimeZoneNamesdates
+ক্ৰাছনোয়াৰ্স্ক গ্ৰীষ্মকালীন সময়daylightlongKrasnoyarskmetazonetimeZoneNamesdates
+পিটকেইৰ্ণৰ সময়standardlongPitcairnmetazonetimeZoneNamesdates
+ৱালিছ আৰু ফুটুনাৰ সময়standardlongWallismetazonetimeZoneNamesdates
+ভ্লাডিভোষ্টোকৰ মান সময়standardlongVladivostokmetazonetimeZoneNamesdates
+ভ্লাডিভোষ্টোকৰ সময়genericlongVladivostokmetazonetimeZoneNamesdates
+ভ্লাডিভোষ্টোকৰ গ্ৰীষ্মকালীন সময়daylightlongVladivostokmetazonetimeZoneNamesdates
+প্ৰাচ্য ইণ্ডোনেচিয়াৰ সময়standardlongIndonesia_EasternmetazonetimeZoneNamesdates
+আটলাণ্টিক ডেলাইট সময়daylightlongAtlanticmetazonetimeZoneNamesdates
+আটলাণ্টিক মান সময়standardlongAtlanticmetazonetimeZoneNamesdates
+আটলাণ্টিক সময়genericlongAtlanticmetazonetimeZoneNamesdates
+ছামোৱাৰ ডেলাইট সময়daylightlongSamoametazonetimeZoneNamesdates
+ছামোৱাৰ সময়genericlongSamoametazonetimeZoneNamesdates
+ছামোৱাৰ মান সময়standardlongSamoametazonetimeZoneNamesdates
+পূব তিমোৰৰ সময়standardlongEast_TimormetazonetimeZoneNamesdates
+গ্ৰীণউইচ মান সময়standardlongGMTmetazonetimeZoneNamesdates
+কিৰ্গিজস্তানৰ সময়standardlongKyrgystanmetazonetimeZoneNamesdates
+গেম্বিয়াৰ সময়standardlongGambiermetazonetimeZoneNamesdates
+নভোছিবিৰ্স্কৰ সময়genericlongNovosibirskmetazonetimeZoneNamesdates
+নভোছিবিৰ্স্কৰ মান সময়standardlongNovosibirskmetazonetimeZoneNamesdates
+নভোছিবিৰ্স্কৰ গ্ৰীষ্মকালীন সময়daylightlongNovosibirskmetazonetimeZoneNamesdates
+গিলবাৰ্ট দ্বীপপুঞ্জৰ সময়standardlongGilbert_IslandsmetazonetimeZoneNamesdates
+উপসাগৰীয় মান সময়standardlongGulfmetazonetimeZoneNamesdates
+মাগাদানৰ সময়genericlongMagadanmetazonetimeZoneNamesdates
+মাগাদানৰ মান সময়standardlongMagadanmetazonetimeZoneNamesdates
+মাগাদানৰ গ্ৰীষ্মকালীন সময়daylightlongMagadanmetazonetimeZoneNamesdates
+পশ্চিম কাজাখস্তানৰ সময়standardlongKazakhstan_WesternmetazonetimeZoneNamesdates
+উজবেকিস্তানৰ গ্ৰীষ্মকালীন সময়daylightlongUzbekistanmetazonetimeZoneNamesdates
+উজবেকিস্তানৰ সময়genericlongUzbekistanmetazonetimeZoneNamesdates
+উজবেকিস্তানৰ মান সময়standardlongUzbekistanmetazonetimeZoneNamesdates
+পালাউৰ সময়standardlongPalaumetazonetimeZoneNamesdates
+মেক্সিকোৰ প্ৰশান্ত ডেলাইট সময়daylightlongMexico_PacificmetazonetimeZoneNamesdates
+মেক্সিকোৰ প্ৰশান্ত মান সময়standardlongMexico_PacificmetazonetimeZoneNamesdates
+মেক্সিকোৰ প্ৰশান্ত সময়genericlongMexico_PacificmetazonetimeZoneNamesdates
+মস্কোৰ সময়genericlongMoscowmetazonetimeZoneNamesdates
+মস্কোৰ মান সময়standardlongMoscowmetazonetimeZoneNamesdates
+মস্কোৰ গ্ৰীষ্মকালীন সময়daylightlongMoscowmetazonetimeZoneNamesdates
+ইৰানৰ মান সময়standardlongIranmetazonetimeZoneNamesdates
+ইৰানৰ সময়genericlongIranmetazonetimeZoneNamesdates
+ইৰানৰ ডেলাইট সময়daylightlongIranmetazonetimeZoneNamesdates
+ছিংগাপুৰৰ মান সময়standardlongSingaporemetazonetimeZoneNamesdates
+ওমস্কৰ মান সময়standardlongOmskmetazonetimeZoneNamesdates
+ওমস্কৰ সময়genericlongOmskmetazonetimeZoneNamesdates
+ওমস্কৰ গ্ৰীষ্মকালীন সময়daylightlongOmskmetazonetimeZoneNamesdates
+কেপ ভাৰ্দেৰ গ্ৰীষ্মকালীন সময়daylightlongCape_VerdemetazonetimeZoneNamesdates
+কেপ ভাৰ্দেৰ সময়genericlongCape_VerdemetazonetimeZoneNamesdates
+কেপ ভাৰ্দেৰ মান সময়standardlongCape_VerdemetazonetimeZoneNamesdates
+লাইন দ্বীপপুঞ্জৰ সময়standardlongLine_IslandsmetazonetimeZoneNamesdates
+উলানবাটাৰৰ গ্ৰীষ্মকালীন সময়daylightlongMongoliametazonetimeZoneNamesdates
+উলানবাটাৰৰ সময়genericlongMongoliametazonetimeZoneNamesdates
+উলানবাটাৰৰ মান সময়standardlongMongoliametazonetimeZoneNamesdates
+ভোল্গোগ্ৰাডৰ গ্ৰীষ্মকালীন সময়daylightlongVolgogradmetazonetimeZoneNamesdates
+ভোল্গোগ্ৰাডৰ মান সময়standardlongVolgogradmetazonetimeZoneNamesdates
+ভোল্গোগ্ৰাডৰ সময়genericlongVolgogradmetazonetimeZoneNamesdates
+হং কঙৰ গ্ৰীষ্মকালীন সময়daylightlongHong_KongmetazonetimeZoneNamesdates
+হং কঙৰ সময়genericlongHong_KongmetazonetimeZoneNamesdates
+হং কঙৰ মান সময়standardlongHong_KongmetazonetimeZoneNamesdates
+লৰ্ড হাওৰ ডেলাইট সময়daylightlongLord_HowemetazonetimeZoneNamesdates
+লৰ্ড হাওৰ সময়genericlongLord_HowemetazonetimeZoneNamesdates
+লৰ্ড হাওৰ মান সময়standardlongLord_HowemetazonetimeZoneNamesdates
+ভুটানৰ সময়standardlongBhutanmetazonetimeZoneNamesdates
+ৱেক দ্বীপৰ সময়standardlongWakemetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ কেন্দ্ৰীয় পাশ্চাত্য ডেলাইট সময়daylightlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ কেন্দ্ৰীয় পাশ্চাত্য মান সময়standardlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ কেন্দ্ৰীয় পাশ্চাত্য সময়genericlongAustralia_CentralWesternmetazonetimeZoneNamesdates
+স্বোৱা সময়standardlongSyowametazonetimeZoneNamesdates
+পাপুৱা নিউ গিনিৰ সময়standardlongPapua_New_GuineametazonetimeZoneNamesdates
+কোইবাল্ছনৰ গ্ৰীষ্মকালীন সময়daylightlongChoibalsanmetazonetimeZoneNamesdates
+কোইবাল্ছনৰ মান সময়standardlongChoibalsanmetazonetimeZoneNamesdates
+কোইবাল্ছনৰ সময়genericlongChoibalsanmetazonetimeZoneNamesdates
+নিউফাউণ্ডলেণ্ডৰ ডেলাইট সময়daylightlongNewfoundlandmetazonetimeZoneNamesdates
+নিউফাউণ্ডলেণ্ডৰ মান সময়standardlongNewfoundlandmetazonetimeZoneNamesdates
+নিউফাউণ্ডলেণ্ডৰ সময়genericlongNewfoundlandmetazonetimeZoneNamesdates
+চীনৰ ডেলাইট সময়daylightlongChinametazonetimeZoneNamesdates
+চীনৰ সময়genericlongChinametazonetimeZoneNamesdates
+চীনৰ মান সময়standardlongChinametazonetimeZoneNamesdates
+পাশ্চাত্য অষ্ট্ৰেলিয়াৰ সময়genericlongAustralia_WesternmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ পাশ্চাত্য মান সময়standardlongAustralia_WesternmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ পাশ্চাত্য ডেলাইট সময়daylightlongAustralia_WesternmetazonetimeZoneNamesdates
+ইকুৱেডৰৰ সময়standardlongEcuadormetazonetimeZoneNamesdates
+ফকলেণ্ড দ্বীপপুঞ্জৰ সময়genericlongFalklandmetazonetimeZoneNamesdates
+ফকলেণ্ড দ্বীপপুঞ্জৰ মান সময়standardlongFalklandmetazonetimeZoneNamesdates
+ফকলেণ্ড দ্বীপপুঞ্জৰ গ্ৰীষ্মকালীন সময়daylightlongFalklandmetazonetimeZoneNamesdates
+টুভালাউৰ সময়standardlongTuvalumetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ পৰ্ব্বতীয় মান সময়standardlongAmerica_MountainmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ পৰ্ব্বতীয় সময়genericlongAmerica_MountainmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ পৰ্ব্বতীয় ডেলাইট সময়daylightlongAmerica_MountainmetazonetimeZoneNamesdates
+ৰিইউনিয়নৰ সময়standardlongReunionmetazonetimeZoneNamesdates
+ফিনিক্স দ্বীপপুঞ্জৰ সময়standardlongPhoenix_IslandsmetazonetimeZoneNamesdates
+জৰ্জিয়াৰ সময়genericlongGeorgiametazonetimeZoneNamesdates
+জৰ্জিয়াৰ মান সময়standardlongGeorgiametazonetimeZoneNamesdates
+জৰ্জিয়াৰ গ্ৰীষ্মকালীন সময়daylightlongGeorgiametazonetimeZoneNamesdates
+পোনাপেৰ সময়standardlongPonapemetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ প্ৰাচ্য ডেলাইট সময়daylightlongAustralia_EasternmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ প্ৰাচ্য মান সময়standardlongAustralia_EasternmetazonetimeZoneNamesdates
+প্ৰাচ্য অষ্ট্ৰেলিয়াৰ সময়genericlongAustralia_EasternmetazonetimeZoneNamesdates
+কোৰিয়াৰ মান সময়standardlongKoreametazonetimeZoneNamesdates
+কোৰিয়াৰ সময়genericlongKoreametazonetimeZoneNamesdates
+কোৰিয়াৰ ডেলাইট সময়daylightlongKoreametazonetimeZoneNamesdates
+মালয়েচিয়াৰ সময়standardlongMalaysiametazonetimeZoneNamesdates
+টোকেলাউৰ সময়standardlongTokelaumetazonetimeZoneNamesdates
+টংগাৰ গ্ৰীষ্মকালীন সময়daylightlongTongametazonetimeZoneNamesdates
+টংগাৰ সময়genericlongTongametazonetimeZoneNamesdates
+টংগাৰ মান সময়standardlongTongametazonetimeZoneNamesdates
+ফিলিপাইনৰ গ্ৰীষ্মকালীন সময়daylightlongPhilippinesmetazonetimeZoneNamesdates
+ফিলিপাইনৰ মান সময়standardlongPhilippinesmetazonetimeZoneNamesdates
+ফিলিপাইনৰ সময়genericlongPhilippinesmetazonetimeZoneNamesdates
+চিলিৰ মান সময়standardlongChilemetazonetimeZoneNamesdates
+চিলিৰ সময়genericlongChilemetazonetimeZoneNamesdates
+চিলিৰ গ্ৰীষ্মকালীন সময়daylightlongChilemetazonetimeZoneNamesdates
+মধ্য ইউৰোপীয় গ্ৰীষ্মকালীন সময়daylightlongEurope_CentralmetazonetimeZoneNamesdates
+মধ্য ইউৰোপীয় সময়genericlongEurope_CentralmetazonetimeZoneNamesdates
+মধ্য ইউৰোপীয় মান সময়standardlongEurope_CentralmetazonetimeZoneNamesdates
+মাৰ্কছেছৰ সময়standardlongMarquesasmetazonetimeZoneNamesdates
+ৰোথেৰাৰ সময়standardlongRotherametazonetimeZoneNamesdates
+নিয়ুৰ সময়standardlongNiuemetazonetimeZoneNamesdates
+ছুৰিনামৰ সময়standardlongSurinamemetazonetimeZoneNamesdates
+দক্ষিণ জৰ্জিয়াৰ সময়standardlongSouth_GeorgiametazonetimeZoneNamesdates
+চ্চুকৰ সময়standardlongTrukmetazonetimeZoneNamesdates
+মালদ্বীপৰ সময়standardlongMaldivesmetazonetimeZoneNamesdates
+ছাখালিনৰ মান সময়standardlongSakhalinmetazonetimeZoneNamesdates
+ছাখালিনৰ সময়genericlongSakhalinmetazonetimeZoneNamesdates
+ছাখালিনৰ গ্ৰীষ্মকালীন সময়daylightlongSakhalinmetazonetimeZoneNamesdates
+হোভ্‌ডৰ গ্ৰীষ্মকালীন সময়daylightlongHovdmetazonetimeZoneNamesdates
+হোভ্‌ডৰ সময়genericlongHovdmetazonetimeZoneNamesdates
+হোভ্‌ডৰ মান সময়standardlongHovdmetazonetimeZoneNamesdates
+নেপালৰ সময়standardlongNepalmetazonetimeZoneNamesdates
+য়াকুত্স্কৰ সময়genericlongYakutskmetazonetimeZoneNamesdates
+য়াকুত্স্কৰ মান সময়standardlongYakutskmetazonetimeZoneNamesdates
+য়াকুত্স্কৰ গ্ৰীষ্মকালীন সময়daylightlongYakutskmetazonetimeZoneNamesdates
+নিউজিলেণ্ডৰ ডেলাইট সময়daylightlongNew_ZealandmetazonetimeZoneNamesdates
+নিউজিলেণ্ডৰ মান সময়standardlongNew_ZealandmetazonetimeZoneNamesdates
+নিউজিলেণ্ডৰ সময়genericlongNew_ZealandmetazonetimeZoneNamesdates
+পশ্চিম আফ্ৰিকাৰ গ্ৰীষ্মকালীন সময়daylightlongAfrica_WesternmetazonetimeZoneNamesdates
+পশ্চিম আফ্ৰিকাৰ সময়genericlongAfrica_WesternmetazonetimeZoneNamesdates
+পশ্চিম আফ্ৰিকাৰ মান সময়standardlongAfrica_WesternmetazonetimeZoneNamesdates
+ডেভিছৰ সময়standardlongDavismetazonetimeZoneNamesdates
+উত্তৰ-পশ্চিম মেক্সিকোৰ মান সময়standardlongMexico_NorthwestmetazonetimeZoneNamesdates
+উত্তৰ-পশ্চিম মেক্সিকোৰ সময়genericlongMexico_NorthwestmetazonetimeZoneNamesdates
+উত্তৰ-পশ্চিম মেক্সিকোৰ ডেলাইট সময়daylightlongMexico_NorthwestmetazonetimeZoneNamesdates
+চাথামৰ ডেলাইট সময়daylightlongChathammetazonetimeZoneNamesdates
+চাথামৰ সময়genericlongChathammetazonetimeZoneNamesdates
+চাথামৰ মান সময়standardlongChathammetazonetimeZoneNamesdates
+খ্ৰীষ্টমাছ দ্বীপৰ সময়standardlongChristmasmetazonetimeZoneNamesdates
+বলিভিয়াৰ সময়standardlongBoliviametazonetimeZoneNamesdates
+মধ্য আফ্ৰিকাৰ সময়standardlongAfrica_CentralmetazonetimeZoneNamesdates
+দক্ষিণ আফ্ৰিকাৰ মান সময়standardlongAfrica_SouthernmetazonetimeZoneNamesdates
+হাৱাই-এলিউশ্বনৰ ডেলাইট সময়daylightlongHawaii_AleutianmetazonetimeZoneNamesdates
+হাৱাই-এলিউশ্বনৰ সময়genericlongHawaii_AleutianmetazonetimeZoneNamesdates
+হাৱাই-এলিউশ্বনৰ মান সময়standardlongHawaii_AleutianmetazonetimeZoneNamesdates
+নিউ কেলিডোনিয়াৰ মান সময়standardlongNew_CaledoniametazonetimeZoneNamesdates
+নিউ কেলিডোনিয়াৰ সময়genericlongNew_CaledoniametazonetimeZoneNamesdates
+নিউ কেলিডোনিয়াৰ গ্ৰীষ্মকালীন সময়daylightlongNew_CaledoniametazonetimeZoneNamesdates
+অগ্ৰ-প্ৰাচ্য ইউৰোপীয় সময়standardlongEurope_Further_EasternmetazonetimeZoneNamesdates
+আফগানিস্তানৰ সময়standardlongAfghanistanmetazonetimeZoneNamesdates
+জাপানৰ সময়genericlongJapanmetazonetimeZoneNamesdates
+জাপানৰ মান সময়standardlongJapanmetazonetimeZoneNamesdates
+জাপানৰ ডেলাইট সময়daylightlongJapanmetazonetimeZoneNamesdates
+মাৰ্শ্বাল দ্বীপপুঞ্জৰ সময়standardlongMarshall_IslandsmetazonetimeZoneNamesdates
+পাশ্চাত্য আৰ্জেণ্টিনাৰ সময়genericlongArgentina_WesternmetazonetimeZoneNamesdates
+পাশ্চাত্য আৰ্জেণ্টিনাৰ মান সময়standardlongArgentina_WesternmetazonetimeZoneNamesdates
+পাশ্চাত্য আৰ্জেণ্টিনাৰ গ্ৰীষ্মকালীন সময়daylightlongArgentina_WesternmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ কেন্দ্ৰীয় ডেলাইট সময়daylightlongAustralia_CentralmetazonetimeZoneNamesdates
+মধ্য অষ্ট্ৰেলিয়াৰ সময়genericlongAustralia_CentralmetazonetimeZoneNamesdates
+অষ্ট্ৰেলিয়াৰ কেন্দ্ৰীয় মান সময়standardlongAustralia_CentralmetazonetimeZoneNamesdates
+পশ্চিম গ্ৰীণলেণ্ডৰ গ্ৰীষ্মকালীন সময়daylightlongGreenland_WesternmetazonetimeZoneNamesdates
+পশ্চিম গ্ৰীণলেণ্ডৰ সময়genericlongGreenland_WesternmetazonetimeZoneNamesdates
+পশ্চিম গ্ৰীণলেণ্ডৰ মান সময়standardlongGreenland_WesternmetazonetimeZoneNamesdates
+ভা. স.standardshortIndiametazonetimeZoneNamesdates
+ভাৰতীয় মান সময়standardlongIndiametazonetimeZoneNamesdates
+পূব গ্ৰীণলেণ্ডৰ মান সময়standardlongGreenland_EasternmetazonetimeZoneNamesdates
+পূব গ্ৰীণলেণ্ডৰ সময়genericlongGreenland_EasternmetazonetimeZoneNamesdates
+পূব গ্ৰীণলেণ্ডৰ গ্ৰীষ্মকালীন সময়daylightlongGreenland_EasternmetazonetimeZoneNamesdates
+মেক্‌কুৱেৰী দ্বীপৰ সময়standardlongMacquariemetazonetimeZoneNamesdates
+চোলোমোন দ্বীপপুঞ্জৰ সময়standardlongSolomonmetazonetimeZoneNamesdates
+ভোষ্টকৰ সময়standardlongVostokmetazonetimeZoneNamesdates
+আজেৰবাইজানৰ গ্ৰীষ্মকালীন সময়daylightlongAzerbaijanmetazonetimeZoneNamesdates
+আজেৰবাইজানৰ সময়genericlongAzerbaijanmetazonetimeZoneNamesdates
+আজেৰবাইজানৰ মান সময়standardlongAzerbaijanmetazonetimeZoneNamesdates
+কলম্বিয়াৰ গ্ৰীষ্মকালীন সময়daylightlongColombiametazonetimeZoneNamesdates
+কলম্বিয়াৰ মান সময়standardlongColombiametazonetimeZoneNamesdates
+কলম্বিয়াৰ সময়genericlongColombiametazonetimeZoneNamesdates
+কিউবাৰ সময়genericlongCubametazonetimeZoneNamesdates
+কিউবাৰ মান সময়standardlongCubametazonetimeZoneNamesdates
+কিউবাৰ ডেলাইট সময়daylightlongCubametazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ প্ৰাচ্য ডেলাইট সময়daylightlongAmerica_EasternmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ প্ৰাচ্য মান সময়standardlongAmerica_EasternmetazonetimeZoneNamesdates
+উত্তৰ আমেৰিকাৰ প্ৰাচ্য সময়genericlongAmerica_EasternmetazonetimeZoneNamesdates
+পাশ্চাত্য ইউৰোপীয় মান সময়standardlongEurope_WesternmetazonetimeZoneNamesdates
+পাশ্চাত্য ইউৰোপীয় সময়genericlongEurope_WesternmetazonetimeZoneNamesdates
+পাশ্চাত্য ইউৰোপীয় গ্ৰীষ্মকালীন সময়daylightlongEurope_WesternmetazonetimeZoneNamesdates
+মাউছনৰ সময়standardlongMawsonmetazonetimeZoneNamesdates
+{1} ({0})hourFormattimeZoneNamesdates
+{0} (+1) ডেলাইট সময়daylightregionFormattimeZoneNamesdates
+{0} (+0) মান সময়standardregionFormattimeZoneNamesdates
+{0} সময়genericregionFormattimeZoneNamesdates
+bengnativeotherNumberingSystemsnumbers
+¤ #,##,##0.00standardstandardbengcurrencyFormatsnumbers
+¤ #,##,##0.00standardstandardlatncurrencyFormatsnumbers
+¤ 0 নিযুত1000000shortlatncurrencyFormatsnumbers
+¤ 000 শত পৰাৰ্দ্ধ100000000000000shortlatncurrencyFormatsnumbers
+¤ 0 শত কোটি1000000000shortlatncurrencyFormatsnumbers
+¤ 000 নিযুত100000000shortlatncurrencyFormatsnumbers
+¤ 000 শত কোটি100000000000shortlatncurrencyFormatsnumbers
+¤ 00 হাজাৰ10000shortlatncurrencyFormatsnumbers
+¤ 00 নিযুত10000000shortlatncurrencyFormatsnumbers
+¤ 000 লাখ100000shortlatncurrencyFormatsnumbers
+¤ 00 শত কোটি10000000000shortlatncurrencyFormatsnumbers
+¤ 0 হাজাৰ1000shortlatncurrencyFormatsnumbers
+¤ 00 শত পৰাৰ্দ্ধ10000000000000shortlatncurrencyFormatsnumbers
+¤ 0 শত পৰাৰ্দ্ধ1000000000000shortlatncurrencyFormatsnumbers
+{0}–{1}rangelatnmiscPatternsnumbers
+≥{0}atLeastlatnmiscPatternsnumbers
+#,##,##0%standardstandardlatnpercentFormatsnumbers
+#,##,##0%standardstandardbengpercentFormatsnumbers
+$narrowNZDcurrenciesnumbers
+NZ$standardNZDcurrenciesnumbers
+$narrowXCDcurrenciesnumbers
+EC$standardXCDcurrenciesnumbers
+CZKstandardCZKcurrenciesnumbers
+KčnarrowCZKcurrenciesnumbers
+CHFstandardCHFcurrenciesnumbers
+LnarrowHNLcurrenciesnumbers
+HNLstandardHNLcurrenciesnumbers
+MWKstandardMWKcurrenciesnumbers
+$narrowDOPcurrenciesnumbers
+DOPstandardDOPcurrenciesnumbers
+TLvariantTRYcurrenciesnumbers
+TRYstandardTRYcurrenciesnumbers
+₺narrowTRYcurrenciesnumbers
+SHPstandardSHPcurrenciesnumbers
+£narrowSHPcurrenciesnumbers
+KESstandardKEScurrenciesnumbers
+BZDstandardBZDcurrenciesnumbers
+$narrowBZDcurrenciesnumbers
+£standardGBPcurrenciesnumbers
+£narrowGBPcurrenciesnumbers
+BsnarrowVEFcurrenciesnumbers
+VEFstandardVEFcurrenciesnumbers
+₦narrowNGNcurrenciesnumbers
+NGNstandardNGNcurrenciesnumbers
+ERNstandardERNcurrenciesnumbers
+R$standardBRLcurrenciesnumbers
+R$narrowBRLcurrenciesnumbers
+FtnarrowHUFcurrenciesnumbers
+HUFstandardHUFcurrenciesnumbers
+LRDstandardLRDcurrenciesnumbers
+$narrowLRDcurrenciesnumbers
+LYDstandardLYDcurrenciesnumbers
+$narrowMXNcurrenciesnumbers
+MX$standardMXNcurrenciesnumbers
+VUVstandardVUVcurrenciesnumbers
+SYPstandardSYPcurrenciesnumbers
+£narrowSYPcurrenciesnumbers
+NPRstandardNPRcurrenciesnumbers
+RsnarrowNPRcurrenciesnumbers
+SDGstandardSDGcurrenciesnumbers
+GMDstandardGMDcurrenciesnumbers
+₹narrowINRcurrenciesnumbers
+₹standardINRcurrenciesnumbers
+LBPstandardLBPcurrenciesnumbers
+L£narrowLBPcurrenciesnumbers
+CA$standardCADcurrenciesnumbers
+$narrowCADcurrenciesnumbers
+TNDstandardTNDcurrenciesnumbers
+£narrowFKPcurrenciesnumbers
+FKPstandardFKPcurrenciesnumbers
+$narrowBNDcurrenciesnumbers
+BNDstandardBNDcurrenciesnumbers
+$narrowJMDcurrenciesnumbers
+JMDstandardJMDcurrenciesnumbers
+RsnarrowMURcurrenciesnumbers
+MURstandardMURcurrenciesnumbers
+CFPFstandardXPFcurrenciesnumbers
+TJSstandardTJScurrenciesnumbers
+SGDstandardSGDcurrenciesnumbers
+$narrowSGDcurrenciesnumbers
+р.narrowBYNcurrenciesnumbers
+BYNstandardBYNcurrenciesnumbers
+IRRstandardIRRcurrenciesnumbers
+KnarrowMMKcurrenciesnumbers
+MMKstandardMMKcurrenciesnumbers
+KGSstandardKGScurrenciesnumbers
+SARstandardSARcurrenciesnumbers
+IQDstandardIQDcurrenciesnumbers
+MNTstandardMNTcurrenciesnumbers
+₮narrowMNTcurrenciesnumbers
+₫narrowVNDcurrenciesnumbers
+₫standardVNDcurrenciesnumbers
+krnarrowNOKcurrenciesnumbers
+NOKstandardNOKcurrenciesnumbers
+TOPstandardTOPcurrenciesnumbers
+T$narrowTOPcurrenciesnumbers
+BHDstandardBHDcurrenciesnumbers
+৳narrowBDTcurrenciesnumbers
+BDTstandardBDTcurrenciesnumbers
+LAKstandardLAKcurrenciesnumbers
+₭narrowLAKcurrenciesnumbers
+AFNstandardAFNcurrenciesnumbers
+RMnarrowMYRcurrenciesnumbers
+MYRstandardMYRcurrenciesnumbers
+QARstandardQARcurrenciesnumbers
+ALLstandardALLcurrenciesnumbers
+GHSstandardGHScurrenciesnumbers
+krnarrowSEKcurrenciesnumbers
+SEKstandardSEKcurrenciesnumbers
+CVEstandardCVEcurrenciesnumbers
+krnarrowISKcurrenciesnumbers
+ISKstandardISKcurrenciesnumbers
+RpnarrowIDRcurrenciesnumbers
+IDRstandardIDRcurrenciesnumbers
+BTNstandardBTNcurrenciesnumbers
+AEDstandardAEDcurrenciesnumbers
+GTQstandardGTQcurrenciesnumbers
+QnarrowGTQcurrenciesnumbers
+knnarrowHRKcurrenciesnumbers
+HRKstandardHRKcurrenciesnumbers
+BAMstandardBAMcurrenciesnumbers
+KMnarrowBAMcurrenciesnumbers
+SRDstandardSRDcurrenciesnumbers
+$narrowSRDcurrenciesnumbers
+PnarrowBWPcurrenciesnumbers
+BWPstandardBWPcurrenciesnumbers
+BOBstandardBOBcurrenciesnumbers
+BsnarrowBOBcurrenciesnumbers
+AZNstandardAZNcurrenciesnumbers
+$narrowHKDcurrenciesnumbers
+HK$standardHKDcurrenciesnumbers
+SZLstandardSZLcurrenciesnumbers
+HTGstandardHTGcurrenciesnumbers
+PLNstandardPLNcurrenciesnumbers
+złnarrowPLNcurrenciesnumbers
+៛narrowKHRcurrenciesnumbers
+KHRstandardKHRcurrenciesnumbers
+RsnarrowLKRcurrenciesnumbers
+LKRstandardLKRcurrenciesnumbers
+PGKstandardPGKcurrenciesnumbers
+PYGstandardPYGcurrenciesnumbers
+₲narrowPYGcurrenciesnumbers
+CN¥standardCNYcurrenciesnumbers
+¥narrowCNYcurrenciesnumbers
+MKDstandardMKDcurrenciesnumbers
+₩standardKRWcurrenciesnumbers
+₩narrowKRWcurrenciesnumbers
+UZSstandardUZScurrenciesnumbers
+BMDstandardBMDcurrenciesnumbers
+$narrowBMDcurrenciesnumbers
+₴narrowUAHcurrenciesnumbers
+UAHstandardUAHcurrenciesnumbers
+TZSstandardTZScurrenciesnumbers
+AWGstandardAWGcurrenciesnumbers
+PABstandardPABcurrenciesnumbers
+DbnarrowSTNcurrenciesnumbers
+STNstandardSTNcurrenciesnumbers
+$narrowNADcurrenciesnumbers
+NADstandardNADcurrenciesnumbers
+¥narrowJPYcurrenciesnumbers
+JP¥standardJPYcurrenciesnumbers
+KZTstandardKZTcurrenciesnumbers
+₸narrowKZTcurrenciesnumbers
+RSDstandardRSDcurrenciesnumbers
+E£narrowEGPcurrenciesnumbers
+EGPstandardEGPcurrenciesnumbers
+CFnarrowKMFcurrenciesnumbers
+KMFstandardKMFcurrenciesnumbers
+KznarrowAOAcurrenciesnumbers
+AOAstandardAOAcurrenciesnumbers
+SBDstandardSBDcurrenciesnumbers
+$narrowSBDcurrenciesnumbers
+NIOstandardNIOcurrenciesnumbers
+C$narrowNIOcurrenciesnumbers
+PENstandardPENcurrenciesnumbers
+DKKstandardDKKcurrenciesnumbers
+krnarrowDKKcurrenciesnumbers
+$narrowBBDcurrenciesnumbers
+BBDstandardBBDcurrenciesnumbers
+GYDstandardGYDcurrenciesnumbers
+$narrowGYDcurrenciesnumbers
+UGXstandardUGXcurrenciesnumbers
+RFnarrowRWFcurrenciesnumbers
+RWFstandardRWFcurrenciesnumbers
+TMTstandardTMTcurrenciesnumbers
+MDLstandardMDLcurrenciesnumbers
+$narrowCUCcurrenciesnumbers
+CUCstandardCUCcurrenciesnumbers
+PKRstandardPKRcurrenciesnumbers
+RsnarrowPKRcurrenciesnumbers
+WSTstandardWSTcurrenciesnumbers
+DZDstandardDZDcurrenciesnumbers
+CNHstandardCNHcurrenciesnumbers
+$narrowARScurrenciesnumbers
+ARSstandardARScurrenciesnumbers
+JODstandardJODcurrenciesnumbers
+KWDstandardKWDcurrenciesnumbers
+FCFAstandardXAFcurrenciesnumbers
+SCRstandardSCRcurrenciesnumbers
+SLLstandardSLLcurrenciesnumbers
+₪narrowILScurrenciesnumbers
+₪standardILScurrenciesnumbers
+STDstandardSTDcurrenciesnumbers
+$narrowFJDcurrenciesnumbers
+FJDstandardFJDcurrenciesnumbers
+OMRstandardOMRcurrenciesnumbers
+$narrowCOPcurrenciesnumbers
+COPstandardCOPcurrenciesnumbers
+AMDstandardAMDcurrenciesnumbers
+MROstandardMROcurrenciesnumbers
+ZMWstandardZMWcurrenciesnumbers
+ZKnarrowZMWcurrenciesnumbers
+SOSstandardSOScurrenciesnumbers
+GIPstandardGIPcurrenciesnumbers
+£narrowGIPcurrenciesnumbers
+ETBstandardETBcurrenciesnumbers
+BGNstandardBGNcurrenciesnumbers
+$narrowAUDcurrenciesnumbers
+A$standardAUDcurrenciesnumbers
+DJFstandardDJFcurrenciesnumbers
+MADstandardMADcurrenciesnumbers
+BSDstandardBSDcurrenciesnumbers
+$narrowBSDcurrenciesnumbers
+CRCstandardCRCcurrenciesnumbers
+₡narrowCRCcurrenciesnumbers
+MOPstandardMOPcurrenciesnumbers
+TTDstandardTTDcurrenciesnumbers
+$narrowTTDcurrenciesnumbers
+CFAstandardXOFcurrenciesnumbers
+SSPstandardSSPcurrenciesnumbers
+£narrowSSPcurrenciesnumbers
+US$standardUSDcurrenciesnumbers
+$narrowUSDcurrenciesnumbers
+ZARstandardZARcurrenciesnumbers
+RnarrowZARcurrenciesnumbers
+$narrowUYUcurrenciesnumbers
+UYUstandardUYUcurrenciesnumbers
+GELstandardGELcurrenciesnumbers
+₾narrowGELcurrenciesnumbers
+CLPstandardCLPcurrenciesnumbers
+$narrowCLPcurrenciesnumbers
+PHPstandardPHPcurrenciesnumbers
+₱narrowPHPcurrenciesnumbers
+YERstandardYERcurrenciesnumbers
+฿narrowTHBcurrenciesnumbers
+THBstandardTHBcurrenciesnumbers
+$narrowCUPcurrenciesnumbers
+CUPstandardCUPcurrenciesnumbers
+KPWstandardKPWcurrenciesnumbers
+₩narrowKPWcurrenciesnumbers
+ANGstandardANGcurrenciesnumbers
+KYDstandardKYDcurrenciesnumbers
+$narrowKYDcurrenciesnumbers
+$narrowTWDcurrenciesnumbers
+NT$standardTWDcurrenciesnumbers
+MZNstandardMZNcurrenciesnumbers
+BIFstandardBIFcurrenciesnumbers
+FGnarrowGNFcurrenciesnumbers
+GNFstandardGNFcurrenciesnumbers
+MVRstandardMVRcurrenciesnumbers
+€narrowEURcurrenciesnumbers
+€standardEURcurrenciesnumbers
+₽narrowRUBcurrenciesnumbers
+RUBstandardRUBcurrenciesnumbers
+leinarrowRONcurrenciesnumbers
+RONstandardRONcurrenciesnumbers
+CDFstandardCDFcurrenciesnumbers
+MGAstandardMGAcurrenciesnumbers
+ArnarrowMGAcurrenciesnumbers
+#,##,##0.###standardstandardbengdecimalFormatsnumbers
+000 শঃ পঃ100000000000000shortlatndecimalFormatsnumbers
+0 শঃ কোঃ1000000000shortlatndecimalFormatsnumbers
+0 নিযুত1000000shortlatndecimalFormatsnumbers
+000 নিঃ100000000shortlatndecimalFormatsnumbers
+0 শঃ পঃ1000000000000shortlatndecimalFormatsnumbers
+00 শঃ পঃ10000000000000shortlatndecimalFormatsnumbers
+0 হাজাৰ1000shortlatndecimalFormatsnumbers
+00 শঃ কোঃ10000000000shortlatndecimalFormatsnumbers
+00 নিযুত10000000shortlatndecimalFormatsnumbers
+000 শঃ কঃ100000000000shortlatndecimalFormatsnumbers
+00 হাজাৰ10000shortlatndecimalFormatsnumbers
+0 লাখ100000shortlatndecimalFormatsnumbers
+#,##,##0.###standardstandardlatndecimalFormatsnumbers
+00 শত পৰাৰ্দ্ধ10000000000000longlatndecimalFormatsnumbers
+0 হাজাৰ1000longlatndecimalFormatsnumbers
+0 শত পৰাৰ্দ্ধ1000000000000longlatndecimalFormatsnumbers
+00 শত কোটি10000000000longlatndecimalFormatsnumbers
+0 লাখ100000longlatndecimalFormatsnumbers
+000 শত কোটি100000000000longlatndecimalFormatsnumbers
+00 নিযুত10000000longlatndecimalFormatsnumbers
+00 হাজাৰ10000longlatndecimalFormatsnumbers
+000 শত পৰাৰ্দ্ধ100000000000000longlatndecimalFormatsnumbers
+0 শত কোটি1000000000longlatndecimalFormatsnumbers
+0 নিযুত1000000longlatndecimalFormatsnumbers
+000 নিযুত100000000longlatndecimalFormatsnumbers
+.timeSeparatorstandardsymbolsnumbers
+NaNnanbengsymbolsnumbers
+-minusSignbengsymbolsnumbers
+,groupbengsymbolsnumbers
+∞infinitybengsymbolsnumbers
++plusSignbengsymbolsnumbers
+×superscriptingExponentbengsymbolsnumbers
+‰perMillebengsymbolsnumbers
+Eexponentialbengsymbolsnumbers
+.decimalbengsymbolsnumbers
+%percentSignbengsymbolsnumbers
++plusSignlatnsymbolsnumbers
+×superscriptingExponentlatnsymbolsnumbers
+‰perMillelatnsymbolsnumbers
+.decimallatnsymbolsnumbers
+Eexponentiallatnsymbolsnumbers
+%percentSignlatnsymbolsnumbers
+-minusSignlatnsymbolsnumbers
+NaNnanlatnsymbolsnumbers
+∞infinitylatnsymbolsnumbers
+,grouplatnsymbolsnumbers
+1minimumGroupingDigitsnumbers
+bengstandarddefaultNumberingSystemnumbers
+#E0standardstandardlatnscientificFormatsnumbers
+#E0standardstandardbengscientificFormatsnumbers
+পাশ্চাত্য এছীয় লিপিwestern_asian_scriptslabelscharacterLabels
+সোঁফালে মুখ কৰা কাঁড়rightwards_arrowslabelscharacterLabels
+বৈভাষিকvariant_formslabelscharacterLabels
+জীৱ-জন্তুanimallabelscharacterLabels
+ডেচ বা সংযোজকdash_connectorlabelscharacterLabels
+প্ৰকৃতিnaturelabelscharacterLabels
+সংখ্যাnumberslabelscharacterLabels
+সাংগীতিক প্ৰতীকmusical_symbolslabelscharacterLabels
+অংকৰ প্ৰতীকmath_symbolslabelscharacterLabels
+চিহ্ন বা প্ৰতীকsign_standard_symbolslabelscharacterLabels
+পুৰুষmalelabelscharacterLabels
+বিল্ডিংbuildinglabelscharacterLabels
+পতাকাflaglabelscharacterLabels
+স্বৰ চিহ্নtone_markslabelscharacterLabels
+স্থানplacelabelscharacterLabels
+অংকdigitslabelscharacterLabels
+পূব এছীয় লিপিeast_asian_scriptslabelscharacterLabels
+মহিলাfemalelabelscharacterLabels
+পতাকাসমূহflagslabelscharacterLabels
+ক্ৰীড়াsportlabelscharacterLabels
+প্ৰতীকsymbolslabelscharacterLabels
+ব্যৱধানspacinglabelscharacterLabels
+হাঞ্জাhanjalabelscharacterLabels
+সংশোধকmodifierlabelscharacterLabels
+পূৰ্ণ-প্ৰস্থৰ বৈভাষিকfull_width_form_variantlabelscharacterLabels
+ঐতিহাসিক লিপিhistoric_scriptslabelscharacterLabels
+স্মাইলীsmileylabelscharacterLabels
+জীৱ-জন্তু বা প্ৰকৃতিanimals_naturelabelscharacterLabels
+সীমিত-ব্যৱহাৰlimited_uselabelscharacterLabels
+ইম’জিemojilabelscharacterLabels
+ব্যঞ্জনবৰ্ণ-সংক্ৰান্তীয় জামোconsonantal_jamolabelscharacterLabels
+হাৰ্টheartlabelscharacterLabels
+কাঞ্জিkanjilabelscharacterLabels
+বতৰweatherlabelscharacterLabels
+ওপৰমুৱা কাঁড়upwards_arrowslabelscharacterLabels
+যাত্ৰা বা স্থানtravel_placeslabelscharacterLabels
+উদ্ভিদplantlabelscharacterLabels
+বাওঁফালে সোঁফালে মুখ কৰা কাঁড়leftwards_rightwards_arrowslabelscharacterLabels
+বিবিধmiscellaneouslabelscharacterLabels
+ক্ৰিয়া-কলাপactivitieslabelscharacterLabels
+আমেৰিকান স্ক্ৰিপ্টamerican_scriptslabelscharacterLabels
+হাঞ্জি (সৰলীকৃত)hanzi_simplifiedlabelscharacterLabels
+তলমুৱা কাঁড়downwards_arrowslabelscharacterLabels
+খাদ্য আৰু পানীয়food_drinklabelscharacterLabels
+কাঁড়arrowslabelscharacterLabels
+আইডিঅ’গ্ৰাফিক ডেস্ক কেৰেক্টাৰideographic_desc_characterslabelscharacterLabels
+ফৰ্মেট আৰু হোৱাইটস্পেচformat_whitespacelabelscharacterLabels
+বাওঁফালে মুখ কৰা কাঁড়leftwards_arrowslabelscharacterLabels
+যুগ্মpairedlabelscharacterLabels
+যতিচিহ্নpunctuationlabelscharacterLabels
+আফ্ৰিকান স্ক্ৰিপ্টafrican_scriptslabelscharacterLabels
+ফৰ্মেটformatlabelscharacterLabels
+জ্যামিতিক আকৃতিgeometric_shapeslabelscharacterLabels
+কানবানkanbunlabelscharacterLabels
+আধুনিক লিপিmodern_scriptslabelscharacterLabels
+স্মাইলী বা ব্যক্তিsmileys_peoplelabelscharacterLabels
+মধ্য প্ৰাচ্য লিপিmiddle_eastern_scriptslabelscharacterLabels
+বুলেট বা তৰাbullets_starslabelscharacterLabels
+হান ৰেডিকেলhan_radicalslabelscharacterLabels
+অৰ্ধ-প্ৰস্থৰ বৈভাষিকhalf_width_form_variantlabelscharacterLabels
+চিত্ৰলেখpictographslabelscharacterLabels
+স্বৰধ্বনি-সম্পৰ্কীয় জামোvocalic_jamolabelscharacterLabels
+কাৰিকৰী প্ৰতীকtechnical_symbolslabelscharacterLabels
+তলফালে উৰ্দ্ধমুখী কাঁড়downwards_upwards_arrowslabelscharacterLabels
+ভৱিষ্যদ্বাণী প্ৰতীকdivination_symbolslabelscharacterLabels
+জাপানী কানাjapanese_kanalabelscharacterLabels
+ডিংবাটdingbatslabelscharacterLabels
+অন্যান্যotherlabelscharacterLabels
+অবজেক্টobjectslabelscharacterLabels
+ইউৰোপীয় লিপিeuropean_scriptslabelscharacterLabels
+যাত্ৰাtravellabelscharacterLabels
+ধ্বনিগত বৰ্ণমালাphonetic_alphabetlabelscharacterLabels
+দক্ষিণ-পূব এছীয় লিপিsoutheast_asian_scriptslabelscharacterLabels
+শৰীৰbodylabelscharacterLabels
+খালীস্থান নথকাnonspacinglabelscharacterLabels
+বৰ্ণৰ দৰে প্ৰতীকletterlike_symbolslabelscharacterLabels
+ব্ৰেইলীbraillelabelscharacterLabels
+হাঞ্জি (পৰম্পৰাগত)hanzi_traditionallabelscharacterLabels
+সৰু বৈভাষিকsmall_form_variantlabelscharacterLabels
+হোৱাইটস্পেচwhitespacelabelscharacterLabels
+দক্ষিণ এছীয় লিপিsouth_asian_scriptslabelscharacterLabels
+ব্যক্তিpersonlabelscharacterLabels
+বক্স ড্ৰয়িংbox_drawinglabelscharacterLabels
+মুদ্ৰা প্ৰতীকcurrency_symbolslabelscharacterLabels
+কীকেপkeycaplabelscharacterLabels
+হান বৰ্ণhan_characterslabelscharacterLabels
+{0} — সুসমতাcompatibilitypatternscharacterLabels
+{0} — সংযোজিতenclosedpatternscharacterLabels
+{0} — সকলোallpatternscharacterLabels
+{0} — বিস্তাৰিতextendedpatternscharacterLabels
+লিপি — {0}scriptspatternscharacterLabels
+{0} — অন্যান্যotherpatternscharacterLabels
+{0}: {1}category-listpatternscharacterLabels
+{0} — ঐতিহাসিকhistoricpatternscharacterLabels
+{0} — বিবিধmiscellaneouspatternscharacterLabels
+{0} ষ্ট্ৰ’কstrokespatternscharacterLabels
+{0} পঃwestcoordinateUnitshortunits
+{0} পূঃeastcoordinateUnitshortunits
+{0} দঃsouthcoordinateUnitshortunits
+{0} উঃnorthcoordinateUnitshortunits
+দিক্-নিৰ্দেশনাdisplayNamecoordinateUnitshortunits
+{0}/{1}patternpercompoundUnitshortunits
+{0} cm³onepatternvolume-cubic-centimeterunitshortunits
+{0} cm³otherpatternvolume-cubic-centimeterunitshortunits
+{0}/cm³perUnitPatternvolume-cubic-centimeterunitshortunits
+ঘন ছেণ্টিমিটাৰdisplayNamevolume-cubic-centimeterunitshortunits
+{0} পইণ্টonepatternlength-pointunitshortunits
+{0} পইণ্টotherpatternlength-pointunitshortunits
+পইণ্টdisplayNamelength-pointunitshortunits
+{0} km³otherpatternvolume-cubic-kilometerunitshortunits
+{0} km³onepatternvolume-cubic-kilometerunitshortunits
+ঘন কিলোমিটাৰdisplayNamevolume-cubic-kilometerunitshortunits
+{0}/লিঃperUnitPatternvolume-literunitshortunits
+লিটাৰdisplayNamevolume-literunitshortunits
+{0} লিঃotherpatternvolume-literunitshortunits
+{0} লিঃonepatternvolume-literunitshortunits
+মাইক্ৰছেকেণ্ডdisplayNameduration-microsecondunitshortunits
+{0} মাঃ ছেঃonepatternduration-microsecondunitshortunits
+{0} মাঃ ছেঃotherpatternduration-microsecondunitshortunits
+মেগাহাৰ্টজdisplayNamefrequency-megahertzunitshortunits
+{0} মেঃ হাঃotherpatternfrequency-megahertzunitshortunits
+{0} মেঃ হাঃonepatternfrequency-megahertzunitshortunits
+সপ্তাহdisplayNameduration-weekunitshortunits
+{0}/সপ্তাহperUnitPatternduration-weekunitshortunits
+{0} সপ্তাহotherpatternduration-weekunitshortunits
+{0} সপ্তাহonepatternduration-weekunitshortunits
+{0} mpg USonepatternconsumption-mile-per-gallonunitshortunits
+{0} mpg USotherpatternconsumption-mile-per-gallonunitshortunits
+মাইল/গেলনdisplayNameconsumption-mile-per-gallonunitshortunits
+{0} বিটonepatterndigital-bitunitshortunits
+{0} বিটotherpatterndigital-bitunitshortunits
+বিটdisplayNamedigital-bitunitshortunits
+মিলিএম্পিয়াৰdisplayNameelectric-milliampereunitshortunits
+{0} মিঃ এঃotherpatternelectric-milliampereunitshortunits
+{0} মিঃ এঃonepatternelectric-milliampereunitshortunits
+ওমdisplayNameelectric-ohmunitshortunits
+{0} Ωonepatternelectric-ohmunitshortunits
+{0} Ωotherpatternelectric-ohmunitshortunits
+{0} ফ্লুঃ আঃotherpatternvolume-fluid-ounceunitshortunits
+{0} ফ্লুঃ আঃonepatternvolume-fluid-ounceunitshortunits
+ফ্লুঃ আঃdisplayNamevolume-fluid-ounceunitshortunits
+{0} কিঃ বাঃonepatterndigital-kilobyteunitshortunits
+{0} কিঃ বাঃotherpatterndigital-kilobyteunitshortunits
+কিলোবাইটdisplayNamedigital-kilobyteunitshortunits
+মেঃ লিঃdisplayNamevolume-megaliterunitshortunits
+{0} মেঃ লিঃonepatternvolume-megaliterunitshortunits
+{0} মেঃ লিঃotherpatternvolume-megaliterunitshortunits
+{0} মাঃ মিঃonepatternlength-micrometerunitshortunits
+{0} মাঃ মিঃotherpatternlength-micrometerunitshortunits
+মাইক্ৰ’মিটাৰdisplayNamelength-micrometerunitshortunits
+টেৰাবাইটdisplayNamedigital-terabyteunitshortunits
+{0} টেঃ বাঃotherpatterndigital-terabyteunitshortunits
+{0} টেঃ বাঃonepatterndigital-terabyteunitshortunits
+hPadisplayNamepressure-hectopascalunitshortunits
+{0} hPaotherpatternpressure-hectopascalunitshortunits
+{0} hPaonepatternpressure-hectopascalunitshortunits
+কোৱাৰ্টdisplayNamevolume-quartunitshortunits
+{0} কোৱাৰ্টotherpatternvolume-quartunitshortunits
+{0} কোৱাৰ্টonepatternvolume-quartunitshortunits
+ডেঃ লিঃdisplayNamevolume-deciliterunitshortunits
+{0} ডেঃ লিঃonepatternvolume-deciliterunitshortunits
+{0} ডেঃ লিঃotherpatternvolume-deciliterunitshortunits
+{0} ছেকেণ্ডonepatternduration-secondunitshortunits
+{0} ছেকেণ্ডotherpatternduration-secondunitshortunits
+ছেকেণ্ডdisplayNameduration-secondunitshortunits
+{0}/ছেকেণ্ডperUnitPatternduration-secondunitshortunits
+লিটাৰ/কিঃ মিঃdisplayNameconsumption-liter-per-kilometerunitshortunits
+{0} লিঃ/কিঃ মিঃonepatternconsumption-liter-per-kilometerunitshortunits
+{0} লিঃ/কিঃ মিঃotherpatternconsumption-liter-per-kilometerunitshortunits
+{0} পিঃ মিঃotherpatternlength-picometerunitshortunits
+{0} পিঃ মিঃonepatternlength-picometerunitshortunits
+পিঃ মিঃdisplayNamelength-picometerunitshortunits
+{0} কেলভিনotherpatterntemperature-kelvinunitshortunits
+{0} কেলভিনonepatterntemperature-kelvinunitshortunits
+কেলভিনdisplayNametemperature-kelvinunitshortunits
+বৰ্গ মিটাৰdisplayNamearea-square-meterunitshortunits
+{0}/m²perUnitPatternarea-square-meterunitshortunits
+{0} m²onepatternarea-square-meterunitshortunits
+{0} m²otherpatternarea-square-meterunitshortunits
+মাঃ গ্ৰাঃdisplayNamemass-microgramunitshortunits
+{0} মাঃ গ্ৰাঃonepatternmass-microgramunitshortunits
+{0} মাঃ গ্ৰাঃotherpatternmass-microgramunitshortunits
+দিনdisplayNameduration-dayunitshortunits
+{0}/দিনperUnitPatternduration-dayunitshortunits
+{0} দিনotherpatternduration-dayunitshortunits
+{0} দিনonepatternduration-dayunitshortunits
+মিঃ লিঃdisplayNamevolume-milliliterunitshortunits
+{0} মিঃ লিঃonepatternvolume-milliliterunitshortunits
+{0} মিঃ লিঃotherpatternvolume-milliliterunitshortunits
+গজdisplayNamelength-yardunitshortunits
+{0} গজonepatternlength-yardunitshortunits
+{0} গজotherpatternlength-yardunitshortunits
+{0} হাৰ্টজotherpatternfrequency-hertzunitshortunits
+{0} হাৰ্টজonepatternfrequency-hertzunitshortunits
+হাৰ্টজdisplayNamefrequency-hertzunitshortunits
+আলোকবৰ্ষdisplayNamelength-light-yearunitshortunits
+{0} আঃ বঃonepatternlength-light-yearunitshortunits
+{0} আঃ বঃotherpatternlength-light-yearunitshortunits
+{0} আউন্সotherpatternmass-ounceunitshortunits
+{0} আউন্সonepatternmass-ounceunitshortunits
+{0}/আউন্সperUnitPatternmass-ounceunitshortunits
+আউন্সdisplayNamemass-ounceunitshortunits
+{0} ৱাটonepatternpower-wattunitshortunits
+{0} ৱাটotherpatternpower-wattunitshortunits
+ৱাটdisplayNamepower-wattunitshortunits
+atmdisplayNamepressure-atmosphereunitshortunits
+{0} atmonepatternpressure-atmosphereunitshortunits
+{0} atmotherpatternpressure-atmosphereunitshortunits
+ঘন মাইলdisplayNamevolume-cubic-mileunitshortunits
+{0} mi³onepatternvolume-cubic-mileunitshortunits
+{0} mi³otherpatternvolume-cubic-mileunitshortunits
+{0}/বছৰperUnitPatternduration-yearunitshortunits
+বছৰdisplayNameduration-yearunitshortunits
+{0} বছৰonepatternduration-yearunitshortunits
+{0} বছৰotherpatternduration-yearunitshortunits
+{0}/ইঃperUnitPatternlength-inchunitshortunits
+ইঞ্চিdisplayNamelength-inchunitshortunits
+{0} ইঃonepatternlength-inchunitshortunits
+{0} ইঃotherpatternlength-inchunitshortunits
+{0} মিঃ গ্ৰাঃonepatternmass-milligramunitshortunits
+{0} মিঃ গ্ৰাঃotherpatternmass-milligramunitshortunits
+মিঃ গ্ৰাঃdisplayNamemass-milligramunitshortunits
+মাহdisplayNameduration-monthunitshortunits
+{0}/মাহperUnitPatternduration-monthunitshortunits
+{0} মাহotherpatternduration-monthunitshortunits
+{0} মাহonepatternduration-monthunitshortunits
+ঘন ফুটdisplayNamevolume-cubic-footunitshortunits
+{0} ft³onepatternvolume-cubic-footunitshortunits
+{0} ft³otherpatternvolume-cubic-footunitshortunits
+বাইটdisplayNamedigital-byteunitshortunits
+{0} বাইটonepatterndigital-byteunitshortunits
+{0} বাইটotherpatterndigital-byteunitshortunits
+মিলিমোল/লিটাৰdisplayNameconcentr-millimole-per-literunitshortunits
+{0} mmol/Lotherpatternconcentr-millimole-per-literunitshortunits
+{0} mmol/Lonepatternconcentr-millimole-per-literunitshortunits
+মাইলdisplayNamelength-mileunitshortunits
+{0} মাঃonepatternlength-mileunitshortunits
+{0} মাঃotherpatternlength-mileunitshortunits
+{0} yd²otherpatternarea-square-yardunitshortunits
+{0} yd²onepatternarea-square-yardunitshortunits
+বৰ্গ গজdisplayNamearea-square-yardunitshortunits
+টনdisplayNamemass-tonunitshortunits
+{0} টনonepatternmass-tonunitshortunits
+{0} টনotherpatternmass-tonunitshortunits
+°displayNametemperature-genericunitshortunits
+{0}°otherpatterntemperature-genericunitshortunits
+{0}°onepatterntemperature-genericunitshortunits
+{0}%otherpatternconcentr-percentunitshortunits
+{0}%onepatternconcentr-percentunitshortunits
+শতাংশdisplayNameconcentr-percentunitshortunits
+{0} ফুঃonepatternlength-footunitshortunits
+{0} ফুঃotherpatternlength-footunitshortunits
+ফুটdisplayNamelength-footunitshortunits
+{0}/ফুঃperUnitPatternlength-footunitshortunits
+{0} বৰ্গ মাইলotherpatternarea-square-mileunitshortunits
+{0} বৰ্গ মাইলonepatternarea-square-mileunitshortunits
+বৰ্গ মাইলdisplayNamearea-square-mileunitshortunits
+{0}/mi²perUnitPatternarea-square-mileunitshortunits
+মেঃ ৱাঃdisplayNamepower-megawattunitshortunits
+{0} মেঃ ৱাঃotherpatternpower-megawattunitshortunits
+{0} মেঃ ৱাঃonepatternpower-megawattunitshortunits
+কিঃ ৱাঃdisplayNamepower-kilowattunitshortunits
+{0} কিঃ ৱাঃotherpatternpower-kilowattunitshortunits
+{0} কিঃ ৱাঃonepatternpower-kilowattunitshortunits
+psidisplayNamepressure-pound-per-square-inchunitshortunits
+{0} psionepatternpressure-pound-per-square-inchunitshortunits
+{0} psiotherpatternpressure-pound-per-square-inchunitshortunits
+{0} জ্যোঃ এঃonepatternlength-astronomical-unitunitshortunits
+{0} জ্যোঃ এঃotherpatternlength-astronomical-unitunitshortunits
+জ্যোঃ এঃdisplayNamelength-astronomical-unitunitshortunits
+{0} নেঃ ছেঃotherpatternduration-nanosecondunitshortunits
+{0} নেঃ ছেঃonepatternduration-nanosecondunitshortunits
+নেনোছেকেণ্ডdisplayNameduration-nanosecondunitshortunits
+ভাগ/মিলিয়নdisplayNameconcentr-part-per-millionunitshortunits
+{0} ppmotherpatternconcentr-part-per-millionunitshortunits
+{0} ppmonepatternconcentr-part-per-millionunitshortunits
+ঘূৰ্ণনdisplayNameangle-revolutionunitshortunits
+{0} ঘূৰ্ণনotherpatternangle-revolutionunitshortunits
+{0} ঘূৰ্ণনonepatternangle-revolutionunitshortunits
+{0}/কিঃ মিঃperUnitPatternlength-kilometerunitshortunits
+কিঃ মিঃdisplayNamelength-kilometerunitshortunits
+{0} কিঃ মিঃonepatternlength-kilometerunitshortunits
+{0} কিঃ মিঃotherpatternlength-kilometerunitshortunits
+প্ৰতিমাইলdisplayNameconcentr-permilleunitshortunits
+{0}‰onepatternconcentr-permilleunitshortunits
+{0}‰otherpatternconcentr-permilleunitshortunits
+ঘন গজdisplayNamevolume-cubic-yardunitshortunits
+{0} yd³otherpatternvolume-cubic-yardunitshortunits
+{0} yd³onepatternvolume-cubic-yardunitshortunits
+বৰ্গ ইঞ্চিdisplayNamearea-square-inchunitshortunits
+{0}/in²perUnitPatternarea-square-inchunitshortunits
+{0} in²otherpatternarea-square-inchunitshortunits
+{0} in²onepatternarea-square-inchunitshortunits
+ডিগ্ৰীdisplayNameangle-degreeunitshortunits
+{0} ডিগ্ৰীonepatternangle-degreeunitshortunits
+{0} ডিগ্ৰীotherpatternangle-degreeunitshortunits
+এম্পিয়াৰdisplayNameelectric-ampereunitshortunits
+{0} এঃotherpatternelectric-ampereunitshortunits
+{0} এঃonepatternelectric-ampereunitshortunits
+{0} mg/dLotherpatternconcentr-milligram-per-deciliterunitshortunits
+{0} mg/dLonepatternconcentr-milligram-per-deciliterunitshortunits
+মিঃ গ্ৰাঃ/ডেঃ লিঃdisplayNameconcentr-milligram-per-deciliterunitshortunits
+{0} গিঃ বাঃotherpatterndigital-gigabyteunitshortunits
+{0} গিঃ বাঃonepatterndigital-gigabyteunitshortunits
+গিগাবাইটdisplayNamedigital-gigabyteunitshortunits
+{0} PBonepatterndigital-petabyteunitshortunits
+{0} PBotherpatterndigital-petabyteunitshortunits
+PBytedisplayNamedigital-petabyteunitshortunits
+{0} কিঃ কেলঃotherpatternenergy-kilocalorieunitshortunits
+{0} কিঃ কেলঃonepatternenergy-kilocalorieunitshortunits
+কিলোকেলৰিdisplayNameenergy-kilocalorieunitshortunits
+{0} ডেঃ মিঃonepatternlength-decimeterunitshortunits
+{0} ডেঃ মিঃotherpatternlength-decimeterunitshortunits
+ডেঃ মিঃdisplayNamelength-decimeterunitshortunits
+কিঃ মিঃ/ঘঃdisplayNamespeed-kilometer-per-hourunitshortunits
+{0} কিঃ মিঃ/ঘঃotherpatternspeed-kilometer-per-hourunitshortunits
+{0} কিঃ মিঃ/ঘঃonepatternspeed-kilometer-per-hourunitshortunits
+{0} মেঃ বিঃonepatterndigital-megabitunitshortunits
+{0} মেঃ বিঃotherpatterndigital-megabitunitshortunits
+মেগাবিটdisplayNamedigital-megabitunitshortunits
+{0} m/s²otherpatternacceleration-meter-per-second-squaredunitshortunits
+{0} m/s²onepatternacceleration-meter-per-second-squaredunitshortunits
+মিটাৰ/বৰ্গ ছেকেণ্ডdisplayNameacceleration-meter-per-second-squaredunitshortunits
+গিঃ ৱাঃdisplayNamepower-gigawattunitshortunits
+{0} গিঃ ৱাঃonepatternpower-gigawattunitshortunits
+{0} গিঃ ৱাঃotherpatternpower-gigawattunitshortunits
+{0} কিঃ গ্ৰাঃotherpatternmass-kilogramunitshortunits
+{0} কিঃ গ্ৰাঃonepatternmass-kilogramunitshortunits
+{0}/কিঃ গ্ৰাঃperUnitPatternmass-kilogramunitshortunits
+কিঃ গ্ৰাঃdisplayNamemass-kilogramunitshortunits
+গেলনdisplayNamevolume-gallonunitshortunits
+{0}/গেলনperUnitPatternvolume-gallonunitshortunits
+{0} গেলনotherpatternvolume-gallonunitshortunits
+{0} গেলনonepatternvolume-gallonunitshortunits
+{0} ভঃonepatternelectric-voltunitshortunits
+{0} ভঃotherpatternelectric-voltunitshortunits
+ভল্টdisplayNameelectric-voltunitshortunits
+{0} একৰonepatternarea-acreunitshortunits
+{0} একৰotherpatternarea-acreunitshortunits
+একৰdisplayNamearea-acreunitshortunits
+কিলোহাৰ্টজdisplayNamefrequency-kilohertzunitshortunits
+{0} কিঃ হাঃotherpatternfrequency-kilohertzunitshortunits
+{0} কিঃ হাঃonepatternfrequency-kilohertzunitshortunits
+mbardisplayNamepressure-millibarunitshortunits
+{0} mbaronepatternpressure-millibarunitshortunits
+{0} mbarotherpatternpressure-millibarunitshortunits
+{0} শতিকাonepatternduration-centuryunitshortunits
+{0} শতিকাotherpatternduration-centuryunitshortunits
+শতিকাdisplayNameduration-centuryunitshortunits
+{0} টonepatternmass-metric-tonunitshortunits
+{0} টotherpatternmass-metric-tonunitshortunits
+টdisplayNamemass-metric-tonunitshortunits
+{0} অশ্বক্ষমতাonepatternpower-horsepowerunitshortunits
+{0} অশ্বক্ষমতাotherpatternpower-horsepowerunitshortunits
+অশ্বক্ষমতাdisplayNamepower-horsepowerunitshortunits
+{0}/মিনিটperUnitPatternduration-minuteunitshortunits
+মিনিটdisplayNameduration-minuteunitshortunits
+{0} মিনিটotherpatternduration-minuteunitshortunits
+{0} মিনিটonepatternduration-minuteunitshortunits
+বৰ্গ ফুটdisplayNamearea-square-footunitshortunits
+{0} বৰ্গ ফুটonepatternarea-square-footunitshortunits
+{0} বৰ্গ ফুটotherpatternarea-square-footunitshortunits
+{0} মাঃ-স্কেঃonepatternlength-mile-scandinavianunitshortunits
+{0} মাঃ-স্কেঃotherpatternlength-mile-scandinavianunitshortunits
+মাঃ-স্কেঃdisplayNamelength-mile-scandinavianunitshortunits
+{0} মিঃonepatternlength-meterunitshortunits
+{0} মিঃotherpatternlength-meterunitshortunits
+মিটাৰdisplayNamelength-meterunitshortunits
+{0}/মিঃperUnitPatternlength-meterunitshortunits
+ছেঃ মিঃdisplayNamelength-centimeterunitshortunits
+{0}/ছেঃ মিঃperUnitPatternlength-centimeterunitshortunits
+{0} ছেঃ মিঃonepatternlength-centimeterunitshortunits
+{0} ছেঃ মিঃotherpatternlength-centimeterunitshortunits
+{0} নেঃ মিঃonepatternlength-nanometerunitshortunits
+{0} নেঃ মিঃotherpatternlength-nanometerunitshortunits
+নেঃ মিঃdisplayNamelength-nanometerunitshortunits
+{0} মাঃ/ঘঃonepatternspeed-mile-per-hourunitshortunits
+{0} মাঃ/ঘঃotherpatternspeed-mile-per-hourunitshortunits
+মাইল/ঘণ্টাdisplayNamespeed-mile-per-hourunitshortunits
+লাক্সdisplayNamelight-luxunitshortunits
+{0} লাক্সonepatternlight-luxunitshortunits
+{0} লাক্সotherpatternlight-luxunitshortunits
+{0} হেঃ লিঃotherpatternvolume-hectoliterunitshortunits
+{0} হেঃ লিঃonepatternvolume-hectoliterunitshortunits
+হেঃ লিঃdisplayNamevolume-hectoliterunitshortunits
+{0} m³onepatternvolume-cubic-meterunitshortunits
+{0} m³otherpatternvolume-cubic-meterunitshortunits
+{0}/m³perUnitPatternvolume-cubic-meterunitshortunits
+ঘন মিটাৰdisplayNamevolume-cubic-meterunitshortunits
+{0} মিঃ ৱাঃonepatternpower-milliwattunitshortunits
+{0} মিঃ ৱাঃotherpatternpower-milliwattunitshortunits
+মিঃ ৱাঃdisplayNamepower-milliwattunitshortunits
+চাহঃ চাঃdisplayNamevolume-teaspoonunitshortunits
+{0} চাহঃ চাঃonepatternvolume-teaspoonunitshortunits
+{0} চাহঃ চাঃotherpatternvolume-teaspoonunitshortunits
+মেঃ কাঃdisplayNamevolume-cup-metricunitshortunits
+{0} মেঃ কাঃotherpatternvolume-cup-metricunitshortunits
+{0} মেঃ কাঃonepatternvolume-cup-metricunitshortunits
+{0} mpg Imp.otherpatternconsumption-mile-per-gallon-imperialunitshortunits
+{0} mpg Imp.onepatternconsumption-mile-per-gallon-imperialunitshortunits
+mpg Imp.displayNameconsumption-mile-per-gallon-imperialunitshortunits
+{0} ঘণ্টাotherpatternduration-hourunitshortunits
+{0} ঘণ্টাonepatternduration-hourunitshortunits
+ঘণ্টাdisplayNameduration-hourunitshortunits
+{0}/ঘণ্টাperUnitPatternduration-hourunitshortunits
+ৰেডিয়েনdisplayNameangle-radianunitshortunits
+{0} ৰেডিয়েনotherpatternangle-radianunitshortunits
+{0} ৰেডিয়েনonepatternangle-radianunitshortunits
+{0} cm²onepatternarea-square-centimeterunitshortunits
+{0} cm²otherpatternarea-square-centimeterunitshortunits
+cm²displayNamearea-square-centimeterunitshortunits
+{0}/cm²perUnitPatternarea-square-centimeterunitshortunits
+{0} কিঃ জুঃotherpatternenergy-kilojouleunitshortunits
+{0} কিঃ জুঃonepatternenergy-kilojouleunitshortunits
+কিলোজুলdisplayNameenergy-kilojouleunitshortunits
+{0} কিঃ ৱাঃ-ঘঃonepatternenergy-kilowatt-hourunitshortunits
+{0} কিঃ ৱাঃ-ঘঃotherpatternenergy-kilowatt-hourunitshortunits
+কিঃ ৱাঃ-ঘঃdisplayNameenergy-kilowatt-hourunitshortunits
+{0} টেঃ বিঃonepatterndigital-terabitunitshortunits
+{0} টেঃ বিঃotherpatterndigital-terabitunitshortunits
+টেৰাবিটdisplayNamedigital-terabitunitshortunits
+{0} মিঃ মিঃotherpatternlength-millimeterunitshortunits
+{0} মিঃ মিঃonepatternlength-millimeterunitshortunits
+মিঃ মিঃdisplayNamelength-millimeterunitshortunits
+{0} ইম্পেঃ গেঃonepatternvolume-gallon-imperialunitshortunits
+{0} ইম্পেঃ গেঃotherpatternvolume-gallon-imperialunitshortunits
+ইম্পেঃ গেঃdisplayNamevolume-gallon-imperialunitshortunits
+{0}/ইম্পেঃ গেঃperUnitPatternvolume-gallon-imperialunitshortunits
+{0} in³onepatternvolume-cubic-inchunitshortunits
+{0} in³otherpatternvolume-cubic-inchunitshortunits
+ঘন ইঞ্চিdisplayNamevolume-cubic-inchunitshortunits
+কিলোবিটdisplayNamedigital-kilobitunitshortunits
+{0} কিঃ বিঃonepatterndigital-kilobitunitshortunits
+{0} কিঃ বিঃotherpatterndigital-kilobitunitshortunits
+{0} হেক্টৰonepatternarea-hectareunitshortunits
+{0} হেক্টৰotherpatternarea-hectareunitshortunits
+হেক্টৰdisplayNamearea-hectareunitshortunits
+মেগাবাইটdisplayNamedigital-megabyteunitshortunits
+{0} মেঃ বাঃonepatterndigital-megabyteunitshortunits
+{0} মেঃ বাঃotherpatterndigital-megabyteunitshortunits
+{0} কেৰেটotherpatternconcentr-karatunitshortunits
+{0} কেৰেটonepatternconcentr-karatunitshortunits
+কেৰেটdisplayNameconcentr-karatunitshortunits
+{0} কেলৰিonepatternenergy-calorieunitshortunits
+{0} কেলৰিotherpatternenergy-calorieunitshortunits
+কেলৰিdisplayNameenergy-calorieunitshortunits
+ন’টিঃ মাঃdisplayNamelength-nautical-mileunitshortunits
+{0} ন’টিঃ মাঃotherpatternlength-nautical-mileunitshortunits
+{0} ন’টিঃ মাঃonepatternlength-nautical-mileunitshortunits
+একৰ-ফুটdisplayNamevolume-acre-footunitshortunits
+{0} এঃ-ফুঃonepatternvolume-acre-footunitshortunits
+{0} এঃ-ফুঃotherpatternvolume-acre-footunitshortunits
+ছেঃ লিঃdisplayNamevolume-centiliterunitshortunits
+{0} ছেঃ লিঃotherpatternvolume-centiliterunitshortunits
+{0} ছেঃ লিঃonepatternvolume-centiliterunitshortunits
+{0} ল/১০০ ক.ম.onepatternconsumption-liter-per-100kilometersunitshortunits
+{0} ল/১০০ ক.ম.otherpatternconsumption-liter-per-100kilometersunitshortunits
+লিঃ/১০০ কিঃ মিঃdisplayNameconsumption-liter-per-100kilometersunitshortunits
+{0} কাপotherpatternvolume-cupunitshortunits
+{0} কাপonepatternvolume-cupunitshortunits
+কাপdisplayNamevolume-cupunitshortunits
+{0} পিণ্টonepatternvolume-pintunitshortunits
+{0} পিণ্টotherpatternvolume-pintunitshortunits
+পিণ্টdisplayNamevolume-pintunitshortunits
+আৰ্কমিনিটdisplayNameangle-arc-minuteunitshortunits
+{0} আৰ্কমিনিটonepatternangle-arc-minuteunitshortunits
+{0} আৰ্কমিনিটotherpatternangle-arc-minuteunitshortunits
+ডিগ্ৰীঃ চেঃdisplayNametemperature-celsiusunitshortunits
+{0}°চেঃonepatterntemperature-celsiusunitshortunits
+{0}°চেঃotherpatterntemperature-celsiusunitshortunits
+{0} মিঃ ছেঃonepatternduration-millisecondunitshortunits
+{0} মিঃ ছেঃotherpatternduration-millisecondunitshortunits
+মিলিছেকেণ্ডdisplayNameduration-millisecondunitshortunits
+কেলৰিdisplayNameenergy-foodcalorieunitshortunits
+{0} কেলৰিonepatternenergy-foodcalorieunitshortunits
+{0} কেলৰিotherpatternenergy-foodcalorieunitshortunits
+কেৰেটdisplayNamemass-caratunitshortunits
+{0} কেৰেটonepatternmass-caratunitshortunits
+{0} কেৰেটotherpatternmass-caratunitshortunits
+{0} mmHgonepatternpressure-millimeter-of-mercuryunitshortunits
+{0} mmHgotherpatternpressure-millimeter-of-mercuryunitshortunits
+mmHgdisplayNamepressure-millimeter-of-mercuryunitshortunits
+{0} আৰ্কছেকেণ্ডotherpatternangle-arc-secondunitshortunits
+{0} আৰ্কছেকেণ্ডonepatternangle-arc-secondunitshortunits
+আৰ্কছেকেণ্ডdisplayNameangle-arc-secondunitshortunits
+{0}°ফাঃonepatterntemperature-fahrenheitunitshortunits
+{0}°ফাঃotherpatterntemperature-fahrenheitunitshortunits
+ডিঃ ফাঃdisplayNametemperature-fahrenheitunitshortunits
+জি-বলdisplayNameacceleration-g-forceunitshortunits
+{0} জিotherpatternacceleration-g-forceunitshortunits
+{0} জিonepatternacceleration-g-forceunitshortunits
+মিটাৰ/ছেকেণ্ডdisplayNamespeed-meter-per-secondunitshortunits
+{0} মিঃ/ছেঃonepatternspeed-meter-per-secondunitshortunits
+{0} মিঃ/ছেঃotherpatternspeed-meter-per-secondunitshortunits
+{0} টেব’লস্পুনotherpatternvolume-tablespoonunitshortunits
+{0} টেব’লস্পুনonepatternvolume-tablespoonunitshortunits
+টেব’লস্পুনdisplayNamevolume-tablespoonunitshortunits
+{0} গিঃ বিঃotherpatterndigital-gigabitunitshortunits
+{0} গিঃ বিঃonepatterndigital-gigabitunitshortunits
+গিগাবিটdisplayNamedigital-gigabitunitshortunits
+{0} গ্ৰাঃotherpatternmass-gramunitshortunits
+{0} গ্ৰাঃonepatternmass-gramunitshortunits
+{0}/গ্ৰাঃperUnitPatternmass-gramunitshortunits
+গ্ৰামdisplayNamemass-gramunitshortunits
+{0} পাউণ্ডotherpatternmass-poundunitshortunits
+{0} পাউণ্ডonepatternmass-poundunitshortunits
+পাউণ্ডdisplayNamemass-poundunitshortunits
+{0}/পাউণ্ডperUnitPatternmass-poundunitshortunits
+পাৰ্ছেকdisplayNamelength-parsecunitshortunits
+{0} পাৰ্ছেকonepatternlength-parsecunitshortunits
+{0} পাৰ্ছেকotherpatternlength-parsecunitshortunits
+{0} মেঃ পিঃotherpatternvolume-pint-metricunitshortunits
+{0} মেঃ পিঃonepatternvolume-pint-metricunitshortunits
+মেঃ পিঃdisplayNamevolume-pint-metricunitshortunits
+জুলdisplayNameenergy-jouleunitshortunits
+{0} জুলotherpatternenergy-jouleunitshortunits
+{0} জুলonepatternenergy-jouleunitshortunits
+{0} গিগাহাৰ্টজonepatternfrequency-gigahertzunitshortunits
+{0} গিগাহাৰ্টজotherpatternfrequency-gigahertzunitshortunits
+গিগাহাৰ্টজdisplayNamefrequency-gigahertzunitshortunits
+{0}/km²perUnitPatternarea-square-kilometerunitshortunits
+বৰ্গ কিলোমিটাৰdisplayNamearea-square-kilometerunitshortunits
+{0} km²onepatternarea-square-kilometerunitshortunits
+{0} km²otherpatternarea-square-kilometerunitshortunits
+ট্ৰয় আউন্সdisplayNamemass-ounce-troyunitshortunits
+{0} ট্ৰঃ আঃotherpatternmass-ounce-troyunitshortunits
+{0} ট্ৰঃ আঃonepatternmass-ounce-troyunitshortunits
+{0} নটonepatternspeed-knotunitshortunits
+{0} নটotherpatternspeed-knotunitshortunits
+নটdisplayNamespeed-knotunitshortunits
+inHgdisplayNamepressure-inch-hgunitshortunits
+{0} inHgotherpatternpressure-inch-hgunitshortunits
+{0} inHgonepatternpressure-inch-hgunitshortunits
+{0} km/honepatternspeed-kilometer-per-hourunitnarrowunits
+{0} km/hotherpatternspeed-kilometer-per-hourunitnarrowunits
+কিঃ মিঃ/ঘঃdisplayNamespeed-kilometer-per-hourunitnarrowunits
+{0} কিঃ গ্ৰাঃotherpatternmass-kilogramunitnarrowunits
+{0} কিঃ গ্ৰাঃonepatternmass-kilogramunitnarrowunits
+কিঃ গ্ৰাঃdisplayNamemass-kilogramunitnarrowunits
+{0} ছেঃ মিঃonepatternlength-centimeterunitnarrowunits
+{0} ছেঃ মিঃotherpatternlength-centimeterunitnarrowunits
+ছেঃ মিঃdisplayNamelength-centimeterunitnarrowunits
+{0} মিঃonepatternlength-meterunitnarrowunits
+{0} মিঃotherpatternlength-meterunitnarrowunits
+মিঃdisplayNamelength-meterunitnarrowunits
+মিনিটdisplayNameduration-minuteunitnarrowunits
+{0} মিনিটotherpatternduration-minuteunitnarrowunits
+{0} মিনিটonepatternduration-minuteunitnarrowunits
+{0} ঘণ্টাotherpatternduration-hourunitnarrowunits
+{0} ঘণ্টাonepatternduration-hourunitnarrowunits
+ঘণ্টাdisplayNameduration-hourunitnarrowunits
+{0} মিঃ মিঃonepatternlength-millimeterunitnarrowunits
+{0} মিঃ মিঃotherpatternlength-millimeterunitnarrowunits
+মিঃ মিঃdisplayNamelength-millimeterunitnarrowunits
+ল/১০০ ক.ম.displayNameconsumption-liter-per-100kilometersunitnarrowunits
+{0} ল/১০০ ক.ম.onepatternconsumption-liter-per-100kilometersunitnarrowunits
+{0} ল/১০০ ক.ম.otherpatternconsumption-liter-per-100kilometersunitnarrowunits
+{0} মিঃ ছেঃotherpatternduration-millisecondunitnarrowunits
+{0} মিঃ ছেঃonepatternduration-millisecondunitnarrowunits
+মিলিছেকেণ্ডdisplayNameduration-millisecondunitnarrowunits
+°চেঃdisplayNametemperature-celsiusunitnarrowunits
+{0}°চেঃotherpatterntemperature-celsiusunitnarrowunits
+{0}°চেঃonepatterntemperature-celsiusunitnarrowunits
+{0} গ্ৰাঃonepatternmass-gramunitnarrowunits
+{0} গ্ৰাঃotherpatternmass-gramunitnarrowunits
+গ্ৰামdisplayNamemass-gramunitnarrowunits
+{0} লিঃonepatternvolume-literunitnarrowunits
+{0} লিঃotherpatternvolume-literunitnarrowunits
+লিটাৰdisplayNamevolume-literunitnarrowunits
+{0} সপ্তাহonepatternduration-weekunitnarrowunits
+{0} সপ্তাহotherpatternduration-weekunitnarrowunits
+সপ্তাহdisplayNameduration-weekunitnarrowunits
+ছেকেণ্ডdisplayNameduration-secondunitnarrowunits
+{0} ছেকেণ্ডotherpatternduration-secondunitnarrowunits
+{0} ছেকেণ্ডonepatternduration-secondunitnarrowunits
+দিনdisplayNameduration-dayunitnarrowunits
+{0} দিনonepatternduration-dayunitnarrowunits
+{0} দিনotherpatternduration-dayunitnarrowunits
+%displayNameconcentr-percentunitnarrowunits
+{0}%otherpatternconcentr-percentunitnarrowunits
+{0}%onepatternconcentr-percentunitnarrowunits
+মাহdisplayNameduration-monthunitnarrowunits
+{0} মাহonepatternduration-monthunitnarrowunits
+{0} মাহotherpatternduration-monthunitnarrowunits
+বছৰdisplayNameduration-yearunitnarrowunits
+{0} বছৰonepatternduration-yearunitnarrowunits
+{0} বছৰotherpatternduration-yearunitnarrowunits
+কিঃ মিঃdisplayNamelength-kilometerunitnarrowunits
+{0} কিঃ মিঃotherpatternlength-kilometerunitnarrowunits
+{0} কিঃ মিঃonepatternlength-kilometerunitnarrowunits
+{0} পঃwestcoordinateUnitnarrowunits
+{0} উঃnorthcoordinateUnitnarrowunits
+দিক্-নিৰ্দেশনাdisplayNamecoordinateUnitnarrowunits
+{0} দঃsouthcoordinateUnitnarrowunits
+{0} পূঃeastcoordinateUnitnarrowunits
+{0}/{1}patternpercompoundUnitnarrowunits
+প্ৰতি {1}ত {0}patternpercompoundUnitlongunits
+{0} পশ্চিমwestcoordinateUnitlongunits
+প্ৰধান দিক্-নিৰ্দেশনাdisplayNamecoordinateUnitlongunits
+{0} উত্তৰnorthcoordinateUnitlongunits
+{0} পূবeastcoordinateUnitlongunits
+{0} দক্ষিণsouthcoordinateUnitlongunits
+ঘন গজdisplayNamevolume-cubic-yardunitlongunits
+{0} ঘন গজonepatternvolume-cubic-yardunitlongunits
+{0} ঘন গজotherpatternvolume-cubic-yardunitlongunits
+{0} প্ৰতিমাইলonepatternconcentr-permilleunitlongunits
+{0} প্ৰতিমাইলotherpatternconcentr-permilleunitlongunits
+প্ৰতিমাইলdisplayNameconcentr-permilleunitlongunits
+{0} বৰ্গ ইঞ্চিotherpatternarea-square-inchunitlongunits
+{0} বৰ্গ ইঞ্চিonepatternarea-square-inchunitlongunits
+বৰ্গ ইঞ্চিdisplayNamearea-square-inchunitlongunits
+{0} প্ৰতি বৰ্গ ইঞ্চিperUnitPatternarea-square-inchunitlongunits
+ডিগ্ৰীdisplayNameangle-degreeunitlongunits
+{0} ডিগ্ৰীotherpatternangle-degreeunitlongunits
+{0} ডিগ্ৰীonepatternangle-degreeunitlongunits
+{0} এম্পিয়াৰonepatternelectric-ampereunitlongunits
+{0} এম্পিয়াৰotherpatternelectric-ampereunitlongunits
+এম্পিয়াৰdisplayNameelectric-ampereunitlongunits
+গিগাবাইটdisplayNamedigital-gigabyteunitlongunits
+{0} গিগাবাইটonepatterndigital-gigabyteunitlongunits
+{0} গিগাবাইটotherpatterndigital-gigabyteunitlongunits
+{0} পেটাবাইটonepatterndigital-petabyteunitlongunits
+{0} পেটাবাইটotherpatterndigital-petabyteunitlongunits
+পেটাবাইটdisplayNamedigital-petabyteunitlongunits
+প্ৰতি ডেচিলিটাৰত মিলিগ্ৰামdisplayNameconcentr-milligram-per-deciliterunitlongunits
+প্ৰতি ডেচিলিটাৰত {0} মিলিগ্ৰামonepatternconcentr-milligram-per-deciliterunitlongunits
+প্ৰতি ডেচিলিটাৰত {0} মিলিগ্ৰামotherpatternconcentr-milligram-per-deciliterunitlongunits
+{0} কিলোকেলৰিonepatternenergy-kilocalorieunitlongunits
+{0} কিলোকেলৰিotherpatternenergy-kilocalorieunitlongunits
+কিলোকেলৰিdisplayNameenergy-kilocalorieunitlongunits
+ডেচিমিটাৰdisplayNamelength-decimeterunitlongunits
+{0} ডেচিমিটাৰotherpatternlength-decimeterunitlongunits
+{0} ডেচিমিটাৰonepatternlength-decimeterunitlongunits
+{0} নেনোছেকেণ্ডonepatternduration-nanosecondunitlongunits
+{0} নেনোছেকেণ্ডotherpatternduration-nanosecondunitlongunits
+নেনোছেকেণ্ডdisplayNameduration-nanosecondunitlongunits
+প্ৰতি মিলিয়নত {0} ভাগotherpatternconcentr-part-per-millionunitlongunits
+প্ৰতি মিলিয়নত {0} ভাগonepatternconcentr-part-per-millionunitlongunits
+প্ৰতি মিলিয়নত ভাগdisplayNameconcentr-part-per-millionunitlongunits
+{0} ঘূৰ্ণনonepatternangle-revolutionunitlongunits
+{0} ঘূৰ্ণনotherpatternangle-revolutionunitlongunits
+ঘূৰ্ণনdisplayNameangle-revolutionunitlongunits
+কিলোমিটাৰdisplayNamelength-kilometerunitlongunits
+{0} প্ৰতি কিলোমিটাৰperUnitPatternlength-kilometerunitlongunits
+{0} কিলোমিটাৰotherpatternlength-kilometerunitlongunits
+{0} কিলোমিটাৰonepatternlength-kilometerunitlongunits
+বৰ্গ গজdisplayNamearea-square-yardunitlongunits
+{0} বৰ্গ গজotherpatternarea-square-yardunitlongunits
+{0} বৰ্গ গজonepatternarea-square-yardunitlongunits
+টনdisplayNamemass-tonunitlongunits
+{0} টনotherpatternmass-tonunitlongunits
+{0} টনonepatternmass-tonunitlongunits
+{0}°onepatterntemperature-genericunitlongunits
+{0}°otherpatterntemperature-genericunitlongunits
+°displayNametemperature-genericunitlongunits
+%displayNameconcentr-percentunitlongunits
+{0} শতাংশotherpatternconcentr-percentunitlongunits
+{0} শতাংশonepatternconcentr-percentunitlongunits
+{0} প্ৰতি বৰ্গ মাইলperUnitPatternarea-square-mileunitlongunits
+বৰ্গ মাইলdisplayNamearea-square-mileunitlongunits
+{0} বৰ্গ মাইলotherpatternarea-square-mileunitlongunits
+{0} বৰ্গ মাইলonepatternarea-square-mileunitlongunits
+{0} ফুটotherpatternlength-footunitlongunits
+{0} ফুটonepatternlength-footunitlongunits
+{0} প্ৰতি ফুটperUnitPatternlength-footunitlongunits
+ফুটdisplayNamelength-footunitlongunits
+জ্যোতিৰ্বিজ্ঞান এককdisplayNamelength-astronomical-unitunitlongunits
+{0} জ্যোতিৰ্বিজ্ঞান এককotherpatternlength-astronomical-unitunitlongunits
+{0} জ্যোতিৰ্বিজ্ঞান এককonepatternlength-astronomical-unitunitlongunits
+মেগাৱাটdisplayNamepower-megawattunitlongunits
+{0} মেগাৱাটotherpatternpower-megawattunitlongunits
+{0} মেগাৱাটonepatternpower-megawattunitlongunits
+{0} কিলোৱাটotherpatternpower-kilowattunitlongunits
+{0} কিলোৱাটonepatternpower-kilowattunitlongunits
+কিলোৱাটdisplayNamepower-kilowattunitlongunits
+প্ৰতি বৰ্গ ইঞ্চি পাউণ্ডdisplayNamepressure-pound-per-square-inchunitlongunits
+{0} প্ৰতি বৰ্গ ইঞ্চি পাউণ্ডonepatternpressure-pound-per-square-inchunitlongunits
+{0} প্ৰতি বৰ্গ ইঞ্চি পাউণ্ডotherpatternpressure-pound-per-square-inchunitlongunits
+{0} বছৰotherpatternduration-yearunitlongunits
+{0} বছৰonepatternduration-yearunitlongunits
+বছৰdisplayNameduration-yearunitlongunits
+{0} প্ৰতি বছৰperUnitPatternduration-yearunitlongunits
+ঘন মাইলdisplayNamevolume-cubic-mileunitlongunits
+{0} ঘন মাইলotherpatternvolume-cubic-mileunitlongunits
+{0} ঘন মাইলonepatternvolume-cubic-mileunitlongunits
+{0} প্ৰতি ইঞ্চিperUnitPatternlength-inchunitlongunits
+ইঞ্চিdisplayNamelength-inchunitlongunits
+{0} ইঞ্চিotherpatternlength-inchunitlongunits
+{0} ইঞ্চিonepatternlength-inchunitlongunits
+মিলিগ্ৰামdisplayNamemass-milligramunitlongunits
+{0} মিলিগ্ৰামonepatternmass-milligramunitlongunits
+{0} মিলিগ্ৰামotherpatternmass-milligramunitlongunits
+{0} ঘন ফুটonepatternvolume-cubic-footunitlongunits
+{0} ঘন ফুটotherpatternvolume-cubic-footunitlongunits
+ঘন ফুটdisplayNamevolume-cubic-footunitlongunits
+{0} প্ৰতি মাহperUnitPatternduration-monthunitlongunits
+মাহdisplayNameduration-monthunitlongunits
+{0} মাহotherpatternduration-monthunitlongunits
+{0} মাহonepatternduration-monthunitlongunits
+{0} বাইটotherpatterndigital-byteunitlongunits
+{0} বাইটonepatterndigital-byteunitlongunits
+বাইটdisplayNamedigital-byteunitlongunits
+মাইলdisplayNamelength-mileunitlongunits
+{0} মাইলotherpatternlength-mileunitlongunits
+{0} মাইলonepatternlength-mileunitlongunits
+প্ৰতি লিটাৰত {0} মিলিমোলotherpatternconcentr-millimole-per-literunitlongunits
+প্ৰতি লিটাৰত {0} মিলিমোলonepatternconcentr-millimole-per-literunitlongunits
+প্ৰতি লিটাৰত মিলিমোলdisplayNameconcentr-millimole-per-literunitlongunits
+{0} কেলভিনotherpatterntemperature-kelvinunitlongunits
+{0} কেলভিনonepatterntemperature-kelvinunitlongunits
+কেলভিনdisplayNametemperature-kelvinunitlongunits
+{0} বৰ্গ মিটাৰperUnitPatternarea-square-meterunitlongunits
+বৰ্গ মিটাৰdisplayNamearea-square-meterunitlongunits
+{0} বৰ্গ মিটাৰonepatternarea-square-meterunitlongunits
+{0} বৰ্গ মিটাৰotherpatternarea-square-meterunitlongunits
+{0} মাইক্ৰোগ্ৰামotherpatternmass-microgramunitlongunits
+{0} মাইক্ৰোগ্ৰামonepatternmass-microgramunitlongunits
+মাইক্ৰোগ্ৰামdisplayNamemass-microgramunitlongunits
+মিলিলিটাৰdisplayNamevolume-milliliterunitlongunits
+{0} মিলিলিটাৰotherpatternvolume-milliliterunitlongunits
+{0} মিলিলিটাৰonepatternvolume-milliliterunitlongunits
+{0} প্ৰতি দিনperUnitPatternduration-dayunitlongunits
+দিনdisplayNameduration-dayunitlongunits
+{0} দিনotherpatternduration-dayunitlongunits
+{0} দিনonepatternduration-dayunitlongunits
+হাৰ্টজdisplayNamefrequency-hertzunitlongunits
+{0} হাৰ্টজotherpatternfrequency-hertzunitlongunits
+{0} হাৰ্টজonepatternfrequency-hertzunitlongunits
+{0} গজonepatternlength-yardunitlongunits
+{0} গজotherpatternlength-yardunitlongunits
+গজdisplayNamelength-yardunitlongunits
+{0} আলোকবৰ্ষotherpatternlength-light-yearunitlongunits
+{0} আলোকবৰ্ষonepatternlength-light-yearunitlongunits
+আলোকবৰ্ষdisplayNamelength-light-yearunitlongunits
+{0} প্ৰতি আউন্সperUnitPatternmass-ounceunitlongunits
+আউন্সdisplayNamemass-ounceunitlongunits
+{0} আউন্সotherpatternmass-ounceunitlongunits
+{0} আউন্সonepatternmass-ounceunitlongunits
+ৱাটdisplayNamepower-wattunitlongunits
+{0} ৱাটonepatternpower-wattunitlongunits
+{0} ৱাটotherpatternpower-wattunitlongunits
+{0} atmotherpatternpressure-atmosphereunitlongunits
+{0} বতৰonepatternpressure-atmosphereunitlongunits
+বতৰdisplayNamepressure-atmosphereunitlongunits
+{0} ফ্লুইড আউন্সonepatternvolume-fluid-ounceunitlongunits
+{0} ফ্লুইড আউন্সotherpatternvolume-fluid-ounceunitlongunits
+ফ্লুইড আউন্সdisplayNamevolume-fluid-ounceunitlongunits
+মেগালিটাৰdisplayNamevolume-megaliterunitlongunits
+{0} মেগালিটাৰotherpatternvolume-megaliterunitlongunits
+{0} মেগালিটাৰonepatternvolume-megaliterunitlongunits
+কিলোবাইটdisplayNamedigital-kilobyteunitlongunits
+{0} কিলোবাইটotherpatterndigital-kilobyteunitlongunits
+{0} কিলোবাইটonepatterndigital-kilobyteunitlongunits
+টেৰাবাইটdisplayNamedigital-terabyteunitlongunits
+{0} টেৰাবাইটonepatterndigital-terabyteunitlongunits
+{0} টেৰাবাইটotherpatterndigital-terabyteunitlongunits
+মাইক্ৰ’মিটাৰdisplayNamelength-micrometerunitlongunits
+{0} মাইক্ৰ’মিটাৰotherpatternlength-micrometerunitlongunits
+{0} মাইক্ৰ’মিটাৰonepatternlength-micrometerunitlongunits
+হেক্টোপাছকলdisplayNamepressure-hectopascalunitlongunits
+{0} হেক্টোপাছকলotherpatternpressure-hectopascalunitlongunits
+{0} হেক্টোপাছকলonepatternpressure-hectopascalunitlongunits
+কোৱাৰ্টdisplayNamevolume-quartunitlongunits
+{0} কোৱাৰ্টonepatternvolume-quartunitlongunits
+{0} কোৱাৰ্টotherpatternvolume-quartunitlongunits
+ডেচিলিটাৰdisplayNamevolume-deciliterunitlongunits
+{0} ডেচিলিটাৰotherpatternvolume-deciliterunitlongunits
+{0} ডেচিলিটাৰonepatternvolume-deciliterunitlongunits
+ছেকেণ্ডdisplayNameduration-secondunitlongunits
+{0} প্ৰতি ছেকেণ্ডperUnitPatternduration-secondunitlongunits
+{0} ছেকেণ্ডotherpatternduration-secondunitlongunits
+{0} ছেকেণ্ডonepatternduration-secondunitlongunits
+প্ৰতি কিলোমিটাৰত লিটাৰdisplayNameconsumption-liter-per-kilometerunitlongunits
+প্ৰতি কিলোমিটাৰত {0} লিটাৰotherpatternconsumption-liter-per-kilometerunitlongunits
+প্ৰতি কিলোমিটাৰত {0} লিটাৰonepatternconsumption-liter-per-kilometerunitlongunits
+পিকোমিটাৰdisplayNamelength-picometerunitlongunits
+{0} পিকোমিটাৰonepatternlength-picometerunitlongunits
+{0} পিকোমিটাৰotherpatternlength-picometerunitlongunits
+প্ৰতি গেলনত মাইলdisplayNameconsumption-mile-per-gallonunitlongunits
+প্ৰতি গেলনত {0} মাইলotherpatternconsumption-mile-per-gallonunitlongunits
+প্ৰতি গেলনত {0} মাইলonepatternconsumption-mile-per-gallonunitlongunits
+{0} বিটonepatterndigital-bitunitlongunits
+{0} বিটotherpatterndigital-bitunitlongunits
+বিটdisplayNamedigital-bitunitlongunits
+ওমdisplayNameelectric-ohmunitlongunits
+{0} ওমotherpatternelectric-ohmunitlongunits
+{0} ওমonepatternelectric-ohmunitlongunits
+মিলিএম্পিয়াৰdisplayNameelectric-milliampereunitlongunits
+{0} মিলিএম্পিয়াৰonepatternelectric-milliampereunitlongunits
+{0} মিলিএম্পিয়াৰotherpatternelectric-milliampereunitlongunits
+{0} প্ৰতি ঘন ছেণ্টিমিটাৰperUnitPatternvolume-cubic-centimeterunitlongunits
+ঘন ছেণ্টিমিটাৰdisplayNamevolume-cubic-centimeterunitlongunits
+{0} ঘন ছেণ্টিমিটাৰotherpatternvolume-cubic-centimeterunitlongunits
+{0} ঘন ছেণ্টিমিটাৰonepatternvolume-cubic-centimeterunitlongunits
+পইণ্টdisplayNamelength-pointunitlongunits
+{0} পইণ্টotherpatternlength-pointunitlongunits
+{0} পইণ্টonepatternlength-pointunitlongunits
+{0} মাইক্ৰছেকেণ্ডonepatternduration-microsecondunitlongunits
+{0} মাইক্ৰছেকেণ্ডotherpatternduration-microsecondunitlongunits
+মাইক্ৰছেকেণ্ডdisplayNameduration-microsecondunitlongunits
+{0} লিটাৰotherpatternvolume-literunitlongunits
+{0} লিটাৰonepatternvolume-literunitlongunits
+{0} প্ৰতি লিটাৰperUnitPatternvolume-literunitlongunits
+লিটাৰdisplayNamevolume-literunitlongunits
+ঘন কিলোমিটাৰdisplayNamevolume-cubic-kilometerunitlongunits
+{0} ঘন কিলোমিটাৰonepatternvolume-cubic-kilometerunitlongunits
+{0} ঘন কিলোমিটাৰotherpatternvolume-cubic-kilometerunitlongunits
+{0} সপ্তাহotherpatternduration-weekunitlongunits
+{0} সপ্তাহonepatternduration-weekunitlongunits
+সপ্তাহdisplayNameduration-weekunitlongunits
+{0} প্ৰতি সপ্তাহperUnitPatternduration-weekunitlongunits
+মেগাহাৰ্টজdisplayNamefrequency-megahertzunitlongunits
+{0} মেগাহাৰ্টজonepatternfrequency-megahertzunitlongunits
+{0} মেগাহাৰ্টজotherpatternfrequency-megahertzunitlongunits
+{0} টেব’লস্পুনonepatternvolume-tablespoonunitlongunits
+{0} টেব’লস্পুনotherpatternvolume-tablespoonunitlongunits
+টেব’লস্পুনdisplayNamevolume-tablespoonunitlongunits
+{0} গিগাবিটotherpatterndigital-gigabitunitlongunits
+{0} গিগাবিটonepatterndigital-gigabitunitlongunits
+গিগাবিটdisplayNamedigital-gigabitunitlongunits
+{0} পাৰ্ছেকonepatternlength-parsecunitlongunits
+{0} পাৰ্ছেকotherpatternlength-parsecunitlongunits
+পাৰ্ছেকdisplayNamelength-parsecunitlongunits
+গ্ৰামdisplayNamemass-gramunitlongunits
+{0} প্ৰতি গ্ৰামperUnitPatternmass-gramunitlongunits
+{0} গ্ৰামonepatternmass-gramunitlongunits
+{0} গ্ৰামotherpatternmass-gramunitlongunits
+{0} প্ৰতি পাউণ্ডperUnitPatternmass-poundunitlongunits
+পাউণ্ডdisplayNamemass-poundunitlongunits
+{0} পাউণ্ডotherpatternmass-poundunitlongunits
+{0} পাউণ্ডonepatternmass-poundunitlongunits
+{0} মেট্ৰিক পিণ্টotherpatternvolume-pint-metricunitlongunits
+{0} মেট্ৰিক পিণ্টonepatternvolume-pint-metricunitlongunits
+মেট্ৰিক পিণ্টdisplayNamevolume-pint-metricunitlongunits
+জুলdisplayNameenergy-jouleunitlongunits
+{0} জুলotherpatternenergy-jouleunitlongunits
+{0} জুলonepatternenergy-jouleunitlongunits
+গিগাহাৰ্টজdisplayNamefrequency-gigahertzunitlongunits
+{0} গিগাহাৰ্টজonepatternfrequency-gigahertzunitlongunits
+{0} গিগাহাৰ্টজotherpatternfrequency-gigahertzunitlongunits
+{0} বৰ্গ কিলোমিটাৰotherpatternarea-square-kilometerunitlongunits
+{0} বৰ্গ কিলোমিটাৰonepatternarea-square-kilometerunitlongunits
+{0} প্ৰতি বৰ্গ কিলোমিটাৰperUnitPatternarea-square-kilometerunitlongunits
+বৰ্গ কিলোমিটাৰdisplayNamearea-square-kilometerunitlongunits
+{0} ট্ৰয় আউন্সonepatternmass-ounce-troyunitlongunits
+{0} ট্ৰয় আউন্সotherpatternmass-ounce-troyunitlongunits
+ট্ৰয় আউন্সdisplayNamemass-ounce-troyunitlongunits
+নটdisplayNamespeed-knotunitlongunits
+{0} নটonepatternspeed-knotunitlongunits
+{0} নটotherpatternspeed-knotunitlongunits
+ইঞ্চি মাৰ্কিউৰীdisplayNamepressure-inch-hgunitlongunits
+{0} ইঞ্চি মাৰ্কিউৰীonepatternpressure-inch-hgunitlongunits
+{0} ইঞ্চি মাৰ্কিউৰীotherpatternpressure-inch-hgunitlongunits
+ডিগ্ৰী চেলচিয়াছdisplayNametemperature-celsiusunitlongunits
+{0} ডিগ্ৰী চেলচিয়াছonepatterntemperature-celsiusunitlongunits
+{0} ডিগ্ৰী চেলচিয়াছotherpatterntemperature-celsiusunitlongunits
+{0} মিলিছেকেণ্ডotherpatternduration-millisecondunitlongunits
+{0} মিলিছেকেণ্ডonepatternduration-millisecondunitlongunits
+মিলিছেকেণ্ডdisplayNameduration-millisecondunitlongunits
+{0} কেৰেটotherpatternmass-caratunitlongunits
+{0} কেৰেটonepatternmass-caratunitlongunits
+কেৰেটdisplayNamemass-caratunitlongunits
+কেলৰিdisplayNameenergy-foodcalorieunitlongunits
+{0} কেলৰিotherpatternenergy-foodcalorieunitlongunits
+{0} কেলৰিonepatternenergy-foodcalorieunitlongunits
+{0} মিলিমিটাৰ মাৰ্কিউৰীotherpatternpressure-millimeter-of-mercuryunitlongunits
+{0} মিলিমিটাৰ মাৰ্কিউৰীonepatternpressure-millimeter-of-mercuryunitlongunits
+মিলিমিটাৰ মাৰ্কিউৰীdisplayNamepressure-millimeter-of-mercuryunitlongunits
+ডিগ্ৰী ফাৰেনহাইটdisplayNametemperature-fahrenheitunitlongunits
+{0} ডিগ্ৰী ফাৰেনহাইটonepatterntemperature-fahrenheitunitlongunits
+{0} ডিগ্ৰী ফাৰেনহাইটotherpatterntemperature-fahrenheitunitlongunits
+আৰ্কছেকেণ্ডdisplayNameangle-arc-secondunitlongunits
+{0} আৰ্কছেকেণ্ডotherpatternangle-arc-secondunitlongunits
+{0} আৰ্কছেকেণ্ডonepatternangle-arc-secondunitlongunits
+জি-বলdisplayNameacceleration-g-forceunitlongunits
+{0} জি-বলotherpatternacceleration-g-forceunitlongunits
+{0} জি-বলonepatternacceleration-g-forceunitlongunits
+{0} মিটাৰ প্ৰতি ছেকেণ্ডotherpatternspeed-meter-per-secondunitlongunits
+{0} মিটাৰ প্ৰতি ছেকেণ্ডonepatternspeed-meter-per-secondunitlongunits
+মিটাৰ প্ৰতি ছেকেণ্ডdisplayNamespeed-meter-per-secondunitlongunits
+একৰ-ফুটdisplayNamevolume-acre-footunitlongunits
+{0} একৰ-ফুটonepatternvolume-acre-footunitlongunits
+{0} একৰ-ফুটotherpatternvolume-acre-footunitlongunits
+{0} ন’টিকেল মাইলotherpatternlength-nautical-mileunitlongunits
+{0} ন’টিকেল মাইলonepatternlength-nautical-mileunitlongunits
+ন’টিকেল মাইলdisplayNamelength-nautical-mileunitlongunits
+ছেণ্টিলিটাৰdisplayNamevolume-centiliterunitlongunits
+{0} ছেণ্টিলিটাৰotherpatternvolume-centiliterunitlongunits
+{0} ছেণ্টিলিটাৰonepatternvolume-centiliterunitlongunits
+{0} কাপotherpatternvolume-cupunitlongunits
+{0} কাপonepatternvolume-cupunitlongunits
+কাপdisplayNamevolume-cupunitlongunits
+প্ৰতি ১০০ কিলোমিটাৰত {0} লিটাৰotherpatternconsumption-liter-per-100kilometersunitlongunits
+প্ৰতি ১০০ কিলোমিটাৰত {0} লিটাৰonepatternconsumption-liter-per-100kilometersunitlongunits
+প্ৰতি ১০০ কিলোমিটাৰত লিটাৰdisplayNameconsumption-liter-per-100kilometersunitlongunits
+{0} পিণ্টonepatternvolume-pintunitlongunits
+{0} পিণ্টotherpatternvolume-pintunitlongunits
+পিণ্টdisplayNamevolume-pintunitlongunits
+{0} আৰ্কমিনিটotherpatternangle-arc-minuteunitlongunits
+{0} আৰ্কমিনিটonepatternangle-arc-minuteunitlongunits
+আৰ্কমিনিটdisplayNameangle-arc-minuteunitlongunits
+টেৰাবিটdisplayNamedigital-terabitunitlongunits
+{0} টেৰাবিটonepatterndigital-terabitunitlongunits
+{0} টেৰাবিটotherpatterndigital-terabitunitlongunits
+মিলিমিটাৰdisplayNamelength-millimeterunitlongunits
+{0} মিলিমিটাৰonepatternlength-millimeterunitlongunits
+{0} মিলিমিটাৰotherpatternlength-millimeterunitlongunits
+{0} ইম্পেৰিয়াল গেলনonepatternvolume-gallon-imperialunitlongunits
+{0} ইম্পেৰিয়াল গেলনotherpatternvolume-gallon-imperialunitlongunits
+{0} প্ৰতি ইম্পেৰিয়াল গেলনperUnitPatternvolume-gallon-imperialunitlongunits
+ইম্পেৰিয়াল গেলনdisplayNamevolume-gallon-imperialunitlongunits
+{0} কিলোবিটonepatterndigital-kilobitunitlongunits
+{0} কিলোবিটotherpatterndigital-kilobitunitlongunits
+কিলোবিটdisplayNamedigital-kilobitunitlongunits
+ঘন ইঞ্চিdisplayNamevolume-cubic-inchunitlongunits
+{0} ঘন ইঞ্চিotherpatternvolume-cubic-inchunitlongunits
+{0} ঘন ইঞ্চিonepatternvolume-cubic-inchunitlongunits
+{0} মেগাবাইটotherpatterndigital-megabyteunitlongunits
+{0} মেগাবাইটonepatterndigital-megabyteunitlongunits
+মেগাবাইটdisplayNamedigital-megabyteunitlongunits
+{0} কেৰেটonepatternconcentr-karatunitlongunits
+{0} কেৰেটotherpatternconcentr-karatunitlongunits
+কেৰেটdisplayNameconcentr-karatunitlongunits
+কেলৰিdisplayNameenergy-calorieunitlongunits
+{0} কেলৰিotherpatternenergy-calorieunitlongunits
+{0} কেলৰিonepatternenergy-calorieunitlongunits
+হেক্টৰdisplayNamearea-hectareunitlongunits
+{0} হেক্টৰotherpatternarea-hectareunitlongunits
+{0} হেক্টৰonepatternarea-hectareunitlongunits
+ঘন মিটাৰdisplayNamevolume-cubic-meterunitlongunits
+{0} প্ৰতি ঘন মিটাৰperUnitPatternvolume-cubic-meterunitlongunits
+{0} ঘন মিটাৰotherpatternvolume-cubic-meterunitlongunits
+{0} ঘন মিটাৰonepatternvolume-cubic-meterunitlongunits
+{0} হেক্টোলিটাৰotherpatternvolume-hectoliterunitlongunits
+{0} হেক্টোলিটাৰonepatternvolume-hectoliterunitlongunits
+হেক্টোলিটাৰdisplayNamevolume-hectoliterunitlongunits
+{0} মিলিৱাটonepatternpower-milliwattunitlongunits
+{0} মিলিৱাটotherpatternpower-milliwattunitlongunits
+মিলিৱাটdisplayNamepower-milliwattunitlongunits
+{0} ঘণ্টাotherpatternduration-hourunitlongunits
+{0} ঘণ্টাonepatternduration-hourunitlongunits
+ঘণ্টাdisplayNameduration-hourunitlongunits
+{0} প্ৰতি ঘণ্টাperUnitPatternduration-hourunitlongunits
+{0} চাহচামোছonepatternvolume-teaspoonunitlongunits
+{0} চাহচামোছotherpatternvolume-teaspoonunitlongunits
+চাহচামোছdisplayNamevolume-teaspoonunitlongunits
+{0} মেট্ৰিক কাপotherpatternvolume-cup-metricunitlongunits
+{0} মেট্ৰিক কাপonepatternvolume-cup-metricunitlongunits
+মেট্ৰিক কাপdisplayNamevolume-cup-metricunitlongunits
+প্ৰতি ইম্পেৰিয়াল গেলনত {0} মাইলotherpatternconsumption-mile-per-gallon-imperialunitlongunits
+প্ৰতি ইম্পেৰিয়াল গেলনত {0} মাইলonepatternconsumption-mile-per-gallon-imperialunitlongunits
+প্ৰতি ইম্পেৰিয়াল গেলনত মাইলdisplayNameconsumption-mile-per-gallon-imperialunitlongunits
+ৰেডিয়েনdisplayNameangle-radianunitlongunits
+{0} ৰেডিয়েনonepatternangle-radianunitlongunits
+{0} ৰেডিয়েনotherpatternangle-radianunitlongunits
+{0} কিলোজুলonepatternenergy-kilojouleunitlongunits
+{0} কিলোজুলotherpatternenergy-kilojouleunitlongunits
+কিলোজুলdisplayNameenergy-kilojouleunitlongunits
+{0} বৰ্গ ছেণ্টিমিটাৰotherpatternarea-square-centimeterunitlongunits
+{0} বৰ্গ ছেণ্টিমিটাৰonepatternarea-square-centimeterunitlongunits
+{0} বৰ্গ ছেণ্টিমিটাৰperUnitPatternarea-square-centimeterunitlongunits
+বৰ্গ ছেণ্টিমিটাৰdisplayNamearea-square-centimeterunitlongunits
+কিলোৱাট-ঘণ্টাdisplayNameenergy-kilowatt-hourunitlongunits
+{0} কিলোৱাট ঘণ্টাotherpatternenergy-kilowatt-hourunitlongunits
+{0} কিলোৱাট ঘণ্টাonepatternenergy-kilowatt-hourunitlongunits
+{0} প্ৰতি মিনিটperUnitPatternduration-minuteunitlongunits
+মিনিটdisplayNameduration-minuteunitlongunits
+{0} মিনিটonepatternduration-minuteunitlongunits
+{0} মিনিটotherpatternduration-minuteunitlongunits
+{0} বৰ্গ ফুটonepatternarea-square-footunitlongunits
+{0} বৰ্গ ফুটotherpatternarea-square-footunitlongunits
+বৰ্গ ফুটdisplayNamearea-square-footunitlongunits
+মাইল-স্কেণ্ডিনেভিয়ানdisplayNamelength-mile-scandinavianunitlongunits
+{0} মাইল-স্কেণ্ডিনেভিয়ানonepatternlength-mile-scandinavianunitlongunits
+{0} মাইল-স্কেণ্ডিনেভিয়ানotherpatternlength-mile-scandinavianunitlongunits
+{0} মিটাৰotherpatternlength-meterunitlongunits
+{0} মিটাৰonepatternlength-meterunitlongunits
+{0} প্ৰতি মিটাৰperUnitPatternlength-meterunitlongunits
+মিটাৰdisplayNamelength-meterunitlongunits
+{0} ছেণ্টিমিটাৰonepatternlength-centimeterunitlongunits
+{0} ছেণ্টিমিটাৰotherpatternlength-centimeterunitlongunits
+ছেণ্টিমিটাৰdisplayNamelength-centimeterunitlongunits
+{0} প্ৰতি ছেণ্টিমিটাৰperUnitPatternlength-centimeterunitlongunits
+লাক্সdisplayNamelight-luxunitlongunits
+{0} লাক্সonepatternlight-luxunitlongunits
+{0} লাক্সotherpatternlight-luxunitlongunits
+নেনোমিটাৰdisplayNamelength-nanometerunitlongunits
+{0} নেনোমিটাৰonepatternlength-nanometerunitlongunits
+{0} নেনোমিটাৰotherpatternlength-nanometerunitlongunits
+মাইল প্ৰতি ঘণ্টাdisplayNamespeed-mile-per-hourunitlongunits
+{0} মাইল প্ৰতি ঘণ্টাotherpatternspeed-mile-per-hourunitlongunits
+{0} মাইল প্ৰতি ঘণ্টাonepatternspeed-mile-per-hourunitlongunits
+{0} গেলনotherpatternvolume-gallonunitlongunits
+{0} গেলনonepatternvolume-gallonunitlongunits
+গেলনdisplayNamevolume-gallonunitlongunits
+{0} প্ৰতি গেলনperUnitPatternvolume-gallonunitlongunits
+একৰdisplayNamearea-acreunitlongunits
+{0} একৰotherpatternarea-acreunitlongunits
+{0} একৰonepatternarea-acreunitlongunits
+{0} ভল্টotherpatternelectric-voltunitlongunits
+{0} ভল্টonepatternelectric-voltunitlongunits
+ভল্টdisplayNameelectric-voltunitlongunits
+কিলোহাৰ্টজdisplayNamefrequency-kilohertzunitlongunits
+{0} কিলোহাৰ্টজotherpatternfrequency-kilohertzunitlongunits
+{0} কিলোহাৰ্টজonepatternfrequency-kilohertzunitlongunits
+মিলিবাৰdisplayNamepressure-millibarunitlongunits
+{0} মিলিবাৰotherpatternpressure-millibarunitlongunits
+{0} মিলিবাৰonepatternpressure-millibarunitlongunits
+শতাব্দীdisplayNameduration-centuryunitlongunits
+{0} শতাব্দীotherpatternduration-centuryunitlongunits
+{0} শতাব্দীonepatternduration-centuryunitlongunits
+অশ্বক্ষমতাdisplayNamepower-horsepowerunitlongunits
+{0} অশ্বক্ষমতাonepatternpower-horsepowerunitlongunits
+{0} অশ্বক্ষমতাotherpatternpower-horsepowerunitlongunits
+{0} মেট্ৰিক টনotherpatternmass-metric-tonunitlongunits
+{0} মেট্রিক টনonepatternmass-metric-tonunitlongunits
+মেট্রিক টনdisplayNamemass-metric-tonunitlongunits
+{0} ঘণ্টা প্ৰতি কিলোমিটাৰonepatternspeed-kilometer-per-hourunitlongunits
+{0} ঘণ্টা প্ৰতি কিলোমিটাৰotherpatternspeed-kilometer-per-hourunitlongunits
+ঘণ্টা প্ৰতি কিলোমিটাৰdisplayNamespeed-kilometer-per-hourunitlongunits
+{0} মেগাবিটotherpatterndigital-megabitunitlongunits
+{0} মেগাবিটonepatterndigital-megabitunitlongunits
+মেগাবিটdisplayNamedigital-megabitunitlongunits
+মিটাৰ প্ৰতি বৰ্গ ছেকেণ্ডdisplayNameacceleration-meter-per-second-squaredunitlongunits
+{0} মিটাৰ প্ৰতি বৰ্গ ছেকেণ্ডotherpatternacceleration-meter-per-second-squaredunitlongunits
+{0} মিটাৰ প্ৰতি বৰ্গ ছেকেণ্ডonepatternacceleration-meter-per-second-squaredunitlongunits
+{0} কিলোগ্ৰামotherpatternmass-kilogramunitlongunits
+{0} কিলোগ্ৰামonepatternmass-kilogramunitlongunits
+কিলোগ্রামdisplayNamemass-kilogramunitlongunits
+{0} প্ৰতি কিলোগ্ৰামperUnitPatternmass-kilogramunitlongunits
+গিগাৱাটdisplayNamepower-gigawattunitlongunits
+{0} গিগাৱাটotherpatternpower-gigawattunitlongunits
+{0} গিগাৱাটonepatternpower-gigawattunitlongunits
+ক্ৰমবোধক সংখ্যাordnfeatureNametypographicNames
+উলম্ব ভগ্নাংশafrcfeatureNametypographicNames
+ঐচ্ছিক বন্ধনীdligfeatureNametypographicNames
+সৰু আখৰsmcpfeatureNametypographicNames
+আনুপাতিক সংখ্যাpnumfeatureNametypographicNames
+বৰফলাৰ ব্যৱধানcpspfeatureNametypographicNames
+শূন্য ঘটোৱাzerofeatureNametypographicNames
+সৰণিবদ্ধ সংখ্যাtnumfeatureNametypographicNames
+তিৰ্যক ভগ্নাংশfracfeatureNametypographicNames
+আস্তৰণৰ সংখ্যাlnumfeatureNametypographicNames
+পুৰণা শৈলীৰ সংখ্যাonumfeatureNametypographicNames
+অপ্টিকেল আকাৰopszaxisNametypographicNames
+ইটালিকitalaxisNametypographicNames
+নমাslntaxisNametypographicNames
+বহলwdthaxisNametypographicNames
+ডাঠwghtaxisNametypographicNames
+মিডিয়ামstandard500wghtstyleNametypographicNames
+কিতাপstandard380wghtstyleNametypographicNames
+অতি পাতলultra200wghtstyleNametypographicNames
+অতিৰিক্ত-পাতলstandard200wghtstyleNametypographicNames
+অতিৰিক্ত-ক’লাstandard950wghtstyleNametypographicNames
+অতি কাড়াultraheavy950wghtstyleNametypographicNames
+অতি ক’লাultrablack950wghtstyleNametypographicNames
+ৰেগুলাৰstandard400wghtstyleNametypographicNames
+ক’লাstandard900wghtstyleNametypographicNames
+কাড়াheavy900wghtstyleNametypographicNames
+ক্ষীণstandard100wghtstyleNametypographicNames
+আধা পাতলstandard350wghtstyleNametypographicNames
+অতিৰিক্ত-ব’ল্ডstandard800wghtstyleNametypographicNames
+ছেমিব’ল্ডstandard600wghtstyleNametypographicNames
+ডেমিব’ল্ডdemi600wghtstyleNametypographicNames
+পাতলstandard300wghtstyleNametypographicNames
+ব’ল্ডstandard700wghtstyleNametypographicNames
+বহলwide125wdthstyleNametypographicNames
+বিস্তাৰিতstandard125wdthstyleNametypographicNames
+বিস্তৃত্বextended125wdthstyleNametypographicNames
+সংকুচিতcompressed75wdthstyleNametypographicNames
+সংকুচিতnarrow75wdthstyleNametypographicNames
+ঘনীভূতstandard75wdthstyleNametypographicNames
+আধা বিস্তৃত্বextended112.5wdthstyleNametypographicNames
+আধা বিস্তাৰিতstandard112.5wdthstyleNametypographicNames
+আধা বহলwide112.5wdthstyleNametypographicNames
+আধা ঠেকnarrow87.5wdthstyleNametypographicNames
+আধা সংকুচিতcompressed87.5wdthstyleNametypographicNames
+আধা ঘনীভূতstandard87.5wdthstyleNametypographicNames
+অতিৰিক্ত-বিস্তাৰিতstandard150wdthstyleNametypographicNames
+অতিৰিক্ত-বিস্তৃত্বextended150wdthstyleNametypographicNames
+অতিৰিক্ত-বহলwide150wdthstyleNametypographicNames
+সাধাৰণstandard100wdthstyleNametypographicNames
+অতি ঠেকnarrow50wdthstyleNametypographicNames
+অতি সংকুচিতcompressed50wdthstyleNametypographicNames
+অতি ঘনীভূতstandard50wdthstyleNametypographicNames
+অতি বহলwide200wdthstyleNametypographicNames
+অতি বিস্তৃত্বextended200wdthstyleNametypographicNames
+অতি বিস্তাৰিতstandard200wdthstyleNametypographicNames
+অতিৰিক্ত-ঘনীভূতstandard62.5wdthstyleNametypographicNames
+অতিৰিক্ত-সংকুচিতcompressed62.5wdthstyleNametypographicNames
+অতিৰিক্ত-ঠেকnarrow62.5wdthstyleNametypographicNames
+তললৈ নমাstandard12slntstyleNametypographicNames
+খাড়াstandard0slntstyleNametypographicNames
+অতিৰিক্ত নমাstandard24slntstyleNametypographicNames
+পিছলৈ নমোৱাstandard-12slntstyleNametypographicNames
+কাৰ্ছিভstandard1italstyleNametypographicNames
+কেপশ্বনstandard8opszstyleNametypographicNames
+পাঠstandard12opszstyleNametypographicNames
+প্ৰদৰ্শনstandard72opszstyleNametypographicNames
+প’ষ্টাৰstandard144opszstyleNametypographicNames
+নাম দিয়াstandard18opszstyleNametypographicNames
+ক্ষেত্ৰ: {0}territorycodePatternslocaleDisplayNames
+লিপি: {0}scriptcodePatternslocaleDisplayNames
+ভাষা: {0}languagecodePatternslocaleDisplayNames
+ইউ. কে.UKmeasurementSystemNameslocaleDisplayNames
+ইউ. এছ.USmeasurementSystemNameslocaleDisplayNames
+মেট্ৰিকmetricmeasurementSystemNameslocaleDisplayNames
+বগিনীজbuglanguageslocaleDisplayNames
+মাজেন্দাৰানিmznlanguageslocaleDisplayNames
+নৰৱেজিয়ান বোকমালnblanguageslocaleDisplayNames
+ব্ৰাজিলিয়ান পৰ্তুগীজpt_BRlanguageslocaleDisplayNames
+ডেনিচdalanguageslocaleDisplayNames
+ফাৰ্ছীfalanguageslocaleDisplayNames
+এষ্টোনিয়etlanguageslocaleDisplayNames
+লুলে ছামিsmjlanguageslocaleDisplayNames
+টাছাৱাকtwqlanguageslocaleDisplayNames
+একাধিক ভাষাmullanguageslocaleDisplayNames
+উইঘুৰuglanguageslocaleDisplayNames
+কুয়ানিয়ামাkjlanguageslocaleDisplayNames
+মোক্সাmdflanguageslocaleDisplayNames
+কোয়াৰ চিনিkhqlanguageslocaleDisplayNames
+আইচলেণ্ডিকislanguageslocaleDisplayNames
+হিলিগায়নোনhillanguageslocaleDisplayNames
+এন্কোnqolanguageslocaleDisplayNames
+প’লিচpllanguageslocaleDisplayNames
+লিম্বুৰ্গিচlilanguageslocaleDisplayNames
+নিয়াছnialanguageslocaleDisplayNames
+ফ্ৰেন্সfrlanguageslocaleDisplayNames
+ফ্ৰিউলিয়ানfurlanguageslocaleDisplayNames
+ৰাৰোতোঙ্গনrarlanguageslocaleDisplayNames
+দাজাগাdzglanguageslocaleDisplayNames
+টুভালুtvllanguageslocaleDisplayNames
+কিকুয়ুkilanguageslocaleDisplayNames
+আৰাপাহোarplanguageslocaleDisplayNames
+বেলাৰুছীয়belanguageslocaleDisplayNames
+ঝাৰ্মাdjelanguageslocaleDisplayNames
+চোক্টাউcholanguageslocaleDisplayNames
+বাৰ্মীজmylanguageslocaleDisplayNames
+ওলেইটাwallanguageslocaleDisplayNames
+ডাকোটাdaklanguageslocaleDisplayNames
+লাটভিয়ানlvlanguageslocaleDisplayNames
+লাংগিlaglanguageslocaleDisplayNames
+মাৰিchmlanguageslocaleDisplayNames
+পৰ্তুগীজptlanguageslocaleDisplayNames
+ছাঙ্গুsbplanguageslocaleDisplayNames
+জাৰ্মানdelanguageslocaleDisplayNames
+ইনাৰি ছামিsmnlanguageslocaleDisplayNames
+স্বাতিsslanguageslocaleDisplayNames
+বিনিbinlanguageslocaleDisplayNames
+বুলগেৰীয়bglanguageslocaleDisplayNames
+স্ৰানান টোঙ্গোsrnlanguageslocaleDisplayNames
+চাম্বালাksblanguageslocaleDisplayNames
+জাপানীjalanguageslocaleDisplayNames
+ফুলাহfflanguageslocaleDisplayNames
+অষ্ট্ৰেলিয়ান ইংৰাজীen_AUlanguageslocaleDisplayNames
+এম্বুebulanguageslocaleDisplayNames
+ইওন্দোewolanguageslocaleDisplayNames
+নুয়েৰnuslanguageslocaleDisplayNames
+জৰ্জিয়ানkalanguageslocaleDisplayNames
+লুইয়াluylanguageslocaleDisplayNames
+কাবাৰ্ডিয়ানkbdlanguageslocaleDisplayNames
+ইউ. কে. ইংৰাজীen_GBlanguageslocaleDisplayNames
+উদীচ্য লুৰিlrclanguageslocaleDisplayNames
+আকানaklanguageslocaleDisplayNames
+চানshnlanguageslocaleDisplayNames
+ল’ৱাৰ ছোৰ্বিয়ানdsblanguageslocaleDisplayNames
+আৱাধিawalanguageslocaleDisplayNames
+দাৰ্গৱাdarlanguageslocaleDisplayNames
+হাউছাhalanguageslocaleDisplayNames
+তেইতাdavlanguageslocaleDisplayNames
+মালায়ালমmllanguageslocaleDisplayNames
+ঝুলুzulanguageslocaleDisplayNames
+ক্ৰোৱেচিয়ানhrlanguageslocaleDisplayNames
+ইউৰোপীয়ান স্পেনিচes_ESlanguageslocaleDisplayNames
+নিয়ুৱানniulanguageslocaleDisplayNames
+ৱেলচcylanguageslocaleDisplayNames
+নগোম্বাjgolanguageslocaleDisplayNames
+দাক্ষিণাত্য ছামিsmalanguageslocaleDisplayNames
+খাচিkhalanguageslocaleDisplayNames
+কোমিkvlanguageslocaleDisplayNames
+কিম্বুন্দুkmblanguageslocaleDisplayNames
+নিয়াপোলিটেনnaplanguageslocaleDisplayNames
+আৰবীarlanguageslocaleDisplayNames
+উজবেকuzlanguageslocaleDisplayNames
+কিৰ্গিজkylanguageslocaleDisplayNames
+ছুকুমাsuklanguageslocaleDisplayNames
+কোনো ভাষা সমল নাইzxxlanguageslocaleDisplayNames
+আইৰিচgalanguageslocaleDisplayNames
+মাৰাঠীmrlanguageslocaleDisplayNames
+ইদ্দিছyilanguageslocaleDisplayNames
+উদীচ্য ছোথোnsolanguageslocaleDisplayNames
+ৱোলাফwolanguageslocaleDisplayNames
+আজেৰিazlanguageslocaleDisplayNames
+ঝাঝাzzalanguageslocaleDisplayNames
+মৈথিলীmailanguageslocaleDisplayNames
+মেকহেমjmclanguageslocaleDisplayNames
+মেণ্ডেmenlanguageslocaleDisplayNames
+উৰ্দুurlanguageslocaleDisplayNames
+আধুনিক মানক আৰবীar_001languageslocaleDisplayNames
+ইগ্বোiglanguageslocaleDisplayNames
+ছুইচ জাৰ্মানgswlanguageslocaleDisplayNames
+চাৰ্চ শ্লেভিকculanguageslocaleDisplayNames
+ফাৰোইজfolanguageslocaleDisplayNames
+ৰুন্দিrnlanguageslocaleDisplayNames
+স্কোল্ট ছামিsmslanguageslocaleDisplayNames
+তাতাৰttlanguageslocaleDisplayNames
+মাখুৱা-মিট্টোmghlanguageslocaleDisplayNames
+কাৰাচে-বাল্কাৰkrclanguageslocaleDisplayNames
+গুজৰাটীgulanguageslocaleDisplayNames
+কেণ্টোনীজyuelanguageslocaleDisplayNames
+মাগাহিmaglanguageslocaleDisplayNames
+লাকোটাlktlanguageslocaleDisplayNames
+কালালিছুটkllanguageslocaleDisplayNames
+ক্লিংগনtlhlanguageslocaleDisplayNames
+ছিচুৱান ইiilanguageslocaleDisplayNames
+বছনীয়bslanguageslocaleDisplayNames
+গুৱাৰাণীgnlanguageslocaleDisplayNames
+জজুkajlanguageslocaleDisplayNames
+ফিজিয়ানfjlanguageslocaleDisplayNames
+মিৰাণ্ডিজmwllanguageslocaleDisplayNames
+নাংম্বেsbalanguageslocaleDisplayNames
+ডুৱালাdualanguageslocaleDisplayNames
+উদীচ্য ছামিselanguageslocaleDisplayNames
+দিবেহিdvlanguageslocaleDisplayNames
+ছাম্বুৰুsaqlanguageslocaleDisplayNames
+মাকাছাৰmaklanguageslocaleDisplayNames
+ঝুনিzunlanguageslocaleDisplayNames
+ভোলাপুকvolanguageslocaleDisplayNames
+মেচিডোনীয়mklanguageslocaleDisplayNames
+লোজিlozlanguageslocaleDisplayNames
+মেটাmgolanguageslocaleDisplayNames
+ইলোকোilolanguageslocaleDisplayNames
+কিচিয়েquclanguageslocaleDisplayNames
+আভেৰিকavlanguageslocaleDisplayNames
+ছুইচ হাই জাৰ্মানde_CHlanguageslocaleDisplayNames
+পাম্পান্গাpamlanguageslocaleDisplayNames
+গেলিচিয়ানgllanguageslocaleDisplayNames
+ইডোiolanguageslocaleDisplayNames
+নামাnaqlanguageslocaleDisplayNames
+চিৰিয়াকsyrlanguageslocaleDisplayNames
+লেজঘিয়ানlezlanguageslocaleDisplayNames
+কাবুভেৰ্ডিয়ানুkealanguageslocaleDisplayNames
+ৱালছেৰwaelanguageslocaleDisplayNames
+কুৰুখkrulanguageslocaleDisplayNames
+ভেণ্ডাvelanguageslocaleDisplayNames
+হুপাhuplanguageslocaleDisplayNames
+নিয়েম্বোনnnhlanguageslocaleDisplayNames
+ষ্টেণ্ডাৰ্ড মোৰোক্কান তামাজাইটzghlanguageslocaleDisplayNames
+বাফিয়াksflanguageslocaleDisplayNames
+হোছাxhlanguageslocaleDisplayNames
+দক্ষিণ দেবেলnrlanguageslocaleDisplayNames
+অ’চিটানoclanguageslocaleDisplayNames
+তাৰোকোtrvlanguageslocaleDisplayNames
+চামোৰোchlanguageslocaleDisplayNames
+আৰোমানীয়ruplanguageslocaleDisplayNames
+আঘেমagqlanguageslocaleDisplayNames
+ছোগাxoglanguageslocaleDisplayNames
+চেকcslanguageslocaleDisplayNames
+অষ্ট্ৰেলিয়ান জাৰ্মানde_ATlanguageslocaleDisplayNames
+ইংৰাজীenlanguageslocaleDisplayNames
+ৰুটrootlanguageslocaleDisplayNames
+ইৱেeelanguageslocaleDisplayNames
+ইবানibalanguageslocaleDisplayNames
+হেইটিয়ান ক্ৰিয়লhtlanguageslocaleDisplayNames
+ভোজপুৰীbholanguageslocaleDisplayNames
+য়েম্বাybblanguageslocaleDisplayNames
+ছাহোssylanguageslocaleDisplayNames
+লেটিনlalanguageslocaleDisplayNames
+ফিলিপিনোfillanguageslocaleDisplayNames
+বালিনীজbanlanguageslocaleDisplayNames
+কোমোৰিয়ানswblanguageslocaleDisplayNames
+মিনাংকাবাউminlanguageslocaleDisplayNames
+আচিনিজacelanguageslocaleDisplayNames
+কেৰেলিয়ানkrllanguageslocaleDisplayNames
+লাক্সেমবাৰ্গিচlblanguageslocaleDisplayNames
+আয়মাৰাaylanguageslocaleDisplayNames
+চিবুৱানোceblanguageslocaleDisplayNames
+ছোমালিsolanguageslocaleDisplayNames
+মাপুচেarnlanguageslocaleDisplayNames
+চীনাzhlanguageslocaleDisplayNames
+কুৱেচুৱাqulanguageslocaleDisplayNames
+থাইthlanguageslocaleDisplayNames
+ছোৱানাtnlanguageslocaleDisplayNames
+জিউইচিনgwilanguageslocaleDisplayNames
+সৰলীকৃত চীনাzh_HanslanguageslocaleDisplayNames
+ন্যানকোলnynlanguageslocaleDisplayNames
+তাইগ্ৰেtiglanguageslocaleDisplayNames
+বড়োbrxlanguageslocaleDisplayNames
+ডাচnllanguageslocaleDisplayNames
+কোৰ্নিচkwlanguageslocaleDisplayNames
+ইবিবিওibblanguageslocaleDisplayNames
+মেক্সিকান স্পেনিচes_MXlanguageslocaleDisplayNames
+আবখাজিয়ানablanguageslocaleDisplayNames
+ৰাছিয়ানrulanguageslocaleDisplayNames
+মেৰুmerlanguageslocaleDisplayNames
+ইণ্টাৰলিংগুৱাialanguageslocaleDisplayNames
+স্পেনিচeslanguageslocaleDisplayNames
+ডোগ্ৰিবdgrlanguageslocaleDisplayNames
+টোঙ্গানtolanguageslocaleDisplayNames
+মোহোকmohlanguageslocaleDisplayNames
+মেংক্সgvlanguageslocaleDisplayNames
+ৱেষ্টাৰ্ণ ফ্ৰিছিয়ানfylanguageslocaleDisplayNames
+দাক্ষিণাত্য আল্টাইaltlanguageslocaleDisplayNames
+ছাৰ্বিয়ানsrlanguageslocaleDisplayNames
+তুম্বুকাtumlanguageslocaleDisplayNames
+চাইয়েনchylanguageslocaleDisplayNames
+এষ্টুৰীয়astlanguageslocaleDisplayNames
+গাgaalanguageslocaleDisplayNames
+তাহিতিয়ানtylanguageslocaleDisplayNames
+মাকোণ্ডkdelanguageslocaleDisplayNames
+ছুণ্ডানীজsulanguageslocaleDisplayNames
+ন্যাঞ্জাnylanguageslocaleDisplayNames
+হাৱাইhawlanguageslocaleDisplayNames
+কোৰিয়ানkolanguageslocaleDisplayNames
+গীজgezlanguageslocaleDisplayNames
+ব্ৰেটনbrlanguageslocaleDisplayNames
+স্কটছscolanguageslocaleDisplayNames
+সিন্ধিsdlanguageslocaleDisplayNames
+লুবা-লুলুৱাlualanguageslocaleDisplayNames
+ভুঞ্জুvunlanguageslocaleDisplayNames
+কুৰ্ডিচkulanguageslocaleDisplayNames
+ছিক্সিকাblalanguageslocaleDisplayNames
+তেতুমtetlanguageslocaleDisplayNames
+মালাগাছীmglanguageslocaleDisplayNames
+কাজাখkklanguageslocaleDisplayNames
+ফিনিচfilanguageslocaleDisplayNames
+ছেছেলৱা ক্ৰিওল ফ্ৰেন্সcrslanguageslocaleDisplayNames
+উত্তৰ নিবেবেলেndlanguageslocaleDisplayNames
+চেচেনcelanguageslocaleDisplayNames
+এন্দোঙ্গাnglanguageslocaleDisplayNames
+ইউৰোপীয়ান পৰ্তুগীজpt_PTlanguageslocaleDisplayNames
+আৰ্মেনীয়hylanguageslocaleDisplayNames
+খমেৰkmlanguageslocaleDisplayNames
+জোলা-ফ’নিdyolanguageslocaleDisplayNames
+তুৰ্কীtrlanguageslocaleDisplayNames
+তেছোteolanguageslocaleDisplayNames
+কোংকণীkoklanguageslocaleDisplayNames
+ত্যাপkcglanguageslocaleDisplayNames
+হিন্দীhilanguageslocaleDisplayNames
+ওৰোমোomlanguageslocaleDisplayNames
+কোৰ্ছিকানcolanguageslocaleDisplayNames
+ছেনাsehlanguageslocaleDisplayNames
+অসমীয়াaslanguageslocaleDisplayNames
+য়াংবেনyavlanguageslocaleDisplayNames
+সিংহলাsilanguageslocaleDisplayNames
+শ্লোভেনিয়ানsllanguageslocaleDisplayNames
+নৰৱেজিয়ান নায়নোৰ্স্কnnlanguageslocaleDisplayNames
+কাল্মিকxallanguageslocaleDisplayNames
+মোছিmoslanguageslocaleDisplayNames
+ক্ৰীকmuslanguageslocaleDisplayNames
+হেৰেৰোhzlanguageslocaleDisplayNames
+ছিচিলিয়ানscnlanguageslocaleDisplayNames
+কেপেলkpelanguageslocaleDisplayNames
+মংগোলীয়mnlanguageslocaleDisplayNames
+লাডিনোladlanguageslocaleDisplayNames
+কালেনজিনklnlanguageslocaleDisplayNames
+বিছলামাbilanguageslocaleDisplayNames
+আঙ্গিকাanplanguageslocaleDisplayNames
+পুস্তpslanguageslocaleDisplayNames
+বাছাbaslanguageslocaleDisplayNames
+লুওluolanguageslocaleDisplayNames
+নেপালীnelanguageslocaleDisplayNames
+এস্পেৰান্তোeolanguageslocaleDisplayNames
+আলেউটalelanguageslocaleDisplayNames
+ছান্দাৱেsadlanguageslocaleDisplayNames
+মণিপুৰীmnilanguageslocaleDisplayNames
+লুবা-কাটাংগাlulanguageslocaleDisplayNames
+কানাড়াknlanguageslocaleDisplayNames
+কিনয়াৰোৱাণ্ডাrwlanguageslocaleDisplayNames
+মাৰ্চলিজmhlanguageslocaleDisplayNames
+হাঙ্গেৰিয়ানhulanguageslocaleDisplayNames
+শ্লোভাকsklanguageslocaleDisplayNames
+চোনাsnlanguageslocaleDisplayNames
+পংগাছিনানpaglanguageslocaleDisplayNames
+ভিয়েটনামীvilanguageslocaleDisplayNames
+কাম্বাkamlanguageslocaleDisplayNames
+তিব্বতীbolanguageslocaleDisplayNames
+স্কটিচ গেইলিকgdlanguageslocaleDisplayNames
+পালাউৱানpaulanguageslocaleDisplayNames
+নাইজেৰিয়ান পিজিনpcmlanguageslocaleDisplayNames
+চেণ্ট্ৰেল এটলাছ টামাজাইটtzmlanguageslocaleDisplayNames
+বাছখিৰbalanguageslocaleDisplayNames
+নোগাইnoglanguageslocaleDisplayNames
+তাচেলহিটshilanguageslocaleDisplayNames
+কোৰোkfolanguageslocaleDisplayNames
+আপাৰ ছোৰ্বিয়ানhsblanguageslocaleDisplayNames
+চাওতালিsatlanguageslocaleDisplayNames
+টিগৰিনিয়াtilanguageslocaleDisplayNames
+বেনাbezlanguageslocaleDisplayNames
+ইটালিয়ানitlanguageslocaleDisplayNames
+ছামোনsmlanguageslocaleDisplayNames
+আদিগেadylanguageslocaleDisplayNames
+পাপিয়ামেণ্টোpaplanguageslocaleDisplayNames
+গান্দাlglanguageslocaleDisplayNames
+ফ’নfonlanguageslocaleDisplayNames
+এৰজিয়াmyvlanguageslocaleDisplayNames
+আৰ্গোনিজanlanguageslocaleDisplayNames
+আফ্ৰিকানছ্aflanguageslocaleDisplayNames
+ইউৰুবাyolanguageslocaleDisplayNames
+উপস্থাপন ভাষাielanguageslocaleDisplayNames
+ইউ. এছ. ইংৰাজীen_USlanguageslocaleDisplayNames
+ছাখাsahlanguageslocaleDisplayNames
+আদাংমেadalanguageslocaleDisplayNames
+কোলোগনিয়ানkshlanguageslocaleDisplayNames
+আমহাৰিকamlanguageslocaleDisplayNames
+চেৰোকিchrlanguageslocaleDisplayNames
+কানাডিয়ান ফ্ৰেন্সfr_CAlanguageslocaleDisplayNames
+ইণ্ডোনেচিয়idlanguageslocaleDisplayNames
+আলবেনীয়sqlanguageslocaleDisplayNames
+তুৰ্কমেনtklanguageslocaleDisplayNames
+পাঞ্জাবীpalanguageslocaleDisplayNames
+ছাঙ্গোsglanguageslocaleDisplayNames
+নাউৰুnalanguageslocaleDisplayNames
+টোক পিছিনtpilanguageslocaleDisplayNames
+লিংগালাlnlanguageslocaleDisplayNames
+চিগাcgglanguageslocaleDisplayNames
+জোংখাdzlanguageslocaleDisplayNames
+নাভাজোnvlanguageslocaleDisplayNames
+প্ৰুছিয়ানprglanguageslocaleDisplayNames
+কানুৰিkrlanguageslocaleDisplayNames
+কাচিনkaclanguageslocaleDisplayNames
+বামবাৰাbmlanguageslocaleDisplayNames
+ৰোমানচrmlanguageslocaleDisplayNames
+মোল্ডাভিয়ানro_MDlanguageslocaleDisplayNames
+ৰৱাrwklanguageslocaleDisplayNames
+লোজ্বানjbolanguageslocaleDisplayNames
+মাওৰিmilanguageslocaleDisplayNames
+ছুইচ ফ্ৰেন্সfr_CHlanguageslocaleDisplayNames
+চুভাচcvlanguageslocaleDisplayNames
+কোৱাছিঅ’nmglanguageslocaleDisplayNames
+কঙ্গো স্বাহিলিsw_CDlanguageslocaleDisplayNames
+হমংhmnlanguageslocaleDisplayNames
+ৰোম্বোroflanguageslocaleDisplayNames
+ছোঙ্গাtslanguageslocaleDisplayNames
+লুণ্ডাlunlanguageslocaleDisplayNames
+কাতালানcalanguageslocaleDisplayNames
+এফিকefilanguageslocaleDisplayNames
+মাল্টিজmtlanguageslocaleDisplayNames
+ৱাৰেwarlanguageslocaleDisplayNames
+মিকমেকmiclanguageslocaleDisplayNames
+আইনুainlanguageslocaleDisplayNames
+লাওlolanguageslocaleDisplayNames
+গিলবাৰ্টিছgillanguageslocaleDisplayNames
+ৰোমানীয়rolanguageslocaleDisplayNames
+গোৰোন্তালোgorlanguageslocaleDisplayNames
+একাজুকekalanguageslocaleDisplayNames
+লিথুৱানিয়ানltlanguageslocaleDisplayNames
+চেণ্ট্ৰেল কুৰ্ডিচckblanguageslocaleDisplayNames
+তামিলtalanguageslocaleDisplayNames
+ছুইডিচsvlanguageslocaleDisplayNames
+তুভিনিয়ানtyvlanguageslocaleDisplayNames
+পৰম্পৰাগত চীনাzh_HantlanguageslocaleDisplayNames
+মাদুৰেছেmadlanguageslocaleDisplayNames
+মাছাইmaslanguageslocaleDisplayNames
+বাস্কeulanguageslocaleDisplayNames
+গুছিguzlanguageslocaleDisplayNames
+ফ্লেমিচnl_BElanguageslocaleDisplayNames
+ৱালুনwalanguageslocaleDisplayNames
+মৰিছিয়ানmfelanguageslocaleDisplayNames
+গ্ৰীকellanguageslocaleDisplayNames
+ছোনিনকেsnklanguageslocaleDisplayNames
+কুমিকkumlanguageslocaleDisplayNames
+ব্লিনbynlanguageslocaleDisplayNames
+কাবাইলkablanguageslocaleDisplayNames
+কাশ্মিৰীkslanguageslocaleDisplayNames
+ছাৰ্ডিনিয়ানsclanguageslocaleDisplayNames
+তেলুগুtelanguageslocaleDisplayNames
+উম্বুন্দুumblanguageslocaleDisplayNames
+মিজোluslanguageslocaleDisplayNames
+ইংগুচinhlanguageslocaleDisplayNames
+নেৱাৰিnewlanguageslocaleDisplayNames
+আছুasalanguageslocaleDisplayNames
+ৰাপানুইraplanguageslocaleDisplayNames
+দাক্ষিণাত্য ছোথোstlanguageslocaleDisplayNames
+স্বাহিলিswlanguageslocaleDisplayNames
+বেম্বাbemlanguageslocaleDisplayNames
+অজ্ঞাত ভাষাundlanguageslocaleDisplayNames
+ওছেটিকoslanguageslocaleDisplayNames
+ইউক্ৰেইনীয়uklanguageslocaleDisplayNames
+কাকোkkjlanguageslocaleDisplayNames
+হিব্ৰুhelanguageslocaleDisplayNames
+জাভানীjvlanguageslocaleDisplayNames
+ইনুক্টিটুটiulanguageslocaleDisplayNames
+লেটিন আমেৰিকান স্পেনিচes_419languageslocaleDisplayNames
+টিম্নেtemlanguageslocaleDisplayNames
+তাজিকtglanguageslocaleDisplayNames
+মুণ্ডাংmualanguageslocaleDisplayNames
+আফাৰaalanguageslocaleDisplayNames
+বাংলাbnlanguageslocaleDisplayNames
+ভাইvailanguageslocaleDisplayNames
+ওড়িয়াorlanguageslocaleDisplayNames
+চুকিজchklanguageslocaleDisplayNames
+কানাডিয়ান ইংৰাজীen_CAlanguageslocaleDisplayNames
+সংস্কৃতsalanguageslocaleDisplayNames
+উদমুৰ্তudmlanguageslocaleDisplayNames
+মালয়mslanguageslocaleDisplayNames
+কোইৰাবোৰো চেন্নিseslanguageslocaleDisplayNames
+লাটভিয়াLVterritorieslocaleDisplayNames
+আলণ্ড দ্বীপপুঞ্জAXterritorieslocaleDisplayNames
+কিৰিবাটিKIterritorieslocaleDisplayNames
+জামাইকাJMterritorieslocaleDisplayNames
+ইউ. কে.GBterritorieslocaleDisplayNames
+জিব্ৰাল্টৰGIterritorieslocaleDisplayNames
+হাংগেৰীHUterritorieslocaleDisplayNames
+কেনেৰী দ্বীপপুঞ্জICterritorieslocaleDisplayNames
+পৰ্তুগালPTterritorieslocaleDisplayNames
+কুক দ্বীপপুঞ্জCKterritorieslocaleDisplayNames
+পাশ্চাত্য এছিয়া145territorieslocaleDisplayNames
+এছিয়া142territorieslocaleDisplayNames
+দক্ষিণ জৰ্জিয়া আৰু দক্ষিণ চেণ্ডৱিচ দ্বীপপুঞ্জGSterritorieslocaleDisplayNames
+ইকুৱেটৰিয়েল গিনিGQterritorieslocaleDisplayNames
+ভেটিকান চিটিVAterritorieslocaleDisplayNames
+জাম্বিয়াZMterritorieslocaleDisplayNames
+মধ্য আফ্রিকান প্রজাতন্ত্রCFterritorieslocaleDisplayNames
+পাৰাগুৱেPYterritorieslocaleDisplayNames
+ব্ৰুনেইBNterritorieslocaleDisplayNames
+পশ্চিমীয় ছাহাৰাEHterritorieslocaleDisplayNames
+ইকুৱেডৰECterritorieslocaleDisplayNames
+জৰ্জিয়াGEterritorieslocaleDisplayNames
+ছেইণ্ট পিয়েৰে আৰু মিকিউৱেলনPMterritorieslocaleDisplayNames
+টুনিচিয়াTNterritorieslocaleDisplayNames
+চৌডি আৰবিয়াSAterritorieslocaleDisplayNames
+নামিবিয়াNAterritorieslocaleDisplayNames
+ব্ৰিটিছ ইণ্ডিয়ান অ’চন টেৰিট’ৰিIOterritorieslocaleDisplayNames
+স্বাজিলেণ্ডSZterritorieslocaleDisplayNames
+কেপ ভার্দেCVterritorieslocaleDisplayNames
+কেইমেন দ্বীপপুঞ্জKYterritorieslocaleDisplayNames
+কোমোৰোজKMterritorieslocaleDisplayNames
+কোষ্টা ৰিকাCRterritorieslocaleDisplayNames
+উপ-ছাহাৰান আফ্ৰিকা202territorieslocaleDisplayNames
+পুৱেৰ্টো ৰিকোPRterritorieslocaleDisplayNames
+অজ্ঞাত ক্ষেত্ৰZZterritorieslocaleDisplayNames
+ছেইণ্ট মাৰ্টিনMFterritorieslocaleDisplayNames
+আফ্ৰিকা002territorieslocaleDisplayNames
+এণ্টিগুৱা আৰু বাৰ্বুডাAGterritorieslocaleDisplayNames
+আৰ্মেনিয়াAMterritorieslocaleDisplayNames
+ফ্ৰান্স পোলেনচিয়াPFterritorieslocaleDisplayNames
+আজাৰবেইজানAZterritorieslocaleDisplayNames
+এৰিত্ৰিয়াERterritorieslocaleDisplayNames
+ছাৰ্বিয়াRSterritorieslocaleDisplayNames
+আন্দোৰাADterritorieslocaleDisplayNames
+ভানাটুVUterritorieslocaleDisplayNames
+লেটিন আমেৰিকা419territorieslocaleDisplayNames
+ইৰাকIQterritorieslocaleDisplayNames
+ৰাছিয়াRUterritorieslocaleDisplayNames
+পানামাPAterritorieslocaleDisplayNames
+লিবেৰিয়াLRterritorieslocaleDisplayNames
+নিউজিলেণ্ডNZterritorieslocaleDisplayNames
+মৰক্কোMAterritorieslocaleDisplayNames
+ৱালিছ আৰু ফুটুনাWFterritorieslocaleDisplayNames
+তুৰ্কমেনিস্তানTMterritorieslocaleDisplayNames
+মাৰ্শ্বাল দ্বীপপুঞ্জMHterritorieslocaleDisplayNames
+হাৰ্ড দ্বীপ আৰু মেকডোনাল্ড দ্বীপপুঞ্জHMterritorieslocaleDisplayNames
+বুৰকিনা ফাচোBFterritorieslocaleDisplayNames
+চীনCNterritorieslocaleDisplayNames
+ভিয়েটনামVNterritorieslocaleDisplayNames
+ইউ. এছ. আউটলায়িং দ্বীপপুঞ্জUMterritorieslocaleDisplayNames
+পোলেণ্ডPLterritorieslocaleDisplayNames
+গুৱাডেলুপGPterritorieslocaleDisplayNames
+মণ্টেনেগ্ৰুMEterritorieslocaleDisplayNames
+ইউৰোপীয় সংঘEUterritorieslocaleDisplayNames
+কাটাৰQAterritorieslocaleDisplayNames
+ইউক্ৰেইনUAterritorieslocaleDisplayNames
+জিম্বাবৱেZWterritorieslocaleDisplayNames
+উত্তৰ মাৰিয়ানা দ্বীপপুঞ্জMPterritorieslocaleDisplayNames
+নাইজেৰিয়াNGterritorieslocaleDisplayNames
+ইউ. এছ. ভাৰ্জিন দ্বীপপুঞ্জVIterritorieslocaleDisplayNames
+উজবেকিস্তানUZterritorieslocaleDisplayNames
+চেক প্রজাতন্ত্রCZterritorieslocaleDisplayNames
+নিউ কেলিডোনিয়াNCterritorieslocaleDisplayNames
+গুৱামGUterritorieslocaleDisplayNames
+তাজিকিস্তানTJterritorieslocaleDisplayNames
+তুৰ্কিTRterritorieslocaleDisplayNames
+চোলোমোন দ্বীপপুঞ্জSBterritorieslocaleDisplayNames
+ইজৰাইলILterritorieslocaleDisplayNames
+চেউটা আৰু মেলিলাEAterritorieslocaleDisplayNames
+বাৰ্বাডোচBBterritorieslocaleDisplayNames
+টংগাTOterritorieslocaleDisplayNames
+কঙ্গো (DRC)CDterritorieslocaleDisplayNames
+মালয়েচিয়াMYterritorieslocaleDisplayNames
+ছেইণ্ট কিটছ আৰু নেভিছKNterritorieslocaleDisplayNames
+বাৰ্মুডাBMterritorieslocaleDisplayNames
+সংযুক্ত আৰব আমিৰাতAEterritorieslocaleDisplayNames
+মালিMLterritorieslocaleDisplayNames
+কলম্বিয়াCOterritorieslocaleDisplayNames
+ভুটানBTterritorieslocaleDisplayNames
+বেনিনBJterritorieslocaleDisplayNames
+আৰুবাAWterritorieslocaleDisplayNames
+উত্তৰীয় আমেৰিকা021territorieslocaleDisplayNames
+এণ্টাৰ্কটিকাAQterritorieslocaleDisplayNames
+মেক্সিকোMXterritorieslocaleDisplayNames
+চোমালিয়াSOterritorieslocaleDisplayNames
+মাল্টাMTterritorieslocaleDisplayNames
+কাজাখাস্তানKZterritorieslocaleDisplayNames
+মঙ্গোলিয়াMNterritorieslocaleDisplayNames
+তাঞ্জানিয়াTZterritorieslocaleDisplayNames
+ফিজিFJterritorieslocaleDisplayNames
+হং কংHKterritorieslocaleDisplayNames
+মধ্য আফ্ৰিকা017territorieslocaleDisplayNames
+উগাণ্ডাUGterritorieslocaleDisplayNames
+ইউৰোপ150territorieslocaleDisplayNames
+স্পেইনESterritorieslocaleDisplayNames
+লেবাননLBterritorieslocaleDisplayNames
+ফিলিপাইনছPHterritorieslocaleDisplayNames
+কম্বোডিয়াKHterritorieslocaleDisplayNames
+জাৰ্চিJEterritorieslocaleDisplayNames
+দক্ষিণ আফ্রিকাZAterritorieslocaleDisplayNames
+আমেৰিকাছ্019territorieslocaleDisplayNames
+চান মাৰিনোSMterritorieslocaleDisplayNames
+ছেইণ্ট বাৰ্থলেমেBLterritorieslocaleDisplayNames
+ফাৰো দ্বীপপুঞ্জFOterritorieslocaleDisplayNames
+পূৱ টিমোৰTLterritorieslocaleDisplayNames
+লিথুৱানিয়াLTterritorieslocaleDisplayNames
+টাৰ্কছ অৰু কেইক’ছ দ্বীপপুঞ্জTCterritorieslocaleDisplayNames
+লিবিয়াLYterritorieslocaleDisplayNames
+দক্ষিণ কোৰিয়াKRterritorieslocaleDisplayNames
+কেমেৰুণCMterritorieslocaleDisplayNames
+ফ্ৰান্সFRterritorieslocaleDisplayNames
+গ্ৰেনাডাGDterritorieslocaleDisplayNames
+ভাৰতINterritorieslocaleDisplayNames
+জাৰ্মানীDEterritorieslocaleDisplayNames
+মধ্য এছিয়া143territorieslocaleDisplayNames
+ইউৰোজ’নEZterritorieslocaleDisplayNames
+ব’টচোৱানাBWterritorieslocaleDisplayNames
+চামোৱাWSterritorieslocaleDisplayNames
+মা. যু.USterritorieslocaleDisplayNames
+নাউৰুNRterritorieslocaleDisplayNames
+বলিভিয়াBOterritorieslocaleDisplayNames
+ক্ৰোৱেছিয়াHRterritorieslocaleDisplayNames
+উদীচ্য ইউৰোপ154territorieslocaleDisplayNames
+শ্লোভাকিয়াSKterritorieslocaleDisplayNames
+মাউৰিটানিয়াMRterritorieslocaleDisplayNames
+আইচলেণ্ডISterritorieslocaleDisplayNames
+ৰোৱাণ্ডাRWterritorieslocaleDisplayNames
+টুভালুTVterritorieslocaleDisplayNames
+হাইটিHTterritorieslocaleDisplayNames
+লাওচLAterritorieslocaleDisplayNames
+চিলিCLterritorieslocaleDisplayNames
+শ্রীলংকাLKterritorieslocaleDisplayNames
+ভেনিজুৱেলাVEterritorieslocaleDisplayNames
+কুৱেইটKWterritorieslocaleDisplayNames
+মৰিছাছMUterritorieslocaleDisplayNames
+বিশ্ব001territorieslocaleDisplayNames
+ছেইণ্ট লুচিয়াLCterritorieslocaleDisplayNames
+গাম্বিয়াGMterritorieslocaleDisplayNames
+বুৰুণ্ডিBIterritorieslocaleDisplayNames
+খ্ৰীষ্টমাছ দ্বীপCXterritorieslocaleDisplayNames
+আমেৰিকান চামোৱাASterritorieslocaleDisplayNames
+চিৰিয়াSYterritorieslocaleDisplayNames
+উত্তৰ কোৰিয়াKPterritorieslocaleDisplayNames
+ওমানOMterritorieslocaleDisplayNames
+ইষ্টোনিয়াEEterritorieslocaleDisplayNames
+পাকিস্তানPKterritorieslocaleDisplayNames
+য়েমেনYEterritorieslocaleDisplayNames
+জৰ্ডানJOterritorieslocaleDisplayNames
+মাকাউMOterritorieslocaleDisplayNames
+ইথিঅ’পিয়াETterritorieslocaleDisplayNames
+গুৱাটেমালাGTterritorieslocaleDisplayNames
+ক্লিপাৰটোন দ্বীপCPterritorieslocaleDisplayNames
+উৰুগুৱেUYterritorieslocaleDisplayNames
+ঘানাGHterritorieslocaleDisplayNames
+ৰোমানিয়াROterritorieslocaleDisplayNames
+মোলডোভাMDterritorieslocaleDisplayNames
+ৰিইউনিয়নREterritorieslocaleDisplayNames
+ম’জামবিকMZterritorieslocaleDisplayNames
+বাহামাছBSterritorieslocaleDisplayNames
+মোনাকোMCterritorieslocaleDisplayNames
+নেপালNPterritorieslocaleDisplayNames
+ডেনমাৰ্কDKterritorieslocaleDisplayNames
+ইটালিITterritorieslocaleDisplayNames
+কঙ্গো (প্রজাতন্ত্র)CGterritorieslocaleDisplayNames
+দক্ষিণ-পূব এছিয়া035territorieslocaleDisplayNames
+কেৰিবিয়ান নেদাৰলেণ্ডছBQterritorieslocaleDisplayNames
+ফকলেণ্ড দ্বীপপুঞ্জ (আইলেছ মালভিনাছ)FKterritorieslocaleDisplayNames
+ছুৰিনামSRterritorieslocaleDisplayNames
+বেলাৰুছBYterritorieslocaleDisplayNames
+ছেইণ্ট হেলেনাSHterritorieslocaleDisplayNames
+কেনিয়াKEterritorieslocaleDisplayNames
+ব্ৰাজিলBRterritorieslocaleDisplayNames
+মাইক্ৰোনেচিয় ক্ষেত্ৰ057territorieslocaleDisplayNames
+মধ্য আমেৰিকা013territorieslocaleDisplayNames
+গিনি-বিছাওGWterritorieslocaleDisplayNames
+চিয়েৰা লিঅ’নSLterritorieslocaleDisplayNames
+ইণ্ডোনেচিয়াIDterritorieslocaleDisplayNames
+আউটলায়িং অ’চিয়ানিয়াQOterritorieslocaleDisplayNames
+কানাডাCAterritorieslocaleDisplayNames
+গোৰেনচিGGterritorieslocaleDisplayNames
+পাশ্চাত্য ইউৰোপ155territorieslocaleDisplayNames
+চুইজাৰলেণ্ডCHterritorieslocaleDisplayNames
+উদীচ্য আমেৰিকা003territorieslocaleDisplayNames
+মায়োট্টেYTterritorieslocaleDisplayNames
+ট্ৰিনিডাড আৰু টোবাগোTTterritorieslocaleDisplayNames
+ব্ৰিটিছ ভাৰ্জিন দ্বীপপুঞ্জVGterritorieslocaleDisplayNames
+গিনিGNterritorieslocaleDisplayNames
+ড’মিনিকান ৰিপাব্লিকDOterritorieslocaleDisplayNames
+টোকেলাউTKterritorieslocaleDisplayNames
+থাইলেণ্ডTHterritorieslocaleDisplayNames
+উদীচ্য আফ্ৰিকা015territorieslocaleDisplayNames
+এনগুইলাAIterritorieslocaleDisplayNames
+আলজেৰিয়াDZterritorieslocaleDisplayNames
+চিণ্ট মাৰ্টেনSXterritorieslocaleDisplayNames
+দাক্ষিণাত্য আফ্ৰিকা018territorieslocaleDisplayNames
+ইজিপ্তEGterritorieslocaleDisplayNames
+এংগোলাAOterritorieslocaleDisplayNames
+গেবনGAterritorieslocaleDisplayNames
+আইভৰী কোষ্টCIterritorieslocaleDisplayNames
+নেডাৰলেণ্ডNLterritorieslocaleDisplayNames
+জাপানJPterritorieslocaleDisplayNames
+দক্ষিণ আমেৰিকা005territorieslocaleDisplayNames
+আলবেনিয়াALterritorieslocaleDisplayNames
+পলিনেচিয়া061territorieslocaleDisplayNames
+ফ্ৰান্স গয়ানাGFterritorieslocaleDisplayNames
+দক্ষিণ চুডানSSterritorieslocaleDisplayNames
+জিবুটিDJterritorieslocaleDisplayNames
+শ্লোভেনিয়াSIterritorieslocaleDisplayNames
+বাহৰেইনBHterritorieslocaleDisplayNames
+অষ্ট্ৰেলেছিয়া053territorieslocaleDisplayNames
+অষ্ট্ৰিয়াATterritorieslocaleDisplayNames
+মেচিডোনীয়া (FYROM)MKterritorieslocaleDisplayNames
+মালদ্বীপMVterritorieslocaleDisplayNames
+ব’ছনিয়া আৰু হাৰ্জেগ’ভিনাBAterritorieslocaleDisplayNames
+বেলিজBZterritorieslocaleDisplayNames
+আৰ্জেণ্টিনাARterritorieslocaleDisplayNames
+নাইজাৰNEterritorieslocaleDisplayNames
+ৰাষ্ট্ৰসংঘUNterritorieslocaleDisplayNames
+গ্ৰীচGRterritorieslocaleDisplayNames
+হন্দুৰাছHNterritorieslocaleDisplayNames
+লাক্সেমবাৰ্গLUterritorieslocaleDisplayNames
+ছেইণ্ট ভিনচেণ্ট আৰু গ্ৰীণাডাইনছVCterritorieslocaleDisplayNames
+লিচটেনষ্টেইনLIterritorieslocaleDisplayNames
+পালাউPWterritorieslocaleDisplayNames
+চাইপ্ৰাছCYterritorieslocaleDisplayNames
+প্ৰাচ্য আফ্ৰিকা014territorieslocaleDisplayNames
+ছিংগাপুৰSGterritorieslocaleDisplayNames
+ম্যানমাৰ (বাৰ্মা)MMterritorieslocaleDisplayNames
+ছিচিলিছSCterritorieslocaleDisplayNames
+নৰৱেNOterritorieslocaleDisplayNames
+কুৰাকাওCWterritorieslocaleDisplayNames
+দাক্ষিণাত্য ইউৰোপ039territorieslocaleDisplayNames
+নিউNUterritorieslocaleDisplayNames
+বুলগেৰিয়াBGterritorieslocaleDisplayNames
+মাইক্ৰোনেচিয়াFMterritorieslocaleDisplayNames
+চাও টোমে আৰু প্ৰিনচিপেSTterritorieslocaleDisplayNames
+মাৰ্টিনিকMQterritorieslocaleDisplayNames
+কিৰ্গিজস্তানKGterritorieslocaleDisplayNames
+ইৰানIRterritorieslocaleDisplayNames
+ফিনলেণ্ডFIterritorieslocaleDisplayNames
+ত্ৰিস্তান দ্যা কুনহাTAterritorieslocaleDisplayNames
+চেনেগালSNterritorieslocaleDisplayNames
+চুডানSDterritorieslocaleDisplayNames
+ডিয়েগো গাৰ্চিয়াDGterritorieslocaleDisplayNames
+ম’ণ্টছেৰাটMSterritorieslocaleDisplayNames
+আইল অফ মেনIMterritorieslocaleDisplayNames
+কেৰিবিয়ান029territorieslocaleDisplayNames
+কোকোচ (কীলিং) দ্বীপপুঞ্জCCterritorieslocaleDisplayNames
+চুইডেনSEterritorieslocaleDisplayNames
+ফিলিস্তিনPSterritorieslocaleDisplayNames
+মালাৱিMWterritorieslocaleDisplayNames
+বুভে দ্বীপBVterritorieslocaleDisplayNames
+পাশ্চাত্য আফ্ৰিকা011territorieslocaleDisplayNames
+মেলানেছিয়া054territorieslocaleDisplayNames
+গ্ৰীণলেণ্ডGLterritorieslocaleDisplayNames
+পাপুৱা নিউ গিনিPGterritorieslocaleDisplayNames
+কিউবাCUterritorieslocaleDisplayNames
+আফগানিস্তানAFterritorieslocaleDisplayNames
+অষ্ট্ৰেলিয়াAUterritorieslocaleDisplayNames
+এল ছেলভেড’ৰSVterritorieslocaleDisplayNames
+অ’চেনীয়া009territorieslocaleDisplayNames
+পিটকেইৰ্ণ দ্বীপপুঞ্জPNterritorieslocaleDisplayNames
+টাইৱানTWterritorieslocaleDisplayNames
+লেছ’থ’LSterritorieslocaleDisplayNames
+আয়াৰলেণ্ডIEterritorieslocaleDisplayNames
+প্ৰাচ্য ইউৰোপ151territorieslocaleDisplayNames
+এচেনচিয়ন দ্বীপACterritorieslocaleDisplayNames
+গায়ানাGYterritorieslocaleDisplayNames
+দক্ষিণ ফ্ৰান্সৰ অঞ্চলTFterritorieslocaleDisplayNames
+চাডTDterritorieslocaleDisplayNames
+বেলজিয়ামBEterritorieslocaleDisplayNames
+ন’ৰফ’ক দ্বীপNFterritorieslocaleDisplayNames
+মাদাগাস্কাৰMGterritorieslocaleDisplayNames
+ড’মিনিকাDMterritorieslocaleDisplayNames
+বাংলাদেশBDterritorieslocaleDisplayNames
+দাক্ষিণাত্য এছিয়া034territorieslocaleDisplayNames
+কচ’ভ’XKterritorieslocaleDisplayNames
+চাভালবাৰ্ড আৰু জন মেয়নSJterritorieslocaleDisplayNames
+টোগোTGterritorieslocaleDisplayNames
+পেৰুPEterritorieslocaleDisplayNames
+প্ৰাচ্য এছিয়া030territorieslocaleDisplayNames
+নিকাৰাগুৱাNIterritorieslocaleDisplayNames
+[\:∶]:lenientdateparseLenientscharacterslocaleDisplayNames
+[\--/]-lenientdateparseLenientscharacterslocaleDisplayNames
+[£₤]£lenientgeneralparseLenientscharacterslocaleDisplayNames
+[.․。︒﹒．｡].lenientgeneralparseLenientscharacterslocaleDisplayNames
+[\$﹩＄$]$lenientgeneralparseLenientscharacterslocaleDisplayNames
+[₨₹{Rp}{Rs}]₹lenientgeneralparseLenientscharacterslocaleDisplayNames
+[,٫︐﹐，],stricternumberparseLenientscharacterslocaleDisplayNames
+[.․﹒．｡].stricternumberparseLenientscharacterslocaleDisplayNames
+[\-‒⁻₋−➖﹣－]-lenientnumberparseLenientscharacterslocaleDisplayNames
+[+⁺₊➕﬩﹢＋]+lenientnumberparseLenientscharacterslocaleDisplayNames
+[,،٫、︐︑﹐﹑，､],lenientnumberparseLenientscharacterslocaleDisplayNames
+বোপোমোফোৰ সৈতে হানHanbscriptslocaleDisplayNames
+কোৰিয়ানKorescriptslocaleDisplayNames
+থাইThaiscriptslocaleDisplayNames
+লেটিনLatnscriptslocaleDisplayNames
+চিৰিলিকCyrlscriptslocaleDisplayNames
+বোপোমোফোBoposcriptslocaleDisplayNames
+তেলুগুTeluscriptslocaleDisplayNames
+মঙ্গোলিয়MongscriptslocaleDisplayNames
+সৰলীকৃত হানHansscriptslocaleDisplayNames
+অলিখিতZxxxscriptslocaleDisplayNames
+সিংহলীSinhscriptslocaleDisplayNames
+কানাড়াKndascriptslocaleDisplayNames
+জামোJamoscriptslocaleDisplayNames
+মালায়ালমMlymscriptslocaleDisplayNames
+ব্ৰেইলBraiscriptslocaleDisplayNames
+ওড়িয়াOryascriptslocaleDisplayNames
+আৰ্মেনীয়ArmnscriptslocaleDisplayNames
+গুজৰাটীGujrscriptslocaleDisplayNames
+হেঙ্গুলHangscriptslocaleDisplayNames
+হানHaniscriptslocaleDisplayNames
+ইথিঅ’পিকEthiscriptslocaleDisplayNames
+জাপানী ছিলেবেৰিজHrktscriptslocaleDisplayNames
+পৰম্পৰাগত হানHantscriptslocaleDisplayNames
+ম্যানমাৰMymrscriptslocaleDisplayNames
+জাপানীJpanscriptslocaleDisplayNames
+তামিলTamlscriptslocaleDisplayNames
+লাওLaooscriptslocaleDisplayNames
+বাংলাBengscriptslocaleDisplayNames
+প্ৰতীকZsymscriptslocaleDisplayNames
+গাণিতিক চিহ্নZmthscriptslocaleDisplayNames
+তিব্বতীTibtscriptslocaleDisplayNames
+গুৰুমুখীGuruscriptslocaleDisplayNames
+কোমোনZyyyscriptslocaleDisplayNames
+খমেৰKhmrscriptslocaleDisplayNames
+অজ্ঞাত লিপিZzzzscriptslocaleDisplayNames
+থানাThaascriptslocaleDisplayNames
+আৰবীArabscriptslocaleDisplayNames
+দেৱনাগৰীDevascriptslocaleDisplayNames
+গ্ৰীকGrekscriptslocaleDisplayNames
+হিব্ৰুHebrscriptslocaleDisplayNames
+ইম’জিZsyescriptslocaleDisplayNames
+জৰ্জিয়ানGeorscriptslocaleDisplayNames
+কাটাকানাKanascriptslocaleDisplayNames
+হিৰাগানাHirascriptslocaleDisplayNames
+{0}: {1}localeKeyTypePatternlocaleDisplayPatternlocaleDisplayNames
+{0} ({1})localePatternlocaleDisplayPatternlocaleDisplayNames
+{0}, {1}localeSeparatorlocaleDisplayPatternlocaleDisplayNames
+{0}, {1}endunitlistPatterns
+{0}, {1}startunitlistPatterns
+{0}, {1}middleunitlistPatterns
+{0}, {1}2unitlistPatterns
+{0} {1}endunit-narrowlistPatterns
+{0} {1}startunit-narrowlistPatterns
+{0} {1}middleunit-narrowlistPatterns
+{0} {1}2unit-narrowlistPatterns
+{0}, {1}endunit-shortlistPatterns
+{0}, {1}startunit-shortlistPatterns
+{0}, {1}middleunit-shortlistPatterns
+{0}, {1}2unit-shortlistPatterns
+{0} বা {1}2orlistPatterns
+{0}, {1}middleorlistPatterns
+{0} বা {1}endorlistPatterns
+{0}, {1}startorlistPatterns
+{0} আৰু {1}endstandard-shortlistPatterns
+{0}, {1}startstandard-shortlistPatterns
+{0} আৰু {1}2standard-shortlistPatterns
+{0}, {1}middlestandard-shortlistPatterns
+{0} আৰু {1}endstandardlistPatterns
+{0}, {1}startstandardlistPatterns
+{0} আৰু {1}2standardlistPatterns
+{0}, {1}middlestandardlistPatterns

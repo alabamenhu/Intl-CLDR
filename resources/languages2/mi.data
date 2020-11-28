@@ -1,0 +1,406 @@
+MM–MMMcalendarsgenericintervalFormatsM
+G y MMMM–MMMMMcalendarsgenericintervalFormatsyMMMM
+G y MMMM – y MMMMycalendarsgenericintervalFormatsyMMMM
+GGGGG y-MM-dd – y-MM-ddycalendarsgenericintervalFormatsyMd
+GGGGG y-MM-dd – y-MM-dddcalendarsgenericintervalFormatsyMd
+GGGGG y-MM-dd – y-MM-ddMcalendarsgenericintervalFormatsyMd
+MM-dd – MM-ddMcalendarsgenericintervalFormatsMd
+MM-dd – MM-dddcalendarsgenericintervalFormatsMd
+GGGGG y-MM – y-MMMcalendarsgenericintervalFormatsyM
+GGGGG y-MM – y-MMycalendarsgenericintervalFormatsyM
+MMM d, E – MMM d, EMcalendarsgenericintervalFormatsMMMEd
+MMM d, E – MMM d, EdcalendarsgenericintervalFormatsMMMEd
+{0} ki te {1}standardcalendarsgenericintervalFormatsstandard
+G y MMM d, E – y MMM d, EycalendarsgenericintervalFormatsyMMMEd
+G y MMM d, E – MMM d, EMcalendarsgenericintervalFormatsyMMMEd
+G y MMM d, E – MMM d, EdcalendarsgenericintervalFormatsyMMMEd
+d–ddcalendarsgenericintervalFormatsd
+MM-dd, E – MM-dd, EMcalendarsgenericintervalFormatsMEd
+MM-dd, E – MM-dd, EdcalendarsgenericintervalFormatsMEd
+MMM d–ddcalendarsgenericintervalFormatsMMMd
+MMM d – MMM dMcalendarsgenericintervalFormatsMMMd
+G y MMM–MMMMcalendarsgenericintervalFormatsyMMM
+G y MMM – y MMMycalendarsgenericintervalFormatsyMMM
+G y MMM d–ddcalendarsgenericintervalFormatsyMMMd
+G y MMM d – MMM dMcalendarsgenericintervalFormatsyMMMd
+G y MMM d – y MMM dycalendarsgenericintervalFormatsyMMMd
+GGGGG y-MM-dd, E – y-MM-dd, EdcalendarsgenericintervalFormatsyMEd
+GGGGG y-MM-dd, E – y-MM-dd, EMcalendarsgenericintervalFormatsyMEd
+GGGGG y-MM-dd, E – y-MM-dd, EycalendarsgenericintervalFormatsyMEd
+LLL–LLLMcalendarsgenericintervalFormatsMMM
+G y–yycalendarsgenericintervalFormatsy
+Rātapusuncalendarsgenericdaysformatwide
+Hātareisatcalendarsgenericdaysformatwide
+Tūreituecalendarsgenericdaysformatwide
+Wenereiwedcalendarsgenericdaysformatwide
+Parairefricalendarsgenericdaysformatwide
+Tāitethucalendarsgenericdaysformatwide
+Manemoncalendarsgenericdaysformatwide
+GGGGG y-MM-ddstandardcalendarsgenericdateFormatsshort
+G y MMMM dstandardcalendarsgenericdateFormatslong
+G y MMM dstandardcalendarsgenericdateFormatsmedium
+G y MMMM d, EEEEstandardcalendarsgenericdateFormatsfull
+{1} {0}shortcalendarsgenericdateTimeFormats
+{1} {0}longcalendarsgenericdateTimeFormats
+{1} {0}mediumcalendarsgenericdateTimeFormats
+{1} {0}fullcalendarsgenericdateTimeFormats
+HW33calendarsgregorianquartersformatabbreviated
+HW11calendarsgregorianquartersformatabbreviated
+HW44calendarsgregorianquartersformatabbreviated
+HW22calendarsgregorianquartersformatabbreviated
+11calendarsgregorianquartersformatnarrow
+33calendarsgregorianquartersformatnarrow
+22calendarsgregorianquartersformatnarrow
+44calendarsgregorianquartersformatnarrow
+Hauwhā tuatahi1calendarsgregorianquartersformatwide
+Hauwhā tuatoru3calendarsgregorianquartersformatwide
+Hauwhā tuarua2calendarsgregorianquartersformatwide
+Hauwhā tuawhā4calendarsgregorianquartersformatwide
+Hauwhā tuarua2calendarsgregorianquartersstand-alonewide
+Hauwhā tuawhā4calendarsgregorianquartersstand-alonewide
+Hauwhā tuatoru3calendarsgregorianquartersstand-alonewide
+Hauwhā tuatahi1calendarsgregorianquartersstand-alonewide
+11calendarsgregorianquartersstand-alonenarrow
+33calendarsgregorianquartersstand-alonenarrow
+44calendarsgregorianquartersstand-alonenarrow
+22calendarsgregorianquartersstand-alonenarrow
+HW22calendarsgregorianquartersstand-aloneabbreviated
+HW44calendarsgregorianquartersstand-aloneabbreviated
+HW33calendarsgregorianquartersstand-aloneabbreviated
+HW11calendarsgregorianquartersstand-aloneabbreviated
+Nuku10calendarsgregorianmonthsstand-aloneabbreviated
+Pae4calendarsgregorianmonthsstand-aloneabbreviated
+Hara5calendarsgregorianmonthsstand-aloneabbreviated
+Hui2calendarsgregorianmonthsstand-aloneabbreviated
+Mahu9calendarsgregorianmonthsstand-aloneabbreviated
+Rangi11calendarsgregorianmonthsstand-aloneabbreviated
+Kohi1calendarsgregorianmonthsstand-aloneabbreviated
+Pou3calendarsgregorianmonthsstand-aloneabbreviated
+Haki12calendarsgregorianmonthsstand-aloneabbreviated
+Hōngo7calendarsgregorianmonthsstand-aloneabbreviated
+Pipi6calendarsgregorianmonthsstand-aloneabbreviated
+Here8calendarsgregorianmonthsstand-aloneabbreviated
+K1calendarsgregorianmonthsstand-alonenarrow
+R11calendarsgregorianmonthsstand-alonenarrow
+M9calendarsgregorianmonthsstand-alonenarrow
+P3calendarsgregorianmonthsstand-alonenarrow
+H5calendarsgregorianmonthsstand-alonenarrow
+N10calendarsgregorianmonthsstand-alonenarrow
+P4calendarsgregorianmonthsstand-alonenarrow
+H2calendarsgregorianmonthsstand-alonenarrow
+H7calendarsgregorianmonthsstand-alonenarrow
+H8calendarsgregorianmonthsstand-alonenarrow
+P6calendarsgregorianmonthsstand-alonenarrow
+H12calendarsgregorianmonthsstand-alonenarrow
+Whiringa-ā-rangi11calendarsgregorianmonthsstand-alonewide
+Mahuru9calendarsgregorianmonthsstand-alonewide
+Poutūterangi3calendarsgregorianmonthsstand-alonewide
+Kohitātea1calendarsgregorianmonthsstand-alonewide
+Huitanguru2calendarsgregorianmonthsstand-alonewide
+Whiringa-ā-nuku10calendarsgregorianmonthsstand-alonewide
+Haratua5calendarsgregorianmonthsstand-alonewide
+Paengawhāwhā4calendarsgregorianmonthsstand-alonewide
+Pipiri6calendarsgregorianmonthsstand-alonewide
+Hereturikōkā8calendarsgregorianmonthsstand-alonewide
+Hōngongoi7calendarsgregorianmonthsstand-alonewide
+Hakihea12calendarsgregorianmonthsstand-alonewide
+Haki12calendarsgregorianmonthsformatabbreviated
+Pipi6calendarsgregorianmonthsformatabbreviated
+Here8calendarsgregorianmonthsformatabbreviated
+Hōngo7calendarsgregorianmonthsformatabbreviated
+Hui2calendarsgregorianmonthsformatabbreviated
+Hara5calendarsgregorianmonthsformatabbreviated
+Nuku10calendarsgregorianmonthsformatabbreviated
+Pae4calendarsgregorianmonthsformatabbreviated
+Rangi11calendarsgregorianmonthsformatabbreviated
+Kohi1calendarsgregorianmonthsformatabbreviated
+Mahu9calendarsgregorianmonthsformatabbreviated
+Pou3calendarsgregorianmonthsformatabbreviated
+P6calendarsgregorianmonthsformatnarrow
+H8calendarsgregorianmonthsformatnarrow
+H7calendarsgregorianmonthsformatnarrow
+H12calendarsgregorianmonthsformatnarrow
+K1calendarsgregorianmonthsformatnarrow
+R11calendarsgregorianmonthsformatnarrow
+M9calendarsgregorianmonthsformatnarrow
+P3calendarsgregorianmonthsformatnarrow
+H2calendarsgregorianmonthsformatnarrow
+N10calendarsgregorianmonthsformatnarrow
+P4calendarsgregorianmonthsformatnarrow
+H5calendarsgregorianmonthsformatnarrow
+Huitanguru2calendarsgregorianmonthsformatwide
+Whiringa-ā-nuku10calendarsgregorianmonthsformatwide
+Paengawhāwhā4calendarsgregorianmonthsformatwide
+Haratua5calendarsgregorianmonthsformatwide
+Mahuru9calendarsgregorianmonthsformatwide
+Whiringa-ā-rangi11calendarsgregorianmonthsformatwide
+Poutūterangi3calendarsgregorianmonthsformatwide
+Kohitātea1calendarsgregorianmonthsformatwide
+Hakihea12calendarsgregorianmonthsformatwide
+Pipiri6calendarsgregorianmonthsformatwide
+Hereturikōkā8calendarsgregorianmonthsformatwide
+Hōngongoi7calendarsgregorianmonthsformatwide
+{0} ki te {1}standardcalendarsgregorianintervalFormatsstandard
+y MMMM d, EEEEstandardcalendarsgregoriandateFormatsfull
+y MMMM dstandardcalendarsgregoriandateFormatslong
+y MMM dstandardcalendarsgregoriandateFormatsmedium
+y-MM-ddstandardcalendarsgregoriandateFormatsshort
+{1} {0}shortcalendarsgregoriandateTimeFormats
+{1} {0}longcalendarsgregoriandateTimeFormats
+{1} {0}mediumcalendarsgregoriandateTimeFormats
+{1} {0}fullcalendarsgregoriandateTimeFormats
+h:mmstandardcalendarsgregoriantimeFormatsshort
+h:mm:ss a zstandardcalendarsgregoriantimeFormatslong
+h:mm:ssstandardcalendarsgregoriantimeFormatsmedium
+h:mm:ss a zzzzstandardcalendarsgregoriantimeFormatsfull
+PMpmcalendarsgregoriandayPeriodsformatwide
+AMamcalendarsgregoriandayPeriodsformatwide
+PMpmcalendarsgregoriandayPeriodsformatnarrow
+AMamcalendarsgregoriandayPeriodsformatnarrow
+AMamcalendarsgregoriandayPeriodsformatabbreviated
+PMpmcalendarsgregoriandayPeriodsformatabbreviated
+PMpmcalendarsgregoriandayPeriodsstand-alonewide
+AMamcalendarsgregoriandayPeriodsstand-alonewide
+PMpmcalendarsgregoriandayPeriodsstand-aloneabbreviated
+AMamcalendarsgregoriandayPeriodsstand-aloneabbreviated
+PMpmcalendarsgregoriandayPeriodsstand-alonenarrow
+AMamcalendarsgregoriandayPeriodsstand-alonenarrow
+Horsatcalendarsgregoriandaysstand-aloneabbreviated
+Tūtuecalendarsgregoriandaysstand-aloneabbreviated
+Tapsuncalendarsgregoriandaysstand-aloneabbreviated
+Merfricalendarsgregoriandaysstand-aloneabbreviated
+Apawedcalendarsgregoriandaysstand-aloneabbreviated
+Parthucalendarsgregoriandaysstand-aloneabbreviated
+Hinmoncalendarsgregoriandaysstand-aloneabbreviated
+Mfricalendarsgregoriandaysstand-alonenarrow
+Awedcalendarsgregoriandaysstand-alonenarrow
+Tsuncalendarsgregoriandaysstand-alonenarrow
+Hsatcalendarsgregoriandaysstand-alonenarrow
+Ttuecalendarsgregoriandaysstand-alonenarrow
+Hmoncalendarsgregoriandaysstand-alonenarrow
+Pthucalendarsgregoriandaysstand-alonenarrow
+Rāhinamoncalendarsgregoriandaysstand-alonewide
+Rāparethucalendarsgregoriandaysstand-alonewide
+Rātapusuncalendarsgregoriandaysstand-alonewide
+Rāhoroisatcalendarsgregoriandaysstand-alonewide
+Rātūtuecalendarsgregoriandaysstand-alonewide
+Rāapawedcalendarsgregoriandaysstand-alonewide
+Rāmerefricalendarsgregoriandaysstand-alonewide
+Hinmoncalendarsgregoriandaysstand-aloneshort
+Parthucalendarsgregoriandaysstand-aloneshort
+Horsatcalendarsgregoriandaysstand-aloneshort
+Tūtuecalendarsgregoriandaysstand-aloneshort
+Tapsuncalendarsgregoriandaysstand-aloneshort
+Merfricalendarsgregoriandaysstand-aloneshort
+Apawedcalendarsgregoriandaysstand-aloneshort
+Mfricalendarsgregoriandaysformatnarrow
+Awedcalendarsgregoriandaysformatnarrow
+Tsuncalendarsgregoriandaysformatnarrow
+Hsatcalendarsgregoriandaysformatnarrow
+Ttuecalendarsgregoriandaysformatnarrow
+Pthucalendarsgregoriandaysformatnarrow
+Hmoncalendarsgregoriandaysformatnarrow
+Merfricalendarsgregoriandaysformatabbreviated
+Apawedcalendarsgregoriandaysformatabbreviated
+Tūtuecalendarsgregoriandaysformatabbreviated
+Horsatcalendarsgregoriandaysformatabbreviated
+Tapsuncalendarsgregoriandaysformatabbreviated
+Parthucalendarsgregoriandaysformatabbreviated
+Hinmoncalendarsgregoriandaysformatabbreviated
+Hinmoncalendarsgregoriandaysformatshort
+Parthucalendarsgregoriandaysformatshort
+Merfricalendarsgregoriandaysformatshort
+Apawedcalendarsgregoriandaysformatshort
+Tapsuncalendarsgregoriandaysformatshort
+Horsatcalendarsgregoriandaysformatshort
+Tūtuecalendarsgregoriandaysformatshort
+Rāapawedcalendarsgregoriandaysformatwide
+Rāmerefricalendarsgregoriandaysformatwide
+Rāhoroisatcalendarsgregoriandaysformatwide
+Rātūtuecalendarsgregoriandaysformatwide
+Rātapusuncalendarsgregoriandaysformatwide
+Rāhinamoncalendarsgregoriandaysformatwide
+Rāparethucalendarsgregoriandaysformatwide
+BCE0calendarsgregorianeraseraAbbr
+CE1calendarsgregorianeraseraAbbr
+BCE0calendarsgregorianeraseraNames
+CE1calendarsgregorianeraseraNames
+{0}, {1}startlistPatternsstandard
+{0}, {1}endlistPatternsstandard
+{0}, {1}middlelistPatternsstandard
+{0}, {1}2listPatternsstandard
+kāo:knostrposixmessages
+āe:āyesstrposixmessages
+Hana TukuihoHantlocaleDisplayNamesscripts
+HīririkiCyrllocaleDisplayNamesscripts
+TuhikoreZxxxlocaleDisplayNamesscripts
+Momotuhi Tē MōhiotiaZzzzlocaleDisplayNamesscripts
+Hana MāmāHanslocaleDisplayNamesscripts
+ArapikaArablocaleDisplayNamesscripts
+RātinaLatnlocaleDisplayNamesscripts
+Ingarihi Kānataen_CAlocaleDisplayNameslanguages
+HainamanazhlocaleDisplayNameslanguages
+Reo Tē MōhiotiaundlocaleDisplayNameslanguages
+Pōtikī Uropipt_PTlocaleDisplayNameslanguages
+Hainamana Māmāzh_HanslocaleDisplayNameslanguages
+MāorimilocaleDisplayNameslanguages
+Pōtikī Parahipt_BRlocaleDisplayNameslanguages
+Paniora Amerika ki te Tongaes_419localeDisplayNameslanguages
+Tiamana Ōkawa Huiterangide_CHlocaleDisplayNameslanguages
+Paniora Mēhikanaes_MXlocaleDisplayNameslanguages
+RuhianarulocaleDisplayNameslanguages
+Hainamana Tukuihozh_HantlocaleDisplayNameslanguages
+HapanihijalocaleDisplayNameslanguages
+Wīwī Huiterangifr_CHlocaleDisplayNameslanguages
+PanioraeslocaleDisplayNameslanguages
+Ingarihi USen_USlocaleDisplayNameslanguages
+WīwīfrlocaleDisplayNameslanguages
+Ingarihi Ahitereirianaen_AUlocaleDisplayNameslanguages
+ĪtarianaitlocaleDisplayNameslanguages
+Wīwī Kānatafr_CAlocaleDisplayNameslanguages
+PōtikīptlocaleDisplayNameslanguages
+TiamanadelocaleDisplayNameslanguages
+Paniora Uropies_ESlocaleDisplayNameslanguages
+Ingarihi UKen_GBlocaleDisplayNameslanguages
+IngarihienlocaleDisplayNameslanguages
+Tiamana Atiriade_ATlocaleDisplayNameslanguages
+HainaCNlocaleDisplayNamesterritories
+Hononga o AmerikaUSlocaleDisplayNamesterritories
+HapaniJPlocaleDisplayNamesterritories
+TiamanaDElocaleDisplayNamesterritories
+Rohe Tē MōhiotiaZZlocaleDisplayNamesterritories
+Hononga o PiriteneGBlocaleDisplayNamesterritories
+RūhiaRUlocaleDisplayNamesterritories
+WīwīFRlocaleDisplayNamesterritories
+ParahiBRlocaleDisplayNamesterritories
+AotearoaNZlocaleDisplayNamesterritories
+IniaINlocaleDisplayNamesterritories
+ItāriaITlocaleDisplayNamesterritories
+{0} ({1})localePatternlocaleDisplayNameslocaleDisplayPattern
+{0}, {1}localeSeparatorlocaleDisplayNameslocaleDisplayPattern
+{0}: {1}localeKeyTypePatternlocaleDisplayNameslocaleDisplayPattern
+USUSlocaleDisplayNamesmeasurementSystemNames
+UKUKlocaleDisplayNamesmeasurementSystemNames
+NgahurumetriclocaleDisplayNamesmeasurementSystemNames
+{0}territorylocaleDisplayNamescodePatterns
+{0}scriptlocaleDisplayNamescodePatterns
+{0}languagelocaleDisplayNamescodePatterns
+0M1000000numbersdecimalFormatslatnshort
+000M100000000numbersdecimalFormatslatnshort
+00K10000numbersdecimalFormatslatnshort
+00M10000000numbersdecimalFormatslatnshort
+000G100000000000numbersdecimalFormatslatnshort
+000K100000numbersdecimalFormatslatnshort
+00T10000000000000numbersdecimalFormatslatnshort
+0G1000000000numbersdecimalFormatslatnshort
+0T1000000000000numbersdecimalFormatslatnshort
+000T100000000000000numbersdecimalFormatslatnshort
+0K1000numbersdecimalFormatslatnshort
+00G10000000000numbersdecimalFormatslatnshort
+000K100000numbersdecimalFormatslatnlong
+000G100000000000numbersdecimalFormatslatnlong
+00M10000000numbersdecimalFormatslatnlong
+0M1000000numbersdecimalFormatslatnlong
+000M100000000numbersdecimalFormatslatnlong
+00K10000numbersdecimalFormatslatnlong
+0T1000000000000numbersdecimalFormatslatnlong
+000T100000000000000numbersdecimalFormatslatnlong
+00G10000000000numbersdecimalFormatslatnlong
+0K1000numbersdecimalFormatslatnlong
+0G1000000000numbersdecimalFormatslatnlong
+00T10000000000000numbersdecimalFormatslatnlong
+#,##0.###standardnumbersdecimalFormatslatnstandard
+¤ #,##0.00standardnumberscurrencyFormatslatnstandard
+¤ 000T100000000000000numberscurrencyFormatslatnshort
+¤ 0T1000000000000numberscurrencyFormatslatnshort
+¤ 0K1000numberscurrencyFormatslatnshort
+¤ 00G10000000000numberscurrencyFormatslatnshort
+¤ 00T10000000000000numberscurrencyFormatslatnshort
+¤ 0G1000000000numberscurrencyFormatslatnshort
+¤ 000M100000000numberscurrencyFormatslatnshort
+¤ 0M1000000numberscurrencyFormatslatnshort
+¤ 00K10000numberscurrencyFormatslatnshort
+¤ 000G100000000000numberscurrencyFormatslatnshort
+¤ 00M10000000numberscurrencyFormatslatnshort
+¤ 000K100000numberscurrencyFormatslatnshort
+%percentSignnumberssymbolslatn
++plusSignnumberssymbolslatn
+.decimalnumberssymbolslatn
+,groupnumberssymbolslatn
+-minusSignnumberssymbolslatn
+‰perMillenumberssymbolslatn
+∞infinitynumberssymbolslatn
+Eexponentialnumberssymbolslatn
+NaNnannumberssymbolslatn
+×superscriptingExponentnumberssymbolslatn
+PABstandardnumberscurrenciesPAB
+EC$standardnumberscurrenciesXCD
+$narrownumberscurrenciesXCD
+$narrownumberscurrenciesTTD
+TTDstandardnumberscurrenciesTTD
+€standardnumberscurrenciesEUR
+€narrownumberscurrenciesEUR
+ANGstandardnumberscurrenciesANG
+GTQstandardnumberscurrenciesGTQ
+QnarrownumberscurrenciesGTQ
+BSDstandardnumberscurrenciesBSD
+$narrownumberscurrenciesBSD
+ARSstandardnumberscurrenciesARS
+$narrownumberscurrenciesARS
+$narrownumberscurrenciesMXN
+MX$standardnumberscurrenciesMXN
+CRCstandardnumberscurrenciesCRC
+₡narrownumberscurrenciesCRC
+¥narrownumberscurrenciesJPY
+¥standardnumberscurrenciesJPY
+$narrownumberscurrenciesCUP
+CUPstandardnumberscurrenciesCUP
+$narrownumberscurrenciesBBD
+BBDstandardnumberscurrenciesBBD
+$standardnumberscurrenciesNZD
+HTGstandardnumberscurrenciesHTG
+HNLstandardnumberscurrenciesHNL
+LnarrownumberscurrenciesHNL
+NIOstandardnumberscurrenciesNIO
+C$narrownumberscurrenciesNIO
+KYDstandardnumberscurrenciesKYD
+$narrownumberscurrenciesKYD
+₹narrownumberscurrenciesINR
+₹standardnumberscurrenciesINR
+R$standardnumberscurrenciesBRL
+R$narrownumberscurrenciesBRL
+£narrownumberscurrenciesGBP
+£standardnumberscurrenciesGBP
+$narrownumberscurrenciesCAD
+CA$standardnumberscurrenciesCAD
+JMDstandardnumberscurrenciesJMD
+$narrownumberscurrenciesJMD
+BZDstandardnumberscurrenciesBZD
+$narrownumberscurrenciesBZD
+CN¥standardnumberscurrenciesCNY
+¥narrownumberscurrenciesCNY
+₽narrownumberscurrenciesRUB
+RUBstandardnumberscurrenciesRUB
+AWGstandardnumberscurrenciesAWG
+US$standardnumberscurrenciesUSD
+$narrownumberscurrenciesUSD
+BMDstandardnumberscurrenciesBMD
+$narrownumberscurrenciesBMD
+$narrownumberscurrenciesDOP
+DOPstandardnumberscurrenciesDOP
+CUCstandardnumberscurrenciesCUC
+$narrownumberscurrenciesCUC
+1minimumGroupingDigitsnumbers
+latnstandardnumbersdefaultNumberingSystem
+#,##0%standardnumberspercentFormatslatnstandard
+{0}–{1}rangenumbersmiscPatternslatn
+≥{0}atLeastnumbersmiscPatternslatn
+#E0standardnumbersscientificFormatslatnstandard
+latnnativenumbersotherNumberingSystems
+’alternateQuotationEnddelimiters
+“quotationStartdelimiters
+‘alternateQuotationStartdelimiters
+”quotationEnddelimiters
+[b c d f g j l q s v x y z]auxiliarycharactersexemplarCharacters
+[a ā e ē h i ī k m n {ng} o ō p r t u ū w {wh}]standardcharactersexemplarCharacters
+[A E H I K M N O P R T U W]indexcharactersexemplarCharacters

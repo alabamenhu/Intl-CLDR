@@ -1,234 +1,114 @@
 # CLDR for Raku (née Perl 6)
 
-An attempt to bring in the data from CLDR into Raku and much of the functionality
-of ICU as well.  The current module structure should be considered highly experimental.
-Pre-1.0 I will aim to keep method names, etc, available with similar interfaces, but the
-module used to import them may change.  It's best to add version information to your use statement.
+An attempt to bring in the data from CLDR into Raku.
+ 
+This branch (zoom-zoom) aims to maintain functionality but vastly improve performance, both
+mainly from a speed perspective, but also improves memory efficiency and will aide long term maintenance.
 
-The plan is to eventually spin off most of the ICU-like functionality into their own modules
-directly in the `Intl::` namespace, leaving Intl::CLDR exclusively for accessing the more-or-less
-raw CLDR data.
+There have been slight API changes from the old branch, so as noted before, if using, please
+ensure that you add version information to your use statements (at least until v.1.0);
 
-## CLDR data notes
+**Do not** use anything outside of the Intl::CLDR from this branch.
+Those functionalities will be spun off into their own modules.
+This is primarily for obtaining more-or-less raw data with proper fallbacks.
 
-I am currently aiming to have the CLDR database (accessible via `cldr-data-for-lang`) to be 'smarter'. 
-Historically, it was just multileveled hashes within hashes.
-The advantage of converting it to using attributes are much faster than hash lookups, and by having specialized objects, I can provide fairly explicit fallback instructions.
-For both backwards compatibility and usability (no one likes `$foo."$bar"` over `$foo{$bar}`) you can use both styles of references.
+For those interested in trying out this branch, focus on the classes in `Intl::CDLR::Types` and the new processing script
+`resources/parse-main-file-new.p6`.  
 
-Some CLDR data is not immediately usable.
-I welcome suggestions as to the best ways to provide access to it (for example, preexpanding sequences like `[a-d]` into `abcd`, or simply providing a sub that does the work, or some combination thereof).
+## CLDR objects
 
-## Lists
+Each `CLDR-*` object is a subclass of `Hash`, and attributes can generally be accessed both from 
+hashy accessors (`{'foo'}`)or method/attribute accessors (`.foo`).
+True attributes are defined with kebab-case, but camel-case alternates are available as well (this is because CLDR began with camel case, and now tends to prefer kebab-case).  
+There is a noticeable performance hit because of the initial set up for this, so things may change on this front if I can't find a more efficient way to enable it.
 
-```perl6
-    use Intl::CLDR::Lists;
-    say format-list <apple orange banana>;           # apple, orange, and banana
-    say format-list <apple orange banana>, :type<or>; # apple, orange, or banana
-```
 
-There are nine types of lists defined in CLDR (example from `en`):
+## Mega-rewrite structure
 
-  * **and**, **standard-short**, **standard-narrow**   
-  1, 2, and 3  
-  In English, this includes a comma.  Not all languages will have a dividing element
-  between the final two.  CLDR does not use the word 'and' or 'standard': it is
-  just the default, nameless form.  The *short* version in some languages
-  is a bit more space economical and the *narrow* version is even more
-  economical.  (Some Asian languages may remove spaces, for instance).  If
-  *narrow* is not defined, falls back to *short*, which falls back to *and*.
-  * **or**, **or-short**, **or-narrow**   
-  1, 2, or 3
-  In English, includes a final comma.  Not all languages will have a dividing
-  element between the final two.  The *short* version in some languages
-  is a bit more space economical and the *narrow* version is even more
-  economical.  (Some Asian languages may remove spaces, for instance).  If
-  *narrow* is not defined, falls back to *short*, which falls back to *or*.
-  * **unit**, **unit-short**, **unit-narrow**  
-  1, 2, 3  
-  The unit version is a list that lists without prejudice (neither *and* nor *or*).  
-  For most languages, this entails a delimiter between each and every item, but
-  no text at the end.  The *short* version in some languages
-  is a bit more space economical and the *narrow* version is even more
-  economical. If *narrow* is not defined, falls back to *short*, which falls
-  back to *unit* which falls back to *and*.
+Each new type object (in `Int::CLDR::Types::`) has roughly the same format:
 
-You may optionally pass a list of languages to be processed using `:language`
-(only one language) or `:languages` (one or more) adverb:
+```raku 
+use Intl::CLDR::Inmutability; # this name will change
 
-```perl6
-    say format-list(<manzana naranja plátano> :language<es>);
-    # ↪︎ "manzana, naranja y plátano"
-```
+unit class CLDR-Foo is CLDR-Item; # CLDR-Item provides the hash/attribute fusion.
 
-If no language is specified, uses `UserLanguage` to get the user's default
-language preferences, and ultimately falls back to English if no better match
-can be found.
+has $!parent; # this may ultimately be unnecessary
+has CLDR-Bar    $.foo;    # attributes (subelements), always scalar
+has CLDR-XyzSet $.xyz;
+has Str         $.str;
 
-## Plurals
+# Hash subclasses can't use BUILD or TWEAK, so we set up here
+method new(|c) { self.bless!bind-init: |c }
 
-```perl6
-    use Intl::CLDR::Plurals;
-    say plural-count(0, "en"); # other
-    say plural-count(1, "en"); # one
-    say plural-count(2, "en"); # other
-```
+submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
+    use Intl::CLDR::Classes::StrDecode; 
+    
+    self.Hash::BIND-KEY: 'bar',              $!foo;
+    self.Hash::BIND-KEY: 'barAlternateName', $!foo;
+    self.Hash::BIND-KEY: 'xyz',              $!bar;
+    self.Hash::BIND-KEY: 'xyzWeirdCase',     $!bar;
+    self.Hash::BIND-KEY: 'str',              $!bar;
 
-There are six possible responses that can be retrieved from the `plural-count`
-method: **zero**, **one**, **two**, **few**, **many**, **other**.  Most languages
-support *one* and *other*, but some will only ever return *other* because they
-do not have numeric concord.  Other more complicated ones will use all of the
-ones listed.  The logic is unique to each language and will be done by
-the localizer, but will be fairly opaque to the programmer and should not generally
-be used upon outside of localization frameworks.
-
-## Numbers
-
-Easy to use number formatter.  
-
-```perl6
-use Intl::Numbers;
-format-decimal($number);
-```
-
-There are several modes of formatting currently supported beyond the standard
-decimal, which can be activated adverbially
-
-  * **:percent**  
-  Multiplies by 100 and displays using a percentage sign.
-  * **:scientific**  
-  Uses exponential formatting, so 2019 would be 2.019E3.
-  * **:engineering**  
-  Uses exponential formatting, but limits the exponential values to powers of 3.
-  * **:short**
-  Uses extremely compact forms for numbers over 1000.  For example, 2019 is 2K,
-  and 123456789 is 123M.
-  * **:long**  
-  Same as :short, but spells out the rounded number.  2019 is *2 thousand*, and
-  123456789 is *123 million*.  Falls back to `:short` if there is no CLDR data
-  for the given language.
-
-There are also few different options for the formatting:
-
-  * **:language**  
-  A BCP47 compliant language tag or `LanguageTag` object.  If you pass a number
-  system via the `-u` tag it is not currently respected.
-  * **:pattern**  
-  A number formatting pattern.  Its format is too complex to describe here, but
-  there is a decent description in the [TR35 standard](https://unicode.org/reports/tr35/tr35-numbers.html#Number_Format_Patterns).
-  Using this will not override the symbols used by the chosen language.
-  * **:system**  
-  Change the default numbering system which affects the symbols used and the
-  digits employed.  Most languages only support a single system,
-  but some may support two or three if they use several traditionally.  If a
-  system isn't supported, falls back to the default system for symbols, but
-  will employee the correct digits.  So for English, `format-number(1234235, :system<nkoo>)` returns
-  *߁,߂߃߄,߂߃߅*.   
-  * **:symbols**  
-  Defines the symbols to use for formatting (the decimal indicator, etc).
-  Currently has a not-easy-to-use format which will be simplified in the future.
-  * **:count**  
-  Some of the formats for numbers may change based on the exact number they have.
-  If passed, this setting is respected, but plural rules are not *currently*
-  respected though that will change in the future.  Valid values are those
-  from `Intl::CLDR::Plurals` (*zero, one, two, few, many, other*).
-
-While formatting should be fine when using default options, if you try to get
-fancy, things may currently break until I can better handle certain edge cases.
-
-Lastly, there is support for localized number mining.  While
-we all have used `\d+` to try to find numbers, now you can use a localized
-number token in your grammars.  Here's a quick example:
-
-```perl6
-grammar CleanupNoise {
-  use Number;  # ⬅ imports the token <local-number>
-  token TOP   { <noise> <local-number> <noise> }
-  token noise { <[a..zA..Z]>*? }
+    # Leaf operations will advance the offset so
+    # it rarely needs to be manually adjusted
+    $!foo = CLDR-Bar.new: blob, $offset, self;
+    $!foo = CLDR-XyzSet.new: blob, $offset, self;
+    $!str = StrDecode::get( blob, $offset );
+    
+    # must return self (sadly can't do it via --> self in signature)
+    self
 }
 
-class CNActions {
-  use Number;
-  also does Local-Numbers;   # ⬅ mixes in the method local-number();
-  token TOP { make <local-number>.made }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+   
+    # the base is a Hash and xml is an XML object from the XML module.
+    # parsing is fairly open ended, but the most common formats are
+   
+    # single subelement:
+    CLDR-Bar.parse: (base<foo> //= Hash.new), $_ with xml.&elem('foo');
+   
+    # for > 1 element that are distinguished by type and loaded in a collection object
+    CLDR-XyzSet.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('xyz');
+   
+    # for terminal (stringy) elements, generally use contents:
+    base<str> = contents $_ with xml.&elem('str');
+   
+    # the with/for avoid overwriting values when they aren't defined --
+    # this method will be called several times to produce a file, once
+    # for 'root', once for the top level language, once for the script 
+    # (if specified) and once for the region (and possibly even the variant).
+   
+    # no return is necessary
 }
-say CleanupNoise.parse("asdasd1.2345E3ewreyrhhb", :actions(CNActions).made
-# ↪︎ 1234.5  (it extracted 1.2345E3, or 1.2345 x 10³)
+method encode(%*foo --> buf8) { 
+    # a dynamic variable is normally used, in case fallbacks need to refer back
+    use Intl::CLDR::Classes::StrEncode;
+    
+    my $result = buf8.new;
+    
+    # each element is blobby concatted, and fallbacks should be calculated here
+    # the norm is for each encode method to take a single hash, but some may 
+    # ocassionally vary from this norm
+    $result ~= CLDR-Bar.encode:    %*foo<foo> // Hash;
+    $result ~= CLDR-XyzSet.encode: %*foo<xyz> // Hash;
+    $result ~= StrEncode::get(     
+                    %*foo<str> // 
+                    %*foo-parent<foo-fallback><str> // 
+                    '' # ideally this should never be reached
+               );
+               
+    $result # to be concatted with the parent's blob
+}
 ```
 
-The <local-number> will default to the language obtained via UserLanguage.  If you'd
-like to override the language chosen, you can simply pass the language to the
-token, that is, `<local-number("ar")>"` to extract numbers in Arabic documents.
-
-If you attach the actions via the mixed in role, the `.made` will be the value of the
-number (generally Int or Rat).  In the future, I may attach additional information
-(for example, if it was exponential, number of digits if zero-padded, etc) through mixins,
-but for now if you want that information, you can create your own `local-number($/)` method.
-The `Match` it receives should be fairly easy to understand.
-
-## NumberSystems
-
-Some of the algorithmic systems may be eventually spun off into different modules
-because they *technically* are not defined in CLDR, just referenced.  There is
-no generalized method of converting numbers yet, but I imagine the syntax will
-be something like
-```perl6
-use Intl::Numbers;
-format-number(63, :system<ge'ez>); # ፷፫
-format-number(35, :system<roman>); # XXXV
-```
-Different systems may have different options as well.  For right now, you can
-play around with the implemented systems by using their specific modules:
-
-```perl6
-use Intl::CLDR::NumberSystems::Ge'ez;
-ge'ez-numeral(48253683); # ፵፰፻፳፭፼፴፮፻፹፫
-use Intl::CLDR::NumberSystems::Roman;
-roman-numeral(168);                  # CLXVIII
-roman-numeral(168) :j;               # CLXVIIJ (used often in medieval times)
-roman-numeral(44) :additive<all>;    # XXXXIIII (most traditional)
-roman-numeral(44) :additive<single>; # XLIIII (used longer)
-roman-numeral(44) :additive<none>;   # XLIV, default (shouldn't be, but it's what
-                                     # people today expect)
-```
-
-I haven't yet decided how best to handle numbers that can't be represented in
-a given system.  Many of the older numbering systems do not allow for fractional
-(less than one) values.  At the moment, these are `floor`ed and then converted.
-
-Some options:
-
- * **`:fractional`** enables fraction approximation (to the 1/1728) for Roman
- numerals.  These don't case well, so a casing option may be needed in the future.
- * **`:j`** enables terminal *J* instead of *I* in Roman numerals.  These were used
-frequently in medieval times.
- * **`:additive`** adjusts the properties for converting 4 and 9.  The allowed
- values are `all` (traditional, 4 is IIII, 9 is VIII, 40 is XXXX, etc), `small`
- (only 4 and 9 are added) or `none` (default, which it shouldn't be but it's
- what people today expect)
- * **`:large`** enables (preliminary) support for numbers larger than 3999 (or
-   4999 if `:additive<all>`).  Because there were many ways of doing this,
-   there are probably more options than necessary.  Defaults to False.
-
-## Genders
-
-CLDR contains some data about the way that languages combine genders.  This data
-is only for combining *people* and not arbitrary objects.  To use, there are
-three enum values, `Male`, `Female`, and `Other`.  Pass a list of these enums to
-`group-gender`, followed by an appropriate language tag.  Currently requires a
-language tag to be passed.  The result is the gender (in plural) that should be used
-with the group.  (`Other` is the CLDR terminology, in many languages it might be
-referred to as *neuter*)
-
-
+Before distribution, the `parse` and `encode` functions will be commented out, as they are not intended for end user use, but make more sense to be packaged with each class for general maintenance / development.
 
 # Version History
-  * 0.4.4
-    * Continued improvement on attribute access
-    * Added `dates` (under which `calendar` now falls).  
-      To access calendars now, use `.dates.calendars`, the current structure 
-      will be specially aliased until November 2021 at which point support will
-      be dropped.
+  * 0.5β
+    * Redesigned data structure, and it's all about speed
+    * See readme for full details.
+    * **Not** backwards compatible with v.0.4.3, make sure to specify version in `use` statement
   * 0.4.3
     * Fixed install issues
     * Significant work towards fast attribute access (works on Calendar items)
@@ -261,4 +141,4 @@ The resources directory "main" comes directly from the Unicode CLDR data.
 These files are copyrighted by Unicode, Inc., and are available and distributed
 in accordance with [their terms](http://www.unicode.org/copyright.html).
 
-Everything else (that is, all the Perl code), is licensed under the Artistic License (see license file).
+Everything else (that is, all the Raku code), is licensed under the Artistic License (see license file).

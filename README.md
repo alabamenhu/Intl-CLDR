@@ -1,3 +1,5 @@
+Looking to help out with the rewrite?  Switch to the zoom-zoom branch for an updated readme and mountains of new code.
+
 # CLDR for Raku (née Perl 6)
 
 An attempt to bring in the data from CLDR into Raku and much of the functionality

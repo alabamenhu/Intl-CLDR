@@ -12,6 +12,7 @@ use Intl::CLDR::Types::ListPatterns;
 use Intl::CLDR::Types::Posix;
 use Intl::CLDR::Types::ContextTransforms;
 use Intl::CLDR::Types::Numbers;
+use Intl::CLDR::Types::LocaleDisplayNames;
 
 use Intl::LanguageTag;
 =begin pod
@@ -57,6 +58,7 @@ for @languages -> $l {
     $lang = LanguageTag.new($lang).canonical
         unless $lang eq 'root';
 
+    say "Beginning encoding for $lang";
 
     # Open file unless there's a combining diacritic on a delimiter, and make sure it's got elements
     my $file;
@@ -89,8 +91,8 @@ for @languages -> $l {
     # Makes things a littttttle bit cleaner.
     my \base := %results{$lang};
 
-    with $file.&elem('dates'             ) { parse-dates (base<dates> //= Hash.new), $_ }
-#    with $file.&elem('localeDisplayNames') { parse-dates (base<dates> //= Hash.new), $_ }
+#    with $file.&elem('dates'             ) { parse-dates (base<dates> //= Hash.new), $_ }
+    with $file.&elem('localeDisplayNames') { CLDR-LocaleDisplayNames.parse: (base<localeDisplayNames> //= Hash.new), $_ }
 #    with $file.&elem('layout'            ) { CLDR-Layout.parse: (base<layout> //= Hash.new), $_ }
 #    with $file.&elem('characters'        ) { parse-dates (base<dates> //= Hash.new), $_ }
 #    with $file.&elem('delimiters'        ) { CLDR-Delimiters.parse: (base<delimiters> //= Hash.new), $_ }
@@ -102,7 +104,7 @@ for @languages -> $l {
 #    with $file.&elem('characterLabels'   ) { parse-dates (base<dates> //= Hash.new), $_ }
 #    with $file.&elem('typographicNames'  ) { parse-dates (base<dates> //= Hash.new), $_ }
 
-    my $blob = CLDR-Dates.encode: base<numbers>;
+    my $blob = CLDR-LocaleDisplayNames.encode: base<localeDisplayNames>;
     use Intl::CLDR::Classes::StrEncode;
     "languages-binary/{$lang}.data".IO.spurt: $blob, :bin;              #binary tree data
     "languages-binary/{$lang}.strings".IO.spurt: StrEncode::output();  # StrEncode is a bad global for now
@@ -116,10 +118,14 @@ for @languages -> $l {
     StrDecode::prepare(StrEncode::output);
 
     my uint64 $foo = 0;
-    my $numbers-object = CLDR-Numbers.new: $blob, $foo, 2;
+    my $numbers-object = CLDR-LocaleDisplayNames.new: $blob, $foo, 2;
 
-    say $numbers-object; # can play with this object
+    try {
 
+        say $numbers-object.languages; # can play with this object
+        say $numbers-object.languages<az>;
+        say $numbers-object.languages<az>.short;
+    }
     StrEncode::reset(); # clears encoder for next round
 
 }

@@ -30,7 +30,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'stand-alone',     $!stand-alone;
     self.Hash::BIND-KEY: 'standAlone',      $!stand-alone;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     # If more options are needed, can create the enum
     # directly from the integer value by using Type( blob[$offset++] )
@@ -50,7 +50,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*context-transform-usage) {
     my $result = buf8.new;
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= buf8.new: (%*context-transform-usage<uiListOrMenu> // '') eq 'titlecase-firstword' ?? 1 !! 0;
     $result ~= buf8.new: (%*context-transform-usage<stand-alone>  // '') eq 'titlecase-firstword' ?? 1 !! 0;

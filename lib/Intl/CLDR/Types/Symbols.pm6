@@ -28,7 +28,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     #self.Hash::BIND-KEY: 'symbols',            $!symbols;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!decimal                 = StrDecode::get(blob, $offset);
     $!group                   = StrDecode::get(blob, $offset);
@@ -51,7 +51,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 method encode(%*symbols) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     for <decimal group list percentSign minusSign plusSign exponential
          superscriptingExponent perMille infinity nan timeSeparator>

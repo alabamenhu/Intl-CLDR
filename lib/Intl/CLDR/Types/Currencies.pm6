@@ -22,7 +22,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     # Attributes are currently only included in the hash #
     ######################################################
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];
     for ^$count {
@@ -43,7 +43,7 @@ method encode(%*currencies) {
     $result.append: $count div 256;
     $result.append: $count mod 256;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
     for %*currencies.kv -> $*currency-code, %*currency-data {
         $result ~= CLDR-Currency.encode( %*currency-data // Hash.new )
     }

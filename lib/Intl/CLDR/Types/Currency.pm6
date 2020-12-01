@@ -14,7 +14,7 @@ class DisplayNameCounts {
 
     method new(|c) { self.bless!bind-init: |c }
     submethod !bind-init(\blob, $offset is raw) {
-        use Intl::CLDR::Classes::StrDecode;
+        use Intl::CLDR::Util::StrDecode;
         $!explicit-zero = StrDecode::get(blob, $offset);
         $!explicit-one  = StrDecode::get(blob, $offset);
         $!zero          = StrDecode::get(blob, $offset);
@@ -46,7 +46,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     #self.Hash::BIND-KEY: 'symbols',            $!symbols;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!code                    = StrDecode::get(       blob, $offset);
     $!display-name            = StrDecode::get(       blob, $offset);
@@ -61,7 +61,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*symbols) {
     my $result = buf8.new;
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get( $*currency-code.uc); # currency code (index value)
     $result ~= StrEncode::get( %*symbols<displayName> // $*currency-code.uc); # displayName

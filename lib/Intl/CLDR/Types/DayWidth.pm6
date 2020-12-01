@@ -29,7 +29,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'fri', $!fri;
     self.Hash::BIND-KEY: 'sat', $!sat;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!sun = StrDecode::get(blob, $offset);
     $!mon = StrDecode::get(blob, $offset);
@@ -84,7 +84,7 @@ method encode(\hash) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     for <sun mon tue wed thu fri sat> -> $day-id {
         $result ~= StrEncode::get(fallback $day-id);

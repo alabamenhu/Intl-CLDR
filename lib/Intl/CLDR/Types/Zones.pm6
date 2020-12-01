@@ -16,7 +16,7 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++];
     for ^$count {
@@ -30,7 +30,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
     use Intl::CLDR::Types::Zone;
 
     my $count = hash.keys.elems;

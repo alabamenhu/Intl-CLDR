@@ -28,7 +28,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
     self.Hash::BIND-KEY: 'alt-quote-end',           $!alt-quote-end;
     self.Hash::BIND-KEY: 'alternateQuotationEnd',   $!alt-quote-end;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!quote-start     = StrDecode::get(blob, $offset);
     $!quote-end       = StrDecode::get(blob, $offset);
@@ -42,7 +42,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
 method encode(%delimiters) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get(%delimiters<quotationStart>          // '');
     $result ~= StrEncode::get(%delimiters<quotationEnd>            // '');

@@ -23,7 +23,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'traditional', $!traditional;
     self.Hash::BIND-KEY: 'financial',   $!financial;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!default     = StrDecode::get(blob, $offset);
     $!native      = StrDecode::get(blob, $offset);
@@ -38,7 +38,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 method encode(%*numbering-systems) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get(                                    %*numbering-systems<default> // 'latn');
     $result ~= StrEncode::get(%*numbering-systems<native>      // %*numbering-systems<default> // 'latn');

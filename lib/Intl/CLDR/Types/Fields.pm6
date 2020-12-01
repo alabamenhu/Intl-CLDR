@@ -93,7 +93,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 method encode(%*fields) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     my $*field-type;
 

@@ -1,3 +1,7 @@
+####### WARNING #######
+# Not thread-safe atm #
+#######################
+
 unit module StrDecode;
 
 my str @strings;

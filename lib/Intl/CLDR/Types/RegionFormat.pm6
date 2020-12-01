@@ -21,7 +21,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'standard', $!standard;
     self.Hash::BIND-KEY: 'daylight', $!daylight;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!generic  = StrDecode::get( blob, $offset);
     $!standard = StrDecode::get( blob, $offset);
@@ -32,7 +32,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*region-format) {
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;
 

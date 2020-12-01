@@ -39,7 +39,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'zone',            $!zones;
     self.Hash::BIND-KEY: 'metazone',        $!metazones;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
 
     $!hour-format     = StrDecode::get(        blob, $offset);
@@ -55,7 +55,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*timezone-names) {
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;
 

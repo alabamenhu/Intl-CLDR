@@ -17,7 +17,7 @@ method new(|c) {
 }
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
     self.Hash::BIND-KEY: 'start',  $!start;
     self.Hash::BIND-KEY: 'middle', $!middle;
     self.Hash::BIND-KEY: 'end',    $!end;
@@ -53,7 +53,7 @@ method encode($list-pattern-width) {
         } || Hash
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get( fallback<start>  // '' );
     $result ~= StrEncode::get( fallback<middle> // '' );

@@ -26,7 +26,7 @@ method new(|c) {
 }
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
     $!parent := parent;
 
     $!name  = StrDecode::get(blob, $offset);
@@ -37,7 +37,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*extension --> buf8) {
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
     # extension is a Pair object
     my $result = buf8.new;
 

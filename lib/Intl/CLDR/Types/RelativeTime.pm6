@@ -27,7 +27,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'many',  $!many;
     self.Hash::BIND-KEY: 'other', $!other;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!zero  = StrDecode::get( blob, $offset);
     $!one   = StrDecode::get( blob, $offset);
@@ -41,7 +41,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%relative-time) {
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;
 

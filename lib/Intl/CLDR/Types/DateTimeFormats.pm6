@@ -37,7 +37,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'intervalFormats',        $!interval-formats;
     self.Hash::BIND-KEY: 'intervalFallbackFormat', $!interval-fallback-format;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     my $foo = $offset;
 
@@ -57,7 +57,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 method encode(%*datetime-formats) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     my $*datetime-format-width;
 

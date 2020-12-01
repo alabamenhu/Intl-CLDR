@@ -38,7 +38,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'night1',     $!night1;
     self.Hash::BIND-KEY: 'night2',     $!night2;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!am         = StrDecode::get(blob, $offset);
     $!pm         = StrDecode::get(blob, $offset);
@@ -94,7 +94,7 @@ method encode(\hash) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get(fallback 'am');
     $result ~= StrEncode::get(fallback 'pm');

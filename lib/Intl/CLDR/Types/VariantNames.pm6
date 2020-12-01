@@ -23,7 +23,7 @@ method new(|c) {
 }
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
     $!parent := parent;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];
@@ -40,7 +40,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*variants --> buf8) {
     # a dynamic variable is normally used, in case fallbacks need to refer back
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;
 

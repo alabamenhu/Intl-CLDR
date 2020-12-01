@@ -20,7 +20,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     #    self.Array::BIND-POS: code.Int, text;
     #    self.Hash::BIND-KEY:  code,     text;
     #}
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     for 1 .. 13 -> \id {
         my \text = StrDecode::get(blob, $offset);
@@ -77,7 +77,7 @@ method encode(%*month-width) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     # Not all calendars have 13 months
     # but &fallback will return '' for 13 if not

@@ -14,7 +14,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     my $cycles = blob[$offset++];
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     for 1 .. $cycles -> $id {
         my \text = StrDecode::get(blob, $offset);
@@ -90,7 +90,7 @@ method encode(\hash) {
         when 'solarTerms'            { 24 }
     };
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     # Variable number, so store it
     $result ~= buf8.new($cycles);

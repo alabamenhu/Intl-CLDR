@@ -26,7 +26,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'script',      $!script;
     self.Hash::BIND-KEY: 'territory',   $!territory;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!main      = StrDecode::get(blob, $offset);
     $!separator = StrDecode::get(blob, $offset);
@@ -43,7 +43,7 @@ method encode(\hash) {
 
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
     $result ~= StrEncode::get(hash<localePattern>        // '');
     $result ~= StrEncode::get(hash<localeSeparator>      // '');
     $result ~= StrEncode::get(hash<localeKeyTypePattern> // '');

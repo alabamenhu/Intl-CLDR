@@ -17,7 +17,7 @@ method new(|c) {
 }
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
     self.Hash::BIND-KEY: 'orientation', $!orientation;
 
     $!parent := parent;

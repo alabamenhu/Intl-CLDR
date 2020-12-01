@@ -20,7 +20,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'displayName',  $!display-name;
     self.Hash::BIND-KEY: 'pattern',      $!pattern;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!display-name = StrDecode::get(blob, $offset);
     $!pattern      = StrDecode::get(blob, $offset);
@@ -49,7 +49,7 @@ method encode(\hash) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get( fallback 'displayName');
     $result ~= StrEncode::get( fallback 'pattern');

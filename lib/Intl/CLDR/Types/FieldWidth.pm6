@@ -34,7 +34,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'future',       $!future;
     self.Hash::BIND-KEY: 'past',         $!past;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!display-name = StrDecode::get(        blob, $offset);
     $!less-two     = StrDecode::get(        blob, $offset);
@@ -52,7 +52,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 method encode(%*field-width) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
 
     sub fallback ($id) {

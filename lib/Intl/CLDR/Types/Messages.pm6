@@ -18,7 +18,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'yesstr', $!yesstr;
     self.Hash::BIND-KEY: 'nostr',  $!nostr;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
     $!yesstr = StrDecode::get(blob, $offset);
     $!nostr  = StrDecode::get(blob, $offset);
 
@@ -28,7 +28,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*messages) {
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
     my
     $result  = buf8.new;
     $result ~= StrEncode::get(%*messages<yesstr> // '');

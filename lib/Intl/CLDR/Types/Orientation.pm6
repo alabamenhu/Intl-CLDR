@@ -21,7 +21,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
     self.Hash::BIND-KEY: 'character-order', $!character-order;
     self.Hash::BIND-KEY: 'characterOrder', $!character-order;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!line-order = StrDecode::get(blob, $offset);
     $!character-order = StrDecode::get(blob, $offset);
@@ -33,7 +33,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
 method encode(%orientation) {
     my $result = buf8.new;
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     $result ~= StrEncode::get(%orientation<lineOrder>   // '');
     $result ~= StrEncode::get(%orientation<characterOrder> // '');

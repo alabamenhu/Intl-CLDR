@@ -12,7 +12,7 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     for 1..4 -> \id {
         my \text = StrDecode::get(blob, $offset);
@@ -66,7 +66,7 @@ method encode(\hash) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
 
     # Not all calendars have 13 months

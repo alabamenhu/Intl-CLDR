@@ -3,8 +3,8 @@ use XML;
 use MONKEY-SEE-NO-EVAL;
 use Data::Dump::Tree;
 use JSON::Tiny;
-use Intl::CLDR::Classes::StrEncode;
-use Intl::CLDR::Classes::StrDecode;
+use Intl::CLDR::Util::StrEncode;
+use Intl::CLDR::Util::StrDecode;
 use Intl::CLDR::Types::Language;
 use Intl::LanguageTag;
 
@@ -104,7 +104,7 @@ for @language-files -> $language-file {
 
     # To load data, 'prepare' the StrDecode with the string data (again, bad global)
     # Then call .new with a uint64 (currently in Rakudo this can't be anonymous) and a mock parent
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
     StrDecode::prepare(StrEncode::output);
 
     # Check we can reread it

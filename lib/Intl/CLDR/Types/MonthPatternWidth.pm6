@@ -22,7 +22,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'afterLeap',           $!after-leap;
     self.Hash::BIND-KEY: 'combined',            $!combined;
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     $!leap       = StrDecode::get(blob, $offset);
     $!after-leap = StrDecode::get(blob, $offset);
@@ -73,7 +73,7 @@ method encode(\hash) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     # Most calendars will have no values for these
     for <leap standardAfterLeap combined> -> $pattern-id {

@@ -15,7 +15,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     # Different calendars have different numbers, first encoded number is the era count
     my $eras = blob[$offset++];
 
-    use Intl::CLDR::Classes::StrDecode;
+    use Intl::CLDR::Util::StrDecode;
 
     for ^$eras -> \id {
         my \text = StrDecode::get(blob, $offset);
@@ -62,7 +62,7 @@ method encode(\hash) {
         return ''; # last resort
     }
 
-    use Intl::CLDR::Classes::StrEncode;
+    use Intl::CLDR::Util::StrEncode;
 
     # Calendars have a variable number of eras.  This obviously complicates
     # processing because there's no great best way to determine how many to search for.

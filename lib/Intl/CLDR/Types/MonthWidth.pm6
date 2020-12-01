@@ -94,5 +94,9 @@ method encode(%*month-width) {
 
     $result
 }
-
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    # The leap year adds the text "leap" to the number.  Only affects the Hebrew calendar
+    base{.<type> ~ (.<yeartype>||'') } = contents $_ for xml.&elems('month')
+}
 #>>>>> # GENERATOR

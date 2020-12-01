@@ -68,7 +68,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!cyclic-name-sets = CLDR-CyclicNameSets.new: blob, $offset, self;
     $!date-formats     = CLDR-DateFormats.new:    blob, $offset, self;
     $!time-formats     = CLDR-TimeFormats.new:    blob, $offset, self;
-    #$!datetime-formats     = CLDR-DateTimeFormats.new:    blob, $offset, self;
+    $!datetime-formats = CLDR-DateTimeFormats.new: blob, $offset, self;
 
     self
 }
@@ -91,9 +91,23 @@ method encode(%*calendar) {
     $result ~= CLDR-CyclicNameSets.encode(%*calendar<cyclicNameSets>    // Hash);
     $result ~= CLDR-DateFormats.encode(   %*calendar<dateFormats>       // Hash);
     $result ~= CLDR-TimeFormats.encode(   %*calendar<timeFormats>       // Hash);
-        #`[    CLDR-DateTimeFormats.encode( %*calendar<dateTimeFormats>);
-    ]
+    $result ~= CLDR-DateTimeFormats.encode( %*calendar<dateTimeFormats> // Hash);
+
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-Months.parse:          (base<months>           //= Hash.new), $_ with xml.&elem('months');
+    CLDR-MonthPatterns.parse:   (base<monthPatterns>    //= Hash.new), $_ with xml.&elem('monthPatterns');
+    CLDR-Quarters.parse:        (base<quarters>         //= Hash.new), $_ with xml.&elem('quarters');
+    CLDR-Days.parse:            (base<days>             //= Hash.new), $_ with xml.&elem('days');
+    CLDR-DayPeriods.parse:      (base<dayperiods>       //= Hash.new), $_ with xml.&elem('dayPeriods');
+    CLDR-Eras.parse:            (base<eras>             //= Hash.new), $_ with xml.&elem('eras');
+    CLDR-CyclicNameSets.parse:  (base<cyclicNameSets>   //= Hash.new), $_ with xml.&elem('cyclicNameSets');
+    CLDR-DateFormats.parse:     (base<dateFormats>      //= Hash.new), $_ with xml.&elem('dateFormats');
+    CLDR-TimeFormats.parse:     (base<timeFormats>      //= Hash.new), $_ with xml.&elem('timeFormats');
+    CLDR-DateTimeFormats.parse: (base<dateTimeFormats>  //= Hash.new), $_ with xml.&elem('dateTimeFormats');
+}
+
 
 #>>>>> # GENERATOR

@@ -64,9 +64,21 @@ method encode(%*timezone-names) {
     $result ~= StrEncode::get(%*timezone-names<gmtZeroFormat>  // '');
     $result ~= StrEncode::get(%*timezone-names<fallbackFormat> // '');
     $result ~= CLDR-RegionFormat.encode(%*timezone-names<regionFormat> // Hash);
-    $result ~= CLDR-Zones.encode(%*timezone-names<zones> // Hash);
-    $result ~= CLDR-Metazones.encode(%*timezone-names<metazones> // Hash);
+    $result ~= CLDR-Zones.encode(       %*timezone-names<zones>        // Hash);
+    $result ~= CLDR-Metazones.encode(   %*timezone-names<metazones>    // Hash);
 
-    $result.append: 0
+    $result
+}
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    with xml.&elem('hourFormat'    ) { base<hourFormat>    = contents $_ }
+    with xml.&elem('gmtFormat'     ) { base<gmtFormat>     = contents $_ }
+    with xml.&elem('gmtZeroFormat' ) { base<gmtZeroFormat> = contents $_ }
+    with xml.&elem('fallbackFormat') { base<gmtZeroFormat> = contents $_ }
+
+    base<regionFormat>{.<type> || 'generic'} = contents $_ for xml.&elems('regionFormat');
+
+    CLDR-Zones.parse:     (base<zones>     //= Hash), xml, 'zones'; # the zones are at this same level for some weird reason
+    CLDR-Metazones.parse: (base<metazones> //= Hash), xml, 'metazone';
 }
 #>>>>> # GENERATOR

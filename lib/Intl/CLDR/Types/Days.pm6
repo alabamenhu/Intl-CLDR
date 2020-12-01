@@ -38,4 +38,8 @@ method encode(\hash) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-DayContext.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('dayContext');
+}
 #>>>>> # GENERATOR

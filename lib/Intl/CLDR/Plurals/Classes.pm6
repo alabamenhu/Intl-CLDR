@@ -1,11 +1,11 @@
 class NumExt is export {
   has $.original;
-  has $.n; # absolute value
-  has $.i; # integer digits of $.n
-  has $.v; # count of visible fraction digits, with trailing zeros
-  has $.w; # count of visible fraction digits, without trailing zeros
-  has $.f; # visible fraction digits
-  has $.t; # visible fractional digits without trailing zeros
+  has $.n; #= absolute value
+  has $.i; #= integer digits of $.n
+  has $.v; #= count of visible fraction digits, with trailing zeros
+  has $.w; #= count of visible fraction digits, without trailing zeros
+  has $.f; #= visible fraction digits
+  has $.t; #= visible fractional digits without trailing zeros
   proto method new(|c) { * }
   multi method new(Numeric $original) { samewith $original.Str }
   multi method new(Str     $original) {
@@ -96,17 +96,17 @@ class Logic::Expression {
   has $.operand;
   has $.mod = Nil;
   method evaluate($x) {
-    if $.mod {
-      return $.operand.value($x) mod $.mod;
+    if $!mod {
+      return $!operand.value($x) mod $.mod;
     } else {
-      return $.operand.value($x)
+      return $!operand.value($x)
     }
   }
 }
 class Logic::Operand {
   has $.type;
   method value ($x) {
-    given $.type {
+    given $!type {
       when 'n' { $x.n }
       when 'i' { $x.i }
       when 'v' { $x.v }
@@ -118,13 +118,13 @@ class Logic::Operand {
 }
 class Logic::SingleValue {
   has $.value;
-  method equals(  $x) { $.value == $x }
-  method in-range($x) { $.value == $x }
+  method equals(  $x) { $!value == $x }
+  method in-range($x) { $!value == $x }
 }
 class Logic::RangeValue {
   has Range $.value;
-  method equals(  $x) { $.value == $x }
-  method in-range($x) { $x ∈ $.value}
+  method equals(  $x) { $!value == $x }
+  method in-range($x) { $x ∈ $!value}
 }
 
 class PluralAction is export {

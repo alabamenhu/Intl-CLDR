@@ -35,19 +35,19 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
-method encode(\hash) {
+method encode(%*dates) {
     my $result = buf8.new;
 
-    $result ~= CLDR-Calendars.encode:     hash<calendars>;
-    $result ~= CLDR-Fields.encode:        hash<fields>;
-    $result ~= CLDR-TimezoneNames.encode: hash<timeZoneNames>;
+    $result ~= CLDR-Calendars.encode:     %*dates<calendars>;
+    $result ~= CLDR-Fields.encode:        %*dates<fields>;
+    $result ~= CLDR-TimezoneNames.encode: %*dates<timeZoneNames>;
 
     $result
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    CLDR-Calendars.parse:     (base<calendars> // Hash.new), $_ with xml.&elem('calendars');
-    CLDR-Fields.parse:        (base<calendars> // Hash.new), $_ with xml.&elem('fields');
-    CLDR-TimezoneNames.parse: (base<calendars> // Hash.new), $_ with xml.&elem('timeZoneNames');
+    CLDR-Calendars.parse:     (base<calendars>     //= Hash.new), $_ with xml.&elem('calendars');
+    CLDR-Fields.parse:        (base<fields>        //= Hash.new), $_ with xml.&elem('fields');
+    CLDR-TimezoneNames.parse: (base<timeZoneNames> //= Hash.new), $_ with xml.&elem('timeZoneNames');
 }
 #>>>>> # GENERATOR

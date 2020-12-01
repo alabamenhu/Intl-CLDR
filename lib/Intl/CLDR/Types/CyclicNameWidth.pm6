@@ -102,4 +102,8 @@ method encode(\hash) {
     $result;
 
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    base{.<type>} = contents $_ for xml.&elems('cyclicName');
+}
 #>>>>> # GENERATOR

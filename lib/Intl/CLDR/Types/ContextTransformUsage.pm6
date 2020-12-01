@@ -50,7 +50,6 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*context-transform-usage) {
     my $result = buf8.new;
-    say %*context-transform-usage;
     use Intl::CLDR::Classes::StrEncode;
 
     $result ~= buf8.new: (%*context-transform-usage<uiListOrMenu> // '') eq 'titlecase-firstword' ?? 1 !! 0;

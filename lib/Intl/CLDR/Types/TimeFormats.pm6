@@ -48,4 +48,17 @@ method encode(%time-formats) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    for xml.&elems('timeFormatLength') {
+        # There should really only be one pattern.
+        # There isn't always (read: rarely if ever) a display name.
+        my $length = .<type>;
+        my $format = .&elem('timeFormat');
+
+        base{$length}<pattern>     = $format.&elem('pattern').&contents;
+        base{$length}<displayName> = $format.&elem('displayName').&contents;
+    }
+}
+
 #>>>>>#GENERATOR

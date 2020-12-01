@@ -60,4 +60,9 @@ method encode(%*cyclic-name-sets) {
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-CyclicNameSet.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('cyclicNameSet');
+}
+
 #>>>>> # GENERATOR

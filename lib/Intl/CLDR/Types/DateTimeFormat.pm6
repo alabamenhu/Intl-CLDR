@@ -22,13 +22,8 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     use Intl::CLDR::Classes::StrDecode;
 
-    loop {
-        my \code = blob[$offset++];
-        if    code == 1 { $!display-name = StrDecode.get: blob, $offset }
-        if    code == 2 { $!pattern      = StrDecode.get: blob, $offset }
-        elsif code == 0 { last                                                  }
-        else            { die "Unknown code {code} found when decoding DateTimeFormat element" }
-    }
+    $!display-name = StrDecode::get(blob, $offset);
+    $!pattern      = StrDecode::get(blob, $offset);
 
     self
 }

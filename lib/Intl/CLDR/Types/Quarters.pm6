@@ -38,4 +38,9 @@ method encode(%*quarters) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-QuarterContext.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('quarterContext');
+}
+
 #>>>>> # GENERATOR

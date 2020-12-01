@@ -102,8 +102,18 @@ method encode(%*fields) {
         $result ~= CLDR-Field.encode: (%*fields{$*field-type} // Hash);
     }
 
-    say "Length of dates: ", $result.elems;
-
     $result
+}
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    my \fields = Hash.new;
+    fields{$_<type>} = $_ for xml.&elems('field');
+
+    for <era quarter month week weekOfMonth day dayOfYear weekday weekdayOfMonth
+         sun mon tue wed thu fri sat dayperiod hour minute second zone> -> \type {
+        with fields{type} {
+            CLDR-Field.parse: (base{type} //= Hash.new), fields{type, "{type}-short", "{type}-narrow"}
+        }
+    }
 }
 #>>>>> # GENERATOR

@@ -41,6 +41,12 @@ method encode(%*zone) {
     $result ~= CLDR-ZoneWidth.encode(%*zone<long> // Hash);
     $result ~= CLDR-ZoneWidth.encode(%*zone<short> // Hash);
 
-    $result.append: 0
+    $result
+}
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    with xml.&elem('exemplarCity') { base<exemplarCity> = contents $_ }
+    with xml.&elem('short') { CLDR-ZoneWidth.parse: (base<short> //= Hash.new), $_ }
+    with xml.&elem('long' ) { CLDR-ZoneWidth.parse: (base<long>  //= Hash.new), $_ }
 }
 #>>>>> # GENERATOR

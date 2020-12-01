@@ -25,7 +25,6 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!stand-alone = CLDR-MonthPatternContext.new: blob, $offset, self;
     $!format      = CLDR-MonthPatternContext.new: blob, $offset, self;
     $!numeric     = CLDR-MonthPatternContext.new: blob, $offset, self;
-
     self
 }
 
@@ -44,4 +43,9 @@ method encode(%*month-patterns) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-MonthPatternContext.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('monthContext');
+}
+
 #>>>>>#GENERATOR

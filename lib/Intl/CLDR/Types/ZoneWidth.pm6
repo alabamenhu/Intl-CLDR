@@ -40,6 +40,12 @@ method encode(%*zone-width) {
     $result ~= StrEncode::get(%*zone-width<standard> // '');
     $result ~= StrEncode::get(%*zone-width<daylight> // '');
 
-    $result.append: 0
+    $result
+}
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    with xml.&elem('generic' ) { base<generic>  = contents $_ }
+    with xml.&elem('standard') { base<standard> = contents $_ }
+    with xml.&elem('daylight') { base<daylight> = contents $_ }
 }
 #>>>>> # GENERATOR

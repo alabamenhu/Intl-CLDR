@@ -16,9 +16,8 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     use Intl::CLDR::Classes::StrDecode;
 
-    loop {
-        my \code = blob[$offset++];
-        last if code == 0;
+    my $count = blob[$offset++];
+    for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
                 StrDecode::get(blob, $offset)
@@ -28,13 +27,27 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
-method encode(\hash) {
+method encode(%*formats) {
     use Intl::CLDR::Classes::StrEncode;
 
-    my buf8 $result = [~] do for hash.kv -> \key, \value {
-        StrEncode::get(key) ~ StrEncode::get(value)
-    } || buf8.new;
+    my $result = buf8.new;
 
-    $result.append: 0
+    my $format-count = %*formats.keys.elems;
+    die "Need to update AvailableFormats.pm6 to enable more than 255 items"
+        if $format-count > 255;
+
+    $result.append: $format-count;
+
+    for %*formats.kv -> \key, \value {
+        $result ~= StrEncode::get(key);
+        $result ~= StrEncode::get(value);
+    }
+
+    $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    base{.<id>} = contents $_ for xml.&elems('dateFormatItem')
+}
+
 #>>>>> # GENERATOR

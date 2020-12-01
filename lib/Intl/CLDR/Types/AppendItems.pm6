@@ -2,6 +2,13 @@ use Intl::CLDR::Immutability;
 
 unit class CLDR-AppendItems is CLDR-Item;
 
+###################################################
+# Some of these append items aren't in the wild   #
+# yet, but they are contemplated in the standard. #
+# So, e.g., the hour / minute will probably be    #
+# blank in most cases.                            #
+###################################################
+
 has $!parent;
 has Str $.era;
 has Str $.year;
@@ -17,7 +24,7 @@ has Str $.dayperiod;
 has Str $.hour;
 has Str $.minute;
 has Str $.second;
-has Str $.zone;
+has Str $.timezone;
 
 #| Creates a new CLDR-Dates object
 method new(|c) {
@@ -56,18 +63,27 @@ submethod !bind-init(\blob,uint64 $offset is rw, \parent) {
     self.Hash::BIND-KEY: 'Minute',           $!minute;
     self.Hash::BIND-KEY: 'second',           $!second;
     self.Hash::BIND-KEY: 'Second',           $!second;
-    self.Hash::BIND-KEY: 'zone',             $!zone;
-    self.Hash::BIND-KEY: 'Zone',             $!zone;
+    self.Hash::BIND-KEY: 'timezone',         $!timezone;
+    self.Hash::BIND-KEY: 'Timeone',          $!timezone;
 
-    loop {
-        my   \code  = blob[$offset++];
-        if    code == 1 { $! = StrDecode::get(blob, $offset) }
-        elsif code == 2 { $! = StrDecode::get(blob, $offset) }
-        elsif code == 3 { $! = StrDecode::get(blob, $offset) }
-        elsif code == 4 { $! = StrDecode::get(blob, $offset) }
-        elsif code == 0 { last                                                 }
-        else            { die "Unknown element {code} found when decoding DateFormats element" }
-    }
+
+    use Intl::CLDR::Classes::StrDecode;
+
+    $!era              = StrDecode::get(blob, $offset);
+    $!year             = StrDecode::get(blob, $offset);
+    $!quarter          = StrDecode::get(blob, $offset);
+    $!month            = StrDecode::get(blob, $offset);
+    $!week             = StrDecode::get(blob, $offset);
+    $!week-of-month    = StrDecode::get(blob, $offset);
+    $!day              = StrDecode::get(blob, $offset);
+    $!day-of-year      = StrDecode::get(blob, $offset);
+    $!weekday          = StrDecode::get(blob, $offset);
+    $!weekday-of-month = StrDecode::get(blob, $offset);
+    $!dayperiod        = StrDecode::get(blob, $offset);
+    $!hour             = StrDecode::get(blob, $offset);
+    $!minute           = StrDecode::get(blob, $offset);
+    $!second           = StrDecode::get(blob, $offset);
+    $!timezone         = StrDecode::get(blob, $offset);
 
     self
 }
@@ -75,14 +91,18 @@ submethod !bind-init(\blob,uint64 $offset is rw, \parent) {
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {
     use Intl::CLDR::Classes::StrEncode;
-    my buf8 $result = [~] do for hash.kv -> $_, \value {
-        when 'full'   { StrEncode.get(value).append: 1 }
-        when 'long'   { StrEncode.get(value).append: 2 }
-        when 'medium' { StrEncode.get(value).append: 3 }
-        when 'short'  { StrEncode.get(value).append: 4 }
-        default       { die "Unknown value passed to CLDR-DateFormats encoder" }
+
+    my $result = buf8.new;
+
+    for <Era Year Quarter Month Week Week-Of-Month Day Day-Of-Year Weekday Weekday-Of-Month Dayperiod Hour Minute Second Timezone> -> $type {
+        $result ~= StrEncode::get(hash{$type} // '');
     }
 
-    $result.append: 0
+    $result;
+
+}
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    base{.<request>} = contents $_ for xml.&elems('appendItem');
 }
 #>>>>>#GENERATOR

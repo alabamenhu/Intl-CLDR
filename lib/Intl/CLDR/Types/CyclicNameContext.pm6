@@ -43,4 +43,8 @@ method encode(%*cyclic-name-width) {
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-CyclicNameWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('cyclicNameWidth');
+}
 #>>>>> # GENERATOR

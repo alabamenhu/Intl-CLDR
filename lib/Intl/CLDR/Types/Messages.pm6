@@ -29,8 +29,6 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*messages) {
     use Intl::CLDR::Classes::StrEncode;
-    say %*messages;
-
     my
     $result  = buf8.new;
     $result ~= StrEncode::get(%*messages<yesstr> // '');

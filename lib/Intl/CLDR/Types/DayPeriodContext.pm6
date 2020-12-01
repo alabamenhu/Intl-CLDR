@@ -42,4 +42,8 @@ method encode(%*day-period-context --> blob8) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-DayPeriodWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('dayPeriodWidth');
+}
 #>>>>> # GENERATOR

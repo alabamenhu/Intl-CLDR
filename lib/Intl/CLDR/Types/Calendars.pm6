@@ -100,4 +100,10 @@ method encode(%*calendars) {
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-Calendar.parse: (base{.<type>} //= Hash.new ), $_ for xml.&elems('calendar')
+}
+
+
 #>>>>> # GENERATOR

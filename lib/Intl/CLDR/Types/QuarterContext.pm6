@@ -42,4 +42,9 @@ method encode(\hash) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-QuarterWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('quarterWidth');
+}
+
 #>>>>> # GENERATOR

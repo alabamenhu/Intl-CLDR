@@ -38,4 +38,9 @@ method encode(%*day-periods) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-DayPeriodContext.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('dayPeriodContext');
+}
+
 #>>>>> # GENERATOR

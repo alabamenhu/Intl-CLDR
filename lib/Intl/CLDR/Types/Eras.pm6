@@ -41,4 +41,10 @@ method encode(%*eras) {
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-EraWidth.parse: (base<eraNames>  //= Hash.new), $_ with xml.&elem('eraNames');
+    CLDR-EraWidth.parse: (base<eraAbbr>   //= Hash.new), $_ with xml.&elem('eraAbbr');
+    CLDR-EraWidth.parse: (base<eraNarrow> //= Hash.new), $_ with xml.&elem('eraNarrow');
+}
 #>>>>> # GENERATOR

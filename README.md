@@ -104,6 +104,13 @@ method encode(%*foo --> buf8) {
 
 Before distribution, the `parse` and `encode` functions will be commented out, as they are not intended for end user use, but make more sense to be packaged with each class for general maintenance / development.
 
+## Other thoughts
+
+Because CLDR is designed to be stable, they have had to make some odd design choices for legacy compatibility.
+An obvious example of this is the `<codePatterns>` vs `<localeDisplayPattern>` that really logically should go together.
+This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
+The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient method of accessing things (e.g. `calendar.formats<time date datetime interval>`)
+
 # Version History
   * 0.5β
     * Redesigned data structure, and it's all about speed

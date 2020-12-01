@@ -80,4 +80,16 @@ method encode(%*field-width) {
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    for xml.&elems('relative') -> \elem {
+        base{elem<type>} = elem.&contents;
+    }
+    with xml.&elem('displayName', :ignore-alt) {
+        base<displayName> = contents $_;
+    }
+    for xml.&elems('relativeTimePattern') -> \elem {
+        CLDR-RelativeTime.parse: (base{elem<type>} //= Hash.new), elem
+    }
+}
 #>>>>> # GENERATOR

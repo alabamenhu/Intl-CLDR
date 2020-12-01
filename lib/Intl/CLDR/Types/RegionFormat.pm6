@@ -40,6 +40,6 @@ method encode(%*region-format) {
     $result ~= StrEncode::get(%*region-format<standard> // '');
     $result ~= StrEncode::get(%*region-format<daylight> // '');
 
-    $result.append: 0
+    $result
 }
 #>>>>> # GENERATOR

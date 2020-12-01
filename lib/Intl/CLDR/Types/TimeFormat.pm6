@@ -56,4 +56,7 @@ method encode(\hash) {
 
     $result
 }
+method parse(\base, \xml) {
+    # currently handled in TimeFormats.pm6
+}
 #>>>>> # GENERATOR

@@ -47,4 +47,9 @@ method encode(%*month-pattern-contexts) {
 
     $result;
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-MonthPatternWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('monthWidth');
+}
+
 #>>>>> # GENERATOR

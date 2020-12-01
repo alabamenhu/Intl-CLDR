@@ -39,14 +39,16 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     use Intl::CLDR::Classes::StrDecode;
 
+    my $foo = $offset;
+
     $!full                      = CLDR-DateTimeFormat.new:   blob, $offset, self;
     $!long                      = CLDR-DateTimeFormat.new:   blob, $offset, self;
     $!medium                    = CLDR-DateTimeFormat.new:   blob, $offset, self;
     $!short                     = CLDR-DateTimeFormat.new:   blob, $offset, self;
-    $!available-formats         = CLDR-AvailableFormats.new: blob, $offset, self;
-    $!append-items              = CLDR-AppendItems.new:      blob, $offset, self;
-    $!interval-formats          = CLDR-IntervalFormats.new:  blob, $offset, self;
-    $!interval-fallback-format  = StrDecode::get(            blob, $offset);
+    #$!available-formats         = CLDR-AvailableFormats.new: blob, $offset, self;
+    #$!append-items              = CLDR-AppendItems.new:      blob, $offset, self;
+    #$!interval-formats          = CLDR-IntervalFormats.new:  blob, $offset, self;
+    #$!interval-fallback-format  = StrDecode::get(            blob, $offset);
 
     self
 }
@@ -60,17 +62,17 @@ method encode(%*datetime-formats) {
     my $*datetime-format-width;
 
     $*datetime-format-width = 'full';
-    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<full>;
+    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<full> // Hash;
     $*datetime-format-width = 'long';
-    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<long>;
+    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<long> // Hash;
     $*datetime-format-width = 'medium';
-    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<medium>;
+    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<medium> // Hash;
     $*datetime-format-width = 'short';
-    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<short>;
+    $result ~= CLDR-DateTimeFormat.encode: %*datetime-formats<short> // Hash;
 
-    $result ~= CLDR-AvailableFormats.encode: %*datetime-formats<availableFormats>;
-    $result ~= CLDR-AppendItems.encode:      %*datetime-formats<appendItems>;
-    $result ~= CLDR-IntervalFormats.encode:  %*datetime-formats<intervalFormats>;
+    #$result ~= CLDR-AvailableFormats.encode: %*datetime-formats<availableFormats> // Hash;
+    #$result ~= CLDR-AppendItems.encode:      %*datetime-formats<appendItems> // Hash;
+    #$result ~= CLDR-IntervalFormats.encode:  %*datetime-formats<intervalFormats> // Hash;
 
 
     sub fallback {
@@ -91,8 +93,26 @@ method encode(%*datetime-formats) {
     }
 
     # This still needs calendar-based fallbacks to occur
-    $result ~= StrEncode::get( fallback );
+    #$result ~= StrEncode::get( fallback() || '');
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    for xml.&elems('dateTimeFormatLength') {
+        # There should really only be one pattern.
+        # There isn't always (read: rarely if ever) a display name.
+        my $length = .<type>;
+        my $format = .&elem('dateTimeFormat');
+
+        base{$length}<pattern>     = $format.&elem('pattern').&contents;
+        base{$length}<displayName> = $format.&elem('displayName').&contents;
+    }
+
+    CLDR-AvailableFormats.parse: (base<availableFormats> //= Hash.new), $_ with xml.&elem('availableFormats');
+    CLDR-AppendItems.parse:      (base<appendItems>      //= Hash.new), $_ with xml.&elem('appendItems');
+    CLDR-IntervalFormats.parse:  (base<intervalFormats>  //= Hash.new), $_ with xml.&elem('intervalFormats');
+    base<intervalFormatFallback> = contents $_ with xml.&elem('intervalFormats').&elem('intervalFormatFallback');
+}
+
 #>>>>>#GENERATOR

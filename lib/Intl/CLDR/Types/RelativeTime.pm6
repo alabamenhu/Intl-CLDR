@@ -60,4 +60,11 @@ method encode(%relative-time) {
 
     $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    for xml.&elems('relativeTimePattern') -> \pattern {
+        base{pattern<count>} = pattern.&contents;
+    }
+}
+
 #>>>>> # GENERATOR

@@ -17,12 +17,12 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     use Intl::CLDR::Classes::StrDecode;
 
-    loop {
-        my \code = blob[$offset++];
-        last if code == 0;
+    my $count = blob[$offset++];
+
+    for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
-                CLDR-Zone.new(blob, $offset)
+                CLDR-Zone.new(blob, $offset, self)
     }
 
     self
@@ -33,10 +33,21 @@ method encode(\hash) {
     use Intl::CLDR::Classes::StrEncode;
     use Intl::CLDR::Types::Zone;
 
-    my buf8 $result = [~] do for hash.kv -> \tzname, \value {
-        StrEncode::get(tzname) ~ CLDR-Zone.encode(value)
-    } || buf8.new;
+    my $count = hash.keys.elems;
+    my $result = buf8.new;
 
-    $result.append: 0
+    die "Add capacity for 255+ items in Metazones.pm6" if $count > 255;
+    $result.append: $count;
+
+    for hash.kv -> \tzname, \value {
+        $result ~= StrEncode::get(tzname);
+        $result ~= CLDR-Zone.encode(value);
+    };
+
+    $result
+}
+method parse(\base, \xml, \zone-type) {
+    use Intl::CLDR::Util::XML-Helper;
+    CLDR-Zone.parse: (base{$_<type>} //= Hash.new), $_ for xml.&elems(zone-type);
 }
 #>>>>> # GENERATOR

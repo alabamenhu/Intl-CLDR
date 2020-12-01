@@ -1,8 +1,8 @@
 use Intl::CLDR::Immutability;
 
-use Intl::CLDR::Types::IntervalFormat;
 
 unit class CLDR-IntervalFormats is CLDR-Item;
+use Intl::CLDR::Types::IntervalFormat;
 
 has $!parent; #= The CLDR-DateTimeFormats that contains this CLDR-IntervalFormats
 
@@ -18,12 +18,11 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     use Intl::CLDR::Classes::StrDecode;
 
-    loop {
-        my \code = blob[$offset++];
-        last if code == 0;
+    my $count = blob[$offset++];
+    for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
-                CLDR-IntervalFormat.new(blob, $offset)
+                CLDR-IntervalFormat.new(blob, $offset,self)
     }
 
     self
@@ -33,10 +32,27 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 method encode(\hash) {
     use Intl::CLDR::Classes::StrEncode;
 
-    my buf8 $result = [~] do for hash.kv -> \key, \value {
-        StrEncode::get(key) ~ CLDR-IntervalFormat.encode(value)
-    } || buf8.new;
+    my $result = buf8.new;
+    my $format-count = hash.keys.elems;
 
-    $result.append: 0
+    die "Need to update AvailableFormats.pm6 to enable more than 255 items"
+        if $format-count > 255;
+
+    $result.append: $format-count;
+
+    for hash<formats>.kv -> \key, \value {
+        $result ~= StrEncode::get(key // '');
+        $result ~= CLDR-IntervalFormat.encode(value // '');
+    }
+
+    state $a = 0;
+
+    $result
 }
+method parse(\base, \xml) {
+    use Intl::CLDR::Util::XML-Helper;
+    base<fallback> = contents $_ with xml.&elem('intervalFormatFallback');
+    CLDR-IntervalFormat.parse: (base<formats>{.<id>} //= Hash.new), $_ for xml.&elems('intervalFormatItem')
+}
+
 #>>>>> # GENERATOR

@@ -31,75 +31,52 @@ Each new type object (in `Int::CLDR::Types::`) has roughly the same format:
 ```raku 
 use Intl::CLDR::Inmutability; # this name will change
 
-unit class CLDR-Foo is CLDR-Item; # CLDR-Item provides the hash/attribute fusion.
+unit class CLDR-Foo is CLDR-Item;
 
-has $!parent; # this may ultimately be unnecessary
-has CLDR-Bar    $.foo;    # attributes (subelements), always scalar
-has CLDR-XyzSet $.xyz;
-has Str         $.str;
+has $!parent;
+has $.attribute;
+has $.attribute;
 
 # Hash subclasses can't use BUILD or TWEAK, so we set up here
 method new(|c) { self.bless!bind-init: |c }
 
+# using !bind-init is a holdover from when all CLDR objects were 
+# hashes and could not access the BUILD phase.
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     use Intl::CLDR::Classes::StrDecode; 
     
-    self.Hash::BIND-KEY: 'bar',              $!foo;
-    self.Hash::BIND-KEY: 'barAlternateName', $!foo;
-    self.Hash::BIND-KEY: 'xyz',              $!bar;
-    self.Hash::BIND-KEY: 'xyzWeirdCase',     $!bar;
-    self.Hash::BIND-KEY: 'str',              $!bar;
-
-    # Leaf operations will advance the offset so
-    # it rarely needs to be manually adjusted
-    $!foo = CLDR-Bar.new: blob, $offset, self;
-    $!foo = CLDR-XyzSet.new: blob, $offset, self;
-    $!str = StrDecode::get( blob, $offset );
+    # read data here
+    $.attribute = StrDecode::get(blob, $offset);
     
-    # must return self (sadly can't do it via --> self in signature)
     self
 }
+
+# Not all classes use this, but CLDR is inconsistent on capitalization 
+# so we enable fallbacks so users can be self-consistent.  The method
+# is needed, but the constant makes for easier maintenance.
+constant detour = Map.new: (altAttributeName => 'attribute');
+method DETOUR (--> detour) {}
 
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
    
     # the base is a Hash and xml is an XML object from the XML module.
-    # parsing is fairly open ended, but the most common formats are
-   
-    # single subelement:
-    CLDR-Bar.parse: (base<foo> //= Hash.new), $_ with xml.&elem('foo');
-   
-    # for > 1 element that are distinguished by type and loaded in a collection object
-    CLDR-XyzSet.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('xyz');
-   
-    # for terminal (stringy) elements, generally use contents:
-    base<str> = contents $_ with xml.&elem('str');
-   
-    # the with/for avoid overwriting values when they aren't defined --
-    # this method will be called several times to produce a file, once
-    # for 'root', once for the top level language, once for the script 
-    # (if specified) and once for the region (and possibly even the variant).
-   
-    # no return is necessary
+    # parsing is fairly open ended, but ideally, each parse phase does
+    # only what is at its level and passing off deeper work to other
+    # classes. There are a few execptions, always noted and explained.
 }
+
 method encode(%*foo --> buf8) { 
     # a dynamic variable is normally used, in case fallbacks need to refer back
     use Intl::CLDR::Classes::StrEncode;
     
     my $result = buf8.new;
     
-    # each element is blobby concatted, and fallbacks should be calculated here
-    # the norm is for each encode method to take a single hash, but some may 
-    # ocassionally vary from this norm
-    $result ~= CLDR-Bar.encode:    %*foo<foo> // Hash;
-    $result ~= CLDR-XyzSet.encode: %*foo<xyz> // Hash;
-    $result ~= StrEncode::get(     
-                    %*foo<str> // 
-                    %*foo-parent<foo-fallback><str> // 
-                    '' # ideally this should never be reached
-               );
+    # Generally the 'base' that was produced will be passed in here. 
+    # The data should be stored in a binary serial format to be recovered
+    # in the !bind-init method.
                
-    $result # to be concatted with the parent's blob
+    $result
 }
 ```
 

@@ -1,8 +1,9 @@
-# CLDR for Raku (née Perl 6)
+![The Cippi of Melqart with a white butterfly resting atop the words Intl::CLDR for Raku](docs/logo.png)
 
+# Intl::CLDR
 An attempt to bring in the data from CLDR into Raku.
  
-This branch (zoom-zoom) aims to maintain functionality but vastly improve performance, both
+This branch (*zoom-zoom*) aims to maintain functionality but vastly improve performance, both
 mainly from a speed perspective, but also improves memory efficiency and will aide long term maintenance.
 
 There have been slight API changes from the old branch, so as noted before, if using, please

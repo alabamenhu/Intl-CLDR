@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 
-unit class CLDR-IntervalFormats is CLDR-Item;
+unit class CLDR-IntervalFormats is CLDR-ItemNew is CLDR-Unordered;
 use Intl::CLDR::Types::IntervalFormat;
 
 has $!parent; #= The CLDR-DateTimeFormats that contains this CLDR-IntervalFormats
@@ -19,6 +19,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++];
+
     for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
@@ -29,23 +30,21 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
-method encode(\hash) {
+method encode(%*interval-formats) {
     use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;
-    my $format-count = hash.keys.elems;
+    my $format-count = %*interval-formats<formats>.keys.elems;
 
     die "Need to update AvailableFormats.pm6 to enable more than 255 items"
         if $format-count > 255;
 
     $result.append: $format-count;
 
-    for hash<formats>.kv -> \key, \value {
+    for %*interval-formats<formats>.kv -> \key, \value {
         $result ~= StrEncode::get(key // '');
         $result ~= CLDR-IntervalFormat.encode(value // '');
     }
-
-    state $a = 0;
 
     $result
 }

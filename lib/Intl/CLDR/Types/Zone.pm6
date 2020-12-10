@@ -1,9 +1,8 @@
 use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::ZoneWidth;
 
-unit class CLDR-Zone is CLDR-Item;
+unit class CLDR-Zone is CLDR-ItemNew;
 
-has                $!parent; #= The CLDR-Zone or CLDR-MetaZone that contains this CLDR-Zone
 has Str            $.exemplar-city;
 has CLDR-ZoneWidth $.long;
 has CLDR-ZoneWidth $.short;
@@ -13,23 +12,21 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'exemplar-city',    $!exemplar-city;
-    self.Hash::BIND-KEY: 'exemplarCity',     $!exemplar-city;
-    self.Hash::BIND-KEY: 'long',       $!long;
-    self.Hash::BIND-KEY: 'short',      $!short;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 
     $!exemplar-city  = StrDecode::get(     blob, $offset);
-    $!long           = CLDR-ZoneWidth.new: blob, $offset, self;
-    $!short          = CLDR-ZoneWidth.new: blob, $offset, self;
+    $!long           = CLDR-ZoneWidth.new: blob, $offset;
+    $!short          = CLDR-ZoneWidth.new: blob, $offset;
 
     self
 }
 
+constant \detour = Map.new: (
+    exemplarCity => 'exemplar-city'
+);
+method DETOUR (--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*zone) {
@@ -45,7 +42,7 @@ method encode(%*zone) {
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    with xml.&elem('exemplarCity') { base<exemplarCity> = contents $_ }
+    with xml.&elem('exemplarCity', :ignore-alt) { base<exemplarCity> = contents $_ }
     with xml.&elem('short') { CLDR-ZoneWidth.parse: (base<short> //= Hash.new), $_ }
     with xml.&elem('long' ) { CLDR-ZoneWidth.parse: (base<long>  //= Hash.new), $_ }
 }

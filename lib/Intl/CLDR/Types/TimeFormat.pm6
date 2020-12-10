@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-TimeFormat is CLDR-Item;
+unit class CLDR-TimeFormat is CLDR-ItemNew;
 
 
 has     $!parent;         #= The CLDR-DateFormats object containing this CLDR-DateFormat
@@ -16,10 +16,6 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    self.Hash::BIND-KEY: 'display-name', $!display-name;
-    self.Hash::BIND-KEY: 'displayName',  $!display-name;
-    self.Hash::BIND-KEY: 'pattern',      $!pattern;
-
     use Intl::CLDR::Util::StrDecode;
 
     $!display-name = StrDecode::get(blob, $offset);
@@ -27,6 +23,9 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     self
 }
+constant detour = Map.new: (
+    displayName => 'display-name'
+);
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {

@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-TimeFormats is CLDR-Item;
+unit class CLDR-TimeFormats is CLDR-ItemNew;
 
 use Intl::CLDR::Types::TimeFormat;
 
@@ -17,11 +17,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'full',   $!full;
-    self.Hash::BIND-KEY: 'long',   $!long;
-    self.Hash::BIND-KEY: 'medium', $!medium;
-    self.Hash::BIND-KEY: 'short',  $!short;
 
     $!full   = CLDR-TimeFormat.new: blob, $offset, self;
     $!long   = CLDR-TimeFormat.new: blob, $offset, self;
@@ -56,7 +51,7 @@ method parse(\base, \xml) {
         my $length = .<type>;
         my $format = .&elem('timeFormat');
 
-        base{$length}<pattern>     = $format.&elem('pattern').&contents;
+        base{$length}<pattern>     = $format.&elem('pattern', :ignore-alt).&contents; # wtf nn
         base{$length}<displayName> = $format.&elem('displayName').&contents;
     }
 }

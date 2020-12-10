@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-Posix is CLDR-Item;
+unit class CLDR-Posix is CLDR-ItemNew;
 
 use Intl::CLDR::Types::Messages;
 
@@ -12,12 +12,8 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'messages', $!messages;
-    $!messages = CLDR-Messages.new: blob, $offset, self;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
+    $!messages = CLDR-Messages.new: blob, $offset;
     self
 }
 

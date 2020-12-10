@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 
-unit class CLDR-DayPeriodWidth is CLDR-Item;
+unit class CLDR-DayPeriodWidth is CLDR-ItemNew;
 
 has $!parent;
 has Str $.noon;       #= The special name of 12:00 noon
@@ -24,19 +24,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'am',         $!am;
-    self.Hash::BIND-KEY: 'pm',         $!pm;
-    self.Hash::BIND-KEY: 'noon',       $!noon;
-    self.Hash::BIND-KEY: 'midnight',   $!midnight;
-    self.Hash::BIND-KEY: 'morning1',   $!morning1;
-    self.Hash::BIND-KEY: 'morning2',   $!morning2;
-    self.Hash::BIND-KEY: 'afternoon1', $!afternoon1;
-    self.Hash::BIND-KEY: 'afternoon2', $!afternoon2;
-    self.Hash::BIND-KEY: 'evening1',   $!evening1;
-    self.Hash::BIND-KEY: 'evening2',   $!evening2;
-    self.Hash::BIND-KEY: 'night1',     $!night1;
-    self.Hash::BIND-KEY: 'night2',     $!night2;
 
     use Intl::CLDR::Util::StrDecode;
 

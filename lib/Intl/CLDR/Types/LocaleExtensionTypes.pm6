@@ -10,7 +10,7 @@
 
 use Intl::CLDR::Immutability;
 
-unit class CLDR-LocaleExtensionTypes is CLDR-Item;
+unit class CLDR-LocaleExtensionTypes is CLDR-ItemNew is CLDR-Unordered;
 
 has $!parent;
 

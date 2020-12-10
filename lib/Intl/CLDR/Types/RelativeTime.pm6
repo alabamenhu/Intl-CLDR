@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-RelativeTime is CLDR-Item;
+unit class CLDR-RelativeTime is CLDR-ItemNew;
 
 
 has     $!parent; #= The CLDR-FieldWidth object containing this CLDR-RelativeTime
@@ -17,15 +17,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'zero',  $!zero;
-    self.Hash::BIND-KEY: 'one',   $!one;
-    self.Hash::BIND-KEY: 'two',   $!two;
-    self.Hash::BIND-KEY: 'few',   $!few;
-    self.Hash::BIND-KEY: 'many',  $!many;
-    self.Hash::BIND-KEY: 'other', $!other;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 

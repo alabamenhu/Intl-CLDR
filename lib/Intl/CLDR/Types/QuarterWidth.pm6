@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-QuarterWidth is CLDR-Ordered is CLDR-Item;
+unit class CLDR-QuarterWidth is CLDR-Ordered is CLDR-ItemNew;
 
 has                 $!parent;
 
@@ -15,16 +15,10 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     use Intl::CLDR::Util::StrDecode;
 
     for 1..4 -> \id {
-        my \text = StrDecode::get(blob, $offset);
-        self.Array::BIND-POS: id, text;
-        self.Hash::BIND-KEY:  id, text;
+        self.Array::BIND-POS: id, StrDecode::get(blob, $offset);;
     }
 
     self
-}
-
-multi method AT-POS(\pos, :$leap!) {
-    self.Array::AT-POS(pos + 128)
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

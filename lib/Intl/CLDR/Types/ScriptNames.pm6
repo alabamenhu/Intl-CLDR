@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-ScriptNames is CLDR-Item;
+unit class CLDR-ScriptNames is CLDR-ItemNew is CLDR-Unordered;
 
 has $!parent;
 

@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-ContextTransformUsage is CLDR-Item;
+unit class CLDR-ContextTransformUsage is CLDR-ItemNew;
 
 enum Type (
     no-change            => 0,
@@ -22,14 +22,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'ui-list-or-menu', $!ui-list-or-menu;
-    self.Hash::BIND-KEY: 'uiListOrMenu',    $!ui-list-or-menu;
-    self.Hash::BIND-KEY: 'stand-alone',     $!stand-alone;
-    self.Hash::BIND-KEY: 'standAlone',      $!stand-alone;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
     # If more options are needed, can create the enum
@@ -45,6 +38,11 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     self
 }
+constant detour = Map.new: (
+   uiListOrMenu => 'ui-list-or-menu',
+   standAlone   => 'stand-alone'
+);
+method DETOUR (--> detour) {;}
 
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

@@ -1,8 +1,8 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-MonthWidth is CLDR-Ordered is CLDR-Item;
+unit class CLDR-MonthWidth is CLDR-Ordered is CLDR-ItemNew;
 
-has                 $!parent;
+has $!parent;
 
 #| Creates a new CLDR-MonthContext object
 method new(|c) {
@@ -12,20 +12,10 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    #loop {
-    #    my \code = blob[$offset++];
-    #    last if code == 0;
-    #
-    #    my \text = StrDecode::get(blob, $offset);
-    #    self.Array::BIND-POS: code.Int, text;
-    #    self.Hash::BIND-KEY:  code,     text;
-    #}
     use Intl::CLDR::Util::StrDecode;
 
     for 1 .. 13 -> \id {
-        my \text = StrDecode::get(blob, $offset);
-        self.Array::BIND-POS: id, text;
-        self.Hash::BIND-KEY:  id, text;
+        self.Array::BIND-POS: id, StrDecode::get(blob, $offset);;
     }
 
     self

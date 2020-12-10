@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-TerritoryNames is CLDR-Item;
+unit class CLDR-TerritoryNames is CLDR-ItemNew is CLDR-Unordered;
 
 has $!parent;
 

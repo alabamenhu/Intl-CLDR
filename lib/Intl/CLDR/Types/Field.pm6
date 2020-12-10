@@ -3,7 +3,7 @@ use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::FieldWidth;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-Field is CLDR-Item;
+unit class CLDR-Field is CLDR-ItemNew;
 
 
 has                 $!parent;         #= The CLDR-Dates object containing this CLDR-Fields
@@ -16,19 +16,17 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
-    self.Hash::BIND-KEY: 'standard', $!standard;
-    self.Hash::BIND-KEY: 'short',    $!short;
-    self.Hash::BIND-KEY: 'narrow',   $!narrow;
-
-    $!standard = CLDR-FieldWidth.new: blob, $offset, self;
-    $!short    = CLDR-FieldWidth.new: blob, $offset, self;
-    $!narrow   = CLDR-FieldWidth.new: blob, $offset, self;
+    $!standard = CLDR-FieldWidth.new: blob, $offset;
+    $!short    = CLDR-FieldWidth.new: blob, $offset;
+    $!narrow   = CLDR-FieldWidth.new: blob, $offset;
 
     self
 }
+
+constant \detour = Map.new;
+method DETOUR(--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*field) {

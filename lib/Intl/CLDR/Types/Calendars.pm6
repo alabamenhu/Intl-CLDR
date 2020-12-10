@@ -3,9 +3,8 @@ use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::Calendar;
 
 #| A container class holding CLDR's <calendar> elements.
-unit class CLDR-Calendars is CLDR-Item;
+unit class CLDR-Calendars is CLDR-ItemNew;
 
-has               $!parent;               #= The CLDR-Dates that holds this CLDR-Calendars
 has CLDR-Calendar $.buddhist;             #= Buddhist calendar data
 has CLDR-Calendar $.chinese;              #= Chinese calendar data
 has CLDR-Calendar $.coptic;               #= Coptic calendar data
@@ -30,46 +29,26 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'buddhist',            $!buddhist;
-    self.Hash::BIND-KEY: 'chinese',             $!chinese;
-    self.Hash::BIND-KEY: 'coptic',              $!coptic;
-    self.Hash::BIND-KEY: 'dangi',               $!dangi;
-    self.Hash::BIND-KEY: 'ethiopic',            $!ethiopic;
-    self.Hash::BIND-KEY: 'ethiopic-amete-alem', $!ethiopic-amete-alem;
-    self.Hash::BIND-KEY: 'generic',             $!generic;
-    self.Hash::BIND-KEY: 'gregorian',           $!gregorian;
-    self.Hash::BIND-KEY: 'hebrew',              $!hebrew;
-    self.Hash::BIND-KEY: 'indian',              $!indian;
-    self.Hash::BIND-KEY: 'islamic',             $!islamic;
-    self.Hash::BIND-KEY: 'islamic-civil',       $!islamic-civil;
-    self.Hash::BIND-KEY: 'islamic-rgsa',        $!islamic-rgsa;
-    self.Hash::BIND-KEY: 'islamic-tbla',        $!islamic-tbla;
-    self.Hash::BIND-KEY: 'islamic-umalqura',    $!islamic-umalqura;
-    self.Hash::BIND-KEY: 'japanese',            $!japanese;
-    self.Hash::BIND-KEY: 'persian',             $!persian;
-    self.Hash::BIND-KEY: 'roc',                 $!roc;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     # Note the order used in encoding, offset automatically advances
-    $!buddhist         = CLDR-Calendar.new: blob, $offset, self;
-    $!chinese          = CLDR-Calendar.new: blob, $offset, self;
-    $!coptic           = CLDR-Calendar.new: blob, $offset, self;
-    $!dangi            = CLDR-Calendar.new: blob, $offset, self;
-    $!ethiopic         = CLDR-Calendar.new: blob, $offset, self;
-    $!ethiopic-amete-alem = CLDR-Calendar.new: blob, $offset, self;
-    $!gregorian        = CLDR-Calendar.new: blob, $offset, self;
-    $!hebrew           = CLDR-Calendar.new: blob, $offset, self;
-    $!indian           = CLDR-Calendar.new: blob, $offset, self;
-    $!islamic          = CLDR-Calendar.new: blob, $offset, self;
-    $!islamic-civil    = CLDR-Calendar.new: blob, $offset, self;
-    $!islamic-rgsa     = CLDR-Calendar.new: blob, $offset, self;
-    $!islamic-tbla     = CLDR-Calendar.new: blob, $offset, self;
-    $!islamic-umalqura = CLDR-Calendar.new: blob, $offset, self;
-    $!japanese         = CLDR-Calendar.new: blob, $offset, self;
-    $!persian          = CLDR-Calendar.new: blob, $offset, self;
-    $!roc              = CLDR-Calendar.new: blob, $offset, self;
+    $!buddhist         = CLDR-Calendar.new: blob, $offset;
+    $!chinese          = CLDR-Calendar.new: blob, $offset;
+    $!coptic           = CLDR-Calendar.new: blob, $offset;
+    $!dangi            = CLDR-Calendar.new: blob, $offset;
+    $!ethiopic         = CLDR-Calendar.new: blob, $offset;
+    $!ethiopic-amete-alem = CLDR-Calendar.new: blob, $offset;
+    $!gregorian        = CLDR-Calendar.new: blob, $offset;
+    $!hebrew           = CLDR-Calendar.new: blob, $offset;
+    $!indian           = CLDR-Calendar.new: blob, $offset;
+    $!islamic          = CLDR-Calendar.new: blob, $offset;
+    $!islamic-civil    = CLDR-Calendar.new: blob, $offset;
+    $!islamic-rgsa     = CLDR-Calendar.new: blob, $offset;
+    $!islamic-tbla     = CLDR-Calendar.new: blob, $offset;
+    $!islamic-umalqura = CLDR-Calendar.new: blob, $offset;
+    $!japanese         = CLDR-Calendar.new: blob, $offset;
+    $!persian          = CLDR-Calendar.new: blob, $offset;
+    $!roc              = CLDR-Calendar.new: blob, $offset;
 
     self
 }

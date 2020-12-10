@@ -1,9 +1,8 @@
 use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::Zone;
 
-unit class CLDR-Metazones is CLDR-Item;
+unit class CLDR-Metazones is CLDR-Item is CLDR-Unordered;
 
-has $!parent; #= The CLDR-TimezoneNames that contains this CLDR-Metazones
 #! Because names are not stable, no other attributes:
 #!   hashy access is required)
 
@@ -12,8 +11,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 
@@ -22,7 +20,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
-                CLDR-Zone.new(blob, $offset, self)
+                CLDR-Zone.new(blob, $offset)
     }
 
     self

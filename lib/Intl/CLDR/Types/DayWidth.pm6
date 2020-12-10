@@ -1,17 +1,15 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-DayWidth is CLDR-Item;
+unit class CLDR-DayWidth is CLDR-ItemNew;
 
 has     $!parent;
-has Str $.sun;
-has Str $.mon;
-has Str $.tue;
-has Str $.wed;
-has Str $.thu;
-has Str $.fri;
-has Str $.sat;
-
-
+has Str $.sun; #= Sunday
+has Str $.mon; #= Monday
+has Str $.tue; #= Tuesday
+has Str $.wed; #= Wednesday
+has Str $.thu; #= Thursday
+has Str $.fri; #= Friday
+has Str $.sat; #= Saturday
 
 #| Creates a new CLDR-DayWidth object
 method new(|c) {
@@ -20,14 +18,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'sun', $!sun;
-    self.Hash::BIND-KEY: 'mon', $!mon;
-    self.Hash::BIND-KEY: 'tue', $!tue;
-    self.Hash::BIND-KEY: 'wed', $!wed;
-    self.Hash::BIND-KEY: 'thu', $!thu;
-    self.Hash::BIND-KEY: 'fri', $!fri;
-    self.Hash::BIND-KEY: 'sat', $!sat;
 
     use Intl::CLDR::Util::StrDecode;
 
@@ -41,6 +31,16 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     self
 }
+constant detour = Map.new: (
+    sunday    => 'sun',
+    monday    => 'mon',
+    tuesday   => 'tue',
+    wednesday => 'wed',
+    thursday  => 'thu',
+    friday    => 'fri',
+    saturday  => 'sat'
+);
+method DETOUR (-->detour) {;}
 
 multi method AT-POS(\pos, :$leap!) {
     self.Array::AT-POS(pos + 128)

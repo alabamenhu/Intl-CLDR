@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-AvailableFormats is CLDR-Item;
+unit class CLDR-AvailableFormats is CLDR-Item is CLDR-Unordered;
 
 has $!parent; #= The CLDR-DateTimeFormats that contains this CLDR-AvailableFormats
 
@@ -17,6 +17,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++];
+
     for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),

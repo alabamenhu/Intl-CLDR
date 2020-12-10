@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-MonthPatterns is CLDR-Item;
+unit class CLDR-MonthPatterns is CLDR-ItemNew;
 
 use Intl::CLDR::Types::MonthPatternContext;
 
@@ -17,16 +17,15 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    self.Hash::BIND-KEY: 'stand-alone', $!stand-alone;
-    self.Hash::BIND-KEY: 'standAlone',  $!stand-alone;
-    self.Hash::BIND-KEY: 'format',      $!format;
-    self.Hash::BIND-KEY: 'numeric',     $!numeric;
-
     $!stand-alone = CLDR-MonthPatternContext.new: blob, $offset, self;
     $!format      = CLDR-MonthPatternContext.new: blob, $offset, self;
     $!numeric     = CLDR-MonthPatternContext.new: blob, $offset, self;
     self
 }
+constant detour = Map.new: (
+    standAlone => 'stand-alone'
+);
+method DETOUR (-->detour) {;}
 
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*month-patterns) {

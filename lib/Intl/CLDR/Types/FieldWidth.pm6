@@ -3,7 +3,7 @@ use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::RelativeTime;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-FieldWidth is CLDR-Item;
+unit class CLDR-FieldWidth is CLDR-ItemNew;
 
 
 has                   $!parent;         #= The CLDR-Dates object containing this CLDR-Fields
@@ -21,18 +21,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'display-name', $!display-name;
-    self.Hash::BIND-KEY: 'displayName',  $!display-name;
-    self.Hash::BIND-KEY: '-2',           $!less-two;
-    self.Hash::BIND-KEY: '-1',           $!less-one;
-    self.Hash::BIND-KEY: '0',            $!same;
-    self.Hash::BIND-KEY: '1',            $!plus-two;
-    self.Hash::BIND-KEY: '2',            $!plus-one;
-    self.Hash::BIND-KEY: 'future',       $!future;
-    self.Hash::BIND-KEY: 'past',         $!past;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 
@@ -42,12 +31,21 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!same         = StrDecode::get(        blob, $offset);
     $!plus-one     = StrDecode::get(        blob, $offset);
     $!plus-two     = StrDecode::get(        blob, $offset);
-    $!future       = CLDR-RelativeTime.new: blob, $offset, self;
-    $!past         = CLDR-RelativeTime.new: blob, $offset, self;
+    $!future       = CLDR-RelativeTime.new: blob, $offset;
+    $!past         = CLDR-RelativeTime.new: blob, $offset;
 
     self
 }
+constant detour = Map.new: (
+   displayName => 'display-name',
+   '-2'        => 'less-two',
+   '-1'        => 'less-one',
+   '0'         => 'same',
+   '1'         => 'plus-two',
+   '2'         => 'plus-one',
 
+);
+method DETOUR(-->detour) {;}
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*field-width) {
     my $result = buf8.new;

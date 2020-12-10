@@ -16,8 +16,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     self.Hash::BIND-KEY: 'quote-start',             $!quote-start;
     self.Hash::BIND-KEY: 'quotationStart',          $!quote-start;
@@ -37,6 +36,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
 
     self
 }
+
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%delimiters) {

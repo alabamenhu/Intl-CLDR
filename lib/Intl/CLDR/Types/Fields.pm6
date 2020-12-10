@@ -3,7 +3,7 @@ use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::Field;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-Fields is CLDR-Item;
+unit class CLDR-Fields is CLDR-ItemNew;
 
 
 has            $!parent;         #= The CLDR-Dates object containing this CLDR-Fields
@@ -35,59 +35,41 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
-    self.Hash::BIND-KEY: 'era',              $!era;
-    self.Hash::BIND-KEY: 'year',             $!year;
-    self.Hash::BIND-KEY: 'quarter',          $!quarter;
-    self.Hash::BIND-KEY: 'month',            $!month;
-    self.Hash::BIND-KEY: 'week',             $!week;
-    self.Hash::BIND-KEY: 'week-of-month',    $!week-of-month;
-    self.Hash::BIND-KEY: 'weekOfMonth',      $!week-of-month;
-    self.Hash::BIND-KEY: 'day',              $!day;
-    self.Hash::BIND-KEY: 'day-of-year',      $!day-of-year;
-    self.Hash::BIND-KEY: 'dayOfYear',        $!day-of-year;
-    self.Hash::BIND-KEY: 'weekday-of-month', $!weekday-of-month;
-    self.Hash::BIND-KEY: 'weekdayOfMonth',   $!weekday-of-month;
-    self.Hash::BIND-KEY: 'sun',              $!sun;
-    self.Hash::BIND-KEY: 'mon',              $!mon;
-    self.Hash::BIND-KEY: 'tue',              $!tue;
-    self.Hash::BIND-KEY: 'wed',              $!wed;
-    self.Hash::BIND-KEY: 'thu',              $!thu;
-    self.Hash::BIND-KEY: 'fri',              $!fri;
-    self.Hash::BIND-KEY: 'sat',              $!sat;
-    self.Hash::BIND-KEY: 'dayperiod',        $!dayperiod;
-    self.Hash::BIND-KEY: 'hour',             $!hour;
-    self.Hash::BIND-KEY: 'minute',           $!minute;
-    self.Hash::BIND-KEY: 'second',           $!second;
-    self.Hash::BIND-KEY: 'zone',             $!zone;
-
-    $!era              = CLDR-Field.new: blob, $offset, self;
-    $!year             = CLDR-Field.new: blob, $offset, self;
-    $!quarter          = CLDR-Field.new: blob, $offset, self;
-    $!month            = CLDR-Field.new: blob, $offset, self;
-    $!week             = CLDR-Field.new: blob, $offset, self;
-    $!week-of-month    = CLDR-Field.new: blob, $offset, self;
-    $!day              = CLDR-Field.new: blob, $offset, self;
-    $!day-of-year      = CLDR-Field.new: blob, $offset, self;
-    $!weekday          = CLDR-Field.new: blob, $offset, self;
-    $!weekday-of-month = CLDR-Field.new: blob, $offset, self;
-    $!sun              = CLDR-Field.new: blob, $offset, self;
-    $!mon              = CLDR-Field.new: blob, $offset, self;
-    $!tue              = CLDR-Field.new: blob, $offset, self;
-    $!wed              = CLDR-Field.new: blob, $offset, self;
-    $!thu              = CLDR-Field.new: blob, $offset, self;
-    $!fri              = CLDR-Field.new: blob, $offset, self;
-    $!sat              = CLDR-Field.new: blob, $offset, self;
-    $!dayperiod        = CLDR-Field.new: blob, $offset, self;
-    $!hour             = CLDR-Field.new: blob, $offset, self;
-    $!minute           = CLDR-Field.new: blob, $offset, self;
-    $!second           = CLDR-Field.new: blob, $offset, self;
-    $!zone             = CLDR-Field.new: blob, $offset, self;
+    $!era              = CLDR-Field.new: blob, $offset;
+    $!year             = CLDR-Field.new: blob, $offset;
+    $!quarter          = CLDR-Field.new: blob, $offset;
+    $!month            = CLDR-Field.new: blob, $offset;
+    $!week             = CLDR-Field.new: blob, $offset;
+    $!week-of-month    = CLDR-Field.new: blob, $offset;
+    $!day              = CLDR-Field.new: blob, $offset;
+    $!day-of-year      = CLDR-Field.new: blob, $offset;
+    $!weekday          = CLDR-Field.new: blob, $offset;
+    $!weekday-of-month = CLDR-Field.new: blob, $offset;
+    $!sun              = CLDR-Field.new: blob, $offset;
+    $!mon              = CLDR-Field.new: blob, $offset;
+    $!tue              = CLDR-Field.new: blob, $offset;
+    $!wed              = CLDR-Field.new: blob, $offset;
+    $!thu              = CLDR-Field.new: blob, $offset;
+    $!fri              = CLDR-Field.new: blob, $offset;
+    $!sat              = CLDR-Field.new: blob, $offset;
+    $!dayperiod        = CLDR-Field.new: blob, $offset;
+    $!hour             = CLDR-Field.new: blob, $offset;
+    $!minute           = CLDR-Field.new: blob, $offset;
+    $!second           = CLDR-Field.new: blob, $offset;
+    $!zone             = CLDR-Field.new: blob, $offset;
 
     self
 }
+
+constant \detour = Map.new(
+    weekdayOfMonth => 'weekday-of-month',
+    dayOfYear      => 'day-of-year',
+    weekOfMonth    => 'week-of-month'
+);
+method DETOUR(--> detour) {;}
+
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*fields) {

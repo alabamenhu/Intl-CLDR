@@ -10,7 +10,7 @@
 
 use Intl::CLDR::Immutability;
 
-unit class CLDR-ExtensionNames is CLDR-Item;
+unit class CLDR-ExtensionNames is CLDR-ItemNew is CLDR-Unordered;
 
 use Intl::CLDR::Types::ExtensionName;
 

@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-LocaleDisplayNames is CLDR-Item;
+unit class CLDR-LocaleDisplayNames is CLDR-ItemNew;
 
 use Intl::CLDR::Types::LocaleDisplayPatterns;
 use Intl::CLDR::Types::LanguageNames;
@@ -30,16 +30,6 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    self.Hash::BIND-KEY: 'display-pattern',      $!display-patterns;
-    self.Hash::BIND-KEY: 'localeDisplayPattern', $!display-patterns;
-    self.Hash::BIND-KEY: 'displayPattern',       $!display-patterns;
-    self.Hash::BIND-KEY: 'languages',            $!languages;
-    self.Hash::BIND-KEY: 'scripts',              $!scripts;
-    self.Hash::BIND-KEY: 'territories',          $!territories;
-    self.Hash::BIND-KEY: 'variants',             $!variants;
-    self.Hash::BIND-KEY: 'measurement-systems',  $!measurement-systems;
-    self.Hash::BIND-KEY: 'measurementSystems',   $!measurement-systems;
-
     $!display-patterns       = CLDR-LocaleDisplayPatterns.new:   blob, $offset, self;
     $!languages              = CLDR-LanguageNames.new:           blob, $offset, self;
     $!scripts                = CLDR-ScriptNames.new:             blob, $offset, self;
@@ -50,6 +40,12 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     self
 }
+constant detour = Map.new: (
+    localeDisplayPattern   => 'display-pattern',
+    displayPattern         => 'display-pattern',
+    locale-display-pattern => 'display-pattern',
+    measurementSystems     => 'measurementSystems'
+);
 
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

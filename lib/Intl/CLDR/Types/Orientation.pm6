@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <orientation> element, containing information about text and document flow.
-unit class CLDR-Orientation is CLDR-Item;
+unit class CLDR-Orientation is CLDR-ItemNew;
 
 
 has     $!parent;          #= The CLDR-Base object containing this CLDR-Delimiter
@@ -13,14 +13,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'line-order',   $!line-order;
-    self.Hash::BIND-KEY: 'lineOrder',   $!line-order;
-    self.Hash::BIND-KEY: 'character-order', $!character-order;
-    self.Hash::BIND-KEY: 'characterOrder', $!character-order;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
     $!line-order = StrDecode::get(blob, $offset);
@@ -29,6 +22,11 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
     self
 }
 
+constant detour = Map.new: (
+    lineOrder => 'line-order',
+    characterOrder => 'characterOrder'
+);
+method DETOUR (-->detour) {;}
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%orientation) {
     my $result = buf8.new;

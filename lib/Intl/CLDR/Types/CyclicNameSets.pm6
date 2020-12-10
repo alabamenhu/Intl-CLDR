@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-CyclicNameSets is CLDR-Item;
+unit class CLDR-CyclicNameSets is CLDR-ItemNew;
 
 use Intl::CLDR::Types::CyclicNameSet;
 
@@ -12,22 +12,13 @@ has CLDR-CyclicNameSet $.day-parts;
 has CLDR-CyclicNameSet $.zodiacs;
 has CLDR-CyclicNameSet $.solar-terms;
 
-#| Creates a new CLDR-Dates object
+#| Creates a new CLDR-CyclicNameSets object
 method new(|c) {
     self.bless!bind-init: |c;
 }
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'years', $!years;
-    self.Hash::BIND-KEY: 'months', $!months;
-    self.Hash::BIND-KEY: 'days', $!days;
-    self.Hash::BIND-KEY: 'day-parts', $!day-parts;
-    self.Hash::BIND-KEY: 'dayParts', $!day-parts;
-    self.Hash::BIND-KEY: 'zodiacs', $!zodiacs;
-    self.Hash::BIND-KEY: 'solar-terms', $!solar-terms;
-    self.Hash::BIND-KEY: 'solarTerms', $!solar-terms;
 
     $!years       = CLDR-CyclicNameSet.new: blob, $offset, self;
     $!months      = CLDR-CyclicNameSet.new: blob, $offset, self;
@@ -38,6 +29,11 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     self
 }
+constant \detour = Map.new(
+    dayParts   => 'day-parts',
+    solarTerms => 'solar-terms'
+);
+method DETOUR(--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*cyclic-name-sets) {

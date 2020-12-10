@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <listPatterns> element, containing information about creating lists.
-unit class CLDR-ListPatternWidth is CLDR-Item;
+unit class CLDR-ListPatternWidth is CLDR-ItemNew;
 
 # See https://www.unicode.org/reports/tr35/tr35-general.html#Layout_Elements for information
 
@@ -16,15 +16,8 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    self.Hash::BIND-KEY: 'start',  $!start;
-    self.Hash::BIND-KEY: 'middle', $!middle;
-    self.Hash::BIND-KEY: 'end',    $!end;
-    self.Hash::BIND-KEY: 'two',    $!two;
-    self.Hash::BIND-KEY: '2',      $!two;
-
-    $!parent := parent;
 
     $!start  = StrDecode::get(blob, $offset);
     $!middle = StrDecode::get(blob, $offset);
@@ -33,6 +26,11 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
 
     self
 }
+
+constant detour = Map.new: (
+    '2' => 'two'
+);
+method DETOUR (-->detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode($list-pattern-width) {

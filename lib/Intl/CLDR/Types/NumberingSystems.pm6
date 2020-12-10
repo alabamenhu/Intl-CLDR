@@ -1,8 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-NumberingSystems is CLDR-Item;
-
-has $!parent;
+unit class CLDR-NumberingSystems is CLDR-ItemNew;
 
 has Str $.default;
 has Str $.native;
@@ -15,14 +13,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'default',     $!default;
-    self.Hash::BIND-KEY: 'native',      $!native;
-    self.Hash::BIND-KEY: 'traditional', $!traditional;
-    self.Hash::BIND-KEY: 'financial',   $!financial;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
     $!default     = StrDecode::get(blob, $offset);

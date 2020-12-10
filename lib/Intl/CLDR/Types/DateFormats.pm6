@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-DateFormats is CLDR-Item;
+unit class CLDR-DateFormats is CLDR-ItemNew;
 
 use Intl::CLDR::Types::DateFormat;
 
@@ -17,11 +17,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'full',   $!full;
-    self.Hash::BIND-KEY: 'long',   $!long;
-    self.Hash::BIND-KEY: 'medium', $!medium;
-    self.Hash::BIND-KEY: 'short',  $!short;
 
     $!full   = CLDR-DateFormat.new: blob, $offset, self;
     $!long   = CLDR-DateFormat.new: blob, $offset, self;

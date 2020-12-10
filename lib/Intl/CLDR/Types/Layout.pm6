@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <layout> element, containing information about text direction.
-unit class CLDR-Layout is CLDR-Item;
+unit class CLDR-Layout is CLDR-ItemNew;
 
 
 use Intl::CLDR::Types::Orientation;
@@ -16,12 +16,10 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    self.Hash::BIND-KEY: 'orientation', $!orientation;
 
-    $!parent := parent;
-    $!orientation = CLDR-Orientation.new: blob, $offset, self;
+    $!orientation = CLDR-Orientation.new: blob, $offset;
     self
 }
 

@@ -1,9 +1,7 @@
 use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::Zone;
 
-unit class CLDR-Zones is CLDR-Item;
-
-has $!parent; #= The CLDR-TimezoneNames that contains this CLDR-Zones
+unit class CLDR-Zones is CLDR-ItemNew is CLDR-Unordered;
 
 #! Because names are not stable, no other attributes:
 #!   hashy access is required)
@@ -13,16 +11,16 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 
-    my $count = blob[$offset++];
+    my $count = blob[$offset++] * 256 + blob[$offset++];
+
     for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
-                CLDR-Zone.new(blob, $offset, self)
+                CLDR-Zone.new(blob, $offset)
     }
 
     self
@@ -36,8 +34,8 @@ method encode(\hash) {
     my $count = hash.keys.elems;
     my $result = buf8.new;
 
-    die "Add capacity for 255+ items in Zones.pm6" if $count > 255;
-    $result.append: $count;
+    $result.append: $count div 256;
+    $result.append: $count mod 256;
     for hash.kv -> \tzname, \value {
         $result ~= StrEncode::get(tzname);
         $result ~= CLDR-Zone.encode(value);

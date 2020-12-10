@@ -1,10 +1,9 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-ZoneWidth is CLDR-Item;
+unit class CLDR-ZoneWidth is CLDR-ItemNew;
 
 
-has     $!parent;         #= The CLDR-Dates object containing this CLDR-Fields
 has Str $.generic;
 has Str $.standard;
 has Str $.daylight;
@@ -14,12 +13,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'generic',  $!generic;
-    self.Hash::BIND-KEY: 'standard', $!standard;
-    self.Hash::BIND-KEY: 'daylight', $!daylight;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 

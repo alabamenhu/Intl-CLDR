@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-Eras is CLDR-Item;
+unit class CLDR-Eras is CLDR-ItemNew;
 
 use Intl::CLDR::Types::EraWidth;
 
@@ -16,10 +16,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'narrow',      $!narrow;
-    self.Hash::BIND-KEY: 'abbreviated', $!abbreviated;
-    self.Hash::BIND-KEY: 'wide',        $!wide;
 
     $!narrow      = CLDR-EraWidth.new: blob, $offset, self;
     $!abbreviated = CLDR-EraWidth.new: blob, $offset, self;

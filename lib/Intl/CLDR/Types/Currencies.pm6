@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-Currencies is CLDR-Item;
+unit class CLDR-Currencies is CLDR-ItemNew is CLDR-Unordered;
 
 use Intl::CLDR::Types::Currency;
 
@@ -15,9 +15,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
     ######################################################
     # Attributes are currently only included in the hash #
     ######################################################
@@ -27,7 +25,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     my $count = blob[$offset++] * 256 + blob[$offset++];
     for ^$count {
         self.Hash::BIND-KEY:
-            StrDecode::get(blob, $offset),          # the currency code
+            StrDecode::get(   blob,  $offset),          # the currency code
             CLDR-Currency.new(blob, ($offset -= 2), self); # the data, accounting for index str of two bytes
     }
 

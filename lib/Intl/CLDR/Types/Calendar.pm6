@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| An ordered list of month names for a given width (1-indexed).
-unit class CLDR-Calendar is CLDR-Ordered is CLDR-Item;
+unit class CLDR-Calendar is CLDR-Ordered is CLDR-ItemNew;
 
 use Intl::CLDR::Types::Months;
 use Intl::CLDR::Types::MonthPatterns;  # TODO parse in main script, only for Hindu/Chinese lunar calendars
@@ -16,7 +16,6 @@ use Intl::CLDR::Types::DateTimeFormats;
 use Intl::CLDR::Types::AvailableFormats;
 use Intl::CLDR::Types::IntervalFormats;
 
-has $!parent;                                  #= The parent (a collection of calendars)
 has CLDR-Months           $.months;
 has CLDR-MonthPatterns    $.month-patterns; # Currently used only for Chinese-based calendars, but can also be used by Hindi
 has CLDR-Quarters         $.quarters;
@@ -35,44 +34,32 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
-    self.Hash::BIND-KEY: 'months',            $!months;
-    self.Hash::BIND-KEY: 'month-patterns',    $!month-patterns;
-    self.Hash::BIND-KEY: 'monthPatterns',     $!month-patterns;
-    self.Hash::BIND-KEY: 'quarters',          $!quarters;
-    self.Hash::BIND-KEY: 'days',              $!days;
-    self.Hash::BIND-KEY: 'day-periods',       $!day-periods;
-    self.Hash::BIND-KEY: 'dayPeriods',        $!day-periods;
-    self.Hash::BIND-KEY: 'eras',              $!eras;
-    self.Hash::BIND-KEY: 'cyclic-name-sets',  $!cyclic-name-sets;
-    self.Hash::BIND-KEY: 'cyclicNameSets',    $!cyclic-name-sets;
-    self.Hash::BIND-KEY: 'date-formats',      $!date-formats;
-    self.Hash::BIND-KEY: 'dateFormats',       $!date-formats;
-    self.Hash::BIND-KEY: 'time-formats',      $!time-formats;
-    self.Hash::BIND-KEY: 'timeFormats',       $!time-formats;
-    self.Hash::BIND-KEY: 'datetime-formats',  $!datetime-formats;
-    self.Hash::BIND-KEY: 'dateTimeFormats',   $!datetime-formats;
-    self.Hash::BIND-KEY: 'available-formats', $!available-formats;
-    self.Hash::BIND-KEY: 'availableFormats',  $!available-formats;
-    self.Hash::BIND-KEY: 'interval-formats',  $!interval-formats;
-    self.Hash::BIND-KEY: 'intervalFormats',   $!interval-formats;
-
-    $!months           = CLDR-Months.new:         blob, $offset, self;
-    $!month-patterns   = CLDR-MonthPatterns.new:  blob, $offset, self;
-    $!quarters         = CLDR-Quarters.new:       blob, $offset, self;
-    $!days             = CLDR-Days.new:           blob, $offset, self;
-    $!day-periods      = CLDR-DayPeriods.new:     blob, $offset, self;
-    $!eras             = CLDR-Eras.new:           blob, $offset, self;
-    $!cyclic-name-sets = CLDR-CyclicNameSets.new: blob, $offset, self;
-    $!date-formats     = CLDR-DateFormats.new:    blob, $offset, self;
-    $!time-formats     = CLDR-TimeFormats.new:    blob, $offset, self;
+    $!months           = CLDR-Months.new:          blob, $offset, self;
+    $!month-patterns   = CLDR-MonthPatterns.new:   blob, $offset, self;
+    $!quarters         = CLDR-Quarters.new:        blob, $offset, self;
+    $!days             = CLDR-Days.new:            blob, $offset, self;
+    $!day-periods      = CLDR-DayPeriods.new:      blob, $offset, self;
+    $!eras             = CLDR-Eras.new:            blob, $offset, self;
+    $!cyclic-name-sets = CLDR-CyclicNameSets.new:  blob, $offset, self;
+    $!date-formats     = CLDR-DateFormats.new:     blob, $offset, self;
+    $!time-formats     = CLDR-TimeFormats.new:     blob, $offset, self;
     $!datetime-formats = CLDR-DateTimeFormats.new: blob, $offset, self;
 
     self
 }
-
+constant detour = Map.new: (
+    monthPatterns    => 'month-patterns',
+    dayPeriods       => 'day-periods',
+    cyclicNameSets   => 'cyclic-name-sets',
+    dateFormats      => 'date-formats',
+    timeFormats      => 'time-formats',
+    dateTimeFormats  => 'datetime-formats',
+    availableFormats => 'available-formats',
+    intervalFormats  => 'interval-formats'
+);
+method DETOUR (-->detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*calendar) {

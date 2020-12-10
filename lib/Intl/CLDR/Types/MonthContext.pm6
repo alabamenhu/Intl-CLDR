@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-MonthContext is CLDR-Item;
+unit class CLDR-MonthContext is CLDR-ItemNew;
 
 use Intl::CLDR::Types::MonthWidth;
 
@@ -16,10 +16,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'narrow',      $!narrow;
-    self.Hash::BIND-KEY: 'abbreviated', $!abbreviated;
-    self.Hash::BIND-KEY: 'wide',        $!wide;
 
     $!narrow      = CLDR-MonthWidth.new: blob, $offset, self;
     $!abbreviated = CLDR-MonthWidth.new: blob, $offset, self;

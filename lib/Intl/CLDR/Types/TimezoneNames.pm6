@@ -6,10 +6,9 @@ use Intl::CLDR::Types::Zones;
 use Intl::CLDR::Types::Metazones;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-TimezoneNames is CLDR-Item;
+unit class CLDR-TimezoneNames is CLDR-ItemNew;
 
 
-has                   $!parent;         #= The CLDR-Dates object containing this CLDR-Fields
 has Str               $.hour-format;
 has Str               $.gmt-format;
 has Str               $.gmt-zero-format;
@@ -23,35 +22,29 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'hourFormat',      $!hour-format;
-    self.Hash::BIND-KEY: 'hour-format',     $!hour-format;
-    self.Hash::BIND-KEY: 'gmtFormat',       $!gmt-format;
-    self.Hash::BIND-KEY: 'gmt-format',      $!gmt-format;
-    self.Hash::BIND-KEY: 'gmtZeroFormat',   $!gmt-zero-format;
-    self.Hash::BIND-KEY: 'gmt-zero-format', $!gmt-zero-format;
-    self.Hash::BIND-KEY: 'fallbackFormat',  $!fallback-format;
-    self.Hash::BIND-KEY: 'fallback-format', $!fallback-format;
-    self.Hash::BIND-KEY: 'regionFormat',    $!region-format;
-    self.Hash::BIND-KEY: 'region-format',   $!region-format;
-    self.Hash::BIND-KEY: 'zone',            $!zones;
-    self.Hash::BIND-KEY: 'metazone',        $!metazones;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-
 
     $!hour-format     = StrDecode::get(        blob, $offset);
     $!gmt-format      = StrDecode::get(        blob, $offset);
     $!gmt-zero-format = StrDecode::get(        blob, $offset);
     $!fallback-format = StrDecode::get(        blob, $offset);
-    $!region-format   = CLDR-RegionFormat.new: blob, $offset, self;
-    $!zones           = CLDR-Zones.new:        blob, $offset, self;
-    $!metazones       = CLDR-Metazones.new:    blob, $offset, self;
+    $!region-format   = CLDR-RegionFormat.new: blob, $offset;
+    $!zones           = CLDR-Zones.new:        blob, $offset;
+    $!metazones       = CLDR-Metazones.new:    blob, $offset;
 
     self
 }
+
+constant \detour = Map.new(
+    hourFormat     => 'hour-format',
+    gmtFormat      => 'gmt-format',
+    gmtZeroFormat  => 'gmt-zero-format',
+    fallbackFormat => 'fallback-format',
+    regionFormat   => 'region-format'
+);
+method DETOUR(--> detour) {;}
+
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*timezone-names) {
@@ -78,7 +71,7 @@ method parse(\base, \xml) {
 
     base<regionFormat>{.<type> || 'generic'} = contents $_ for xml.&elems('regionFormat');
 
-    CLDR-Zones.parse:     (base<zones>     //= Hash), xml, 'zones'; # the zones are at this same level for some weird reason
+    CLDR-Zones.parse:     (base<zones>     //= Hash), xml, 'zone'; # the zones are at this same level for some weird reason
     CLDR-Metazones.parse: (base<metazones> //= Hash), xml, 'metazone';
 }
 #>>>>> # GENERATOR

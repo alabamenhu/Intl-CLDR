@@ -6,10 +6,8 @@ use Intl::CLDR::Types::TimezoneNames;
 
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-Dates is CLDR-Item;
+unit class CLDR-Dates is CLDR-ItemNew;
 
-
-has                    $!parent;         #= The CLDR-Base object containing this CLDR-Dates
 has CLDR-Calendars     $.calendars;      #= The calendar data for the date collection
 has CLDR-Fields        $.fields;         #= The fields (naming) data for the date collection
 has CLDR-TimezoneNames $.timezone-names; #= The timezone data for the date collection
@@ -19,21 +17,18 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
-    self.Hash::BIND-KEY: 'calendars',      $!calendars;
-    self.Hash::BIND-KEY: 'fields',         $!fields;
-    self.Hash::BIND-KEY: 'timezone-names', $!timezone-names;
-    self.Hash::BIND-KEY: 'timeZoneNames',  $!timezone-names;
-
-    $!calendars      = CLDR-Calendars.new:     blob, $offset, self;
-    $!fields         = CLDR-Fields.new:        blob, $offset, self;
-    $!timezone-names = CLDR-TimezoneNames.new: blob, $offset, self;
+    $!calendars      = CLDR-Calendars.new:     blob, $offset;
+    $!fields         = CLDR-Fields.new:        blob, $offset;
+    $!timezone-names = CLDR-TimezoneNames.new: blob, $offset;
 
     self
 }
-
+constant \detour = Map.new(
+    timeZoneNames => 'timezone-names'
+);
+method DETOUR(--> detour) {;}
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*dates) {
     my $result = buf8.new;

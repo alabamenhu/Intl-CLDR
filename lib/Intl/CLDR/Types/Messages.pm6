@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-Messages is CLDR-Item;
+unit class CLDR-Messages is CLDR-ItemNew;
 
 has $!parent;
 
@@ -12,12 +12,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    self.Hash::BIND-KEY: 'yesstr', $!yesstr;
-    self.Hash::BIND-KEY: 'nostr',  $!nostr;
-
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
     $!yesstr = StrDecode::get(blob, $offset);
     $!nostr  = StrDecode::get(blob, $offset);

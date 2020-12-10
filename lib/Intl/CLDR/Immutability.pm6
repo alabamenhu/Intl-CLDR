@@ -3,10 +3,53 @@ unit module Immutability;
 # a consumer of the module.  It will prevent any changes from being done to the database.
 #
 # sry 4 soo many CAPS -_-
+my $epitaph = "† You really shouldn't try to edit CLDR data.\n"
+            ~ "  If you really know what you're doing, you can\n"
+            ~ "  figure out how, but you needn't and shouldn't.";
 
-my  $epitaph = "Modification of the CLDR database is not a good idea:\n" ~
-               "  - Use .clone (NYI) if you want to get a editable branch.\n" ~
-               "  - If you really know what you're doing, use .ADD-TO-DATABASE";
+class CLDR-ItemNew is Associative is export {
+    method keys(CLDR-ItemNew:D:) {
+        self.^attributes
+            ==> grep *.has_accessor
+            ==> map  *.name.substr: 2
+            ==> sort()
+    }
+    method values(CLDR-ItemNew:D:) {
+        self.^attributes
+          ==> grep *.has_accessor
+          ==> map  *.name.substr: 2
+          ==> sort()
+          ==> map { self."$_"() }
+    }
+    method kv(CLDR-ItemNew:D:) {
+        die "Not yet implemented.  But this generally doesn't make sense for most items.";
+    }
+
+    multi method gist(CLDR-ItemNew:D:) {
+        [~] '[', self.^name, ':', self.keys.join(','), ']'
+    }
+    multi method gist(CLDR-ItemNew:U:) {
+        [~] '(', self.^name, ')'
+    }
+
+    # By default, no rerouting, so classes only need to implement if they want
+    # different behavior
+    constant \no-detour = Map.new;
+    method DETOUR( --> no-detour ) {;}
+
+    method FALLBACK($key) {
+        # There are two types of fallbacks that we can do, either a substitution method
+        # (e.g. 'standAlone' -> 'stand-alone') or our class might be fully Hashy.
+        # That will be covered by the CLDR-Unordered which assumes purely hash access to
+        # values.
+        return self."$_"() with self.DETOUR{$key};
+        say "Could not find $key, and don't know how to reroute you.  The options are: ", self.DETOUR.keys;
+        say "I should have gotten", self.DETOUR{$key};
+        X::Method::NotFound.new.throw;
+    }
+}
+
+
 
 class CLDR-Item is Hash is export {
     has $!parent;
@@ -58,9 +101,9 @@ class CLDR-Item is Hash is export {
 
     method clone { ... }
 
-    #method keys { %!hash.keys }
+    #method keys { %!hash.keys }
 
-    method gist { '[' ~ self.^name ~ ":" ~ self.keys.join(',') ~ ']' }
+    method gist { '[' ~ self.^name ~ ":" ~ self.keys.join(',') ~ ']' }
 
     method FALLBACK(\key) {
         self.EXISTS-KEY(key) or die "Unrecognized attribute name “{key}”.  The following undocumented attributes are available in this item: " ~ self.keys;
@@ -76,74 +119,20 @@ class CLDR-Ordered is Array is export {
     method AT-KEY(    $key) { self.Array::AT-POS:     +$key }
     method EXISTS-KEY($key) { self.Array::EXISTS-POS: +$key }
 
-    method gist { '[' ~ self.^name ~ ":" ~ self.values.join(',') ~ ']' }
+    method gist (CLDR-Ordered:D:) { '[' ~ self.^name ~ ":" ~ self.values.join(',') ~ ']' }
 }
 
-# OLD CODE; to be deleted soon
-role Immutable is export {
-  method AT-KEY(|)     { immutable callsame }
-  method AT-POS(|)     { immutable callsame }
-  method ASSIGN-KEY(|) {
-    die "Data directly returned from the CLDR cannot be modified.\nIf you need to modify it, you should .clone returned data first.";
-  }
-  method ASSIGN-POS(|) {
-    die "Data directly returned from the CLDR cannot be modified.\nIf you need to modify it, you should .clone returned data first.";
-  }
-  multi method clone (Positional:) { ;
-    # Add mutable code here
-  }
-  multi method clone (Associative:) { ;
-    # Add mutable code here
-  }
-  multi method clone {
-    callsame
-  }
+class CLDR-Unordered is Hash is export {
+    method ASSIGN-KEY(|) is hidden-from-backtrace { die $epitaph }
+    method BIND-KEY(|)   is hidden-from-backtrace { die $epitaph }
+
+    # Convert Redirect the exist calls
+    method AT-KEY(    $key) { self.Hash::AT-KEY:     $key }
+    method EXISTS-KEY($key) { self.Hash::EXISTS-KEY: $key }
+
+    method keys { self.Hash::keys }
+
+    method FALLBACK($key) { self.Hash::AT-KEY: $key or die "That key isnt available" }
+
+    method gist (CLDR-Unordered:D:) { '[' ~ self.^name ~ ":" ~ self.Hash::values.join(',') ~ ']' }
 }
-
-multi immutable(Positional  \p) is export { p but Immutable }
-multi immutable(Associative \a) is export { a but Immutable }
-multi immutable(            \o) is export { o               }
-
-class ProtectedHash is Associative is export {
-  has %!hash;
-  has $.module;
-  method EXISTS-KEY ($key)         { %!hash{$key}:exists   }
-  method ASSIGN-KEY ($key, \value) {
-    if Backtrace.new.list[2..*]
-        .map(*.file)
-        .grep( { !(.contains('::src/core') || .contains('Intl/CLDR/Immutability.pm6') || .contains('CORE.setting.moarcvm') ) } ).head eq $!module {
-    #if Backtrace.new.list.[2..*].grep({ !( $_.file.Str.contains('::src/core') || $_.file.Str.contains('Intl/CLDR/Immutability.pm6') || $_.file.Str.contains( 'CORE.setting.moarcvm' ))}).first.file eq $module {
-      %!hash{$key} := value;
-    } else {
-      die "Data directly returned from the CLDR cannot be modified.\n If you need to modify it, you should .clone returned data first."
-    }
-  }
-  method BIND-KEY ($key, \value) {
-    if Backtrace.new.list[2..*]
-        .map(*.file)
-        .grep( { !(.contains('::src/core') || .contains('Intl/CLDR/Immutability.pm6') || .contains('CORE.setting.moarcvm') ) } ).head eq $!module {
-    #if Backtrace.new.list.[2..*].grep({ !( $_.file.Str.contains('::src/core') || $_.file.Str.contains('Intl/CLDR/Immutability.pm6') || $_.file.Str.contains( 'CORE.setting.moarcvm' ))}).first.file eq $!module {
-      %!hash{$key} := value;
-    } else {
-      die "Data directly returned from the CLDR cannot be modified.\n If you need to modify it, you should .clone returned data first."
-    }
-  }
-  method AT-KEY ($key) {
-
-    unless %!hash{$key}:exists {
-      given $key {
-#        when    'calendars'  { use Intl::CLDR::Classes::Calendar; %!hash{$key} := CLDR-Calendar.new($!module) }
-        default              {                                    %!hash{$key} :=   ProtectedHash.new($!module) }
-      }
-    }
-    %!hash{$key};
-  }
-  method gist { %!hash.gist }
-  multi method new ( $module is required ) { self.bless(:$module) }
-  multi method new {
-    my $module = Backtrace.new.list.[2..*].grep({ !( $_.file.Str.contains('::src/core') || $_.file.Str.contains('Intl/CLDR/Immutability.pm6') || $_.file.Str.contains( 'CORE.setting.moarcvm' ))}).first.file;
-    self.bless(:$module);
-  }
-}
-
-

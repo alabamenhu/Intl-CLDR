@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-MeasurementSystemNames is CLDR-Item;
+unit class CLDR-MeasurementSystemNames is CLDR-ItemNew;
 
 has $!parent;
 
@@ -20,15 +20,13 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!uk     := StrDecode::get(blob, $offset);
     $!us     := StrDecode::get(blob, $offset);
 
-    self.Hash::BIND-KEY: 'metric', $!metric;
-    self.Hash::BIND-KEY: 'uk',     $!uk;
-    self.Hash::BIND-KEY: 'UK',     $!uk;
-    self.Hash::BIND-KEY: 'us',     $!us;
-    self.Hash::BIND-KEY: 'US',     $!us;
-
     self
 }
-
+constant detour = Map.new(
+    UK => 'uk',
+    US => 'us'
+);
+method DETOUR(-->detour) {;}
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*territories --> buf8) {
     use Intl::CLDR::Util::StrEncode;

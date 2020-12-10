@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-VariantNames is CLDR-Item;
+unit class CLDR-VariantNames is CLDR-ItemNew is CLDR-Unordered;
 
 has $!parent;
 

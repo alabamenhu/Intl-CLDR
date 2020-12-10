@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-LanguageNames is CLDR-Item;
+unit class CLDR-LanguageNames is CLDR-ItemNew is CLDR-Unordered;
 
 has $!parent;
 
@@ -44,7 +44,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
                     StrDecode::get(blob, $offset),
                     StrDecode::get(blob, $offset) does HasVariantForm(StrDecode::get(blob,$offset))
         } else {
-            die "Invalid type name found"
+            die "Invalid string type found in LanguageNames.pm6"
         }
     }
 
@@ -91,6 +91,8 @@ method encode(%*languages --> buf8) {
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
+
     base{.<type> ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('language');
+
 }
 #>>>>> # GENERATOR

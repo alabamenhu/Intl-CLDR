@@ -10,16 +10,11 @@
 
 use Intl::CLDR::Immutability;
 
-unit class CLDR-ExtensionName is CLDR-Item;
+unit class CLDR-ExtensionName is CLDR-ItemNew;
 use Intl::CLDR::Types::LocaleExtensionTypes;
 has                           $!parent;
 has Str                       $.name;
 has CLDR-LocaleExtensionTypes $.types;
-
-#######################################
-#  Attributes currently too numerous  #
-# to define explicitly, done via hash #
-#######################################
 
 method new(|c) {
     self.bless!bind-init: |c

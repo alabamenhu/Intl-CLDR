@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-MonthPatternWidth is CLDR-Item;
+unit class CLDR-MonthPatternWidth is CLDR-ItemNew;
 
 has     $!parent;
 has Str $.leap;
@@ -15,13 +15,6 @@ method new(|c) {
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    self.Hash::BIND-KEY: 'leap',                $!leap;
-    self.Hash::BIND-KEY: 'standardAfterLeap',   $!after-leap;
-    self.Hash::BIND-KEY: 'after-leap',          $!after-leap;
-    self.Hash::BIND-KEY: 'standard-after-leap', $!after-leap;
-    self.Hash::BIND-KEY: 'afterLeap',           $!after-leap;
-    self.Hash::BIND-KEY: 'combined',            $!combined;
-
     use Intl::CLDR::Util::StrDecode;
 
     $!leap       = StrDecode::get(blob, $offset);
@@ -30,6 +23,12 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
     self
 }
+constant detour = Map.new: (
+    standardAfterLeap   => 'after-leap',
+    afterLeap           => 'after-leap',
+    standard-after-leap => 'after-leap'
+);
+method DETOUR (-->detour) {;}
 
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {

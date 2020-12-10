@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-LocaleDisplayPatterns is CLDR-Item;
+unit class CLDR-LocaleDisplayPatterns is CLDR-ItemNew;
 
 has     $!parent;
 has Str $.main;      #= The pattern to distinguish the language from its specifying elements
@@ -17,14 +17,6 @@ method new(|c) {
 
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     $!parent := parent;
-
-    self.Hash::BIND-KEY: 'main',        $!main;
-    self.Hash::BIND-KEY: 'separator',   $!separator;
-    self.Hash::BIND-KEY: 'extension',   $!extension;
-    self.Hash::BIND-KEY: 'keyType',     $!extension;
-    self.Hash::BIND-KEY: 'language',    $!language;
-    self.Hash::BIND-KEY: 'script',      $!script;
-    self.Hash::BIND-KEY: 'territory',   $!territory;
 
     use Intl::CLDR::Util::StrDecode;
 

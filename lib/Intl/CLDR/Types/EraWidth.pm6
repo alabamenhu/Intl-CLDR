@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-EraWidth is CLDR-Ordered is CLDR-Item;
+unit class CLDR-EraWidth is CLDR-Ordered is CLDR-ItemNew;
 
 has $!parent;
 
@@ -18,9 +18,7 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
     use Intl::CLDR::Util::StrDecode;
 
     for ^$eras -> \id {
-        my \text = StrDecode::get(blob, $offset);
-        self.Array::BIND-POS: id, text;
-        self.Hash::BIND-KEY:  id, text;
+        self.Array::BIND-POS: id, StrDecode::get(blob, $offset);
     }
 
     self

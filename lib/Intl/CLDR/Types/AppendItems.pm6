@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-AppendItems is CLDR-Item;
+unit class CLDR-AppendItems is CLDR-ItemNew;
 
 ###################################################
 # Some of these append items aren't in the wild   #
@@ -34,39 +34,6 @@ method new(|c) {
 submethod !bind-init(\blob,uint64 $offset is rw, \parent) {
     $!parent := parent;
 
-    # For some inane reason, CLDR switches to Pascal case here
-    self.Hash::BIND-KEY: 'era',              $!era;
-    self.Hash::BIND-KEY: 'Era',              $!era;
-    self.Hash::BIND-KEY: 'year',             $!year;
-    self.Hash::BIND-KEY: 'Year',             $!year;
-    self.Hash::BIND-KEY: 'quarter',          $!quarter;
-    self.Hash::BIND-KEY: 'Quarter',          $!quarter;
-    self.Hash::BIND-KEY: 'month',            $!month;
-    self.Hash::BIND-KEY: 'Month',            $!month;
-    self.Hash::BIND-KEY: 'week',             $!week;
-    self.Hash::BIND-KEY: 'Week',             $!week;
-    self.Hash::BIND-KEY: 'week-of-month',    $!week-of-month;
-    self.Hash::BIND-KEY: 'Week-Of-Month',    $!week-of-month;
-    self.Hash::BIND-KEY: 'day',              $!day;
-    self.Hash::BIND-KEY: 'Day',              $!day;
-    self.Hash::BIND-KEY: 'day-of-year',      $!day-of-year;
-    self.Hash::BIND-KEY: 'Day-Of-Year',      $!day-of-year;
-    self.Hash::BIND-KEY: 'weekday',          $!weekday;
-    self.Hash::BIND-KEY: 'Weekday',          $!weekday;
-    self.Hash::BIND-KEY: 'weekday-of-month', $!weekday-of-month;
-    self.Hash::BIND-KEY: 'Weekday-Of-Month', $!weekday-of-month;
-    self.Hash::BIND-KEY: 'dayperiod',        $!dayperiod;
-    self.Hash::BIND-KEY: 'Dayperiod',        $!dayperiod;
-    self.Hash::BIND-KEY: 'hour',             $!hour;
-    self.Hash::BIND-KEY: 'Hour',             $!hour;
-    self.Hash::BIND-KEY: 'minute',           $!minute;
-    self.Hash::BIND-KEY: 'Minute',           $!minute;
-    self.Hash::BIND-KEY: 'second',           $!second;
-    self.Hash::BIND-KEY: 'Second',           $!second;
-    self.Hash::BIND-KEY: 'timezone',         $!timezone;
-    self.Hash::BIND-KEY: 'Timeone',          $!timezone;
-
-
     use Intl::CLDR::Util::StrDecode;
 
     $!era              = StrDecode::get(blob, $offset);
@@ -87,6 +54,26 @@ submethod !bind-init(\blob,uint64 $offset is rw, \parent) {
 
     self
 }
+
+# For some inane reason, CLDR switches to Pascal case here
+constant detour = Map.new: (
+    Era              => 'era',
+    Year             => 'year',
+    Quarter          => 'quarter',
+    Month            => 'month',
+    Week             => 'week',
+    Week-Of-Month    => 'week-of-month',
+    Day              => 'day',
+    Day-Of-Year      => 'day-of-year',
+    Weekday          => 'weekday',
+    Weekday-Of-Month => 'weekday-of-month',
+    Dayperiod        => 'dayperiod',
+    Hour             => 'hour',
+    Minute           => 'minute',
+    Second           => 'second',
+    Timezone         => 'timezone'
+);
+method DETOUR (-->detour) {;}
 
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {

@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 
 #| A class implementing CLDR's <listPatterns> element, containing information about creating lists.
-unit class CLDR-ListPatterns is CLDR-Item;
+unit class CLDR-ListPatterns is CLDR-ItemNew;
 
 
 use Intl::CLDR::Types::ListPattern;
@@ -18,18 +18,13 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent = "foo") {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    self.Hash::BIND-KEY: 'standard', $!and;
-    self.Hash::BIND-KEY: 'and',      $!and;
-    self.Hash::BIND-KEY: 'or',       $!or;
-    self.Hash::BIND-KEY: 'unit',     $!unit;
 
-    $!parent := parent;
+    $!and  = CLDR-ListPattern.new: blob, $offset;
+    $!or   = CLDR-ListPattern.new: blob, $offset;
+    $!unit = CLDR-ListPattern.new: blob, $offset;
 
-    $!and  = CLDR-ListPattern.new: blob, $offset, self;
-    $!or   = CLDR-ListPattern.new: blob, $offset, self;
-    $!unit = CLDR-ListPattern.new: blob, $offset, self;
     self
 }
 

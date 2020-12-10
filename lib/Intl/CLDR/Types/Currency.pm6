@@ -1,8 +1,8 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-Currency is CLDR-Item;
+unit class CLDR-Currency is CLDR-ItemNew;
 
-class DisplayNameCounts {
+class DisplayNameCounts is CLDR-ItemNew {
     has $.explicit-zero;
     has $.explicit-one;
     has $.zero;

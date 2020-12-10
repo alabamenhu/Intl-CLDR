@@ -1,7 +1,8 @@
 use Intl::CLDR::Immutability;
 
 #| A set of interval formats categorized by their greatest common difference
-unit class CLDR-IntervalFormat is CLDR-Item;
+#| (mapped by codes: 'm' for minute, 'M' for month, etc.
+unit class CLDR-IntervalFormat is CLDR-ItemNew is CLDR-Unordered;
 
 has $!parent; #= The CLDR-IntervalFormats that contains this CLDR-IntervalFormat
 

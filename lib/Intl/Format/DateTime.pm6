@@ -2,7 +2,7 @@ use Intl::CLDR;
 
 grammar DateTimePattern { ... }
 class DateTimePatternAction { ... }
-
+sub julian-day {...}
 my %calendar-data;
    %calendar-data<root> := BEGIN { cldr<root>.dates.calendars };
 # This data and associated method definitely belong somewhere else
@@ -184,14 +184,14 @@ my %formatters := Map.new:
         's',       { sink $^tz; sink $^c;                                 ~ $^dt.second.floor },
         'ss',      { sink $^tz; sink $^c; ($^dt.second < 10 ?? '0' !! '') ~ $^dt.second.floor },
         # The 'S' series indicates fractional time, truncated, but with a specific number of digits
-        'S',       { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 1); $S ~ ('0' x (1 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SS',      { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 2); $S ~ ('0' x (2 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SSS',     { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 3); $S ~ ('0' x (3 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SSSS',    { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 4); $S ~ ('0' x (4 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SSSSS',   { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 5); $S ~ ('0' x (5 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SSSSSS',  { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 6); $S ~ ('0' x (6 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SSSSSSS', { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 7); $S ~ ('0' x (7 - $S.chars)) }, # fractional sections, * is fractional digits
-        'SSSSSSSS',{ sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 8); $S ~ ('0' x (8 - $S.chars)) }, # fractional sections, * is fractional digits
+        'S',       { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 1); $S ~ ('0' x (1 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SS',      { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 2); $S ~ ('0' x (2 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSS',     { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 3); $S ~ ('0' x (3 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSS',    { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 4); $S ~ ('0' x (4 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSS',   { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 5); $S ~ ('0' x (5 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSSS',  { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 6); $S ~ ('0' x (6 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSSSS', { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 7); $S ~ ('0' x (7 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSSSSS',{ sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 8); $S ~ ('0' x (8 - $S.chars)) }, # fractional sections, * is fractional digits
         # The 't' series is presently undefined
         # The 'T' series is presently undefined
         # The 'u' series indicates the extended year numeric which is unique to each calendar system, with padding.
@@ -211,12 +211,24 @@ my %formatters := Map.new:
        'yyy',     { sink $^c, $^tz;; '0' x (3 - $^dt.year.Str.chars ) ~ $^dt.year },
        'yyyy',    { sink $^c, $^tz;; '0' x (4 - $^dt.year.Str.chars ) ~ $^dt.year },
        'yyyyy',   { sink $^c, $^tz;; '0' x (5 - $^dt.year.Str.chars ) ~ $^dt.year },
-       #'Y',     1 { $datetime.week-year }
-       #'YY',     2 { $datetime.week-year.Str.substr(*-2,2) }
-       #'Y', * > 3 { '0' x ($_[1] - $datetime.week-year.Str.chars ) ~ $datetime.week-year }
+       #'Y',     1 { $datetime.week-year }
+       #'YY',     2 { $datetime.week-year.Str.substr(*-2,2) }
+       #'Y', * > 3 { '0' x ($_[1] - $datetime.week-year.Str.chars ) ~ $datetime.week-year }
 
 ;
 
+my %pattern-cache;
+sub get-pattern(Str() \str) {
+    .return with %pattern-cache{str};
+    %pattern-cache{str} := DateTimePattern.parse(str, :actions(DateTimePatternAction)).made;
+}
+sub pattern-replace($datetime, @pattern, $language, $calendar) {
+    [~] do .isa(Str)
+            ?? $_
+            !! $_($calendar, $datetime, 'timezone')
+    for @pattern
+    #}
+}
 
 
 
@@ -228,57 +240,42 @@ my %formatters := Map.new:
 
 
 sub time-pattern-replace { ... }
-sub date-pattern-replace { ... }
 grammar DateTimePattern { ... }
+
 # subs needed for calculations
 sub julian-day { ... }
-sub get-pattern { ... }
 
 sub format-datetime(
         DateTime() $datetime,       #= The datetime to be formatted
         :$language = user-language, #= The locale to use (defaults to B<user-language>)
         :$calendar = 'gregorian',   #= The calendar used (defaults to B<gregorian>, other calendars NYI)
         :$length = 'medium',        #= The formatting length (defaults to 'medium')
-        :$alt = 'standard'          #= Whether alternate forms should be used (leave false for best results).
 ) is export {
 
-    my \calendar = cldr{$language}.dates.calendars.gregorian;
+    my \calendar = cldr{$language}.dates.calendars{$calendar};
 
     my \combo-pattern := calendar.datetime-formats{$length}.pattern; #{$length};
-    #.subst("'","", :g);
-    # ^^ HOTFIX: TODO: parse this string correctly
     my \time-pattern  := calendar.time-formats{$length}.pattern;
     my \date-pattern  := calendar.date-formats{$length}.pattern;
-    my \date = time-pattern-replace
+
+    my \date = pattern-replace
             $datetime,
             get-pattern(date-pattern),
             $language,
             calendar;
-    my \time = time-pattern-replace
+    my \time = pattern-replace
             $datetime,
             get-pattern(time-pattern),
             $language,
             calendar;
+
     combo-pattern.subst:
             / '{' (0|1) '}' /,               # {0} and {1} are the replacement tokens
             { ~$0 eq '0' ?? time !! date },  # 0 = time in CLDR formats
             :g;
 }
 
-sub time-pattern-replace($datetime, @pattern, $language, $calendar) {
-    [~] do .isa(Str)
-            ?? $_
-            !! $_($calendar, $datetime, 'timezone')
-        for @pattern
-    #}
-}
 
-
-my %pattern-cache;
-sub get-pattern(Str() \str) {
-    .return with %pattern-cache{str};
-    %pattern-cache{str} := DateTimePattern.parse(str, :actions(DateTimePatternAction)).made;
-}
 
 
 grammar DateTimePattern {
@@ -310,6 +307,8 @@ sub nominal-time-zone ($time) {
 
 
 my @days = <null sun mon tue wed thu fri sat>;
+
+#`<<< Old code
 sub time-pattern-replace-old ($datetime, @pattern, $language, $calendar) {
   # This implements ICU's DateFormatSymbols::initializeData  but also formats at the same time.
   # Right now I'm using a giant when block.  That's not very fast currently.
@@ -432,6 +431,7 @@ sub time-pattern-replace-old ($datetime, @pattern, $language, $calendar) {
     }
   }
 }
+>>>
 
 sub language(Str() $language) {
   ##say "Getting calendar data for $language ", %calendar-data{$language}:exists ?? '(loaded)' !! '(unloaded)';
@@ -461,11 +461,9 @@ multi sub format-date(DateTime() $date, :$language = user-language, :$calendar =
   time-pattern-replace($date, DateTimePattern.parse($pattern, :actions(DateTimePatternAction)).made, $language, $calendar)
 }
 
-#multi sub format-date(Date $date, |c) {
-#    samewith DateTime.new(:$date), c
-#}
-
-
+multi sub format-date(Date $date, |c) {
+    samewith DateTime.new(:$date), c
+}
 
 
 

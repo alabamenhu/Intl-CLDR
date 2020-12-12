@@ -225,7 +225,7 @@ sub get-pattern(Str() \str) {
 sub pattern-replace($datetime, @pattern, $language, $calendar) {
     [~] do .isa(Str)
             ?? $_
-            !! $_($calendar, $datetime, 'timezone')
+            !! $_($calendar, $datetime, 'timezone' #`<< todo: replace with real timezone data>> )
     for @pattern
     #}
 }

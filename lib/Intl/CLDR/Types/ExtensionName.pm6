@@ -12,7 +12,6 @@ use Intl::CLDR::Immutability;
 
 unit class CLDR-ExtensionName is CLDR-ItemNew;
 use Intl::CLDR::Types::LocaleExtensionTypes;
-has                           $!parent;
 has Str                       $.name;
 has CLDR-LocaleExtensionTypes $.types;
 
@@ -20,12 +19,11 @@ method new(|c) {
     self.bless!bind-init: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    $!parent := parent;
 
     $!name  = StrDecode::get(blob, $offset);
-    $!types = CLDR-LocaleExtensionTypes.new(blob, $offset, self);
+    $!types = CLDR-LocaleExtensionTypes.new(blob, $offset);
 
     self
 }

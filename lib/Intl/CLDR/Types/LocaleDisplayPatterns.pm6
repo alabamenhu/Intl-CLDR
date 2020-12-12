@@ -2,7 +2,6 @@ use Intl::CLDR::Immutability;
 
 unit class CLDR-LocaleDisplayPatterns is CLDR-ItemNew;
 
-has     $!parent;
 has Str $.main;      #= The pattern to distinguish the language from its specifying elements
 has Str $.separator; #= To separate additional identifying elements (including key-type extensions)
 has Str $.language;  #= For use with language codes when no display name is available
@@ -15,8 +14,7 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
     use Intl::CLDR::Util::StrDecode;
 

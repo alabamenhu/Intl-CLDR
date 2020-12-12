@@ -1,14 +1,19 @@
 unit class CLDR-Languages is Associative;
 
-use CLDR-Language;
+use Intl::CLDR::Types::Language;
 has CLDR-Language %!languages;
 
-method EXISTS-KEY (\key) {
-    %!languages{key}:exists
+method EXISTS-KEY(\key) {
+    return True;
+    # we should always return at least root
 }
 
-method AT-KEY (\tag) {
-    .return with %!languages{tag};
+method AT-KEY (\key) {
+    # Immediately return if we have it already
+    .return with %!languages{key};
+
+    # Else begin searching for it
+    my @subtags = key.split('-');
 
     # TODO Some better logic needs to be placed here for peeling off subtags.  That may best go into
     # the LanguageTag module instead (for example, if given en-Latn-UK only en will be loaded, but Latn is
@@ -16,40 +21,41 @@ method AT-KEY (\tag) {
     #
     # For future optimizations here, it's worth noting that no CLDR data has a tag other than
     # language/script/region, so we can ignore probably pay attention to only the first three safely.
-    my @subtags = tag.split('-');
-
     while @subtags {
         my $language = @subtags.join('-');
         last with %!languages{$language};
-        try quietly { # The .extension test will generate a warning
-            if %?RESOURCES{"languages2/{$language}.data"}.extension { # this is the quick way to test to see if the file exists
-                %!languages{$language} := load-data($language);
-                last;
+        try {
+            quietly { # The .extension test will generate a warning
+                if %?RESOURCES{"languages-binary/{ $language }.data"}.extension {
+                    # Quick check for file existence in resources
+                    %!languages{$language} := load-data $language;
+                    last;
+                }
             }
-
         }
         @subtags.pop;
     }
 
     # If no subtags were left after peeling, there is no CLDR data for the language.
     # The data for 'root' is used instead.  Sad days.
-    my $language = @subtags.join('-') || 'root';
+    my $language = @subtags ?? @subtags.join('-') !! 'root';
+    if $language eq 'root' {
+        %!languages<root> = load-data('root') unless %!languages<root>:exists
+    }
 
     # If the loaded data doesn't match the request tag, bind the two together
     # so that future requests can be made instantaneously.
-    %!languages{tag} := %!languages{$language} if tag ne $language;
+    %!languages{key} := %!languages{$language} if key ne $language;
 
-    %!languages{tag}
+    %!languages{key}
 }
 
 # This sub assumes that we've validated the existence of the data.
-sub load-data(\tag --> CLDR-Language) {
+sub load-data($tag) {
     use Intl::CLDR::Util::StrDecode;
 
-    my $string-data = %?RESOURCES{"languages-binary/{tag}.strings"}.slurp;
-    my $tree-data   = %?RESOURCES{"languages-binary/{tag}.data"}.slurp;
+    my str @strs = %?RESOURCES{"languages-binary/{ $tag }.strings"}.split(31.chr);
+    my     \blob = %?RESOURCES{"languages-binary/{ $tag }.data"   }.slurp( :bin );
 
-    StrDecode::prepare($string-data);
-    my uint64 $offset = 0; # must be on a separate line so it can be rw
-    CLDR-Languages.new: $tree-data, $offset, self;
+    return CLDR-Language.new: blob, @strs;
 }

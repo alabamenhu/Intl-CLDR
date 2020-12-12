@@ -11,8 +11,6 @@ use Intl::CLDR::Types::ExtensionNames;
 use Intl::CLDR::Types::MeasurementSystemNames;
 
 
-has $!parent;
-
 has CLDR-LocaleDisplayPatterns  $.display-patterns;
 has CLDR-LanguageNames          $.languages;
 has CLDR-ScriptNames            $.scripts;
@@ -27,16 +25,15 @@ method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+submethod !bind-init(\blob, uint64 $offset is rw) {
 
-    $!display-patterns       = CLDR-LocaleDisplayPatterns.new:   blob, $offset, self;
-    $!languages              = CLDR-LanguageNames.new:           blob, $offset, self;
-    $!scripts                = CLDR-ScriptNames.new:             blob, $offset, self;
-    $!territories            = CLDR-TerritoryNames.new:          blob, $offset, self;
-    $!variants               = CLDR-VariantNames.new:            blob, $offset, self;
-    $!measurement-systems    = CLDR-MeasurementSystemNames.new:  blob, $offset, self;
-    $!extensions             = CLDR-ExtensionNames.new:          blob, $offset, self;
+    $!display-patterns       = CLDR-LocaleDisplayPatterns.new:   blob, $offset;
+    $!languages              = CLDR-LanguageNames.new:           blob, $offset;
+    $!scripts                = CLDR-ScriptNames.new:             blob, $offset;
+    $!territories            = CLDR-TerritoryNames.new:          blob, $offset;
+    $!variants               = CLDR-VariantNames.new:            blob, $offset;
+    $!measurement-systems    = CLDR-MeasurementSystemNames.new:  blob, $offset;
+    $!extensions             = CLDR-ExtensionNames.new:          blob, $offset;
 
     self
 }

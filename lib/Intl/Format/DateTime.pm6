@@ -1,10 +1,10 @@
 use Intl::CLDR;
 
-class DateTimePattern { ... }
+grammar DateTimePattern { ... }
 class DateTimePatternAction { ... }
 
 my %calendar-data;
-   %calendar-data<root> := BEGIN { cldr-data-for-lang("root")<calendars>};
+   %calendar-data<root> := BEGIN { cldr<root>.dates.calendars };
 # This data and associated method definitely belong somewhere else
 # But since the formatter is the only one that's using it at the moment... I'm lazy
 my %tz-meta := BEGIN do {
@@ -41,170 +41,180 @@ my \days = <null sun mon tue wed thu fri sat>;
 # After a major release, it's advisable to check to see if something may have changed.
 my %formatters := Map.new:
         # The 'a' series indicate the time of day.  1..3 are identical at the moment
-        a =>      { sink $^tz; %^c<dayPeriods><format><abbreviated>{ $^dt.hour < 12 ?? 'am' !! 'pm'} },
-        aa =>     { sink $^tz; %^c<dayPeriods><format><abbreviated>{ $^dt.hour < 12 ?? 'am' !! 'pm'} },
-        aaa =>    { sink $^tz; %^c<dayPeriods><format><abbreviated>{ $^dt.hour < 12 ?? 'am' !! 'pm'} },
-        aaaa =>   { sink $^tz; %^c<dayPeriods><format><wide>{        $^dt.hour < 12 ?? 'am' !! 'pm'} },
-        aaaaa =>  { sink $^tz; %^c<dayPeriods><format><narrow>{      $^dt.hour < 12 ?? 'am' !! 'pm'} },
+        'a',      { sink $^tz; $^c.day-periods.format.abbreviated{ $^dt.hour < 12 ?? 'am' !! 'pm'} },
+        'aa',     { sink $^tz; $^c.day-periods.format.abbreviated{ $^dt.hour < 12 ?? 'am' !! 'pm'} },
+        'aaa',    { sink $^tz; $^c.day-periods.format.abbreviated{ $^dt.hour < 12 ?? 'am' !! 'pm'} },
+        'aaaa',   { sink $^tz; $^c.day-periods.format.wide{        $^dt.hour < 12 ?? 'am' !! 'pm'} },
+        'aaaaa',  { sink $^tz; $^c.day-periods.format.narrow{      $^dt.hour < 12 ?? 'am' !! 'pm'} },
         # The 'A' series indicates the milliseconds-in-day, with the quantity of As
         # indicating the minimum number of digits.  60·60·24·1000 = 86_400_000, so we should
         # plan on handling up to 8.  We must factor in DST as well, and there is no function
         # to do that… yet.
-        A => { 'NYI' },
+        'A' => { 'NYI' },
         # The 'b' series also indicates the time period of the day, but includes special indicators for noon and midnight.
-        b =>      { sink $^tz; %^c<dayPeriods><format><abbreviated>{ $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
-        bb =>     { sink $^tz; %^c<dayPeriods><format><abbreviated>{ $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
-        bbb =>    { sink $^tz; %^c<dayPeriods><format><abbreviated>{ $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
-        bbbb =>   { sink $^tz; %^c<dayPeriods><format><wide>{        $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
-        bbbbb =>  { sink $^tz; %^c<dayPeriods><format><narrow>{      $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
+        'b',      { sink $^tz; $^c.day-periods.format.abbreviated{ $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
+        'bb',     { sink $^tz; $^c.day-periods.format.abbreviated{ $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
+        'bbb',    { sink $^tz; $^c.day-periods.format.abbreviated{ $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
+        'bbbb',   { sink $^tz; $^c.day-periods.format.wide{        $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
+        'bbbbb',  { sink $^tz; $^c.day-periods.format.narrow{      $^dt.hour == 0 && $^dt.minute == 0 ?? 'midnight' !! $^dt.hour == 12 && $^dt.minute == 0 ?? 'noon' !! $^dt.hour < 12 ?? 'am' !! 'pm' } },
         # The 'B' series also indicates the time period of the day, but uses locale-specific periods
-        B =>      { sink $^tz; %^c<dayPeriods><format><abbreviated>{ #`[calculate period of day (e.g. 'morning2' for locale] } },
-        BB =>     { sink $^tz; %^c<dayPeriods><format><abbreviated>{ #`[calculate period of day (e.g. 'morning2' for locale] } },
-        BBB =>    { sink $^tz; %^c<dayPeriods><format><abbreviated>{ #`[calculate period of day (e.g. 'morning2' for locale] } },
-        BBBB =>   { sink $^tz; %^c<dayPeriods><format><wide>{        #`[calculate period of day (e.g. 'morning2' for locale] } },
-        BBBBB =>  { sink $^tz; %^c<dayPeriods><format><narrow>{      #`[calculate period of day (e.g. 'morning2' for locale] } },
+        'B',      { sink $^tz; $^c.day-periods.format.abbreviated{ #`[calculate period of day (e.g. 'morning2' for locale] } },
+        'BB',     { sink $^tz; $^c.day-periods.format.abbreviated{ #`[calculate period of day (e.g. 'morning2' for locale] } },
+        'BBB',    { sink $^tz; $^c.day-periods.format.abbreviated{ #`[calculate period of day (e.g. 'morning2' for locale] } },
+        'BBBB',   { sink $^tz; $^c.day-periods.format.wide{        #`[calculate period of day (e.g. 'morning2' for locale] } },
+        'BBBBB',  { sink $^tz; $^c.day-periods.format.narrow{      #`[calculate period of day (e.g. 'morning2' for locale] } },
         # The 'c' series gives us the day of the week.  Note that the day-of-week's number may change on locale.  In
         # English areas, Sunday is '1', but in Spanish areas, Sunday is '7'
-        c =>      { sink $^tz; sink %^c;                              ~ $^dt.day-of-week   }, # TODO adjust for first day of week
-        cc =>     { sink $^tz; sink %^c;                            0 ~ $^dt.day-of-week   }, # TODO adjust for first day of week
-        ccc =>    { sink $^tz; %^c<days><stand-alone><abbreviated>{days[$^dt.day-of-week]} },
-        cccc =>   { sink $^tz; %^c<days><stand-alone><wide>{       days[$^dt.day-of-week]} },
-        ccccc =>  { sink $^tz; %^c<days><stand-alone><narrow>{     days[$^dt.day-of-week]} },
-        cccccc => { sink $^tz; %^c<days><stand-alone><short>{      days[$^dt.day-of-week]} },
+        'c',      { sink $^tz; sink $^c;                              ~ $^dt.day-of-week   }, # TODO adjust for first day of week
+        'cc',     { sink $^tz; sink $^c;                            0 ~ $^dt.day-of-week   }, # TODO adjust for first day of week
+        'ccc',    { sink $^tz; $^c.days.stand-alone.abbreviated{days[$^dt.day-of-week]} },
+        'cccc',   { sink $^tz; $^c.days.stand-alone.wide{       days[$^dt.day-of-week]} },
+        'ccccc',  { sink $^tz; $^c.days.stand-alone.narrow{     days[$^dt.day-of-week]} },
+        'cccccc', { sink $^tz; $^c.days.stand-alone.short{      days[$^dt.day-of-week]} },
         # The 'C' series indicates a numeric hour with, potentially, period of day.  It is not used in
         # direct pattern generation, rather in pattern selection.  As such, it need need not (and cannot, in fact)
         # be implemented here.
         #
         # The 'd' series is the day of the month, with or without padding if one digit:
-        d =>      { sink $^tz; sink %^c;                               ~  $^dt.day },
-        dd =>     { sink $^tz; sink %^c; ($^dt.day <  10 ?? '0' !! '') ~  $^dt.day },
+        'd',      { sink $^tz; sink $^c;                               ~  $^dt.day },
+        'dd',     { sink $^tz; sink $^c; ($^dt.day <  10 ?? '0' !! '') ~  $^dt.day },
         # The 'D' series is the day of the year, with or without padding
-        D =>      { sink $^tz; sink %^c;                                                                              ~ $^dt.day-of-year },
-        DD =>     { sink $^tz; sink %^c;                                         ($^dt.day-of-year < 10 ?? '0' !! '') ~ $^dt.day-of-year },
-        DDD =>    { sink $^tz; sink %^c; ($^dt.day-of-year < 100 ?? '0' !! '') ~ ($^dt.day-of-year < 10 ?? '0' !! '') ~ $^dt.day-of-year },
+        'D',      { sink $^tz; sink $^c;                                                                              ~ $^dt.day-of-year },
+        'DD',     { sink $^tz; sink $^c;                                         ($^dt.day-of-year < 10 ?? '0' !! '') ~ $^dt.day-of-year },
+        'DDD',    { sink $^tz; sink $^c; ($^dt.day-of-year < 100 ?? '0' !! '') ~ ($^dt.day-of-year < 10 ?? '0' !! '') ~ $^dt.day-of-year },
         # The 'e' series gives us the day of the week and is the same as the 'c' series, except that it uses
         # formatted forms (needed for some languages).  Recall the day-of-week's number may change on locale.
-        e =>      { sink $^tz; sink %^c;                         ~ $^dt.day-of-week   }, # TODO adjust for first day of week
-        ee =>     { sink $^tz; sink %^c;                       0 ~ $^dt.day-of-week   }, # TODO adjust for first day of week
-        eee =>    { sink $^tz; %^c<days><format><abbreviated>{days[$^dt.day-of-week]} },
-        eeee =>   { sink $^tz; %^c<days><format><wide>{       days[$^dt.day-of-week]} },
-        eeeee =>  { sink $^tz; %^c<days><format><narrow>{     days[$^dt.day-of-week]} },
-        eeeeee => { sink $^tz; %^c<days><format><short>{      days[$^dt.day-of-week]} },
+        'e',      { sink $^tz; sink $^c;                         ~ $^dt.day-of-week   }, # TODO adjust for first day of week
+        'ee',     { sink $^tz; sink $^c;                       0 ~ $^dt.day-of-week   }, # TODO adjust for first day of week
+        'eee',    { sink $^tz; $^c.days.format.abbreviated{days[$^dt.day-of-week]} },
+        'eeee',   { sink $^tz; $^c.days.format.wide{       days[$^dt.day-of-week]} },
+        'eeeee',  { sink $^tz; $^c.days.format.narrow{     days[$^dt.day-of-week]} },
+        'eeeeee', { sink $^tz; $^c.days.format.short{      days[$^dt.day-of-week]} },
         # The 'E' series is identical to the 'E' series, except that it doesn't allow for numerical forms.
-        E =>      { sink $^tz; %^c<days><format><abbreviated>{days[$^dt.day-of-week]} },
-        EE =>     { sink $^tz; %^c<days><format><abbreviated>{days[$^dt.day-of-week]} },
-        EEE =>    { sink $^tz; %^c<days><format><abbreviated>{days[$^dt.day-of-week]} },
-        EEEE =>   { sink $^tz; %^c<days><format><wide>{       days[$^dt.day-of-week]} },
-        EEEEE =>  { sink $^tz; %^c<days><format><narrow>{     days[$^dt.day-of-week]} },
-        EEEEEE => { sink $^tz; %^c<days><format><short>{      days[$^dt.day-of-week]} },
+        'E',      { sink $^tz; $^c.days.format.abbreviated{days[$^dt.day-of-week]} },
+        'EE',     { sink $^tz; $^c.days.format.abbreviated{days[$^dt.day-of-week]} },
+        'EEE',    { sink $^tz; $^c.days.format.abbreviated{days[$^dt.day-of-week]} },
+        'EEEE',   { sink $^tz; $^c.days.format.wide{       days[$^dt.day-of-week]} },
+        'EEEEE',  { sink $^tz; $^c.days.format.narrow{     days[$^dt.day-of-week]} },
+        'EEEEEE', { sink $^tz; $^c.days.format.short{      days[$^dt.day-of-week]} },
         # There is presently no 'f' series.
         # The 'F' series has represents the 'day of week in month'.  Basically, the week number counting from
         # the first day of the month, rather than a Sunday.
-        F =>      { sink $^tz; sink %^c; $^dt.day-of-month % 7},
+        'F',      { sink $^tz; sink $^c; $^dt.day-of-month % 7},
         # The 'g' series is the modified Julian day, based on localtime at midnight, perhaps with zero-padding.
         # There is no specific maximum, but at present time, we're in the 2million, so we hedge our bets
         # for several additional: TODO check julian calculations
-        g =>         { sink %^c;          ~$^dt.&julian-day                                                     },
-        gg =>        { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 2 ?? '0' x (2-$jd.chars) !! '') ~ $jd },
-        ggg =>       { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 3 ?? '0' x (3-$jd.chars) !! '') ~ $jd },
-        gggg =>      { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 4 ?? '0' x (4-$jd.chars) !! '') ~ $jd },
-        ggggg =>     { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 5 ?? '0' x (5-$jd.chars) !! '') ~ $jd },
-        gggggg =>    { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 6 ?? '0' x (6-$jd.chars) !! '') ~ $jd },
-        ggggggg =>   { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 7 ?? '0' x (7-$jd.chars) !! '') ~ $jd },
-        gggggggg =>  { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 8 ?? '0' x (8-$jd.chars) !! '') ~ $jd },
-        ggggggggg => { sink %^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 9 ?? '0' x (9-$jd.chars) !! '') ~ $jd },
+        'g',         { sink $^tz; sink $^c;          ~$^dt.&julian-day                                                     },
+        'gg',        { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 2 ?? '0' x (2-$jd.chars) !! '') ~ $jd },
+        'ggg',       { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 3 ?? '0' x (3-$jd.chars) !! '') ~ $jd },
+        'gggg',      { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 4 ?? '0' x (4-$jd.chars) !! '') ~ $jd },
+        'ggggg',     { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 5 ?? '0' x (5-$jd.chars) !! '') ~ $jd },
+        'gggggg',    { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 6 ?? '0' x (6-$jd.chars) !! '') ~ $jd },
+        'ggggggg',   { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 7 ?? '0' x (7-$jd.chars) !! '') ~ $jd },
+        'gggggggg',  { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 8 ?? '0' x (8-$jd.chars) !! '') ~ $jd },
+        'ggggggggg', { sink $^tz; sink $^c; my $jd = ~$^dt.&julian-day; ($jd.chars < 9 ?? '0' x (9-$jd.chars) !! '') ~ $jd },
         # The 'G' series calculates the era.
         # TODO: implement non-Gregorian calendars whose eras may be quite different (Japanese is a great test case)
-        G =>      { %^c<eras><eraAbbr>{   $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
-        GG =>     { %^c<eras><eraAbbr>{   $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
-        GGG =>    { %^c<eras><eraAbbr>{   $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
-        GGGG =>   { %^c<eras><eraWide>{   $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
-        GGGGG =>  { %^c<eras><eraNarrow>{ $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
+        'G',      { sink $^tz; $^c.eras.abbreviation{ $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
+        'GG',     { sink $^tz; $^c.eras.abbreviation{ $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
+        'GGG',    { sink $^tz; $^c.eras.abbreviation{ $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
+        'GGGG',   { sink $^tz; $^c.eras.wide{         $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
+        'GGGGG',  { sink $^tz; $^c.eras.narrow{       $^dt.year > 0 ?? 1 !! 0 } },                 # See above on non-gregorian
         # The 'h' series indicates 12-hour clocks that are 1-indexed (1..12)
-        h =>      { sink %^c;                                             ~ (($^dt.hour+11) % 12 + 1) }, #  1-12
-        hh =>     { sink %^c; ($^dt.hour = 0|10|11|12|22|23 ?? '0' !! '') ~ (($^dt.hour+11) % 12 + 1) }, # 01-12
+        'h',      { sink $^tz; sink $^c;                                             ~ (($^dt.hour+11) % 12 + 1) }, #  1-12
+        'hh',     { sink $^tz; sink $^c; ($^dt.hour = 0|10|11|12|22|23 ?? '0' !! '') ~ (($^dt.hour+11) % 12 + 1) }, # 01-12
         # The 'H' series indicates 24 hour clocks that are 0-index (0..23)
-        H =>      { sink %^c;                               ~ $^dt.hour }, #  0-23
-        HH =>     { sink %^c; ($^dt.hour < 10 ?? '0' !! '') ~ $^dt.hour }, # 00-23
+        'H',      { sink $^tz; sink $^c;                               ~ $^dt.hour }, #  0-23
+        'HH',     { sink $^tz; sink $^c; ($^dt.hour < 10 ?? '0' !! '') ~ $^dt.hour }, # 00-23
         # The 'i' and 'I' series are presently undefined
         # The 'j' and 'J' series are used in input skeletons, but not for pattern data (TR35)
         # The 'k' series indicates 24 hour clocks that are 1-index (1..24)
-        k =>      { sink %^c;                              ~ ($^dt.hour + 1) }, #  1-24
-        kk =>     { sink %^c; ($^dt.hour < 9 ?? '0' !! '') ~ ($^dt.hour + 1) }, # 01-24
+        'k',      { sink $^tz; sink $^c;                              ~ ($^dt.hour + 1) }, #  1-24
+        'kk',     { sink $^tz; sink $^c; ($^dt.hour < 9 ?? '0' !! '') ~ ($^dt.hour + 1) }, # 01-24
         # The 'K' series indicates 12 hour clocks that are 0-index (0..11)
-        K =>      { sink %^c;                                    ~ ($^dt.hour % 12) }, #  0-11
-        KK =>     { sink %^c; ($^dt.hour % 12 < 10 ?? '0' !! '') ~ ($^dt.hour % 12) }, # 00-11
+        'K',      { sink $^tz; sink $^c;                                    ~ ($^dt.hour % 12) }, #  0-11
+        'KK',     { sink $^tz; sink $^c; ($^dt.hour % 12 < 10 ?? '0' !! '') ~ ($^dt.hour % 12) }, # 00-11
         # The 'l' series is deprecated and per TR35 is to be ignored
-        l =>      { '' },
+        'l',      { '' },
         # The 'L' series shows the stand-alone month name or number (e.g. when days are not shown)
-        L =>      { sink %^c;                                   $^dt.month   },
-        LL =>     { sink %^c;  ($^dt.month < 10 ?? '0' !! '') ~ $^dt.month   },
-        LLL =>    {      %^c<months><stand-alone><abbreviated>{ $^dt.month } },
-        LLLL =>   {      %^c<months><stand-alone><wide>{        $^dt.month } },
-        LLLLL =>  {      %^c<months><stand-alone><narrow>{      $^dt.month } },
+        'L',      { sink $^tz; sink $^c;                                   $^dt.month   },
+        'LL',     { sink $^tz; sink $^c;  ($^dt.month < 10 ?? '0' !! '') ~ $^dt.month   },
+        'LLL',    { sink $^tz;      $^c.months.stand-alone.abbreviated{ $^dt.month } },
+        'LLLL',   { sink $^tz;      $^c.months.stand-alone.wide{        $^dt.month } },
+        'LLLLL',  { sink $^tz;      $^c.months.stand-alone.narrow{      $^dt.month } },
         # The 'm' series indicates the minutes, with or without padding
-        m =>      { sink %^c;                                  $^dt.minute  },
-        mm =>     { sink %^c; ($^dt.minute < 10 ?? '0' !! '') ~$^dt.minute  },
+        'm',      { sink $^tz; sink $^c;                                  $^dt.minute  },
+        'mm',     { sink $^tz; sink $^c; ($^dt.minute < 10 ?? '0' !! '') ~$^dt.minute  },
         # The 'M' series indicates the formatted month name/number (e.g. when days are shown)
-        M =>      { sink %^c;                                  $^dt.month   },
-        MM =>     { sink %^c; ($^dt.month < 10 ?? '0' !! '') ~ $^dt.month   },
-        MMM =>    {      %^c<months><format><abbreviated>{     $^dt.month } }, # for 1|2 see L
-        MMMM =>   {      %^c<months><format><wide>{            $^dt.month } },
-        MMMMM =>  {      %^c<months><format><narrow>{          $^dt.month } },
+        'M',      { sink $^tz; sink $^c;                                  $^dt.month   },
+        'MM',     { sink $^tz; sink $^c; ($^dt.month < 10 ?? '0' !! '') ~ $^dt.month   },
+        'MMM',    { sink $^tz;      $^c.months.format.abbreviated{     $^dt.month } }, # for 1|2 see L
+        'MMMM',   { sink $^tz;      $^c.months.format.wide{            $^dt.month } },
+        'MMMMM',  { sink $^tz;      $^c.months.format.narrow{          $^dt.month } },
         # The 'n' series is presently undefined
         # The 'N' series is presently undefined
         # The 'o' series is presently undefined
         # The 'O' series indicates timezone information as GMT offset, OO and OOO are unused/reserved
         # TODO: Ensure that fallbacks for zero-format work (they currently don't).
-        O =>      { sink %^c;  gmt-inner(%^tz, $^dt.offset, 'short') },
-        OOOO =>   { sink %^c;  gmt-inner(%^tz, $^dt.offset, 'long' ) },
+        'O',      { sink $^c;  gmt-inner(%^tz, $^dt.offset, 'short') },
+        'OOOO',   { sink $^c;  gmt-inner(%^tz, $^dt.offset, 'long' ) },
         # The 'p' series is presently undefined
         # The 'P' series is presently undefined
         # The 'q' series is the quarter in stand-alone form (or numerical with/without padding)
-        q =>        { sink $^tz;                                          ($^dt.month + 2) div 3   },
-        qq =>       { sink $^tz;                                   '0' ~  ($^dt.month + 2) div 3   },
-        qqq =>      { sink $^tz; %^c<quarters><stand-alone><abbreviated>{ ($^dt.month + 2) div 3 } },
-        qqqq =>     { sink $^tz; %^c<quarters><stand-alone><wide>{        ($^dt.month + 2) div 3 } },
-        qqqqq =>    { sink $^tz; %^c<quarters><stand-alone><narrow>{      ($^dt.month + 2) div 3 } },
+        'q',        { sink $^tz;                                          ($^dt.month + 2) div 3   },
+        'qq',       { sink $^tz;                                   '0' ~  ($^dt.month + 2) div 3   },
+        'qqq',      { sink $^tz; $^c.quarters.stand-alone.abbreviated{ ($^dt.month + 2) div 3 } },
+        'qqqq',     { sink $^tz; $^c.quarters.stand-alone.wide{        ($^dt.month + 2) div 3 } },
+        'qqqqq',    { sink $^tz; $^c.quarters.stand-alone.narrow{      ($^dt.month + 2) div 3 } },
         # The 'q' series is the quarter in formatted form (or numerical with/without padding)
-        Q =>        { sink $^tz;                                          ($^dt.month + 2) div 3   },
-        QQ =>       { sink $^tz;                                   '0' ~  ($^dt.month + 2) div 3   },
-        QQQ =>      { sink $^tz;      %^c<quarters><format><abbreviated>{ ($^dt.month + 2) div 3 } },
-        QQQQ =>     { sink $^tz;      %^c<quarters><format><wide>{        ($^dt.month + 2) div 3 } },
-        QQQQQ =>    { sink $^tz;      %^c<quarters><format><narrow>{      ($^dt.month + 2) div 3 } },
+        'Q',        { sink $^tz;                                          ($^dt.month + 2) div 3   },
+        'QQ',       { sink $^tz;                                   '0' ~  ($^dt.month + 2) div 3   },
+        'QQQ',      { sink $^tz;      $^cquarters.format.abbreviated{ ($^dt.month + 2) div 3 } },
+        'QQQQ',     { sink $^tz;      $^cquarters.format.wide{        ($^dt.month + 2) div 3 } },
+        'QQQQQ',    { sink $^tz;      $^cquarters.format.narrow{      ($^dt.month + 2) div 3 } },
         # The 'r' series indicates the gregorian year in which the current year begins, with padding
-        r =>       { sink $^tz; sink %^c; my $temp = $^dt.year.Str;                                              $temp  }, # TODO calculate for solar calendar years
-        rr =>      { sink $^tz; sink %^c; my $temp = $^dt.year.Str; $temp.chars > 2 ?? $temp !! (0 x (2-$temp) ~ $temp) }, # TODO calculate for solar calendar years
-        rrr =>     { sink $^tz; sink %^c; my $temp = $^dt.year.Str; $temp.chars > 3 ?? $temp !! (0 x (3-$temp) ~ $temp) }, # TODO calculate for solar calendar years
-        rrrr =>    { sink $^tz; sink %^c; my $temp = $^dt.year.Str; $temp.chars > 4 ?? $temp !! (0 x (4-$temp) ~ $temp) }, # TODO calculate for solar calendar years
-        rrrrr =>   { sink $^tz; sink %^c; my $temp = $^dt.year.Str; $temp.chars > 5 ?? $temp !! (0 x (5-$temp) ~ $temp) }, # TODO calculate for solar calendar years
-        rrrrrr =>  { sink $^tz; sink %^c; my $temp = $^dt.year.Str; $temp.chars > 6 ?? $temp !! (0 x (6-$temp) ~ $temp) }, # TODO calculate for solar calendar years
+        'r',       { sink $^tz; sink $^c; my $temp = $^dt.year.Str;                                              $temp  }, # TODO calculate for solar calendar years
+        'rr',      { sink $^tz; sink $^c; my $temp = $^dt.year.Str; $temp.chars > 2 ?? $temp !! (0 x (2-$temp) ~ $temp) }, # TODO calculate for solar calendar years
+        'rrr',     { sink $^tz; sink $^c; my $temp = $^dt.year.Str; $temp.chars > 3 ?? $temp !! (0 x (3-$temp) ~ $temp) }, # TODO calculate for solar calendar years
+        'rrrr',    { sink $^tz; sink $^c; my $temp = $^dt.year.Str; $temp.chars > 4 ?? $temp !! (0 x (4-$temp) ~ $temp) }, # TODO calculate for solar calendar years
+        'rrrrr',   { sink $^tz; sink $^c; my $temp = $^dt.year.Str; $temp.chars > 5 ?? $temp !! (0 x (5-$temp) ~ $temp) }, # TODO calculate for solar calendar years
+        'rrrrrr',  { sink $^tz; sink $^c; my $temp = $^dt.year.Str; $temp.chars > 6 ?? $temp !! (0 x (6-$temp) ~ $temp) }, # TODO calculate for solar calendar years
         # The 'R' series is presently undefined
         # The 's' series indicates the seconds of the current minute, with or without padding
-        s =>       { sink $^tz; sink %^c;                                 ~ $^dt.second.floor },
-        ss =>      { sink $^tz; sink %^c; ($^dt.second < 10 ?? '0' !! '') ~ $^dt.second.floor },
+        's',       { sink $^tz; sink $^c;                                 ~ $^dt.second.floor },
+        'ss',      { sink $^tz; sink $^c; ($^dt.second < 10 ?? '0' !! '') ~ $^dt.second.floor },
         # The 'S' series indicates fractional time, truncated, but with a specific number of digits
-        S =>       { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 1); $S ~ ('0' x (1 - $S.chars)) }, # fractional sections, * is fractional digits
-        SS =>      { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 2); $S ~ ('0' x (2 - $S.chars)) }, # fractional sections, * is fractional digits
-        SSS =>     { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 3); $S ~ ('0' x (3 - $S.chars)) }, # fractional sections, * is fractional digits
-        SSSS =>    { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 4); $S ~ ('0' x (4 - $S.chars)) }, # fractional sections, * is fractional digits
-        SSSSS =>   { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 5); $S ~ ('0' x (5 - $S.chars)) }, # fractional sections, * is fractional digits
-        SSSSSS =>  { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 6); $S ~ ('0' x (6 - $S.chars)) }, # fractional sections, * is fractional digits
-        SSSSSSS => { sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 7); $S ~ ('0' x (7 - $S.chars)) }, # fractional sections, * is fractional digits
-        SSSSSSSS =>{ sink $^tz; sink %^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 8); $S ~ ('0' x (8 - $S.chars)) }, # fractional sections, * is fractional digits
+        'S',       { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 1); $S ~ ('0' x (1 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SS',      { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 2); $S ~ ('0' x (2 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSS',     { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 3); $S ~ ('0' x (3 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSS',    { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 4); $S ~ ('0' x (4 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSS',   { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 5); $S ~ ('0' x (5 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSSS',  { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 6); $S ~ ('0' x (6 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSSSS', { sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 7); $S ~ ('0' x (7 - $S.chars)) }, # fractional sections, * is fractional digits
+        'SSSSSSSS',{ sink $^tz; sink $^c; my $S = $^dt.second - $^dt.second.floor; $S = $S.Str.substr(2, 8); $S ~ ('0' x (8 - $S.chars)) }, # fractional sections, * is fractional digits
         # The 't' series is presently undefined
         # The 'T' series is presently undefined
         # The 'u' series indicates the extended year numeric which is unique to each calendar system, with padding.
         # TODO: implement for other calendar systems.  Gregorian
-        u =>       { sink $^tz; sink %^c; $^dt.year }, # I think this is right for Gregorian: julian 1 BC = 0; 2 BC = -1
+        'u',       { sink $^tz; sink $^c; $^dt.year }, # I think this is right for Gregorian: julian 1 BC = 0; 2 BC = -1
         # The 'v' series is the generic non-location format (e.g. common use forms like "Eastern Time"). 'vv' and 'vvv' are undefinde
         # Both lengths fall back to 'VVVV', although the 'v' falls back further to short GMT
-        v =>       { sink %^c; $^tz{$^dt.olson-id}<short>{$^dt.is-dst ?? 'daylight' !! 'standard'} // %formatters<VVVV>(%^c, $^dt, $^tz) }, # TODO: handle further fall back to only be short GMT
-        vvvv =>  { sink %^c, $^tz, $^dt }   # { long non location, fall back to VVVV }
+        'v',       { sink $^c; $^tz{$^dt.olson-id}<short>{$^dt.is-dst ?? 'daylight' !! 'standard'} // %formatters<VVVV>($^c, $^dt, $^tz) }, # TODO: handle further fall back to only be short GMT
+        'vvvv',    { sink $^c, $^tz, $^dt },   # { long non location, fall back to VVVV }
+
 # when 'V',     1 { short id, fall back to 'unk' }
 # when 'V',     2 { long id }
 # when 'V',     3 { exemplar city }
-# when 'V',     4 { generic location }
+# when 'V',     4 { generic location }>>>
+       'y',       { sink $^c, $^tz; $^dt.year },
+       'yy',      { sink $^c, $^tz; $^dt.year.Str.substr(*-2,2) },
+       'yyy',     { sink $^c, $^tz;; '0' x (3 - $^dt.year.Str.chars ) ~ $^dt.year },
+       'yyyy',    { sink $^c, $^tz;; '0' x (4 - $^dt.year.Str.chars ) ~ $^dt.year },
+       'yyyyy',   { sink $^c, $^tz;; '0' x (5 - $^dt.year.Str.chars ) ~ $^dt.year },
+       #'Y',     1 { $datetime.week-year }
+       #'YY',     2 { $datetime.week-year.Str.substr(*-2,2) }
+       #'Y', * > 3 { '0' x ($_[1] - $datetime.week-year.Str.chars ) ~ $datetime.week-year }
+
 ;
 
 
@@ -219,10 +229,10 @@ my %formatters := Map.new:
 
 sub time-pattern-replace { ... }
 sub date-pattern-replace { ... }
-
+grammar DateTimePattern { ... }
 # subs needed for calculations
 sub julian-day { ... }
-
+sub get-pattern { ... }
 
 sub format-datetime(
         DateTime() $datetime,       #= The datetime to be formatted
@@ -232,28 +242,43 @@ sub format-datetime(
         :$alt = 'standard'          #= Whether alternate forms should be used (leave false for best results).
 ) is export {
 
-    my \combo-pattern := language($language){$calendar}<dateTimeFormats>{$length}.subst("'","", :g);
+    my \calendar = cldr{$language}.dates.calendars.gregorian;
+
+    my \combo-pattern := calendar.datetime-formats{$length}.pattern; #{$length};
+    #.subst("'","", :g);
     # ^^ HOTFIX: TODO: parse this string correctly
-    my \time-pattern  := language($language){$calendar}<timeFormats>{$length}{$alt};
-    my \date-pattern  := language($language){$calendar}<dateFormats>{$length}{$alt};
+    my \time-pattern  := calendar.time-formats{$length}.pattern;
+    my \date-pattern  := calendar.date-formats{$length}.pattern;
     my \date = time-pattern-replace
             $datetime,
-            DateTimePattern.parse(date-pattern, :actions(DateTimePatternAction)).made,
+            get-pattern(date-pattern),
             $language,
-            $calendar;
+            calendar;
     my \time = time-pattern-replace
             $datetime,
-            DateTimePattern.parse(time-pattern, :actions(DateTimePatternAction)).made,
+            get-pattern(time-pattern),
             $language,
-            $calendar;
+            calendar;
     combo-pattern.subst:
             / '{' (0|1) '}' /,               # {0} and {1} are the replacement tokens
             { ~$0 eq '0' ?? time !! date },  # 0 = time in CLDR formats
             :g;
 }
 
+sub time-pattern-replace($datetime, @pattern, $language, $calendar) {
+    [~] do .isa(Str)
+            ?? $_
+            !! $_($calendar, $datetime, 'timezone')
+        for @pattern
+    #}
+}
 
 
+my %pattern-cache;
+sub get-pattern(Str() \str) {
+    .return with %pattern-cache{str};
+    %pattern-cache{str} := DateTimePattern.parse(str, :actions(DateTimePatternAction)).made;
+}
 
 
 grammar DateTimePattern {
@@ -263,21 +288,19 @@ grammar DateTimePattern {
         token element:sym<replace> { (<[a..zA..Z]>) $0* }
   proto token text                 {         *          }
         token text:sym<apostrophe> {        \'\'        }
-        token text:sym<literal>    {   <-[a..zA..Z']>+  }
+        token text:sym<literal>    {   <-[a..zA..Z']>+  }
         token text:sym<quoted>     {         \'           # apostrophes only allowed
                                     [ <-[']>+ || \'\' ]+  # if doubled, action reduces it
                                              \'         } # down to one
 }
 
 class DateTimePatternAction {
-  method TOP                  ($/) { make $<element>.map: *.made }
-  method element:sym<literal> ($/) {
-      make %(type => 'literal', text => $<text>.map(*.made).join)
-  }
-  method element:sym<replace> ($/) { make %(type => 'replace', style => $/.Str.chars, code => $0, call => %formatters{$/})}
-  method text:sym<apostrophe> ($/) { make "'" }
-  method text:sym<literal>    ($/) { make $/.Str }
-  method text:sym<quoted>     ($/) { make $/.Str.substr(1, *-1).subst("''","'") };
+  method TOP                  ($/) { make $<element>.map(*.made)      }
+  method element:sym<literal> ($/) { make $<text>.map(   *.made).join }
+  method element:sym<replace> ($/) { make %formatters{$/}             }
+  method text:sym<apostrophe> ($/) { make "'"                         }
+  method text:sym<literal>    ($/) { make $/.Str                      }
+  method text:sym<quoted>     ($/) { make $/.Str.substr(1, *-1).subst("''","'") };
 }
 
 # This
@@ -287,7 +310,7 @@ sub nominal-time-zone ($time) {
 
 
 my @days = <null sun mon tue wed thu fri sat>;
-sub time-pattern-replace ($datetime, @pattern, $language, $calendar) {
+sub time-pattern-replace-old ($datetime, @pattern, $language, $calendar) {
   # This implements ICU's DateFormatSymbols::initializeData  but also formats at the same time.
   # Right now I'm using a giant when block.  That's not very fast currently.
   # Focus is to have things accurate and readable first.
@@ -420,7 +443,7 @@ sub language(Str() $language) {
   my $alt-lang;
   while @subtags {
     $alt-lang = @subtags.join('-');
-    last if $calendar := cldr-data-for-lang(@subtags.join('-'))<calendars>;
+    last if $calendar := cldr{@subtags.join('-')}.dates.calendars;
     @subtags.pop;
   }
   %calendar-data{$alt-lang} := $calendar;
@@ -441,6 +464,8 @@ multi sub format-date(DateTime() $date, :$language = user-language, :$calendar =
 #multi sub format-date(Date $date, |c) {
 #    samewith DateTime.new(:$date), c
 #}
+
+
 
 
 

@@ -2,8 +2,6 @@ use Intl::CLDR::Immutability;
 
 unit class CLDR-TerritoryNames is CLDR-ItemNew is CLDR-Unordered;
 
-has $!parent;
-
 #######################################
 #  Attributes currently too numerous  #
 # to define explicitly, done via hash #
@@ -23,9 +21,8 @@ method new(|c) {
     self.bless!bind-init: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    $!parent := parent;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];
 

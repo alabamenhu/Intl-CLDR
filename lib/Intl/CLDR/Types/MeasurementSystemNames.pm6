@@ -2,8 +2,6 @@ use Intl::CLDR::Immutability;
 
 unit class CLDR-MeasurementSystemNames is CLDR-ItemNew;
 
-has $!parent;
-
 has Str $.metric; #= The metric system
 has Str $.uk;     #= The UK imperial system
 has Str $.us;     #= The US customary system
@@ -12,9 +10,8 @@ method new(|c) {
     self.bless!bind-init: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    $!parent := parent;
 
     $!metric := StrDecode::get(blob, $offset);
     $!uk     := StrDecode::get(blob, $offset);

@@ -11,21 +11,18 @@ use Intl::LanguageTag;
 
 
 =begin pod
-With apologies to anyone who has to read this.
-
-
 The basic process for generating the data files is as follows:
 
   1. Read the base XML files (en, es, etc)
-  2. For each sub file, deep copy using C<EVAL %hash.raku>, and apply the new data (en-US, es-ES, etc) on top of it
-     using C<parse>
+  2. For each sub file, deep copy using C<from-json to-json %hash.raku>, and apply the new data (en-US, es-ES, etc)
+     on top of it using C<parse>
   3. Then, using C<encode>, generate the two data files -- a binary tree file and a strings file.
   4. The strings file is interpreted as a giant array, so that the binary file may easily reference
      the strings (many strings are repeated, so this saves space).
 
 The <alias> tag only exists for root, and not for any other language.  They are ignored by parse, and the fallback
 interpretations are generally handled in the C<encode> methods.  This means data may be duplicated (but duplicate
-strings are practically free).  The slight increase in memory is probably worth the speed improvements.
+strings are practically free).  The slight increase in memory is well worth the speed improvements.
 
 There are a number of subs available to C<parse> via C<Intl::CLDR::Util::XML-Helper>  to keep things simple:
   - elem $xml, $tag   OR   $xml.&elem($tag)
@@ -34,14 +31,13 @@ There are a number of subs available to C<parse> via C<Intl::CLDR::Util::XML-Hel
       Returns a child elements matching the tag
   - contents $xml
       Returns the text content of the tag
-
 =end pod
 
 my %results;
 
 my @language-files = "main".IO.dir;
 
-@language-files = @language-files.sort( *.basename.chars ).grep(none *.basename.contains('root'));
+@language-files = @language-files.sort( *.basename.chars ).grep(none *.basename eq 'root');
 @language-files.unshift("main/root.xml".IO); # root must come first
 my $total-load-time = 0;
 
@@ -56,14 +52,17 @@ for @language-files -> $language-file {
     $lang = LanguageTag.new($lang).canonical
         unless $lang eq 'root';
 
-    say "Encoding language '$lang'";
+    print "Encoding \x001b[34m{$lang}\x001b[0m: ";
 
     # Open file unless there's a combining diacritic on a delimiter, and make sure it's got elements
     my $file;
     try {
-        CATCH { say "Warning: could not open {$language-file}"; next; }
-        $file = open-xml($language-file);
-        next if $file.elements.elems == 1;
+        CATCH { say "\x001b[31mFailure\x001b[0m (could not open {$language-file})"; .say; next; }
+        # We can't pass the handler directly because the XML library doesn't autoclose.
+        $file = from-xml $language-file.slurp;
+        say "No data"
+            andthen next
+                if $file.elements.elems == 1;
     }
 
     # Data is designed to be cascading.
@@ -79,39 +78,37 @@ for @language-files -> $language-file {
                 } else {
                     %results{$lang} = from-json to-json %results<root>;
                 }
-                %results{$lang} := ($lang eq 'root' ?? Hash.new !! from-json to-json %results<root>) }
+                %results{$lang} := ($lang eq 'root' ?? Hash.new !! from-json to-json %results<root>)
+            }
             default {
                 %results{$lang} := %results{$lang.split('-')[0..*-2].join('-')}:exists # in a handful of instances, removing a single tag does not result in a valid match, but removing two ALWAYS does (for now);
-                    ?? (EVAL %results{$lang.split('-')[0..*-2].join('-')}.raku )
-                    !! (EVAL %results{$lang.split('-')[0..*-3].join('-')}.raku )
+                    ?? (from-json to-json %results{$lang.split('-')[0..*-2].join('-')} )
+                    !! (from-json to-json %results{$lang.split('-')[0..*-3].join('-')} )
             }
         }
     }
 
 
-    # Process and encode
-    my $base := %results{$lang};
-    StrEncode::reset(); # clears encoder
-    CLDR-Language.parse($base, $file);
-    my $blob = CLDR-Language.encode: $base;
+    try {
+        CATCH { say "\x001b[31mFailure\x001b[0m (there was a problem during loading:"; .say; next; }
 
-    # Write the data out
-    "languages-binary/{$lang}.data".IO.spurt: $blob, :bin;             # binary tree data
-    "languages-binary/{$lang}.strings".IO.spurt: StrEncode::output();  # StrEncode is a bad global for now
+        # Process and encode
+        my $start = now;
 
-    say "  Stringy  encoded length is ~", StrEncode::output().chars, " bytes";
-    say "  DataTree encoded length is  ", $blob.elems, " bytes";
+        my $base := %results{$lang};
+        StrEncode::reset(); # clears encoder
+        CLDR-Language.parse($base, $file);
+        my $blob = CLDR-Language.encode: $base;
 
-    # To load data, 'prepare' the StrDecode with the string data (again, bad global)
-    # Then call .new with a uint64 (currently in Rakudo this can't be anonymous) and a mock parent
-    use Intl::CLDR::Util::StrDecode;
-    StrDecode::prepare(StrEncode::output);
+        $total-load-time += (now - $start);
 
-    # Check we can reread it
-    my uint64 $foo = 0;
-    my $start = now;
-    sink CLDR-Language.new: $blob, $foo, 2;
-    $total-load-time += (now - $start);
+        # Write the data out
+        "languages-binary/{$lang}.data".IO.spurt: $blob, :bin;             # binary tree data
+        "languages-binary/{$lang}.strings".IO.spurt: StrEncode::output();  # StrEncode is a bad global for now
+
+        say "\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes";
+    }
+
 }
 
 say "Compilation complete.  Load time for {%results.keys.elems} files was ", $total-load-time, " ({$total-load-time / %results.keys.elems} avg)";

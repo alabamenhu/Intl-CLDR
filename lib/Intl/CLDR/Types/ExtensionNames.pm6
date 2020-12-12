@@ -14,8 +14,6 @@ unit class CLDR-ExtensionNames is CLDR-ItemNew is CLDR-Unordered;
 
 use Intl::CLDR::Types::ExtensionName;
 
-has $!parent;
-
 #######################################
 #  Attributes currently too numerous  #
 # to define explicitly, done via hash #
@@ -25,15 +23,14 @@ method new(|c) {
     self.bless!bind-init: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
+submethod !bind-init(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-    $!parent := parent;
     my $count = blob[$offset++];
 
     for ^$count {
         self.Hash::BIND-KEY:
                 StrDecode::get(blob, $offset),
-                CLDR-ExtensionName.new(blob, $offset, self);
+                CLDR-ExtensionName.new(blob, $offset);
     }
 
     self

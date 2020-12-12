@@ -1,5 +1,8 @@
 ![The Cippi of Melqart with a white butterfly resting atop the words Intl::CLDR for Raku](docs/logo.png)
 
+> *¿Cómo se diz na vuestra, na nuestra llingua, la palabra futuru?*  
+— Lecciones de gramática (Berta Piñán)
+
 # Intl::CLDR
 An attempt to bring in the data from CLDR into Raku.
  
@@ -33,17 +36,15 @@ use Intl::CLDR::Inmutability; # this name will change
 
 unit class CLDR-Foo is CLDR-Item;
 
-has $!parent;
-has $.attribute;
-has $.attribute;
+has $.attribute1;
+has $.attribute2;
 
-# Hash subclasses can't use BUILD or TWEAK, so we set up here
 method new(|c) { self.bless!bind-init: |c }
 
 # using !bind-init is a holdover from when all CLDR objects were 
 # hashes and could not access the BUILD phase.
 submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    use Intl::CLDR::Classes::StrDecode; 
+    use Intl::CLDR::Classes::StrDecode;
     
     # read data here
     $.attribute = StrDecode::get(blob, $offset);
@@ -53,7 +54,8 @@ submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
 
 # Not all classes use this, but CLDR is inconsistent on capitalization 
 # so we enable fallbacks so users can be self-consistent.  The method
-# is needed, but the constant makes for easier maintenance.
+# is needed, but the constant makes for easier maintenance.  This may
+# eventually end up using a technique similar to Trait::Also
 constant detour = Map.new: (altAttributeName => 'attribute');
 method DETOUR (--> detour) {}
 
@@ -63,7 +65,7 @@ method parse(\base, \xml) {
     # the base is a Hash and xml is an XML object from the XML module.
     # parsing is fairly open ended, but ideally, each parse phase does
     # only what is at its level and passing off deeper work to other
-    # classes. There are a few execptions, always noted and explained.
+    # classes. There are a few exceptions, always noted and explained.
 }
 
 method encode(%*foo --> buf8) { 

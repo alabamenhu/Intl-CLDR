@@ -37,6 +37,8 @@ class CLDR-ItemNew is Associative is export {
     constant \no-detour = Map.new;
     method DETOUR( --> no-detour ) {;}
 
+    method AT-KEY($key) { self."$key"() }
+
     method FALLBACK($key) {
         # There are two types of fallbacks that we can do, either a substitution method
         # (e.g. 'standAlone' -> 'stand-alone') or our class might be fully Hashy.

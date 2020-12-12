@@ -20,36 +20,100 @@ use Intl::CLDR::Types::Units;
 
 has $!parent;
 #  has $.character-labels;
-has CLDR-ContextTransforms  $.context-transforms;
-has CLDR-Dates              $.dates;
-has CLDR-Delimiters         $.delimiters;
-has CLDR-Layout             $.layout;
-has CLDR-ListPatterns       $.list-patterns;
-has CLDR-LocaleDisplayNames $.locale-display-names;
-has CLDR-Numbers            $.numbers;
-has CLDR-Posix              $.posix;
-has CLDR-Units              $.units;
+has CLDR-ContextTransforms  $!context-transforms;    my constant OFFSET-CONTEXT-TRANSFORM    =  8;
+has CLDR-Dates              $!dates;                 my constant OFFSET-DATES                = 12;
+has CLDR-Delimiters         $!delimiters;            my constant OFFSET-DELIMITERS           = 16;
+has CLDR-Layout             $!layout;                my constant OFFSET-LAYOUT               = 20;
+has CLDR-ListPatterns       $!list-patterns;         my constant OFFSET-LIST-PATTERNS        = 24;
+has CLDR-LocaleDisplayNames $!locale-display-names;  my constant OFFSET-LOCALE-DISPLAY-NAMES = 28;
+has CLDR-Numbers            $!numbers;               my constant OFFSET-NUMBERS              = 32;
+has CLDR-Posix              $!posix;                 my constant OFFSET-POSIX                = 36;
+has CLDR-Units              $!units;                 my constant OFFSET-UNITS                = 40;
 #  has $.typographic-names;
-#  has $.units;
 
-#| Creates a new CLDR-DayPeriodContext object
+
+has blob8 $!data;
+has str   @!strings;
+
+
+#| Creates a new CLDR-Language object
 method new(|c) {
     self.bless!bind-init: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !bind-init(\blob, \strs) {
 
-    $!context-transforms = CLDR-ContextTransforms.new: blob, $offset;
-    $!dates              = CLDR-Dates.new:             blob, $offset;
-    $!delimiters         = CLDR-Delimiters.new:        blob, $offset;
-    $!layout             = CLDR-Layout.new:            blob, $offset;
-    $!list-patterns      = CLDR-ListPatterns.new:      blob, $offset;
-    $!locale-display-names = CLDR-LocaleDisplayNames.new: blob, $offset, self;
-    $!numbers            = CLDR-Numbers.new:           blob, $offset;
-    $!posix              = CLDR-Posix.new:             blob, $offset;
-    $!units              = CLDR-Units.new:             blob, $offset;
+    $!data    := blob;
+    @!strings := strs;
+
+    #$!context-transforms = CLDR-ContextTransforms.new: blob, $offset;
+    #$!dates              = CLDR-Dates.new:             blob, $offset;
+    #$!delimiters         = CLDR-Delimiters.new:        blob, $offset;
+    #$!layout             = CLDR-Layout.new:            blob, $offset;
+    #$!list-patterns      = CLDR-ListPatterns.new:      blob, $offset;
+    #$!locale-display-names = CLDR-LocaleDisplayNames.new: blob, $offset;
+    #$!numbers            = CLDR-Numbers.new:           blob, $offset;
+    #$!posix              = CLDR-Posix.new:             blob, $offset;
+    #$!units              = CLDR-Units.new:             blob, $offset;
 
     self
+}
+
+
+method context-transforms {
+    .return with $!context-transforms;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-CONTEXT-TRANSFORM, LittleEndian);
+    $!context-transforms = CLDR-ContextTransforms.new: $!data, $offset
+}
+
+method dates {
+    .return with $!dates;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-DATES, LittleEndian);
+    $!dates = CLDR-Dates.new: $!data, $offset
+}
+method delimiters {
+    .return with $!delimiters;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-DELIMITERS, LittleEndian);
+    $!delimiters = CLDR-Delimiters.new: $!data, $offset
+}
+method layout {
+    .return with $!layout;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-LAYOUT, LittleEndian);
+    $!layout = CLDR-Delimiters.new: $!data, $offset
+}
+method list-patterns {
+    .return with $!list-patterns;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-LIST-PATTERNS, LittleEndian);
+    $!list-patterns = CLDR-ListPatterns.new: $!data, $offset
+}
+method locale-display-names {
+    .return with $!locale-display-names;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-LOCALE-DISPLAY-NAMES, LittleEndian);
+    $!locale-display-names = CLDR-LocaleDisplayNames.new: $!data, $offset
+}
+method numbers (--> CLDR-Numbers) {
+    .return with $!numbers;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-NUMBERS, LittleEndian);
+    $!numbers = CLDR-Numbers.new: $!data, $offset
+}
+method posix {
+    .return with $!posix;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-POSIX, LittleEndian);
+    $!posix = CLDR-Posix.new: $!data, $offset
+}
+method units {
+    .return with $!units;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-UNITS, LittleEndian);
+    $!units = CLDR-Units.new: $!data, $offset
 }
 
 # These normalize CLDR case mappings into Raku's
@@ -62,17 +126,39 @@ method DETOUR(--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*language) {
-    my $result = buf8.new;
-
-    $result ~= CLDR-ContextTransforms.encode( %*language<dates>              // Hash.new);
+    #my $result = buf8.new;
+    my $result = buf8.new:
+            67, 76, 68, 82,
+            100, 97, 116, 97,  # header 'CLDRdata'
+            0, 0, 0, 0, # context transform offset
+            0, 0, 0, 0, # dates offset
+            0, 0, 0, 0, # delimiters offset
+            0, 0, 0, 0, # layout offset
+            0, 0, 0, 0, # list patterns offset
+            0, 0, 0, 0, # localedisplaynames offset
+            0, 0, 0, 0, # numbers offset
+            0, 0, 0, 0, # posix offset
+            0, 0, 0, 0, # units offset
+    ;
+    $result.write-uint32: 8, $result.elems, LittleEndian;
+    $result ~= CLDR-ContextTransforms.encode( %*language<contextTransforms>  // Hash.new);
+    $result.write-uint32: 12, $result.elems, LittleEndian;
     $result ~= CLDR-Dates.encode(             %*language<dates>              // Hash.new);
+    $result.write-uint32: 16, $result.elems, LittleEndian;
     $result ~= CLDR-Delimiters.encode(        %*language<delimiters>         // Hash.new);
+    $result.write-uint32: 20, $result.elems, LittleEndian;
     $result ~= CLDR-Layout.encode(            %*language<layout>             // Hash.new);
+    $result.write-uint32: 24, $result.elems, LittleEndian;
     $result ~= CLDR-ListPatterns.encode(      %*language<listPatterns>       // Hash.new);
+    $result.write-uint32: 28, $result.elems, LittleEndian;
     $result ~= CLDR-LocaleDisplayNames.encode(%*language<localeDisplayNames> // Hash.new);
+    $result.write-uint32: 32, $result.elems, LittleEndian;
     $result ~= CLDR-Numbers.encode(           %*language<numbers>            // Hash.new);
+    $result.write-uint32: 36, $result.elems, LittleEndian;
     $result ~= CLDR-Posix.encode(             %*language<posix>              // Hash.new);
+    $result.write-uint32: 40, $result.elems, LittleEndian;
     $result ~= CLDR-Units.encode(             %*language<units>              // Hash.new);
+    #$result.write-uint32: 36, $result.elems, LittleEndian;
 
     $result
 }

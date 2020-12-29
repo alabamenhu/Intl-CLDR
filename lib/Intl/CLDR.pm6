@@ -29,7 +29,6 @@ and for both simplicity (and increased efficiency), binding to subelements.
 =end pod
 
 sub EXPORT {
-    say "I got called";
     use Intl::CLDR::Types::Database;
     state CLDR-Database $database //= CLDR-Database.new;
     return %(

@@ -1,7 +1,7 @@
 use Intl::CLDR::Immutability;
 use Intl::CLDR::Types::Zone;
 
-unit class CLDR-Zones is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR-Zones is CLDR-Unordered is CLDR-ItemNew ;
 
 #! Because names are not stable, no other attributes:
 #!   hashy access is required)

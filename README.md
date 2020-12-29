@@ -4,8 +4,8 @@
 — Lecciones de gramática (Berta Piñán)
 
 # Intl::CLDR
-An attempt to bring in the data from CLDR into Raku.
- 
+An attempt to bring in the data from CLDR into Raku. 
+
 This branch (*zoom-zoom*) aims to maintain functionality but vastly improve performance, both
 mainly from a speed perspective, but also improves memory efficiency and will aide long term maintenance.
 
@@ -18,6 +18,13 @@ This is primarily for obtaining more-or-less raw data with proper fallbacks.
 
 For those interested in trying out this branch, focus on the classes in `Intl::CDLR::Types` and the new processing script
 `resources/parse-main-file-new.p6`.  
+
+To install, be aware that due to the number of files, you may need to increase the maximum number of open files (on most systems, the default is several thousand, but on macOS, it's a paltry 256).
+
+```
+> ulimit -Sn 4096
+> zef install Intl::CLDR
+```
 
 ## CLDR objects
 
@@ -95,6 +102,7 @@ The latter three are currently organized exactly as in CLDR, but I may rearrange
   * 0.5β
     * Redesigned data structure, and it's all about speed
     * See readme for full details.
+    * Pulled out `Format::DateTime` into its own module
     * **Not** backwards compatible with v.0.4.3, make sure to specify version in `use` statement
   * 0.4.3
     * Fixed install issues

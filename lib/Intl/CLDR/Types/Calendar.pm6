@@ -88,7 +88,7 @@ method parse(\base, \xml) {
     CLDR-MonthPatterns.parse:   (base<monthPatterns>    //= Hash.new), $_ with xml.&elem('monthPatterns');
     CLDR-Quarters.parse:        (base<quarters>         //= Hash.new), $_ with xml.&elem('quarters');
     CLDR-Days.parse:            (base<days>             //= Hash.new), $_ with xml.&elem('days');
-    CLDR-DayPeriods.parse:      (base<dayperiods>       //= Hash.new), $_ with xml.&elem('dayPeriods');
+    CLDR-DayPeriods.parse:      (base<dayPeriods>       //= Hash.new), $_ with xml.&elem('dayPeriods');
     CLDR-Eras.parse:            (base<eras>             //= Hash.new), $_ with xml.&elem('eras');
     CLDR-CyclicNameSets.parse:  (base<cyclicNameSets>   //= Hash.new), $_ with xml.&elem('cyclicNameSets');
     CLDR-DateFormats.parse:     (base<dateFormats>      //= Hash.new), $_ with xml.&elem('dateFormats');

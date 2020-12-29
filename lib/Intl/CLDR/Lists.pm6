@@ -6,7 +6,7 @@ use Intl::UserLanguage;
 # script that works on the main folder found from the CLDR.  For more
 # information, see that particular file.
 
-our %data = BEGIN {
+our %data = {
   my %collection;
 
   #for '../../../resources/ListFormatting.data'.IO.lines -> $line {

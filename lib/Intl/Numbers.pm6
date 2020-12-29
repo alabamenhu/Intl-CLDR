@@ -14,7 +14,7 @@ my %decimal-systems;
 my %pattern-db;
 
 # This data will only change once per update to CLDR, so compile-time spares us much work
-BEGIN {
+{
   @patterns = %?RESOURCES<NumberPatterns.data>.lines.map({LazyFormat.new($_)});
   @symbols  = %?RESOURCES<NumericSymbols.data>.lines.map({ SymbolSet.new($_)});
   for %?RESOURCES<NumberSystemsDefault.data>.lines {

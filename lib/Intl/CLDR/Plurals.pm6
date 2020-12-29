@@ -2,7 +2,7 @@ unit module Plurals;
 use Intl::CLDR::Plurals::Classes;
 use Intl::LanguageTag;
 
-my %checkers = BEGIN {
+my %checkers = {
   my %data = ();
   #for "../../../resources/PluralLogic.data".IO.lines -> $line {
   for %?RESOURCES<PluralLogic.data>.lines -> $line {

@@ -13,7 +13,7 @@ method AT-KEY (\key) {
     .return with %!languages{key};
 
     # Else begin searching for it
-    my @subtags = key.split('-');
+    my @subtags = key.Str.split('-');
 
     # TODO Some better logic needs to be placed here for peeling off subtags.  That may best go into
     # the LanguageTag module instead (for example, if given en-Latn-UK only en will be loaded, but Latn is
@@ -54,8 +54,8 @@ method AT-KEY (\key) {
 sub load-data($tag) {
     use Intl::CLDR::Util::StrDecode;
 
-    my str @strs = %?RESOURCES{"languages-binary/{ $tag }.strings"}.split(31.chr);
-    my     \blob = %?RESOURCES{"languages-binary/{ $tag }.data"   }.slurp( :bin );
+    my str @strs = %?RESOURCES{"languages-binary/" ~ $tag ~ ".strings"}.split(31.chr);
+    my     \blob = %?RESOURCES{"languages-binary/" ~ $tag ~ ".data"}.slurp( :bin );
 
     return CLDR-Language.new: blob, @strs;
 }

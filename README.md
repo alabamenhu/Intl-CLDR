@@ -6,23 +6,20 @@
 # Intl::CLDR
 An attempt to bring in the data from CLDR into Raku. 
 
-This branch (*zoom-zoom*) aims to maintain functionality but vastly improve performance, both
+The newest version (**v0.5**) aims to maintain functionality but vastly improve performance, both
 mainly from a speed perspective, but also improves memory efficiency and will aide long term maintenance.
 
-There have been slight API changes from the old branch, so as noted before, if using, please
+There have been slight API changes from previous versions, so as noted before, if using, please
 ensure that you add version information to your use statements (at least until v.1.0);
 
 **Do not** use anything outside of the Intl::CLDR from this branch.
-Those functionalities will be spun off into their own modules.
+Those functionalities are in the process of being spun off into their own modules.
 This is primarily for obtaining more-or-less raw data with proper fallbacks.
-
-For those interested in trying out this branch, focus on the classes in `Intl::CDLR::Types` and the new processing script
-`resources/parse-main-file-new.p6`.  
 
 To install, be aware that due to the number of files, you may need to increase the maximum number of open files (on most systems, the default is several thousand, but on macOS, it's a paltry 256).
 
 ```
-> ulimit -Sn 4096
+> ulimit -n 4096
 > zef install Intl::CLDR
 ```
 
@@ -31,65 +28,6 @@ To install, be aware that due to the number of files, you may need to increase t
 Each `CLDR-*` object is a subclass of `Hash`, and attributes can generally be accessed both from 
 hashy accessors (`{'foo'}`)or method/attribute accessors (`.foo`).
 True attributes are defined with kebab-case, but camel-case alternates are available as well (this is because CLDR began with camel case, and now tends to prefer kebab-case).  
-There is a noticeable performance hit because of the initial set up for this, so things may change on this front if I can't find a more efficient way to enable it.
-
-
-## Mega-rewrite structure
-
-Each new type object (in `Int::CLDR::Types::`) has roughly the same format:
-
-```raku 
-use Intl::CLDR::Inmutability; # this name will change
-
-unit class CLDR-Foo is CLDR-Item;
-
-has $.attribute1;
-has $.attribute2;
-
-method new(|c) { self.bless!bind-init: |c }
-
-# using !bind-init is a holdover from when all CLDR objects were 
-# hashes and could not access the BUILD phase.
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    use Intl::CLDR::Classes::StrDecode;
-    
-    # read data here
-    $.attribute = StrDecode::get(blob, $offset);
-    
-    self
-}
-
-# Not all classes use this, but CLDR is inconsistent on capitalization 
-# so we enable fallbacks so users can be self-consistent.  The method
-# is needed, but the constant makes for easier maintenance.  This may
-# eventually end up using a technique similar to Trait::Also
-constant detour = Map.new: (altAttributeName => 'attribute');
-method DETOUR (--> detour) {}
-
-method parse(\base, \xml) {
-    use Intl::CLDR::Util::XML-Helper;
-   
-    # the base is a Hash and xml is an XML object from the XML module.
-    # parsing is fairly open ended, but ideally, each parse phase does
-    # only what is at its level and passing off deeper work to other
-    # classes. There are a few exceptions, always noted and explained.
-}
-
-method encode(%*foo --> buf8) { 
-    # a dynamic variable is normally used, in case fallbacks need to refer back
-    use Intl::CLDR::Classes::StrEncode;
-    
-    my $result = buf8.new;
-    
-    # Generally the 'base' that was produced will be passed in here. 
-    # The data should be stored in a binary serial format to be recovered
-    # in the !bind-init method.
-               
-    $result
-}
-```
-
-Before distribution, the `parse` and `encode` functions will be commented out, as they are not intended for end user use, but make more sense to be packaged with each class for general maintenance / development.
 
 ## Other thoughts
 
@@ -99,10 +37,11 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient method of accessing things (e.g. `calendar.formats<time date datetime interval>`)
 
 # Version History
-  * 0.5β
+  * 0.5.0
     * Redesigned data structure, and it's all about speed
-    * See readme for full details.
-    * Pulled out `Format::DateTime` into its own module
+    * See docs for full details.
+    * Pulled out `Intl::Format::DateTime` into its own module
+    * Pulled out `Intl::Format::List` into its own module
     * **Not** backwards compatible with v.0.4.3, make sure to specify version in `use` statement
   * 0.4.3
     * Fixed install issues

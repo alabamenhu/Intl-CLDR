@@ -40,14 +40,14 @@ method encode($list-pattern-width) {
     sub fallback {
         do given $*list-pattern-type, $list-pattern-width {
             when 'standard', 'standard' { %*list-patterns<standard>                                                                        }
-            when 'standard', 'short'    { %*list-patterns<standard-short>  // %*list-patterns<standard>                                    }
-            when 'standard', 'narrow'   { %*list-patterns<standard-narrow> // %*list-patterns<standard-short> // %*list-patterns<standard> }
+            when 'standard', 'short'    { %*list-patterns<standard-short>  || %*list-patterns<standard>                                    }
+            when 'standard', 'narrow'   { %*list-patterns<standard-narrow> || %*list-patterns<standard-short> || %*list-patterns<standard> }
             when 'or',       'standard' { %*list-patterns<or>                                                                              }
-            when 'or',       'short'    { %*list-patterns<or-short>        // %*list-patterns<or>                                          }
-            when 'or',       'narrow'   { %*list-patterns<or-narrow>       // %*list-patterns<or-short>       // %*list-patterns<or>       }
+            when 'or',       'short'    { %*list-patterns<or-short>        || %*list-patterns<or>                                          }
+            when 'or',       'narrow'   { %*list-patterns<or-narrow>       || %*list-patterns<or-short>       || %*list-patterns<or>       }
             when 'unit',     'standard' { %*list-patterns<unit>                                                                            }
-            when 'unit',     'short'    { %*list-patterns<unit-short>      // %*list-patterns<unit>                                        }
-            when 'unit',     'narrow'   { %*list-patterns<unit-narrow>     // %*list-patterns<unit-short>     // %*list-patterns<unit>     }
+            when 'unit',     'short'    { %*list-patterns<unit-short>      || %*list-patterns<unit>                                        }
+            when 'unit',     'narrow'   { %*list-patterns<unit-narrow>     || %*list-patterns<unit-short>     || %*list-patterns<unit>     }
         } || Hash
     }
 

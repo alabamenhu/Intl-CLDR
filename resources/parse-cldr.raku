@@ -61,7 +61,7 @@ sub MAIN (*@letters) {
     my $*day-period-xml = from-xml "cldr-common/common/supplemental/dayPeriods.xml".IO.slurp;
 
     @language-files = @language-files.sort( *.basename.chars ).grep(*.basename.starts-with: any @letters).grep(none *.basename eq 'root');
-    @language-files.unshift("main/root.xml".IO); # root must come first
+    @language-files.unshift("cldr-common/common/main/root.xml".IO); # root must come first
     my $total-load-time = 0;
 
 
@@ -80,7 +80,7 @@ sub MAIN (*@letters) {
         # Open file unless there's a combining diacritic on a delimiter, and make sure it's got elements
         my $file;
         try {
-            CATCH { say "\x001b[31mFailure\x001b[0m (could not open {$language-file})"; next; }
+            CATCH { say "\x001b[31mFailure\x001b[0m (could not open {$language-file})"; .say; next; }
             # We can't pass the handler directly because the XML library doesn't autoclose.
             $file = from-xml $language-file.slurp;
             say "No data"

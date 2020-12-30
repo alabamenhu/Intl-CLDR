@@ -15,3 +15,7 @@ Thumbs.db
 lib/.precomp
 .idea
 *.iml
+#################
+# Unicode files #
+#################
+resources/cldr-common

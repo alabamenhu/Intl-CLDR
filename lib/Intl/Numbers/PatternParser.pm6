@@ -8,7 +8,7 @@ grammar Pattern {
   token TOP { <pattern> [ ';' <negative> ]? }
   token negative       {
                         || <pattern>
-                        || <prefix>? '#' <suffix>? <?{ $<prefix> || $<suffix> }> # need at least one
+                        || <prefix>? '#' <suffix>? <?{ $<prefix> || $<suffix> }> # need at least one
                        }
   token pattern {
     # TODO: padding may only be indicated *once*
@@ -26,10 +26,10 @@ grammar Pattern {
                      | <integer> ['.' <fraction>]? # the decimal is needed for exponent, ignored otherwise
                      | <sig-digits>
                    }
-  token prefix     { <text>+ }
-  token suffix     { <text>+ }
-  token text       { <quoted> || (<-[.,;E*'0..9#@]>) } # %‰¤+- have meaning, TODO TR 35 says E doesn't need to be quoted
-  token quoted     { '\'' (<[-+.,;E*%‰¤0..9#@]>)? '\'' }
+  token prefix     { <text>+ }
+  token suffix     { <text>+ }
+  token text       { <quoted> || (<-[.,;E*'0..9#@]>) } # %‰¤+- have meaning, TODO TR 35 says E doesn't need to be quoted
+  token quoted     { '\'' (<[-+.,;E*%‰¤0..9#@]>)? '\'' }
   token integer    {
                       <[#,]>*    # placeholder digits / grouping separators
                       <[0,]>*    # mandatory / rounding digits / grouping separators

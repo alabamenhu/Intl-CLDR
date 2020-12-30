@@ -1011,12 +1011,12 @@
   ],
   "test-depends": [
   ],
-  "raku": null,
+  "raku": "6.*",
   "support": {
     "source": null
   },
   "name": "Intl::CLDR",
-  "perl": null,
+  "perl": "6.*",
   "license": "Artistic-2.0",
   "api": "1",
   "description": "A module providing access to the Unicode Common Language Data Repository",

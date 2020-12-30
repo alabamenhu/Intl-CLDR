@@ -1070,6 +1070,8 @@
     "Intl::CLDR::Types::LocaleDisplayNames": "lib/Intl/CLDR/Types/LocaleDisplayNames.pm6",
     "Intl::Numbers": "lib/Intl/Numbers.pm6",
     "Intl::Numbers::Enums": "lib/Intl/Numbers/Enums.pm6",
+    "Intl::Numbers::Classes": "lib/Intl/Numbers/Classes.pm6",
+    "Intl::Numbers::PatternParser": "lib/Intl/Numbers/PatternParser.pm6",
     "Intl::CLDR::Types::AvailableFormats": "lib/Intl/CLDR/Types/AvailableFormats.pm6",
     "Intl::CLDR::Types::SymbolSet": "lib/Intl/CLDR/Types/SymbolSet.pm6",
     "Intl::CLDR::Types::Coordinates": "lib/Intl/CLDR/Types/Coordinates.pm6",

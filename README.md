@@ -37,6 +37,9 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient method of accessing things (e.g. `calendar.formats<time date datetime interval>`)
 
 # Version History
+  * 0.5.1 (in progress)
+    * Updated `DecimalFormatSystem`, `CurrencyFormatSystem` and `ScientificFormatSystem` to support Hash-y access.
+    * Pulled out `Intl::Format::Numbers` into its own module (as `Intl::Format::Number`)
   * 0.5.0
     * Redesigned data structure, and it's all about speed
     * See docs for full details.

@@ -1001,7 +1001,7 @@
     "languages-binary/en-MU.strings",
     "languages-binary/sr-Latn-XK.strings",
     "languages-binary/ms-BN.strings",
-    "languages-binary/fr-BE.strings",
+    "languages-binary/fr-BE.strings"
   ],
   "source-url": "git://github.com/alabamenhu/Intl-CLDR.git",
   "depends": [

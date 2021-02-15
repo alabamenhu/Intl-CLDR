@@ -6,6 +6,7 @@ use Intl::CLDR::Types::Characters;
 use Intl::CLDR::Types::ContextTransforms;
 use Intl::CLDR::Types::Dates;
 use Intl::CLDR::Types::Delimiters;
+use Intl::CLDR::Types::Grammar;
 use Intl::CLDR::Types::Layout;
 use Intl::CLDR::Types::ListPatterns;
 use Intl::CLDR::Types::LocaleDisplayNames;
@@ -25,12 +26,13 @@ has CLDR-Characters         $!characters;            my constant OFFSET-CHARACTE
 has CLDR-ContextTransforms  $!context-transforms;    my constant OFFSET-CONTEXT-TRANSFORM    = 12;
 has CLDR-Dates              $!dates;                 my constant OFFSET-DATES                = 16;
 has CLDR-Delimiters         $!delimiters;            my constant OFFSET-DELIMITERS           = 20;
-has CLDR-Layout             $!layout;                my constant OFFSET-LAYOUT               = 24;
-has CLDR-ListPatterns       $!list-patterns;         my constant OFFSET-LIST-PATTERNS        = 28;
-has CLDR-LocaleDisplayNames $!locale-display-names;  my constant OFFSET-LOCALE-DISPLAY-NAMES = 32;
-has CLDR-Numbers            $!numbers;               my constant OFFSET-NUMBERS              = 36;
-has CLDR-Posix              $!posix;                 my constant OFFSET-POSIX                = 40;
-has CLDR-Units              $!units;                 my constant OFFSET-UNITS                = 44;
+has CLDR-Grammar            $!grammar;               my constant OFFSET-GRAMMAR              = 24;
+has CLDR-Layout             $!layout;                my constant OFFSET-LAYOUT               = 28;
+has CLDR-ListPatterns       $!list-patterns;         my constant OFFSET-LIST-PATTERNS        = 32;
+has CLDR-LocaleDisplayNames $!locale-display-names;  my constant OFFSET-LOCALE-DISPLAY-NAMES = 36;
+has CLDR-Numbers            $!numbers;               my constant OFFSET-NUMBERS              = 40;
+has CLDR-Posix              $!posix;                 my constant OFFSET-POSIX                = 44;
+has CLDR-Units              $!units;                 my constant OFFSET-UNITS                = 48;
 #  has $.typographic-names;
 
 
@@ -47,16 +49,6 @@ submethod !bind-init(\blob, \strs) {
 
     $!data    := blob;
     @!strings := strs;
-
-    #$!context-transforms = CLDR-ContextTransforms.new: blob, $offset;
-    #$!dates              = CLDR-Dates.new:             blob, $offset;
-    #$!delimiters         = CLDR-Delimiters.new:        blob, $offset;
-    #$!layout             = CLDR-Layout.new:            blob, $offset;
-    #$!list-patterns      = CLDR-ListPatterns.new:      blob, $offset;
-    #$!locale-display-names = CLDR-LocaleDisplayNames.new: blob, $offset;
-    #$!numbers            = CLDR-Numbers.new:           blob, $offset;
-    #$!posix              = CLDR-Posix.new:             blob, $offset;
-    #$!units              = CLDR-Units.new:             blob, $offset;
 
     self
 }
@@ -86,6 +78,12 @@ method delimiters {
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-DELIMITERS, LittleEndian);
     $!delimiters = CLDR-Delimiters.new: $!data, $offset
+}
+method grammar {
+    .return with $!grammar;
+    use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
+    my uint64 $offset = $!data.read-uint32(OFFSET-GRAMMAR, LittleEndian);
+    $!grammar = CLDR-Grammar.new: $!data, $offset
 }
 method layout {
     .return with $!layout;
@@ -124,6 +122,11 @@ method units {
     $!units = CLDR-Units.new: $!data, $offset
 }
 
+method gist {
+    '[CLDR-Language: characters,context-transforms,dates,delimiters,grammar,layout,list-patterns,locale-display-names,numbers,posix,units]';
+}
+
+
 # These normalize CLDR case mappings into Raku's
 constant \detour = Map.new: (
     contextTransforms  => 'context-transforms',
@@ -142,6 +145,7 @@ method encode(%*language) {
             0, 0, 0, 0, # context transform offset
             0, 0, 0, 0, # dates offset
             0, 0, 0, 0, # delimiters offset
+            0, 0, 0, 0, # grammar offset
             0, 0, 0, 0, # layout offset
             0, 0, 0, 0, # list patterns offset
             0, 0, 0, 0, # localedisplaynames offset
@@ -151,34 +155,49 @@ method encode(%*language) {
     ;
     $result.write-uint32: OFFSET-CHARACTERS, $result.elems, LittleEndian;
     $result ~= CLDR-Characters.encode(        %*language<characters>         // Hash.new);
+
     $result.write-uint32: OFFSET-CONTEXT-TRANSFORM, $result.elems, LittleEndian;
     $result ~= CLDR-ContextTransforms.encode( %*language<contextTransforms>  // Hash.new);
+
     $result.write-uint32: OFFSET-DATES, $result.elems, LittleEndian;
     $result ~= CLDR-Dates.encode(             %*language<dates>              // Hash.new);
+
     $result.write-uint32: OFFSET-DELIMITERS, $result.elems, LittleEndian;
     $result ~= CLDR-Delimiters.encode(        %*language<delimiters>         // Hash.new);
-    $result.write-uint32: 24, $result.elems, LittleEndian;
+
+    $result.write-uint32: OFFSET-GRAMMAR, $result.elems, LittleEndian;
+    $result ~= CLDR-Grammar.encode(           %*language<grammar>            // Hash.new);
+
+    $result.write-uint32: OFFSET-LAYOUT, $result.elems, LittleEndian;
     $result ~= CLDR-Layout.encode(            %*language<layout>             // Hash.new);
-    $result.write-uint32: 28, $result.elems, LittleEndian;
+
+    $result.write-uint32: OFFSET-LIST-PATTERNS, $result.elems, LittleEndian;
     $result ~= CLDR-ListPatterns.encode(      %*language<listPatterns>       // Hash.new);
-    $result.write-uint32: 32, $result.elems, LittleEndian;
+
+    $result.write-uint32: OFFSET-LOCALE-DISPLAY-NAMES, $result.elems, LittleEndian;
     $result ~= CLDR-LocaleDisplayNames.encode(%*language<localeDisplayNames> // Hash.new);
-    $result.write-uint32: 36, $result.elems, LittleEndian;
+
+    $result.write-uint32: OFFSET-NUMBERS, $result.elems, LittleEndian;
     $result ~= CLDR-Numbers.encode(           %*language<numbers>            // Hash.new);
-    $result.write-uint32: 40, $result.elems, LittleEndian;
+
+    $result.write-uint32: OFFSET-POSIX, $result.elems, LittleEndian;
     $result ~= CLDR-Posix.encode(             %*language<posix>              // Hash.new);
-    $result.write-uint32: 44, $result.elems, LittleEndian;
+
+    $result.write-uint32: OFFSET-UNITS, $result.elems, LittleEndian;
     $result ~= CLDR-Units.encode(             %*language<units>              // Hash.new);
+
     #$result.write-uint32: 36, $result.elems, LittleEndian;
 
     $result
 }
+
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR-Characters.parse:         (base<characters>         //= Hash.new), $_ with xml.&elem('characters');
     CLDR-ContextTransforms.parse:  (base<contextTransforms>  //= Hash.new), $_ with xml.&elem('contextTransforms');
     CLDR-Dates.parse:              (base<dates>              //= Hash.new), $_ with xml.&elem('dates');
     CLDR-Delimiters.parse:         (base<delimiters>         //= Hash.new), $_ with xml.&elem('delimiters');
+    CLDR-Grammar.parse:            (base<grammar>            //= Hash.new), $; # Uses supplemental data
     CLDR-Layout.parse:             (base<layout>             //= Hash.new), $_ with xml.&elem('layout');
     CLDR-ListPatterns.parse:       (base<listPatterns>       //= Hash.new), $_ with xml.&elem('listPatterns');
     CLDR-LocaleDisplayNames.parse: (base<localeDisplayNames> //= Hash.new), $_ with xml.&elem('localeDisplayNames');

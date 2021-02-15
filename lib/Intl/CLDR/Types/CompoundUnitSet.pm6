@@ -45,14 +45,14 @@ submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-CompoundUnitSet) {
     $!gender-coefficient     = blob[$offset++];
     $!gender-table           = blob.subbuf($offset, 7); $offset += 7;
 
-    for ^$!length-coefficient X ^$!count-coefficient X ^$!case-coefficient X ^$!gender-coefficient {
-        @!patterns.push: StrDecode::get(blob, $offset);
+    for ^($!length-coefficient * $!count-coefficient * $!case-coefficient * $!gender-coefficient) {
+        @!patterns[$_] := StrDecode::get(blob, $offset)
     }
 
-    $!length-coefficient--;
-    $!count-coefficient--;
-    $!case-coefficient--;
-    $!gender-coefficient--;
+    #$!length-coefficient--;
+    #$!count-coefficient--;
+    #$!case-coefficient--;
+    #$!gender-coefficient--;
 
     self;
 }
@@ -105,14 +105,14 @@ class Selector is Positional {
     method pattern ( --> Str) {
         $!parent!CLDR-CompoundUnitSet::patterns[
             $!parent!CLDR-CompoundUnitSet::length-table[$!length == -1 ?? 1 !! $!length]
-                * $!parent!CLDR-CompoundUnitSet::length-coefficient
                 * $!parent!CLDR-CompoundUnitSet::count-coefficient
                 * $!parent!CLDR-CompoundUnitSet::case-coefficient
+                * $!parent!CLDR-CompoundUnitSet::gender-coefficient
             + $!parent!CLDR-CompoundUnitSet::count-table[$!count == -1 ?? 5 !! $!count]
-                * $!parent!CLDR-CompoundUnitSet::count-coefficient
                 * $!parent!CLDR-CompoundUnitSet::case-coefficient
+                * $!parent!CLDR-CompoundUnitSet::gender-coefficient
             + $!parent!CLDR-CompoundUnitSet::case-table[$!case == -1 ?? 9 !! $!case]
-                * $!parent!CLDR-CompoundUnitSet::case-coefficient
+                * $!parent!CLDR-CompoundUnitSet::gender-coefficient
             + $!parent!CLDR-CompoundUnitSet::gender-table[$!gender == -1 ?? 0 !! $!gender] # if neuter exists, it's the default.  If not, it reroutes to masculine anyways
         ]
     }

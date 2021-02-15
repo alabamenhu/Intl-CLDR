@@ -6,7 +6,7 @@ use Intl::CLDR::Enums;
 
 has str  @!display-names;
 has str  @!per-unit-patterns;
-has Gender::Gender  $!gender;
+has Gender::Gender  $.gender;
 has int  $!length-coefficient;
 has buf8 $!length-table;
 has int  $!case-coefficient;
@@ -27,8 +27,15 @@ method !length-table       { $!length-table       }
 method !count-coefficient  { $!count-coefficient  }
 method !count-table        { $!count-table        }
 method !case-table         { $!case-table         }
+method !case-coefficient   { $!case-coefficient   }
 
-
+method debug {
+    say "  Unit debug";
+    say "    lengths: ($!length-coefficient)  ", $!length-table;
+    say "    counts:  ($!count-coefficient)  ", $!count-table;
+    say "    cases:   ($!case-coefficient) " ~ (' ' if $!case-coefficient < 9), $!case-table;
+    say "      $_:\t" ~ @!patterns[$_] for ^@!patterns;
+}
 #| Creates a new CLDR-ScientificFormat object
 method new(|c --> CLDR-SimpleUnitSet) {
     self.bless!bind-init: |c;
@@ -51,15 +58,18 @@ submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-SimpleUnitSet) {
     $!case-table             = blob.subbuf($offset, 14); $offset += 14;
 
     my $decode = 0;
-    #@!patterns = my str @[$!length-coefficient, $!count-coefficient, $!case-coefficient];
-    for ^$!length-coefficient X ^$!count-coefficient X ^$!case-coefficient -> ($length, $count, $case) {
-        @!patterns[
-            $length * $!length-coefficient * $!count-coefficient +
-            $count  * $!count-coefficient +
-            $case
-        ] := StrDecode::get(blob, $offset);
-        $decode++;
+    for ^($!length-coefficient * $!count-coefficient * $!case-coefficient) {
+        @!patterns[$_] := StrDecode::get(blob, $offset)
     }
+    #@!patterns = my str @[$!length-coefficient, $!count-coefficient, $!case-coefficient];
+    #for ^$!length-coefficient X ^$!count-coefficient X ^$!case-coefficient -> ($length, $count, $case) {
+    #    @!patterns[
+    #        $length * $!length-coefficient * $!count-coefficient +
+    #        $count  * $!count-coefficient +
+    #        $case
+    #    ] := StrDecode::get(blob, $offset);
+    #    $decode++;
+    #}
 
     self;
 }
@@ -100,6 +110,10 @@ class Selector is Positional {
     method sociative           (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     12 }
     method vocative            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     13 }
 
+    method AT-KEY($key) {
+        self."$key"();
+    }
+
     method gender (--> Gender::Gender) {
         Gender::Gender($!parent!CLDR-SimpleUnitSet::gender)
     }
@@ -116,10 +130,10 @@ class Selector is Positional {
     method pattern ( --> str) {
         $!parent!CLDR-SimpleUnitSet::patterns[
             $!parent!CLDR-SimpleUnitSet::length-table[$!length == -1 ?? 1 !! $!length]
-                    * $!parent!CLDR-SimpleUnitSet::length-coefficient
+                    * $!parent!CLDR-SimpleUnitSet::case-coefficient
                     * $!parent!CLDR-SimpleUnitSet::count-coefficient
             + $!parent!CLDR-SimpleUnitSet::count-table[$!count == -1 ?? 5 !! $!count]
-                    * $!parent!CLDR-SimpleUnitSet::count-coefficient
+                    * $!parent!CLDR-SimpleUnitSet::case-coefficient
             + $!parent!CLDR-SimpleUnitSet::case-table[$!case == -1 ?? 9 !! $!case]
         ]
     }
@@ -153,6 +167,23 @@ method prepositional       (--> Selector) { Selector.new: self, -1, -1, 11 }
 method sociative           (--> Selector) { Selector.new: self, -1, -1, 12 }
 method vocative            (--> Selector) { Selector.new: self, -1, -1, 13 }
 
+# TODO: this isn't accurate.  *sigh*
+method gist (CLDR-SimpleUnitSet:D:) {
+    my @lengths;
+    my @counts;
+    my @cases;
+    @lengths.push:
+        <long short narrow>[$_]
+            if $!length-table[$_] for ^3;
+    @counts.push:
+        <zero one two few many other 0 1>[$_]
+            if $!count-table[$_] for ^8;
+    @cases.push:
+        <lonablative accusative comitative dative ergative genitive instrumental locative
+         locativecopulative nominative oblique prepositional sociative vocative>[$_]
+            if $!case-table[$_] for ^14;
+    '[SimpleUnitSet: ' ~ @lengths.join(',') ~ '; ' ~ @counts.join(',') ~ @cases.join(',') ~ ']'
+}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode($pattern --> buf8) {

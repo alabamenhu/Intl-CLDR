@@ -37,9 +37,15 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient method of accessing things (e.g. `calendar.formats<time date datetime interval>`)
 
 # Version History
-  * 0.5.1 (in progress)
+  * 0.5.2 (planned) 
+    * Support for supplemental `<grammaticalFeatures>` and `<grammaticalDerivations>`.
+  * 0.5.1
     * Updated `DecimalFormatSystem`, `CurrencyFormatSystem` and `ScientificFormatSystem` to support Hash-y access.
     * Pulled out `Intl::Format::Numbers` into its own module (as `Intl::Format::Number`)
+    * Fixed an issue with `ExemplarCharacters` pre-processing, which caused a space to be added to every set
+    * Pulled out `Intl::CLDR::Plural` into its own module (as `Intl::Number::Plural`)
+    * Support for supplemental `<plurals>`.  (Found in new top level unit `Grammar`)
+    * Fixed a bug in `SimpleUnitSet` and `CompoundUnitSet` that caused the wrong pattern to be returned
   * 0.5.0
     * Redesigned data structure, and it's all about speed
     * See docs for full details.
@@ -74,8 +80,9 @@ The latter three are currently organized exactly as in CLDR, but I may rearrange
 
 # License
 
-The resources directory "main" comes directly from the Unicode CLDR data.
+The resources directory "cldr-common" comes directly from the Unicode CLDR data.
 These files are copyrighted by Unicode, Inc., and are available and distributed
-in accordance with [their terms](http://www.unicode.org/copyright.html).
+in accordance with [their terms](http://www.unicode.org/copyright.html), which are
+also distributed in that directory.
 
-Everything else (that is, all the Raku code), is licensed under the Artistic License (see license file).
+Everything else (that is, all the Raku code), is licensed under the Artistic License 2.0 (see license file).

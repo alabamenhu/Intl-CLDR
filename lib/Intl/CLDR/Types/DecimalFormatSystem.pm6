@@ -75,6 +75,8 @@ class Selector is Positional {
         .return with $set.AT-POS($pos);
         return $!parent.standard
     }
+    method EXISTS-KEY ($key) { $key ∈ <full long medium short zero one two few many other> }
+    method AT-KEY ($key) { self."$key"() }
 
     method List {
         return $!parent.standard, without $!length;

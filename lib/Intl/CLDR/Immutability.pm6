@@ -21,12 +21,13 @@ class CLDR-ItemNew is Associative is export {
           ==> sort()
           ==> map { self."$_"() }
     }
+
     method kv(CLDR-ItemNew:D:) {
         die "Not yet implemented.  But this generally doesn't make sense for most items.";
     }
 
     multi method gist(CLDR-ItemNew:D:) {
-        [~] '[', self.^name, ':', self.keys.join(','), ']'
+        [~] '[', self.^name, ': ', self.keys.join(','), ']'
     }
     multi method gist(CLDR-ItemNew:U:) {
         [~] '(', self.^name, ')'
@@ -45,8 +46,7 @@ class CLDR-ItemNew is Associative is export {
         # That will be covered by the CLDR-Unordered which assumes purely hash access to
         # values.
         return self."$_"() with self.DETOUR{$key};
-        say "Could not find $key, and don't know how to reroute you.  The options are: ", self.DETOUR.keys;
-        say "I should have gotten", self.DETOUR{$key};
+        warn "Could not find $key, and don't know how to reroute you.  The options are:\n    ", self.DETOUR.keys;
         X::Method::NotFound.new.throw;
     }
 }
@@ -136,5 +136,5 @@ class CLDR-Unordered is Hash is export {
 
     method FALLBACK($key) { self.Hash::AT-KEY: $key or die "That key isnt available" }
 
-    method gist (CLDR-Unordered:D:) { '[' ~ self.^name ~ ":" ~ self.Hash::values.join(',') ~ ']' }
+    method gist (CLDR-Unordered:D:) { '[' ~ self.^name ~ ":" ~ self.Hash::keys.join(',') ~ ']' }
 }

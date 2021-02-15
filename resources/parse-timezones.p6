@@ -1,9 +1,16 @@
+=begin pod
+This file is a temporary stop-gap until CLDR's metazone information
+is handled either in CLDR itself or in DateTime::Timezones.
+
+This script assumes that the metaZones.xml file from CLDR is in the same directory.
+=end pod
+
 use XML;
 use DateTime::Timezones;
 
 my IO::Handle $file = open "Metazones.data", :w;
 
-my $xml = open-xml("supplemental/metaZones.xml");
+my $xml = open-xml("metaZones.xml");
 
 my @timezones = $xml.getElementsByTagName('metaZones'   ).head.
                      getElementsByTagName('metazoneInfo').head.
@@ -14,8 +21,8 @@ sub gmt(Str \stamp, $timezone) {
     my ($year, $month, $day, $hour, $minute) = stamp.comb(/\d+/);
     return DateTime.new(:$year, :$month, :$day, :$hour, :$minute, :$timezone).posix;
 }
-constant min = -9223372036854775808;
-constant max =  9223372036854775807;
+constant min = -9223372036854775808; # int64 min
+constant max =  9223372036854775807; # int64 max
 for @timezones -> $timezone {
     my $olson = $timezone<type>;
     say "Processing $olson";;
@@ -28,7 +35,7 @@ for @timezones -> $timezone {
         try {
             CATCH { .say }
             $file.print:
-                    ~ ","
+                     ","
                             ~ $link-to
                             ~ ","
                             ~ ($start eq '*' ?? min !! gmt($start, $olson))

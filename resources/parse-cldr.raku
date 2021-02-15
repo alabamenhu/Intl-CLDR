@@ -58,8 +58,14 @@ sub MAIN (*@letters) {
 
     my @language-files = "cldr-common/common/main".IO.dir;
 
-    my $*day-period-xml = from-xml "cldr-common/common/supplemental/dayPeriods.xml".IO.slurp;
+    # These supplemental files contain multiple languages in one,
+    # using dynamic variables keep things fairly clean.
+    my $*day-period-xml       = from-xml "cldr-common/common/supplemental/dayPeriods.xml".IO.slurp;
+    my $*plurals-cardinal-xml = from-xml "cldr-common/common/supplemental/plurals.xml".IO.slurp;
+    my $*plurals-ordinal-xml  = from-xml "cldr-common/common/supplemental/ordinals.xml".IO.slurp;
+    my $*plurals-ranges-xml   = from-xml "cldr-common/common/supplemental/pluralRanges.xml".IO.slurp;
 
+    # Grab all files starting with one of our letters, except for root
     @language-files = @language-files.sort( *.basename.chars ).grep(*.basename.starts-with: any @letters).grep(none *.basename eq 'root');
     @language-files.unshift("cldr-common/common/main/root.xml".IO); # root must come first
     my $total-load-time = 0;
@@ -125,11 +131,15 @@ sub MAIN (*@letters) {
 
             $total-load-time += (now - $start);
 
+            # Ensure that we can actually read our data;
+            my str @langs = StrEncode::output().split(31.chr);
+            CLDR-Language.new($blob, @langs).grammar.plurals; # Testing
+
             # Write the data out
             "languages-binary/{$*lang}.data".IO.spurt: $blob, :bin;             # binary tree data
             "languages-binary/{$*lang}.strings".IO.spurt: StrEncode::output();  # StrEncode is a bad global for now
 
-            say "\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes";
+            say "\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes)";
         }
 
     }

@@ -64,6 +64,7 @@ sub MAIN (*@letters) {
     my $*plurals-cardinal-xml = from-xml "cldr-common/common/supplemental/plurals.xml".IO.slurp;
     my $*plurals-ordinal-xml  = from-xml "cldr-common/common/supplemental/ordinals.xml".IO.slurp;
     my $*plurals-ranges-xml   = from-xml "cldr-common/common/supplemental/pluralRanges.xml".IO.slurp;
+    my $*grammar-xml          = from-xml "cldr-common/common/supplemental/grammaticalFeatures.xml".IO.slurp;
 
     # Grab all files starting with one of our letters, except for root
     @language-files = @language-files.sort( *.basename.chars ).grep(*.basename.starts-with: any @letters).grep(none *.basename eq 'root');

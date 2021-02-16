@@ -34,11 +34,13 @@ True attributes are defined with kebab-case, but camel-case alternates are avail
 Because CLDR is designed to be stable, they have had to make some odd design choices for legacy compatibility.
 An obvious example of this is the `<codePatterns>` vs `<localeDisplayPattern>` that really logically should go together.
 This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
-The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient method of accessing things (e.g. `calendar.formats<time date datetime interval>`)
+The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient/logical method of accessing things (e.g. `calendar.formats<time date datetime interval>`).
 
 # Version History
-  * 0.5.2 (planned) 
-    * Support for supplemental `<grammaticalFeatures>` and `<grammaticalDerivations>`.
+  * 0.5.2 (in progress) 
+    * Removed redundant measurement type prefix from units (e.g. **meter** instead of **length-meter**).  
+    * Support for supplemental `<grammaticalDerivations>` added (`<grammaticalFeatures>` NYI).
+    * Added Hash-y access to `CompoundUnitSet::Selector`
   * 0.5.1
     * Updated `DecimalFormatSystem`, `CurrencyFormatSystem` and `ScientificFormatSystem` to support Hash-y access.
     * Pulled out `Intl::Format::Numbers` into its own module (as `Intl::Format::Number`)

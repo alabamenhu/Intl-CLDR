@@ -1,7 +1,7 @@
 #!/usr/bin/env perl6
-
 use File::Find;
 
+sub MAIN($version!) {
     use META6;
 
     my %provides;
@@ -23,15 +23,13 @@ use File::Find;
         @resources.push: $lang-file.Str.substr($res-prefix-length);
     }
 
-    say @resources;
-
     use META6;
 
 
     my $meta6 = META6.new:
         name => 'Intl::CLDR',
         description => 'A module providing access to the Unicode Common Language Data Repository',
-        version => Version.new('0.5.2'),
+        version => Version.new($version),
         depends => <
             Intl::LanguageTag
             Intl::UserLanguage
@@ -50,8 +48,8 @@ use File::Find;
         auth => 'github:alabamenhu',
         :%provides,
         :@resources;
-;
 
     $?FILE.IO.parent.parent.add("META6.json").spurt: $meta6.to-json, :close;
 
-
+    say "Create META6 file for v$version successfully";
+}

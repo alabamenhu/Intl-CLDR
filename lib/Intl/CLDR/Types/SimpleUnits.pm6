@@ -109,7 +109,10 @@ method encode(%*simples) {
         # display name (x3 for length)
         # per-unit     (x3 for length)
 
-        $result ~= StrEncode::get($type);
+        # the short type removes the 'volume-' or 'length-' prefix which is redundant and
+        # not easily predictable for compound units
+        my $short-type = $type.match: / <alpha>+ '-' <( .* )> /;
+        $result ~= StrEncode::get(~$short-type);
         $result.append: Gender::{$gender}.Int;
         $result ~= StrEncode::get( %*simple<narrow><displayName>    // %*simple<short><displayName>    // '');
         $result ~= StrEncode::get(                                     %*simple<short><displayName>    // '');
@@ -162,6 +165,7 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
 
     my $*type  = xml<type>;
+
     base{$*type}{$*length}<gender>         = contents $_ with xml.&elem('gender');
     base{$*type}{$*length}<displayName>    = contents $_ with xml.&elem('displayName');
     base{$*type}{$*length}<perUnitPattern> = contents $_ with xml.&elem('perUnitPattern');

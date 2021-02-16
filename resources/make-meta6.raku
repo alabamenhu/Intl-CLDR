@@ -31,7 +31,7 @@ use File::Find;
     my $meta6 = META6.new:
         name => 'Intl::CLDR',
         description => 'A module providing access to the Unicode Common Language Data Repository',
-        version => Version.new('0.5.0'),
+        version => Version.new('0.5.2'),
         depends => <
             Intl::LanguageTag
             Intl::UserLanguage

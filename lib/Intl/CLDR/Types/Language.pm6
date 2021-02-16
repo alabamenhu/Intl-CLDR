@@ -89,7 +89,7 @@ method layout {
     .return with $!layout;
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-LAYOUT, LittleEndian);
-    $!layout = CLDR-Delimiters.new: $!data, $offset
+    $!layout = CLDR-Layout.new: $!data, $offset
 }
 method list-patterns {
     .return with $!list-patterns;

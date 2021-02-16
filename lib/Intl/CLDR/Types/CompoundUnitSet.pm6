@@ -102,6 +102,10 @@ class Selector is Positional {
     method common              (--> Selector) { die if $!count  ≠ -1; Selector.new: $!parent, $!length, $!count, $!case,        5 }
     method personal            (--> Selector) { die if $!count  ≠ -1; Selector.new: $!parent, $!length, $!count, $!case,        6 }
 
+    method AT-KEY($key) {
+        self."$key"();
+    }
+
     method pattern ( --> Str) {
         $!parent!CLDR-CompoundUnitSet::patterns[
             $!parent!CLDR-CompoundUnitSet::length-table[$!length == -1 ?? 1 !! $!length]

@@ -1,40 +1,38 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-CompoundUnits is CLDR-Unordered is CLDR-ItemNew ;
+unit class CLDR::CompoundUnits;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 use Intl::CLDR::Types::CompoundUnitSet; # for encode only
 use Intl::CLDR::Enums;
 
-has CLDR-CompoundUnitSet %!sets;
+method of (--> CLDR::CompoundUnitSet) { }
 
-# The number systems here come from commons/bcp47/number.xml
-# You can autogenerate some of this by using the following regex on the file:
-# for ($text ~~ m:g/'name="' (<alnum>+) '" description="' (<-["]>+)/) -> $match {
-#  say 'has CLDR-Symbols $.', $match[0].Str, " #= ", $match[1].Str;
-# }
-# main/root.xml doesn't actually provide for all of these (e.g. armn), but they are
-# definitely included in other places.  Because all except for Arabic fallback to
-# Latn, that is maintained in the encoding process.
+#| Creates a new CLDR::CompoundUnits object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    my \new-self = self.bless;
 
-#| Creates a new CLDR-ScientificFormats object
-method new(|c --> CLDR-CompoundUnits) {
-    self.bless!bind-init: |c;
+    my $type-count = blob[$offset++];
+    use Intl::CLDR::Util::StrDecode;
+    new-self.Hash::BIND-KEY:
+        StrDecode::get(           blob, $offset),
+        CLDR::CompoundUnitSet.new(blob, $offset)
+    for ^$type-count;
+
+    new-self;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-CompoundUnits) {
+submethod !bind-init(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $type-count = blob[$offset++];
-    self.Hash::BIND-KEY: StrDecode::get(blob, $offset), CLDR-CompoundUnitSet.new(blob, $offset)
+    self.Hash::BIND-KEY: StrDecode::get(blob, $offset), CLDR::CompoundUnitSet.new(blob, $offset)
         for ^$type-count;
-
-
 
     self
 }
-
-sub rsay ($text) { say "\x001b[31m$text\x001b[0m" }
-sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*simples) {

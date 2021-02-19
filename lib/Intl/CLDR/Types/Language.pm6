@@ -1,6 +1,6 @@
-use Intl::CLDR::Immutability;
+use Intl::CLDR::Core;
 
-unit class CLDR-Language is CLDR-ItemNew;
+unit class CLDR-Language does CLDR::Item;
 
 use Intl::CLDR::Types::Characters;
 use Intl::CLDR::Types::ContextTransforms;
@@ -14,13 +14,10 @@ use Intl::CLDR::Types::Numbers;
 use Intl::CLDR::Types::Posix;
 use Intl::CLDR::Types::Units;
 
-#    with $file.&elem('characters'        ) { parse-dates (base<dates> //= Hash.new), $_ }
-#    with $file.&elem('numbers'           ) { CLDR-Numbers.parse: (base<numbers> //= Hash.new), $_ }
-#    with $file.&elem('units'             ) { parse-dates (base<dates> //= Hash.new), $_ }
 #    with $file.&elem('characterLabels'   ) { parse-dates (base<dates> //= Hash.new), $_ }
 #    with $file.&elem('typographicNames'  ) { parse-dates (base<dates> //= Hash.new), $_ }
 
-has $!parent;
+# Because of lazy loading, we can't alias here.
 #  has $.character-labels;
 has CLDR-Characters         $!characters;            my constant OFFSET-CHARACTERS           =  8;
 has CLDR-ContextTransforms  $!context-transforms;    my constant OFFSET-CONTEXT-TRANSFORM    = 12;
@@ -32,25 +29,17 @@ has CLDR-ListPatterns       $!list-patterns;         my constant OFFSET-LIST-PAT
 has CLDR-LocaleDisplayNames $!locale-display-names;  my constant OFFSET-LOCALE-DISPLAY-NAMES = 36;
 has CLDR-Numbers            $!numbers;               my constant OFFSET-NUMBERS              = 40;
 has CLDR-Posix              $!posix;                 my constant OFFSET-POSIX                = 44;
-has CLDR-Units              $!units;                 my constant OFFSET-UNITS                = 48;
+has CLDR::Units             $!units;                 my constant OFFSET-UNITS                = 48;
 #  has $.typographic-names;
 
 
-has blob8 $!data;
-has str   @!strings;
+has blob8 $!data    is built;
+has str   @!strings is built;
 
 
 #| Creates a new CLDR-Language object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, \strs) {
-
-    $!data    := blob;
-    @!strings := strs;
-
-    self
+method new(blob8 $data, str @strings) {
+    self.bless: :$data, :@strings;
 }
 
 method characters {
@@ -60,7 +49,7 @@ method characters {
     $!characters = CLDR-Characters.new: $!data, $offset
 }
 
-method context-transforms {
+method context-transforms is aliased-by<contextTransforms> {
     .return with $!context-transforms;
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-CONTEXT-TRANSFORM, LittleEndian);
@@ -91,13 +80,13 @@ method layout {
     my uint64 $offset = $!data.read-uint32(OFFSET-LAYOUT, LittleEndian);
     $!layout = CLDR-Layout.new: $!data, $offset
 }
-method list-patterns {
+method list-patterns is aliased-by<listPatterns> {
     .return with $!list-patterns;
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-LIST-PATTERNS, LittleEndian);
     $!list-patterns = CLDR-ListPatterns.new: $!data, $offset
 }
-method locale-display-names {
+method locale-display-names is aliased-by<localeDisplayNames> {
     .return with $!locale-display-names;
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-LOCALE-DISPLAY-NAMES, LittleEndian);
@@ -119,21 +108,13 @@ method units {
     .return with $!units;
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-UNITS, LittleEndian);
-    $!units = CLDR-Units.new: $!data, $offset
+    $!units = CLDR::Units.new: $!data, $offset
 }
 
-method gist {
+multi method gist (CLDR-Language:D:) {
     '[CLDR-Language: characters,context-transforms,dates,delimiters,grammar,layout,list-patterns,locale-display-names,numbers,posix,units]';
 }
 
-
-# These normalize CLDR case mappings into Raku's
-constant \detour = Map.new: (
-    contextTransforms  => 'context-transforms',
-    listPatterns       => 'list-patterns',
-    localeDisplayNames => 'locale-display-names'
-);
-method DETOUR(--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*language) {
@@ -184,7 +165,7 @@ method encode(%*language) {
     $result ~= CLDR-Posix.encode(             %*language<posix>              // Hash.new);
 
     $result.write-uint32: OFFSET-UNITS, $result.elems, LittleEndian;
-    $result ~= CLDR-Units.encode(             %*language<units>              // Hash.new);
+    $result ~= CLDR::Units.encode(             %*language<units>              // Hash.new);
 
     #$result.write-uint32: 36, $result.elems, LittleEndian;
 
@@ -203,6 +184,6 @@ method parse(\base, \xml) {
     CLDR-LocaleDisplayNames.parse: (base<localeDisplayNames> //= Hash.new), $_ with xml.&elem('localeDisplayNames');
     CLDR-Numbers.parse:            (base<numbers>            //= Hash.new), $_ with xml.&elem('numbers');
     CLDR-Posix.parse:              (base<posix>              //= Hash.new), $_ with xml.&elem('posix');
-    CLDR-Units.parse:              (base<units>              //= Hash.new), $_ with xml.&elem('units');
+    CLDR::Units.parse:             (base<units>              //= Hash.new), $_ with xml.&elem('units');
 }
 #>>>>> # GENERATOR

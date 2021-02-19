@@ -1,19 +1,23 @@
-use Intl::CLDR::Immutability;
+#| A class representing the <unit> element.
+unit class CLDR::SimpleUnitSet;
+    use Intl::CLDR::Core;
+    use Intl::CLDR::Enums;
 
-unit class CLDR-SimpleUnitSet is CLDR-ItemNew is Positional;
-use Intl::CLDR::Enums;
+    also does CLDR::Item;
+    also does Positional;
 
+has Gender::Gender $.gender    is built;
+has str   @!display-names      is built;
+has str   @!per-unit-patterns  is built;
+has int   $!length-coefficient is built;
+has buf8  $!length-table       is built;
+has int   $!case-coefficient   is built;
+has buf8  $!case-table         is built;
+has int   $!count-coefficient  is built;
+has buf8  $!count-table        is built;
+has Str   @!patterns           is built;
 
-has str  @!display-names;
-has str  @!per-unit-patterns;
-has Gender::Gender  $.gender;
-has int  $!length-coefficient;
-has buf8 $!length-table;
-has int  $!case-coefficient;
-has buf8 $!case-table;
-has int  $!count-coefficient;
-has buf8 $!count-table;
-has Str  @!patterns;
+method of (--> Str ) { }
 
 # Forward declaration necessary for trusting
 class  Selector { ... }
@@ -36,50 +40,38 @@ method debug {
     say "    cases:   ($!case-coefficient) " ~ (' ' if $!case-coefficient < 9), $!case-table;
     say "      $_:\t" ~ @!patterns[$_] for ^@!patterns;
 }
-#| Creates a new CLDR-ScientificFormat object
-method new(|c --> CLDR-SimpleUnitSet) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-SimpleUnitSet) {
+#| Creates a new CLDR::SimpleUnitSet object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
     $offset -= 2;
     my $type = StrDecode::get(blob, $offset);
 
-    $!gender                 = Gender::Gender(blob[$offset++]);
-    @!display-names[$_]      = StrDecode::get(blob, $offset) for ^3;
-    @!per-unit-patterns[$_]  = StrDecode::get(blob, $offset) for ^3;
-    $!length-coefficient     = blob[$offset++];
-    $!length-table           = blob.subbuf($offset, 3); $offset += 3;
-    $!count-coefficient      = blob[$offset++];
-    $!count-table            = blob.subbuf($offset, 8); $offset += 8;
-    $!case-coefficient       = blob[$offset++];
-    $!case-table             = blob.subbuf($offset, 14); $offset += 14;
+    my str @display-names;
+    my str @per-unit-patterns;
+    my str @patterns;
+    my $gender                 = Gender::Gender(blob[$offset++]);
+       @display-names[$_]      = StrDecode::get(blob, $offset) for ^3;
+       @per-unit-patterns[$_]  = StrDecode::get(blob, $offset) for ^3;
+    my $length-coefficient     = blob[$offset++];
+    my $length-table           = blob.subbuf($offset, 3); $offset += 3;
+    my $count-coefficient      = blob[$offset++];
+    my $count-table            = blob.subbuf($offset, 8); $offset += 8;
+    my $case-coefficient       = blob[$offset++];
+    my $case-table             = blob.subbuf($offset, 14); $offset += 14;
 
-    my $decode = 0;
-    for ^($!length-coefficient * $!count-coefficient * $!case-coefficient) {
-        @!patterns[$_] := StrDecode::get(blob, $offset)
-    }
-    #@!patterns = my str @[$!length-coefficient, $!count-coefficient, $!case-coefficient];
-    #for ^$!length-coefficient X ^$!count-coefficient X ^$!case-coefficient -> ($length, $count, $case) {
-    #    @!patterns[
-    #        $length * $!length-coefficient * $!count-coefficient +
-    #        $count  * $!count-coefficient +
-    #        $case
-    #    ] := StrDecode::get(blob, $offset);
-    #    $decode++;
-    #}
+    @patterns[$_] = StrDecode::get(blob, $offset)
+        for ^($length-coefficient * $count-coefficient * $case-coefficient);
 
-    self;
+    self.bless: :$gender, :@display-names, :@per-unit-patterns, :$length-coefficient,
+        :$count-table, :$case-coefficient, :$case-table, :$length-table, :@patterns;
 }
 
 class Selector is Positional {
     has Int $!count;
     has Int $!length;
     has Int $!case;
-    has CLDR-SimpleUnitSet $!parent;
-    constant SUS = CLDR-SimpleUnitSet;
+    has CLDR::SimpleUnitSet $!parent;
+    constant SUS = CLDR::SimpleUnitSet;
     method new ($parent, $length, $count, $case --> Selector) {self.bless: :$parent, :$length, :$count, :$case }
     method BUILD (:$!parent, :$!length, :$!count, :$!case) {}
 
@@ -115,26 +107,26 @@ class Selector is Positional {
     }
 
     method gender (--> Gender::Gender) {
-        Gender::Gender($!parent!CLDR-SimpleUnitSet::gender)
+        Gender::Gender($!parent!SUS::gender)
     }
     method display-name ( --> str) {
-        $!parent!CLDR-SimpleUnitSet::display-names[
-            $!parent!CLDR-SimpleUnitSet::length-table[$!length == -1 ?? 1 !! $!length ]
+        $!parent!SUS::display-names[
+            $!parent!SUS::length-table[$!length == -1 ?? 1 !! $!length ]
         ]
     }
     method per-unit ( --> str) {
-        $!parent!CLDR-SimpleUnitSet::per-unit-patterns[
-            $!parent!CLDR-SimpleUnitSet::length-table[$!length == -1 ?? 1 !! $!length]
+        $!parent!SUS::per-unit-patterns[
+            $!parent!SUS::length-table[$!length == -1 ?? 1 !! $!length]
         ]
     }
     method pattern ( --> str) {
-        $!parent!CLDR-SimpleUnitSet::patterns[
-            $!parent!CLDR-SimpleUnitSet::length-table[$!length == -1 ?? 1 !! $!length]
-                    * $!parent!CLDR-SimpleUnitSet::case-coefficient
-                    * $!parent!CLDR-SimpleUnitSet::count-coefficient
-            + $!parent!CLDR-SimpleUnitSet::count-table[$!count == -1 ?? 5 !! $!count]
-                    * $!parent!CLDR-SimpleUnitSet::case-coefficient
-            + $!parent!CLDR-SimpleUnitSet::case-table[$!case == -1 ?? 9 !! $!case]
+        $!parent!SUS::patterns[
+            $!parent!SUS::length-table[$!length == -1 ?? 1 !! $!length]
+                    * $!parent!SUS::case-coefficient
+                    * $!parent!SUS::count-coefficient
+            + $!parent!SUS::count-table[$!count == -1 ?? 5 !! $!count]
+                    * $!parent!SUS::case-coefficient
+            + $!parent!SUS::case-table[$!case == -1 ?? 9 !! $!case]
         ]
     }
 }
@@ -168,7 +160,7 @@ method sociative           (--> Selector) { Selector.new: self, -1, -1, 12 }
 method vocative            (--> Selector) { Selector.new: self, -1, -1, 13 }
 
 # TODO: this isn't accurate.  *sigh*
-method gist (CLDR-SimpleUnitSet:D:) {
+multi method gist (::?CLASS:D:) {
     my @lengths;
     my @counts;
     my @cases;

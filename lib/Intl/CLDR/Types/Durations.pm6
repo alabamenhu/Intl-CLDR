@@ -1,25 +1,21 @@
-use Intl::CLDR::Immutability;
+#| A class implementing CLDR's <durationUnit> element, which
+#| contains information about formatting durations of time.
+unit class CLDR::Durations;
+    use Intl::CLDR::Core;
+    also is CLDR::Item;
 
+has Str $.hm  is built;  #= Hours and minutes
+has Str $.ms  is built;  #= Minutes and seconds
+has Str $.hms is built;  #= Hours minutes and seconds
 
-#| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-Durations is CLDR-ItemNew;
-
-has Str $.hm;    #= Hours and minutes
-has Str $.ms;    #= Minutes and seconds
-has Str $.hms;   #= Hours minutes and seconds
-
-#| Creates a new CLDR-Units object
-method new(|c --> CLDR-Durations) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-Durations) {
+#| Creates a new CLDR::Durations object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-    $!hm  = StrDecode::get(blob, $offset);
-    $!ms  = StrDecode::get(blob, $offset);
-    $!hms = StrDecode::get(blob, $offset);
+    my $hm  = StrDecode::get(blob, $offset);
+    my $ms  = StrDecode::get(blob, $offset);
+    my $hms = StrDecode::get(blob, $offset);
 
-    self
+    self.bless: :$hm, :$ms, :$hms;
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

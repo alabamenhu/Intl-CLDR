@@ -1,45 +1,34 @@
-use Intl::CLDR::Immutability;
+#| A class allowing for selection of the <unit> elements.
+#| The keys omit the measurement type, e.g., 'meter' not 'length-meter'
+unit class CLDR::SimpleUnits;
+    use Intl::CLDR::Core;
 
-unit class CLDR-SimpleUnits is CLDR-Unordered is CLDR-ItemNew ;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 use Intl::CLDR::Types::SimpleUnitSet;
 use Intl::CLDR::Enums;
 
-has CLDR-SimpleUnitSet %!sets;
-
-# The number systems here come from commons/bcp47/number.xml
-# You can autogenerate some of this by using the following regex on the file:
-# for ($text ~~ m:g/'name="' (<alnum>+) '" description="' (<-["]>+)/) -> $match {
-#  say 'has CLDR-Symbols $.', $match[0].Str, " #= ", $match[1].Str;
-# }
-# main/root.xml doesn't actually provide for all of these (e.g. armn), but they are
-# definitely included in other places.  Because all except for Arabic fallback to
-# Latn, that is maintained in the encoding process.
-
-#| Creates a new CLDR-ScientificFormats object
-method new(|c --> CLDR-SimpleUnits) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-SimpleUnits) {
-    use Intl::CLDR::Util::StrDecode;
+#| Creates a new CLDR::SimpleUnits object
+method new(\blob, uint64 $offset is rw  --> ::?CLASS) {
+    my \new-self = self.bless;
 
     my $type-count = blob[$offset++];
+    use Intl::CLDR::Util::StrDecode;
+    new-self.Hash::BIND-KEY:
+        StrDecode::get(        blob, $offset),
+        CLDR::SimpleUnitSet.new(blob, $offset)
+            for ^$type-count;
 
-    self.Hash::BIND-KEY: StrDecode::get(blob, $offset), CLDR-SimpleUnitSet.new(blob, $offset)
-        for ^$type-count;
-
-
-
-    self
+    new-self;
 }
-
-sub rsay ($text) { say "\x001b[31m$text\x001b[0m" }
-sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*simples) {
     use Intl::CLDR::Util::StrEncode;
+
+    # The initial value here is will be set to the
+    # total number of elements.
     my $result = buf8.new: 0; # 0 will be adjusted at end
 
     my $encoded-units = 0;
@@ -109,8 +98,8 @@ method encode(%*simples) {
         # display name (x3 for length)
         # per-unit     (x3 for length)
 
-        # the short type removes the 'volume-' or 'length-' prefix which is redundant and
-        # not easily predictable for compound units
+        # The short type removes the 'volume-' or 'length-' prefix which is
+        # redundant and not easily predictable for compound units
         my $short-type = $type.match: / <alpha>+ '-' <( .* )> /;
         $result ~= StrEncode::get(~$short-type);
         $result.append: Gender::{$gender}.Int;
@@ -138,6 +127,8 @@ method encode(%*simples) {
           X (@cases   Z @case-table  ).map(&valid)
          -> ($length, $count, $case) {
 
+            # This shows the fallback order:
+            # Highest priority to length, second to count, and lastly to case.
             my
             $pattern   = %*simple{$length}<unitPatterns>{$count}{$case};
             $pattern //= %*simple{$length}<unitPatterns>{$count}<nominative>;
@@ -175,7 +166,5 @@ method parse(\base, \xml) {
     for xml.&elems('unitPattern') {
         base{$*type}{$*length}<unitPatterns>{.<count> // 'other'}{.<case> // 'nominative'} = contents $_;
     }
-#    use Data::Dump::Tree;
- #   dump base{$*type};
 }
 #>>>>> # GENERATOR

@@ -1,18 +1,23 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-CompoundUnitSet is CLDR-ItemNew is Positional;
+unit class CLDR::CompoundUnitSet;
+use Intl::CLDR::Core;
+also does CLDR::Item;
+also does Positional;
+
 use Intl::CLDR::Enums;
 
+method of (-->Str) {}
 
-has int  $!length-coefficient;
-has buf8 $!length-table;
-has int  $!case-coefficient;
-has buf8 $!case-table;
-has int  $!count-coefficient;
-has buf8 $!count-table;
-has int  $!gender-coefficient;
-has buf8 $!gender-table;
-has Str  @!patterns;
+has int  $!length-coefficient is built;
+has buf8 $!length-table       is built;
+has int  $!case-coefficient   is built;
+has buf8 $!case-table         is built;
+has int  $!count-coefficient  is built;
+has buf8 $!count-table        is built;
+has int  $!gender-coefficient is built;
+has buf8 $!gender-table       is built;
+has Str  @!patterns           is built;
 
 # Forward declaration necessary for trusting
 class  Selector { ... }
@@ -28,12 +33,30 @@ method !gender-coefficient  { $!gender-coefficient  }
 method !gender-table        { $!gender-table        }
 
 
-#| Creates a new CLDR-ScientificFormat object
-method new(|c --> CLDR-CompoundUnitSet) {
-    self.bless!bind-init: |c;
+#| Creates a new CLDR::CompoundUnitSet object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    use Intl::CLDR::Util::StrDecode;
+
+    my int   $length-coefficient     = blob[$offset++];
+    my blob8 $length-table           = blob.subbuf($offset, 3); $offset += 3;
+    my int   $count-coefficient      = blob[$offset++];
+    my blob8 $count-table            = blob.subbuf($offset, 8); $offset += 8;
+    my int   $case-coefficient       = blob[$offset++];
+    my blob8 $case-table             = blob.subbuf($offset, 14); $offset += 14;
+    my int   $gender-coefficient     = blob[$offset++];
+    my blob8 $gender-table           = blob.subbuf($offset, 7); $offset += 7;
+    my Str   @patterns;
+    @patterns[$_] := StrDecode::get(blob, $offset)
+        for ^($length-coefficient * $count-coefficient * $case-coefficient * $gender-coefficient);
+
+    self.bless: :$length-coefficient, :$length-table,
+                :$count-coefficient,  :$count-table,
+                :$case-coefficient,   :$case-table,
+                :$gender-coefficient, :$gender-table,
+                :@patterns;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-CompoundUnitSet) {
+submethod !bind-init(\blob, uint64 $offset is rw --> CLDR::CompoundUnitSet) {
     use Intl::CLDR::Util::StrDecode;
 
     $!length-coefficient     = blob[$offset++];
@@ -62,8 +85,8 @@ class Selector is Positional {
     has Int $!count;
     has Int $!case;
     has Int $!gender;
-    has CLDR-CompoundUnitSet $!parent;
-    constant SUS = CLDR-CompoundUnitSet;
+    has CLDR::CompoundUnitSet $!parent;
+    constant CUS = CLDR::CompoundUnitSet;
     method new ($parent, $length, $count, $case, $gender --> Selector) {self.bless: :$parent, :$count, :$case, :$length, :$gender}
     method BUILD (:$!parent, :$!count, :$!case, :$!length, :$!gender) {}
 
@@ -107,17 +130,17 @@ class Selector is Positional {
     }
 
     method pattern ( --> Str) {
-        $!parent!CLDR-CompoundUnitSet::patterns[
-            $!parent!CLDR-CompoundUnitSet::length-table[$!length == -1 ?? 1 !! $!length]
-                * $!parent!CLDR-CompoundUnitSet::count-coefficient
-                * $!parent!CLDR-CompoundUnitSet::case-coefficient
-                * $!parent!CLDR-CompoundUnitSet::gender-coefficient
-            + $!parent!CLDR-CompoundUnitSet::count-table[$!count == -1 ?? 5 !! $!count]
-                * $!parent!CLDR-CompoundUnitSet::case-coefficient
-                * $!parent!CLDR-CompoundUnitSet::gender-coefficient
-            + $!parent!CLDR-CompoundUnitSet::case-table[$!case == -1 ?? 9 !! $!case]
-                * $!parent!CLDR-CompoundUnitSet::gender-coefficient
-            + $!parent!CLDR-CompoundUnitSet::gender-table[$!gender == -1 ?? 0 !! $!gender] # if neuter exists, it's the default.  If not, it reroutes to masculine anyways
+        $!parent!CUS::patterns[
+            $!parent!CUS::length-table[$!length == -1 ?? 1 !! $!length]
+                * $!parent!CUS::count-coefficient
+                * $!parent!CUS::case-coefficient
+                * $!parent!CUS::gender-coefficient
+            + $!parent!CUS::count-table[$!count == -1 ?? 5 !! $!count]
+                * $!parent!CUS::case-coefficient
+                * $!parent!CUS::gender-coefficient
+            + $!parent!CUS::case-table[$!case == -1 ?? 9 !! $!case]
+                * $!parent!CUS::gender-coefficient
+            + $!parent!CUS::gender-table[$!gender == -1 ?? 0 !! $!gender] # if neuter exists, it's the default.  If not, it reroutes to masculine anyways
         ]
     }
 }

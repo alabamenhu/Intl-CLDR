@@ -1,21 +1,28 @@
-use Intl::CLDR::Immutability;
+#| A class implementing CLDR's <coordinateUnit> element,
+#| separated by width.
+unit class CLDR::CoordinateWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-
-#| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-CoordinateWidth is CLDR-ItemNew;
-
-has Str $.display-name; #= Pattern for degrees due north
-has Str $.north; #= Pattern for degrees due north
-has Str $.east;  #= Pattern for degrees due east
-has Str $.south; #= Pattern for degrees due south
-has Str $.west;  #= Pattern for degrees due west
+has Str $.display-name is built; #= Pattern for degrees due north
+has Str $.north        is built; #= Pattern for degrees due north
+has Str $.east         is built;  #= Pattern for degrees due east
+has Str $.south        is built; #= Pattern for degrees due south
+has Str $.west         is built;  #= Pattern for degrees due west
 
 #| Creates a new CLDR-Units object
-method new(|c --> CLDR-CoordinateWidth) {
-    self.bless!bind-init: |c;
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    use Intl::CLDR::Util::StrDecode;
+    my $display-name = StrDecode::get(blob, $offset);
+    my $north        = StrDecode::get(blob, $offset);
+    my $east         = StrDecode::get(blob, $offset);
+    my $south        = StrDecode::get(blob, $offset);
+    my $west         = StrDecode::get(blob, $offset);
+
+    self.bless: :$display-name, :$north, :$east, :$south, :$west;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-CoordinateWidth) {
+submethod !bind-init(\blob, uint64 $offset is rw --> CLDR::CoordinateWidth) {
     use Intl::CLDR::Util::StrDecode;
     $!display-name = StrDecode::get(blob, $offset);
     $!north = StrDecode::get(blob, $offset);

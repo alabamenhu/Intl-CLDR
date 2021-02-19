@@ -55,7 +55,7 @@ submethod !bind-init(\blob,uint64 $offset is rw, \parent) {
     self
 }
 
-# For some inane reason, CLDR switches to Pascal case here
+# For some inane reason, CLDR switches to Pascal-Kebab case here
 constant detour = Map.new: (
     Era              => 'era',
     Year             => 'year',

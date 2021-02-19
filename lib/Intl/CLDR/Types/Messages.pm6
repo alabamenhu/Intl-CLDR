@@ -1,25 +1,17 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-Messages is CLDR-ItemNew;
-
-has $!parent;
+unit class CLDR::Messages;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.yesstr;
 has Str $.nostr;
 
 #| Creates a new CLDR-DayPeriodContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-    $!yesstr = StrDecode::get(blob, $offset);
-    $!nostr  = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        yesstr => StrDecode::get(blob, $offset),
+        nostr  => StrDecode::get(blob, $offset);
 }
-
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*messages) {
@@ -30,8 +22,10 @@ method encode(%*messages) {
     $result ~= StrEncode::get(%*messages<nostr>  // '');
     $result
 }
+
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     base<yesstr> = contents $_ with xml.&elem('yesstr');
     base<nostr>  = contents $_ with xml.&elem('nostr');
 }
+#>>>>> # GENERATOR

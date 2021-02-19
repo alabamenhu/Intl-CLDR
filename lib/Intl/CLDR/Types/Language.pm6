@@ -1,6 +1,6 @@
-use Intl::CLDR::Core;
-
-unit class CLDR-Language does CLDR::Item;
+unit class CLDR-Language;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::Characters;
 use Intl::CLDR::Types::ContextTransforms;
@@ -28,7 +28,7 @@ has CLDR-Layout             $!layout;                my constant OFFSET-LAYOUT  
 has CLDR-ListPatterns       $!list-patterns;         my constant OFFSET-LIST-PATTERNS        = 32;
 has CLDR-LocaleDisplayNames $!locale-display-names;  my constant OFFSET-LOCALE-DISPLAY-NAMES = 36;
 has CLDR-Numbers            $!numbers;               my constant OFFSET-NUMBERS              = 40;
-has CLDR-Posix              $!posix;                 my constant OFFSET-POSIX                = 44;
+has CLDR::Posix             $!posix;                 my constant OFFSET-POSIX                = 44;
 has CLDR::Units             $!units;                 my constant OFFSET-UNITS                = 48;
 #  has $.typographic-names;
 
@@ -102,7 +102,7 @@ method posix {
     .return with $!posix;
     use Intl::CLDR::Util::StrDecode; StrDecode::set(@!strings);
     my uint64 $offset = $!data.read-uint32(OFFSET-POSIX, LittleEndian);
-    $!posix = CLDR-Posix.new: $!data, $offset
+    $!posix = CLDR::Posix.new: $!data, $offset
 }
 method units {
     .return with $!units;
@@ -162,7 +162,7 @@ method encode(%*language) {
     $result ~= CLDR-Numbers.encode(           %*language<numbers>            // Hash.new);
 
     $result.write-uint32: OFFSET-POSIX, $result.elems, LittleEndian;
-    $result ~= CLDR-Posix.encode(             %*language<posix>              // Hash.new);
+    $result ~= CLDR::Posix.encode(             %*language<posix>              // Hash.new);
 
     $result.write-uint32: OFFSET-UNITS, $result.elems, LittleEndian;
     $result ~= CLDR::Units.encode(             %*language<units>              // Hash.new);
@@ -183,7 +183,7 @@ method parse(\base, \xml) {
     CLDR-ListPatterns.parse:       (base<listPatterns>       //= Hash.new), $_ with xml.&elem('listPatterns');
     CLDR-LocaleDisplayNames.parse: (base<localeDisplayNames> //= Hash.new), $_ with xml.&elem('localeDisplayNames');
     CLDR-Numbers.parse:            (base<numbers>            //= Hash.new), $_ with xml.&elem('numbers');
-    CLDR-Posix.parse:              (base<posix>              //= Hash.new), $_ with xml.&elem('posix');
+    CLDR::Posix.parse:             (base<posix>              //= Hash.new), $_ with xml.&elem('posix');
     CLDR::Units.parse:             (base<units>              //= Hash.new), $_ with xml.&elem('units');
 }
 #>>>>> # GENERATOR

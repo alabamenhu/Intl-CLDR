@@ -41,6 +41,11 @@ The latter three are currently organized exactly as in CLDR, but I may rearrange
     * Removed redundant measurement type prefix from units (e.g. **meter** instead of **length-meter**).  
     * Support for supplemental `<grammaticalDerivations>` added (`<grammaticalFeatures>` NYI).
     * Added Hash-y access to `CompoundUnitSet::Selector`
+    * Code improvements
+      * Transition from using the `CLDR-ItemNew` in `Immutability.pm6` (a holdover from pre-v0.5) to using `CLDR::Item` in `Core.pm6`
+      * Use `CLDR::Type` instead of `CLDR-Type`
+      * Use `is aliased-by` instead of `detour`
+      * Use `is built` and similar instead of `!bind_init`
   * 0.5.1
     * Updated `DecimalFormatSystem`, `CurrencyFormatSystem` and `ScientificFormatSystem` to support Hash-y access.
     * Pulled out `Intl::Format::Numbers` into its own module (as `Intl::Format::Number`)

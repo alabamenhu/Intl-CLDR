@@ -9,7 +9,7 @@ package Gender {
         inanimate => 4,
         common    => 5,
         personal  => 6
-    );
+    )
 }
 
 package Count {
@@ -45,7 +45,7 @@ package Case {
 }
 
 package Definiteness  {
-    enum Ordinal (
+    enum Definiteness (
         definite    => 0,
         indefinite  => 1,
         construct   => 2,

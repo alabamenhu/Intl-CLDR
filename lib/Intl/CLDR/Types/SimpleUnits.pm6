@@ -103,12 +103,12 @@ method encode(%*simples) {
         my $short-type = $type.match: / <alpha>+ '-' <( .* )> /;
         $result ~= StrEncode::get(~$short-type);
         $result.append: Gender::{$gender}.Int;
-        $result ~= StrEncode::get( %*simple<narrow><displayName>    // %*simple<short><displayName>    // '');
-        $result ~= StrEncode::get(                                     %*simple<short><displayName>    // '');
         $result ~= StrEncode::get( %*simple< long ><displayName>    // %*simple<short><displayName>    // '');
-        $result ~= StrEncode::get( %*simple<narrow><perUnitPattern> // %*simple<short><perUnitPattern> // '');
-        $result ~= StrEncode::get(                                     %*simple<short><perUnitPattern> // '');
+        $result ~= StrEncode::get(                                     %*simple<short><displayName>    // '');
+        $result ~= StrEncode::get( %*simple<narrow><displayName>    // %*simple<short><displayName>    // '');
         $result ~= StrEncode::get( %*simple< long ><perUnitPattern> // %*simple<short><perUnitPattern> // '');
+        $result ~= StrEncode::get(                                     %*simple<short><perUnitPattern> // '');
+        $result ~= StrEncode::get( %*simple<narrow><perUnitPattern> // %*simple<short><perUnitPattern> // '');
 
         # then our table data
         $result.append: @length-table.sum;        # lengths in this system

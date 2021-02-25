@@ -3,18 +3,24 @@
 #######################
 unit module StrEncode;
 
-my @strings;
+my Array @strings;
+my \LOCK = Lock.new;
 constant DELIMITER = 31.chr;
 
 #| Resets the string encoding collection
-our sub reset  {
-    # The first string is always CLDRStrs, which at 8bytes is a perfect header.
-    @strings = 'CLDRStrs'
+our sub reset (--> Int) {
+    my $new;
+    LOCK.protect: {
+        # The first string is always CLDRStrs, which at 8bytes is a perfect header.
+        $new = @strings.elems;
+        @strings[$new] = Array.new: 'CLDRStrs';
+    }
+    $new
 }
 
 # Generate the string to be interpreted by StrDecode::prepare()
 our sub output (\delimiter = DELIMITER --> Str) {
-    @strings.join: delimiter
+    @strings[$*STR-ENCODE].join: delimiter
 }
 
 #| Generate a two-byte code that StrDecode::get() can use to recover the string
@@ -22,11 +28,11 @@ our sub get(Str() $string --> buf8) {
     my $index;
 
     # Horribly inefficient, but not time-critical
-    with @strings.first($string, :k) {
+    with @strings[$*STR-ENCODE].first($string, :k) {
         $index = $_;
     } else{
-        @strings.push: $string;
-        $index = @strings - 1;
+        @strings[$*STR-ENCODE].push: $string;
+        $index = @strings[$*STR-ENCODE].elems - 1;
     }
 
     # If this happens, also update StrDecode

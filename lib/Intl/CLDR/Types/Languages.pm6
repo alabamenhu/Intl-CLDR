@@ -1,7 +1,9 @@
-unit class CLDR-Languages is Associative;
+unit class CLDR::Languages;
+    also does Associative;
 
 use Intl::CLDR::Types::Language;
-has CLDR-Language %!languages;
+
+has CLDR::Language %!languages;
 
 method EXISTS-KEY(\key) {
     return True;
@@ -57,5 +59,5 @@ sub load-data($tag) {
     my str @strs = %?RESOURCES{"languages-binary/" ~ $tag ~ ".strings"}.split(31.chr);
     my     \blob = %?RESOURCES{"languages-binary/" ~ $tag ~ ".data"}.slurp( :bin );
 
-    return CLDR-Language.new: blob, @strs;
+    return CLDR::Language.new: blob, @strs, :data-file(%?RESOURCES{"languages-binary/" ~ $tag ~ ".data"});
 }

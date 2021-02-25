@@ -58,6 +58,54 @@ multi sub trait_mod:<is> (Method $method, :$aliased-by!) is export {
     }
 }
 
+multi sub trait_mod:<is> (Attribute \attr, :$lazy) is export {
+    state    Int %index;     #= holds indexing values
+    constant     $start = 8; #= length of header in bytes
+
+    # Attribute name always includes `$!`
+    my Int       $index := %index{attr.package.^name}++;
+    my Str       $name  := attr.name.substr(2);
+    my Attribute $path  := attr.package.^attributes.grep(*.name eq '$!data-file').head;
+    my Attribute $strs  := attr.package.^attributes.grep(*.name eq '@!strings'  ).head;
+
+    attr.package.^add_method:
+        $name,
+        method {
+            my $attr := attr;
+            .return with $attr.get_value(self);
+
+            # Open the file (don't forget to close after reading!)
+            my $file := $path.get_value(self).open: :bin;
+
+            # Determine where the data is:
+            # - 8 byte header
+            # - 4 bytes (start of 0th)
+            # - 4 bytes (start of 1st)
+            # - ...
+            # - 4 bytes (eof)
+
+            $file.seek($start + $index * 4);
+            my blob8  $locations = $file.read(8);
+            my uint32 $from      = $locations.read-uint32(0, LittleEndian);
+            my uint32 $to        = $locations.read-uint32(4, LittleEndian);
+            $file.seek($from, SeekFromBeginning);
+
+            # Read the data for object creation and
+            # create the object, and store it for later
+            my buf8   $data    = $file.read($to - $from);
+            my uint64 $offset  = 0;
+            $file.close;
+
+            use Intl::CLDR::Util::StrDecode;
+            StrDecode::set($strs.get_value: self);
+
+            my $item := $attr.type.new: $data, $offset;
+            $attr.set_value:
+                self,
+                $item
+        }
+
+}
 
 my $epitaph = "† You really shouldn't try to edit CLDR data.\n"
     ~ "  If you really know what you're doing, you can\n"

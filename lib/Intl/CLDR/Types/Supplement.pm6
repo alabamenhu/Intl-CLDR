@@ -1,36 +1,31 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::Supplement;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-Supplement is CLDR-ItemNew ;
+use Intl::CLDR::Types::Subdivisions;
 
-#has CLDR-Subdivisions $.subdivisions;
+has CLDR::Subdivisions $.subdivisions;
+#has CLDR::Timezones    $.timezones;
 
 #| Creates a new CLDR-Supplement object
-method new(|c --> CLDR-Supplement) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-Supplement) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    #$!subdivisions = CLDR-Subdivisions.new: blob, $offset;
-    # StrDecode::get(blob, $offset);
-
-    #@!display-names[$_]      = StrDecode::get(blob, $offset) for ^3;
-
-    self;
+    self.bless:
+        subdivisions => CLDR::Subdivisions.new(blob, $offset)
 }
+
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%supplement --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new;
 
-    #$result ~= CLDR-Subdivisions.encode: %supplement<subdivisions>;
+    $result ~= CLDR::Subdivisions.encode: %supplement<subdivisions>;
 
-    # not called, handled at a higher level
+    $result
 }
 method parse(\base, \xml --> Nil) {
-    #base<supplemental> = CLDR-Subdivions
-    # not called, handled at a higher level
+    CLDR::Subdivisions.parse: (base<supplemental> //= Hash.new), $_ with $*subdivisions-xml;
 }
 #>>>>> # GENERATOR

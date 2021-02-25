@@ -54,10 +54,7 @@ method AT-KEY (\key) {
 
 # This sub assumes that we've validated the existence of the data.
 sub load-data($tag) {
-    use Intl::CLDR::Util::StrDecode;
-
-    my str @strs = %?RESOURCES{"languages-binary/" ~ $tag ~ ".strings"}.split(31.chr);
-    my     \blob = %?RESOURCES{"languages-binary/" ~ $tag ~ ".data"}.slurp( :bin );
-
-    return CLDR::Language.new: blob, @strs, :data-file(%?RESOURCES{"languages-binary/" ~ $tag ~ ".data"});
+    return CLDR::Language.new:
+        str-file  => %?RESOURCES{"languages-binary/" ~ $tag ~ ".strings"},
+        data-file => %?RESOURCES{"languages-binary/" ~ $tag ~ ".data"};
 }

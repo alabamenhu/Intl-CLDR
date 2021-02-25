@@ -51,5 +51,5 @@ sub MAIN($version!) {
 
     $?FILE.IO.parent.parent.add("META6.json").spurt: $meta6.to-json, :close;
 
-    say "Create META6 file for v$version successfully";
+    say "Created META6 file for v$version successfully";
 }

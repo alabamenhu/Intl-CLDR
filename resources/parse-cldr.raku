@@ -45,18 +45,17 @@ There are a number of subs available to C<parse> via C<Intl::CLDR::Util::XML-Hel
       Returns the text content of the tag
 =end pod
 
-sub MAIN (*@letters) {
+my $total-load-time = 0;
 
+sub MAIN (*@letters, Bool :$supplement) {
     @letters ||= <a b c d e f g h i j k l m n o p q r s t u v w x y z>;
 
     say "\x001b[31mThis process may take a very long time if handling all files at once\n"
        ~ "You may want to provide only a single letter or two as an argument\n"
-       ~ "to limit the scope of the parse process\x001b[0m"
+       ~ "to limit the scope of the parse process.\x001b[0m"
       if @letters == 26;
 
-    my %results;
-
-    my @language-files = "cldr-common/common/main".IO.dir;
+    my %*results;
 
     # These supplemental files contain multiple languages in one,
     # using dynamic variables keep things fairly clean.
@@ -65,86 +64,150 @@ sub MAIN (*@letters) {
     my $*plurals-ordinal-xml  = from-xml "cldr-common/common/supplemental/ordinals.xml".IO.slurp;
     my $*plurals-ranges-xml   = from-xml "cldr-common/common/supplemental/pluralRanges.xml".IO.slurp;
     my $*grammar-xml          = from-xml "cldr-common/common/supplemental/grammaticalFeatures.xml".IO.slurp;
+    my $*subdivisions-xml     = from-xml "cldr-common/common/supplemental/subdivisions.xml".IO.slurp;
 
-    # Grab all files starting with one of our letters, except for root
-    @language-files = @language-files.sort( *.basename.chars ).grep(*.basename.starts-with: any @letters).grep(none *.basename eq 'root');
-    @language-files.unshift("cldr-common/common/main/root.xml".IO); # root must come first
-    my $total-load-time = 0;
+    # Unless language files are being skipped,
+    # generate a list of languages to be processed
+    #
+    # These need to be sorted by
+    #   (1) Language code length (ensures core data goes first)
+    #   (2) Alphabetical (reduces likelihood core isn't finished for regional variant)
+    #
+    # Then root is processed immediately must go first, so it's added back in.
+    my @language-files;
+    unless @letters eq '...' {
+        @language-files = "cldr-common/common/main".IO.dir
+            .sort({ .basename.chars, .basename })
+            .grep(*.basename.starts-with: any @letters)
+            .grep(none *.basename eq 'root');
 
+        handle-language "cldr-common/common/main/root.xml".IO;
+    }
 
     # Loop through each language in the list of languages as determined above.
-    for @language-files -> $language-file {
+    #for @language-files.hyper(:1batch, :4degree) -> $language-file {
+    my \CURRENT = Lock.new;
+    my @current;
 
-        # The languages need a BCP47-style form (and the file names use Unicode-style)
-        # Though it shouldn't be the case, if there are any non-canonical forms, we convert them
-        # while ignoring 'root' since it's a psuedotag.
-        my $*lang = $language-file.basename.subst('_','-', :g).substr(0, *-4);
-        $*lang = LanguageTag.new($*lang).canonical
-            unless $*lang eq 'root';
+    hyper for @language-files.hyper(:1batch, :4degree) -> $file {
+        #handle-language $language-file;
+        my $lang = $file.basename.subst('_','-', :g).substr(0,*-4);
+        CURRENT.protect: { @current.push: $lang; print "\rEncoding ", @current.join(", "), "..." }
+        handle-language $file;
+        CURRENT.protect: { @current = @current.grep(* ne $lang).eager }
+    }
 
-        print "Encoding \x001b[34m{$*lang}\x001b[0m: ";
 
-        # Open file unless there's a combining diacritic on a delimiter, and make sure it's got elements
-        my $file;
+    # Now do the supplemental
+    if $supplement {
+        handle-supplemental
+    }
+
+    # say "Compilation complete.  Load time for {%*results.keys.elems} files was ", $total-load-time, " ({$total-load-time / %*results.keys.elems} avg)";
+
+}
+
+
+my \LOCK        = Lock.new;
+my \TIMELOCK    = Lock.new;
+my \DECODE-LOCK = Lock.new;
+sub handle-language($language-file) {
+
+    # The languages need a BCP47-style form (and the file names use Unicode-style)
+    # Though it shouldn't be the case, if there are any non-canonical forms, we convert them
+    # while ignoring 'root' since it's a psuedotag.
+    my $*lang = $language-file.basename.subst('_','-', :g).substr(0, *-4);
+    $*lang = LanguageTag.new($*lang).canonical
+        unless $*lang eq 'root';
+
+    my $prefix =
+        "\r\x001b[37m" ~ DateTime.now.Str.substr(11..18) ~ " - \x001b[0m\x001b[34m{$*lang}\x001b[0m - ";
+    # Open file unless there's a combining diacritic on a delimiter, and make sure it's got elements
+    my $file;
+    try {
+        CATCH { say "$prefix\x001b[31mFailure\x001b[0m (could not open {$language-file})"; return }
+        # We can't pass the handler directly because the XML library doesn't autoclose.
+        $file = from-xml $language-file.slurp;
+        say "No data"
+            andthen return
+                if $file.elements.elems == 1;
+    }
+
+    # Data is designed to be cascading.
+    # Sort order means we always will load 'en' before 'en-US' or else a fresh hash
+    # The goal in this section is to load the most narrowly matching combination first
+    # Deep copying of hashes is done via 'from-json to-json' because of an odd parse bug
+    LOCK.protect({
         try {
-            CATCH { say "\x001b[31mFailure\x001b[0m (could not open {$language-file})"; .say; next; }
-            # We can't pass the handler directly because the XML library doesn't autoclose.
-            $file = from-xml $language-file.slurp;
-            say "No data"
-                andthen next
-                    if $file.elements.elems == 1;
-        }
-
-        # Data is designed to be cascading.
-        # Sort order means we always will load 'en' before 'en-US' or else a fresh hash
-        # The goal in this section is to load the most narrowly matching combination first
-        # Deep copying of hashes is done via 'from-json to-json' because of an odd parse bug
-        try {
-            CATCH { say "Could not load base data for $*lang (probably the base XML file was unreadable)"; say $!; next; }
+            CATCH { say "{$prefix}Could not load base data for $*lang (probably the base XML file was unreadable)"; return }
             given $*lang.comb('-').elems {
                 when 0 {
                     if $*lang eq 'root' {
-                        %results<root> = Hash.new
+                        %*results<root> = Hash.new
                     } else {
-                        %results{$*lang} = from-json to-json %results<root>;
+                        %*results{$*lang} = from-json to-json %*results<root>;
                     }
-                    %results{$*lang} := ($*lang eq 'root' ?? Hash.new !! from-json to-json %results<root>)
+                    %*results{$*lang} := ($*lang eq 'root' ?? Hash.new !! from-json to-json %*results<root>)
                 }
                 default {
-                    %results{$*lang} := %results{$*lang.split('-')[0..*-2].join('-')}:exists # in a handful of instances, removing a single tag does not result in a valid match, but removing two ALWAYS does (for now);
-                        ?? (from-json to-json %results{$*lang.split('-')[0..*-2].join('-')} )
-                        !! (from-json to-json %results{$*lang.split('-')[0..*-3].join('-')} )
+                    %*results{$*lang} := %*results{$*lang.split('-')[0..*-2].join('-')}:exists # in a handful of instances, removing a single tag does not result in a valid match, but removing two ALWAYS does (for now);
+                        ?? (from-json to-json %*results{$*lang.split('-')[0..*-2].join('-')} )
+                        !! (from-json to-json %*results{$*lang.split('-')[0..*-3].join('-')} )
                 }
             }
         }
+    });
 
+    try {
+        CATCH { say "$prefix\x001b[31mFailure\x001b[0m (there was a problem during loading)"; .say; return; }
 
-        try {
-            CATCH { say "\x001b[31mFailure\x001b[0m (there was a problem during loading)"; .say; next; }
+        # Process and encode
+        my $start = now;
 
-            # Process and encode
-            my $start = now;
+        my $base;
+        LOCK.protect: { $base := %*results{$*lang} };
+        # ^ Probably excessive protection
 
-            my $base := %results{$*lang};
-            StrEncode::reset(); # clears encoder
-            CLDR-Language.parse($base, $file);
-            my $blob = CLDR-Language.encode: $base;
+        my $*STR-ENCODE = StrEncode::reset(); # clears encoder
+        CLDR::Language.parse($base, $file);
+        my $blob = CLDR::Language.encode: $base;
 
-            $total-load-time += (now - $start);
+        TIMELOCK.protect: { $total-load-time += (now - $start) };
 
-            # Ensure that we can actually read our data;
-            my str @langs = StrEncode::output().split(31.chr);
-            CLDR-Language.new($blob, @langs).grammar.plurals; # Testing
+        # Ensure that we can actually read our data;
+        #my str @langs = StrEncode::output().split(31.chr);
 
-            # Write the data out
-            "languages-binary/{$*lang}.data".IO.spurt: $blob, :bin;             # binary tree data
-            "languages-binary/{$*lang}.strings".IO.spurt: StrEncode::output();  # StrEncode is a bad global for now
+        # Write the data out
+        "languages-binary/{$*lang}.data".IO.spurt:    $blob, :bin,         :close;  # binary tree data
+        "languages-binary/{$*lang}.strings".IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
 
-            say "\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes)";
-        }
-
+        say "$prefix\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes)";
     }
+}
 
-    say "Compilation complete.  Load time for {%results.keys.elems} files was ", $total-load-time, " ({$total-load-time / %results.keys.elems} avg)";
+sub handle-supplemental {
+    use Intl::CLDR::Types::Subdivisions;
+    my $*subdivisions-xml = from-xml "cldr-common/common/supplemental/subdivisions.xml".IO.slurp;
 
+    my %supplement;
+
+    my $*STR-ENCODE = StrEncode::reset(); # clears encoder
+
+    CLDR::Subdivisions.parse(%supplement, $);
+    my $blob = CLDR::Subdivisions.encode(%supplement);
+
+    my uint64 $offset = 0;
+    StrDecode::prepare(StrEncode::output());
+    my $foo = CLDR::Subdivisions.new: $blob, $offset;
+
+    # Write the data out
+    "supplemental.data".IO.spurt:    $blob, :bin,         :close;  # binary tree data
+    "supplemental.strings".IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
+
+}
+
+sub format-message(:$file, :$success, :$message) {
+    ~ "\r" ~
+    ~ DateTime.now.Str.substr(11..18) # Time of day
+    ~ 4
 }

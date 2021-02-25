@@ -25,9 +25,9 @@ To install, be aware that due to the number of files, you may need to increase t
 
 ## CLDR objects
 
-Each `CLDR-*` object is a subclass of `Hash`, and attributes can generally be accessed both from 
-hashy accessors (`{'foo'}`)or method/attribute accessors (`.foo`).
-True attributes are defined with kebab-case, but camel-case alternates are available as well (this is because CLDR began with camel case, and now tends to prefer kebab-case).  
+Each `CLDR-*` or `CLDR::*` object is `Associative`, and attributes can generally be accessed both from 
+hashy accessors (`{'foo'}`) or method/attribute accessors (`.foo`).
+True attributes are defined with kebab-case, but camel-case alternates are available as well (this is because CLDR began with camel case, and now tends to prefer kebab-case, and it's hard to remember when to use which).  
 
 ## Other thoughts
 
@@ -37,10 +37,23 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient/logical method of accessing things (e.g. `calendar.formats<time date datetime interval>`).
 
 # Version History
-  * 0.5.2 (in progress) 
-    * Removed redundant measurement type prefix from units (e.g. **meter** instead of **length-meter**).  
-    * Support for supplemental `<grammaticalDerivations>` added (`<grammaticalFeatures>` NYI).
-    * Added Hash-y access to `CompoundUnitSet::Selector`
+  * 0.6.0 (in progress)
+    * New features
+      * Added language-agnostic `CLDR::Supplement`.  Accessed via `CLDR.supplement.subdivisions`
+        * Support for `<subdivisions>` tag (provides data to be fed into main language data classes)
+        * Timezone data added
+          * `CLDR::Metazone` (from `<metaZone>`) synthesizes Olson IDs to notional zones
+          * `CLDR::WindowsTimezone` (from `<windowsZones>`) to convert Windows' timezone IDs to Olson IDs
+      * Support for supplemental-ish `<grammaticalDerivations>` added (`<grammaticalFeatures>` NYI).
+      * Version attributes
+        * Use `CLDR.module-version` to get the current module version (currently `v0.6.0`)
+        * Use `CLDR.cldr-version` to get the version of the CLDR database used (currently `v38.1`)
+    * Minor changes
+      * Removed redundant measurement type prefix from units (e.g. **meter** instead of **length-meter**).  
+      * Hash-y access for `CompoundUnitSet::Selector`
+    * Bug fixes
+      * Long/narrow display-name/per-unit patterns for simple units were swapped.
+      * Fixed encoding for exemplar characters that incorrect `.ellipses` and `.more-info` values to appear in `CLDR::Characters`
     * Code improvements
       * Transition from using the `CLDR-ItemNew` in `Immutability.pm6` (a holdover from pre-v0.5) to using `CLDR::Item` in `Core.pm6`
       * Use `CLDR::Type` instead of `CLDR-Type`

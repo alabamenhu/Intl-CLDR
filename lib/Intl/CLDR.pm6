@@ -30,7 +30,7 @@ and for both simplicity (and increased efficiency), binding to subelements.
 
 sub EXPORT {
     use Intl::CLDR::Types::Database;
-    state CLDR-Database $database //= CLDR-Database.new;
+    state CLDR::Database $database //= CLDR::Database.new;
     return %(
         'cldr' => $database.languages,
         'CLDR' => $database,

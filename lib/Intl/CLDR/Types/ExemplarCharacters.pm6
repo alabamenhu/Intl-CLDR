@@ -62,11 +62,11 @@ method encode(%*exemplar --> blob8) {
         }
     }
 
-    $result ~= StrEncode::get((%*exemplar<standard>    // Array.new).join: 30.chr);
-    $result ~= StrEncode::get((%*exemplar<index>       // Array.new).join: 30.chr);
-    $result ~= StrEncode::get((%*exemplar<auxiliary>   // Array.new).join: 30.chr);
-    $result ~= StrEncode::get((%*exemplar<numbers>     // Array.new).join: 30.chr);
-    $result ~= StrEncode::get((%*exemplar<punctuation> // Array.new).join: 30.chr);
+    #$result ~= StrEncode::get((%*exemplar<standard>    // Array.new).join: 30.chr);
+    #$result ~= StrEncode::get((%*exemplar<index>       // Array.new).join: 30.chr);
+    #$result ~= StrEncode::get((%*exemplar<auxiliary>   // Array.new).join: 30.chr);
+    #$result ~= StrEncode::get((%*exemplar<numbers>     // Array.new).join: 30.chr);
+    #$result ~= StrEncode::get((%*exemplar<punctuation> // Array.new).join: 30.chr);
 
     $result;
 }

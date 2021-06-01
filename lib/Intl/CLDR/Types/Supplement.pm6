@@ -9,8 +9,6 @@ has CLDR::Subdivisions $.subdivisions;
 
 #| Creates a new CLDR-Supplement object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
-    use Intl::CLDR::Util::StrDecode;
-
     self.bless:
         subdivisions => CLDR::Subdivisions.new(blob, $offset)
 }

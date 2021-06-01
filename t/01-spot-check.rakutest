@@ -1,0 +1,29 @@
+=begin pod
+This test is designed to spot check certain elements for alignment issues.
+The serialized nature of data reading/writing makes it easy for off-by-one
+or more elements which adjusting the encoding or loading structure.
+
+English is currently the primary language used to test this one, as it's the most
+feature complete and easiest for me to debug.
+
+Because each section is loaded as a distinct chunk, each should be tested
+individually to ensure correctness.
+=end pod
+use Test;
+use Intl::CLDR;
+
+# Spot check for Characters
+is cldr<en>.characters.more-info, '?';
+is cldr<en>.characters.ellipses.medial, '{0}…{1}';
+
+# Context transform
+is cldr<en>.context-transforms.calendar-field.stand-alone,  'titlecase-first-word';
+is cldr<en>.context-transforms.number-spellout.stand-alone, 'titlecase-first-word';
+is cldr<en>.context-transforms.unit-pattern.stand-alone,    'no-change';
+
+# Subdivisions
+is cldr<en>.context-transforms.calendar-field.stand-alone,  'titlecase-first-word';
+is cldr<en>.context-transforms.number-spellout.stand-alone, 'titlecase-first-word';
+is cldr<en>.context-transforms.unit-pattern.stand-alone,    'no-change';
+
+done-testing;

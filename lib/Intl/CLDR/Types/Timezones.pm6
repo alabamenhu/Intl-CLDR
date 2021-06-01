@@ -5,9 +5,9 @@ my IO::Handle $file = open "Metazones.data", :w;
 
 my $xml = open-xml("metaZones.xml");
 
-my @timezones = $xml.getElementsByTagName('metaZones'   ).head.
-    getElementsByTagName('metazoneInfo').head.
-    getElementsByTagName('timezone');
+my @timezones = $xml.getElementsByTagName('metaZones'   ).head
+                    .getElementsByTagName('metazoneInfo').head
+                    .getElementsByTagName('timezone');
 
 sub gmt(Str \stamp, $timezone) {
     # 1983-10-30 12:00

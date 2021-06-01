@@ -20,7 +20,8 @@ sub MAIN($version!) {
     my $res-prefix-length = $bin-data.Str.chars - 16; # -16 because '…/languages-binary')
 
     for find(dir => $bin-data) -> $lang-file {
-        @resources.push: $lang-file.Str.substr($res-prefix-length);
+        @resources.push: $lang-file.Str.substr($res-prefix-length)
+            unless $lang-file.Str.contains('.DS_Store'); # I hate you macOS
     }
 
     use META6;
@@ -39,9 +40,12 @@ sub MAIN($version!) {
         license => 'Artistic-2.0',
         api => '1',
         source-url => 'git://github.com/alabamenhu/Intl-CLDR.git',
+        support => META6::Support.new(
+            source => 'https://github.com/alabamenhu/META6.git'
+        ),
         auth => 'github:alabamenhu',
-        perl => Version.new('6.d.*'),
-        raku => Version.new('6.d.*'),
+        perl-version => Version.new('6.d+'),
+        raku-version => Version.new('6.d+'),
         authors => [
             'Matthew ‘Matéu’ Stephen STUCKWISCH <mateu@softastur.com>'
         ],

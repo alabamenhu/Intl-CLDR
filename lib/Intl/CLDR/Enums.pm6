@@ -41,6 +41,20 @@ package Case {
         prepositional      => 11,
         sociative          => 12,
         vocative           => 13,
+        abessive           => 14, # added in CLDR 39β
+        adessive           => 15, # added in CLDR 39β
+        allative           => 17, # added in CLDR 39β
+        causal             => 16, # added in CLDR 39
+        delative           => 17, # added in CLDR 39
+        elative            => 18, # added in CLDR 39
+        essive             => 19, # added in CLDR 39
+        illative           => 20, # added in CLDR 39
+        inessive           => 21, # added in CLDR 39
+        partitive          => 22, # added in CLDR 39
+        sublative          => 23, # added in CLDR 39
+        superessive        => 24, # added in CLDR 39
+        terminative        => 25, # added in CLDR 39
+        translative        => 26, # added in CLDR 39
     )
 }
 

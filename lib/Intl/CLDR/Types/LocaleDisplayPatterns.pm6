@@ -43,7 +43,8 @@ method encode(\hash) {
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    with xml.&elem('localeDisplayPatterns') -> \xml-dp {
+    with xml.&elem('localeDisplayPattern') -> \xml-dp {
+
         base<localePattern>        = contents $_ with xml-dp.&elem('localePattern');
         base<localeSeparator>      = contents $_ with xml-dp.&elem('localeSeparator');
         base<localeKeyTypePattern> = contents $_ with xml-dp.&elem('localeKeyTypePattern');

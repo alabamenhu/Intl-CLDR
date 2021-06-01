@@ -1,30 +1,24 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::Ellipses;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-Ellipses is CLDR-ItemNew;
-
-has Str $.final;
-has Str $.initial;
-has Str $.medial;
-has Str $.word-final;
-has Str $.word-initial;
-has Str $.word-medial;
+has Str $.final;        #= Ellipse pattern when removing the end of a text
+has Str $.initial;      #= Ellipse pattern when removing the start of a text
+has Str $.medial;       #= Ellipse pattern when removing a middle portion of text
+has Str $.word-final;   #= Ellipse pattern when removing the end of a text along word boundaries
+has Str $.word-initial; #= Ellipse pattern when removing the start of a text along word boundaries
+has Str $.word-medial;  #= Ellipse pattern when removing a middle portion of text along word boundaries
 
 #| Creates a new CLDR-DayPeriodContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+method new(buf8 \blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!final        = StrDecode::get(blob, $offset);
-    $!initial      = StrDecode::get(blob, $offset);
-    $!medial       = StrDecode::get(blob, $offset);
-    $!word-final   = StrDecode::get(blob, $offset);
-    $!word-initial = StrDecode::get(blob, $offset);
-    $!word-medial  = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        final        => StrDecode::get(blob, $offset),
+        initial      => StrDecode::get(blob, $offset),
+        medial       => StrDecode::get(blob, $offset),
+        word-final   => StrDecode::get(blob, $offset),
+        word-initial => StrDecode::get(blob, $offset),
+        word-medial  => StrDecode::get(blob, $offset);
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

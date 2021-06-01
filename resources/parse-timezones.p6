@@ -10,25 +10,27 @@ use DateTime::Timezones;
 
 my IO::Handle $file = open "Metazones.data", :w;
 
-my $xml = open-xml("metaZones.xml");
+# Now we assume it's in the CLDR common directory (so it will update with the CLDR version)
+my $xml = open-xml("cldr-common/common/supplemental/metaZones.xml");
 
-my @timezones = $xml.getElementsByTagName('metaZones'   ).head.
-                     getElementsByTagName('metazoneInfo').head.
-                     getElementsByTagName('timezone');
+my @timezones = $xml.getElementsByTagName('metaZones'   ).head
+                    .getElementsByTagName('metazoneInfo').head
+                    .getElementsByTagName('timezone');
 
 sub gmt(Str \stamp, $timezone) {
-    # 1983-10-30 12:00
+    # e.g. '1983-10-30 12:00'
     my ($year, $month, $day, $hour, $minute) = stamp.comb(/\d+/);
     return DateTime.new(:$year, :$month, :$day, :$hour, :$minute, :$timezone).posix;
 }
-constant min = -9223372036854775808; # int64 min
-constant max =  9223372036854775807; # int64 max
+
+constant min-time = -9223372036854775808; # int64 min
+constant max-time =  9223372036854775807; # int64 max
 for @timezones -> $timezone {
     my $olson = $timezone<type>;
     say "Processing $olson";;
     $file.print: $olson;
     for $timezone.getElementsByTagName('usesMetazone') -> $metazone {
-        my $start   = $metazone<from> // "*"; # These are in GMT time, max = 9223372036854775807
+        my $start   = $metazone<from> // "*"; # These are in GMT time, max = +9223372036854775807
         my $end     = $metazone<to>   // "*"; # These are in GMT time, min = -9223372036854775808
         my $link-to = $metazone<mzone>;
 
@@ -38,9 +40,9 @@ for @timezones -> $timezone {
                      ","
                             ~ $link-to
                             ~ ","
-                            ~ ($start eq '*' ?? min !! gmt($start, $olson))
+                            ~ ($start eq '*' ?? min-time !! gmt($start, $olson))
                             ~ ","
-                    ~ ($end eq '*' ?? max !! gmt($end, $olson));
+                    ~ ($end eq '*' ?? max-time !! gmt($end, $olson));
         }
     }
     $file.print: "\n";

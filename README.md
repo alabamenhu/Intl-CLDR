@@ -37,13 +37,16 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient/logical method of accessing things (e.g. `calendar.formats<time date datetime interval>`).
 
 # Version History
-  * 0.6.0 (in progress)
+  * 0.7.0 (*in progress*)
+    * New features 
+      * Timezone data added
+        * `CLDR::Metazone` (from `<metaZone>`) converts Olson IDs to notional zones
+        * `CLDR::WindowsTimezone` (from `<windowsZones>`) to convert Windows' timezone IDs to Olson IDs
+  * 0.6.0
+    * CLDR update to v39.0
     * New features
       * Added language-agnostic `CLDR::Supplement`.  Accessed via `CLDR.supplement.subdivisions`
         * Support for `<subdivisions>` tag (provides data to be fed into main language data classes)
-        * Timezone data added
-          * `CLDR::Metazone` (from `<metaZone>`) synthesizes Olson IDs to notional zones
-          * `CLDR::WindowsTimezone` (from `<windowsZones>`) to convert Windows' timezone IDs to Olson IDs
       * Support for supplemental-ish `<grammaticalDerivations>` added (`<grammaticalFeatures>` NYI).
       * Version attributes
         * Use `CLDR.module-version` to get the current module version (currently `v0.6.0`)
@@ -54,11 +57,13 @@ The latter three are currently organized exactly as in CLDR, but I may rearrange
     * Bug fixes
       * Long/narrow display-name/per-unit patterns for simple units were swapped.
       * Fixed encoding for exemplar characters that incorrect `.ellipses` and `.more-info` values to appear in `CLDR::Characters`
+      * Locale display patterns `<localePattern>` (`.main`), `<localeSeparator>` (`.separator`), and `<localeKeyTypePattern>` (`.extension`) are now properly encoded
     * Code improvements
       * Transition from using the `CLDR-ItemNew` in `Immutability.pm6` (a holdover from pre-v0.5) to using `CLDR::Item` in `Core.pm6`
       * Use `CLDR::Type` instead of `CLDR-Type`
       * Use `is aliased-by` instead of `detour`
       * Use `is built` and similar instead of `!bind_init`
+      * Cleaner handling of cases in `Units.pm6` (to be mirrored in other similar files in subsequent updates)
   * 0.5.1
     * Updated `DecimalFormatSystem`, `CurrencyFormatSystem` and `ScientificFormatSystem` to support Hash-y access.
     * Pulled out `Intl::Format::Numbers` into its own module (as `Intl::Format::Number`)

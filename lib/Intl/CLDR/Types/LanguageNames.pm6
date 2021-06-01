@@ -1,6 +1,8 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-LanguageNames is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR-LanguageNames;
+    use Intl::CLDR::Core;
+    also is CLDR::Unordered;
 
 #######################################
 #  Attributes currently too numerous  #
@@ -14,9 +16,9 @@ unit class CLDR-LanguageNames is CLDR-ItemNew is CLDR-Unordered;
 # They are at present mutually exclusive.  #
 ############################################
 
-role HasVariantForm { has $.variant; method short {self.Str} }
-role HasShortForm   { has $.short; method variant {self.Str} }
-role NoAlternateForms { method short { self}; method variant { self } }
+role HasVariantForm   { method   short { self.Str}; has    $.variant              }
+role HasShortForm     { has    $.short;             method   variant { self.Str } }
+role NoAlternateForms { method   short { self    }; method   variant { self     } }
 method new(|c) {
     self.bless!bind-init: |c
 }
@@ -55,12 +57,12 @@ method encode(%*languages --> buf8) {
 
     my $result = buf8.new;
 
-    my $lang-count = %*languages.keys.elems;
+    my $lang-count = %*languages.keys.grep({none $_ ~~ /'→'/}).elems;
 
     $result.append: $lang-count div 256;
     $result.append: $lang-count mod 256;
 
-    for %*languages.grep({none .key ~~ '→'}) -> ( :key($tag), :value($name)) {
+    for %*languages.grep({none .key ~~ /'→'/}) -> ( :key($tag), :value($name)) {
         # tags are guaranteed to not be variants or shorts
         # Check if a short version exists
         if %*languages{$tag ~ '→variant'}:exists {
@@ -83,13 +85,17 @@ method encode(%*languages --> buf8) {
         }
 
     }
-
+    #say "";
+    #say "Encoded language names ", $result[0..10];
+    #say "";
+    #say "";
     $result
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
 
-    base{.<type> ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('language');
-
+    # Some languages use a region code as well.
+    # These use underscores as a Unicode identifier, but we use BCP identifiers
+    base{.<type>.subst('_','-') ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('language');
 }
 #>>>>> # GENERATOR

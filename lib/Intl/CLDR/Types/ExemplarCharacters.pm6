@@ -1,7 +1,7 @@
-use Intl::CLDR::Immutability;
-
 #| Groups of characters used for different purposes in a language
-unit class CLDR-ExemplarCharacters is CLDR-ItemNew;
+unit class CLDR::ExemplarCharacters;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has List $.standard;     #= The fundamental characters required by a language
 has List $.index;        #= Index characters used in the language (e.g. dictionary headers)
@@ -9,18 +9,14 @@ has List $.auxiliary;    #= Additional characters that are frequently used by a 
 has List $.numbers;      #= Symbols and digits commonly used in math
 has List $.punctuation;  #= Punctuation used regularly by a language
 
-#| Creates a new CLDR-DayPeriodContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+#| Creates a new CLDR::ExemplarCharacters object
+method new(blob8 \blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
     # Sometimes the character will be a combining grapheme.  This ensures we capture it separately
     # although it might not be much use ATM
-    multi sub safe-split(\source) {
-        return () if source eq ''; # for some languages (and root), we interpret the empty string as blank
+    my sub safe-split(\source) {
+        return Empty unless source; # for some languages (and root), we interpret the empty string as blank
         my @haystack = source.ords;
         constant needle   = 30; # second order delimiter
 
@@ -33,16 +29,15 @@ submethod !bind-init(\blob, uint64 $offset is rw) {
             @results.push: @haystack[$anchor .. $cursor - 1]>>.chr.join;
             return @results if @haystack < ($anchor = ++$cursor);
         }
-        return ();
+        return Empty;
     }
 
-    $!standard    = safe-split StrDecode::get(blob,$offset);
-    $!index       = safe-split StrDecode::get(blob,$offset);
-    $!auxiliary   = safe-split StrDecode::get(blob,$offset);
-    $!numbers     = safe-split StrDecode::get(blob,$offset);
-    $!punctuation = safe-split StrDecode::get(blob,$offset);
-
-    self
+    self.bless:
+        standard    => safe-split(StrDecode::get(blob,$offset)),
+        index       => safe-split(StrDecode::get(blob,$offset)),
+        auxiliary   => safe-split(StrDecode::get(blob,$offset)),
+        numbers     => safe-split(StrDecode::get(blob,$offset)),
+        punctuation => safe-split(StrDecode::get(blob,$offset));
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
@@ -61,12 +56,6 @@ method encode(%*exemplar --> blob8) {
             $result ~= StrEncode::get('');
         }
     }
-
-    #$result ~= StrEncode::get((%*exemplar<standard>    // Array.new).join: 30.chr);
-    #$result ~= StrEncode::get((%*exemplar<index>       // Array.new).join: 30.chr);
-    #$result ~= StrEncode::get((%*exemplar<auxiliary>   // Array.new).join: 30.chr);
-    #$result ~= StrEncode::get((%*exemplar<numbers>     // Array.new).join: 30.chr);
-    #$result ~= StrEncode::get((%*exemplar<punctuation> // Array.new).join: 30.chr);
 
     $result;
 }
@@ -148,10 +137,6 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
 
     with xml {
-        #say "";
-        #say "Processing ", (xml<type> // 'standard'), ": ", contents (xml // '');
-        #say "  Valid parse string " if UnicodeSet.parse: contents(xml // '') // '[]';
-        #say "  Valid result " if UnicodeSet.parse: (contents(xml // '') // '[]'), :actions(UnicodeSetActions);
         base = UnicodeSet.parse((contents(xml // '') // '[]'), :actions(UnicodeSetActions)).made;
     }
 }

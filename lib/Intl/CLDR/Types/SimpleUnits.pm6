@@ -34,18 +34,25 @@ method encode(%*simples) {
     my $encoded-units = 0;
 
     my @lengths = <long short narrow>;
-    my @counts  = <zero one two few many other 0 1 >;
+    my @counts  = <zero one two few many other 0 1>;
+                  # Cases after the line skip are new in CLDR v39, hence the lack of alphabetical order.
+                  # The order here lines up with the enum keys, so *do not alphabetize*
     my @cases   = <ablative accusative comitative dative ergative genitive instrumental locative
-                   locativecopulative nominative oblique prepositional sociative vocative>;
+                   locativecopulative nominative oblique prepositional sociative vocative
+
+                   abessive adessive allative causal delative elative essive illative inessive
+                   partitive sublative superessive terminative translative>;
 
     for %*simples.kv -> $type, %*simple {
 
         my Int @length-table;
         my Int @count-table;
         my Int @case-table;
+
         my Int $length-total;
         my Int $count-total;
         my Int $case-total;
+
         my Str $gender;
 
         # these should be calculated separated on a per-length basis
@@ -53,24 +60,20 @@ method encode(%*simples) {
         sub check-count( $count ) { return True if %*simple{$_}<unitPatterns>{$count}.keys  > 0 for @lengths; False}
         sub check-case(  $case  ) { return True if %*simple{.[0]}<unitPatterns>{.[1]}{$case}.keys > 0 for @lengths X @counts; False }
 
-        @length-table = [
-            check-length('long'),
-            check-length('short'),
-            check-length('narrow')
-        ];
-        @count-table = [
-            check-count('zero'), check-count('one'  ), check-count('two'), check-count('few'),
-            check-count('many'), check-count('other'), check-count('0'  ), check-count('1'  ),
-        ];
-        @case-table = [
-            check-case('ablative'), check-case('accusative'), check-case('comitative'  ), check-case('dative'  ),
-            check-case('ergative'), check-case('genitive'  ), check-case('instrumental'), check-case('locative'),
-            check-case('locativecopulative'),                 check-case('nominative'  ), check-case('oblique' ),
-            check-case('prepositional'     ),                 check-case('sociative'   ), check-case('vocative'),
-        ];
+        # Determine which of these are actually use (to compress data down).
+        @length-table = @lengths».&check-length;
+        @count-table  = @counts».&check-count;
+        @case-table   = @cases».&check-case;
+
+        # Determine the total number use (to size appropriately).
         $length-total = sum @length-table;
         $count-total  = sum @count-table;
         $case-total   = sum @case-table;
+
+        # Figure out the default gender
+        # TODO: this should be specified somewhere in supplement data, but as a simple
+        # heuristic, if the neuter gender is used, default is neuter, otherwise,
+        # it's masculine. (genderless languages it won't matter)
         $gender       = %*simple{ * ; 'gender'}.first('neuter') // 'masculine';
 
         my buf8 $length-trans = buf8.new:
@@ -81,15 +84,17 @@ method encode(%*simples) {
         # count should always exist
         my $real-idx = 0;
         my buf8 $count-trans = buf8.new: 255,255,255,255,255,255,255,255;
-        for ^8 { $count-trans[$_] = $real-idx++ if @count-table[$_]}             # unused == 255
+        for ^8 { $count-trans[$_] = $real-idx++     if @count-table[$_]}         # unused == 255
         for ^5 { $count-trans[$_] = $count-trans[5] if $count-trans[$_] == 255}  # unused now gets aliased, default = other
+
         $count-trans[6] = $count-trans[0] if $count-trans[6] == 255;             # special handling for literal one/zero
         $count-trans[7] = $count-trans[1] if $count-trans[7] == 255;
 
+
         $real-idx = 0;
         my buf8 $case-trans = buf8.new: 255,255,255,255,255,255,255,255,255,255,255,255,255,255;
-        for ^14 { $case-trans[$_] = $real-idx++ if @case-table[$_]}           # unused == 255
-        for ^14 { $case-trans[$_] = $case-trans[9] if $case-trans[$_] == 255}  # unused now gets aliased, default = nominative
+        for ^@cases { $case-trans[$^case] = $real-idx++    if @case-table[$^case]}         # unused == 255
+        for ^@cases { $case-trans[$^case] = $case-trans[9] if $case-trans[$^case] == 255}  # unused now gets aliased, default = nominative
 
 
         # general data first

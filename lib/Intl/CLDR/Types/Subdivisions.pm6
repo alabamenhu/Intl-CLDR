@@ -5,13 +5,16 @@ unit class CLDR::Subdivisions;
 
 use Intl::CLDR::Types::Subdivision;
 
+# I'm not sure why these have to be here separately, as they are
+# identically defined in CLDR::Unordered
+method AT-KEY     (\key) { self.Hash::AT-KEY(    key) }
+method EXISTS-KEY (\key) { self.Hash::EXISTS-KEY(key) }
 
 method of (--> CLDR::Subdivision) {}
 
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
     my int $count = blob[$offset++];
-
     my \self-new = self.bless;
     for ^$count {
         self-new.Hash::BIND-KEY:
@@ -31,6 +34,7 @@ method encode(%subdivisions --> buf8) {
     $result.append: %subdivisions.keys.elems;
 
     for %subdivisions.kv -> $country, %states {
+        say "Encoding country $country (states {%states.keys})";
         $result ~= StrEncode::get($country);
         $result ~= CLDR::Subdivision.encode(%states);
     }
@@ -41,5 +45,6 @@ method parse(\base, \xml --> Nil) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::Subdivision.parse: (base{.<type>} //= Hash.new), $_
         for $*subdivisions-xml.&elem('subdivisionContainment').&elems('subgroup').grep(*.<type>.chars == 2);
+    say "Subdivisions base: \n", base.raku;
 }
 #>>>>> # GENERATOR

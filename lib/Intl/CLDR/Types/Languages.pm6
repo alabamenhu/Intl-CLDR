@@ -5,9 +5,10 @@ use Intl::CLDR::Types::Language;
 
 has CLDR::Language %!languages;
 
-method EXISTS-KEY(\key) {
-    return True;
-    # we should always return at least root
+method EXISTS-KEY(\key --> True) {
+    # This is a unique associative, in that a
+    # value *always* “exists” (because everything
+    # defaults to root.
 }
 
 method AT-KEY (\key) {

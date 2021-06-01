@@ -47,7 +47,7 @@ There are a number of subs available to C<parse> via C<Intl::CLDR::Util::XML-Hel
 
 my $total-load-time = 0;
 
-sub MAIN (*@letters, Bool :$supplement) {
+sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
     @letters ||= <a b c d e f g h i j k l m n o p q r s t u v w x y z>;
 
     say "\x001b[31mThis process may take a very long time if handling all files at once\n"
@@ -85,11 +85,11 @@ sub MAIN (*@letters, Bool :$supplement) {
     }
 
     # Loop through each language in the list of languages as determined above.
-    #for @language-files.hyper(:1batch, :4degree) -> $language-file {
+    # for @language-files.hyper(:1batch, :4degree) -> $language-file {
     my \CURRENT = Lock.new;
     my @current;
 
-    hyper for @language-files.hyper(:1batch, :4degree) -> $file {
+    hyper for @language-files.hyper(:1batch, :degree($threads)) -> $file {
         #handle-language $language-file;
         my $lang = $file.basename.subst('_','-', :g).substr(0,*-4);
         CURRENT.protect: { @current.push: $lang; print "\rEncoding ", @current.join(", "), "..." }
@@ -103,7 +103,7 @@ sub MAIN (*@letters, Bool :$supplement) {
         handle-supplemental
     }
 
-    # say "Compilation complete.  Load time for {%*results.keys.elems} files was ", $total-load-time, " ({$total-load-time / %*results.keys.elems} avg)";
+    say "Compilation complete.  Load time for {%*results.keys.elems} files was ", $total-load-time, " ({$total-load-time / %*results.keys.elems} avg)";
 
 }
 
@@ -128,9 +128,10 @@ sub handle-language($language-file) {
         CATCH { say "$prefix\x001b[31mFailure\x001b[0m (could not open {$language-file})"; return }
         # We can't pass the handler directly because the XML library doesn't autoclose.
         $file = from-xml $language-file.slurp;
-        say "No data"
-            andthen return
-                if $file.elements.elems == 1;
+        if $file.elements.elems == 1 {
+            say $prefix ~ "No data                    ";
+            return
+        }
     }
 
     # Data is designed to be cascading.

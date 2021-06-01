@@ -11,8 +11,9 @@ has Str $.id; #= The unique identifier for this subdivision
 method of      (--> CLDR::Subdivision) {      }
 method Str     (-->               Str) { $!id }
 method Stringy (-->           Stringy) { $!id }
-method keys    (-->               Seq) { self.Hash::keys }
-method AT-KEY  (\key --> ::?CLASS) { self.Hash::AT-KEY(key) }
+#method keys    (-->               Seq) { say "Called keys"; self.Hash::keys }
+#method AT-KEY  (\key --> ::?CLASS) { self.Hash::AT-KEY(key) }
+method Bool    (--> True) { } #for some reason, this is occasionally being returned as false
 
 method new (\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
@@ -48,10 +49,18 @@ method encode(%subdivisions --> buf8) {
 }
 method parse(\base, \xml --> Nil) {
     use Intl::CLDR::Util::XML-Helper;
+
+    say "Need to parse ", xml.<contains>.split(/\h+/).join('/');
+
     for xml.<contains>.split(/\h+/) -> $sub-type {
-        CLDR::Subdivision.parse: (base{.<type>} //= Hash.new), $_
-            with $*subdivisions-xml.&elem('subdivisionContainment').&elems('subgroup')
-                .grep( *.<type> eq $sub-type).head;
+        say "  Parsing $sub-type";
+        with $*subdivisions-xml.&elem('subdivisionContainment').&elems('subgroup')
+                .grep(*.<type> eq $sub-type).head {
+                CLDR::Subdivision.parse: (base{$sub-type} //= Hash.new), $_
+        } else {
+            base{$sub-type} //= Hash.new
+        }
     }
+    say base;
 }
 #>>>>> # GENERATOR

@@ -132,7 +132,7 @@ class CLDR::Unordered is Hash is export {
 
     method keys { self.Hash::keys }
 
-    method FALLBACK($key) { self.Hash::AT-KEY: $key or die "That key isnt available" }
+    method FALLBACK($key) { self{$key} or die "The key '$key' isn’t available (returned {self.Hash::AT-KEY($key)}).  Did you mean one of these? \n    " ~ self.Hash::keys.sort.join(", ") }
 
     multi method gist (::?CLASS:D:) { '[' ~ self.^name ~ ": " ~ self.Hash::keys.join(',') ~ ']' }
 }

@@ -5,13 +5,6 @@ use Intl::CLDR;
 
 my $a = CLDR.supplement;
 
-my $b = $a.subdivisions;
-
-say $b;
-
-say $b<US>;
-say $b<US><usal>;
-
 done-testing;
 #my $*subdivisions-xml = from-xml "resources/cldr-common/common/supplemental/subdivisions.xml".IO.slurp;
 

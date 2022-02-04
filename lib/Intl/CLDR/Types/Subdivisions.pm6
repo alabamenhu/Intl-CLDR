@@ -14,7 +14,7 @@ method of (--> CLDR::Subdivision) {}
 
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-    my int $count = blob[$offset++];
+    my uint $count = blob[$offset++];
     my \self-new = self.bless;
     for ^$count {
         self-new.Hash::BIND-KEY:

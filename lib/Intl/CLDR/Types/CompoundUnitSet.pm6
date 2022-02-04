@@ -9,13 +9,13 @@ use Intl::CLDR::Enums;
 
 method of (-->Str) {}
 
-has int  $!length-coefficient is built;
+has uint $!length-coefficient is built;
 has buf8 $!length-table       is built;
-has int  $!case-coefficient   is built;
+has uint $!case-coefficient   is built;
 has buf8 $!case-table         is built;
-has int  $!count-coefficient  is built;
+has uint $!count-coefficient  is built;
 has buf8 $!count-table        is built;
-has int  $!gender-coefficient is built;
+has uint $!gender-coefficient is built;
 has buf8 $!gender-table       is built;
 has Str  @!patterns           is built;
 
@@ -37,13 +37,13 @@ method !gender-table        { $!gender-table        }
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    my int   $length-coefficient     = blob[$offset++];
+    my uint  $length-coefficient     = blob[$offset++];
     my blob8 $length-table           = blob.subbuf($offset, 3); $offset += 3;
-    my int   $count-coefficient      = blob[$offset++];
+    my uint  $count-coefficient      = blob[$offset++];
     my blob8 $count-table            = blob.subbuf($offset, 8); $offset += 8;
-    my int   $case-coefficient       = blob[$offset++];
+    my uint  $case-coefficient       = blob[$offset++];
     my blob8 $case-table             = blob.subbuf($offset, 14); $offset += 14;
-    my int   $gender-coefficient     = blob[$offset++];
+    my uint  $gender-coefficient     = blob[$offset++];
     my blob8 $gender-table           = blob.subbuf($offset, 7); $offset += 7;
     my Str   @patterns;
     @patterns[$_] := StrDecode::get(blob, $offset)

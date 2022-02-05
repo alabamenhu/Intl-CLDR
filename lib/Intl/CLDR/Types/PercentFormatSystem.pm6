@@ -5,9 +5,9 @@ use Intl::CLDR::Types::NumberFormat;
 use Intl::CLDR::Types::NumberFormatSet;
 
 has CLDR-NumberFormat    $.standard;
-has int                  $!length-coefficient;
+has uint                 $!length-coefficient;
 has buf8                 $!length-table;
-has int                  $!count-coefficient;
+has uint                 $!count-coefficient;
 has buf8                 $!count-table;
 has CLDR-NumberFormatSet @!sets;
 

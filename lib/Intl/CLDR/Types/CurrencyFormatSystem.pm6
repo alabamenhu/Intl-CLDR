@@ -6,11 +6,11 @@ use Intl::CLDR::Types::NumberFormatSet;
 
 has CLDR-NumberFormat     $.standard;
 has CLDR-NumberFormat     $.standard-accounting;
-has int                   $!length-coefficient;
+has uint                  $!length-coefficient;
 has buf8                  $!length-table;
-has int                   $!currency-coefficient;
+has uint                  $!currency-coefficient;
 has buf8                  $!currency-table;
-has int                   $!count-coefficient;
+has uint                  $!count-coefficient;
 has buf8                  $!count-table;
 has CLDR-NumberFormatSet  @!sets;
 

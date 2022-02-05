@@ -9,11 +9,11 @@ unit class CLDR::SimpleUnitSet;
 has Gender::Gender $.gender    is built;
 has str   @!display-names      is built;
 has str   @!per-unit-patterns  is built;
-has int   $!length-coefficient is built;
+has uint  $!length-coefficient is built;
 has buf8  $!length-table       is built;
-has int   $!case-coefficient   is built;
+has uint  $!case-coefficient   is built;
 has buf8  $!case-table         is built;
-has int   $!count-coefficient  is built;
+has uint  $!count-coefficient  is built;
 has buf8  $!count-table        is built;
 has Str   @!patterns           is built;
 

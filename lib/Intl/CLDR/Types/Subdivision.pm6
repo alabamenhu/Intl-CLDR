@@ -21,7 +21,7 @@ method new (\blob, uint64 $offset is rw --> ::?CLASS) {
 
     my \self-new = self.bless: :$id;
 
-    my int $count = blob[$offset++];
+    my uint $count = blob[$offset++];
 
     # Hashes do not have a build phase
     self-new.Hash::BIND-KEY:

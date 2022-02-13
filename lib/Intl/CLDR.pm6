@@ -34,5 +34,5 @@ sub EXPORT {
         'cldr' => $database.languages,
         'CLDR' => $database,
         #'+cldr' => $database.supplement
-    )
+    ).Map
 }

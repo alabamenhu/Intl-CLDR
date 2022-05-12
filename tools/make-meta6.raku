@@ -7,7 +7,7 @@ sub MAIN($version!) {
     my %provides;
     my @resources;
 
-    my $lib = $?FILE.IO.parent.parent.add('lib');
+    my $lib = $?FILE.IO.parent(2).add('lib');
 
     my $prefix-length = $lib.Str.chars - 3; # -3 because '…/lib', we must preserve the 'lib'
     for find(dir => $lib, name => /'.pm6'$/) -> $sub-module {
@@ -49,11 +49,11 @@ sub MAIN($version!) {
         authors => [
             'Matthew ‘Matéu’ Stephen STUCKWISCH <mateu@softastur.com>'
         ],
-        auth => 'github:alabamenhu',
+        auth => 'git:alabamenhu',
         :%provides,
         :@resources;
 
-    $?FILE.IO.parent.parent.add("META6.json").spurt: $meta6.to-json, :close;
+    $?FILE.IO.parent.parent.add("META6.json").spurt: $meta6.to-json(:sorted-keys), :close;
 
     say "Created META6 file for v$version successfully";
 }

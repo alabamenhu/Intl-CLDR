@@ -1,4 +1,4 @@
-use lib BEGIN $?FILE.IO.parent.parent.add('lib').resolve;
+use lib BEGIN $?FILE.IO.parent(2).add('lib').resolve;
 use XML;
 use MONKEY-SEE-NO-EVAL;
 use Data::Dump::Tree;
@@ -8,6 +8,8 @@ use Intl::CLDR::Util::StrDecode;
 use Intl::CLDR::Types::Language;
 use Intl::LanguageTag;
 use Intl::CLDR::Util::XML-Helper;
+
+
 
 
 =begin pod
@@ -56,15 +58,17 @@ sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
       if @letters == 26;
 
     my %*results;
+    my \cldr = $*PROGRAM.sibling('cldr-common').add('common');
+
 
     # These supplemental files contain multiple languages in one,
     # using dynamic variables keep things fairly clean.
-    my $*day-period-xml       = from-xml "cldr-common/common/supplemental/dayPeriods.xml".IO.slurp;
-    my $*plurals-cardinal-xml = from-xml "cldr-common/common/supplemental/plurals.xml".IO.slurp;
-    my $*plurals-ordinal-xml  = from-xml "cldr-common/common/supplemental/ordinals.xml".IO.slurp;
-    my $*plurals-ranges-xml   = from-xml "cldr-common/common/supplemental/pluralRanges.xml".IO.slurp;
-    my $*grammar-xml          = from-xml "cldr-common/common/supplemental/grammaticalFeatures.xml".IO.slurp;
-    my $*subdivisions-xml     = from-xml "cldr-common/common/supplemental/subdivisions.xml".IO.slurp;
+    my $*day-period-xml       = from-xml cldr.add("supplemental/dayPeriods.xml").slurp;
+    my $*plurals-cardinal-xml = from-xml cldr.add("supplemental/plurals.xml").slurp;
+    my $*plurals-ordinal-xml  = from-xml cldr.add("supplemental/ordinals.xml").slurp;
+    my $*plurals-ranges-xml   = from-xml cldr.add("supplemental/pluralRanges.xml").slurp;
+    my $*grammar-xml          = from-xml cldr.add("supplemental/grammaticalFeatures.xml").slurp;
+    my $*subdivisions-xml     = from-xml cldr.add("supplemental/subdivisions.xml").slurp;
 
     # Unless language files are being skipped,
     # generate a list of languages to be processed
@@ -76,12 +80,12 @@ sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
     # Then root is processed immediately must go first, so it's added back in.
     my @language-files;
     unless @letters eq '...' {
-        @language-files = "cldr-common/common/main".IO.dir
+        @language-files = cldr.add("main").dir
             .sort({ .basename.chars, .basename })
             .grep(*.basename.starts-with: any @letters)
             .grep(none *.basename eq 'root');
 
-        handle-language "cldr-common/common/main/root.xml".IO;
+        handle-language cldr.add("main/root.xml");
     }
 
     # Loop through each language in the list of languages as determined above.
@@ -90,9 +94,8 @@ sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
     my @current;
 
     hyper for @language-files.hyper(:1batch, :degree($threads)) -> $file {
-        #handle-language $language-file;
         my $lang = $file.basename.subst('_','-', :g).substr(0,*-4);
-        CURRENT.protect: { @current.push: $lang; print "\rEncoding ", @current.join(", "), "..." }
+        CURRENT.protect: { @current.push: $lang; print "\rEncoding ", @current.join(", "), "...        " }
         handle-language $file;
         CURRENT.protect: { @current = @current.grep(* ne $lang).eager }
     }
@@ -103,7 +106,7 @@ sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
         handle-supplemental
     }
 
-    say "Compilation complete.  Load time for {%*results.keys.elems} files was ", $total-load-time, " ({$total-load-time / %*results.keys.elems} avg)";
+    say "Compilation complete.  Load time for {%*results.keys.elems} files was {$total-load-time} ({$total-load-time / %*results.keys.elems} avg)";
 
 }
 
@@ -179,8 +182,8 @@ sub handle-language($language-file) {
         #my str @langs = StrEncode::output().split(31.chr);
 
         # Write the data out
-        "languages-binary/{$*lang}.data".IO.spurt:    $blob, :bin,         :close;  # binary tree data
-        "languages-binary/{$*lang}.strings".IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
+        $*PROGRAM.parent(2).add("resources/languages-binary/{$*lang}.data").IO.spurt:    $blob, :bin,         :close;  # binary tree data
+        $*PROGRAM.parent(2).add("resources/languages-binary/{$*lang}.strings").IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
 
         say "$prefix\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes)";
     }
@@ -188,7 +191,7 @@ sub handle-language($language-file) {
 
 sub handle-supplemental {
     use Intl::CLDR::Types::Subdivisions;
-    my $*subdivisions-xml = from-xml "cldr-common/common/supplemental/subdivisions.xml".IO.slurp;
+    my $*subdivisions-xml = from-xml $*PROGRAM.sibling('cldr-common').add("common/supplemental/subdivisions.xml").slurp;
 
     my %supplement;
 

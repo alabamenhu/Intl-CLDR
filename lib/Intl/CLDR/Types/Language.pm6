@@ -23,7 +23,7 @@ has str                     @!strings   is built;
 has CLDR::Characters        $!characters           is lazy;
 has CLDR::ContextTransforms $!context-transforms   is lazy;
 has CLDR-Dates              $!dates                is lazy;
-has CLDR-Delimiters         $!delimiters           is lazy;
+has CLDR::Delimiters        $!delimiters           is lazy;
 has CLDR-Grammar            $!grammar              is lazy;
 has CLDR-Layout             $!layout               is lazy;
 has CLDR-ListPatterns       $!list-patterns        is lazy;
@@ -48,7 +48,7 @@ method encode(%*language) {
         CLDR::Characters        characters
         CLDR::ContextTransforms contextTransforms
         CLDR-Dates              dates
-        CLDR-Delimiters         delimiters
+        CLDR::Delimiters        delimiters
         CLDR-Grammar            grammar
         CLDR-Layout             layout
         CLDR-ListPatterns       listPatterns
@@ -83,7 +83,7 @@ method parse(\base, \xml) {
     CLDR::Characters.parse:        (base<characters>         //= Hash.new), $_ with xml.&elem('characters');
     CLDR::ContextTransforms.parse: (base<contextTransforms>  //= Hash.new), $_ with xml.&elem('contextTransforms');
     CLDR-Dates.parse:              (base<dates>              //= Hash.new), $_ with xml.&elem('dates');
-    CLDR-Delimiters.parse:         (base<delimiters>         //= Hash.new), $_ with xml.&elem('delimiters');
+    CLDR::Delimiters.parse:        (base<delimiters>         //= Hash.new), $_ with xml.&elem('delimiters');
     CLDR-Grammar.parse:            (base<grammar>            //= Hash.new), $; # Uses supplemental data
     CLDR-Layout.parse:             (base<layout>             //= Hash.new), $_ with xml.&elem('layout');
     CLDR-ListPatterns.parse:       (base<listPatterns>       //= Hash.new), $_ with xml.&elem('listPatterns');

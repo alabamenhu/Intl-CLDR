@@ -24,7 +24,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     self.bless: :$simple, :$compound, :$duration, :$coordinate;
 }
 
-##`<<<<< # 🄶🄴🄽🄴🅁🄰🅃🄾🅁 This method should only be uncommented out by the parsing script
+##`<<<<< # GENERATOR This method should only be uncommented out by the parsing script
 method encode(%*units) {
     my $result = buf8.new;
 

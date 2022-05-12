@@ -1,14 +1,16 @@
 =begin pod
 This test is designed to spot check certain elements for alignment issues.
 The serialized nature of data reading/writing makes it easy for off-by-one
-or more elements which adjusting the encoding or loading structure.
+or more elements when adjusting the encoding or loading structure.
 
 English is currently the primary language used to test this one, as it's the most
-feature complete and easiest for me to debug.
+feature complete and easiest for me to debug, in addition to being one of the most
+stable languages on CLDR due to extreme scrutiny given changes in it.
 
 Because each section is loaded as a distinct chunk, each should be tested
 individually to ensure correctness.
 =end pod
+
 use Test;
 use Intl::CLDR;
 

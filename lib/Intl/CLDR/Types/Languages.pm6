@@ -11,6 +11,8 @@ method EXISTS-KEY(\key --> True) {
     # defaults to root.
 }
 
+constant %available = BEGIN %?RESOURCES<language-list.data>.lines.Set;
+
 method AT-KEY (\key) {
     # Immediately return if we have it already
     .return with %!languages{key};
@@ -27,14 +29,9 @@ method AT-KEY (\key) {
     while @subtags {
         my $language = @subtags.join('-');
         last with %!languages{$language};
-        try {
-            quietly { # The .extension test will generate a warning
-                if %?RESOURCES{"languages-binary/{ $language }.data"}.extension {
-                    # Quick check for file existence in resources
-                    %!languages{$language} := load-data $language;
-                    last;
-                }
-            }
+        if %available{$language} {
+            %!languages{$language} := load-data $language;
+            last;
         }
         @subtags.pop;
     }

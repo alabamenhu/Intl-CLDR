@@ -32,33 +32,35 @@ role CLDR::Item
     method AT-KEY($key) { self."$key"() }
 }
 
-# A trait to allow aliases for the various attributes, particularly when Raku
-# naming conventions conflict with CLDR's multiple personalities
+#| Alias a method name to a different name (useful when Raku
+#| naming conventions conflict with CLDR's multiple personalities)
 multi sub trait_mod:<is> (Attribute $attr, :$aliased-by!) is export {
     return unless $aliased-by;
 
     if $aliased-by ~~ List {
-        $attr.package.^add_method($_, method { $attr.get_value(self) } )
+        $attr.package.^add_method($_, anon method { $attr.get_value(self) } )
             for $aliased-by<>
     } else {
-        $attr.package.^add_method: $aliased-by, method { $attr.get_value(self) }
+        $attr.package.^add_method: $aliased-by, anon method { $attr.get_value(self) }
     }
 }
 
-# A trait to allow aliases for the various attributes, particularly when Raku
-# naming conventions conflict with CLDR's multiple personalities
+#| Alias an attribute to a different name (useful when Raku
+#| naming conventions conflict with CLDR's multiple personalities)
 multi sub trait_mod:<is> (Method $method, :$aliased-by!) is export {
     return unless $aliased-by;
 
     if $aliased-by ~~ List {
         $method.package.^add_method($_, $method )
-        for $aliased-by<>
+            for $aliased-by<>
     } else {
         $method.package.^add_method: $aliased-by, $method
     }
 }
 
-multi sub trait_mod:<is> (Attribute \attr, :$lazy) is export {
+#| Indicates that an attribute is loaded lazily.  This must be set up
+#| specially, and is not general purpose.
+multi sub trait_mod:<is> (Attribute \attr, :$lazy!) is export {
     state    Int %index;     #= holds indexing values
     constant     $start = 8; #= length of header in bytes
 
@@ -70,7 +72,7 @@ multi sub trait_mod:<is> (Attribute \attr, :$lazy) is export {
 
     attr.package.^add_method:
         $name,
-        method {
+        anon method {
             my $attr := attr;
             .return with $attr.get_value(self);
 
@@ -108,12 +110,12 @@ multi sub trait_mod:<is> (Attribute \attr, :$lazy) is export {
 }
 
 my $epitaph = "† You really shouldn't try to edit CLDR data.\n"
-    ~ "  If you really know what you're doing, you can\n"
-    ~ "  figure out how, but you needn't and shouldn't.";
+            ~ "  If you really know what you're doing, you can\n"
+            ~ "  figure out how, but you needn't and shouldn't.";
 
 class CLDR::Ordered is Array is export {
     method ASSIGN-POS(|) is hidden-from-backtrace { die $epitaph }
-    method BIND-POS(  |)   is hidden-from-backtrace { die $epitaph }
+    method BIND-POS(  |) is hidden-from-backtrace { die $epitaph }
 
     # Convert Associative ops into Positional ops
     method AT-KEY(    $key) { self.Array::AT-POS:     +$key }

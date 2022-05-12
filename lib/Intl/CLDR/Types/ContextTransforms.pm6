@@ -38,45 +38,39 @@ has CLDR::ContextTransformUsage $.number-spellout;
 
 
 #| Creates a new CLDR-DayPeriodContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
-    $!language                       = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!script                         = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!territory                      = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!variant                        = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!key                            = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!key-value                      = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!month-format-except-narrow     = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!month-standalone-except-narrow = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!month-narrow                   = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!day-format-except-narrow       = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!day-standalone-except-narrow   = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!day-narrow                     = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!era-abbr                       = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!era-name                       = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!era-narrow                     = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!quarter-format-wide            = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!quarter-standalone-wide        = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!quarter-abbreviated            = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!quarter-narrow                 = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!calendar-field                 = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!zone-exemplar-city             = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!zone-long                      = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!zone-short                     = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!metazone-long                  = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!metazone-short                 = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!symbol                         = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!currency-name                  = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!currency-name-count            = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!relative                       = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!unit-pattern                   = CLDR::ContextTransformUsage.new: blob, $offset;
-    $!number-spellout                = CLDR::ContextTransformUsage.new: blob, $offset;
-
-    self
+method new(\blob, uint64 $offset is rw) {
+    self.bless:
+        language                       => CLDR::ContextTransformUsage.new( blob, $offset),
+        script                         => CLDR::ContextTransformUsage.new( blob, $offset),
+        territory                      => CLDR::ContextTransformUsage.new( blob, $offset),
+        variant                        => CLDR::ContextTransformUsage.new( blob, $offset),
+        key                            => CLDR::ContextTransformUsage.new( blob, $offset),
+        key-value                      => CLDR::ContextTransformUsage.new( blob, $offset),
+        month-format-except-narrow     => CLDR::ContextTransformUsage.new( blob, $offset),
+        month-standalone-except-narrow => CLDR::ContextTransformUsage.new( blob, $offset),
+        month-narrow                   => CLDR::ContextTransformUsage.new( blob, $offset),
+        day-format-except-narrow       => CLDR::ContextTransformUsage.new( blob, $offset),
+        day-standalone-except-narrow   => CLDR::ContextTransformUsage.new( blob, $offset),
+        day-narrow                     => CLDR::ContextTransformUsage.new( blob, $offset),
+        era-abbr                       => CLDR::ContextTransformUsage.new( blob, $offset),
+        era-name                       => CLDR::ContextTransformUsage.new( blob, $offset),
+        era-narrow                     => CLDR::ContextTransformUsage.new( blob, $offset),
+        quarter-format-wide            => CLDR::ContextTransformUsage.new( blob, $offset),
+        quarter-standalone-wide        => CLDR::ContextTransformUsage.new( blob, $offset),
+        quarter-abbreviated            => CLDR::ContextTransformUsage.new( blob, $offset),
+        quarter-narrow                 => CLDR::ContextTransformUsage.new( blob, $offset),
+        calendar-field                 => CLDR::ContextTransformUsage.new( blob, $offset),
+        zone-exemplar-city             => CLDR::ContextTransformUsage.new( blob, $offset),
+        zone-long                      => CLDR::ContextTransformUsage.new( blob, $offset),
+        zone-short                     => CLDR::ContextTransformUsage.new( blob, $offset),
+        metazone-long                  => CLDR::ContextTransformUsage.new( blob, $offset),
+        metazone-short                 => CLDR::ContextTransformUsage.new( blob, $offset),
+        symbol                         => CLDR::ContextTransformUsage.new( blob, $offset),
+        currency-name                  => CLDR::ContextTransformUsage.new( blob, $offset),
+        currency-name-count            => CLDR::ContextTransformUsage.new( blob, $offset),
+        relative                       => CLDR::ContextTransformUsage.new( blob, $offset),
+        unit-pattern                   => CLDR::ContextTransformUsage.new( blob, $offset),
+        number-spellout                => CLDR::ContextTransformUsage.new( blob, $offset),
 }
 
 

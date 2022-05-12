@@ -1,42 +1,24 @@
-use Intl::CLDR::Immutability;
-
 #| A class implementing CLDR's <delimiters> element, containing information about quotation marks.
-unit class CLDR-Delimiters is CLDR-Item;
+unit class CLDR::Delimiters;
+    use       Intl::CLDR::Core;
+    also does CLDR::Item;
 
 # See https://www.unicode.org/reports/tr35/tr35-general.html#Delimiter_Elements for information
 
-has     $!parent;            #= The CLDR-Base object containing this CLDR-Delimiter
-has Str $.quote-start;       #= The default opening quotation mark
-has Str $.quote-end;         #= The default closing quotation mark
-has Str $.alt-quote-start;   #= The inner opening quotation mark
-has Str $.alt-quote-end;     #= The outer opening quotation mark
+has Str $.quote-start     is aliased-by<quotationStart>;          #= The default opening quotation mark
+has Str $.quote-end       is aliased-by<quotationEnd>;            #= The default closing quotation mark
+has Str $.alt-quote-start is aliased-by<alternateQuotationStart>; #= The inner opening quotation mark
+has Str $.alt-quote-end   is aliased-by<alternateQuotationEnd>;   #= The outer opening quotation mark
 
-#| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
-    self.Hash::BIND-KEY: 'quote-start',             $!quote-start;
-    self.Hash::BIND-KEY: 'quotationStart',          $!quote-start;
-    self.Hash::BIND-KEY: 'quote-end',               $!quote-end;
-    self.Hash::BIND-KEY: 'quotationEnd',            $!quote-end;
-    self.Hash::BIND-KEY: 'alt-quote-start',         $!alt-quote-start;
-    self.Hash::BIND-KEY: 'alternateQuotationStart', $!alt-quote-start;
-    self.Hash::BIND-KEY: 'alt-quote-end',           $!alt-quote-end;
-    self.Hash::BIND-KEY: 'alternateQuotationEnd',   $!alt-quote-end;
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!quote-start     = StrDecode::get(blob, $offset);
-    $!quote-end       = StrDecode::get(blob, $offset);
-    $!alt-quote-start = StrDecode::get(blob, $offset);
-    $!alt-quote-end   = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        quote-start => StrDecode::get(blob, $offset),
+        quote-end => StrDecode::get(blob, $offset),
+        alt-quote-start => StrDecode::get(blob, $offset),
+        alt-quote-end => StrDecode::get(blob, $offset);
 }
-
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%delimiters) {

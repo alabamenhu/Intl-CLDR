@@ -15,6 +15,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     my \new-self = self.bless;
 
     my $type-count = blob[$offset++];
+
     use Intl::CLDR::Util::StrDecode;
     new-self.Hash::BIND-KEY:
         StrDecode::get(           blob, $offset),
@@ -22,16 +23,6 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     for ^$type-count;
 
     new-self;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> ::?CLASS) {
-    use Intl::CLDR::Util::StrDecode;
-
-    my $type-count = blob[$offset++];
-    self.Hash::BIND-KEY: StrDecode::get(blob, $offset), CLDR::CompoundUnitSet.new(blob, $offset)
-        for ^$type-count;
-
-    self
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

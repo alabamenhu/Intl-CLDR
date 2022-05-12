@@ -1,7 +1,8 @@
-use Intl::CLDR::Immutability;
+#| The data for a calendar system (Gregorian, etc) in a language.
+unit class CLDR-Calendar;
 
-#| An ordered list of month names for a given width (1-indexed).
-unit class CLDR-Calendar is CLDR-Ordered is CLDR-ItemNew;
+use       Intl::CLDR::Core;
+also does CLDR::Item;
 
 use Intl::CLDR::Types::Months;
 use Intl::CLDR::Types::MonthPatterns;  # TODO parse in main script, only for Hindu/Chinese lunar calendars
@@ -16,50 +17,32 @@ use Intl::CLDR::Types::DateTimeFormats;
 use Intl::CLDR::Types::AvailableFormats;
 use Intl::CLDR::Types::IntervalFormats;
 
-has CLDR-Months           $.months;
-has CLDR-MonthPatterns    $.month-patterns; # Currently used only for Chinese-based calendars, but can also be used by Hindi
-has CLDR-Quarters         $.quarters;
-has CLDR-Days             $.days;
-has CLDR-DayPeriods       $.day-periods;
-has CLDR-Eras             $.eras;
-has CLDR-CyclicNameSets   $.cyclic-name-sets; # Various cycles, used in Chinese-based calendars
-has CLDR-DateFormats      $.date-formats;
-has CLDR-TimeFormats      $.time-formats;
-has CLDR-DateTimeFormats  $.datetime-formats;
-has CLDR-AvailableFormats $.available-formats;
-has CLDR-IntervalFormats  $.interval-formats;
+has CLDR-Months            $.months;
+has CLDR-MonthPatterns     $.month-patterns    is aliased-by<monthPatterns>; # Currently used only for Chinese-based calendars, but can also be used by Hindi
+has CLDR-Quarters          $.quarters;
+has CLDR-Days              $.days;
+has CLDR-DayPeriods        $.day-periods       is alias-by<dayPeriods>;
+has CLDR-Eras              $.eras;
+has CLDR-CyclicNameSets    $.cyclic-name-sets  is aliased-by<cyclicNameSets>; # Various cycles, used in Chinese-based calendars
+has CLDR-DateFormats       $.date-formats      is aliased-by<dateFormats>;
+has CLDR-TimeFormats       $.time-formats      is aliased-by<timeFormats>;
+has CLDR-DateTimeFormats   $.datetime-formats  is aliased-by<dateTimeFormats>;
+has CLDR::AvailableFormats $.available-formats is aliased-by<availableFormats>; # TODO: currently in date-time formats
+has CLDR-IntervalFormats   $.interval-formats  is aliased-by<intervalFormats>;
 
-
-method new(|c) {
-    self.bless!bind-init: |c;
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    self.bless:
+        months           => CLDR-Months.new:          blob, $offset, self;
+        month-patterns   => CLDR-MonthPatterns.new:   blob, $offset, self;
+        quarters         => CLDR-Quarters.new:        blob, $offset, self;
+        days             => CLDR-Days.new:            blob, $offset, self;
+        day-periods      => CLDR-DayPeriods.new:      blob, $offset, self;
+        eras             => CLDR-Eras.new:            blob, $offset, self;
+        cyclic-name-sets => CLDR-CyclicNameSets.new:  blob, $offset, self;
+        date-formats     => CLDR-DateFormats.new:     blob, $offset, self;
+        time-formats     => CLDR-TimeFormats.new:     blob, $offset, self;
+        datetime-formats => CLDR-DateTimeFormats.new: blob, $offset, self;
 }
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
-    $!months           = CLDR-Months.new:          blob, $offset, self;
-    $!month-patterns   = CLDR-MonthPatterns.new:   blob, $offset, self;
-    $!quarters         = CLDR-Quarters.new:        blob, $offset, self;
-    $!days             = CLDR-Days.new:            blob, $offset, self;
-    $!day-periods      = CLDR-DayPeriods.new:      blob, $offset, self;
-    $!eras             = CLDR-Eras.new:            blob, $offset, self;
-    $!cyclic-name-sets = CLDR-CyclicNameSets.new:  blob, $offset, self;
-    $!date-formats     = CLDR-DateFormats.new:     blob, $offset, self;
-    $!time-formats     = CLDR-TimeFormats.new:     blob, $offset, self;
-    $!datetime-formats = CLDR-DateTimeFormats.new: blob, $offset, self;
-
-    self
-}
-constant detour = Map.new: (
-    monthPatterns    => 'month-patterns',
-    dayPeriods       => 'day-periods',
-    cyclicNameSets   => 'cyclic-name-sets',
-    dateFormats      => 'date-formats',
-    timeFormats      => 'time-formats',
-    dateTimeFormats  => 'datetime-formats',
-    availableFormats => 'available-formats',
-    intervalFormats  => 'interval-formats'
-);
-method DETOUR (-->detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*calendar) {

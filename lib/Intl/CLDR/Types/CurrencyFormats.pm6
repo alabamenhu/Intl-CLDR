@@ -1,51 +1,50 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::CurrencyFormats;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-CurrencyFormats is CLDR-ItemNew;
-
-use Intl::CLDR::Types::NumberFormat; # for encode only
-use Intl::CLDR::Types::NumberFormatSet; # for encode only
 use Intl::CLDR::Types::CurrencyFormatSystem;
 
-has CLDR-CurrencyFormatSystem %!systems;
+has CLDR::CurrencyFormatSystem %!systems is built;
 has $.spacing-before;
 has $.spacing-after;
 
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
-# for ($text ~~ m:g/'name="' (<alnum>+) '" description="' (<-["]>+)/) -> $match {
-#  say 'has CLDR-Symbols $.', $match[0].Str, " #= ", $match[1].Str;
-# }
+#     for ($text ~~ m:g/'name="' (<alnum>+) '" description="' (<-["]>+)/) -> $match {
+#         say 'has CLDR-Symbols $.', $match[0].Str, " #= ", $match[1].Str;
+#     }
 # main/root.xml doesn't actually provide for all of these (e.g. armn), but they are
 # definitely included in other places.  Because all except for Arabic fallback to
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-PercentFormats object
-method new(|c --> CLDR-CurrencyFormats) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-CurrencyFormats) {
+method new(\blob, uint64 $offset is rw --> CLDR-CurrencyFormats) {
     use Intl::CLDR::Util::StrDecode;
 
+    my %systems;
     my $system-count = blob[$offset++];
 
-    %!systems{StrDecode::get(blob, $offset)} := CLDR-CurrencyFormatSystem.new(blob, $offset)
-    for ^$system-count;
+    %systems{StrDecode::get(blob, $offset)} := CLDR-CurrencyFormatSystem.new(blob, $offset)
+        for ^$system-count;
 
-    self
+    self.bless: :%systems
 }
 
 #| Currency formats for the Adlam numbering system (adlm)
-method adlam { %!systems<adlm> // %!systems<latn> }
+method adlam is aliased-by<adlm>
+{ %!systems<adlm> // %!systems<latn> }
 
 #| Currency formats for the Ahom numbering system (ahom)
-method ahom { %!systems<ahom> // %!systems<latn> }
+method ahom
+{ %!systems<ahom> // %!systems<latn> }
 
 #| Currency formats for the Arabic-Indic numbering system (arab)
-method arabic { %!systems<arab> // %!systems<latn> }
+method arabic is aliased-by<arab>
+{ %!systems<arab> // %!systems<latn> }
 
 #| Currency formats for the Extended Arabic-Indic numbering system (arabext)
-method arabic-extended { %!systems<arabext> // %!systems<latn> }
+method arabic-extended is aliased-by<arabext>
+{ %!systems<arabext> // %!systems<latn> }
 
 #| Currency formats for the Armenian upper case numbering system (armn)
 method armenian { %!systems<armn> // %!systems<latn> }
@@ -393,6 +392,8 @@ sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*formats) {
+    use Intl::CLDR::Types::NumberFormat; # for encode only
+    use Intl::CLDR::Types::NumberFormatSet; # for encode only
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new: 0; # 0 will be adjusted at end
     my $encoded-systems = 0;
@@ -446,33 +447,33 @@ method encode(%*formats) {
         ];
         my Int @count-existence-table = [
             check-count('other'), # other goes first, because it's the default (= 0)
-            check-count('many'),
-            check-count('few'),
-            check-count('two'),
-            check-count('one'),
-            check-count('zero'),
+            check-count('many' ),
+            check-count('few'  ),
+            check-count('two'  ),
+            check-count('one'  ),
+            check-count('zero' ),
         ];
 
         # This complicated line creates a length fallback where each falls back to its closest neighbor
         # if not found but the count falls back to 0 (or other) if not found
-        my @length-transform = ([\+] @length-existence-table).map({ $^x - 1 < 0 ?? 0 !! $^x - 1});
+        my @length-transform   = ([\+]   @length-existence-table).map({ $^x - 1 < 0 ?? 0 !! $^x - 1});
         my @currency-transform = ([\+] @currency-existence-table).map({ $^x - 1 < 0 ?? 0 !! $^x - 1});
-        my @count-transform  = ([\+] @count-existence-table ).map({ $^x - 1 < 0 ?? 0 !! $^x - 1}) Z* @count-existence-table;
+        my @count-transform    = ([\+]    @count-existence-table).map({ $^x - 1 < 0 ?? 0 !! $^x - 1}) Z* @count-existence-table;
 
         die "Need to update PercentFormats.pm6 to handle more than just 'standard' and 'account' patterns"
             if %*formats{$system}<standard>.elems > 2;
         my $standard      = %*formats{$system}<standard><other><0> // %*formats<latn><standard><0>;
         my $standard-acct = %*formats{$system}<accounting><other><0> // %*formats{$system}<standard><other><0> // %*formats<latn><accounting><other><0> // %*formats<latn><standard><0>;
 
-        $result ~= StrEncode::get($system);                                        # system as the header
-        { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard) } # standard pattern
+        $result ~= StrEncode::get($system);                                            # system as the header
+        { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard)      } # standard pattern
         { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard-acct) } # standard accounting pattern
-        $result.append: @length-existence-table.sum;  # lengths in this system
-        $result.append: @length-transform>>.Int.Slip; # length conversion table
+        $result.append: @length-existence-table.sum;    # lengths in this system
+        $result.append: @length-transform>>.Int.Slip;   # length conversion table
         $result.append: @currency-existence-table.sum;  # currencies in this system
         $result.append: @currency-transform>>.Int.Slip; # currency conversion table
-        $result.append: @count-existence-table.sum;   # counts in this system
-        $result.append: @count-transform>>.Int.Slip;  # count conversion table
+        $result.append: @count-existence-table.sum;     # counts in this system
+        $result.append: @count-transform>>.Int.Slip;    # count conversion table
 
         for <standard accounting> Z ^2 -> ($*currency, $currency-cell) {
             next unless @currency-existence-table[$currency-cell];

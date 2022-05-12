@@ -11,7 +11,7 @@ has CLDR::Ellipses           $.ellipses;
 has Str                      $.more-info;
 
 #| Creates a new CLDR::Characters object
-method new(blob8 \blob, uint64 $offset is rw) {
+method new(blob8 \blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
     my CLDR::ExemplarCharacters $exemplar      = CLDR::ExemplarCharacters.new: blob, $offset;
    #my CLDR-LenientParse        $lenient-parse = CLDR-LenientParse.new:        blob, $offset;

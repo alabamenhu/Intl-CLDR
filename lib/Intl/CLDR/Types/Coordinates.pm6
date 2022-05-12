@@ -13,10 +13,10 @@ has CLDR::CoordinateWidth $.narrow; #= Pattern for degrees due east
 #| Creates a new CLDR-Units object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-    my $long   = CLDR::CoordinateWidth.new(blob, $offset);
-    my $short  = CLDR::CoordinateWidth.new(blob, $offset);
-    my $narrow = CLDR::CoordinateWidth.new(blob, $offset);
-    self.bless: :$long, :$short, :$narrow;
+    self.bless:
+        long   => CLDR::CoordinateWidth.new(blob, $offset),
+        short  => CLDR::CoordinateWidth.new(blob, $offset),
+        narrow => CLDR::CoordinateWidth.new(blob, $offset),
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

@@ -1,25 +1,20 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-EraWidth is CLDR-Ordered is CLDR-ItemNew;
-
-has $!parent;
+unit class CLDR::EraWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Ordered;
 
 #| Creates a new CLDR-EraWidth object
-method new(|c) {
-    self.bless!bind-init: |c;
+method new(|c --> ::?CLASS ) {
+    self.bless!add-items: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS ) {
     # Different calendars have different numbers, first encoded number is the era count
     my $eras = blob[$offset++];
 
     use Intl::CLDR::Util::StrDecode;
-
-    for ^$eras -> \id {
-        self.Array::BIND-POS: id, StrDecode::get(blob, $offset);
-    }
+    self.Array::BIND-POS: $_, StrDecode::get(blob, $offset)
+        for ^$eras;
 
     self
 }

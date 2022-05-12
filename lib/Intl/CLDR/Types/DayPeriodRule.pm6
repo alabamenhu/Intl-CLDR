@@ -1,19 +1,18 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::DayPeriodRule;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
+has int  $.at;     #= The exact time that the day period rule applies too (e.g. noon)
+has int  $.from;   #= The time of day that the day period rule begins (inclusive)
+has int  $.before; #= The time of day that the day period rule ends (exclusive)
+has Bool $.used;   #= If false, this day period rule is not used for the given locale
 
-unit class CLDR-DayPeriodRule is CLDR-ItemNew;
-
-has int  $.at;     #= The special name of 12:00 noon
-has int  $.from;   #= The special name of 0:00/24:00 midnight
-has int  $.before; #= The name for an (early) morning period
-has Bool $.used;   #= The name for an (early) morning period
-
-#| Creates a new CLDR-Dates object
+#| Creates a new CLDR::DayPeriodRule object
 method new(|c) {
-    self.bless!bind-init: |c;
+    self.bless!set-time: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !set-time(\blob, uint64 $offset is rw) {
     my $start-hour = blob[$offset++];
 
     if $start-hour != 25 {

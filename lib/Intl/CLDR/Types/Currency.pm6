@@ -1,8 +1,8 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::Currency;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-Currency is CLDR-ItemNew;
-
-class DisplayNameCounts is CLDR-ItemNew {
+class DisplayNameCounts does CLDR::Item {
     has $.explicit-zero;
     has $.explicit-one;
     has $.zero;
@@ -12,22 +12,19 @@ class DisplayNameCounts is CLDR-ItemNew {
     has $.many;
     has $.other;
 
-    method new(|c) { self.bless!bind-init: |c }
-    submethod !bind-init(\blob, $offset is raw) {
+    method new(\blob, $offset is raw) {
         use Intl::CLDR::Util::StrDecode;
-        $!explicit-zero = StrDecode::get(blob, $offset);
-        $!explicit-one  = StrDecode::get(blob, $offset);
-        $!zero          = StrDecode::get(blob, $offset);
-        $!one           = StrDecode::get(blob, $offset);
-        $!two           = StrDecode::get(blob, $offset);
-        $!few           = StrDecode::get(blob, $offset);
-        $!many          = StrDecode::get(blob, $offset);
-        $!other         = StrDecode::get(blob, $offset);
-        self
+        self.bless:
+        explicit-zero => StrDecode::get(blob, $offset),
+        explicit-one  => StrDecode::get(blob, $offset),
+        zero          => StrDecode::get(blob, $offset),
+        one           => StrDecode::get(blob, $offset),
+        two           => StrDecode::get(blob, $offset),
+        few           => StrDecode::get(blob, $offset),
+        many          => StrDecode::get(blob, $offset),
+        other         => StrDecode::get(blob, $offset),
     }
 }
-
-has $!parent;
 
 has Str               $.code;
 has Str               $.display-name;        #= The titular form of the currency's name
@@ -37,26 +34,16 @@ has Str               $.symbol-narrow;       #= A version of the currency symbol
 
 
 #| Creates a new CLDR-DayPeriodContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    #self.Hash::BIND-KEY: 'symbols',            $!symbols;
-
+method new(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!code                    = StrDecode::get(       blob, $offset);
-    $!display-name            = StrDecode::get(       blob, $offset);
-    $!display-name-counts     = DisplayNameCounts.new(blob, $offset);
-    $!symbol                  = StrDecode::get(       blob, $offset);
-    $!symbol-narrow           = StrDecode::get(       blob, $offset);
-
-    self
+    self.bless:
+        code                => StrDecode::get(       blob, $offset),
+        display-name        => StrDecode::get(       blob, $offset),
+        display-name-counts => DisplayNameCounts.new(blob, $offset),
+        symbol              => StrDecode::get(       blob, $offset),
+        symbol-narrow       => StrDecode::get(       blob, $offset),
 }
-
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*symbols) {

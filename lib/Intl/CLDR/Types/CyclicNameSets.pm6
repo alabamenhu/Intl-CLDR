@@ -1,39 +1,26 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-CyclicNameSets is CLDR-ItemNew;
+unit class CLDR::CyclicNameSets;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::CyclicNameSet;
 
-has $!parent;
-has CLDR-CyclicNameSet $.years;
-has CLDR-CyclicNameSet $.months;
-has CLDR-CyclicNameSet $.days;
-has CLDR-CyclicNameSet $.day-parts;
-has CLDR-CyclicNameSet $.zodiacs;
-has CLDR-CyclicNameSet $.solar-terms;
+has CLDR::CyclicNameSet $.years;
+has CLDR::CyclicNameSet $.months;
+has CLDR::CyclicNameSet $.days;
+has CLDR::CyclicNameSet $.day-parts   is aliased-by<dayParts>;
+has CLDR::CyclicNameSet $.zodiacs;
+has CLDR::CyclicNameSet $.solar-terms is aliased-by<solarTerms>;
 
-#| Creates a new CLDR-CyclicNameSets object
-method new(|c) {
-    self.bless!bind-init: |c;
+#| Creates a new CLDR::CyclicNameSets object
+method new(\blob, uint64 $offset is rw, \parent) {
+    self.bless:
+        years       => CLDR::CyclicNameSet.new(blob, $offset),
+        months      => CLDR::CyclicNameSet.new(blob, $offset),
+        days        => CLDR::CyclicNameSet.new(blob, $offset),
+        day-parts   => CLDR::CyclicNameSet.new(blob, $offset),
+        zodiacs     => CLDR::CyclicNameSet.new(blob, $offset),
+        solar-terms => CLDR::CyclicNameSet.new(blob, $offset),
 }
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    $!years       = CLDR-CyclicNameSet.new: blob, $offset, self;
-    $!months      = CLDR-CyclicNameSet.new: blob, $offset, self;
-    $!days        = CLDR-CyclicNameSet.new: blob, $offset, self;
-    $!day-parts   = CLDR-CyclicNameSet.new: blob, $offset, self;
-    $!zodiacs     = CLDR-CyclicNameSet.new: blob, $offset, self;
-    $!solar-terms = CLDR-CyclicNameSet.new: blob, $offset, self;
-
-    self
-}
-constant \detour = Map.new(
-    dayParts   => 'day-parts',
-    solarTerms => 'solar-terms'
-);
-method DETOUR(--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*cyclic-name-sets) {

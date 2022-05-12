@@ -1,13 +1,11 @@
-use Intl::CLDR::Immutability;
-
 unit class CLDR::CompoundUnitSet;
-use Intl::CLDR::Core;
+
+use       Intl::CLDR::Core;
 also does CLDR::Item;
-also does Positional;
+also is   Positional;        # intentionally *not* CLDR::Ordered
+method of (-->Str) {}        # but we can type it as Str
 
 use Intl::CLDR::Enums;
-
-method of (-->Str) {}
 
 has uint $!length-coefficient is built;
 has buf8 $!length-table       is built;
@@ -22,6 +20,7 @@ has Str  @!patterns           is built;
 # Forward declaration necessary for trusting
 class  Selector { ... }
 trusts Selector;
+
 method !patterns            { @!patterns            }
 method !length-coefficient  { $!length-coefficient  }
 method !length-table        { $!length-table        }
@@ -46,49 +45,32 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     my uint  $gender-coefficient     = blob[$offset++];
     my blob8 $gender-table           = blob.subbuf($offset, 7); $offset += 7;
     my Str   @patterns;
-    @patterns[$_] := StrDecode::get(blob, $offset)
+    @patterns.push: StrDecode::get(blob, $offset)
         for ^($length-coefficient * $count-coefficient * $case-coefficient * $gender-coefficient);
 
     self.bless: :$length-coefficient, :$length-table,
                 :$count-coefficient,  :$count-table,
                 :$case-coefficient,   :$case-table,
                 :$gender-coefficient, :$gender-table,
-                :@patterns;
+                :@patterns,
+                :length(-1), :count(-1), :case(-1), :gender(-1);
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR::CompoundUnitSet) {
-    use Intl::CLDR::Util::StrDecode;
-
-    $!length-coefficient     = blob[$offset++];
-    $!length-table           = blob.subbuf($offset, 3); $offset += 3;
-    $!count-coefficient      = blob[$offset++];
-    $!count-table            = blob.subbuf($offset, 8); $offset += 8;
-    $!case-coefficient       = blob[$offset++];
-    $!case-table             = blob.subbuf($offset, 14); $offset += 14;
-    $!gender-coefficient     = blob[$offset++];
-    $!gender-table           = blob.subbuf($offset, 7); $offset += 7;
-
-    for ^($!length-coefficient * $!count-coefficient * $!case-coefficient * $!gender-coefficient) {
-        @!patterns[$_] := StrDecode::get(blob, $offset)
-    }
-
-    #$!length-coefficient--;
-    #$!count-coefficient--;
-    #$!case-coefficient--;
-    #$!gender-coefficient--;
-
-    self;
-}
 
 class Selector is Positional {
-    has Int $!length;
-    has Int $!count;
-    has Int $!case;
-    has Int $!gender;
-    has CLDR::CompoundUnitSet $!parent;
     constant CUS = CLDR::CompoundUnitSet;
+    has Int $!length is built;
+    has Int $!count  is built;
+    has Int $!case   is built;
+    has Int $!gender is built;
+    has CUS $!parent is built;
     method new ($parent, $length, $count, $case, $gender --> Selector) {self.bless: :$parent, :$count, :$case, :$length, :$gender}
-    method BUILD (:$!parent, :$!count, :$!case, :$!length, :$!gender) {}
+
+    ###############################################################################
+    # Ensure that all numbers here line up with what's seen in Intl::CLDR::Enums. #
+    # Unfortunately, the list of methods will grow, and I'm not sure of a way to  #
+    # automate based on the enums, so they must be manually added with new CLDR.  #
+    ###############################################################################
 
     # Length methods
     method long                (--> Selector) { die if $!length ≠ -1; Selector.new: $!parent,        0, $!count, $!case, $!gender }
@@ -116,6 +98,20 @@ class Selector is Positional {
     method prepositional       (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     11, $!gender }
     method sociative           (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     12, $!gender }
     method vocative            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     13, $!gender }
+    method abessive            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     14, $!gender }
+    method adessive            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     15, $!gender }
+    method allative            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     16, $!gender }
+    method causal              (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     17, $!gender }
+    method delative            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     18, $!gender }
+    method elative             (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     19, $!gender }
+    method essive              (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     20, $!gender }
+    method illative            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     21, $!gender }
+    method inessive            (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     22, $!gender }
+    method partitive           (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     23, $!gender }
+    method sublative           (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     24, $!gender }
+    method superessive         (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     25, $!gender }
+    method terminative         (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     26, $!gender }
+    method translative         (--> Selector) { die if $!case   ≠ -1; Selector.new: $!parent, $!length, $!count,     27, $!gender }
     # Gender methods
     method neuter              (--> Selector) { die if $!count  ≠ -1; Selector.new: $!parent, $!length, $!count, $!case,        0 }
     method masculine           (--> Selector) { die if $!count  ≠ -1; Selector.new: $!parent, $!length, $!count, $!case,        1 }
@@ -143,45 +139,15 @@ class Selector is Positional {
             + $!parent!CUS::gender-table[$!gender == -1 ?? 0 !! $!gender] # if neuter exists, it's the default.  If not, it reroutes to masculine anyways
         ]
     }
+
+    # Used for the CUS's creation, otherwise set naturally from the bless call
+    method !set-parent ($!parent) { ; }
 }
 
+also is Selector;
+# The below method feels so ... horribly bad OO, but not sure a better way to do it
+method TWEAK { self!Selector::set-parent(self) }
 
-# Length methods
-method long                (--> Selector) { Selector.new: self,  0, -1, -1, -1 }
-method short               (--> Selector) { Selector.new: self,  1, -1, -1, -1 }
-method narrow              (--> Selector) { Selector.new: self,  2, -1, -1, -1 }
-# Count methods
-method zero                (--> Selector) { Selector.new: self, -1,  0, -1, -1 }
-method one                 (--> Selector) { Selector.new: self, -1,  1, -1, -1 }
-method two                 (--> Selector) { Selector.new: self, -1,  2, -1, -1 }
-method few                 (--> Selector) { Selector.new: self, -1,  3, -1, -1 }
-method many                (--> Selector) { Selector.new: self, -1,  4, -1, -1 }
-method other               (--> Selector) { Selector.new: self, -1,  5, -1, -1 }
-# Case method
-method ablative            (--> Selector) { Selector.new: self, -1, -1,  0, -1 }
-method accusative          (--> Selector) { Selector.new: self, -1, -1,  1, -1 }
-method comitative          (--> Selector) { Selector.new: self, -1, -1,  2, -1 }
-method dative              (--> Selector) { Selector.new: self, -1, -1,  3, -1 }
-method ergative            (--> Selector) { Selector.new: self, -1, -1,  4, -1 }
-method genitive            (--> Selector) { Selector.new: self, -1, -1,  5, -1 }
-method instrumental        (--> Selector) { Selector.new: self, -1, -1,  6, -1 }
-method locative            (--> Selector) { Selector.new: self, -1, -1,  7, -1 }
-method locativecopulative  (--> Selector) { Selector.new: self, -1, -1,  8, -1 }
-method nominative          (--> Selector) { Selector.new: self, -1, -1,  9, -1 }
-method oblique             (--> Selector) { Selector.new: self, -1, -1, 10, -1 }
-method prepositional       (--> Selector) { Selector.new: self, -1, -1, 11, -1 }
-method sociative           (--> Selector) { Selector.new: self, -1, -1, 12, -1 }
-method vocative            (--> Selector) { Selector.new: self, -1, -1, 13, -1 }
-# gender method
-method neuter              (--> Selector) { Selector.new: self, -1, -1, -1,  0 }
-method masculine           (--> Selector) { Selector.new: self, -1, -1, -1,  1 }
-method feminine            (--> Selector) { Selector.new: self, -1, -1, -1,  2 }
-method animate             (--> Selector) { Selector.new: self, -1, -1, -1,  3 }
-method inanimate           (--> Selector) { Selector.new: self, -1, -1, -1,  4 }
-method common              (--> Selector) { Selector.new: self, -1, -1, -1,  5 }
-method personal            (--> Selector) { Selector.new: self, -1, -1, -1,  6 }
-
-method pattern             (-->      Str) { Selector.new( self, -1, -1, -1, -1 ).pattern }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode($pattern --> buf8) {

@@ -1,15 +1,19 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-DecimalFormatSystem is CLDR-ItemNew is Positional;
+unit class CLDR-DecimalFormatSystem;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also does Positional; # intentionally *not* CLDR::Ordered
+
 use Intl::CLDR::Types::NumberFormat;
 use Intl::CLDR::Types::NumberFormatSet;
 
-has CLDR-NumberFormat    $.standard;
-has uint                 $!length-coefficient;
-has buf8                 $!length-table;
-has uint                 $!count-coefficient;
-has buf8                 $!count-table;
-has CLDR-NumberFormatSet @!sets;
+has CLDR::NumberFormat    $.standard;
+has uint                  $!length-coefficient is built;
+has buf8                  $!length-table       is built;
+has uint                  $!count-coefficient  is built;
+has buf8                  $!count-table        is built;
+has CLDR::NumberFormatSet @!sets               is built;
 
 # Forward declaration necessary for trusting
 class  Selector { ... }
@@ -21,54 +25,48 @@ method !count-table        { $!count-table }
 
 
 #| Creates a new CLDR-DecimalFormat object
-method new(|c --> CLDR-DecimalFormatSystem) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-DecimalFormatSystem) {
-    use Intl::CLDR::Util::StrDecode;
-
-    $!standard           = CLDR-NumberFormat.new(blob, $offset);
-    $!length-coefficient = blob[$offset++];
-    $!length-table       = blob.subbuf($offset, 4); $offset += 4;
-    $!count-coefficient  = blob[$offset++];
-    $!count-table        = blob.subbuf($offset, 6); $offset += 6;
-
+method new(\blob, uint64 $offset is rw --> CLDR::DecimalFormatSystem) {
+    my $standard           = CLDR::NumberFormat.new(blob, $offset);
+    my $length-coefficient = blob[$offset++];
+    my $length-table       = blob.subbuf($offset, 4); $offset += 4;
+    my $count-coefficient  = blob[$offset++];
+    my $count-table        = blob.subbuf($offset, 6); $offset += 6;
+    my CLDR::NumberFormatSet @sets;
     @!sets.push: CLDR-NumberFormatSet.new(blob, $offset)
         for ^($!length-coefficient * $!count-coefficient);
 
-    self
+    self.bless:
+        :$standard, :$length-coefficient, :$length-table, :$count-coefficient, :$count-table, :@sets,
+        :count(-1), :length(-1)
 }
 
-class Selector is Positional {
-    has Int $!count;
-    has Int $!length;
-    has CLDR-DecimalFormatSystem $!parent;
-
-    method new ($parent) {self.bless: :$parent}
-    method BUILD (:$!parent) {}
+class Selector does Positional {
+    constant DFS = CLDR::DecimalFormatSystem;
+    has Int $!count  is built;
+    has Int $!length is built;
+    has DFS $!parent is built;
 
     # Length methods
-    method full   { die with $!length; $!length = 3; self }
-    method long   { die with $!length; $!length = 2; self }
-    method medium { die with $!length; $!length = 1; self }
-    method short  { die with $!length; $!length = 0; self }
+    method full   { die if $!length != -1; Selector.new: :3length, :$!count, :$!parent }
+    method long   { die if $!length != -1; Selector.new: :2length, :$!count, :$!parent }
+    method medium { die if $!length != -1; Selector.new: :1length, :$!count, :$!parent }
+    method short  { die if $!length != -1; Selector.new: :0length, :$!count, :$!parent }
     # Count methods
-    method zero   { die with $!count;  $!count  = 5; self }
-    method one    { die with $!count;  $!count  = 4; self }
-    method two    { die with $!count;  $!count  = 3; self }
-    method few    { die with $!count;  $!count  = 2; self }
-    method many   { die with $!count;  $!count  = 1; self }
-    method other  { die with $!count;  $!count  = 0; self }
+    method zero   { die if $!count != -1; Selector.new: :$!length, :5count, :$!parent }
+    method one    { die if $!count != -1; Selector.new: :$!length, :4count, :$!parent }
+    method two    { die if $!count != -1; Selector.new: :$!length, :3count, :$!parent }
+    method few    { die if $!count != -1; Selector.new: :$!length, :2count, :$!parent }
+    method many   { die if $!count != -1; Selector.new: :$!length, :1count, :$!parent }
+    method other  { die if $!count != -1; Selector.new: :$!length, :0count, :$!parent }
 
     method EXISTS-POS (-->True ) {}
     method AT-POS ($pos) {
         return $!parent.standard without $!length;
         $!count //= 0;
 
-        my $set = $!parent!CLDR-DecimalFormatSystem::sets[
-            $!parent!CLDR-DecimalFormatSystem::length-table[$!length] * $!parent!CLDR-DecimalFormatSystem::length-coefficient
-            + $!parent!CLDR-DecimalFormatSystem::count-table[$!count]
+        my $set = $!parent!DFS::sets[
+            $!parent!DFS::length-table[$!length] * $!parent!DFS::length-coefficient
+            + $!parent!DFS::count-table[$!count]
         ];
 
         # Nil if $pos < smallest
@@ -82,28 +80,18 @@ class Selector is Positional {
         return $!parent.standard, without $!length;
         $!count //= 0;
 
-        my $set = $!parent!CLDR-DecimalFormatSystem::sets[
-        $!parent!CLDR-DecimalFormatSystem::length-table[$!length] * $!parent!CLDR-DecimalFormatSystem::length-coefficient
-                + $!parent!CLDR-DecimalFormatSystem::count-table[$!count]
+        my $set = $!parent!DFS::sets[
+                $!parent!DFS::length-table[$!length] * $!parent!DFS::length-coefficient
+                + $!parent!DFS::count-table[$!count]
         ];
         $set.List
     }
+
+    method !set-parent($!parent) { ; }
 }
 
-
-# Length methods
-method full   { Selector.new(self).full   }
-method long   { Selector.new(self).long   }
-method medium { Selector.new(self).medium }
-method short  { Selector.new(self).short  }
-# Count methods
-method zero   { Selector.new(self).zero   }
-method one    { Selector.new(self).one    }
-method two    { Selector.new(self).two    }
-method few    { Selector.new(self).few    }
-method many   { Selector.new(self).many   }
-method other  { Selector.new(self).other  }
-
+also is Selector;
+method TWEAK { self!Selector::set-parent(self) }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode($pattern --> buf8) {

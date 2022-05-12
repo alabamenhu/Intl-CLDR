@@ -4,7 +4,9 @@ use Intl::CLDR::Types::DerivationCompound;
 use Intl::CLDR::Types::DerivationComponent;
 
 #| A class implementing CLDR's <grammaticalDerivations> element, isolated to a single structure.
-unit class CLDR-Derivation is CLDR-ItemNew;
+unit class CLDR::Derivation;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.gender;
 has Str $.plural-first;
@@ -13,21 +15,15 @@ has Str $.case-first;
 has Str $.case-second;
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
+method new(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
+    self.bless:
+        gender        => StrDecode::get(blob, $offset),
+        plural-first  => StrDecode::get(blob, $offset),
+        plural-second => StrDecode::get(blob, $offset),
+        case-first    => StrDecode::get(blob, $offset),
+        case-second   => StrDecode::get(blob, $offset),
 
-    $!gender        = StrDecode::get(blob, $offset);
-    $!plural-first  = StrDecode::get(blob, $offset);
-    $!plural-second = StrDecode::get(blob, $offset);
-    $!case-first    = StrDecode::get(blob, $offset);
-    $!case-second   = StrDecode::get(blob, $offset);
-
-    self
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

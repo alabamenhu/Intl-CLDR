@@ -1,40 +1,36 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::Derivations;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::Derivation;
 
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-Derivations is CLDR-ItemNew;
 
-has CLDR-Derivation $.per;
-has CLDR-Derivation $.times;
-has CLDR-Derivation $.power;
-has CLDR-Derivation $.prefix;
+has CLDR::Derivation $.per;
+has CLDR::Derivation $.times;
+has CLDR::Derivation $.power;
+has CLDR::Derivation $.prefix;
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
+method new(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!per    = CLDR-Derivation.new: blob, $offset;
-    $!times  = CLDR-Derivation.new: blob, $offset;
-    $!power  = CLDR-Derivation.new: blob, $offset;
-    $!prefix = CLDR-Derivation.new: blob, $offset;
+    self.bless:
+        per    => CLDR::Derivation.new(blob, $offset),
+        times  => CLDR::Derivation.new(blob, $offset),
+        power  => CLDR::Derivation.new(blob, $offset),
+        prefix => CLDR::Derivation.new(blob, $offset),
 
-    self
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*derivations) {
     my $result = buf8.new;
 
-    $result ~= CLDR-Derivation.encode(%*derivations<per>   );
-    $result ~= CLDR-Derivation.encode(%*derivations<times> );
-    $result ~= CLDR-Derivation.encode(%*derivations<power> );
-    $result ~= CLDR-Derivation.encode(%*derivations<prefix>);
+    $result ~= CLDR::Derivation.encode(%*derivations<per>   );
+    $result ~= CLDR::Derivation.encode(%*derivations<times> );
+    $result ~= CLDR::Derivation.encode(%*derivations<power> );
+    $result ~= CLDR::Derivation.encode(%*derivations<prefix>);
 
     $result
 }
@@ -52,7 +48,7 @@ method parse(\base, \xml) {
 
 
     for <per times power prefix> -> $type {
-        CLDR-Derivation.parse: (base{$type} //= Hash.new), $_
+        CLDR::Derivation.parse: (base{$type} //= Hash.new), $_
             with $derivation-xml.&elems('deriveComponent').grep(*.<structure> eq $type).Slip,
                  $derivation-xml.&elems('deriveCompound' ).grep(*.<structure> eq $type).Slip;
     }

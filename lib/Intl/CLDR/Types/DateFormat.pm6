@@ -1,32 +1,20 @@
-use Intl::CLDR::Immutability;
-
 #| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-DateFormat is CLDR-ItemNew;
+unit class CLDR::DateFormat;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-
-has     $!parent;         #= The CLDR-DateFormats object containing this CLDR-DateFormat
-has Str $.display-name;
+has Str $.display-name is aliased-by<displayName>;
 has Str $.pattern;
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+method new(\blob, uint64 $offset is rw) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!display-name = StrDecode::get(blob, $offset);
-    $!pattern      = StrDecode::get(blob, $offset);
+    self.bless:
+        display-name => StrDecode::get(blob, $offset),
+        pattern      => StrDecode::get(blob, $offset),
 
-    self
 }
-constant detour = Map.new: (
-    displayName => 'display-name'
-);
-method DETOUR (--> detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {

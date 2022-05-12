@@ -1,33 +1,34 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-Currencies is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR::Currencies;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 use Intl::CLDR::Types::Currency;
 
-has $!parent;
+#############################################
+# Attributes are only included in the hash  #
+# and not provided method-based access  as  #
+# coverage for most languages does not seem #
+# to warrant the overhead                   #
+#############################################
 
-######################################################
-# Attributes are currently only included in the hash #
-######################################################
-
-#| Creates a new CLDR-DayPeriodContext object
+#| Creates a new CLDR::Currencies object
 method new(|c) {
-    self.bless!bind-init: |c;
+    self.bless!add-keys: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
-    ######################################################
-    # Attributes are currently only included in the hash #
-    ######################################################
+submethod !add-keys(\blob, uint64 $offset is rw) {
+    ###################################################
+    # These key/values effectively are the attributes #
+    ###################################################
 
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];
-    for ^$count {
-        self.Hash::BIND-KEY:
-            StrDecode::get(   blob,  $offset),          # the currency code
-            CLDR-Currency.new(blob, ($offset -= 2), self); # the data, accounting for index str of two bytes
-    }
+    self.Hash::BIND-KEY:
+        StrDecode::get(   blob,  $offset),            # the currency code
+        CLDR-Currency.new(blob, ($offset -= 2), self) # the data, accounting for index str of two bytes
+            for ^$count;
 
     self
 }

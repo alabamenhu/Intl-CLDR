@@ -1,28 +1,34 @@
-use Intl::CLDR::Immutability;
+# Used by DataTimeFormats to list date/time formats that are known to a language
+unit class CLDR::AvailableFormats;
 
-unit class CLDR-AvailableFormats is CLDR-Item is CLDR-Unordered;
+use       Intl::CLDR::Core;
+also does CLDR::Item;
+also is   CLDR::Unordered;
 
-has $!parent; #= The CLDR-DateTimeFormats that contains this CLDR-AvailableFormats
-
-# TODO: provide matching method here?  or just rely on other modules and hash .keys value?
-
-#| Creates a new CLDR-AvailableFormats object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
+#| Creates a new CLDR::AvailableFormats object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    my \new-self = self.bless;
 
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++];
+    self.Hash::BIND-KEY:
+        StrDecode::get(blob, $offset),
+        StrDecode::get(blob, $offset)
+    for ^$count;
 
-    for ^$count {
-        self.Hash::BIND-KEY:
-                StrDecode::get(blob, $offset),
-                StrDecode::get(blob, $offset)
-    }
+    new-self
+}
+
+submethod !bind-init(\blob, uint64 $offset is rw --> ::?CLASS) {
+    use Intl::CLDR::Util::StrDecode;
+
+    my $count = blob[$offset++];
+
+    self.Hash::BIND-KEY:
+        StrDecode::get(blob, $offset),
+        StrDecode::get(blob, $offset)
+    for ^$count;
 
     self
 }

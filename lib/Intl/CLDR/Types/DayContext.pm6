@@ -1,27 +1,19 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-DayContext is CLDR-ItemNew;
+unit class CLDR::DayContext;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::DayWidth;
 
-has               $!parent;
-has CLDR-DayWidth $.narrow;
-has CLDR-DayWidth $.abbreviated;
-has CLDR-DayWidth $.wide;
+has CLDR::DayWidth $.narrow;
+has CLDR::DayWidth $.abbreviated;
+has CLDR::DayWidth $.wide;
 
 #| Creates a new CLDR-DayContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    $!narrow      = CLDR-DayWidth.new: blob, $offset, self;
-    $!abbreviated = CLDR-DayWidth.new: blob, $offset, self;
-    $!wide        = CLDR-DayWidth.new: blob, $offset, self;
-
-    self
+method new(\blob, uint64 $offset is rw) {
+    self.bless:
+        narrow      => CLDR::DayWidth.new(blob, $offset),
+        abbreviated => CLDR::DayWidth.new(blob, $offset),
+        wide        => CLDR::DayWidth.new(blob, $offset),
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
@@ -30,16 +22,16 @@ method encode(\hash) {
     my $result = buf8.new;
 
     $*day-width = 'narrow';
-    $result ~= CLDR-DayWidth.encode: %*day-context<narrow> // Hash;
+    $result ~= CLDR::DayWidth.encode: %*day-context<narrow> // Hash;
     $*day-width = 'abbreviated';
-    $result ~= CLDR-DayWidth.encode: %*day-context<abbreviated> // Hash;
+    $result ~= CLDR::DayWidth.encode: %*day-context<abbreviated> // Hash;
     $*day-width = 'wide';
-    $result ~= CLDR-DayWidth.encode: %*day-context<wide> // Hash;
+    $result ~= CLDR::DayWidth.encode: %*day-context<wide> // Hash;
 
     $result;
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    CLDR-DayWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('dayWidth');
+    CLDR::DayWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('dayWidth');
 }
 #>>>>> # GENERATOR

@@ -10,7 +10,7 @@ has Str $.word-initial; #= Ellipse pattern when removing the start of a text alo
 has Str $.word-medial;  #= Ellipse pattern when removing a middle portion of text along word boundaries
 
 #| Creates a new CLDR-DayPeriodContext object
-method new(buf8 \blob, uint64 $offset is rw) {
+method new(buf8 \blob, uint64 $offset is rw --> ::?CLASS ) {
     use Intl::CLDR::Util::StrDecode;
     self.bless:
         final        => StrDecode::get(blob, $offset),

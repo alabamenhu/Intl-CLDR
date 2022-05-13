@@ -10,7 +10,7 @@ has List $.numbers;      #= Symbols and digits commonly used in math
 has List $.punctuation;  #= Punctuation used regularly by a language
 
 #| Creates a new CLDR::ExemplarCharacters object
-method new(blob8 \blob, uint64 $offset is rw) {
+method new(blob8 \blob, uint64 $offset is rw --> ::?CLASS ) {
     use Intl::CLDR::Util::StrDecode;
 
     # Sometimes the character will be a combining grapheme.  This ensures we capture it separately

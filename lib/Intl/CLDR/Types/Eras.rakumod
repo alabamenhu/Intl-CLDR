@@ -9,7 +9,7 @@ has CLDR::EraWidth $.abbreviated;
 has CLDR::EraWidth $.wide;
 
 #| Creates a new CLDR-EraContext object
-method new(\blob, uint64 $offset is rw) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS ) {
     self.bless:
         narrow      => CLDR::EraWidth.new(blob, $offset),
         abbreviated => CLDR::EraWidth.new(blob, $offset),

@@ -12,7 +12,7 @@ has CLDR::Derivation $.power;
 has CLDR::Derivation $.prefix;
 
 #| Creates a new CLDR-Dates object
-method new(\blob, uint64 $offset is rw) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS ) {
     use Intl::CLDR::Util::StrDecode;
 
     self.bless:

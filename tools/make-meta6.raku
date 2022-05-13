@@ -1,7 +1,7 @@
 #!/usr/bin/env perl6
 use File::Find;
 
-sub MAIN($version!) {
+sub MAIN($version = prompt("What version should be used? ")) {
     use META6;
 
     my %provides;
@@ -10,13 +10,13 @@ sub MAIN($version!) {
     my $lib = $?FILE.IO.parent(2).add('lib');
 
     my $prefix-length = $lib.Str.chars - 3; # -3 because '…/lib', we must preserve the 'lib'
-    for find(dir => $lib, name => /'.pm6'$/) -> $sub-module {
+    for find(dir => $lib, name => /'.rakumod'$/) -> $sub-module {
         my $file = $sub-module.Str.substr($prefix-length);
         my $name = $file.substr(4, *-4).subst('/','::', :g);
         %provides{$name} = $file;
     }
 
-    my $bin-data = $?FILE.IO.parent.add('languages-binary');
+    my $bin-data = $?FILE.IO.parent.parent.add('resources/languages-binary');
     my $res-prefix-length = $bin-data.Str.chars - 16; # -16 because '…/languages-binary')
 
     for find(dir => $bin-data) -> $lang-file {

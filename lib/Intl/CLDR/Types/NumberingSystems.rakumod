@@ -1,29 +1,21 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-NumberingSystems is CLDR-ItemNew;
+unit class CLDR::NumberingSystems;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.default;
 has Str $.native;
 has Str $.traditional;
 has Str $.financial;
 
-
-#| Creates a new CLDR-DayPeriodContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+#| Creates a new CLDR::NumberingSystems object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!default     = StrDecode::get(blob, $offset);
-    $!native      = StrDecode::get(blob, $offset);
-    $!traditional = StrDecode::get(blob, $offset);
-    $!financial   = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        default     => StrDecode::get(blob, $offset),
+        native      => StrDecode::get(blob, $offset),
+        traditional => StrDecode::get(blob, $offset),
+        financial   => StrDecode::get(blob, $offset),
 }
-
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*numbering-systems) {

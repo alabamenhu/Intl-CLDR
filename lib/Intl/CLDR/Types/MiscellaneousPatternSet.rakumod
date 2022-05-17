@@ -1,6 +1,6 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-MiscellaneousPatternSet is CLDR-ItemNew;
+unit class CLDR::MiscellaneousPatternSet;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.approximately; #= The pattern used to represent approximate values (≈1.23)
 has Str $.at-most;       #= The pattern used to represent values up to and including a number (≤10)
@@ -9,21 +9,14 @@ has Str $.range;         #= The pattern used to represent a range of values (10�
 
 
 #| Creates a new CLDR-DayPeriodContext object
-method new(|c --> CLDR-MiscellaneousPatternSet) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-MiscellaneousPatternSet) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!approximately = StrDecode::get(blob, $offset);
-    $!at-most       = StrDecode::get(blob, $offset);
-    $!at-least      = StrDecode::get(blob, $offset);
-    $!range         = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        approximately => StrDecode::get(blob, $offset),
+        at-most       => StrDecode::get(blob, $offset),
+        at-least      => StrDecode::get(blob, $offset),
+        range         => StrDecode::get(blob, $offset),
 }
-
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*pattern-set) {

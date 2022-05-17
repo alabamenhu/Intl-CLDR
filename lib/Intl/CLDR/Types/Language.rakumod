@@ -22,13 +22,13 @@ has str                     @!strings   is built;
 # See comments at the lazy trait and in the encoding phase
 has CLDR::Characters        $!characters           is lazy;
 has CLDR::ContextTransforms $!context-transforms   is lazy;
-has CLDR-Dates              $!dates                is lazy;
+has CLDR::Dates             $!dates                is lazy;
 has CLDR::Delimiters        $!delimiters           is lazy;
-has CLDR-Grammar            $!grammar              is lazy;
-has CLDR-Layout             $!layout               is lazy;
-has CLDR-ListPatterns       $!list-patterns        is lazy;
-has CLDR-LocaleDisplayNames $!locale-display-names is lazy;
-has CLDR-Numbers            $!numbers              is lazy;
+has CLDR::Grammar           $!grammar              is lazy;
+has CLDR::Layout            $!layout               is lazy;
+has CLDR::ListPatterns      $!list-patterns        is lazy;
+has CLDR::LocaleDisplayNames$!locale-display-names is lazy;
+has CLDR::Numbers           $!numbers              is lazy;
 has CLDR::Posix             $!posix                is lazy;
 has CLDR::Units             $!units                is lazy;
 
@@ -45,17 +45,17 @@ multi method gist (CLDR::Language:D:) {
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*language) {
     my @types = <
-        CLDR::Characters        characters
-        CLDR::ContextTransforms contextTransforms
-        CLDR-Dates              dates
-        CLDR::Delimiters        delimiters
-        CLDR-Grammar            grammar
-        CLDR-Layout             layout
-        CLDR-ListPatterns       listPatterns
-        CLDR-LocaleDisplayNames localeDisplayNames
-        CLDR-Numbers            numbers
-        CLDR::Posix             posix
-        CLDR::Units             units
+        CLDR::Characters         characters
+        CLDR::ContextTransforms  contextTransforms
+        CLDR::Dates              dates
+        CLDR::Delimiters         delimiters
+        CLDR::Grammar            grammar
+        CLDR::Layout             layout
+        CLDR::ListPatterns       listPatterns
+        CLDR::LocaleDisplayNames localeDisplayNames
+        CLDR::Numbers            numbers
+        CLDR::Posix              posix
+        CLDR::Units              units
     >;
 
     # Put in the initial header with offset locations
@@ -80,16 +80,16 @@ method encode(%*language) {
 
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    CLDR::Characters.parse:        (base<characters>         //= Hash.new), $_ with xml.&elem('characters');
-    CLDR::ContextTransforms.parse: (base<contextTransforms>  //= Hash.new), $_ with xml.&elem('contextTransforms');
-    CLDR-Dates.parse:              (base<dates>              //= Hash.new), $_ with xml.&elem('dates');
-    CLDR::Delimiters.parse:        (base<delimiters>         //= Hash.new), $_ with xml.&elem('delimiters');
-    CLDR-Grammar.parse:            (base<grammar>            //= Hash.new), $; # Uses supplemental data
-    CLDR-Layout.parse:             (base<layout>             //= Hash.new), $_ with xml.&elem('layout');
-    CLDR-ListPatterns.parse:       (base<listPatterns>       //= Hash.new), $_ with xml.&elem('listPatterns');
-    CLDR-LocaleDisplayNames.parse: (base<localeDisplayNames> //= Hash.new), $_ with xml.&elem('localeDisplayNames');
-    CLDR-Numbers.parse:            (base<numbers>            //= Hash.new), $_ with xml.&elem('numbers');
-    CLDR::Posix.parse:             (base<posix>              //= Hash.new), $_ with xml.&elem('posix');
-    CLDR::Units.parse:             (base<units>              //= Hash.new), $_ with xml.&elem('units');
+    CLDR::Characters.parse:         (base<characters>         //= Hash.new), $_ with xml.&elem('characters');
+    CLDR::ContextTransforms.parse:  (base<contextTransforms>  //= Hash.new), $_ with xml.&elem('contextTransforms');
+    CLDR::Dates.parse:              (base<dates>              //= Hash.new), $_ with xml.&elem('dates');
+    CLDR::Delimiters.parse:         (base<delimiters>         //= Hash.new), $_ with xml.&elem('delimiters');
+    CLDR::Grammar.parse:            (base<grammar>            //= Hash.new), $; # Uses supplemental data
+    CLDR::Layout.parse:             (base<layout>             //= Hash.new), $_ with xml.&elem('layout');
+    CLDR::ListPatterns.parse:       (base<listPatterns>       //= Hash.new), $_ with xml.&elem('listPatterns');
+    CLDR::LocaleDisplayNames.parse: (base<localeDisplayNames> //= Hash.new), $_ with xml.&elem('localeDisplayNames');
+    CLDR::Numbers.parse:            (base<numbers>            //= Hash.new), $_ with xml.&elem('numbers');
+    CLDR::Posix.parse:              (base<posix>              //= Hash.new), $_ with xml.&elem('posix');
+    CLDR::Units.parse:              (base<units>              //= Hash.new), $_ with xml.&elem('units');
 }
 #>>>>> # GENERATOR

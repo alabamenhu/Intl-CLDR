@@ -1,6 +1,6 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-LocaleDisplayPatterns is CLDR-ItemNew;
+unit class CLDR::LocaleDisplayPatterns;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.main;      #= The pattern to distinguish the language from its specifying elements
 has Str $.separator; #= To separate additional identifying elements (including key-type extensions)
@@ -10,22 +10,16 @@ has Str $.territory; #= For use with territories codes when no display name is a
 has Str $.extension; #= For use with extensions when no display name is available
 
 #| Creates a new CLDR-MonthContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
+    self.bless:
+        main      => StrDecode::get(blob, $offset),
+        separator => StrDecode::get(blob, $offset),
+        extension => StrDecode::get(blob, $offset),
+        language  => StrDecode::get(blob, $offset),
+        script    => StrDecode::get(blob, $offset),
+        territory => StrDecode::get(blob, $offset),
 
-    $!main      = StrDecode::get(blob, $offset);
-    $!separator = StrDecode::get(blob, $offset);
-    $!extension = StrDecode::get(blob, $offset);
-    $!language  = StrDecode::get(blob, $offset);
-    $!script    = StrDecode::get(blob, $offset);
-    $!territory = StrDecode::get(blob, $offset);
-
-    self
 }
 
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script

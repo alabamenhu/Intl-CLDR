@@ -1,4 +1,4 @@
-unit class CLDR-DateTimeFormats;
+unit class CLDR::DateTimeFormats;
     use Intl::CLDR::Core;
     also does CLDR::Item;
 

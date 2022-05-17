@@ -1,12 +1,11 @@
-use Intl::CLDR::Immutability;
+# TODO: Complete number system aliasing
+unit class CLDR::ScientificFormats;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-ScientificFormats is CLDR-ItemNew;
-
-use Intl::CLDR::Types::NumberFormat; # for encode only
-use Intl::CLDR::Types::NumberFormatSet; # for encode only
 use Intl::CLDR::Types::ScientificFormatSystem;
 
-has CLDR-ScientificFormatSystem %!systems;
+has CLDR::ScientificFormatSystem %!systems is built;
 
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
@@ -18,23 +17,20 @@ has CLDR-ScientificFormatSystem %!systems;
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-ScientificFormats object
-method new(|c --> CLDR-ScientificFormats) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-ScientificFormats) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $system-count = blob[$offset++];
+    my CLDR::ScientificFormatSystem %systems;
+    %!systems{StrDecode::get(blob, $offset)} := CLDR::ScientificFormatSystem.new(blob, $offset)
+        for ^$system-count;
 
-    %!systems{StrDecode::get(blob, $offset)} := CLDR-ScientificFormatSystem.new(blob, $offset)
-    for ^$system-count;
-
-    self
+    self.bless:
+        :%systems
 }
 
 #| Scientific formats for the Adlam numbering system (adlm)
-method adlam { %!systems<adlm> // %!systems<latn> }
+method adlam is aliased-by<adlm> { %!systems<adlm> // %!systems<latn> }
 
 #| Scientific formats for the Ahom numbering system (ahom)
 method ahom { %!systems<ahom> // %!systems<latn> }
@@ -392,6 +388,9 @@ sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*formats) {
     use Intl::CLDR::Util::StrEncode;
+    use Intl::CLDR::Types::NumberFormat; # for encode only
+    use Intl::CLDR::Types::NumberFormatSet; # for encode only
+
     my $result = buf8.new: 0; # 0 will be adjusted at end
     my $encoded-systems = 0;
     for <adlm ahom arab arabext armn armnlow bali beng bhks brah cakm cham cyrl
@@ -445,7 +444,7 @@ method encode(%*formats) {
         my $standard = %*formats{$system}<standard><other><0> // %*formats<latn><standard><0>;
 
         $result ~= StrEncode::get($system);                                        # system as the header
-        { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard) } # standard pattern
+        { my $*pattern-type = 0; $result ~= CLDR::NumberFormat.encode($standard) } # standard pattern
         $result.append: @length-existence-table.sum;  # lengths in this system
         $result.append: @length-transform>>.Int.Slip; # length conversion table
         $result.append: @count-existence-table.sum;   # counts in this system
@@ -455,7 +454,7 @@ method encode(%*formats) {
             next unless @length-existence-table[$length-cell];
             for <other many few two one zero> Z ^6 -> ($*count, $count-cell) {
                 next unless @count-existence-table[$count-cell];
-                $result ~= CLDR-NumberFormatSet.encode: %*formats{$system}{$*length}{$*count} // %*formats<latn>{$*length}{$*count};
+                $result ~= CLDR::NumberFormatSet.encode: %*formats{$system}{$*length}{$*count} // %*formats<latn>{$*length}{$*count};
             }
         }
         $encoded-systems++;

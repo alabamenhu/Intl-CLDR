@@ -2,7 +2,7 @@ unit class CLDR::CompoundUnitSet;
 
 use       Intl::CLDR::Core;
 also does CLDR::Item;
-also is   Positional;        # intentionally *not* CLDR::Ordered
+#also is   Positional;        # intentionally *not* CLDR::Ordered
 method of (-->Str) {}        # but we can type it as Str
 
 use Intl::CLDR::Enums;
@@ -59,6 +59,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
 class Selector is Positional {
     constant CUS = CLDR::CompoundUnitSet;
+    trusts CUS;
     has Int $!length is built;
     has Int $!count  is built;
     has Int $!case   is built;

@@ -1,31 +1,26 @@
-use Intl::CLDR::Immutability;
-
 #| A class implementing CLDR's <pluralRanges> element
-unit class CLDR-PluralRangeRuleSet is CLDR-ItemNew;
+unit class CLDR::PluralRangeRuleSet;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 # There are only six possible plurals, for a total of 36 combinations.
 # There may be some *slightly* more efficient storage methods, but
 # at only 36 bytes, just mass storing every combination (defaulting
-# to 'other') is the easiest and not terrible inefficient.
+# to 'other') is the easiest and not terrible inefficient.  Taking
+# a cue from NumberFormatSystem may not be a bad idea long term.
 
 my str @results = <other zero one two few many>;
 my Int %eqv     = other => 0, zero => 1, one => 2, two => 3, few => 4, many => 5;
 
+has blob8 $!data is built;
 
-has blob8 $!data;
-
-#| Creates a new CLDR-Plurals object
-method new(|c) {
-    self.bless!bind-init: |c;
+#| Creates a new CLDR::PluralRangeRuleSet object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    self.bless:
+        data => blob.subbuf: $offset,   36;
+                       LEAVE $offset += 36; # compensates for the blob length
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
-    $!data = blob.subbuf: $offset, 36;
-    $offset += 36;
-
-    self
-}
 my class Selector { ... }
 trusts   Selector;
 

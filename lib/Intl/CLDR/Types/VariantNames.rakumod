@@ -1,6 +1,7 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-VariantNames is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR::VariantNames;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 #######################################
 #  Attributes currently too numerous  #
@@ -13,23 +14,23 @@ unit class CLDR-VariantNames is CLDR-ItemNew is CLDR-Unordered;
 # follow the model of LanguageNames        #
 ############################################
 
-role HasVariantForm { has $.variant; method short {self.Str} }
-role HasShortForm   { has $.short; method variant {self.Str} }
-role NoAlternateForms { method short { self}; method variant { self } }
-method new(|c) {
-    self.bless!bind-init: |c
+role HasVariantForm   { has $.variant; method short {self.Str} }
+role HasShortForm     { has $.short; method variant {self.Str} }
+role NoAlternateForms { method short { self }; method variant { self } }
+
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];
 
-    for ^$count {
-        self.Hash::BIND-KEY:
-                StrDecode::get(blob, $offset),
-                StrDecode::get(blob, $offset);
-    }
+    self.Hash::BIND-KEY:
+            StrDecode::get(blob, $offset),
+            StrDecode::get(blob, $offset)
+    for ^$count;
 
     self
 }
@@ -55,7 +56,6 @@ method encode(%*variants --> buf8) {
         # Check if a short version exists
         $result ~= StrEncode::get($tag  // '');
         $result ~= StrEncode::get($name // '');
-
     }
 
     $result

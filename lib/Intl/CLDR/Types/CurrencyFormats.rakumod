@@ -18,13 +18,13 @@ has $.spacing-after;
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-PercentFormats object
-method new(\blob, uint64 $offset is rw --> CLDR-CurrencyFormats) {
+method new(\blob, uint64 $offset is rw --> CLDR::CurrencyFormats) {
     use Intl::CLDR::Util::StrDecode;
 
     my %systems;
     my $system-count = blob[$offset++];
 
-    %systems{StrDecode::get(blob, $offset)} := CLDR-CurrencyFormatSystem.new(blob, $offset)
+    %systems{StrDecode::get(blob, $offset)} := CLDR::CurrencyFormatSystem.new(blob, $offset)
         for ^$system-count;
 
     self.bless: :%systems
@@ -466,8 +466,8 @@ method encode(%*formats) {
         my $standard-acct = %*formats{$system}<accounting><other><0> // %*formats{$system}<standard><other><0> // %*formats<latn><accounting><other><0> // %*formats<latn><standard><0>;
 
         $result ~= StrEncode::get($system);                                            # system as the header
-        { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard)      } # standard pattern
-        { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard-acct) } # standard accounting pattern
+        { my $*pattern-type = 0; $result ~= CLDR::NumberFormat.encode($standard)      } # standard pattern
+        { my $*pattern-type = 0; $result ~= CLDR::NumberFormat.encode($standard-acct) } # standard accounting pattern
         $result.append: @length-existence-table.sum;    # lengths in this system
         $result.append: @length-transform>>.Int.Slip;   # length conversion table
         $result.append: @currency-existence-table.sum;  # currencies in this system
@@ -481,7 +481,7 @@ method encode(%*formats) {
                 next unless @length-existence-table[$length-cell];
                 for <other many few two one zero> Z ^6 -> ($*count, $count-cell) {
                     next unless @count-existence-table[$count-cell];
-                    $result ~= CLDR-NumberFormatSet.encode: %*formats{$system}{$*length}{$*currency}{$*count} // %*formats<latn>{$*length}{$*currency}{$*count};
+                    $result ~= CLDR::NumberFormatSet.encode: %*formats{$system}{$*length}{$*currency}{$*count} // %*formats<latn>{$*length}{$*currency}{$*count};
                 }
             }
         }

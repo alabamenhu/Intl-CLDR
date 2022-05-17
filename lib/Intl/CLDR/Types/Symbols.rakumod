@@ -1,10 +1,11 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-Symbols is CLDR-ItemNew;
+# TODO: finish aliasing number sets
+unit class CLDR::Symbols;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::SymbolSet;
 
-has CLDR-SymbolSet %!systems;
+has CLDR::SymbolSet %!systems;
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
 # for ($text ~~ m:g/'name="' (<alnum>+) '" description="' (<-["]>+)/) -> $match {
@@ -15,23 +16,20 @@ has CLDR-SymbolSet %!systems;
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-SymbolSetsAAAA object
-method new(|c --> CLDR-Symbols) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-Symbols) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++];
-    %!systems{StrDecode::get(blob, $offset)} = CLDR-SymbolSet.new: blob, $offset
+    my CLDR::SymbolSet %systems;
+    %systems{StrDecode::get(blob, $offset)} = CLDR::SymbolSet.new: blob, $offset
         for ^$count;
-    
-    self
+
+    self.bless:
+        :%systems
 }
 
-
 #| Symbols for the Adlam numbering system (adlm)
-method adlam { %!systems<adlm> // %!systems<latn> }
+method adlam is aliased-by<adlm> { %!systems<adlm> // %!systems<latn> }
 
 #| Symbols for the Ahom numbering system (ahom)
 method ahom { %!systems<ahom> // %!systems<latn> }
@@ -396,7 +394,7 @@ method encode(%*symbol-sets) {
     for %*symbol-sets.keys -> $type {
         next unless %*symbol-sets{$type}; # these would just have an alias element, so parsed version is empty
         $result ~= StrEncode::get($type);
-        $result ~= CLDR-SymbolSet.encode(%*symbol-sets{$type});
+        $result ~= CLDR::SymbolSet.encode(%*symbol-sets{$type});
         $count++;
     }
 
@@ -416,7 +414,7 @@ method encode(%*symbol-sets) {
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     # We are passed the symbol set directly, so the xml is intentionally passed through
-    CLDR-SymbolSet.parse: (base{$_} //= Hash.new), xml
+    CLDR::SymbolSet.parse: (base{$_} //= Hash.new), xml
         with xml<numberSystem>; # ← one will have no type, that's the fallback, which aliases to latn, so we ignore it︎
 }
 #>>>>> # GENERATOR

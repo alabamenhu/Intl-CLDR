@@ -1,26 +1,20 @@
-use Intl::CLDR::Immutability;
-
-#| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-RegionFormat is CLDR-ItemNew;
+#| A class implementing CLDR's <regionFormat> element, containing information about formatting dates.
+unit class CLDR::RegionFormat;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.generic;
 has Str $.standard;
 has Str $.daylight;
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
+    self.bless:
+        generic  => StrDecode::get( blob, $offset),
+        standard => StrDecode::get( blob, $offset),
+        daylight => StrDecode::get( blob, $offset),
 
-    $!generic  = StrDecode::get( blob, $offset);
-    $!standard = StrDecode::get( blob, $offset);
-    $!daylight = StrDecode::get( blob, $offset);
-
-    self
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
@@ -34,5 +28,8 @@ method encode(%*region-format) {
     $result ~= StrEncode::get(%*region-format<daylight> // '');
 
     $result
+}
+method parse(\base, \xml) {
+    # handled at a different level
 }
 #>>>>> # GENERATOR

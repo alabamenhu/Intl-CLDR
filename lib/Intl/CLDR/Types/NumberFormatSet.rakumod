@@ -1,20 +1,22 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::NumberFormatSet;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Ordered;
 
-unit class CLDR-NumberFormatSet is CLDR-Ordered is CLDR-ItemNew;
 use Intl::CLDR::Types::NumberFormat;
 
-method new(|c --> CLDR-NumberFormatSet) {
-    self.bless!bind-init: |c
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-NumberFormatSet) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $typed-count = blob[$offset++];
 
     self.Array::BIND-POS:
             $_,
-            CLDR-NumberFormat.new(blob, $offset)
+            CLDR::NumberFormat.new(blob, $offset)
     for ^$typed-count;
     self
 }
@@ -35,7 +37,7 @@ method List  { self.Array::List }
 method EXISTS-POS ($ --> True) { }
 
 #| Returns the CLDR-NumberFormat that best matches (largest .type ≤ index)
-method AT-POS ($value --> CLDR-NumberFormat) {
+method AT-POS ($value --> CLDR::NumberFormat) {
     # The binary search may actually be slower than an one-by-one
     # approach, because the items are so few.  TODO: Test at some point
     my uint64 $find = abs $value;
@@ -67,7 +69,7 @@ method encode(%*formats-set --> buf8) {
     $result.append: %*formats-set.keys.elems;
 
     for %*formats-set.keys.sort -> $*pattern-type {
-        $result ~= CLDR-NumberFormat.encode: %*formats-set{$*pattern-type}
+        $result ~= CLDR::NumberFormat.encode: %*formats-set{$*pattern-type}
     }
 
     $result

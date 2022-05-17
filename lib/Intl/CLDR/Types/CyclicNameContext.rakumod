@@ -1,4 +1,4 @@
-unit class CLDR::CyclicNameContext is CLDR-ItemNew;
+unit class CLDR::CyclicNameContext;
     use Intl::CLDR::Core;
     also does CLDR::Item;
 

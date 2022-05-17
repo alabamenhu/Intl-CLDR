@@ -1,7 +1,6 @@
 unit class CLDR::CurrencyFormatSystem;
     use Intl::CLDR::Core;
     also does CLDR::Item;
-    also does Positional; # intentional *not* CLDR::Unordered
     method of (-->Str) {} # but we can type it as Str
 
 use Intl::CLDR::Types::NumberFormat;
@@ -55,36 +54,37 @@ method new(\blob, uint64 $offset is rw --> CLDR::CurrencyFormatSystem) {
 
 class Selector is Positional {
     constant CFS = CLDR::CurrencyFormatSystem;
+    trusts CFS;
     has Int $!count    is built;
     has Int $!currency is built;
     has Int $!length   is built;
     has CFS $!parent   is built;
 
     # Length methods
-    method full       { die if $!length   = -1; Selector.new: :$!count, :$!currency, :3length, :$!parent }
-    method long       { die if $!length   = -1; Selector.new: :$!count, :$!currency, :2length, :$!parent }
-    method medium     { die if $!length   = -1; Selector.new: :$!count, :$!currency, :1length, :$!parent }
-    method short      { die if $!length   = -1; Selector.new: :$!count, :$!currency, :0length, :$!parent }
+    method full       { die with $!length  ; Selector.new: :$!count, :$!currency, :3length, :$!parent }
+    method long       { die with $!length  ; Selector.new: :$!count, :$!currency, :2length, :$!parent }
+    method medium     { die with $!length  ; Selector.new: :$!count, :$!currency, :1length, :$!parent }
+    method short      { die with $!length  ; Selector.new: :$!count, :$!currency, :0length, :$!parent }
     # Currency methods
-    method accounting { die if $!currency = -1; Selector.new: :$!count, :1currency, :$!length, :$!parent }
-    method normal     { die if $!currency = -1; Selector.new: :$!count, :0currency, :$!length, :$!parent }
+    method accounting { die with $!currency; Selector.new: :$!count, :1currency, :$!length, :$!parent }
+    method normal     { die with $!currency; Selector.new: :$!count, :0currency, :$!length, :$!parent }
     # Count methods (XXX are they supposed to be descending?)
-    method zero       { die if $!count    = -1; Selector.new: :5count, :$!currency, :$!length, :$!parent }
-    method one        { die if $!count    = -1; Selector.new: :4count, :$!currency, :$!length, :$!parent }
-    method two        { die if $!count    = -1; Selector.new: :3count, :$!currency, :$!length, :$!parent }
-    method few        { die if $!count    = -1; Selector.new: :2count, :$!currency, :$!length, :$!parent }
-    method many       { die if $!count    = -1; Selector.new: :1count, :$!currency, :$!length, :$!parent }
-    method other      { die if $!count    = -1; Selector.new: :0count, :$!currency, :$!length, :$!parent }
+    method zero       { die with $!count   ; Selector.new: :5count, :$!currency, :$!length, :$!parent }
+    method one        { die with $!count   ; Selector.new: :4count, :$!currency, :$!length, :$!parent }
+    method two        { die with $!count   ; Selector.new: :3count, :$!currency, :$!length, :$!parent }
+    method few        { die with $!count   ; Selector.new: :2count, :$!currency, :$!length, :$!parent }
+    method many       { die with $!count   ; Selector.new: :1count, :$!currency, :$!length, :$!parent }
+    method other      { die with $!count   ; Selector.new: :0count, :$!currency, :$!length, :$!parent }
 
     method EXISTS-POS (-->True ) {}
     method AT-POS ($pos) {
-        $!currency //= 0;
-        return $!currency == 0
+        # TODO: don't set these values, but cache them
+        my $currency = $!currency // 0;
+        return $currency == 0
                 ?? $!parent.standard
                 !! $!parent.standard-accounting
             without $!length;
-        $!count    //= 0;
-        $!currency //= 0;
+        my $count    = $!count    // 0;
 
         # and yet, with all this complexity, 99% of CLD sets will only provide
         # one or two currency formats lol.
@@ -92,9 +92,9 @@ class Selector is Positional {
                       $!parent!CFS::length-table[$!length]
                     * $!parent!CFS::length-coefficient
                     * $!parent!CFS::currency-coefficient
-                    + $!parent!CFS::currency-table[$!currency]
+                    + $!parent!CFS::currency-table[$currency]
                     * $!parent!CFS::currency-coefficient
-                    + $!parent!CFS::count-table[$!count]
+                    + $!parent!CFS::count-table[$count]
         ];
 
         return $!parent.standard without $set;

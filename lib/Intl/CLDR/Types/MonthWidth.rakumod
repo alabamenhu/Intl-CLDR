@@ -1,35 +1,30 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::MonthWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Ordered;
 
-unit class CLDR-MonthWidth is CLDR-Ordered is CLDR-ItemNew;
-
-has $!parent;
-
-#| Creates a new CLDR-MonthContext object
-method new(|c) {
-    self.bless!bind-init: |c;
+#| Creates a new CLDR::MonthWidth object
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+submethod !add-items(\blob, uint64 $offset is rw, \parent --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    for 1 .. 13 -> \id {
-        self.Array::BIND-POS: id, StrDecode::get(blob, $offset);;
-    }
+    self.Array::BIND-POS: $_, StrDecode::get(blob, $offset)
+        for 1..13;
 
     self
 }
 
-# Hardcoded, because only the Hebrew calendar gets this attribute,
+# Hardcoded for now, because only the Hebrew calendar gets this attribute,
 # and only on the 7th month -- for ease of encoding, it's stored in
-# the 13th slot which shouldn't ever be requested.
+# the 13th slot which shouldn't ever be requested otherwise.
 multi method AT-POS($, :$leap!) {
     self.Array::AT-POS(13)
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
-
 method encode(%*month-width) {
     my $result = buf8.new;
     # Fallback patterns are rather complex.  I try to make this code as presentable as possible.

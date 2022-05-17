@@ -1,9 +1,9 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-DecimalFormatSystem;
+unit class CLDR::DecimalFormatSystem;
     use Intl::CLDR::Core;
     also does CLDR::Item;
-    also does Positional; # intentionally *not* CLDR::Ordered
+    #also does Positional; # intentionally *not* CLDR::Ordered
 
 use Intl::CLDR::Types::NumberFormat;
 use Intl::CLDR::Types::NumberFormatSet;
@@ -32,7 +32,7 @@ method new(\blob, uint64 $offset is rw --> CLDR::DecimalFormatSystem) {
     my $count-coefficient  = blob[$offset++];
     my $count-table        = blob.subbuf($offset, 6); $offset += 6;
     my CLDR::NumberFormatSet @sets;
-    @!sets.push: CLDR-NumberFormatSet.new(blob, $offset)
+    @!sets.push: CLDR::NumberFormatSet.new(blob, $offset)
         for ^($!length-coefficient * $!count-coefficient);
 
     self.bless:
@@ -41,6 +41,7 @@ method new(\blob, uint64 $offset is rw --> CLDR::DecimalFormatSystem) {
 }
 
 class Selector does Positional {
+    trusts CLDR::DecimalFormatSystem;
     constant DFS = CLDR::DecimalFormatSystem;
     has Int $!count  is built;
     has Int $!length is built;

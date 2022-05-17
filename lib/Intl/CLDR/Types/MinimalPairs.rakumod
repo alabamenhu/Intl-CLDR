@@ -1,71 +1,53 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::MinimalPairs;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-MinimalPairs is CLDR-Item;
+# You would think stubbing would work, but for some reason it doesn't when namespacing
+# Skip to around line 105 for CLDR::MinimalPairs definition
+#class CLDR::PluralMinimalPairs  { ... }
+#class CLDR::OrdinalMinimalPairs { ... }
+#class CLDR::CaseMinimalPairs    { ... }
+#class CLDR::GenderMinimalPairs  { ... }
 
-class CLDR-PluralMinimalPairs  { ... }
-class CLDR-OrdinalMinimalPairs { ... }
-class CLDR-CaseMinimalPairs    { ... }
-class CLDR-GenderMinimalPairs  { ... }
-
-has CLDR-PluralMinimalPairs  $.plural;
-has CLDR-OrdinalMinimalPairs $.ordinal;
-has CLDR-CaseMinimalPairs    $.case;
-has CLDR-GenderMinimalPairs  $.gender;
-
-#| Creates a new CLDR-DayPeriodContext object
-method new(|c --> CLDR-MinimalPairs) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw  --> CLDR-MinimalPairs) {
-    $!plural  = CLDR-PluralMinimalPairs.new:  blob, $offset;
-    $!ordinal = CLDR-OrdinalMinimalPairs.new: blob, $offset;
-    $!case    = CLDR-CaseMinimalPairs.new:    blob, $offset;
-    $!gender  = CLDR-GenderMinimalPairs.new:  blob, $offset;
-    self
-}
-
-class CLDR-PluralMinimalPairs is CLDR-Item {
+class CLDR::PluralMinimalPairs does CLDR::Item {
     has Str $.zero;
     has Str $.one;
     has Str $.two;
     has Str $.few;
     has Str $.many;
     has Str $.other;
-    method new(|c --> CLDR-PluralMinimalPairs) { self.bless!bind-init: |c }
-    submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-PluralMinimalPairs ) {
+    method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         use Intl::CLDR::Util::StrDecode;
-        $!zero  = StrDecode::get(blob, $offset);
-        $!one   = StrDecode::get(blob, $offset);
-        $!two   = StrDecode::get(blob, $offset);
-        $!few   = StrDecode::get(blob, $offset);
-        $!many  = StrDecode::get(blob, $offset);
-        $!other = StrDecode::get(blob, $offset);
-        self
+        self.bless:
+            zero  => StrDecode::get(blob, $offset),
+            one   => StrDecode::get(blob, $offset),
+            two   => StrDecode::get(blob, $offset),
+            few   => StrDecode::get(blob, $offset),
+            many  => StrDecode::get(blob, $offset),
+            other => StrDecode::get(blob, $offset),
     }
 }
 
-class CLDR-OrdinalMinimalPairs is CLDR-Item {
+class CLDR::OrdinalMinimalPairs does CLDR::Item {
     has Str $.zero;
     has Str $.one;
     has Str $.two;
     has Str $.few;
     has Str $.many;
     has Str $.other;
-    method new(|c --> CLDR-OrdinalMinimalPairs) { self.bless!bind-init: |c }
-    submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-OrdinalMinimalPairs ) {
+    method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         use Intl::CLDR::Util::StrDecode;
-        $!zero  = StrDecode::get(blob, $offset);
-        $!one   = StrDecode::get(blob, $offset);
-        $!two   = StrDecode::get(blob, $offset);
-        $!few   = StrDecode::get(blob, $offset);
-        $!many  = StrDecode::get(blob, $offset);
-        $!other = StrDecode::get(blob, $offset);
-        self
+        self.bless:
+            zero  => StrDecode::get(blob, $offset),
+            one   => StrDecode::get(blob, $offset),
+            two   => StrDecode::get(blob, $offset),
+            few   => StrDecode::get(blob, $offset),
+            many  => StrDecode::get(blob, $offset),
+            other => StrDecode::get(blob, $offset),
     }
 }
 
-class CLDR-CaseMinimalPairs is CLDR-Item {
+class CLDR::CaseMinimalPairs does CLDR::Item {
     has Str $.ablative;
     has Str $.accusative;
     has Str $.comitative;
@@ -80,28 +62,27 @@ class CLDR-CaseMinimalPairs is CLDR-Item {
     has Str $.prepositional;
     has Str $.sociative;
     has Str $.vocative;
-    method new(|c --> CLDR-CaseMinimalPairs) { self.bless!bind-init: |c }
-    submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-CaseMinimalPairs ) {
+    method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         use Intl::CLDR::Util::StrDecode;
-        $!ablative             = StrDecode::get(blob, $offset);
-        $!accusative           = StrDecode::get(blob, $offset);
-        $!comitative           = StrDecode::get(blob, $offset);
-        $!dative               = StrDecode::get(blob, $offset);
-        $!ergative             = StrDecode::get(blob, $offset);
-        $!genitive             = StrDecode::get(blob, $offset);
-        $!instrumental         = StrDecode::get(blob, $offset);
-        $!locative             = StrDecode::get(blob, $offset);
-        $!locativecopulative   = StrDecode::get(blob, $offset);
-        $!nominative           = StrDecode::get(blob, $offset);
-        $!oblique              = StrDecode::get(blob, $offset);
-        $!prepositional        = StrDecode::get(blob, $offset);
-        $!sociative            = StrDecode::get(blob, $offset);
-        $!vocative             = StrDecode::get(blob, $offset);
-        self
+        self.bless:
+            ablative             => StrDecode::get(blob, $offset),
+            accusative           => StrDecode::get(blob, $offset),
+            comitative           => StrDecode::get(blob, $offset),
+            dative               => StrDecode::get(blob, $offset),
+            ergative             => StrDecode::get(blob, $offset),
+            genitive             => StrDecode::get(blob, $offset),
+            instrumental         => StrDecode::get(blob, $offset),
+            locative             => StrDecode::get(blob, $offset),
+            locativecopulative   => StrDecode::get(blob, $offset),
+            nominative           => StrDecode::get(blob, $offset),
+            oblique              => StrDecode::get(blob, $offset),
+            prepositional        => StrDecode::get(blob, $offset),
+            sociative            => StrDecode::get(blob, $offset),
+            vocative             => StrDecode::get(blob, $offset),
     }
 }
 
-class CLDR-GenderMinimalPairs is CLDR-Item {
+class CLDR::GenderMinimalPairs does CLDR::Item {
     has Str $.animate;
     has Str $.common;
     has Str $.feminine;
@@ -109,21 +90,33 @@ class CLDR-GenderMinimalPairs is CLDR-Item {
     has Str $.masculine;
     has Str $.neuter;
     has Str $.personal;
-    method new(|c --> CLDR-GenderMinimalPairs) { self.bless!bind-init: |c }
-    submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-GenderMinimalPairs ) {
+    method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         use Intl::CLDR::Util::StrDecode;
-        $!animate   = StrDecode::get(blob, $offset);
-        $!common    = StrDecode::get(blob, $offset);
-        $!feminine  = StrDecode::get(blob, $offset);
-        $!inanimate = StrDecode::get(blob, $offset);
-        $!masculine = StrDecode::get(blob, $offset);
-        $!neuter    = StrDecode::get(blob, $offset);
-        $!personal  = StrDecode::get(blob, $offset);
-        self
+        self.bless:
+            animate   => StrDecode::get(blob, $offset),
+            common    => StrDecode::get(blob, $offset),
+            feminine  => StrDecode::get(blob, $offset),
+            inanimate => StrDecode::get(blob, $offset),
+            masculine => StrDecode::get(blob, $offset),
+            neuter    => StrDecode::get(blob, $offset),
+            personal  => StrDecode::get(blob, $offset),
     }
 }
 
+has CLDR::PluralMinimalPairs  $.plural;
+has CLDR::OrdinalMinimalPairs $.ordinal;
+has CLDR::CaseMinimalPairs    $.case;
+has CLDR::GenderMinimalPairs  $.gender;
 
+
+#| Creates a new CLDR::MinimalPairs object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    self.bless:
+        plural  => CLDR::PluralMinimalPairs.new(  blob, $offset),
+        ordinal => CLDR::OrdinalMinimalPairs.new( blob, $offset),
+        case    => CLDR::CaseMinimalPairs.new(    blob, $offset),
+        gender  => CLDR::GenderMinimalPairs.new(  blob, $offset),
+}
 
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

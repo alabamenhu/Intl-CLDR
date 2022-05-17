@@ -1,5 +1,5 @@
 unit class CLDR::Languages;
-    also does Associative;
+    also does Associative; # Yes, associative, not CLDR::Unordered
 
 use Intl::CLDR::Types::Language;
 

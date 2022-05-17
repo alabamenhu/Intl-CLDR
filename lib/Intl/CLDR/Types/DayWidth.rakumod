@@ -1,46 +1,27 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::DayWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-DayWidth is CLDR-ItemNew;
-
-has     $!parent;
-has Str $.sun; #= Sunday
-has Str $.mon; #= Monday
-has Str $.tue; #= Tuesday
-has Str $.wed; #= Wednesday
-has Str $.thu; #= Thursday
-has Str $.fri; #= Friday
-has Str $.sat; #= Saturday
+has Str $.sun is aliased-by<sunday>;    #= Sunday
+has Str $.mon is aliased-by<monday>;    #= Monday
+has Str $.tue is aliased-by<tuesday>;   #= Tuesday
+has Str $.wed is aliased-by<wednesday>; #= Wednesday
+has Str $.thu is aliased-by<thursday>;  #= Thursday
+has Str $.fri is aliased-by<friday>;    #= Friday
+has Str $.sat is aliased-by<saturday>;  #= Saturday
 
 #| Creates a new CLDR-DayWidth object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!sun = StrDecode::get(blob, $offset);
-    $!mon = StrDecode::get(blob, $offset);
-    $!tue = StrDecode::get(blob, $offset);
-    $!wed = StrDecode::get(blob, $offset);
-    $!thu = StrDecode::get(blob, $offset);
-    $!fri = StrDecode::get(blob, $offset);
-    $!sat = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        sun => StrDecode::get(blob, $offset),
+        mon => StrDecode::get(blob, $offset),
+        tue => StrDecode::get(blob, $offset),
+        wed => StrDecode::get(blob, $offset),
+        thu => StrDecode::get(blob, $offset),
+        fri => StrDecode::get(blob, $offset),
+        sat => StrDecode::get(blob, $offset),
 }
-constant detour = Map.new: (
-    sunday    => 'sun',
-    monday    => 'mon',
-    tuesday   => 'tue',
-    wednesday => 'wed',
-    thursday  => 'thu',
-    friday    => 'fri',
-    saturday  => 'sat'
-);
-method DETOUR (-->detour) {;}
 
 multi method AT-POS(\pos, :$leap!) {
     self.Array::AT-POS(pos + 128)

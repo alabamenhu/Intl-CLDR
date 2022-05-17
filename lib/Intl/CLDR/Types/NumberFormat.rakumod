@@ -1,22 +1,21 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::NumberFormat;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-NumberFormat is CLDR-ItemNew;
 has Str    $.pattern;
 has uint64 $.type;
 
-#| Creates a new CLDR-NumberFormat object
-method new(|c --> CLDR-NumberFormat) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-NumberFormat) {
+#| Creates a new CLDR::NumberFormat object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!pattern = StrDecode::get(blob, $offset);
-    $!type    = my uint64 $ = blob.read-uint64($offset, LittleEndian);
-    $offset  += 8;
+    my $pattern = StrDecode::get(blob, $offset);
+    my $type    = my uint64 $ = blob.read-uint64($offset, LittleEndian);
+    $offset    += 8;
 
-    self
+    self.bless:
+        :$pattern,
+        :$type
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

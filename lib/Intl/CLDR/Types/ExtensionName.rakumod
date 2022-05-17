@@ -7,25 +7,21 @@
 # to ensure full compatibility        #
 #######################################
 
+unit class CLDR::ExtensionName;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-use Intl::CLDR::Immutability;
-
-unit class CLDR-ExtensionName is CLDR-ItemNew;
 use Intl::CLDR::Types::LocaleExtensionTypes;
-has Str                       $.name;
-has CLDR-LocaleExtensionTypes $.types;
 
-method new(|c) {
-    self.bless!bind-init: |c
-}
+has Str                        $.name;
+has CLDR::LocaleExtensionTypes $.types;
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS ) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!name  = StrDecode::get(blob, $offset);
-    $!types = CLDR-LocaleExtensionTypes.new(blob, $offset);
-
-    self
+    self.bless:
+        name  => StrDecode::get(blob, $offset),
+        types => CLDR::LocaleExtensionTypes.new(blob, $offset);
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
@@ -35,7 +31,7 @@ method encode(%*extension --> buf8) {
     my $result = buf8.new;
 
     $result ~= StrEncode::get(%*extension<name> // '');
-    $result ~= CLDR-LocaleExtensionTypes.encode: %*extension<types> // Hash;
+    $result ~= CLDR::LocaleExtensionTypes.encode: %*extension<types> // Hash;
 
     $result
 }

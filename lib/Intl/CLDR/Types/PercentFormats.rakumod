@@ -1,12 +1,11 @@
-use Intl::CLDR::Immutability;
+# TODO: Complete aliasing of number formats
+unit class CLDR::PercentFormats;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-PercentFormats is CLDR-ItemNew;
-
-use Intl::CLDR::Types::NumberFormat; # for encode only
-use Intl::CLDR::Types::NumberFormatSet; # for encode only
 use Intl::CLDR::Types::PercentFormatSystem;
 
-has CLDR-PercentFormatSystem %!systems;
+has CLDR::PercentFormatSystem %!systems;
 
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
@@ -18,23 +17,23 @@ has CLDR-PercentFormatSystem %!systems;
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-PercentFormats object
-method new(|c --> CLDR-PercentFormats) {
-    self.bless!bind-init: |c;
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-PercentFormats) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $system-count = blob[$offset++];
 
-    %!systems{StrDecode::get(blob, $offset)} := CLDR-PercentFormatSystem.new(blob, $offset)
-    for ^$system-count;
+    %!systems{StrDecode::get(blob, $offset)} := CLDR::PercentFormatSystem.new(blob, $offset)
+        for ^$system-count;
 
     self
 }
 
 #| Percent formats for the Adlam numbering system (adlm)
-method adlam { %!systems<adlm> // %!systems<latn> }
+method adlam is aliased-by<adlm> { %!systems<adlm> // %!systems<latn> }
 
 #| Percent formats for the Ahom numbering system (ahom)
 method ahom { %!systems<ahom> // %!systems<latn> }
@@ -391,7 +390,10 @@ sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*formats) {
+    use Intl::CLDR::Types::NumberFormat;
+    use Intl::CLDR::Types::NumberFormatSet;
     use Intl::CLDR::Util::StrEncode;
+
     my $result = buf8.new: 0; # 0 will be adjusted at end
     my $encoded-systems = 0;
     for <adlm ahom arab arabext armn armnlow bali beng bhks brah cakm cham cyrl
@@ -445,7 +447,7 @@ method encode(%*formats) {
         my $standard = %*formats{$system}<standard><other><0> // %*formats<latn><standard><0>;
 
         $result ~= StrEncode::get($system);                                        # system as the header
-        { my $*pattern-type = 0; $result ~= CLDR-NumberFormat.encode($standard) } # standard pattern
+        { my $*pattern-type = 0; $result ~= CLDR::NumberFormat.encode($standard) } # standard pattern
         $result.append: @length-existence-table.sum;  # lengths in this system
         $result.append: @length-transform>>.Int.Slip; # length conversion table
         $result.append: @count-existence-table.sum;   # counts in this system
@@ -455,7 +457,7 @@ method encode(%*formats) {
             next unless @length-existence-table[$length-cell];
             for <other many few two one zero> Z ^6 -> ($*count, $count-cell) {
                 next unless @count-existence-table[$count-cell];
-                $result ~= CLDR-NumberFormatSet.encode: %*formats{$system}{$*length}{$*count} // %*formats<latn>{$*length}{$*count};
+                $result ~= CLDR::NumberFormatSet.encode: %*formats{$system}{$*length}{$*count} // %*formats<latn>{$*length}{$*count};
             }
         }
         $encoded-systems++;

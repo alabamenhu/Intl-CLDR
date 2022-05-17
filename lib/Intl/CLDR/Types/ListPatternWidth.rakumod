@@ -1,36 +1,22 @@
-use Intl::CLDR::Immutability;
-
 #| A class implementing CLDR's <listPatterns> element, containing information about creating lists.
-unit class CLDR-ListPatternWidth is CLDR-ItemNew;
+unit class CLDR::ListPatternWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-# See https://www.unicode.org/reports/tr35/tr35-general.html#Layout_Elements for information
-
-has     $!parent; #= The CLDR-ListPattern object containing this CLDR-ListPatternWidth
-has Str $.start;  #= Pattern to use between the first two elements
-has Str $.middle; #= Pattern to use between interior elements
-has Str $.end;    #= Pattern to use between the final two elements
-has Str $.two;    #= Pattern for exactly two elements
+has Str $.start;                #= Pattern to use between the first two elements
+has Str $.middle;               #= Pattern to use between interior elements
+has Str $.end;                  #= Pattern to use between the final two elements
+has Str $.two is aliased-by<2>; #= Pattern for exactly two elements
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!start  = StrDecode::get(blob, $offset);
-    $!middle = StrDecode::get(blob, $offset);
-    $!end    = StrDecode::get(blob, $offset);
-    $!two    = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        start  => StrDecode::get(blob, $offset),
+        middle => StrDecode::get(blob, $offset),
+        end    => StrDecode::get(blob, $offset),
+        two    => StrDecode::get(blob, $offset),
 }
-
-constant detour = Map.new: (
-    '2' => 'two'
-);
-method DETOUR (-->detour) {;}
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode($list-pattern-width) {

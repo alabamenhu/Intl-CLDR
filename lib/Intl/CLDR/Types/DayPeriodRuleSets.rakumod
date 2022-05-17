@@ -1,4 +1,4 @@
-unit class CLDR-DayPeriodRuleSets;
+unit class CLDR::DayPeriodRuleSets;
     use Intl::CLDR::Core;
     also does CLDR::Item;
 

@@ -1,6 +1,6 @@
 use Intl::CLDR::Immutability;
 
-unit class CLDR-LanguageNames;
+unit class CLDR::LanguageNames;
     use Intl::CLDR::Core;
     also is CLDR::Unordered;
 

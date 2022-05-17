@@ -1,7 +1,7 @@
-use Intl::CLDR::Immutability;
-
-#| A class implementing CLDR's <plurals> element
-unit class CLDR-PluralRuleSet is CLDR-ItemNew;
+#| A class implementing CLDR's <pluralRuleSet> element
+unit class CLDR::PluralRuleSet;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 has Str $.zero;  #= The rule for when a number follows 'zero' formatting
 has Str $.one;   #= The rule for when a number follows 'one' formatting
@@ -10,20 +10,16 @@ has Str $.few;   #= The rule for when a number follows 'few' formatting
 has Str $.many;  #= The rule for when a number follows 'many' formatting
 
 #| Creates a new CLDR-Plurals object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!zero = StrDecode::get(blob, $offset);
-    $!one  = StrDecode::get(blob, $offset);
-    $!two  = StrDecode::get(blob, $offset);
-    $!few  = StrDecode::get(blob, $offset);
-    $!many = StrDecode::get(blob, $offset);
+    self.bless:
+        zero => StrDecode::get(blob, $offset),
+        one  => StrDecode::get(blob, $offset),
+        two  => StrDecode::get(blob, $offset),
+        few  => StrDecode::get(blob, $offset),
+        many => StrDecode::get(blob, $offset),
 
-    self
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

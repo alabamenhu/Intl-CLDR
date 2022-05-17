@@ -1,6 +1,7 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-ScriptNames is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR::ScriptNames;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 #######################################
 #  Attributes currently too numerous  #
@@ -17,11 +18,11 @@ unit class CLDR-ScriptNames is CLDR-ItemNew is CLDR-Unordered;
 role HasStandAloneForm { has    $.stand-alone          }
 role NoAlternateForms  { method   stand-alone { self } }
 
-method new(|c) {
-    self.bless!bind-init: |c
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];

@@ -12,7 +12,7 @@ has CLDR::CyclicNameSet $.zodiacs;
 has CLDR::CyclicNameSet $.solar-terms is aliased-by<solarTerms>;
 
 #| Creates a new CLDR::CyclicNameSets object
-method new(\blob, uint64 $offset is rw, \parent) {
+method new(\blob, uint64 $offset is rw) {
     self.bless:
         years       => CLDR::CyclicNameSet.new(blob, $offset),
         months      => CLDR::CyclicNameSet.new(blob, $offset),
@@ -29,23 +29,23 @@ method encode(%*cyclic-name-sets) {
     my $*cyclic-name-set;
 
     $*cyclic-name-set = 'years';
-    $result ~= CLDR-CyclicNameSet.encode: %*cyclic-name-sets<years> // Hash;
+    $result ~= CLDR::CyclicNameSet.encode: %*cyclic-name-sets<years> // Hash;
     $*cyclic-name-set = 'months';
-    $result ~= CLDR-CyclicNameSet.encode: %*cyclic-name-sets<months> // Hash;
+    $result ~= CLDR::CyclicNameSet.encode: %*cyclic-name-sets<months> // Hash;
     $*cyclic-name-set = 'days';
-    $result ~= CLDR-CyclicNameSet.encode: %*cyclic-name-sets<days> // Hash;
+    $result ~= CLDR::CyclicNameSet.encode: %*cyclic-name-sets<days> // Hash;
     $*cyclic-name-set = 'dayParts';
-    $result ~= CLDR-CyclicNameSet.encode: %*cyclic-name-sets<dayParts> // Hash;
+    $result ~= CLDR::CyclicNameSet.encode: %*cyclic-name-sets<dayParts> // Hash;
     $*cyclic-name-set = 'zodiacs';
-    $result ~= CLDR-CyclicNameSet.encode: %*cyclic-name-sets<zodiacs> // Hash;
+    $result ~= CLDR::CyclicNameSet.encode: %*cyclic-name-sets<zodiacs> // Hash;
     $*cyclic-name-set = 'solarTerms';
-    $result ~= CLDR-CyclicNameSet.encode: %*cyclic-name-sets<solarTerms> // Hash;
+    $result ~= CLDR::CyclicNameSet.encode: %*cyclic-name-sets<solarTerms> // Hash;
 
     $result
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    CLDR-CyclicNameSet.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('cyclicNameSet');
+    CLDR::CyclicNameSet.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('cyclicNameSet');
 }
 
 #>>>>> # GENERATOR

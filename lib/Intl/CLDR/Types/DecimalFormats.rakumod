@@ -63,7 +63,7 @@ method brahmi is aliased-by<brah> { %!systems<brah> // %!systems<latn> }
 method chakma is aliased-by<cakm> { %!systems<cakm> // %!systems<latn> }
 
 #| Decimal formats for the Cham numbering system (cham)
-method cham is aliased-by<cham> { %!systems<cham> // %!systems<latn> }
+method cham { %!systems<cham> // %!systems<latn> }
 
 #| Decimal formats for the Cyrillic numbering system (cyrl)
 method cyrillic is aliased-by<cyrl> { %!systems<cyrl> // %!systems<latn> }
@@ -75,7 +75,7 @@ method devanagari is aliased-by<deva>{ %!systems<deva> // %!systems<latn> }
 method dives-akuru is aliased-by<diak> { %!systems<diak> // %!systems<latn> }
 
 #| Decimal formats for the Ethiopic numbering system (ethi)
-method ethiopic is aliased-by<ethiopic> { %!systems<ethi> // %!systems<latn> }
+method ethiopic is aliased-by<ethi> { %!systems<ethi> // %!systems<latn> }
 
 #| Decimal formats for the Financial numbering system (finance)
 method financial is aliased-by<finance> { %!systems<finance> // %!systems<latn> }
@@ -189,7 +189,7 @@ method math-sans is aliased-by<mathsans> { %!systems<mathsans> // %!systems<latn
 method malayalam is aliased-by<mlym> { %!systems<mlym> // %!systems<latn> }
 
 #| Decimal formats for the Modi numbering system (modi)
-method modi is aliased-by<modi> { %!systems<modi> // %!systems<latn> }
+method modi { %!systems<modi> // %!systems<latn> }
 
 #| Decimal formats for the Mongolian numbering system (mong)
 method mongolian is aliased-by<mong> { %!systems<mong> // %!systems<latn> }
@@ -231,7 +231,7 @@ method osmanya is aliased-by<osma> { %!systems<osma> // %!systems<latn> }
 method hanifi-rohingya is aliased-by<rohg> { %!systems<rohg> // %!systems<latn> }
 
 #| Decimal formats for the Roman upper case numbering system (roman)
-method roman is aliased-by<roman> { %!systems<roman> // %!systems<latn> }
+method roman { %!systems<roman> // %!systems<latn> }
 
 #| Decimal formats for the Roman lowercase numbering system (romanlow)
 method roman-lc is aliased-by<romanlow> { %!systems<romanlow> // %!systems<latn> }
@@ -293,7 +293,6 @@ method warang-citi is aliased-by<wara>{ %!systems<wara> // %!systems<latn> }
 #| Decimal formats for the Wancho numbering system (wcho)
 method wancho is aliased-by<wcho> { %!systems<wcho> // %!systems<latn> }
 
-method DETOUR(-->detour) {;}
 sub rsay ($text) { say "\x001b[31m$text\x001b[0m" }
 sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 

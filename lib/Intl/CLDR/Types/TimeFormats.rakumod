@@ -1,29 +1,21 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-TimeFormats is CLDR-ItemNew;
+unit class CLDR::TimeFormats;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::TimeFormat;
 
-has $!parent;
-has CLDR-TimeFormat $.full;
-has CLDR-TimeFormat $.long;
-has CLDR-TimeFormat $.medium;
-has CLDR-TimeFormat $.short;
+has CLDR::TimeFormat $.full;
+has CLDR::TimeFormat $.long;
+has CLDR::TimeFormat $.medium;
+has CLDR::TimeFormat $.short;
 
 #| Creates a new CLDR-Times object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
-    $!full   = CLDR-TimeFormat.new: blob, $offset, self;
-    $!long   = CLDR-TimeFormat.new: blob, $offset, self;
-    $!medium = CLDR-TimeFormat.new: blob, $offset, self;
-    $!short  = CLDR-TimeFormat.new: blob, $offset, self;
-
-    self
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    self.bless:
+        full   => CLDR::TimeFormat.new(blob, $offset),
+        long   => CLDR::TimeFormat.new(blob, $offset),
+        medium => CLDR::TimeFormat.new(blob, $offset),
+        short  => CLDR::TimeFormat.new(blob, $offset),
 }
 
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
@@ -33,13 +25,13 @@ method encode(%time-formats) {
     my $*time-format-width;
 
     $*time-format-width = 'full';
-    $result ~= CLDR-TimeFormat.encode: %time-formats<full>;
+    $result ~= CLDR::TimeFormat.encode: %time-formats<full>;
     $*time-format-width = 'long';
-    $result ~= CLDR-TimeFormat.encode: %time-formats<long>;
+    $result ~= CLDR::TimeFormat.encode: %time-formats<long>;
     $*time-format-width = 'medium';
-    $result ~= CLDR-TimeFormat.encode: %time-formats<medium>;
+    $result ~= CLDR::TimeFormat.encode: %time-formats<medium>;
     $*time-format-width = 'short';
-    $result ~= CLDR-TimeFormat.encode: %time-formats<short>;
+    $result ~= CLDR::TimeFormat.encode: %time-formats<short>;
 
     $result;
 }

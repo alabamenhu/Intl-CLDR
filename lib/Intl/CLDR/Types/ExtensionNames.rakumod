@@ -8,9 +8,10 @@
 #######################################
 
 
-use Intl::CLDR::Immutability;
-
-unit class CLDR-ExtensionNames is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR::ExtensionNames;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 use Intl::CLDR::Types::ExtensionName;
 
@@ -19,19 +20,18 @@ use Intl::CLDR::Types::ExtensionName;
 # to define explicitly, done via hash #
 #######################################
 
-method new(|c) {
-    self.bless!bind-init: |c
+method new(|c --> ::?CLASS ) {
+    self.bless!add-items: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS ) {
     use Intl::CLDR::Util::StrDecode;
     my $count = blob[$offset++];
 
-    for ^$count {
-        self.Hash::BIND-KEY:
-                StrDecode::get(blob, $offset),
-                CLDR-ExtensionName.new(blob, $offset);
-    }
+    self.Hash::BIND-KEY:
+            StrDecode::get(blob, $offset),
+            CLDR::ExtensionName.new(blob, $offset)
+    for ^$count;
 
     self
 }
@@ -46,7 +46,7 @@ method encode(%*extensions --> buf8) {
 
     for %*extensions<> {
         $result ~= StrEncode::get(.key || die "Odd key value for localeDisplayName extension");
-        $result ~= CLDR-ExtensionName.encode: .value;
+        $result ~= CLDR::ExtensionName.encode: .value;
     }
 
     $result

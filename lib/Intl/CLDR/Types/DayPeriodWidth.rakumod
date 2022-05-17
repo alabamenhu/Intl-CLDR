@@ -1,9 +1,7 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::DayPeriodWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-
-unit class CLDR-DayPeriodWidth is CLDR-ItemNew;
-
-has $!parent;
 has Str $.noon;       #= The special name of 12:00 noon
 has Str $.midnight;   #= The special name of 0:00/24:00 midnight
 has Str $.am;         #= The generic term for times before noon
@@ -18,29 +16,22 @@ has Str $.night1;     #= The name for an (early) night period
 has Str $.night2;     #= The name for a (late) night period
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!am         = StrDecode::get(blob, $offset);
-    $!pm         = StrDecode::get(blob, $offset);
-    $!noon       = StrDecode::get(blob, $offset);
-    $!midnight   = StrDecode::get(blob, $offset);
-    $!morning1   = StrDecode::get(blob, $offset);
-    $!morning2   = StrDecode::get(blob, $offset);
-    $!afternoon1 = StrDecode::get(blob, $offset);
-    $!afternoon2 = StrDecode::get(blob, $offset);
-    $!evening1   = StrDecode::get(blob, $offset);
-    $!evening2   = StrDecode::get(blob, $offset);
-    $!night1     = StrDecode::get(blob, $offset);
-    $!night2     = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        am         => StrDecode::get(blob, $offset),
+        pm         => StrDecode::get(blob, $offset),
+        noon       => StrDecode::get(blob, $offset),
+        midnight   => StrDecode::get(blob, $offset),
+        morning1   => StrDecode::get(blob, $offset),
+        morning2   => StrDecode::get(blob, $offset),
+        afternoon1 => StrDecode::get(blob, $offset),
+        afternoon2 => StrDecode::get(blob, $offset),
+        evening1   => StrDecode::get(blob, $offset),
+        evening2   => StrDecode::get(blob, $offset),
+        night1     => StrDecode::get(blob, $offset),
+        night2     => StrDecode::get(blob, $offset),
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

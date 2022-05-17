@@ -1,10 +1,12 @@
-use Intl::CLDR::Immutability;
+# TODO: finish aliasing all of the methods here
 
-unit class CLDR-MiscellaneousPatterns is CLDR-ItemNew;
+unit class CLDR::MiscellaneousPatterns;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::MiscellaneousPatternSet;
 
-has CLDR-MiscellaneousPatternSet %!systems;
+has CLDR::MiscellaneousPatternSet %!systems;
 
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
@@ -16,74 +18,74 @@ has CLDR-MiscellaneousPatternSet %!systems;
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-PercentFormats object
-method new(|c --> CLDR-MiscellaneousPatterns) {
-    self.bless!bind-init: |c;
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> CLDR-MiscellaneousPatterns) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $system-count = blob[$offset++];
 
-    %!systems{StrDecode::get(blob, $offset)} := CLDR-MiscellaneousPatternSet.new(blob, $offset)
+    %!systems{StrDecode::get(blob, $offset)} := CLDR::MiscellaneousPatternSet.new(blob, $offset)
         for ^$system-count;
 
     self
 }
 
 #| Percent formats for the Adlam numbering system (adlm)
-method adlam { %!systems<adlm> // %!systems<latn> }
+method adlam is aliased-by<adlm> { %!systems<adlm> // %!systems<latn> }
 
 #| Percent formats for the Ahom numbering system (ahom)
 method ahom { %!systems<ahom> // %!systems<latn> }
 
 #| Percent formats for the Arabic-Indic numbering system (arab)
-method arabic { %!systems<arab> // %!systems<latn> }
+method arabic is aliased-by<arab> { %!systems<arab> // %!systems<latn> }
 
 #| Percent formats for the Extended Arabic-Indic numbering system (arabext)
-method arabic-extended { %!systems<arabext> // %!systems<latn> }
+method arabic-extended is aliased-by<arabext> { %!systems<arabext> // %!systems<latn> }
 
 #| Percent formats for the Armenian upper case numbering system (armn)
-method armenian { %!systems<armn> // %!systems<latn> }
+method armenian is aliased-by<armn> { %!systems<armn> // %!systems<latn> }
 
 #| Percent formats for the Armenian lower case numbering system (armnlow)
-method armenian-lc { %!systems<armnlow> // %!systems<latn> }
+method armenian-lc is aliased-by<armnlow> { %!systems<armnlow> // %!systems<latn> }
 
 #| Percent formats for the Balinese numbering system (bali)
-method balinese { %!systems<bali> // %!systems<latn> }
+method balinese is aliased-by<bali> { %!systems<bali> // %!systems<latn> }
 
 #| Percent formats for the Bengali numbering system (beng)
-method bengali { %!systems<beng> // %!systems<latn> }
+method bengali is aliased-by<beng> { %!systems<beng> // %!systems<latn> }
 
 #| Percent formats for the Bhaiksuki numbering system (bhks)
-method bhaiksuki { %!systems<bhks> // %!systems<latn> }
+method bhaiksuki is aliased-by<bhks> { %!systems<bhks> // %!systems<latn> }
 
 #| Percent formats for the Brahmi numbering system (brah)
-method brahmi { %!systems<brah> // %!systems<latn> }
+method brahmi is aliased-by<brah> { %!systems<brah> // %!systems<latn> }
 
 #| Percent formats for the Chakma numbering system (cakm)
-method chakma { %!systems<cakm> // %!systems<latn> }
+method chakma is aliased-by<cakm> { %!systems<cakm> // %!systems<latn> }
 
 #| Percent formats for the Cham numbering system (cham)
 method cham { %!systems<cham> // %!systems<latn> }
 
 #| Percent formats for the Cyrillic numbering system (cyrl)
-method cyrillic { %!systems<cyrl> // %!systems<latn> }
+method cyrillic is aliased-by<cyrl> { %!systems<cyrl> // %!systems<latn> }
 
 #| Percent formats for the Devanagari numbering system (deva)
-method devanagari { %!systems<deva> // %!systems<latn> }
+method devanagari is aliased-by<deva> { %!systems<deva> // %!systems<latn> }
 
 #| Percent formats for the Dives Akuru numbering system (diak)
-method dives-akuru { %!systems<diak> // %!systems<latn> }
+method dives-akuru is aliased-by<diak> { %!systems<diak> // %!systems<latn> }
 
 #| Percent formats for the Ethiopic numbering system (ethi)
-method ethiopic { %!systems<ethi> // %!systems<latn> }
+method ethiopic is aliased-by<ethi> { %!systems<ethi> // %!systems<latn> }
 
 #| Percent formats for the Financial numbering system (finance)
-method financial { %!systems<finance> // %!systems<latn> }
+method financial is aliased-by<finance> { %!systems<finance> // %!systems<latn> }
 
 #| Percent formats for the Full width numbering system (fullwide)
-method full-width { %!systems<fullwide> // %!systems<latn> }
+method full-width is aliased-by<fullwide> { %!systems<fullwide> // %!systems<latn> }
 
 #| Percent formats for the Georgian numbering system (geor)
 method georgian { %!systems<geor> // %!systems<latn> }
@@ -296,95 +298,6 @@ method warang-citi { %!systems<wara> // %!systems<latn> }
 method wancho { %!systems<wcho> // %!systems<latn> }
 
 
-
-constant detour = Map.new: (
-adlm =>            'adlam',
-arab =>            'arabic',
-arabext =>         'arabic-extended',
-armn =>            'armenian',
-armnlow =>         'armenian-lc',
-bali =>            'balinese',
-beng =>            'bengali',
-bhks =>            'bhaiksuki',
-brah =>            'brahmi',
-cakm =>            'chakma',
-cham =>            'cham',
-cyrl =>            'cyrillic',
-deva =>            'devanagari',
-diak =>            'dives-akuru',
-ethi =>            'ethiopic',
-finance =>         'financial',
-fullwide =>        'full-width',
-geor =>            'georgian',
-gong =>            'gunjala-gondi',
-gonm =>            'masaram-gondi',
-grek =>            'greek',
-greklow =>         'greek-lc',
-gujr =>            'gujarati',
-guru =>            'gurmukhi',
-hanidays =>        'han-days',
-hanidec =>         'han-decimal',
-hans =>            'han-simplified',
-hansfin =>         'han-simplified-financial',
-hant =>            'han-traditional',
-hantfin =>         'han-traditional-financial',
-hebr =>            'hebrew',
-hmng =>            'pahawh-hmong',
-hmnp =>            'nyiakeng-puachue-hmong',
-java =>            'javanese',
-jpan =>            'japanese',
-jpanfin =>         'japanese-financial',
-jpanyear =>        'japanese-year',
-kali =>            'kayah-li',
-khmr =>            'khmer',
-knda =>            'kannada',
-lana =>            'lanna-hora',
-lanatham =>        'lanna-tham',
-laoo =>            'lao',
-latn =>            'latin',
-lepc =>            'lepcha',
-limb =>            'limbu',
-mathbold =>        'math-bold',
-mathdbl =>         'math-double',
-mathmono =>        'math-mono',
-mathsanb =>        'math-sans-bold',
-mathsans =>        'math-sans',
-mlym =>            'malayalam',
-modi =>            'modi',
-mong =>            'mongolian',
-mroo =>            'mro',
-mtei =>            'meetei-mayek',
-mymr =>            'myanmar',
-mymrshan  => 'myanmar-shan',
-mymrtlng  => 'myanmar-tai-laing',
-nkoo      => 'nko',
-olck      => 'ol-chiki',
-orya      => 'oriya',
-osma      => 'osmanya',
-rohg      => 'hanifi-rohingya',
-romanlow  => 'roman-lc',
-saur      => 'saurashtra',
-segment   => 'segmented',
-shrd      => 'sharada',
-sind      => 'khudawadi',
-sinh      => 'sinhala',
-sora      => 'sora-sompeng',
-sund      => 'sundanese',
-takr      => 'takri',
-talu      => 'new-tai-lue',
-taml      => 'tamil',
-tamldec   => 'tamil-decimal',
-telu      => 'telugu',
-thai      => 'thai',
-tirh      => 'tirhuta',
-tibt      => 'tibetan',
-traditio  => 'traditional',
-vaii      => 'vai',
-wara      => 'warang-citi',
-wcho      => 'wancho',
-);
-method DETOUR(-->detour) {;}
-
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%*misc-patterns) {
     use Intl::CLDR::Util::StrEncode;
@@ -397,7 +310,7 @@ method encode(%*misc-patterns) {
     for %*misc-patterns.keys -> $type {
         next unless %*misc-patterns{$type}; # all are present, but not all have data post-parsing
         $result ~= StrEncode::get($type);
-        $result ~= CLDR-MiscellaneousPatternSet.encode(%*misc-patterns{$type});
+        $result ~= CLDR::MiscellaneousPatternSet.encode(%*misc-patterns{$type});
         $count++;
     }
 
@@ -417,7 +330,7 @@ method encode(%*misc-patterns) {
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     # We are passed the symbol set directly, so the xml is intentionally passed through
-    CLDR-MiscellaneousPatternSet.parse: (base{$_} //= Hash.new), xml
+    CLDR::MiscellaneousPatternSet.parse: (base{$_} //= Hash.new), xml
         with xml<numberSystem>; # ← one will have no type, that's the fallback, which aliases to latn, so we ignore it︎
 }
 #>>>>> # GENERATOR

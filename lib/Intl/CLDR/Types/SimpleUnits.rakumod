@@ -2,7 +2,6 @@
 #| The keys omit the measurement type, e.g., 'meter' not 'length-meter'
 unit class CLDR::SimpleUnits;
     use Intl::CLDR::Core;
-
     also does CLDR::Item;
     also is   CLDR::Unordered;
 

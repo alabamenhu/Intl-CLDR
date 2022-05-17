@@ -1,8 +1,7 @@
 #| A container class holding CLDR's <calendar> elements.
-unit class CLDR-Calendars is CLDR-ItemNew;
-
-use       Intl::CLDR::Core;
-also does CLDR::Item;
+unit class CLDR::Calendars;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::Calendar;
 
@@ -45,7 +44,6 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         japanese            => CLDR::Calendar.new: blob, $offset,
         persian             => CLDR::Calendar.new: blob, $offset,
         roc                 => CLDR::Calendar.new: blob, $offset,
-
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
@@ -68,7 +66,7 @@ method encode(%*calendars) {
          islamic islamic-civil islamic-rgsa islamic-tbla islamic-umalqura japanese
          persian roc> -> $*calendar-type {
 
-        $result ~= CLDR-Calendar.encode: %*calendars{$*calendar-type}
+        $result ~= CLDR::Calendar.encode: %*calendars{$*calendar-type}
 
     }
 
@@ -76,6 +74,6 @@ method encode(%*calendars) {
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    CLDR-Calendar.parse: (base{.<type>} //= Hash.new ), $_ for xml.&elems('calendar')
+    CLDR::Calendar.parse: (base{.<type>} //= Hash.new ), $_ for xml.&elems('calendar')
 }
 #>>>>> # GENERATOR

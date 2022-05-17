@@ -7,29 +7,29 @@
 # to ensure full compatibility        #
 #######################################
 
-
-use Intl::CLDR::Immutability;
-
-unit class CLDR-LocaleExtensionTypes is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR::LocaleExtensionTypes;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 #######################################
 #  Attributes currently too variable  #
 # to define explicitly, done via hash #
 #######################################
 
-method new(|c) {
-    self.bless!bind-init: |c
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
+
     my $count = blob[$offset++];
 
-    for ^$count {
-        self.Hash::BIND-KEY:
-                StrDecode::get(blob, $offset),
-                StrDecode::get(blob, $offset);
-    }
+    self.Hash::BIND-KEY:
+            StrDecode::get(blob, $offset),
+            StrDecode::get(blob, $offset)
+    for ^$count;
 
     self
 }

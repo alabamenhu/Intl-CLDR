@@ -1,8 +1,7 @@
 #| A class implementing CLDR's <units> element, containing information about units of measurement.
 unit class CLDR::Units;
-
-use       Intl::CLDR::Core;
-also does CLDR::Item;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 use Intl::CLDR::Types::SimpleUnits;
 use Intl::CLDR::Types::CompoundUnits;
@@ -16,12 +15,11 @@ has CLDR::Coordinates   $.coordinate; #= Patterns for formatting coordinates (°
 
 #| Creates a new CLDR::Units object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
-    my $simple     = CLDR::SimpleUnits.new:   blob, $offset;
-    my $compound   = CLDR::CompoundUnits.new: blob, $offset;
-    my $duration   = CLDR::Durations.new:     blob, $offset;
-    my $coordinate = CLDR::Coordinates.new:   blob, $offset;
-
-    self.bless: :$simple, :$compound, :$duration, :$coordinate;
+    self.bless:
+        simple     => CLDR::SimpleUnits.new(   blob, $offset),
+        compound   => CLDR::CompoundUnits.new( blob, $offset),
+        duration   => CLDR::Durations.new(     blob, $offset),
+        coordinate => CLDR::Coordinates.new(   blob, $offset),
 }
 
 ##`<<<<< # GENERATOR This method should only be uncommented out by the parsing script

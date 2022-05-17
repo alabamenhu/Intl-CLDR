@@ -1,6 +1,5 @@
 unit class CLDR::Subdivision;
     use Intl::CLDR::Core;
-
     also does CLDR::Item;
     also does Stringy;
     also is CLDR::Unordered;

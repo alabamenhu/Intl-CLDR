@@ -1,34 +1,21 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::MonthPatternWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-unit class CLDR-MonthPatternWidth is CLDR-ItemNew;
-
-has     $!parent;
-has Str $.leap;
-has Str $.after-leap; #= The 'standardAfterLeap' from CLDR
+has Str $.leap;;
+has Str $.after-leap is aliased-by<afterLeap>
+                     is aliased-by<standard-after-leap>
+                     is aliased-by<standardAfterLeap>; #= The 'standardAfterLeap' from CLDR
 has Str $.combined;
 
 #| Creates a new CLDR-MonthContext object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!leap       = StrDecode::get(blob, $offset);
-    $!after-leap = StrDecode::get(blob, $offset);
-    $!combined   = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        leap       => StrDecode::get(blob, $offset),
+        after-leap => StrDecode::get(blob, $offset),
+        combined   => StrDecode::get(blob, $offset),
 }
-constant detour = Map.new: (
-    standardAfterLeap   => 'after-leap',
-    afterLeap           => 'after-leap',
-    standard-after-leap => 'after-leap'
-);
-method DETOUR (-->detour) {;}
 
 ##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
 method encode(\hash) {

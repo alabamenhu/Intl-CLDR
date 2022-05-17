@@ -1,22 +1,18 @@
-use Intl::CLDR::Immutability;
+unit class CLDR::QuarterWidth;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Ordered;
 
-unit class CLDR-QuarterWidth is CLDR-Ordered is CLDR-ItemNew;
-
-has                 $!parent;
-
-#| Creates a new CLDR-QuarterContext object
-method new(|c) {
-    self.bless!bind-init: |c;
+#| Creates a new CLDR::QuarterWidth object
+method new(|c --> ::?CLASS) {
+    self.bless!add-items: |c;
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw, \parent) {
-    $!parent := parent;
-
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    for 1..4 -> \id {
-        self.Array::BIND-POS: id, StrDecode::get(blob, $offset);;
-    }
+    self.Array::BIND-POS: $_, StrDecode::get(blob, $offset)
+        for 1..4;
 
     self
 }

@@ -1,6 +1,7 @@
-use Intl::CLDR::Immutability;
-
-unit class CLDR-TerritoryNames is CLDR-ItemNew is CLDR-Unordered;
+unit class CLDR::TerritoryNames;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
+    also is   CLDR::Unordered;
 
 #######################################
 #  Attributes currently too numerous  #
@@ -17,11 +18,11 @@ unit class CLDR-TerritoryNames is CLDR-ItemNew is CLDR-Unordered;
 role HasVariantForm { has $.variant; method short {self.Str} }
 role HasShortForm   { has $.short; method variant {self.Str} }
 role NoAlternateForms { method short { self}; method variant { self } }
-method new(|c) {
-    self.bless!bind-init: |c
+method new(|c --> ::?CLASS ) {
+    self.bless!add-items: |c
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++] * 256 + blob[$offset++];

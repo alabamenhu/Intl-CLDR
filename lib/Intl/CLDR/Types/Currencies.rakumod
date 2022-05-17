@@ -26,8 +26,8 @@ submethod !add-keys(\blob, uint64 $offset is rw) {
 
     my $count = blob[$offset++] * 256 + blob[$offset++];
     self.Hash::BIND-KEY:
-        StrDecode::get(   blob,  $offset),            # the currency code
-        CLDR-Currency.new(blob, ($offset -= 2), self) # the data, accounting for index str of two bytes
+        StrDecode::get(   blob,  $offset),        # the currency code
+        CLDR::Currency.new(blob, ($offset -= 2) ) # the data, accounting for index str of two bytes
             for ^$count;
 
     self
@@ -44,13 +44,13 @@ method encode(%*currencies) {
 
     use Intl::CLDR::Util::StrEncode;
     for %*currencies.kv -> $*currency-code, %*currency-data {
-        $result ~= CLDR-Currency.encode( %*currency-data // Hash.new )
+        $result ~= CLDR::Currency.encode( %*currency-data // Hash.new )
     }
 
     $result
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    CLDR-Currency.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('currency');
+    CLDR::Currency.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('currency');
 }
 #>>>>> # GENERATOR

@@ -1,32 +1,21 @@
-use Intl::CLDR::Immutability;
-
 #| A class implementing CLDR's <orientation> element, containing information about text and document flow.
-unit class CLDR-Orientation is CLDR-ItemNew;
+unit class CLDR::Orientation;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
 
-has     $!parent;          #= The CLDR-Base object containing this CLDR-Delimiter
-has Str $.line-order;      #= The direction of text flow from one line to another
-has Str $.character-order; #= The direction of text flow from one letter to another
+has Str $.line-order      is aliased-by<lineOrder>;      #= The direction of text flow from one line to another
+has Str $.character-order is aliased-by<characterOrder>; #= The direction of text flow from one letter to another
 
-#| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
+#| Creates a new CLDR::Orientation object
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
-    $!line-order = StrDecode::get(blob, $offset);
-    $!character-order = StrDecode::get(blob, $offset);
-
-    self
+    self.bless:
+        line-order      => StrDecode::get(blob, $offset),
+        character-order => StrDecode::get(blob, $offset),
 }
 
-constant detour = Map.new: (
-    lineOrder => 'line-order',
-    characterOrder => 'characterOrder'
-);
-method DETOUR (-->detour) {;}
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
 method encode(%orientation) {
     my $result = buf8.new;

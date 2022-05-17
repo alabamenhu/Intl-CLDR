@@ -1,4 +1,4 @@
-unit class CLDR-CyclicNameSet;
+unit class CLDR::CyclicNameSet;
     use Intl::CLDR::Core;
     also does CLDR::Item;
 
@@ -8,7 +8,7 @@ has CLDR::CyclicNameContext $.stand-alone is aliased-by<standAlone>;
 has CLDR::CyclicNameContext $.format;
 
 #| Creates a new CLDR-Dates object
-method new(\blob, uint64 $offset is rw, \parent) {
+method new(\blob, uint64 $offset is rw) {
     self.bless:
         stand-alone => CLDR::CyclicNameContext.new(blob, $offset),
         format      => CLDR::CyclicNameContext.new(blob, $offset),

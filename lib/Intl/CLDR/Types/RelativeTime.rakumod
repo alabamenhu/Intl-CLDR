@@ -1,10 +1,8 @@
-use Intl::CLDR::Immutability;
+#| A class implementing CLDR's <relativeTime> element, containing information about formatting dates.
+unit class CLDR::RelativeTime;
+    use Intl::CLDR::Core;
+    also does CLDR::Item;
 
-#| A class implementing CLDR's <dates> element, containing information about formatting dates.
-unit class CLDR-RelativeTime is CLDR-ItemNew;
-
-
-has     $!parent; #= The CLDR-FieldWidth object containing this CLDR-RelativeTime
 has Str $.zero;
 has Str $.one;
 has Str $.two;
@@ -13,22 +11,15 @@ has Str $.many;
 has Str $.other;
 
 #| Creates a new CLDR-Dates object
-method new(|c) {
-    self.bless!bind-init: |c;
-}
-
-submethod !bind-init(\blob, uint64 $offset is rw) {
-
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
-    $!zero  = StrDecode::get( blob, $offset);
-    $!one   = StrDecode::get( blob, $offset);
-    $!two   = StrDecode::get( blob, $offset);
-    $!few   = StrDecode::get( blob, $offset);
-    $!many  = StrDecode::get( blob, $offset);
-    $!other = StrDecode::get( blob, $offset);
-
-    self
+    self.bless:
+        zero  => StrDecode::get(blob, $offset),
+        one   => StrDecode::get(blob, $offset),
+        two   => StrDecode::get(blob, $offset),
+        few   => StrDecode::get(blob, $offset),
+        many  => StrDecode::get(blob, $offset),
+        other => StrDecode::get(blob, $offset),
 }
 
 ##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script

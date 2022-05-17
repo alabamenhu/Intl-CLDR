@@ -18,7 +18,7 @@ our sub reset (--> Int) {
     $new
 }
 
-# Generate the string to be interpreted by StrDecode::prepare()
+#| Generate the string to be interpreted by StrDecode::prepare()
 our sub output (\delimiter = DELIMITER --> Str) {
     @strings[$*STR-ENCODE].join: delimiter
 }
@@ -44,4 +44,3 @@ our sub get(Str() $string --> buf8) {
         $index mod 256,
         $index div 256
 }
-

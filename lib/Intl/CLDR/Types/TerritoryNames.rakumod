@@ -49,7 +49,7 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*territories --> buf8) {
     # a dynamic variable is normally used, in case fallbacks need to refer back
     use Intl::CLDR::Util::StrEncode;
@@ -91,4 +91,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     base{.<type> ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('territory');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

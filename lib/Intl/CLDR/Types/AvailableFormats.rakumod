@@ -33,7 +33,7 @@ submethod !bind-init(\blob, uint64 $offset is rw --> ::?CLASS) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*formats) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -57,4 +57,4 @@ method parse(\base, \xml) {
     base{.<id>} = contents $_ for xml.&elems('dateFormatItem')
 }
 
-#>>>>> # GENERATOR
+>>>>># GENERATOR

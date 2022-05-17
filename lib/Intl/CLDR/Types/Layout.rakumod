@@ -16,7 +16,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         $!orientation = CLDR::Orientation.new(blob, $offset)
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%layout) {
     my $result = buf8.new;
     $result ~= CLDR::Orientation.encode(%layout<orientation> // Hash);
@@ -26,4 +26,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::Orientation.parse: (base<orientation> //= Hash.new), $_ with xml.&elem('orientation');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

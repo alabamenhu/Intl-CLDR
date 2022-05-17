@@ -16,7 +16,7 @@ method new(\blob, uint64 $offset is rw) {
         wide        => CLDR::CyclicNameWidth.new(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*cyclic-name-width) {
     my $result = buf8.new;
 
@@ -35,4 +35,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::CyclicNameWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('cyclicNameWidth');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

@@ -39,7 +39,7 @@ method from(Str $from) {
     Selector.new(%eqv{$from}, $!data)
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%ranges) {
 
     # Combinations default to "other" (0)
@@ -71,4 +71,4 @@ method parse(\base, \xml) {
         base<other-other> = 'other'
     }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

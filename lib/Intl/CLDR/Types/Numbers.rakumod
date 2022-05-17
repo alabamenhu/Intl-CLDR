@@ -40,7 +40,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*numbers) {
     my $result = buf8.new;
 
@@ -72,4 +72,4 @@ method parse(\base, \xml) {
     CLDR::MinimalPairs.parse:          (base<minimalPairs>      //= Hash.new), $_ with xml.&elem('minimalPairs');
     base<minimumGroupingDigits> = contents $_ with xml.&elem('minimumGroupingDigits');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

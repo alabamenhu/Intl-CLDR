@@ -60,7 +60,7 @@ method AT-POS ($value --> CLDR::NumberFormat) {
     self.Array::AT-POS($mid)
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*formats-set --> buf8) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -77,4 +77,4 @@ method encode(%*formats-set --> buf8) {
 method parse(\base, \xml) { # xml is <decimal formats>
     # not called, handled at a higher level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

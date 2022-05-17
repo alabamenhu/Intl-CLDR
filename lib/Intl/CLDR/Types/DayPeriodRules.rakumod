@@ -30,7 +30,7 @@ method new(\blob, uint64 $offset is rw) {
         night2     => CLDR::DayPeriodRule.new(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     my $result = buf8.new;
 
@@ -51,4 +51,4 @@ method parse(\base, \xml) {
     base{.<type>} = %( at => .<at>, from => .<from>, before => .<before>) for $rule-xml.&elems('dayPeriodRule')
 }
 
-#>>>>> # GENERATOR
+>>>>># GENERATOR

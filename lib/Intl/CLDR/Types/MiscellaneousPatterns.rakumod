@@ -298,7 +298,7 @@ method warang-citi { %!systems<wara> // %!systems<latn> }
 method wancho { %!systems<wcho> // %!systems<latn> }
 
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*misc-patterns) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -333,4 +333,4 @@ method parse(\base, \xml) {
     CLDR::MiscellaneousPatternSet.parse: (base{$_} //= Hash.new), xml
         with xml<numberSystem>; # ← one will have no type, that's the fallback, which aliases to latn, so we ignore it︎
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

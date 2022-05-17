@@ -32,7 +32,7 @@ method new(\blob, uint64 $offset is rw) {
         :$stand-alone;
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*context-transform-usage) {
     my $result = buf8.new;
     use Intl::CLDR::Util::StrEncode;
@@ -46,4 +46,4 @@ method parse(\base, \xml) {
 
     base{.<type>} = contents $_ for xml.&elems('contextTransform');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

@@ -28,7 +28,7 @@ constant \detour = Map.new(
     timeZoneNames => 'timezone-names'
 );
 method DETOUR(--> detour) {;}
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*dates) {
     my $result = buf8.new;
 
@@ -46,4 +46,4 @@ method parse(\base, \xml) {
     CLDR::TimezoneNames.parse:     (base<timeZoneNames>  //= Hash.new), $_ with xml.&elem('timeZoneNames');
     CLDR::DayPeriodRuleSets.parse: (base<dayPeriodRules> //= Hash.new), $_ with $*day-period-xml
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

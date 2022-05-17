@@ -13,7 +13,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         nostr  => StrDecode::get(blob, $offset);
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*messages) {
     use Intl::CLDR::Util::StrEncode;
     my
@@ -28,4 +28,4 @@ method parse(\base, \xml) {
     base<yesstr> = contents $_ with xml.&elem('yesstr');
     base<nostr>  = contents $_ with xml.&elem('nostr');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

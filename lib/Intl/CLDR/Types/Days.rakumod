@@ -14,7 +14,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         format      => CLDR::DayContext.new(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     my $*day-context;
     my $result = buf8.new;
@@ -30,4 +30,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::DayContext.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('dayContext');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

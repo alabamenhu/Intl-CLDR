@@ -24,7 +24,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS ) {
         types => CLDR::LocaleExtensionTypes.new(blob, $offset);
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*extension --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     # extension is a Pair object
@@ -38,4 +38,4 @@ method encode(%*extension --> buf8) {
 method parse(\base, \xml) {
     # handled entirely at the LocaleExtensions level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

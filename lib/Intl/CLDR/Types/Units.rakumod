@@ -22,7 +22,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         coordinate => CLDR::Coordinates.new(   blob, $offset),
 }
 
-##`<<<<< # GENERATOR This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*units) {
     my $result = buf8.new;
 
@@ -50,4 +50,4 @@ method parse(\base, \xml) {
     CLDR::Durations.parse: (base<duration> //= Hash.new), $_ for xml.&elems('durationUnit');
 
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

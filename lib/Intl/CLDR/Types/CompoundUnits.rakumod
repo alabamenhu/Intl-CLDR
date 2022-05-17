@@ -25,7 +25,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     new-self;
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*simples) {
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new: 0; # 0 will be adjusted at end
@@ -178,4 +178,4 @@ method parse(\base, \xml) {
         base{$*type}{$*length}{.<count> // 'other'}{.<case> // 'nominative'}{.<gender> // 'unspecified'} = contents $_;
     }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

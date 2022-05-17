@@ -141,7 +141,7 @@ method many   { Selector.new(self).many   }
 method other  { Selector.new(self).other  }
 >>>
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode($pattern --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     die "Need to increase max pattern size in CurrencyFormat.pm6" if $*pattern-type > 2 ** 64;
@@ -155,4 +155,4 @@ method encode($pattern --> buf8) {
 method parse(\base, \xml --> Nil) {
     # not called, handled at a higher level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

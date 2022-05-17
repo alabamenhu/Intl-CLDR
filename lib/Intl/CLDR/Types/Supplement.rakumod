@@ -14,7 +14,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 }
 
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%supplement --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new;
@@ -26,4 +26,4 @@ method encode(%supplement --> buf8) {
 method parse(\base, \xml --> Nil) {
     CLDR::Subdivisions.parse: (base<supplemental> //= Hash.new), $_ with $*subdivisions-xml;
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

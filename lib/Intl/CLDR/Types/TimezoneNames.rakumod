@@ -29,7 +29,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         metazones       => CLDR::Metazones.new(    blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*timezone-names) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -57,4 +57,4 @@ method parse(\base, \xml) {
     CLDR::Zones.parse:     (base<zones>     //= Hash), xml, 'zone'; # the zones are at this same level for some weird reason
     CLDR::Metazones.parse: (base<metazones> //= Hash), xml, 'metazone';
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

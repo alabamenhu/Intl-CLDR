@@ -25,7 +25,7 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*interval-formats) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -49,4 +49,4 @@ method parse(\base, \xml) {
     base<fallback> = contents $_ with xml.&elem('intervalFormatFallback');
     CLDR::IntervalFormat.parse: (base<formats>{.<id>} //= Hash.new), $_ for xml.&elems('intervalFormatItem')
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

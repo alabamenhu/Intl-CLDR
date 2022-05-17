@@ -177,7 +177,7 @@ multi method gist (::?CLASS:D:) {
     '[SimpleUnitSet: ' ~ @lengths.join(',') ~ '; ' ~ @counts.join(',') ~ @cases.join(',') ~ ']'
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode($pattern --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     # not called, handled at a higher level
@@ -185,4 +185,4 @@ method encode($pattern --> buf8) {
 method parse(\base, \xml --> Nil) {
     # not called, handled at a higher level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

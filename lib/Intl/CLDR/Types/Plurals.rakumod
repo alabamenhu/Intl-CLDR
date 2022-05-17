@@ -20,7 +20,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%plurals) {
     my $result = buf8.new;
 
@@ -40,4 +40,4 @@ method parse(\base, \xml) {
     CLDR::PluralRangeRuleSet.parse:  (base<ranges>   //= Hash.new), $*plurals-ranges-xml;
 
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

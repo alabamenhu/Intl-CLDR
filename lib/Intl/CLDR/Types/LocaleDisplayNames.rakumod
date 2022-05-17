@@ -34,7 +34,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         extensions             => CLDR::ExtensionNames.new(          blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*names) {
     my $result = buf8.new;
 
@@ -58,4 +58,4 @@ method parse(\base, \xml) {
    CLDR::ExtensionNames.parse:         (base<extensions>             //= Hash.new), xml; # pass through to access two separate elements
    CLDR::LocaleDisplayPatterns.parse:  (base<localeDisplayPattern>   //= Hash.new), xml; # pass through to access two separate elements
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

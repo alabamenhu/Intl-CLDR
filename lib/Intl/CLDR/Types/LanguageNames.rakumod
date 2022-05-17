@@ -50,7 +50,7 @@ submethod !bind-init(\blob, uint64 $offset is rw) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*languages --> buf8) {
     # a dynamic variable is normally used, in case fallbacks need to refer back
     use Intl::CLDR::Util::StrEncode;
@@ -98,4 +98,4 @@ method parse(\base, \xml) {
     # These use underscores as a Unicode identifier, but we use BCP identifiers
     base{.<type>.subst('_','-') ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('language');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

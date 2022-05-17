@@ -119,7 +119,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 }
 
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*min-pairs --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new;
@@ -158,4 +158,4 @@ method parse(\base, \xml) {
     base<caseMinimalPairs>{   .<case>   } = contents $_ for xml.&elems('caseMinimalPairs'   );
     base<genderMinimalPairs>{ .<gender> } = contents $_ for xml.&elems('genderMinimalPairs' );
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

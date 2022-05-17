@@ -19,7 +19,7 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS ) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     my $result = buf8.new;
     # Fallback patterns are rather complex.  I try to make this code as presentable as possible.
@@ -94,4 +94,4 @@ method parse(\base, \xml) {
     base{.<type>} = contents $_ for xml.&elems('era')
 }
 
-#>>>>> # GENERATOR
+>>>>># GENERATOR

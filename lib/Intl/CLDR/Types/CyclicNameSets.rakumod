@@ -22,7 +22,7 @@ method new(\blob, uint64 $offset is rw) {
         solar-terms => CLDR::CyclicNameSet.new(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*cyclic-name-sets) {
     my $result = buf8.new;
 
@@ -48,4 +48,4 @@ method parse(\base, \xml) {
     CLDR::CyclicNameSet.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('cyclicNameSet');
 }
 
-#>>>>> # GENERATOR
+>>>>># GENERATOR

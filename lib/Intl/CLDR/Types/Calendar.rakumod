@@ -43,7 +43,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         datetime-formats => CLDR::DateTimeFormats.new( blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*calendar) {
 
     # Not all elements may be present.  Specifically, not all calendars
@@ -77,4 +77,4 @@ method parse(\base, \xml) {
     CLDR::TimeFormats.parse:     (base<timeFormats>      //= Hash.new), $_ with xml.&elem('timeFormats');
     CLDR::DateTimeFormats.parse: (base<dateTimeFormats>  //= Hash.new), $_ with xml.&elem('dateTimeFormats');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

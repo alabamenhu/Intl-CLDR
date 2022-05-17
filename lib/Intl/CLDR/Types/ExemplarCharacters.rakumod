@@ -40,7 +40,7 @@ method new(blob8 \blob, uint64 $offset is rw --> ::?CLASS ) {
         punctuation => safe-split(StrDecode::get(blob,$offset));
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*exemplar --> blob8) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -108,7 +108,9 @@ method parse(\base, \xml) {
             given $/ {
                 when 'amp'  { make '&'.list }
                 when 'quot' { make '"'.list }
-                default     { die "Unknown HTML escape sequence found in XML" }
+                when 'lt'   { make '<'.list }
+                when 'gt'   { make '>'.list }
+                default     { die "Unknown HTML escape sequence ‘$/’ found in XML" }
             }
         }
         method escape ($/) {
@@ -140,4 +142,4 @@ method parse(\base, \xml) {
         base = UnicodeSet.parse((contents(xml // '') // '[]'), :actions(UnicodeSetActions)).made;
     }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

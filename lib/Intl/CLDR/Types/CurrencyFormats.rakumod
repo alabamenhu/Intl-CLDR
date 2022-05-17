@@ -390,7 +390,7 @@ method DETOUR(-->detour) {;}
 sub rsay ($text) { say "\x001b[31m$text\x001b[0m" }
 sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*formats) {
     use Intl::CLDR::Types::NumberFormat; # for encode only
     use Intl::CLDR::Types::NumberFormatSet; # for encode only
@@ -515,4 +515,4 @@ method parse(\base, \xml) {
     #use Data::Dump::Tree;
     #dump base;
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

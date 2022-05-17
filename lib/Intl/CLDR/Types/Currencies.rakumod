@@ -34,7 +34,7 @@ submethod !add-keys(\blob, uint64 $offset is rw) {
 }
 
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*currencies) {
     my $result = buf8.new;
 
@@ -53,4 +53,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::Currency.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('currency');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

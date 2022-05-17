@@ -16,7 +16,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         character-order => StrDecode::get(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%orientation) {
     my $result = buf8.new;
 
@@ -32,4 +32,4 @@ method parse(\base, \xml) {
     base<lineOrder>      = contents $_ with xml.&elem('lineOrder');
     base<characterOrder> = contents $_ with xml.&elem('characterOrder');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

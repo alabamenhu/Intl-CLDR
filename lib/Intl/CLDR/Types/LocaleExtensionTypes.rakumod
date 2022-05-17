@@ -34,7 +34,7 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*types --> buf8) {
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new;
@@ -55,4 +55,4 @@ method encode(%*types --> buf8) {
 method parse(\base, \xml) {
     # handled entirely at the LocaleExtensions level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

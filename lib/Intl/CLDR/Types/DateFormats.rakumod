@@ -18,7 +18,7 @@ method new(\blob, uint64 $offset is rw) {
         short  => CLDR::DateFormat.new(blob, $offset),
 }
 
-##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%date-formats) {
     my $result = buf8.new;
 
@@ -47,4 +47,4 @@ method parse(\base, \xml) {
         base{$length}<displayName> = $format.&elem('displayName').&contents;
     }
 }
-#>>>>>#GENERATOR
+>>>>># GENERATOR

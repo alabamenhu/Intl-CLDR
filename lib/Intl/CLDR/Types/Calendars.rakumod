@@ -46,7 +46,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         roc                 => CLDR::Calendar.new: blob, $offset,
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*calendars) {
 
     # All calendars (including 'generic' must be present)
@@ -76,4 +76,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::Calendar.parse: (base{.<type>} //= Hash.new ), $_ for xml.&elems('calendar')
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

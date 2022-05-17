@@ -24,7 +24,7 @@ multi method AT-POS($, :$leap!) {
     self.Array::AT-POS(13)
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*month-width) {
     my $result = buf8.new;
     # Fallback patterns are rather complex.  I try to make this code as presentable as possible.
@@ -84,4 +84,4 @@ method parse(\base, \xml) {
     # The leap year adds the text "leap" to the number.  Only affects the Hebrew calendar
     base{.<type> ~ (.<yeartype>||'') } = contents $_ for xml.&elems('month')
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

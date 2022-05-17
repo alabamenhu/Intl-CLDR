@@ -20,7 +20,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         alt-quote-end => StrDecode::get(blob, $offset);
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%delimiters) {
     my $result = buf8.new;
 
@@ -40,4 +40,4 @@ method parse(\base, \xml) {
     base<alternateQuotationStart> = contents $_ with xml.&elem('alternateQuotationStart');
     base<alternateQuotationEnd>   = contents $_ with xml.&elem('alternateQuotationEnd');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

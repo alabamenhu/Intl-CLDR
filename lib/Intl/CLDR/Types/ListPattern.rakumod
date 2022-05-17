@@ -19,7 +19,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         narrow   => CLDR::ListPatternWidth.new(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode($*list-pattern-type) {
     my $result = buf8.new;
     $result ~= CLDR::ListPatternWidth.encode('standard');
@@ -32,4 +32,4 @@ method parse(\base, \xml) {
     # pass through, because this is an intermediate representation handled during encoding
     CLDR::ListPatternWidth.parse: base, xml;
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

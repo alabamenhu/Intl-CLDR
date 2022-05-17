@@ -24,7 +24,7 @@ method new(blob8 \blob, uint64 $offset is rw --> ::?CLASS) {
         :$more-info;
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*characters --> blob8) {
     use Intl::CLDR::Util::StrEncode;
     my $result = buf8.new;
@@ -42,4 +42,4 @@ method parse(\base, \xml) {
     CLDR::Ellipses.parse:           (base<ellipses>{.<type>} //=        ''), $_ for xml.&elems('ellipsis');
     base<moreInformation> = contents $_ with xml.&elem('moreInformation');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

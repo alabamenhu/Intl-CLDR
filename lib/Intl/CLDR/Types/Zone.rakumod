@@ -17,7 +17,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         short          => CLDR::ZoneWidth.new(blob, $offset)
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*zone) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -35,4 +35,4 @@ method parse(\base, \xml) {
     with xml.&elem('short') { CLDR::ZoneWidth.parse: (base<short> //= Hash.new), $_ }
     with xml.&elem('long' ) { CLDR::ZoneWidth.parse: (base<long>  //= Hash.new), $_ }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

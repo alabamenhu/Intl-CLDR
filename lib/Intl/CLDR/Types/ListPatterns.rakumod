@@ -20,7 +20,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*list-patterns) {
     my $result = buf8.new;
     $result ~= CLDR::ListPattern.encode('standard'); # read as 'and'
@@ -32,4 +32,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::ListPattern.parse: (base{.<type> // 'standard'} //= Hash.new), $_ for xml.&elems('listPattern');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

@@ -41,7 +41,7 @@ submethod !set-time(\blob, uint64 $offset is rw) {
     self
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     my $result = buf8.new;
 
@@ -62,4 +62,4 @@ method encode(\hash) {
 method parse(\base, \xml) {
     # handled at higher level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

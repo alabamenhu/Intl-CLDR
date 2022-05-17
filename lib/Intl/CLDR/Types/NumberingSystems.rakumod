@@ -17,7 +17,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         financial   => StrDecode::get(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*numbering-systems) {
     my $result = buf8.new;
 
@@ -38,4 +38,4 @@ method parse(\base, \xml-default, \xml-others) {
     base<traditional> = contents $_ with xml-others.&elem('traditional');
     base<financial>   = contents $_ with xml-others.&elem('financial');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

@@ -17,7 +17,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*region-format) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -32,4 +32,4 @@ method encode(%*region-format) {
 method parse(\base, \xml) {
     # handled at a different level
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

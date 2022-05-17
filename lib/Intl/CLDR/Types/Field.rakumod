@@ -18,7 +18,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*field) {
     my $result = buf8.new;
 
@@ -40,4 +40,4 @@ method parse(\base, @ (\standard,\short,\narrow) ) {
     with short    { CLDR::FieldWidth.parse: (base<short>    //= Hash.new), short    }
     with narrow   { CLDR::FieldWidth.parse: (base<narrow>   //= Hash.new), narrow   }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

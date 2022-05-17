@@ -42,7 +42,7 @@ multi method gist (CLDR::Language:D:) {
     '[CLDR::Language: characters,context-transforms,dates,delimiters,grammar,layout,list-patterns,locale-display-names,numbers,posix,units]';
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*language) {
     my @types = <
         CLDR::Characters         characters
@@ -92,4 +92,4 @@ method parse(\base, \xml) {
     CLDR::Posix.parse:              (base<posix>              //= Hash.new), $_ with xml.&elem('posix');
     CLDR::Units.parse:              (base<units>              //= Hash.new), $_ with xml.&elem('units');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

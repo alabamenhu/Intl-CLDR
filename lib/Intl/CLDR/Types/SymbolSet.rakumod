@@ -41,7 +41,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         currency-group          => StrDecode::get(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*symbols) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -73,4 +73,4 @@ method parse(\base, \xml) {
          base{$type} = contents $_ with xml.&elem($type, :ignore-alt) # wtf nn, why do you need two time separators?
      }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

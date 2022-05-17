@@ -16,7 +16,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         daylight => StrDecode::get(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*zone-width) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -34,4 +34,4 @@ method parse(\base, \xml) {
     with xml.&elem('standard') { base<standard> = contents $_ }
     with xml.&elem('daylight') { base<daylight> = contents $_ }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

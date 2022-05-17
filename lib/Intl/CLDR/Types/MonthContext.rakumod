@@ -16,7 +16,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         wide        => CLDR::MonthWidth.new(blob, $offset),
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*month-context) {
     my $*month-width;
     my $result = buf8.new;
@@ -34,4 +34,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     CLDR::MonthWidth.parse: (base{.<type>} //= Hash.new), $_ for xml.&elems('monthWidth');
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

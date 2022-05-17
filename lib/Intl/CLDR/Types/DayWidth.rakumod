@@ -27,7 +27,7 @@ multi method AT-POS(\pos, :$leap!) {
     self.Array::AT-POS(pos + 128)
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     my $result = buf8.new;
     # Fallback patterns are rather complex.  I try to make this code as presentable as possible.
@@ -77,4 +77,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     base{.<type>} = contents $_ for xml.&elems('day')
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

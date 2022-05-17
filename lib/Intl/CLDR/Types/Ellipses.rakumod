@@ -21,7 +21,7 @@ method new(buf8 \blob, uint64 $offset is rw --> ::?CLASS ) {
         word-medial  => StrDecode::get(blob, $offset);
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*ellipses --> blob8) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -40,4 +40,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     base = contents xml;
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

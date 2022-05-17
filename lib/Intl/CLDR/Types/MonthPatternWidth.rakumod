@@ -17,7 +17,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
         combined   => StrDecode::get(blob, $offset),
 }
 
-##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
 
     my $result = buf8.new;
@@ -72,4 +72,4 @@ method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
     base{.<type>} = contents $_ for xml.&elems('month')
 }
-#>>>>>#GENERATOR
+>>>>># GENERATOR

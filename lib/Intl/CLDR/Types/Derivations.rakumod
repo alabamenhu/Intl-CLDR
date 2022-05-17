@@ -23,7 +23,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS ) {
 
 }
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*derivations) {
     my $result = buf8.new;
 
@@ -53,4 +53,4 @@ method parse(\base, \xml) {
                  $derivation-xml.&elems('deriveCompound' ).grep(*.<structure> eq $type).Slip;
     }
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

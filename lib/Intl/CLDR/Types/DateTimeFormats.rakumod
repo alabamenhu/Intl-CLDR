@@ -31,7 +31,7 @@ method new(\blob, uint64 $offset is rw) {
         interval-fallback-format  => StrDecode::get(             blob, $offset),
 }
 
-##`<<<<<#GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*datetime-formats) {
     my $result = buf8.new;
 
@@ -92,4 +92,4 @@ method parse(\base, \xml) {
     CLDR::IntervalFormats.parse:  (base<intervalFormats>  //= Hash.new), $_ with xml.&elem('intervalFormats');
     base<intervalFormatFallback> = contents $_ with xml.&elem('intervalFormats').&elem('intervalFormatFallback');
 }
-#>>>>>#GENERATOR
+>>>>># GENERATOR

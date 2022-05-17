@@ -382,7 +382,7 @@ constant detour = Map.new: (
 method DETOUR(-->detour) {;}
 
 
-##`<<<<< # GENERATOR: This method should only be uncommented out by the parsing script
+#`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*symbol-sets) {
     use Intl::CLDR::Util::StrEncode;
 
@@ -417,4 +417,4 @@ method parse(\base, \xml) {
     CLDR::SymbolSet.parse: (base{$_} //= Hash.new), xml
         with xml<numberSystem>; # ← one will have no type, that's the fallback, which aliases to latn, so we ignore it︎
 }
-#>>>>> # GENERATOR
+>>>>># GENERATOR

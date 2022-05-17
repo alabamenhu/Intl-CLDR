@@ -38,7 +38,13 @@ The latter three are currently organized exactly as in CLDR, but I may rearrange
 
 # Version History
   * 0.7.0 (*in progress*)
-    * New features 
+    * Completely refactored module files
+      * Better long term maintenance 
+      * Lower run-time overhead
+    * Module reorganized 
+      * Various tools moved out of `/resources` into `/tools`
+    * Language loading no longer relies on hacky `%?RESOURCES` existence check, instead uses foreknowledge of processed language files.
+    * New feature
       * Timezone data added
         * `CLDR::Metazone` (from `<metaZone>`) converts Olson IDs to notional zones
         * `CLDR::WindowsTimezone` (from `<windowsZones>`) to convert Windows' timezone IDs to Olson IDs

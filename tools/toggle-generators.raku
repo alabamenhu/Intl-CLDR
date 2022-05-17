@@ -7,7 +7,6 @@ sub MAIN($on-off where any <on off>) {
     say "You didn't say 'yes' to this.  I'm guessing you're going to make backups first."
         and exit
             unless $answer eq 'yes';
-            die 'testing';
 
     # The following are codes that we are looking for.
     # - The multiline comment is enabled when it has a single starting # (because #`< starts a comment)

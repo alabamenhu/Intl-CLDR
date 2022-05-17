@@ -52,10 +52,15 @@ my $total-load-time = 0;
 sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
     @letters ||= <a b c d e f g h i j k l m n o p q r s t u v w x y z>;
 
-    say "\x001b[31mThis process may take a very long time if handling all files at once\n"
-       ~ "You may want to provide only a single letter or two as an argument\n"
-       ~ "to limit the scope of the parse process.\x001b[0m"
-      if @letters == 26;
+    if @letters == 26 {
+        say "\x001b[31mThis process may take a very long time if handling all files at once\n"
+           ~ "You may want to provide only a single letter or two as an argument\n"
+           ~ "to limit the scope of the parse process.\x001b[0m\n\n"
+           ~ "Type 'yes' to proceed with all, or enter a new list of letters: ";
+        my $new = prompt "--> ";
+        @letters = $new.words
+            if $new ne 'yes';
+    }
 
     my %*results;
     my \cldr = $*PROGRAM.sibling('cldr-common').add('common');

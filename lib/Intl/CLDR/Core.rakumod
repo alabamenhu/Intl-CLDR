@@ -4,6 +4,7 @@ class CLDR::Ordered   { ... }
 class CLDR::Unordered { ... }
 subset NotBasic where * !~~ CLDR::Unordered;
 
+#| A role defining a base-line amount of support for accessors (both hash-y and method-y) for CLDR classes
 role CLDR::Item
     does Associative
     is   export
@@ -113,6 +114,7 @@ my $epitaph = "† You really shouldn't try to edit CLDR data.\n"
             ~ "  If you really know what you're doing, you can\n"
             ~ "  figure out how, but you needn't and shouldn't.";
 
+#| A class to be inherited by CLDR items with ordered child elements (backed by an array)
 class CLDR::Ordered is Array is export {
     method ASSIGN-POS(|) is hidden-from-backtrace { die $epitaph }
     method BIND-POS(  |) is hidden-from-backtrace { die $epitaph }
@@ -124,6 +126,7 @@ class CLDR::Ordered is Array is export {
     multi method gist (CLDR::Ordered:D:) { '[' ~ self.^name ~ ":" ~ self.values.join(',') ~ ']' }
 }
 
+#| A class to be inherited by CLDR items whose keys/attributes are variable (backed by a hash)
 class CLDR::Unordered is Hash is export {
     method ASSIGN-KEY(|) is hidden-from-backtrace { die $epitaph }
     method BIND-KEY(  |) is hidden-from-backtrace { die $epitaph }

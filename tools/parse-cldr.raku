@@ -10,8 +10,6 @@ use Intl::LanguageTag;
 use Intl::CLDR::Util::XML-Helper;
 
 
-
-
 =begin pod
 To use this script, simply execute it.  By default, it will process the whole of the CLDR.
 Because it must load files in a particular order, it is not easily parallelizable.  Thus,
@@ -49,17 +47,20 @@ There are a number of subs available to C<parse> via C<Intl::CLDR::Util::XML-Hel
 
 my $total-load-time = 0;
 
-sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
+sub MAIN (*@letters, Bool :$supplement is copy = False, Int :$threads = 4, Bool :$interactive = False, :$skip = "") {
+    my @skip = $skip.split(',');
     @letters ||= <a b c d e f g h i j k l m n o p q r s t u v w x y z>;
+    INIT say "Launching... (may take some time if Intl::CLDR hasn't been recently compiled)";
+    # 'interactive' really for when I'm in an IDE
+    if $interactive {
+        @letters = words prompt 'Which letters/prefixes shall be processed? ';
+        $supplement = so ('y' | 'yes') eq prompt 'Should the supplement be included? [y/n] ';
+    }
 
     if @letters == 26 {
         say "\x001b[31mThis process may take a very long time if handling all files at once\n"
            ~ "You may want to provide only a single letter or two as an argument\n"
-           ~ "to limit the scope of the parse process.\x001b[0m\n\n"
-           ~ "Type 'yes' to proceed with all, or enter a new list of letters: ";
-        my $new = prompt "--> ";
-        @letters = $new.words
-            if $new ne 'yes';
+           ~ "to limit the scope of the parse process.\x001b[0m\n\n";
     }
 
     my %*results;
@@ -88,8 +89,8 @@ sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
         @language-files = cldr.add("main").dir
             .sort({ .basename.chars, .basename })
             .grep(*.basename.starts-with: any @letters)
-            .grep(none *.basename eq 'root');
-
+            .grep(none *.basename eq 'root')
+            .grep(none *.basename eq any @skip);
         handle-language cldr.add("main/root.xml");
     }
 
@@ -105,10 +106,9 @@ sub MAIN (*@letters, Bool :$supplement, Int :$threads = 4) {
         CURRENT.protect: { @current = @current.grep(* ne $lang).eager }
     }
 
-
     # Now do the supplemental
     if $supplement {
-        handle-supplemental
+        handle-supplemental;
     }
 
     say "Compilation complete.  Load time for {%*results.keys.elems} files was {$total-load-time} ({$total-load-time / %*results.keys.elems} avg)";
@@ -195,23 +195,27 @@ sub handle-language($language-file) {
 }
 
 sub handle-supplemental {
-    use Intl::CLDR::Types::Subdivisions;
+    use Intl::CLDR::Types::Supplement;
     my $*subdivisions-xml = from-xml $*PROGRAM.sibling('cldr-common').add("common/supplemental/subdivisions.xml").slurp;
+    my $*winzones-xml     = from-xml $*PROGRAM.sibling('cldr-common').add("common/supplemental/windowsZones.xml").slurp;
+    my $*metazones-xml    = from-xml $*PROGRAM.sibling('cldr-common').add("common/supplemental/metaZones.xml"   ).slurp;
 
     my %supplement;
 
     my $*STR-ENCODE = StrEncode::reset(); # clears encoder
 
-    CLDR::Subdivisions.parse(%supplement, $);
-    my $blob = CLDR::Subdivisions.encode(%supplement);
+    CLDR::Supplement.parse(%supplement, $);
+    say %supplement.keys;
+
+    my $blob = CLDR::Supplement.encode(%supplement);
 
     my uint64 $offset = 0;
     StrDecode::prepare(StrEncode::output());
-    my $foo = CLDR::Subdivisions.new: $blob, $offset;
+    my $foo = CLDR::Supplement.new: $blob, $offset;
 
     # Write the data out
-    "supplemental.data".IO.spurt:    $blob, :bin,         :close;  # binary tree data
-    "supplemental.strings".IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
+    $*PROGRAM.parent(2).add("resources/supplemental.data").IO.spurt:    $blob, :bin,         :close;  # binary tree data
+    $*PROGRAM.parent(2).add("resources/supplemental.strings").IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
 
 }
 

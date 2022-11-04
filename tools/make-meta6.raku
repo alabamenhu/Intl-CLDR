@@ -12,7 +12,7 @@ sub MAIN($version = prompt("What version should be used? ")) {
     my $prefix-length = $lib.Str.chars - 3; # -3 because '…/lib', we must preserve the 'lib'
     for find(dir => $lib, name => /'.rakumod'$/) -> $sub-module {
         my $file = $sub-module.Str.substr($prefix-length);
-        my $name = $file.substr(4, *-4).subst('/','::', :g);
+        my $name = $file.substr(4, *-8).subst('/','::', :g);
         %provides{$name} = $file;
     }
 
@@ -34,7 +34,6 @@ sub MAIN($version = prompt("What version should be used? ")) {
         depends => <
             Intl::LanguageTag
             Intl::UserLanguage
-            DateTime::Timezones
         >,
         tags => <CLDR international localization language>,
         license => 'Artistic-2.0',

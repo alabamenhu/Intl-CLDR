@@ -30,7 +30,7 @@ role CLDR::Item
     multi method gist(NotBasic:D:) { [~] '[yy', self.^name, ': ', self.keys.join(','), ']' }
     multi method gist(CLDR::Item:U:) { [~] '(', self.^name,                            ')' }
 
-    method AT-KEY($key) { self."$key"() }
+    multi method AT-KEY(NotBasic:D: $key) { self."$key"() }
 }
 
 #| Alias a method name to a different name (useful when Raku

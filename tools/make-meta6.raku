@@ -48,7 +48,7 @@ sub MAIN($version = prompt("What version should be used? ")) {
         authors => [
             'Matthew ‘Matéu’ Stephen STUCKWISCH <mateu@softastur.com>'
         ],
-        auth => 'git:alabamenhu',
+        auth => 'fez:guifa',
         :%provides,
         :@resources;
 

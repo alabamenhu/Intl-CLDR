@@ -7,7 +7,7 @@ has Str $.generic;
 has Str $.standard;
 has Str $.daylight;
 
-#| Creates a new CLDR-Dates object
+#| Creates a new CLDR::ZoneWidth object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
     self.bless:

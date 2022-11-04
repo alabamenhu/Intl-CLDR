@@ -3,14 +3,16 @@ unit class CLDR::Supplement;
     also does CLDR::Item;
 
 use Intl::CLDR::Types::Subdivisions;
+use Intl::CLDR::Types::TimezoneMaps;
 
 has CLDR::Subdivisions $.subdivisions;
-#has CLDR::Timezones    $.timezones;
+has CLDR::TimezoneMaps $.timezones;
 
 #| Creates a new CLDR-Supplement object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     self.bless:
-        subdivisions => CLDR::Subdivisions.new(blob, $offset)
+        subdivisions => CLDR::Subdivisions.new(blob, $offset),
+        timezones => CLDR::TimezoneMaps.new(blob, $offset)
 }
 
 
@@ -20,10 +22,12 @@ method encode(%supplement --> buf8) {
     my $result = buf8.new;
 
     $result ~= CLDR::Subdivisions.encode: %supplement<subdivisions>;
+    $result ~= CLDR::TimezoneMaps.encode: %supplement<timezones>;
 
     $result
 }
 method parse(\base, \xml --> Nil) {
-    CLDR::Subdivisions.parse: (base<supplemental> //= Hash.new), $_ with $*subdivisions-xml;
+    CLDR::Subdivisions.parse: (base<subdivisions> //= Hash.new), $_ with $*subdivisions-xml;
+    CLDR::TimezoneMaps.parse: (base<timezones>    //= Hash.new), $_; # need to "pass" both, so we'll capture dynamic later
 }
 >>>>># GENERATOR

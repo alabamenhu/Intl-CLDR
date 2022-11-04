@@ -18,4 +18,4 @@ lib/.precomp
 #################
 # Unicode files #
 #################
-resources/cldr-common
+tools/cldr-common

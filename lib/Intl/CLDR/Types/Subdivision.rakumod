@@ -49,10 +49,7 @@ method encode(%subdivisions --> buf8) {
 method parse(\base, \xml --> Nil) {
     use Intl::CLDR::Util::XML-Helper;
 
-    say "Need to parse ", xml.<contains>.split(/\h+/).join('/');
-
     for xml.<contains>.split(/\h+/) -> $sub-type {
-        say "  Parsing $sub-type";
         with $*subdivisions-xml.&elem('subdivisionContainment').&elems('subgroup')
                 .grep(*.<type> eq $sub-type).head {
                 CLDR::Subdivision.parse: (base{$sub-type} //= Hash.new), $_
@@ -60,6 +57,5 @@ method parse(\base, \xml --> Nil) {
             base{$sub-type} //= Hash.new
         }
     }
-    say base;
 }
 >>>>># GENERATOR

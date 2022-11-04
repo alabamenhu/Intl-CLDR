@@ -30,13 +30,13 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
 #| The number of elements in the set (always ∞, use .List if you need the real count)
 method elems { Inf }
 
-#| Converts CLDR-NumberFormatSet into a List for access to raw CLDR-NumberFormat objects
+#| Converts CLDR::NumberFormatSet into a List for access to raw CLDR::NumberFormat objects
 method List  { self.Array::List }
 
 #| Always returns true because an element will always be found
 method EXISTS-POS ($ --> True) { }
 
-#| Returns the CLDR-NumberFormat that best matches (largest .type ≤ index)
+#| Returns the CLDR::NumberFormat that best matches (largest .type ≤ index)
 method AT-POS ($value --> CLDR::NumberFormat) {
     # The binary search may actually be slower than an one-by-one
     # approach, because the items are so few.  TODO: Test at some point

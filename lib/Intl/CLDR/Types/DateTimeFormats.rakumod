@@ -81,7 +81,8 @@ method parse(\base, \xml) {
         # There should really only be one pattern.
         # There isn't always (read: rarely if ever) a display name.
         my $length = .<type>;
-        my $format = .&elem('dateTimeFormat');
+        # TODO handle <atTime>
+        my $format = .&elems('dateTimeFormat').grep(not *.<type>).head;
 
         base{$length}<pattern>     = $format.&elem('pattern').&contents;
         base{$length}<displayName> = $format.&elem('displayName').&contents;

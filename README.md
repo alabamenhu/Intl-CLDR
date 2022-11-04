@@ -6,15 +6,8 @@
 # Intl::CLDR
 An attempt to bring in the data from CLDR into Raku. 
 
-The newest version (**v0.5**) aims to maintain functionality but vastly improve performance, both
-mainly from a speed perspective, but also improves memory efficiency and will aide long term maintenance.
-
-There have been slight API changes from previous versions, so as noted before, if using, please
-ensure that you add version information to your use statements (at least until v.1.0);
-
-**Do not** use anything outside of the Intl::CLDR from this branch.
-Those functionalities are in the process of being spun off into their own modules.
-This is primarily for obtaining more-or-less raw data with proper fallbacks.
+As of **v0.5.0**, performance was vastly improved but some slight API changes were needed.
+Always ensure to use a version statement.  (at least until v.1.0)
 
 To install, be aware that due to the number of files, you may need to increase the maximum number of open files (on most systems, the default is several thousand, but on macOS, it's a paltry 256).
 
@@ -25,7 +18,7 @@ To install, be aware that due to the number of files, you may need to increase t
 
 ## CLDR objects
 
-Each `CLDR-*` or `CLDR::*` object is `Associative`, and attributes can generally be accessed both from 
+Each `CLDR::*` object is `Associative`, and attributes can generally be accessed both from 
 hashy accessors (`{'foo'}`) or method/attribute accessors (`.foo`).
 True attributes are defined with kebab-case, but camel-case alternates are available as well (this is because CLDR began with camel case, and now tends to prefer kebab-case, and it's hard to remember when to use which).  
 
@@ -37,7 +30,8 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient/logical method of accessing things (e.g. `calendar.formats<time date datetime interval>`).
 
 # Version History
-  * 0.7.0 (*in progress*)
+  * 0.7.0
+    * CLDR update to v42.0
     * Completely refactored module files
       * Better long term maintenance 
       * Lower run-time overhead
@@ -45,9 +39,9 @@ The latter three are currently organized exactly as in CLDR, but I may rearrange
       * Various tools moved out of `/resources` into `/tools`
     * Language loading no longer relies on hacky `%?RESOURCES` existence check, instead uses foreknowledge of processed language files.
     * New feature
-      * Timezone data added
-        * `CLDR::Metazone` (from `<metaZone>`) converts Olson IDs to notional zones
+      * Initial timezone data added
         * `CLDR::WindowsTimezone` (from `<windowsZones>`) to convert Windows' timezone IDs to Olson IDs
+        * Forthcoming: `CLDR::Metazone` (from `<metaZone>`) converts Olson IDs to notional zones
   * 0.6.0
     * CLDR update to v39.0
     * New features

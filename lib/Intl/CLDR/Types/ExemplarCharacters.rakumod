@@ -45,13 +45,14 @@ method encode(%*exemplar --> blob8) {
     use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;
-
     for <standard index auxiliary numbers punctuation> -> $type {
         my @characters := %*exemplar{$type}<> // Array.new;
 
-        if @characters.elems > 0 {
-            @characters.push(@characters.shift) while @characters.head ~~ /^<:M>/; # avoid combiners at start
-            $result ~= StrEncode::get(@characters.join: 30.chr);
+        # For some reason, some exemplar character sets are
+        # exclusively combining marks.  We cannot current handle those
+        if @characters.elems > 0 && @characters.any ~~ /^<:!M>/ {
+                @characters.push(@characters.shift) while @characters.head ~~ /^<:M>/; # avoid combiners at start
+                $result ~= StrEncode::get(@characters.join: 30.chr);
         } else {
             $result ~= StrEncode::get('');
         }

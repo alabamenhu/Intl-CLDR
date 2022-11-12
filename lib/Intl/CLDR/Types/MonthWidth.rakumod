@@ -8,7 +8,7 @@ method new(|c --> ::?CLASS) {
     self.bless!add-items: |c;
 }
 
-submethod !add-items(\blob, uint64 $offset is rw, \parent --> ::?CLASS) {
+submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     self.Array::BIND-POS: $_, StrDecode::get(blob, $offset)

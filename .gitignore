@@ -15,6 +15,7 @@ Thumbs.db
 lib/.precomp
 .idea
 *.iml
+sdist
 #################
 # Unicode files #
 #################

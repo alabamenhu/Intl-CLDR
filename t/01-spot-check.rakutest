@@ -13,7 +13,7 @@ data is stored, so tackle any errors in the order found here.
 =end pod
 
 use Test;
-use Intl::CLDR;
+use Intl::CLDR:auth<zef:guifa>;
 
 # Characters
 subtest {

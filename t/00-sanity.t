@@ -1,5 +1,5 @@
 use Test;
-use Intl::CLDR;
+use Intl::CLDR:auth<zef:guifa>;
 
 ok True;
 

@@ -7,8 +7,8 @@
   "build-depends": [
   ],
   "depends": [
-    "Intl::LanguageTag",
-    "Intl::UserLanguage"
+    "Intl::LanguageTag:auth<zef:guifa>:ver<0.12.1+>",
+    "Intl::UserLanguage:auth<zef:guifa>:ver<0.4.0+>"
   ],
   "description": "A module providing access to the Unicode Common Language Data Repository",
   "license": "Artistic-2.0",

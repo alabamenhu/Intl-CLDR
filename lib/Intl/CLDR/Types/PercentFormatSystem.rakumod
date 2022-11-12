@@ -33,8 +33,8 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     my buf8               $count-table        = blob.subbuf($offset, 6); $offset += 6;
 
     my CLDR::NumberFormatSet @sets;
-    @!sets.push: CLDR::NumberFormatSet.new(blob, $offset)
-        for ^($!length-coefficient * $!count-coefficient);
+    @sets.push: CLDR::NumberFormatSet.new(blob, $offset)
+        for ^($length-coefficient * $count-coefficient);
 
     self.bless:
         :$standard,

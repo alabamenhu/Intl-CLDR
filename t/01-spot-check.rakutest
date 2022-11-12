@@ -8,24 +8,121 @@ feature complete and easiest for me to debug, in addition to being one of the mo
 stable languages on CLDR due to extreme scrutiny given changes in it.
 
 Because each section is loaded as a distinct chunk, each should be tested
-individually to ensure correctness.
+individually to ensure correctness.  The order of tests is the order in which
+data is stored, so tackle any errors in the order found here.
 =end pod
 
 use Test;
 use Intl::CLDR;
 
-# Spot check for Characters
-is cldr<en>.characters.more-info, '?';
-is cldr<en>.characters.ellipses.medial, '{0}…{1}';
+# Characters
+subtest {
+    is cldr<en>.characters.more-info, '?';
+    is cldr<en>.characters.ellipses.medial, '{0}…{1}';
+}, 'Characters';
 
 # Context transform
-is cldr<en>.context-transforms.calendar-field.stand-alone,  'titlecase-first-word';
-is cldr<en>.context-transforms.number-spellout.stand-alone, 'titlecase-first-word';
-is cldr<en>.context-transforms.unit-pattern.stand-alone,    'no-change';
+subtest {
+    is cldr<en>.context-transforms.calendar-field.stand-alone, 'titlecase-first-word';
+    is cldr<en>.context-transforms.number-spellout.stand-alone, 'titlecase-first-word';
+    is cldr<en>.context-transforms.unit-pattern.stand-alone, 'no-change';
+}, 'Context transforms';
 
-# Subdivisions
-is cldr<en>.context-transforms.calendar-field.stand-alone,  'titlecase-first-word';
-is cldr<en>.context-transforms.number-spellout.stand-alone, 'titlecase-first-word';
-is cldr<en>.context-transforms.unit-pattern.stand-alone,    'no-change';
+# Dates
+subtest {
+    is cldr<en>.dates.calendars.buddhist.months.stand-alone.wide[1], 'January';
+    is cldr<en>.dates.calendars.gregorian.days.stand-alone.wide.wed, 'Wednesday';
+    is cldr<en>.dates.calendars.hebrew.months.stand-alone.wide.AT-POS(7, :leap), 'Adar II';
+    is cldr<en>.dates.calendars.roc.months.stand-alone.wide[12], 'December';
+
+    is cldr<en>.dates.fields.day.standard.display-name, 'day';
+    is cldr<en>.dates.fields.quarter.short.display-name, 'qtr.';
+    is cldr<en>.dates.fields.dayperiod.standard.display-name, 'AM/PM';
+    is cldr<en>.dates.fields.zone.narrow.display-name, 'zone';
+
+    is cldr<en>.dates.timezone-names.gmt-format, 'GMT{0}';
+    is cldr<en>.dates.timezone-names.zones<Pacific/Honolulu>.short.generic, 'HST';
+    is cldr<en>.dates.timezone-names.zones<Europe/London>.long.daylight, 'British Summer Time';
+    is cldr<en>.dates.timezone-names.metazones<America_Pacific>.short.standard, 'PST';
+    is cldr<en>.dates.timezone-names.metazones<Argentina>.long.daylight, 'Argentina Summer Time';
+    is cldr<en>.dates.timezone-names.metazones<Indonesia_Eastern>.long.standard, 'Eastern Indonesia Time';
+
+    is cldr<en>.dates.day-period-rules.selection.morning1.from, 360;
+    is cldr<en>.dates.day-period-rules.standard.evening1.before, 1260;
+    is cldr<en>.dates.day-period-rules.standard.evening2.used, False;
+}, 'Dates';
+
+# Delimiters
+subtest {
+    is cldr<en>.delimiters.quote-start, '“';
+    is cldr<en>.delimiters.alt-quote-end, '’';
+}, 'Delimiters';
+
+# Grammar
+subtest {
+    is cldr<en>.grammar.derivations.per.case-first, 'compound';
+    is cldr<en>.grammar.derivations.times.plural-first, 'one';
+    is cldr<en>.grammar.plurals.cardinal.one, 'i = 1 and v = 0 ';
+    is cldr<en>.grammar.plurals.ordinal.two, 'n % 10 = 2 and n % 100 != 12 ';
+    is cldr<en>.grammar.plurals.ranges.from('one').to('other'), 'other';
+}, 'Grammar';
+
+# Layout
+subtest {
+    is cldr<en>.layout.orientation.character-order, 'left-to-right';
+    is cldr<en>.layout.orientation.line-order, 'top-to-bottom';
+}, 'Layout';
+
+# ListPatterns
+subtest {
+    is cldr<en>.list-patterns.and.standard.end, '{0}, and {1}';
+    is cldr<en>.list-patterns.or.short.middle, '{0}, {1}';
+    is cldr<en>.list-patterns.unit.narrow.two, '{0} {1}';
+}, 'List patterns';
+
+# LocaleDisplayNames
+subtest {
+    is cldr<en>.locale-display-names.display-patterns.script, 'Script: {0}';
+    is cldr<en>.locale-display-names.languages<es-MX>, 'Mexican Spanish';
+    is cldr<en>.locale-display-names.scripts<Tfng>, 'Tifinagh';
+    is cldr<en>.locale-display-names.territories<LA>, 'Laos';
+    is cldr<en>.locale-display-names.variants<POSIX>, 'Computer';
+    is cldr<en>.locale-display-names.measurement-systems.metric, 'Metric';
+}, 'Locale display names';
+
+# Numbers
+subtest {
+    is cldr<en>.numbers.symbols.latin.decimal, '.';
+    is cldr<en>.numbers.symbols.latin.approximately, '~';
+    is cldr<en>.numbers.numbering-systems.default, 'latn';
+    is cldr<en>.numbers.numbering-systems.traditional, 'latn';
+    is cldr<en>.numbers.decimal-formats.latin.standard.pattern, '#,##0.###';
+    is cldr<en>.numbers.scientific-formats.latin.standard.pattern, '#E0';
+    is cldr<en>.numbers.percent-formats.latin.standard.pattern, '#,##0%';
+    # cldr<en>.numbers.currency-formats.latin.standard.pattern;
+    is cldr<en>.numbers.currencies<KPW>.display-name, 'North Korean Won';
+    is cldr<en>.numbers.misc-patterns.latin.approximately, '~{0}';
+    is cldr<en>.numbers.misc-patterns.latin.range, '{0}–{1}';
+    # TODO fix minimal pairs here (also, these should be in grammar?  Silly CLDR)
+    # say cldr<en>.numbers.minimal-pairs.case;
+    # say cldr<en>.numbers.minimal-pairs.gender;
+    # say cldr<en>.numbers.minimal-pairs.ordinal.one;
+    # say cldr<en>.numbers.minimal-pairs.ordinal.two;
+    # say cldr<en>.numbers.minimal-pairs.plural.other;
+}, 'Numbers';
+
+# POSIX
+subtest {
+    is cldr<en>.posix.messages.nostr, 'no:n';
+    is cldr<en>.posix.messages.yesstr, 'yes:y';
+}, 'POSIX';
+
+# Units
+subtest {
+    is cldr<en>.units.simple.fathom.other.long.display-name, 'fathoms';
+    is cldr<en>.units.compound.power3.short.pattern, '{0}³';
+    is cldr<en>.units.duration.ms, 'm:ss';
+    is cldr<en>.units.coordinate.long.west, '{0} west';
+}, 'Units';
 
 done-testing;

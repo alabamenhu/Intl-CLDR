@@ -2,12 +2,16 @@ use lib BEGIN $?FILE.IO.parent(2).add('lib').resolve;
 use XML;
 use MONKEY-SEE-NO-EVAL;
 use Data::Dump::Tree;
+use Terminal::ANSIColor;
+use Intl::LanguageTag;
 use JSON::Tiny;
 use Intl::CLDR::Util::StrEncode;
 use Intl::CLDR::Util::StrDecode;
-use Intl::CLDR::Types::Language;
-use Intl::LanguageTag;
 use Intl::CLDR::Util::XML-Helper;
+
+INIT print "Launching.  May take some time if CLDR has been recently edited.";
+use Intl::CLDR::Types::Language;
+print     "\r                                                                \r";
 
 
 =begin pod
@@ -47,10 +51,12 @@ There are a number of subs available to C<parse> via C<Intl::CLDR::Util::XML-Hel
 
 my $total-load-time = 0;
 
+constant RESOURCES = $*PROGRAM.parent(2).add('resources');
+
 sub MAIN (*@letters, Bool :$supplement is copy = False, Int :$threads = 4, Bool :$interactive = False, :$skip = "") {
     my @skip = $skip.split(',');
     @letters ||= <a b c d e f g h i j k l m n o p q r s t u v w x y z>;
-    INIT say "Launching... (may take some time if Intl::CLDR hasn't been recently compiled)";
+    print    "\r                                                                             \r";
     # 'interactive' really for when I'm in an IDE
     if $interactive {
         @letters = words prompt 'Which letters/prefixes shall be processed? ';
@@ -101,7 +107,7 @@ sub MAIN (*@letters, Bool :$supplement is copy = False, Int :$threads = 4, Bool 
 
     hyper for @language-files.hyper(:1batch, :degree($threads)) -> $file {
         my $lang = $file.basename.subst('_','-', :g).substr(0,*-4);
-        CURRENT.protect: { @current.push: $lang; print "\rEncoding ", @current.join(", "), "...        " }
+        CURRENT.protect: { @current.push: $lang; print "\rEncoding ", @current.join(", "), "...              " }
         handle-language $file;
         CURRENT.protect: { @current = @current.grep(* ne $lang).eager }
     }
@@ -125,7 +131,7 @@ sub handle-language($language-file) {
     # Though it shouldn't be the case, if there are any non-canonical forms, we convert them
     # while ignoring 'root' since it's a psuedotag.
     my $*lang = $language-file.basename.subst('_','-', :g).substr(0, *-4);
-    $*lang = LanguageTag.new($*lang).canonical
+    $*lang = LanguageTag.new($*lang).Str
         unless $*lang eq 'root';
 
     my $prefix =
@@ -133,7 +139,7 @@ sub handle-language($language-file) {
     # Open file unless there's a combining diacritic on a delimiter, and make sure it's got elements
     my $file;
     try {
-        CATCH { say "$prefix\x001b[31mFailure\x001b[0m (could not open {$language-file})"; return }
+        CATCH { say "$prefix\x001b[31mFailure\x001b[0m (could not open {$language-file})"; say $!; return }
         # We can't pass the handler directly because the XML library doesn't autoclose.
         $file = from-xml $language-file.slurp;
         if $file.elements.elems == 1 {
@@ -187,14 +193,15 @@ sub handle-language($language-file) {
         #my str @langs = StrEncode::output().split(31.chr);
 
         # Write the data out
-        $*PROGRAM.parent(2).add("resources/languages-binary/{$*lang}.data").IO.spurt:    $blob, :bin,         :close;  # binary tree data
-        $*PROGRAM.parent(2).add("resources/languages-binary/{$*lang}.strings").IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
+        RESOURCES.add("/languages-binary/{$*lang}.data").IO.spurt:    $blob, :bin,         :close;  # binary tree data
+        RESOURCES.add("/languages-binary/{$*lang}.strings").IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
 
         say "$prefix\x001b[32mSuccess\x001b[0m (strs ~", StrEncode::output().chars, " bytes, data ", $blob.elems, " bytes)";
     }
 }
 
 sub handle-supplemental {
+    say "Parsing supplemental...";
     use Intl::CLDR::Types::Supplement;
     my $*subdivisions-xml = from-xml $*PROGRAM.sibling('cldr-common').add("common/supplemental/subdivisions.xml").slurp;
     my $*winzones-xml     = from-xml $*PROGRAM.sibling('cldr-common').add("common/supplemental/windowsZones.xml").slurp;
@@ -205,7 +212,6 @@ sub handle-supplemental {
     my $*STR-ENCODE = StrEncode::reset(); # clears encoder
 
     CLDR::Supplement.parse(%supplement, $);
-    say %supplement.keys;
 
     my $blob = CLDR::Supplement.encode(%supplement);
 
@@ -216,7 +222,7 @@ sub handle-supplemental {
     # Write the data out
     $*PROGRAM.parent(2).add("resources/supplemental.data").IO.spurt:    $blob, :bin,         :close;  # binary tree data
     $*PROGRAM.parent(2).add("resources/supplemental.strings").IO.spurt: StrEncode::output(), :close;  # StrEncode is a bad global for now
-
+    say " successs";
 }
 
 sub format-message(:$file, :$success, :$message) {

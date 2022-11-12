@@ -90,7 +90,7 @@ method encode(%*context-transforms) {
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<day-format-except-narrow> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<day-standalone-except-narrow> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<day-narrow> // Hash.new);
-    $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<era-abbre> // Hash.new);
+    $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<era-abbr> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<era-name> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<era-narrow> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<quarter-format-wide> // Hash.new);
@@ -102,7 +102,7 @@ method encode(%*context-transforms) {
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<zone-long> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<zone-short> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<metazone-long> // Hash.new);
-    $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<metazona-short> // Hash.new);
+    $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<metazone-short> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<symbol> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<currencyName> // Hash.new);
     $result ~= CLDR::ContextTransformUsage.encode(%*context-transforms<currencyName-count> // Hash.new);

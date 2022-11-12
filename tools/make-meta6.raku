@@ -12,7 +12,7 @@ sub MAIN($version = prompt("What version should be used? ")) {
     my $prefix-length = $lib.Str.chars - 3; # -3 because '…/lib', we must preserve the 'lib'
     for find(dir => $lib, name => /'.rakumod'$/) -> $sub-module {
         my $file = $sub-module.Str.substr($prefix-length);
-        my $name = $file.substr(4, *-8).subst('/','::', :g);
+        my $name = ($file ~~ / 'lib/' <( .*? )> '.' [pm6|rakumod] /).Str.subst('/','::', :g);
         %provides{$name} = $file;
     }
 
@@ -23,6 +23,10 @@ sub MAIN($version = prompt("What version should be used? ")) {
         @resources.push: $lang-file.Str.substr($res-prefix-length)
             unless $lang-file.Str.contains('.DS_Store'); # I hate you macOS
     }
+
+    @resources.push: 'language-list.data';
+    @resources.push: 'supplemental.data';
+    @resources.push: 'supplemental.strings';
 
     use META6;
 
@@ -42,7 +46,7 @@ sub MAIN($version = prompt("What version should be used? ")) {
         support => META6::Support.new(
             source => 'https://github.com/alabamenhu/META6.git'
         ),
-        auth => 'github:alabamenhu',
+        auth => 'fez:guifa',
         perl-version => Version.new('6.d+'),
         raku-version => Version.new('6.d+'),
         authors => [

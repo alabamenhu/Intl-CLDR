@@ -56,14 +56,16 @@ method encode(%*territories --> buf8) {
 
     my $result = buf8.new;
 
-    my $lang-count = %*territories.keys.elems;
+    #my $lang-count = %*territories.grep({none .key ~~ /'→'/}).elems;
+    my $lang-count = 0;
+    $result.append: 0, 0; # used for the count later
+    #;$lang-count div 256;
+    #$result.append: $lang-count mod 256;
 
-    $result.append: $lang-count div 256;
-    $result.append: $lang-count mod 256;
-
-    for %*territories.grep({none .key ~~ '→'}) -> ( :key($tag), :value($name)) {
+    for %*territories.grep({none .key ~~ /'→'/}) -> ( :key($tag), :value($name)) {
         # tags are guaranteed to not be variants or shorts
         # Check if a short version exists
+        $lang-count++;
         if %*territories{$tag ~ '→variant'}:exists {
             # then type 2
             $result.append: 2;
@@ -84,7 +86,8 @@ method encode(%*territories --> buf8) {
         }
 
     }
-
+    $result[0] = $lang-count div 256;
+    $result[1] = $lang-count mod 256;
     $result
 }
 method parse(\base, \xml) {

@@ -22,7 +22,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 
     my $system-count = blob[$offset++];
     my CLDR::ScientificFormatSystem %systems;
-    %!systems{StrDecode::get(blob, $offset)} := CLDR::ScientificFormatSystem.new(blob, $offset)
+    %systems{StrDecode::get(blob, $offset)} := CLDR::ScientificFormatSystem.new(blob, $offset)
         for ^$system-count;
 
     self.bless:

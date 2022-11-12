@@ -12,6 +12,7 @@ has Str $.extension; #= For use with extensions when no display name is availabl
 #| Creates a new CLDR-MonthContext object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
+
     self.bless:
         main      => StrDecode::get(blob, $offset),
         separator => StrDecode::get(blob, $offset),
@@ -34,6 +35,8 @@ method encode(\hash) {
     $result ~= StrEncode::get(hash<languageCodePattern>  // '');
     $result ~= StrEncode::get(hash<scriptCodePattern>    // '');
     $result ~= StrEncode::get(hash<territoryCodePattern> // '');
+
+    $result
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;

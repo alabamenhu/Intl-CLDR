@@ -15,7 +15,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 }
 
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
-method encode(%*territories --> buf8) {
+method encode(%*measurement-systems --> buf8) {
     use Intl::CLDR::Util::StrEncode;
 
     my $result = buf8.new;

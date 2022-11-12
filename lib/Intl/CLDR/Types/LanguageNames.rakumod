@@ -85,10 +85,7 @@ method encode(%*languages --> buf8) {
         }
 
     }
-    #say "";
-    #say "Encoded language names ", $result[0..10];
-    #say "";
-    #say "";
+
     $result
 }
 method parse(\base, \xml) {

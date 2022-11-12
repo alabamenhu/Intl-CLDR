@@ -16,9 +16,10 @@ has blob8 $!data is built;
 
 #| Creates a new CLDR::PluralRangeRuleSet object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
+    LEAVE $offset += 36; # compensates for the blob length
+
     self.bless:
         data => blob.subbuf: $offset,   36;
-                       LEAVE $offset += 36; # compensates for the blob length
 }
 
 my class Selector { ... }

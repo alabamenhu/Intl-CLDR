@@ -1,7 +1,7 @@
 unit class CLDR::WindowsZoneMap;
     use Intl::CLDR::Core;
     also does CLDR::Item;
-    also is   XUnordered;
+    also is   CLDR::Unordered;
 
 method default { self.Hash::AT-KEY('001').head }
 
@@ -22,9 +22,6 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     self
 }
 
-method keys { self.Hash::keys }
-method AT-KEY(|c) { self.Hash::AT-KEY: |c }
-
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     use Intl::CLDR::Util::StrEncode;
@@ -35,7 +32,6 @@ method encode(\hash) {
     $result.append: $count;
 
     for hash.kv -> \tzname, \zones {
-        say "Processing {tzname} with {zones.elems} possibilities: {zones}";
         $result ~= StrEncode::get(tzname);
         $result.append: zones.elems;
         $result ~= StrEncode::get($_) for zones.values;

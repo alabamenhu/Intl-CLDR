@@ -5,7 +5,7 @@ unit class CLDR::Symbols;
 
 use Intl::CLDR::Types::SymbolSet;
 
-has CLDR::SymbolSet %!systems;
+has CLDR::SymbolSet %!systems is built;
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
 # for ($text ~~ m:g/'name="' (<alnum>+) '" description="' (<-["]>+)/) -> $match {

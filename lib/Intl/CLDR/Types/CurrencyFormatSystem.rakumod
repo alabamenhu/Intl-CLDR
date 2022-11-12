@@ -32,22 +32,23 @@ method !count-table          { $!count-table          }
 method new(\blob, uint64 $offset is rw --> CLDR::CurrencyFormatSystem) {
     use Intl::CLDR::Util::StrDecode;
 
+    my $len-co;
+    my $cur-co;
+    my $cnt-co;
     # The odd offset pattern here allows the one-line bless, which is fastest
     self.bless:
         standard             => CLDR::NumberFormat.new(blob, $offset),
         standard-accounting  => CLDR::NumberFormat.new(blob, $offset),
-        length-coefficient   => blob[$offset],                  # needs a 1 increment
+        length-coefficient   => ($len-co = blob[$offset]),      # needs a 1 increment
         length-table         => blob.subbuf(($offset += 1), 4), # needs a 4 increment
-        currency-coefficient => blob[$offset += 4],             # needs a 1 increment
+        currency-coefficient => ($cur-co = blob[$offset += 4]), # needs a 1 increment
         currency-table       => blob.subbuf(($offset += 1), 2), # needs a 2 increment
-        count-coefficient    => blob[$offset += 2],             # needs a 1 increment
+        count-coefficient    => ($cnt-co = blob[$offset += 2]), # needs a 1 increment
         count-table          => blob.subbuf(($offset += 1), 6), # needs a 6 increment
         sets                 => (
                                     ($offset += 6)
                                 &&  (CLDR::NumberFormatSet.new(blob, $offset)
-                                        for ^( $!length-coefficient
-                                             * $!currency-coefficient
-                                             * $!count-coefficient)
+                                        for ^($len-co * $cur-co * $cnt-co)
                                     )
                                 );
 }

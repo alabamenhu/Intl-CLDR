@@ -32,6 +32,7 @@ method new(\blob, uint64 $offset is rw) {
 
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
+
     my $result = buf8.new;
 
     for <noon midnight morning1 morning2 afternoon1 afternoon2 evening1 evening2 night1 night2> -> $period {
@@ -48,7 +49,7 @@ method parse(\base, \xml) {
         xml.&elems('dayPeriodRules').grep('root' (elem) *.<locales>.words)
     ).head;
 
-    base{.<type>} = %( at => .<at>, from => .<from>, before => .<before>) for $rule-xml.&elems('dayPeriodRule')
+    base{.<type>} = %( at => .<at>, from => .<from>, before => .<before>) for $rule-xml.&elems('dayPeriodRule');
 }
 
 >>>>># GENERATOR

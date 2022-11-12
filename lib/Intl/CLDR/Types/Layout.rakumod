@@ -13,7 +13,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     self.bless:
-        $!orientation = CLDR::Orientation.new(blob, $offset)
+        orientation => CLDR::Orientation.new(blob, $offset)
 }
 
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.

@@ -32,8 +32,8 @@ method new(\blob, uint64 $offset is rw --> CLDR::DecimalFormatSystem) {
     my $count-coefficient  = blob[$offset++];
     my $count-table        = blob.subbuf($offset, 6); $offset += 6;
     my CLDR::NumberFormatSet @sets;
-    @!sets.push: CLDR::NumberFormatSet.new(blob, $offset)
-        for ^($!length-coefficient * $!count-coefficient);
+    @sets.push: CLDR::NumberFormatSet.new(blob, $offset)
+        for ^($length-coefficient * $count-coefficient);
 
     self.bless:
         :$standard, :$length-coefficient, :$length-table, :$count-coefficient, :$count-table, :@sets,

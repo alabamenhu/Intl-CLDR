@@ -17,7 +17,6 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
     use Intl::CLDR::Util::StrEncode;
-    say hash<winzones>;
     my $result = buf8.new;
 
     $result.append: CLDR::WindowsZoneMaps.encode(hash<winzones>);

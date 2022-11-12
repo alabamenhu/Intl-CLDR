@@ -16,10 +16,10 @@ method new(\blob, uint64 $offset is rw) {
 
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(\hash) {
+
     my $result = buf8.new;
 
     for <standard selection> -> $*set-type {
-        $result ~= CLDR::DayPeriodRules.encode: hash{$*set-type};
         $result ~= CLDR::DayPeriodRules.encode: hash{$*set-type};
     }
 

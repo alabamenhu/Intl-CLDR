@@ -19,7 +19,7 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
 
     self.Hash::BIND-KEY:
             StrDecode::get(blob, $offset),
-            CLDR::IntervalFormat.new(blob, $offset,self)
+            CLDR::IntervalFormat.new(blob, $offset)
     for ^$count;
 
     self

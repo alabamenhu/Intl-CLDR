@@ -24,9 +24,7 @@ method new(|c --> ::?CLASS) {
 
 submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
     my $count = blob[$offset++] * 256 + blob[$offset++];
-
     self.Hash::BIND-KEY:
             StrDecode::get(blob, $offset),
             StrDecode::get(blob, $offset)
@@ -39,7 +37,6 @@ submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
 method encode(%*variants --> buf8) {
     # a dynamic variable is normally used, in case fallbacks need to refer back
     use Intl::CLDR::Util::StrEncode;
-
     my $result = buf8.new;
 
     my $variant-count = %*variants.keys.elems;
@@ -50,7 +47,6 @@ method encode(%*variants --> buf8) {
 
     $result.append: $variant-count div 256;
     $result.append: $variant-count mod 256;
-
     for %*variants.kv -> $tag, $name {
         # tags are guaranteed to not be variants or shorts
         # Check if a short version exists
@@ -58,10 +54,11 @@ method encode(%*variants --> buf8) {
         $result ~= StrEncode::get($name // '');
     }
 
+
     $result
 }
 method parse(\base, \xml) {
     use Intl::CLDR::Util::XML-Helper;
-    base{.<type> ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('variants');
+    base{.<type> ~ (.<alt> ?? ('→' ~ .<alt>) !! '')} = contents $_ for xml.&elems('variant');
 }
 >>>>># GENERATOR

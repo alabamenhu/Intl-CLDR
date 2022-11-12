@@ -38,13 +38,13 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 method encode(%*names) {
     my $result = buf8.new;
 
-    $result ~= CLDR::LocaleDisplayPatterns.encode( %*names<localeDisplayPattern> // Hash.new);
-    $result ~= CLDR::LanguageNames.encode(         %*names<languages>            // Hash.new);
-    $result ~= CLDR::ScriptNames.encode(           %*names<scripts>              // Hash.new);
-    $result ~= CLDR::TerritoryNames.encode(        %*names<territories>          // Hash.new);
-    $result ~= CLDR::VariantNames.encode(          %*names<variants>             // Hash.new);
-    $result ~= CLDR::MeasurementSystemNames.encode(%*names<measurementSystems>   // Hash.new);
-    $result ~= CLDR::ExtensionNames.encode(        %*names<extensions>           // Hash.new);
+    $result ~= CLDR::LocaleDisplayPatterns.encode( %*names<localeDisplayPattern>   // Hash.new);
+    $result ~= CLDR::LanguageNames.encode(         %*names<languages>              // Hash.new);
+    $result ~= CLDR::ScriptNames.encode(           %*names<scripts>                // Hash.new);
+    $result ~= CLDR::TerritoryNames.encode(        %*names<territories>            // Hash.new);
+    $result ~= CLDR::VariantNames.encode(          %*names<variants>               // Hash.new);
+    $result ~= CLDR::MeasurementSystemNames.encode(%*names<measurementSystemNames> // Hash.new);
+    $result ~= CLDR::ExtensionNames.encode(        %*names<extensions>             // Hash.new);
 
     $result
 }

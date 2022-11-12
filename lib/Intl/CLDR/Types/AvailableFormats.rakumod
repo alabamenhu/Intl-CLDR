@@ -12,7 +12,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
     my $count = blob[$offset++];
-    self.Hash::BIND-KEY:
+    new-self.Hash::BIND-KEY:
         StrDecode::get(blob, $offset),
         StrDecode::get(blob, $offset)
     for ^$count;
@@ -20,18 +20,6 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     new-self
 }
 
-submethod !bind-init(\blob, uint64 $offset is rw --> ::?CLASS) {
-    use Intl::CLDR::Util::StrDecode;
-
-    my $count = blob[$offset++];
-
-    self.Hash::BIND-KEY:
-        StrDecode::get(blob, $offset),
-        StrDecode::get(blob, $offset)
-    for ^$count;
-
-    self
-}
 
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*formats) {

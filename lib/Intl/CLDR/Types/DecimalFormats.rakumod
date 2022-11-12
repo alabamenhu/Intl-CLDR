@@ -6,7 +6,7 @@ use Intl::CLDR::Types::NumberFormat;    # for encode only
 use Intl::CLDR::Types::NumberFormatSet; # for encode only
 use Intl::CLDR::Types::DecimalFormatSystem;
 
-has CLDR::DecimalFormatSystem %!systems;
+has CLDR::DecimalFormatSystem %!systems is built;
 
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:

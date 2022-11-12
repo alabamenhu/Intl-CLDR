@@ -52,7 +52,7 @@ method encode(%*scripts --> buf8) {
 
     my $result = buf8.new;
 
-    my $lang-count = %*scripts.keys.elems;
+    my $lang-count = %*scripts.grep({none .key ~~ '→'}).elems;
 
     $result.append: $lang-count div 256;
     $result.append: $lang-count mod 256;

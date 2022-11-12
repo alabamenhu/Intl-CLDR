@@ -1,5 +1,5 @@
 unit module Genders;
-use Intl::BCP47;
+use Intl::LanguageTag;
 
 # The way that the CLDR data is stored for this, it only pertains to *people's* gender.
 # This is why the function is named *people-gender* and not *list-gender*, although that

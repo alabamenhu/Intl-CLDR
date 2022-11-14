@@ -30,6 +30,8 @@ This also happens with the `dateFormats`, `timeFormats`, and `dateTimeFormats`.
 The latter three are currently organized exactly as in CLDR, but I may rearrange these simply to provide a more convenient/logical method of accessing things (e.g. `calendar.formats<time date datetime interval>`).
 
 # Version History
+  * 0.7.2 
+    * Readded numbering system aliases for `CLDR::Symbols`
   * 0.7.1
     * Fixed data generation bug (users of 0.7.0 should update and recompile modules dependent on `Intl::CLDR` for correct data handling)
   * 0.7.0

@@ -15,7 +15,7 @@ has CLDR::SymbolSet %!systems is built;
 # definitely included in other places.  Because all except for Arabic fallback to
 # Latn, that is maintained in the encoding process.
 
-#| Creates a new CLDR-SymbolSetsAAAA object
+#| Creates a new CLDR::Symbols object
 method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
 
@@ -32,7 +32,7 @@ method new(\blob, uint64 $offset is rw --> ::?CLASS) {
 method adlam is aliased-by<adlm> { %!systems<adlm> // %!systems<latn> }
 
 #| Symbols for the Ahom numbering system (ahom)
-method ahom is aliased-by<ahom> { %!systems<ahom> // %!systems<latn> }
+method ahom { %!systems<ahom> // %!systems<latn> }
 
 #| Symbols for the Arabic-Indic numbering system (arab)
 method arabic is aliased-by<arab> { %!systems<arab> // %!systems<latn> }
@@ -62,7 +62,7 @@ method brahmi is aliased-by<brah> { %!systems<brah> // %!systems<latn> }
 method chakma is aliased-by<cakm> { %!systems<cakm> // %!systems<latn> }
 
 #| Symbols for the Cham numbering system (cham)
-method cham is aliased-by<cham> { %!systems<cham> // %!systems<latn> }
+method cham { %!systems<cham> // %!systems<latn> }
 
 #| Symbols for the Cyrillic numbering system (cyrl)
 method cyrillic is aliased-by<cyrl> { %!systems<cyrl> // %!systems<latn> }
@@ -188,7 +188,7 @@ method math-sans is aliased-by<mathsans> { %!systems<mathsans> // %!systems<latn
 method malayalam is aliased-by<mlym> { %!systems<mlym> // %!systems<latn> }
 
 #| Symbols for the Modi numbering system (modi)
-method modi is aliased-by<modi> { %!systems<modi> // %!systems<latn> }
+method modi { %!systems<modi> // %!systems<latn> }
 
 #| Symbols for the Mongolian numbering system (mong)
 method mongolian is aliased-by<mong> { %!systems<mong> // %!systems<latn> }
@@ -209,10 +209,10 @@ method myanmar-shan is aliased-by<mymrshan> { %!systems<mymrshan> // %!systems<l
 method myanmar-tai-laing is aliased-by<mymrtlng> { %!systems<mymrtlng> // %!systems<latn> }
 
 #| Symbols for the Native numbering system (native)
-method native is aliased-by<native> { %!systems<native> // %!systems<latn> }
+method native { %!systems<native> // %!systems<latn> }
 
 #| Symbols for the Newa numbering system (newa)
-method newa is aliased-by<newa> { %!systems<newa> // %!systems<latn> }
+method newa { %!systems<newa> // %!systems<latn> }
 
 #| Symbols for the N'Ko numbering system (nkoo)
 method nko is aliased-by<nkoo> { %!systems<nkoo> // %!systems<latn> }
@@ -230,7 +230,7 @@ method osmanya is aliased-by<osma> { %!systems<osma> // %!systems<latn> }
 method hanifi-rohingya is aliased-by<rohg> { %!systems<rohg> // %!systems<latn> }
 
 #| Symbols for the Roman upper case numbering system (roman)
-method roman is aliased-by<roman> { %!systems<roman> // %!systems<latn> }
+method roman { %!systems<roman> // %!systems<latn> }
 
 #| Symbols for the Roman lowercase numbering system (romanlow)
 method roman-lc is aliased-by<romanlow> { %!systems<romanlow> // %!systems<latn> }
@@ -239,7 +239,7 @@ method roman-lc is aliased-by<romanlow> { %!systems<romanlow> // %!systems<latn>
 method saurashtra is aliased-by<saur> { %!systems<saur> // %!systems<latn> }
 
 #| Symbols for the Legacy computing segmented numbering system (segment)
-method segmented is aliased-by<segment> { %!systems<segment> // %!systems<latn> }
+method segmented { %!systems<segment> // %!systems<latn> }
 
 #| Symbols for the Sharada numbering system (shrd)
 method sharada is aliased-by<shrd> { %!systems<shrd> // %!systems<latn> }
@@ -272,7 +272,7 @@ method tamil-decimal is aliased-by<tamldec> { %!systems<tamldec> // %!systems<la
 method telugu is aliased-by<telu> { %!systems<telu> // %!systems<latn> }
 
 #| Symbols for the Thai numbering system (thai)
-method thai is aliased-by<thai> { %!systems<thai> // %!systems<latn> }
+method thai { %!systems<thai> // %!systems<latn> }
 
 #| Symbols for the Tirhuta numbering system (tirh)
 method tirhuta is aliased-by<tirh> { %!systems<tirh> // %!systems<latn> }

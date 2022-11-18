@@ -5,8 +5,8 @@ unit class CLDR::Database;
 
 has CLDR::Languages  $.languages      = CLDR::Languages.new;  #= Per-language data
 has CLDR::Supplement $!supplement;                            #= Language agnostic data (often region-based)
-has Version          $.cldr-version   = v39;                  #= CLDR data release (new major version annually)
-has Version          $.module-version = v0.6.0;               #= Module version (follows semantic versioning)
+has Version          $.cldr-version   = v42;                  #= CLDR data release (new major version annually)
+has Version          $.module-version = v0.7.2;               #= Module version (follows semantic versioning)
 
 #| Language agnostic data (often region-based)
 method supplement is aliased-by<supplemental> {

@@ -1,5 +1,3 @@
-use Intl::CLDR::Immutability;
-
 unit class CLDR::CompoundUnits;
     use Intl::CLDR::Core;
     also does CLDR::Item;

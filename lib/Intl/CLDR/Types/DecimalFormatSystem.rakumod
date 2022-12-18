@@ -1,5 +1,3 @@
-use Intl::CLDR::Immutability;
-
 unit class CLDR::DecimalFormatSystem;
     use Intl::CLDR::Core;
     also does CLDR::Item;

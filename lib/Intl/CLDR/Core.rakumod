@@ -27,7 +27,7 @@ role CLDR::Item
         die "Not yet implemented.  But this generally doesn't make sense for most items.";
     }
 
-    multi method gist(NotBasic:D:) { [~] '[yy', self.^name, ': ', self.keys.join(','), ']' }
+    multi method gist(NotBasic:D:) { [~] '[', self.^name, ': ', self.keys.join(','), ']' }
     multi method gist(CLDR::Item:U:) { [~] '(', self.^name,                            ')' }
 
     multi method AT-KEY(NotBasic:D: $key) { self."$key"() }

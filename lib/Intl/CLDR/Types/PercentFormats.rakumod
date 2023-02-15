@@ -187,7 +187,7 @@ method math-sans is aliased-by<mathsans> { %!systems<mathsans> // %!systems<latn
 method malayalam is aliased-by<mlym> { %!systems<mlym> // %!systems<latn> }
 
 #| Percent formats for the Modi numbering system (modi)
-method modi is aliased-by<modi> { %!systems<modi> // %!systems<latn> }
+method modi { %!systems<modi> // %!systems<latn> }
 
 #| Percent formats for the Mongolian numbering system (mong)
 method mongolian is aliased-by<mong> { %!systems<mong> // %!systems<latn> }
@@ -208,10 +208,10 @@ method myanmar-shan is aliased-by<mymrshan> { %!systems<mymrshan> // %!systems<l
 method myanmar-tai-laing is aliased-by<mymrtlng> { %!systems<mymrtlng> // %!systems<latn> }
 
 #| Percent formats for the Native numbering system (native)
-method native is aliased-by<native> { %!systems<native> // %!systems<latn> }
+method native { %!systems<native> // %!systems<latn> }
 
 #| Percent formats for the Newa numbering system (newa)
-method newa is aliased-by<newa> { %!systems<newa> // %!systems<latn> }
+method newa { %!systems<newa> // %!systems<latn> }
 
 #| Percent formats for the N'Ko numbering system (nkoo)
 method nko is aliased-by<nkoo> { %!systems<nkoo> // %!systems<latn> }
@@ -229,7 +229,7 @@ method osmanya is aliased-by<osma> { %!systems<osma> // %!systems<latn> }
 method hanifi-rohingya is aliased-by<rohg> { %!systems<rohg> // %!systems<latn> }
 
 #| Percent formats for the Roman upper case numbering system (roman)
-method roman is aliased-by<roman> { %!systems<roman> // %!systems<latn> }
+method roman { %!systems<roman> // %!systems<latn> }
 
 #| Percent formats for the Roman lowercase numbering system (romanlow)
 method roman-lc is aliased-by<romanlow> { %!systems<romanlow> // %!systems<latn> }
@@ -271,7 +271,7 @@ method tamil-decimal is aliased-by<tamldec> { %!systems<tamldec> // %!systems<la
 method telugu is aliased-by<telu> { %!systems<telu> // %!systems<latn> }
 
 #| Percent formats for the Thai numbering system (thai)
-method thai is aliased-by<thai> { %!systems<thai> // %!systems<latn> }
+method thai { %!systems<thai> // %!systems<latn> }
 
 #| Percent formats for the Tirhuta numbering system (tirh)
 method tirhuta is aliased-by<tirh> { %!systems<tirh> // %!systems<latn> }

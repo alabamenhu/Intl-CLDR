@@ -1,11 +1,10 @@
-# TODO: Complete aliasing of number formats
 unit class CLDR::PercentFormats;
     use Intl::CLDR::Core;
     also does CLDR::Item;
 
 use Intl::CLDR::Types::PercentFormatSystem;
 
-has CLDR::PercentFormatSystem %!systems;
+has CLDR::PercentFormatSystem %!systems is built;
 
 # The number systems here come from commons/bcp47/number.xml
 # You can autogenerate some of this by using the following regex on the file:
@@ -17,19 +16,15 @@ has CLDR::PercentFormatSystem %!systems;
 # Latn, that is maintained in the encoding process.
 
 #| Creates a new CLDR-PercentFormats object
-method new(|c --> ::?CLASS) {
-    self.bless!add-items: |c;
-}
-
-submethod !add-items(\blob, uint64 $offset is rw --> ::?CLASS) {
+method new(\blob, uint64 $offset is rw --> ::?CLASS) {
     use Intl::CLDR::Util::StrDecode;
-
     my $system-count = blob[$offset++];
+    my CLDR::PercentFormatSystem %systems;
 
-    %!systems{StrDecode::get(blob, $offset)} := CLDR::PercentFormatSystem.new(blob, $offset)
+    %systems{StrDecode::get(blob, $offset)} := CLDR::PercentFormatSystem.new(blob, $offset)
         for ^$system-count;
 
-    self
+    self.bless: :%systems
 }
 
 #| Percent formats for the Adlam numbering system (adlm)
@@ -39,354 +34,263 @@ method adlam is aliased-by<adlm> { %!systems<adlm> // %!systems<latn> }
 method ahom { %!systems<ahom> // %!systems<latn> }
 
 #| Percent formats for the Arabic-Indic numbering system (arab)
-method arabic { %!systems<arab> // %!systems<latn> }
+method arabic is aliased-by<arab> { %!systems<arab> // %!systems<latn> }
 
 #| Percent formats for the Extended Arabic-Indic numbering system (arabext)
-method arabic-extended { %!systems<arabext> // %!systems<latn> }
+method arabic-extended is aliased-by<arabext> { %!systems<arabext> // %!systems<latn> }
 
 #| Percent formats for the Armenian upper case numbering system (armn)
-method armenian { %!systems<armn> // %!systems<latn> }
+method armenian is aliased-by<armn> { %!systems<armn> // %!systems<latn> }
 
 #| Percent formats for the Armenian lower case numbering system (armnlow)
-method armenian-lc { %!systems<armnlow> // %!systems<latn> }
+method armenian-lc is aliased-by<armnlow> { %!systems<armnlow> // %!systems<latn> }
 
 #| Percent formats for the Balinese numbering system (bali)
-method balinese { %!systems<bali> // %!systems<latn> }
+method balinese is aliased-by<bali> { %!systems<bali> // %!systems<latn> }
 
 #| Percent formats for the Bengali numbering system (beng)
-method bengali { %!systems<beng> // %!systems<latn> }
+method bengali is aliased-by<beng> { %!systems<beng> // %!systems<latn> }
 
 #| Percent formats for the Bhaiksuki numbering system (bhks)
-method bhaiksuki { %!systems<bhks> // %!systems<latn> }
+method bhaiksuki is aliased-by<bhks> { %!systems<bhks> // %!systems<latn> }
 
 #| Percent formats for the Brahmi numbering system (brah)
-method brahmi { %!systems<brah> // %!systems<latn> }
+method brahmi is aliased-by<brah> { %!systems<brah> // %!systems<latn> }
 
 #| Percent formats for the Chakma numbering system (cakm)
-method chakma { %!systems<cakm> // %!systems<latn> }
+method chakma is aliased-by<cakm> { %!systems<cakm> // %!systems<latn> }
 
 #| Percent formats for the Cham numbering system (cham)
 method cham { %!systems<cham> // %!systems<latn> }
 
 #| Percent formats for the Cyrillic numbering system (cyrl)
-method cyrillic { %!systems<cyrl> // %!systems<latn> }
+method cyrillic is aliased-by<cyrl> { %!systems<cyrl> // %!systems<latn> }
 
 #| Percent formats for the Devanagari numbering system (deva)
-method devanagari { %!systems<deva> // %!systems<latn> }
+method devanagari is aliased-by<deva> { %!systems<deva> // %!systems<latn> }
 
 #| Percent formats for the Dives Akuru numbering system (diak)
-method dives-akuru { %!systems<diak> // %!systems<latn> }
+method dives-akuru is aliased-by<diak> { %!systems<diak> // %!systems<latn> }
 
 #| Percent formats for the Ethiopic numbering system (ethi)
-method ethiopic { %!systems<ethi> // %!systems<latn> }
+method ethiopic is aliased-by<ethi> { %!systems<ethi> // %!systems<latn> }
 
 #| Percent formats for the Financial numbering system (finance)
-method financial { %!systems<finance> // %!systems<latn> }
+method financial is aliased-by<finance> { %!systems<finance> // %!systems<latn> }
 
 #| Percent formats for the Full width numbering system (fullwide)
-method full-width { %!systems<fullwide> // %!systems<latn> }
+method full-width is aliased-by<fullwide> { %!systems<fullwide> // %!systems<latn> }
 
 #| Percent formats for the Georgian numbering system (geor)
-method georgian { %!systems<geor> // %!systems<latn> }
+method georgian is aliased-by<geor> { %!systems<geor> // %!systems<latn> }
 
 #| Percent formats for the Gunjala Gondi numbering system (gong)
-method gunjala-gondi { %!systems<gong> // %!systems<latn> }
+method gunjala-gondi is aliased-by<gong> { %!systems<gong> // %!systems<latn> }
 
 #| Percent formats for the Masaram Gondi numbering system (gonm)
-method masaram-gondi { %!systems<gonm> // %!systems<latn> }
+method masaram-gondi is aliased-by<gonm> { %!systems<gonm> // %!systems<latn> }
 
 #| Percent formats for the Greek upper case numbering system (grek)
-method greek { %!systems<grek> // %!systems<latn> }
+method greek is aliased-by<grek> { %!systems<grek> // %!systems<latn> }
 
 #| Percent formats for the Greek lower case numbering system (greklow)
-method greek-lc { %!systems<greklow> // %!systems<latn> }
+method greek-lc is aliased-by<greklow> { %!systems<greklow> // %!systems<latn> }
 
 #| Percent formats for the Gujarati numbering system (gujr)
-method gujarati { %!systems<gujr> // %!systems<latn> }
+method gujarati is aliased-by<gujr> { %!systems<gujr> // %!systems<latn> }
 
 #| Percent formats for the Gurmukhi numbering system (guru)
-method gurmukhi { %!systems<guru> // %!systems<latn> }
+method gurmukhi is aliased-by<guru> { %!systems<guru> // %!systems<latn> }
 
 #| Percent formats for the Han-character day-of-month numbering for traditional calendars (hanidays)
-method han-days { %!systems<hanidays> // %!systems<latn> }
+method han-days is aliased-by<hanidays> { %!systems<hanidays> // %!systems<latn> }
 
 #| Percent formats for the Positional decimal system using Chinese number ideographs (hanidec))
-method han-decimal { %!systems<hanidec> // %!systems<latn> }
+method han-decimal is aliased-by<hanidec> { %!systems<hanidec> // %!systems<latn> }
 
 #| Percent formats for the Simplified Chinese numbering system (hans)
-method han-simplified { %!systems<hans> // %!systems<latn> }
+method han-simplified is aliased-by<hans> { %!systems<hans> // %!systems<latn> }
 
 #| Percent formats for the Simplified Chinese financial numbering system (hansfin)
-method han-simplified-financial { %!systems<hansfin> // %!systems<latn> }
+method han-simplified-financial is aliased-by<hansfin> { %!systems<hansfin> // %!systems<latn> }
 
 #| Percent formats for the Traditional Chinese numbering system (hant)
-method han-traditional { %!systems<hant> // %!systems<latn> }
+method han-traditional is aliased-by<hant> { %!systems<hant> // %!systems<latn> }
 
 #| Percent formats for the Traditional Chinese financial numbering system (hantfin)
-method han-traditional-financial { %!systems<hantfin> // %!systems<latn> }
+method han-traditional-financial is aliased-by<hantfin> { %!systems<hantfin> // %!systems<latn> }
 
 #| Percent formats for the Hebrew numbering system (hebr)
-method hebrew { %!systems<hebr> // %!systems<latn> }
+method hebrew is aliased-by<hebr> { %!systems<hebr> // %!systems<latn> }
 
 #| Percent formats for the Pahawh Hmong numbering system (hmng)
-method pahawh-hmong { %!systems<hmng> // %!systems<latn> }
+method pahawh-hmong is aliased-by<hmng> { %!systems<hmng> // %!systems<latn> }
 
 #| Percent formats for the Nyiakeng Puachue Hmong numbering system (hmnp)
-method nyiakeng-puachue-hmong { %!systems<hmnp> // %!systems<latn> }
+method nyiakeng-puachue-hmong is aliased-by<hmnp> { %!systems<hmnp> // %!systems<latn> }
 
 #| Percent formats for the Javanese numbering system (java)
-method javanese { %!systems<java> // %!systems<latn> }
+method javanese is aliased-by<java> { %!systems<java> // %!systems<latn> }
 
 #| Percent formats for the Japanese numbering system (jpan)
-method japanese { %!systems<jpan> // %!systems<latn> }
+method japanese is aliased-by<jpan> { %!systems<jpan> // %!systems<latn> }
 
 #| Percent formats for the Japanese financial numbering system (jpanfin)
-method japanese-financial { %!systems<jpanfin> // %!systems<latn> }
+method japanese-financial is aliased-by<jpanfin> { %!systems<jpanfin> // %!systems<latn> }
 
 #| Percent formats for the Japanese first-year Gannen numbering for Japanese calendar (jpanyear)
-method japanese-year { %!systems<jpanyear> // %!systems<latn> }
+method japanese-year is aliased-by<jpanyear> { %!systems<jpanyear> // %!systems<latn> }
 
 #| Percent formats for the Kayah Li numbering system (kali)
-method kayah-li { %!systems<kali> // %!systems<latn> }
+method kayah-li is aliased-by<kali> { %!systems<kali> // %!systems<latn> }
 
 #| Percent formats for the Khmer numbering system (khmr)
-method khmer { %!systems<khmr> // %!systems<latn> }
+method khmer is aliased-by<khmr> { %!systems<khmr> // %!systems<latn> }
 
 #| Percent formats for the Kannada numbering system (knda)
-method kannada { %!systems<knda> // %!systems<latn> }
+method kannada is aliased-by<knda> { %!systems<knda> // %!systems<latn> }
 
 #| Percent formats for the Tai Tham Hora (secular) numbering system (lana)
-method lanna-hora { %!systems<secular> // %!systems<latn> }
+method lanna-hora is aliased-by<lana> { %!systems<lana> // %!systems<latn> }
 
 #| Percent formats for the Tai Tham Tham (ecclesiastical) numbering system (lanatham)
-method lanna-tham { %!systems<ecclesiastical> // %!systems<latn> }
+method lanna-tham is aliased-by<lanatham> { %!systems<lanatham> // %!systems<latn> }
 
 #| Percent formats for the Lao numbering system (laoo)
-method lao { %!systems<laoo> // %!systems<latn> }
+method lao is aliased-by<laoo> { %!systems<laoo> // %!systems<latn> }
 
 #| Percent formats for the Latin numbering system (latn)
-method latin { %!systems<latn> }
+method latin is aliased-by<latn> { %!systems<latn> }
 
 #| Percent formats for the Lepcha numbering system (lepc)
-method lepcha { %!systems<lepc> // %!systems<latn> }
+method lepcha is aliased-by<lepc> { %!systems<lepc> // %!systems<latn> }
 
 #| Percent formats for the Limbu numbering system (limb)
-method limbu { %!systems<limb> // %!systems<latn> }
+method limbu is aliased-by<limb> { %!systems<limb> // %!systems<latn> }
 
 #| Percent formats for the Mathematical bold numbering system (mathbold)
-method math-bold { %!systems<mathbold> // %!systems<latn> }
+method math-bold is aliased-by<mathbold> { %!systems<mathbold> // %!systems<latn> }
 
 #| Percent formats for the Mathematical double-struck numbering system (mathdbl)
-method math-double { %!systems<mathdbl> // %!systems<latn> }
+method math-double is aliased-by<mathdbl> { %!systems<mathdbl> // %!systems<latn> }
 
 #| Percent formats for the Mathematical monospace numbering system (mathmono)
-method math-mono { %!systems<mathmono> // %!systems<latn> }
+method math-mono is aliased-by<mathmono> { %!systems<mathmono> // %!systems<latn> }
 
 #| Percent formats for the Mathematical sans-serif bold numbering system (mathsanb)
-method math-sans-bold { %!systems<mathsanb> // %!systems<latn> }
+method math-sans-bold is aliased-by<mathsanb> { %!systems<mathsanb> // %!systems<latn> }
 
 #| Percent formats for the Mathematical sans-serif numbering system (mathsans)
-method math-sans { %!systems<mathsans> // %!systems<latn> }
+method math-sans is aliased-by<mathsans> { %!systems<mathsans> // %!systems<latn> }
 
 #| Percent formats for the Malayalam numbering system (mlym)
-method malayalam { %!systems<mlym> // %!systems<latn> }
+method malayalam is aliased-by<mlym> { %!systems<mlym> // %!systems<latn> }
 
 #| Percent formats for the Modi numbering system (modi)
-method modi { %!systems<modi> // %!systems<latn> }
+method modi is aliased-by<modi> { %!systems<modi> // %!systems<latn> }
 
 #| Percent formats for the Mongolian numbering system (mong)
-method mongolian { %!systems<mong> // %!systems<latn> }
+method mongolian is aliased-by<mong> { %!systems<mong> // %!systems<latn> }
 
 #| Percent formats for the Mro numbering system (mroo)
-method mro { %!systems<mroo> // %!systems<latn> }
+method mro is aliased-by<mroo> { %!systems<mroo> // %!systems<latn> }
 
 #| Percent formats for the Meetei Mayek numbering system (mtei)
-method meetei-mayek { %!systems<mtei> // %!systems<latn> }
+method meetei-mayek is aliased-by<mtei> { %!systems<mtei> // %!systems<latn> }
 
 #| Percent formats for the Myanmar numbering system (mymr)
-method myanmar { %!systems<mymr> // %!systems<latn> }
+method myanmar is aliased-by<mymr> { %!systems<mymr> // %!systems<latn> }
 
 #| Percent formats for the Myanmar Shan numbering system (mymrshan)
-method myanmar-shan { %!systems<mymrshan> // %!systems<latn> }
+method myanmar-shan is aliased-by<mymrshan> { %!systems<mymrshan> // %!systems<latn> }
 
 #| Percent formats for the Myanmar Tai Laing numbering system (mymrtlng)
-method myanmar-tai-laing { %!systems<mymrtlng> // %!systems<latn> }
+method myanmar-tai-laing is aliased-by<mymrtlng> { %!systems<mymrtlng> // %!systems<latn> }
 
 #| Percent formats for the Native numbering system (native)
-method native { %!systems<native> // %!systems<latn> }
+method native is aliased-by<native> { %!systems<native> // %!systems<latn> }
 
 #| Percent formats for the Newa numbering system (newa)
-method newa { %!systems<newa> // %!systems<latn> }
+method newa is aliased-by<newa> { %!systems<newa> // %!systems<latn> }
 
 #| Percent formats for the N'Ko numbering system (nkoo)
-method nko { %!systems<nkoo> // %!systems<latn> }
+method nko is aliased-by<nkoo> { %!systems<nkoo> // %!systems<latn> }
 
 #| Percent formats for the Ol Chiki numbering system (olck)
-method ol-chiki { %!systems<olck> // %!systems<latn> }
+method ol-chiki is aliased-by<olck> { %!systems<olck> // %!systems<latn> }
 
 #| Percent formats for the Oriya numbering system (orya)
-method oriya { %!systems<orya> // %!systems<latn> }
+method oriya is aliased-by<orya> { %!systems<orya> // %!systems<latn> }
 
 #| Percent formats for the Osmanya numbering system (osma)
-method osmanya { %!systems<osma> // %!systems<latn> }
+method osmanya is aliased-by<osma> { %!systems<osma> // %!systems<latn> }
 
 #| Percent formats for the Hanifi Rohingya numbering system (rohg)
-method hanifi-rohingya { %!systems<rohg> // %!systems<latn> }
+method hanifi-rohingya is aliased-by<rohg> { %!systems<rohg> // %!systems<latn> }
 
 #| Percent formats for the Roman upper case numbering system (roman)
-method roman { %!systems<roman> // %!systems<latn> }
+method roman is aliased-by<roman> { %!systems<roman> // %!systems<latn> }
 
 #| Percent formats for the Roman lowercase numbering system (romanlow)
-method roman-lc { %!systems<romanlow> // %!systems<latn> }
+method roman-lc is aliased-by<romanlow> { %!systems<romanlow> // %!systems<latn> }
 
 #| Percent formats for the Saurashtra numbering system (saur)
-method saurashtra { %!systems<saur> // %!systems<latn> }
+method saurashtra is aliased-by<saur> { %!systems<saur> // %!systems<latn> }
 
 #| Percent formats for the Legacy computing segmented numbering system (segment)
-method segmented { %!systems<segment> // %!systems<latn> }
+method segmented is aliased-by<segment> { %!systems<segment> // %!systems<latn> }
 
 #| Percent formats for the Sharada numbering system (shrd)
-method sharada { %!systems<shrd> // %!systems<latn> }
+method sharada is aliased-by<shrd> { %!systems<shrd> // %!systems<latn> }
 
 #| Percent formats for the Khudawadi numbering system (sind)
-method khudawadi { %!systems<sind> // %!systems<latn> }
+method khudawadi is aliased-by<sind> { %!systems<sind> // %!systems<latn> }
 
 #| Percent formats for the Sinhala Lith numbering system (sinh)
-method sinhala { %!systems<sinh> // %!systems<latn> }
+method sinhala is aliased-by<sinh> { %!systems<sinh> // %!systems<latn> }
 
 #| Percent formats for the Sora_Sompeng numbering system (sora)
-method sora-sompeng { %!systems<sora> // %!systems<latn> }
+method sora-sompeng is aliased-by<sora> { %!systems<sora> // %!systems<latn> }
 
 #| Percent formats for the Sundanese numbering system (sund)
-method sundanese { %!systems<sund> // %!systems<latn> }
+method sundanese is aliased-by<sund> { %!systems<sund> // %!systems<latn> }
 
 #| Percent formats for the Takri numbering system (takr)
-method takri { %!systems<takr> // %!systems<latn> }
+method takri is aliased-by<takr> { %!systems<takr> // %!systems<latn> }
 
 #| Percent formats for the New Tai Lue numbering system (talu)
-method new-tai-lue { %!systems<talu> // %!systems<latn> }
+method new-tai-lue is aliased-by<talu> { %!systems<talu> // %!systems<latn> }
 
 #| Percent formats for the Tamil numbering system (taml)
-method tamil { %!systems<taml> // %!systems<latn> }
+method tamil is aliased-by<taml> { %!systems<taml> // %!systems<latn> }
 
 #| Percent formats for the Modern Tamil decimal numbering system (tamldec)
-method tamil-decimal { %!systems<tamldec> // %!systems<latn> }
+method tamil-decimal is aliased-by<tamldec> { %!systems<tamldec> // %!systems<latn> }
 
 #| Percent formats for the Telugu numbering system (telu)
-method telugu { %!systems<telu> // %!systems<latn> }
+method telugu is aliased-by<telu> { %!systems<telu> // %!systems<latn> }
 
 #| Percent formats for the Thai numbering system (thai)
-method thai { %!systems<thai> // %!systems<latn> }
+method thai is aliased-by<thai> { %!systems<thai> // %!systems<latn> }
 
 #| Percent formats for the Tirhuta numbering system (tirh)
-method tirhuta { %!systems<tirh> // %!systems<latn> }
+method tirhuta is aliased-by<tirh> { %!systems<tirh> // %!systems<latn> }
 
 #| Percent formats for the Tibetan numbering system (tibt)
-method tibetan { %!systems<tibt> // %!systems<latn> }
+method tibetan is aliased-by<tibt> { %!systems<tibt> // %!systems<latn> }
 
 #| Percent formats for the Traditional numbering system (traditio)
-method traditional { %!systems<traditio> // %!systems<latn> }
+method traditional is aliased-by<traditio> { %!systems<traditio> // %!systems<latn> }
 
 #| Percent formats for the Vai numbering system (vaii)
-method vai { %!systems<vaii> // %!systems<latn> }
+method vai is aliased-by<vaii> { %!systems<vaii> // %!systems<latn> }
 
 #| Percent formats for the Warang Citi numbering system (wara)
-method warang-citi { %!systems<wara> // %!systems<latn> }
+method warang-citi is aliased-by<wara> { %!systems<wara> // %!systems<latn> }
 
 #| Percent formats for the Wancho numbering system (wcho)
-method wancho { %!systems<wcho> // %!systems<latn> }
+method wancho is aliased-by<wcho> { %!systems<wcho> // %!systems<latn> }
 
-
-
-constant detour = Map.new: (
-adlm =>            'adlam',
-arab =>            'arabic',
-arabext =>         'arabic-extended',
-armn =>            'armenian',
-armnlow =>         'armenian-lc',
-bali =>            'balinese',
-beng =>            'bengali',
-bhks =>            'bhaiksuki',
-brah =>            'brahmi',
-cakm =>            'chakma',
-cham =>            'cham',
-cyrl =>            'cyrillic',
-deva =>            'devanagari',
-diak =>            'dives-akuru',
-ethi =>            'ethiopic',
-finance =>         'financial',
-fullwide =>        'full-width',
-geor =>            'georgian',
-gong =>            'gunjala-gondi',
-gonm =>            'masaram-gondi',
-grek =>            'greek',
-greklow =>         'greek-lc',
-gujr =>            'gujarati',
-guru =>            'gurmukhi',
-hanidays =>        'han-days',
-hanidec =>         'han-decimal',
-hans =>            'han-simplified',
-hansfin =>         'han-simplified-financial',
-hant =>            'han-traditional',
-hantfin =>         'han-traditional-financial',
-hebr =>            'hebrew',
-hmng =>            'pahawh-hmong',
-hmnp =>            'nyiakeng-puachue-hmong',
-java =>            'javanese',
-jpan =>            'japanese',
-jpanfin =>         'japanese-financial',
-jpanyear =>        'japanese-year',
-kali =>            'kayah-li',
-khmr =>            'khmer',
-knda =>            'kannada',
-lana =>            'lanna-hora',
-lanatham =>        'lanna-tham',
-laoo =>            'lao',
-latn =>            'latin',
-lepc =>            'lepcha',
-limb =>            'limbu',
-mathbold =>        'math-bold',
-mathdbl =>         'math-double',
-mathmono =>        'math-mono',
-mathsanb =>        'math-sans-bold',
-mathsans =>        'math-sans',
-mlym =>            'malayalam',
-modi =>            'modi',
-mong =>            'mongolian',
-mroo =>            'mro',
-mtei =>            'meetei-mayek',
-mymr =>            'myanmar',
-mymrshan  => 'myanmar-shan',
-mymrtlng  => 'myanmar-tai-laing',
-nkoo      => 'nko',
-olck      => 'ol-chiki',
-orya      => 'oriya',
-osma      => 'osmanya',
-rohg      => 'hanifi-rohingya',
-romanlow  => 'roman-lc',
-saur      => 'saurashtra',
-segment   => 'segmented',
-shrd      => 'sharada',
-sind      => 'khudawadi',
-sinh      => 'sinhala',
-sora      => 'sora-sompeng',
-sund      => 'sundanese',
-takr      => 'takri',
-talu      => 'new-tai-lue',
-taml      => 'tamil',
-tamldec   => 'tamil-decimal',
-telu      => 'telugu',
-thai      => 'thai',
-tirh      => 'tirhuta',
-tibt      => 'tibetan',
-traditio  => 'traditional',
-vaii      => 'vai',
-wara      => 'warang-citi',
-wcho      => 'wancho',
-);
-method DETOUR(-->detour) {;}
-sub rsay ($text) { say "\x001b[31m$text\x001b[0m" }
-sub rwsay ($texta, $textb) { say "\x001b[31m$texta\x001b[0m  $textb" }
 
 #`<<<<<# GENERATOR: Use toggle-generators.raku to [dis|en]able this code.
 method encode(%*formats) {

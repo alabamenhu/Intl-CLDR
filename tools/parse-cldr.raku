@@ -1,5 +1,5 @@
 use lib BEGIN $?FILE.IO.parent(2).add('lib').resolve;
-use XML;
+use XML:ver<0.3.4+>;
 use MONKEY-SEE-NO-EVAL;
 use Data::Dump::Tree;
 use Terminal::ANSIColor;
